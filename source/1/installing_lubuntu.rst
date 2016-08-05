@@ -1,0 +1,10 @@
+Chapter 1: Installing Lubuntu
+==============================
+
+This chapter will show you how to install Lubuntu on your system.
+
+.. toctree::
+   :maxdepth: 2
+   :titlesonly:
+
+   1.1/retrieving_the_image

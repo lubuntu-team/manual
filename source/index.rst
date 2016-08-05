@@ -17,6 +17,8 @@ Contents
    :maxdepth: 2
    :titlesonly:
 
+   1/installing_lubuntu
+
 Thank you!
 ==========
 

@@ -13,6 +13,7 @@ Before starting, you need a few tools.
  - The following packages from your Linux distribution's repository:
   - `git`
   - `python3-sphinx`
+  - `texlive-full`
  - The following packages from PyPI:
   - `sphinx_debootstrap_theme`
 

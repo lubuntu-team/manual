@@ -36,8 +36,17 @@ This is the original 32-bit architecture that will work best on computers with v
 
 PowerPC
 -------
+PowerPC is for older Macintosh hardware from before 2006 and IBM OpenPower systems. While we don't release PowerPC
+for non-LTS releases (like 16.10), you can download a 16.04 image if you wish and upgrade it.
 
-PowerPC is for older Macintosh hardware from before 2006 and IBM OpenPower systems.
 
+Ways to download the image
+---------------------------
+Now that the decision of which image type and architecture is done, you will need to download the image.
 
-Now that the decision of which image type and archetecture is done you will need to download the image and check to make sure it is accurate.
+There are several ways to download the Lubuntu image:
+ - HTTP download (from your web browser or terminal)
+ - BitTorrent (from a BitTorrent client such as Transmission)
+ - zsync (from the terminal, recommended)
+
+You can also download the image via Jigdo but we will not cover that in this manual.

@@ -4,7 +4,7 @@ This is the Lubuntu Manual source code. The concept was derived from [the Kubunt
 
 ## How it works
 
-The documentation is powered by [Sphinx](http://www.sphinx-doc.org/en/stable/).
+The documentation is powered by [Sphinx](http://www.sphinx-doc.org/en/stable/) and is written in reStructuredText.
 
 Run the following command to install the needed dependencies:
 

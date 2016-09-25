@@ -1,7 +1,7 @@
 | State                 | Chapter     |
 | --------------------- | ----------- |
-| :construction_worker: | 1.1         |
-| :red_circle:          | 1.2         |
+| :white_check_mark:    | 1.1         |
+| :construction_worker: | 1.2         |
 | :red_circle:          | 1.3         |
 | :red_circle:          | 2.1         |
 | :red_circle:          | 2.2         |

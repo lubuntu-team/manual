@@ -54,7 +54,7 @@ serverbuild:
 	rm -rf ../webroot/pl/
 	mv ../webroot/pl.tmp/ ../webroot/pl/
 
-	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) ../webroot/en/
+	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) ../webroot/en.tmp/
 	rm -rf ../webroot/en/
 	mv ../webroot/en.tmp/ ../webroot/en/
 

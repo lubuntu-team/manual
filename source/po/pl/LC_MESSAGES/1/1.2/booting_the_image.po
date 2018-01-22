@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Polish (lubuntu-manual)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-22 20:45+0000\n"
+"PO-Revision-Date: 2017-01-22 20:47+0000\n"
+"Last-Translator: Marcin Mikołajczak <me@m4sk.in>\n"
+"Language-Team: Polish <http://weblate.m4sk.in/projects/lubuntu-manual/index/pl/>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 2.18\n"
+
+#: ../../source/1/1.2/booting_the_image.rst:2
+msgid "Chapter 1.2: Booting the image"
+msgstr "Rozdział I.2: Uruchamianie obrazu"
+
+#: ../../source/1/1.2/booting_the_image.rst:4
+msgid ""
+"Now that you have the ISO file, you need to put the image on media of some "
+"sort and boot the image for installation."
+msgstr ""
+"Ponieważ masz już plik ISO, musisz umieścić go na jakimś nośniku i uruchomić "
+"instalację z tego obrazu."
+
+#: ../../source/1/1.2/booting_the_image.rst:6
+msgid ""
+"**This requires additional research on your own, as this varies depending on "
+"your hardware.**"
+msgstr ""
+"**Musisz znaleźć pewne informacje samodzielnie, ponieważ proces różni się w "
+"zależności od posiadanego sprzętu.**"
+
+#: ../../source/1/1.2/booting_the_image.rst:9
+msgid "Choosing the media"
+msgstr "Wybór nośnika"
+
+#: ../../source/1/1.2/booting_the_image.rst:10
+msgid ""
+"In order to boot the image, you need to put it somewhere. You have three "
+"choices, depending on which image you downloaded:"
+msgstr ""
+"Aby uruchomić obraz, musisz go umieścić na jakimś nośniku. Masz trzy "
+"możliwości, w zależności od wybranego obrazu:"
+
+#: ../../source/1/1.2/booting_the_image.rst:17,
+#: ../../source/1/1.2/booting_the_image.rst:42
+msgid "."
+msgstr "."
+
+#: ../../source/1/1.2/booting_the_image.rst:14
+msgid "a CD (**only works with the alternate images**)"
+msgstr "płyta CD (**tylko obrazy Alternate**)"
+
+#: ../../source/1/1.2/booting_the_image.rst:15
+msgid "a DVD"
+msgstr "płyta DVD"
+
+#: ../../source/1/1.2/booting_the_image.rst:16
+msgid "a 1 GB (or greater) USB drive"
+msgstr "dysk USB o rozmiarze 1 GB (lub większym)"
+
+#: ../../source/1/1.2/booting_the_image.rst:20
+msgid "Writing/burning the image"
+msgstr "Zapisywanie/wypalanie obrazu"
+
+#: ../../source/1/1.2/booting_the_image.rst:24
+msgid "Here are some common tools to burn images onto CDs/DVDs:"
+msgstr "Kilka popularnych narzędzi do wypalania obrazów na płyty CD/DVD:"
+
+#: ../../source/1/1.2/booting_the_image.rst:22
+msgid "`Brasero <https://wiki.gnome.org/Apps/Brasero/>`_"
+msgstr "`Brasero <https://wiki.gnome.org/Apps/Brasero/>`_"
+
+#: ../../source/1/1.2/booting_the_image.rst:23
+msgid "Windows Disc Image Burner"
+msgstr "Narzędzie nagrywania obrazu dysku Windows"
+
+#: ../../source/1/1.2/booting_the_image.rst:24
+msgid "Infra Recorder"
+msgstr "InfraRecorder"
+
+#: ../../source/1/1.2/booting_the_image.rst:26
+msgid ""
+"Unfortunately, burning images to CDs or DVDs is beyond the scope of this "
+"manual. The Ubuntu website has several guides on this topic, and we "
+"recommend you read them if you plan on doing this."
+msgstr ""
+"Niestety, wypalanie płyt CD i DVD nie zostanie opisane w tym podręczniku. "
+"Strona Ubuntu zawiera kilka poradników na ten temat, polecamy je przeczytać, "
+"jeśli potrzbujesz."
+
+#: ../../source/1/1.2/booting_the_image.rst:32
+msgid "Guides from the Ubuntu website:"
+msgstr "Poradniki ze strony Ubuntu:"
+
+#: ../../source/1/1.2/booting_the_image.rst:30
+msgid ""
+"`How to burn a DVD on Ubuntu <http://www.ubuntu.com/download/desktop/burn-a"
+"-dvd-on-ubuntu>`_"
+msgstr ""
+"`Jak wypalić płytę DVD na Ubuntu "
+"<http://www.ubuntu.com/download/desktop/burn-a-dvd-on-ubuntu>`_"
+
+#: ../../source/1/1.2/booting_the_image.rst:31
+msgid ""
+"`How to burn a DVD on Windows <http://www.ubuntu.com/download/desktop/burn-a"
+"-dvd-on-windows>`_"
+msgstr ""
+"`Jak wypalić płytę DVD na systemie Windows "
+"<http://www.ubuntu.com/download/desktop/burn-a-dvd-on-windows>`_"
+
+#: ../../source/1/1.2/booting_the_image.rst:32
+msgid ""
+"`How to burn a DVD on OS X <http://www.ubuntu.com/download/desktop/burn-a"
+"-dvd-on-mac-osx>`_"
+msgstr ""
+"`Jak wypalić płytę DVD na macOS "
+"<http://www.ubuntu.com/download/desktop/burn-a-dvd-on-mac-osx>`_"
+
+#: ../../source/1/1.2/booting_the_image.rst:34
+msgid ""
+"For writing images to USB drives on Linux, we recommend `mkusb "
+"<https://help.ubuntu.com/community/mkusb>`_, a tool developed by a Lubuntu "
+"team member."
+msgstr ""
+"Do zapisywania obrazów na dyski USB z Linuksa, polecamy narzędzie `mkusb "
+"<https://help.ubuntu.com/community/mkusb>`_ utworzone przez członka zespołu "
+"Lubuntu."
+
+#: ../../source/1/1.2/booting_the_image.rst:36
+msgid ""
+"Writing images to USB drives from Mac OS X or Windows is beyond the scope of "
+"this book, but the Ubuntu website also has several guides on this:"
+msgstr ""
+"Zapisywanie obrazów na dysk USB z poziomu macOS i Windowsa nie zostało "
+"opisane w tym podręczniku, ale strona Ubuntu ma kilka poradników na ten "
+"temat:"
+
+#: ../../source/1/1.2/booting_the_image.rst:40
+msgid ""
+"`How to create a bootable USB stick on Windows "
+"<http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows>`_"
+msgstr ""
+"`Jak utworzyć dysk startowy USB na systemie Windows "
+"<http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows>`_"
+
+#: ../../source/1/1.2/booting_the_image.rst:41
+msgid ""
+"`How to create a bootable USB stick on OS X "
+"<http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-mac-osx>`_"
+msgstr ""
+"`Jak utworzyć dysk startowy USB z systemu macOS "
+"<http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-mac-osx>`_"
+
+#: ../../source/1/1.2/booting_the_image.rst:45
+msgid "Booting the image"
+msgstr "Uruchamianie obrazu"
+
+#: ../../source/1/1.2/booting_the_image.rst:46
+msgid ""
+"With your media inserted, reboot your computer. Depending on your hardware "
+"configuration, it may boot into the image right away, or you might need to "
+"press a key at startup for boot options. This varies."
+msgstr ""
+"Po umieszczeniu nośnika instalacyjnego, uruchom ponownie komputer. W "
+"zależności od konfiguracji sprzętowej, obraz może uruchomić się od razu, "
+"możesz jednak potrzebować nacisnąć odpowiedni przycisk, aby pojawiły się "
+"opcje uruchamiania. To zależy."
+
+#: ../../source/1/1.2/booting_the_image.rst:49
+msgid "**You have now booted the image. Please continue to Chapter 1.3.**"
+msgstr "**Po uruchomieniu obrazu możesz przejść do rozdziału I.3.**"

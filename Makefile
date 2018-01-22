@@ -50,7 +50,7 @@ help:
 serverbuild:
 	# These translations are added manually when they get to the point
 	# where they're decent. Only add them there when that's the case!
-	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) -D language="pl" source ../webroot/pl.tmp/
+	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) -D language="pl" ../webroot/pl.tmp/
 	rm -rf ../webroot/pl/
 	mv ../webroot/pl.tmp/ ../webroot/pl/
 

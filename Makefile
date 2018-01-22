@@ -44,6 +44,20 @@ help:
 	@echo "  coverage   to run coverage check of the documentation (if enabled)"
 	@echo "  dummy      to check syntax errors of document sources"
 
+# Note, this is the build command that's executed via cron on the server
+# serving manual.lubuntu.me. Be careful!
+.PHONY: serverbuild
+serverbuild:
+	# These translations are added manually when they get to the point
+	# where they're decent. Only add them there when that's the case!
+	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) -D language="pl" source ../webroot/pl.tmp/
+	rm -rf ../webroot/pl/
+	mv ../webroot/pl.tmp/ ../webroot/pl/
+
+	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) ../webroot/en/
+	rm -rf ../webroot/en/
+	mv ../webroot/en.tmp/ ../webroot/en/
+
 .PHONY: clean
 clean:
 	rm -rf $(BUILDDIR)/*

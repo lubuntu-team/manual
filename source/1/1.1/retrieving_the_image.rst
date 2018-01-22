@@ -49,7 +49,7 @@ Now that the decision of which image type and architecture is done, you will nee
 
 There are several ways to download the Lubuntu image:
  - HTTP download (from your web browser or terminal)
- - BitTorrent (from a BitTorrent client such as Transmission, recommended for Windows and Mac OS X users)
+ - BitTorrent (from a BitTorrent client such as Transmission, recommended for Windows and macOS users)
  - zsync (from the terminal, recommended for Linux users)
 
 You can also download the image via Jigdo but we will not cover that in this manual.
@@ -77,7 +77,7 @@ instead of just one. This is often faster and saves the bandwidth of the Ubuntu 
 learn more about BitTorrent, read `the Wikipedia page on the subject <https://en.wikipedia.org/wiki/BitTorrent>`_.
 
 In order to torrent the file, you need a BitTorrent client. We recommend `Transmission <https://transmissionbt.com/>`_, an Open Source BitTorrent
-client. Since Transmission only provides clients for Linux and Mac OS X, we recommend `uTorrent <http://www.utorrent.com/>`_ for Windows users.
+client. Since Transmission only provides clients for Linux and macOS, we recommend `uTorrent <http://www.utorrent.com/>`_ for Windows users.
 
 You first need to download the seed files. They are available on the `Ubuntu cdimage server <http://cdimage.ubuntu.com/lubuntu/releases/16.10/release/>`_, or you can use the direct
 links provided below.

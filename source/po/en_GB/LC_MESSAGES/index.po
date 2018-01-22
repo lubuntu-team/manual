@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, Lubuntu Team
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 16.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-21 21:16-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../source/index.rst:2
+msgid "Welcome to the Lubuntu Manual!"
+msgstr ""
+
+#: ../../source/index.rst:4
+msgid ""
+"Welcome to the Lubuntu manual! This is the official reference book for "
+"using the Lubuntu operating system. This manual covers many topics, such "
+"as installation instructions, applications Lubuntu provides, and much "
+"more!"
+msgstr ""
+
+#: ../../source/index.rst:7
+msgid "What's Lubuntu?"
+msgstr ""
+
+#: ../../source/index.rst:9
+msgid ""
+"The objective of the Lubuntu project is to create a variant of Ubuntu "
+"that is lighter, less resource hungry and more energy-efficient by using "
+"lightweight applications and LXDE, The Lightweight X11 Desktop "
+"Environment, as its default GUI."
+msgstr ""
+
+#: ../../source/index.rst:11
+msgid ""
+"Lubuntu is targeted at PC and laptop users running on low-spec hardware "
+"that, in most cases, just don't have enough resources for all the bells "
+"and whistles of the \"full-featured\" mainstream distributions. Members "
+"of the team take care of LXDE and other packages that are part of "
+"Lubuntu. Lubuntu received official recognition as a formal member of the "
+"Ubuntu family, commencing with Lubuntu 11.10. Even though Lubuntu is a "
+"lightweight distribution, it does not mean you will not be able to run "
+"all applications that other distributions are currently offering. It does"
+" mean that it is prepared and developed for low-specification computers. "
+"Nonetheless, you can run any application available in the official "
+"repositories, as long as your hardware can bear with it."
+msgstr ""
+
+#: ../../source/index.rst:14
+msgid "Contents"
+msgstr ""
+
+#: ../../source/index.rst:23
+msgid "Thank you!"
+msgstr ""
+
+#: ../../source/index.rst:25
+msgid ""
+"Thank you for choosing to use Lubuntu, and we hope that you have a good "
+"experience!"
+msgstr ""
+
+#: ../../source/index.rst
+msgid "Authors"
+msgstr ""
+
+#: ../../source/index.rst:27
+msgid "Simon Quigley, Brendan Perrine"
+msgstr ""
+

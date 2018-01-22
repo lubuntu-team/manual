@@ -343,7 +343,7 @@ epub_copyright = copyright
 # The language of the text. It defaults to the language option
 # or 'en' if the language is not set.
 #
-# epub_language = ''
+epub_language = "en"
 
 # The scheme of the identifier. Typical schemes are ISBN or URL.
 # epub_scheme = ''
@@ -376,7 +376,7 @@ epub_copyright = copyright
 # epub_post_files = []
 
 # A list of files that should not be packed into the epub file.
-epub_exclude_files = ['search.html']
+epub_exclude_files = ["search.html"]
 
 # The depth of the table of contents in toc.ncx.
 #
@@ -405,3 +405,7 @@ epub_exclude_files = ['search.html']
 # If false, no index is generated.
 #
 # epub_use_index = True
+
+locale_dirs = ['po/']
+gettext_compact = False
+language = "en"

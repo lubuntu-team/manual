@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-23 20:35+0100\n"
-"PO-Revision-Date: 2018-01-23 20:48+0100\n"
+"PO-Revision-Date: 2018-01-23 21:45+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -35,6 +35,11 @@ msgid ""
 "lightweight text editor that can be used for development despite its "
 "lightness."
 msgstr ""
+"Leafpad jest prostym edytorem tekstowym opartym na GTK+ wyróżniającym "
+"się prostotą, podobnym do Gedit wchodzącego w skład Ubuntu. Jest prosty "
+"w użyciu, szybko uruchamia się, lecz posiada podstawowe funkcje, będąc "
+"idealnym lekkim edytorem tekstu, który może być używany chociażby do "
+"programowania."
 
 #: ../../source/3/3.3/3.3.4/leafpad.rst:17
 msgid "Currently Leafpad has the following features:"
@@ -42,11 +47,11 @@ msgstr "Obecnie Leafpad posiada następujące funkcje:"
 
 #: ../../source/3/3.3/3.3.4/leafpad.rst:10
 msgid "Codeset option (Some OpenI18N registered)"
-msgstr ""
+msgstr "Możliwość ustalania kodowania znaków (wraz z częścią OpenI18N)"
 
 #: ../../source/3/3.3/3.3.4/leafpad.rst:11
 msgid "Auto codeset detection (UTF-8 and some codesets)"
-msgstr ""
+msgstr "Automatyczne wykrywanie kodowania znaków (UTF-8 i inne kodowania)"
 
 #: ../../source/3/3.3/3.3.4/leafpad.rst:12
 msgid "Unlimitted Undo/Redo"
@@ -108,36 +113,36 @@ msgstr "Opcje pomocy:"
 
 #: ../../source/3/3.3/3.3.4/leafpad.rst:38
 msgid "Show help options"
-msgstr ""
+msgstr "Wyświetla opcje pomocy"
 
 #: ../../source/3/3.3/3.3.4/leafpad.rst:39
 msgid "Show all help options"
-msgstr ""
+msgstr "Wyświetla wszystkie opcje pomocy"
 
 #: ../../source/3/3.3/3.3.4/leafpad.rst:40
 msgid "Show GTK+ Options"
-msgstr ""
+msgstr "Wyświetla opcje biblioteki GTK+"
 
 #: ../../source/3/3.3/3.3.4/leafpad.rst:47
 msgid "Application Options:"
-msgstr ""
+msgstr "Opcje programu:"
 
 #: ../../source/3/3.3/3.3.4/leafpad.rst:43
 msgid "Set codeset to open file"
-msgstr ""
+msgstr "Ustala kodowanie otwieranego pliku"
 
 #: ../../source/3/3.3/3.3.4/leafpad.rst:44
 msgid "Set tab width"
-msgstr ""
+msgstr "Ustala szerokość tabulacji"
 
 #: ../../source/3/3.3/3.3.4/leafpad.rst:45
 msgid "Jump to specified line"
-msgstr ""
+msgstr "Przechodzi do określonego wiersza"
 
 #: ../../source/3/3.3/3.3.4/leafpad.rst:46
 msgid "Show version number"
-msgstr ""
+msgstr "Wyświetla wersję"
 
 #: ../../source/3/3.3/3.3.4/leafpad.rst:47
 msgid "X display to use"
-msgstr ""
+msgstr "Określa używany ekran X"

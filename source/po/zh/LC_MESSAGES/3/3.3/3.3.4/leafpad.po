@@ -1,0 +1,140 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-23 20:35+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:2
+msgid "Chapter 3.3.4: Leafpad"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:5
+msgid "Description"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:6
+msgid ""
+"Leafpad is a simple GTK+ text editor that emphasizes simplicity, similar "
+"to gEdit that ships with Ubuntu. It is simple to use and starts up "
+"quickly, while still containing essential features, being an ideal "
+"lightweight text editor that can be used for development despite its "
+"lightness."
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:17
+msgid "Currently Leafpad has the following features:"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:10
+msgid "Codeset option (Some OpenI18N registered)"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:11
+msgid "Auto codeset detection (UTF-8 and some codesets)"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:12
+msgid "Unlimitted Undo/Redo"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:13
+msgid "Auto/Multi-line Indent"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:14
+msgid "Display line numbers"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:15
+msgid "Drag and Drop"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:16
+msgid "Printing"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:20
+msgid "Usage/Screenshots"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:25
+msgid "Version"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:26
+msgid "Lubuntu currently ships with Leafpad v0.8.18."
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:29
+msgid "How to launch"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:30
+msgid ""
+"To open Leafpad with a blank document, simply enter `leafpad` in the "
+"terminal. You can also enter `leafpad [filename]` to open the file of "
+"your choice."
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:33
+msgid "For more advanced usage:"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:35
+msgid "`leafpad [OPTION…] [filename]`"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:40
+msgid "Help Options:"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:38
+msgid "Show help options"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:39
+msgid "Show all help options"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:40
+msgid "Show GTK+ Options"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:47
+msgid "Application Options:"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:43
+msgid "Set codeset to open file"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:44
+msgid "Set tab width"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:45
+msgid "Jump to specified line"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:46
+msgid "Show version number"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:47
+msgid "X display to use"
+msgstr ""
+

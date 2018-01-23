@@ -18,6 +18,7 @@ Contents
    :titlesonly:
 
    1/installing_lubuntu
+   3/applications
 
 Thank you!
 ==========

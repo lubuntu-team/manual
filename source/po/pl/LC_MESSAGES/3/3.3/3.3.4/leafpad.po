@@ -1,0 +1,148 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-23 20:35+0100\n"
+"PO-Revision-Date: 2018-01-23 21:45+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+"Last-Translator: Marcin Mikołajczak <me@m4sk.in>\n"
+"Language-Team: \n"
+"Language: pl\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:2
+msgid "Chapter 3.3.4: Leafpad"
+msgstr "Rozdział III.3.4: Leafpad"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:5
+msgid "Description"
+msgstr "Opis"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:6
+msgid ""
+"Leafpad is a simple GTK+ text editor that emphasizes simplicity, similar "
+"to gEdit that ships with Ubuntu. It is simple to use and starts up "
+"quickly, while still containing essential features, being an ideal "
+"lightweight text editor that can be used for development despite its "
+"lightness."
+msgstr ""
+"Leafpad jest prostym edytorem tekstowym opartym na GTK+ wyróżniającym "
+"się prostotą, podobnym do Gedit wchodzącego w skład Ubuntu. Jest prosty "
+"w użyciu, szybko uruchamia się, lecz posiada podstawowe funkcje, będąc "
+"idealnym lekkim edytorem tekstu, który może być używany chociażby do "
+"programowania."
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:17
+msgid "Currently Leafpad has the following features:"
+msgstr "Obecnie Leafpad posiada następujące funkcje:"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:10
+msgid "Codeset option (Some OpenI18N registered)"
+msgstr "Możliwość ustalania kodowania znaków (wraz z częścią OpenI18N)"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:11
+msgid "Auto codeset detection (UTF-8 and some codesets)"
+msgstr "Automatyczne wykrywanie kodowania znaków (UTF-8 i inne kodowania)"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:12
+msgid "Unlimitted Undo/Redo"
+msgstr "Nieograniczona liczba cofnięć i powtórzeń"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:13
+msgid "Auto/Multi-line Indent"
+msgstr "Automatyczne/wielowierszowe wcięcia"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:14
+msgid "Display line numbers"
+msgstr "Numerowanie wierszy"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:15
+msgid "Drag and Drop"
+msgstr "Przeciąganie i upuszczanie"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:16
+msgid "Printing"
+msgstr "Drukowanie"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:20
+msgid "Usage/Screenshots"
+msgstr "Użycie/Zrzuty ekranu"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:25
+msgid "Version"
+msgstr "Wersja"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:26
+msgid "Lubuntu currently ships with Leafpad v0.8.18."
+msgstr "Lubuntu obecnie zawiera Leafpad w wersji v0.8.18."
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:29
+msgid "How to launch"
+msgstr "Jak uruchomić"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:30
+msgid ""
+"To open Leafpad with a blank document, simply enter `leafpad` in the "
+"terminal. You can also enter `leafpad [filename]` to open the file of "
+"your choice."
+msgstr ""
+"Aby otworzyć Leafpad z pustym plikiem, po prostu wprowadź polecenie "
+"`leafpad` w terminalu. Możesz też wprowadzić `leafpad [nazwa_pliku]`, "
+"aby uruchomić określony plik."
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:33
+msgid "For more advanced usage:"
+msgstr "Bardziej zaawansowane użycie:"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:35
+msgid "`leafpad [OPTION…] [filename]`"
+msgstr "`leafpad [OPCJA…] [nazwa_pliku]`"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:40
+msgid "Help Options:"
+msgstr "Opcje pomocy:"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:38
+msgid "Show help options"
+msgstr "Wyświetla opcje pomocy"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:39
+msgid "Show all help options"
+msgstr "Wyświetla wszystkie opcje pomocy"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:40
+msgid "Show GTK+ Options"
+msgstr "Wyświetla opcje biblioteki GTK+"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:47
+msgid "Application Options:"
+msgstr "Opcje programu:"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:43
+msgid "Set codeset to open file"
+msgstr "Ustala kodowanie otwieranego pliku"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:44
+msgid "Set tab width"
+msgstr "Ustala szerokość tabulacji"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:45
+msgid "Jump to specified line"
+msgstr "Przechodzi do określonego wiersza"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:46
+msgid "Show version number"
+msgstr "Wyświetla wersję"
+
+#: ../../source/3/3.3/3.3.4/leafpad.rst:47
+msgid "X display to use"
+msgstr "Określa używany ekran X"

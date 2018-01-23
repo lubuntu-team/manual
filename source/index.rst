@@ -25,3 +25,4 @@ Thank you!
 Thank you for choosing to use Lubuntu, and we hope that you have a good experience!
 
 :Authors: Simon Quigley, Brendan Perrine
+:Translators: Marcin Mikołajczak

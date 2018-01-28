@@ -20,7 +20,7 @@ msgstr ""
 "X-Generator: Poedit 2.0.6\n"
 
 #: ../../source/3/3.3/accesories.rst:2
-msgid "Chapter 3.3: Accesories"
+msgid "Chapter 3.3: Accessories"
 msgstr "Rozdział III.4: Akcesoria"
 
 #: ../../source/3/3.3/accesories.rst:4

@@ -15,6 +15,7 @@
 | :red_circle:          | 3.2.2       |
 | :red_circle:          | 3.2.3       |
 | :red_circle:          | 3.2.4       |
+| :white_check_mark:    | 3.3         |
 | :white_check_mark:    | 3.3.1       |
 | :red_circle:          | 3.3.2       |
 | :red_circle:          | 3.3.3       |

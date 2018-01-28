@@ -33,7 +33,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Lubuntu Manual'
-copyright = u'2016-2018, Lubuntu Team'
+copyright = u'2016-2018, Lubuntu Team. This work is licensed under a Creative Commons Attribution 4.0 International License.'
 author = u'Lubuntu Team'
 
 # The version info for the project you're documenting, acts as replacement for

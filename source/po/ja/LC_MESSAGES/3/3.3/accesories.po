@@ -19,7 +19,7 @@ msgstr ""
 "Generated-By: Babel 2.5.3\n"
 
 #: ../../source/3/3.3/accesories.rst:2
-msgid "Chapter 3.3: Accesories"
+msgid "Chapter 3.3: Accessories"
 msgstr ""
 
 #: ../../source/3/3.3/accesories.rst:4

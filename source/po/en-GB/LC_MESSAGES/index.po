@@ -1,5 +1,6 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016, Lubuntu Team
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
 # This file is distributed under the same license as the Lubuntu Manual
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
@@ -7,7 +8,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Lubuntu Manual 16.10\n"
+"Project-Id-Version: Lubuntu Manual 18.04\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-30 21:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -84,47 +85,4 @@ msgstr ""
 #: ../../source/index.rst:29
 msgid "Marcin Mikołajczak"
 msgstr ""
-
-#~ msgid ""
-#~ "Welcome to the Lubuntu manual! This "
-#~ "is the official reference book for "
-#~ "using the Lubuntu operating system. This"
-#~ " manual covers many topics, such as"
-#~ " installation instructions, applications Lubuntu"
-#~ " provides, and much more!"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Lubuntu is targeted at PC and "
-#~ "laptop users running on low-spec "
-#~ "hardware that, in most cases, just "
-#~ "don't have enough resources for all "
-#~ "the bells and whistles of the "
-#~ "\"full-featured\" mainstream distributions. "
-#~ "Members of the team take care of"
-#~ " LXDE and other packages that are "
-#~ "part of Lubuntu. Lubuntu received "
-#~ "official recognition as a formal member"
-#~ " of the Ubuntu family, commencing "
-#~ "with Lubuntu 11.10. Even though Lubuntu"
-#~ " is a lightweight distribution, it "
-#~ "does not mean you will not be "
-#~ "able to run all applications that "
-#~ "other distributions are currently offering."
-#~ " It does mean that it is "
-#~ "prepared and developed for low-"
-#~ "specification computers. Nonetheless, you can"
-#~ " run any application available in the"
-#~ " official repositories, as long as "
-#~ "your hardware can bear with it."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Thank you for choosing to use "
-#~ "Lubuntu, and we hope that you have"
-#~ " a good experience!"
-#~ msgstr ""
-
-#~ msgid "Simon Quigley, Brendan Perrine"
-#~ msgstr ""
 

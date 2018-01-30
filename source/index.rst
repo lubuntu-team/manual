@@ -30,5 +30,5 @@ Thank you!
 
 Thank you for choosing to use Lubuntu!
 
-:Authors: Simon Quigley, Brendan Perrine, Jacob Kim
+:Authors: Simon Quigley, Brendan Perrine, Jacob Kim, Daniel Lim
 :Translators: Marcin Mikołajczak

@@ -1,5 +1,5 @@
 Chapter 3.1: Internet applications
-==============================
+==================================
 
 This chapter contains the list of Internet applications installed by default.
 

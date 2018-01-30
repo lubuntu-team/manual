@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Polish (lubuntu-manual)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-29 23:27+0100\n"
+"POT-Creation-Date: 2018-01-30 23:05+0100\n"
 "PO-Revision-Date: 2018-01-23 20:43+0100\n"
 "Last-Translator: Marcin Mikołajczak <me@m4sk.in>\n"
 "Language: pl\n"
@@ -24,9 +24,8 @@ msgstr "Witamy w podręczniku Lubuntu!"
 #, fuzzy
 msgid ""
 "Welcome to the Lubuntu Manual! This is the official reference book for "
-"using the Lubuntu operating system. This manual covers many topics, such "
-"as installation instructions, applications Lubuntu provides, and much "
-"more!"
+"using Lubuntu. This manual covers many topics, such as installation "
+"instructions, applications Lubuntu provides, and much more!"
 msgstr ""
 "Witamy w podręczniku Lubuntu! Jest to oficjalny przewodnik po systemie "
 "operacyjnym Lubuntu. Obejmuje on wiele tematów, takich jak instrukcja "
@@ -37,9 +36,10 @@ msgid "What's Lubuntu?"
 msgstr "Czym jest Lubuntu?"
 
 #: ../../source/index.rst:9
+#, fuzzy
 msgid ""
-"The objective of the Lubuntu project is to create a variant of Ubuntu "
-"that is lighter, less resource hungry and more energy-efficient by using "
+"The objective of the Lubuntu project is to create a flavor of Ubuntu that"
+" is lighter, less resource hungry, and more energy-efficient by using "
 "lightweight applications and LXDE, The Lightweight X11 Desktop "
 "Environment, as its default GUI."
 msgstr ""
@@ -53,14 +53,15 @@ msgid ""
 "Lubuntu is targeted at PC and laptop users running on low-spec hardware "
 "that, in most cases, just doesn't have enough resources for all the bells"
 " and whistles of the \"full-featured\" mainstream distributions. Members "
-"of the team take care of LXDE and other packages that are part of "
-"Lubuntu. Lubuntu received official recognition as a formal member of the "
-"Ubuntu family, commencing with Lubuntu 11.10. Even though Lubuntu is a "
-"lightweight distribution, it does not mean you will not be able to run "
-"all applications that other distributions are currently offering. It does"
-" mean that it is prepared and developed for low-specification computers. "
-"Nonetheless, you can run any application available in the official "
-"repositories, as long as your hardware can bear with it."
+"of the team take care of LXDE and other packages that are part of Lubuntu"
+" in the Ubuntu archive. Lubuntu received official recognition as a formal"
+" member of the Ubuntu family, beginning with Lubuntu 11.10. Even though "
+"Lubuntu is a lightweight distribution, it does not mean you will not be "
+"able to run all applications that other distributions are currently "
+"offering. It does mean that it is prepared and developed for low-"
+"specification computers. Nonetheless, you can run any application "
+"available in the official repositories, as long as your hardware can bear"
+" with it."
 msgstr ""
 "Lubuntu jest tworzone dla użytkowników komputerów osobistych i laptopów "
 "opartych na słabszym sprzęcie, który nie pozwala na korzystanie z "
@@ -78,10 +79,22 @@ msgid "Contents"
 msgstr "Zawartość"
 
 #: ../../source/index.rst:24
+msgid "Contact Us"
+msgstr ""
+
+#: ../../source/index.rst:26
+msgid ""
+"Do you have questions? Want to get involved? Take a look at our official "
+"website at `Lubuntu.me <https://lubuntu.me>`_ where you can find the "
+"Lubuntu blog, ways to get in contact with us, and our Phabricator "
+"instance where we do most of the Lubuntu development."
+msgstr ""
+
+#: ../../source/index.rst:29
 msgid "Thank you!"
 msgstr "Dziękujemy!"
 
-#: ../../source/index.rst:26
+#: ../../source/index.rst:31
 msgid "Thank you for choosing to use Lubuntu!"
 msgstr ""
 
@@ -89,7 +102,7 @@ msgstr ""
 msgid "Authors"
 msgstr "Autorzy"
 
-#: ../../source/index.rst:28
+#: ../../source/index.rst:33
 #, fuzzy
 msgid "Simon Quigley, Brendan Perrine, Jacob Kim"
 msgstr "Simon Quigley, Brendan Perrine"
@@ -98,7 +111,7 @@ msgstr "Simon Quigley, Brendan Perrine"
 msgid "Translators"
 msgstr "Tłumacze"
 
-#: ../../source/index.rst:29
+#: ../../source/index.rst:34
 msgid "Marcin Mikołajczak"
 msgstr "Marcin Mikołajczak"
 

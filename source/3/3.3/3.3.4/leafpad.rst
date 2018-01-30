@@ -26,4 +26,4 @@ When running from terminal, youcan also enter `leafpad [filename]` to open the f
 Usage
 -----
 
-Leafpad main window costists of text box and menu bar. The File menu allows to open, save, and print file or create blank document. Edit menu allows to perform basic operations like undoing, redoing, copying, pasting, and deleting. In the Search menu find and replace options are available. In Options, you can change font, enable word wrapping, line numbering, and automatic creating of indents.
+Leafpad main window consists of text box and menu bar. The File menu allows to open, save, and print file or create blank document. Edit menu allows to perform basic operations like undoing, redoing, copying, pasting, and deleting. In the Search menu find and replace options are available. In Options, you can change font, enable word wrapping, line numbering, and automatic creating of indents.

@@ -1,5 +1,6 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2016-2018, Lubuntu Team
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
 # This file is distributed under the same license as the Lubuntu Manual
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
@@ -9,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.04\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-23 20:35+0100\n"
+"POT-Creation-Date: 2018-01-30 21:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,11 +19,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.3\n"
 
-#: ../../source/3/3.3/accesories.rst:2
-msgid "Chapter 3.3: Accessories"
+#: ../../source/3/3.1/internet_applications.rst:2
+msgid "Chapter 3.1: Internet applications"
 msgstr ""
 
-#: ../../source/3/3.3/accesories.rst:4
-msgid "This chapter contains the list of accessories installed by default."
+#: ../../source/3/3.1/internet_applications.rst:4
+msgid ""
+"This chapter contains the list of Internet applications installed by "
+"default."
 msgstr ""
 

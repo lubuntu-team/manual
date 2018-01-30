@@ -1,48 +1,29 @@
 Chapter 3.3.4: Leafpad
-==============================
+======================
 
 Description
----------------
-Leafpad is a simple GTK+ text editor that emphasizes simplicity, similar to gEdit that ships with Ubuntu. 
+-----------
+Leafpad is a simple GTK+ text editor that emphasizes simplicity, similar to gedit that ships with Ubuntu. 
 It is simple to use and starts up quickly, while still containing essential features, being an ideal lightweight text editor that can be used for development despite its lightness.
 
-Currently Leafpad has the following features:
- - Codeset option (Some OpenI18N registered)
- - Auto codeset detection (UTF-8 and some codesets)
- - Unlimitted Undo/Redo
- - Auto/Multi-line Indent
- - Display line numbers
- - Drag and Drop
- - Printing
+Leafpad allows to perform basic text operations, including unlimited undo/redo and drag-and-drop. It automatically detects codeset, but you can also change it manually. It can create automatic indents and display line numbers, which is useful for programming. You can also print text from this app.
 
 
-Usage/Screenshots
-----------------------
+Screenshot
+----------
 .. image:: leafpad-screenshot.png
-   :width: 40%
+   :width: 100%
 
 Version
-----------
+-------
 Lubuntu currently ships with Leafpad v0.8.18.
 
 How to launch
-----------------
-To open Leafpad with a blank document, simply enter `leafpad` in the terminal.
-You can also enter `leafpad [filename]` to open the file of your choice.
+-------------
+To open Leafpad with a blank document, select Leafpad entry from Accessories category in Lubuntu Menu or enter `leafpad` in Run dialog (Alt+F2).
+When running from terminal, youcan also enter `leafpad [filename]` to open the file of your choice.
 
-For more advanced usage:
+Usage
+-----
 
-  `leafpad [OPTION…] [filename]`
-
-Help Options:
-  -h, --help               Show help options
-  --help-all               Show all help options
-  --help-gtk               Show GTK+ Options
-
-Application Options:
-  --codeset=CODESET        Set codeset to open file
-  --tab-width=WIDTH        Set tab width
-  --jump=LINENUM           Jump to specified line
-  --version                Show version number
-  --display=DISPLAY        X display to use
-
+Leafpad main window costists of text box and menu bar. The File menu allows to open, save, and print file or create blank document. Edit menu allows to perform basic operations like undoing, redoing, copying, pasting, and deleting. In the Search menu find and replace options are available. In Options, you can change font, enable word wrapping, line numbering, and automatic creating of indents.

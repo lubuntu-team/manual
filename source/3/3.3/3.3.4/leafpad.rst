@@ -21,7 +21,7 @@ Lubuntu currently ships with Leafpad v0.8.18.
 How to launch
 -------------
 To open Leafpad with a blank document, select Leafpad entry from Accessories category in Lubuntu Menu or enter `leafpad` in Run dialog (Alt+F2).
-When running from terminal, youcan also enter `leafpad [filename]` to open the file of your choice.
+When running from terminal, you can also enter `leafpad [filename]` to open the file of your choice.
 
 Usage
 -----

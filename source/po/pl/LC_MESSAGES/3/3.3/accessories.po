@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../source/3/3.3/accessories.rst:2
 msgid "Chapter 3.3: Accessories"
-msgstr "Akcesoria"
+msgstr "Rozdział III.3: Akcesoria"
 
 #: ../../source/3/3.3/accessories.rst:4
 msgid "This chapter contains the list of accessories installed by default."

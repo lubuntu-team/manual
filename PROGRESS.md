@@ -5,8 +5,8 @@
 | :construction_worker: | 1.3         |
 | :red_circle:          | 2.1         |
 | :red_circle:          | 2.2         |
-| :red_circle:          | 3.1         |
-| :red_circle:          | 3.1.1       |
+| :construction_worker: | 3.1         |
+| :white_check_mark:    | 3.1.1       |
 | :red_circle:          | 3.1.2       |
 | :red_circle:          | 3.1.3       |
 | :red_circle:          | 3.1.4       |
@@ -15,7 +15,8 @@
 | :red_circle:          | 3.2.2       |
 | :red_circle:          | 3.2.3       |
 | :red_circle:          | 3.2.4       |
-| :red_circle:          | 3.3.1       |
+| :white_check_mark:    | 3.3         |
+| :white_check_mark:    | 3.3.1       |
 | :red_circle:          | 3.3.2       |
 | :red_circle:          | 3.3.3       |
 | :red_circle:          | 3.3.4       |

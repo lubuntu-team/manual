@@ -1,4 +1,4 @@
-Chapter 3.3: Accesories
+Chapter 3.3: Accessories
 ==============================
 
 This chapter contains the list of accessories installed by default.

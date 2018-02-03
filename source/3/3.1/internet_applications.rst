@@ -13,3 +13,5 @@ This chapter contains the list of Internet applications installed by default.
    :titlesonly:
 
    3.1.1/firefox
+   3.1.2/pidgin
+   3.1.3/sylpheed

@@ -12,7 +12,12 @@ A really useful keyboard shortcut is control-f to search for symbols which can m
 
 Version
 -------
-Character Map currently ships with 
+Character Map currently ships with version 1.10.0
+
+How to Launch
+-------------
+
+To open Character Map in the main menu go to accessories and click on the icon that looks like a with a ~ over it. Or from the terminal run gucharmap.  
 
 
 

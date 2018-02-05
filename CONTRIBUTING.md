@@ -15,7 +15,7 @@ Before starting, you need a few tools.
   - `python3-sphinx`
   - `texlive-full`
  - The following packages from PyPI:
-  - `sphinx_debootstrap_theme`
+  - `sphinx_bootstrap_theme`
 
 ## Getting the code
 

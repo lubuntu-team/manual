@@ -1,23 +1,18 @@
-Chapter 3.3.8 Character Map 
+Chapter 3.3.8 Character Map
 ===========================
-
 
 Description
 -----------
-Character Map allows you to type symbols that normally you would not have a key for on your keyboard and say you want character from another language.
+Character Map allows you to type symbols that normally you may not have a key for on your keyboard (i.e. if you want to use a character from another language).
 
 Useage/Screenshots
 ------------------
-A really useful keyboard shortcut is control-f to search for symbols which can make finding the correct one much faster. 
+A really useful keyboard shortcut is Ctrl + F to search for symbols which can make finding the correct one much faster.
 
 Version
 -------
-Character Map currently ships with version 1.10.0
+Lubuntu currently ships with version 1.10.0.
 
 How to Launch
 -------------
-
-To open Character Map in the main menu go to accessories and click on the icon that looks like a with a ~ over it. Or from the terminal run gucharmap.  
-
-
-
+To open Character Map, in the main menu, go to Accessories and click on the icon that looks like A with a ~ over it. Or from the terminal, run gucharmap.

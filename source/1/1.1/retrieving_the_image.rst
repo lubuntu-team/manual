@@ -113,4 +113,3 @@ If you are running Arch (or a distribution based off of it), run the following c
 If you are running another distribution, you can find the source code `here <http://zsync.moria.org.uk/downloads>`_.
 
 **You have now downloaded the image successfully. Please continue to Chapter 1.2.**
-

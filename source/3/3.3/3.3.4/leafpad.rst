@@ -3,8 +3,8 @@ Chapter 3.3.4: Leafpad
 
 Description
 -----------
-Leafpad is a simple GTK+ text editor that emphasizes simplicity, similar to gedit that ships with Ubuntu. 
-It is simple to use and starts up quickly, while still containing essential features, being an ideal lightweight text editor that can be used for development despite its lightness.
+Leafpad is a simple GTK+ text editor that emphasizes simplicity, similar to gedit that ships with Ubuntu.
+It is simple to use and starts up quickly, while still containing essential features, being a decent, lightweight text editor that can be used for development despite its lightness.
 
 Leafpad allows to perform basic text operations, including unlimited undo/redo and drag-and-drop. It automatically detects codeset, but you can also change it manually. It can create automatic indents and display line numbers, which is useful for programming. You can also print text from this app.
 

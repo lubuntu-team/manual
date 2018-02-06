@@ -1,8 +1,8 @@
 Chapter 3.3.8: Character Map
-===========================
+============================
 
 Description
------------
+------------
 Character Map allows you to type symbols that normally you may not have a key for on your keyboard (i.e. if you want to use a character from another language).
 
 Usage/Screenshots

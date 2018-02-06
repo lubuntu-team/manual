@@ -5,9 +5,12 @@ Description
 -----------
 Character Map allows you to type symbols that normally you may not have a key for on your keyboard (i.e. if you want to use a character from another language).
 
-Useage/Screenshots
+Usage/Screenshots
 ------------------
 A really useful keyboard shortcut is Ctrl + F to search for symbols which can make finding the correct one much faster.
+
+.. image:: charactermap-screenshot.png
+         :width: 80%
 
 Version
 -------

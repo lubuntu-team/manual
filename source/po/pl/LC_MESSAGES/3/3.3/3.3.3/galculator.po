@@ -5,49 +5,55 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.04\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-06 00:09+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2018-02-06 15:52+0100\n"
+"PO-Revision-Date: 2018-02-06 15:52+0100\n"
+"Last-Translator: Marcin Mikołajczak <me@m4sk.in>\n"
+"Language: pl\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 1.3\n"
+"Generated-By: Babel 2.5.3\n"
+"X-Generator: Poedit 2.0.6\n"
 
 #: ../../source/3/3.3/3.3.3/galculator.rst:2
-msgid "Chapter 3.3.3 Galculator"
-msgstr ""
+msgid "Chapter 3.3.3: Galculator"
+msgstr "Rozdział III.3.3: Galculator"
 
 #: ../../source/3/3.3/3.3.3/galculator.rst:5
 msgid "Description"
-msgstr ""
+msgstr "Opis"
 
 #: ../../source/3/3.3/3.3.3/galculator.rst:6
 msgid ""
-"Galculator is a scientific calculator application. It has a basic mode, a"
-" scientific mode, and a paper mode."
+"Galculator is a scientific calculator application. It has a basic mode, "
+"a scientific mode, and a paper mode."
 msgstr ""
+"Galculator jest aplikacją kalkulatora naukowego. Posiada tryb "
+"podstawowy, naukowy i papierowy."
 
 #: ../../source/3/3.3/3.3.3/galculator.rst:9
-msgid "Useage and Screenshots"
-msgstr ""
+#, fuzzy
+msgid "Usage and Screenshots"
+msgstr "Użycie i zrzuty ekranu"
 
 #: ../../source/3/3.3/3.3.3/galculator.rst:12
 msgid "Version"
-msgstr ""
+msgstr "Wersja"
 
 #: ../../source/3/3.3/3.3.3/galculator.rst:13
-msgid "Lubuntu ships with version 2.1.4."
-msgstr ""
+msgid "Lubuntu ships Galculator with version 2.1.4."
+msgstr "Lubuntu obecnie zawiera Galculator w wersji 2.1.4."
 
 #: ../../source/3/3.3/3.3.3/galculator.rst:16
 msgid "How to launch"
-msgstr ""
+msgstr "Jak uruchomić"
 
 #: ../../source/3/3.3/3.3.3/galculator.rst:17
 msgid ""
@@ -55,4 +61,6 @@ msgid ""
 "like a calculator under Accessories; or, you can launch it by running "
 "galculator in the terminal."
 msgstr ""
-
+"Aby uruchomić Galculator, otwórz menu Lubuntu i naciśnij na ikonę "
+"przypominającą kalkulator w menu Akcesoria, lub wprowadź polecenie "
+"`galculator` w terminalu."

@@ -5,12 +5,12 @@ Description
 -----------
 Galculator is a scientific calculator application. It has a basic mode, a scientific mode, and a paper mode.
 
-Useage and Screenshots
+Usage and Screenshots
 ----------------------
 
 Version
 -------
-Lubuntu ships with version 2.1.4.
+Lubuntu ships Galculator with version 2.1.4.
 
 How to launch
 -------------

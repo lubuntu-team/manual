@@ -23,5 +23,5 @@ Lubuntu currently ships with Sylpheed 3.5.1.
 
 How to launch
 ----------------
-To open Sylpheed, click on the Sylpheed icon (mail icon  with a blue "s") in the Lubuntu Menu.
+To open Sylpheed, click on the Sylpheed icon (mail icon with a blue "s") in the Lubuntu Menu.
 You can also type and run `sylpheed` in the terminal to open it.

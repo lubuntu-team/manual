@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-06 15:36+0100\n"
+"PO-Revision-Date: 2018-02-06 15:59+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+"Last-Translator: Marcin Mikołajczak <me@m4sk.in>\n"
+"Language-Team: \n"
+"Language: pl\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: ../../source/3/3.3/3.3.6/xpad.rst:2
+msgid "Chapter 3.3.6: Xpad"
+msgstr "Rozdział III.3.6: Xpad"
+
+#: ../../source/3/3.3/3.3.6/xpad.rst:5
+msgid "Description"
+msgstr "Opis"
+
+#: ../../source/3/3.3/3.3.6/xpad.rst:6
+msgid ""
+"Xpad is an application for making notes on your desktop. It features "
+"clipboard interaction, basic styling, and other features that generally "
+"come with a notes system."
+msgstr ""
+"Xpad jest aplikacją pozwalającą na tworzenie notatek na pulpicie. "
+"Zawiera funkcje takie jak możliwość interakcji ze schowkiem, podstawowe "
+"formatowanie tekstu i inne funkcje typowe dla programu do notatek."
+
+#: ../../source/3/3.3/3.3.6/xpad.rst:9
+msgid "Screenshot"
+msgstr "Zrzut ekranu"
+
+#: ../../source/3/3.3/3.3.6/xpad.rst:14
+msgid "Version"
+msgstr "Wersja"
+
+#: ../../source/3/3.3/3.3.6/xpad.rst:15
+msgid "Lubuntu ships with version 5.0.0 of Xpad."
+msgstr "Lubuntu obecnie zawiera Xpad w wersji 5.0.0."
+
+#: ../../source/3/3.3/3.3.6/xpad.rst:18
+msgid "How to Launch"
+msgstr "Jak uruchomić"
+
+#: ../../source/3/3.3/3.3.6/xpad.rst:19
+msgid ""
+"To launch Xpad, go to the Main Menu, go to Accessories, then click the "
+"icon that looks like a yellow sticky note; or, you can run xpad from the "
+"terminal."
+msgstr ""
+"Aby uruchomić Xpad, wybierz Akcesoria w menu Lubuntu i naciśnij na ikonę "
+"przypominającą żółtą karteczkę samoprzylepną lub wykonaj polecenie "
+"`xpad` w terminalu."

@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.04\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-04 13:53+0100\n"
+"POT-Creation-Date: 2018-02-06 15:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,15 +19,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.3\n"
 
-#: ../../source/3/3.1/3.1.2/pigdin.rst:2
+#: ../../source/3/3.1/3.1.2/pidgin.rst:2
 msgid "Chapter 3.1.2: Pidgin"
 msgstr ""
 
-#: ../../source/3/3.1/3.1.2/pigdin.rst:5
+#: ../../source/3/3.1/3.1.2/pidgin.rst:5
 msgid "Description"
 msgstr ""
 
-#: ../../source/3/3.1/3.1.2/pigdin.rst:6
+#: ../../source/3/3.1/3.1.2/pidgin.rst:6
 msgid ""
 "Pidgin is a chat program which lets you log in to accounts on multiple "
 "chat networks simultaneously. For example, you can chat with friends on "
@@ -35,51 +35,51 @@ msgid ""
 " the same time."
 msgstr ""
 
-#: ../../source/3/3.1/3.1.2/pigdin.rst:15
+#: ../../source/3/3.1/3.1.2/pidgin.rst:15
 msgid "Pidgin has diverse features such as:"
 msgstr ""
 
-#: ../../source/3/3.1/3.1.2/pigdin.rst:10
+#: ../../source/3/3.1/3.1.2/pidgin.rst:10
 msgid "Allow connection to multiple chat networks simultaneously"
 msgstr ""
 
-#: ../../source/3/3.1/3.1.2/pigdin.rst:11
+#: ../../source/3/3.1/3.1.2/pidgin.rst:11
 msgid "File transfer"
 msgstr ""
 
-#: ../../source/3/3.1/3.1.2/pigdin.rst:12
+#: ../../source/3/3.1/3.1.2/pidgin.rst:12
 msgid "Away messages"
 msgstr ""
 
-#: ../../source/3/3.1/3.1.2/pigdin.rst:13
+#: ../../source/3/3.1/3.1.2/pidgin.rst:13
 msgid "Numerous plugins"
 msgstr ""
 
-#: ../../source/3/3.1/3.1.2/pigdin.rst:14
+#: ../../source/3/3.1/3.1.2/pidgin.rst:14
 msgid "System integration with GNOME 2, KDE 3, KDE 4, Windows"
 msgstr ""
 
-#: ../../source/3/3.1/3.1.2/pigdin.rst:15
+#: ../../source/3/3.1/3.1.2/pidgin.rst:15
 msgid "Translations"
 msgstr ""
 
-#: ../../source/3/3.1/3.1.2/pigdin.rst:18
+#: ../../source/3/3.1/3.1.2/pidgin.rst:18
 msgid "Usage/Screenshots"
 msgstr ""
 
-#: ../../source/3/3.1/3.1.2/pigdin.rst:23
+#: ../../source/3/3.1/3.1.2/pidgin.rst:23
 msgid "Version"
 msgstr ""
 
-#: ../../source/3/3.1/3.1.2/pigdin.rst:24
+#: ../../source/3/3.1/3.1.2/pidgin.rst:24
 msgid "Lubuntu currently ships with Pidgin 2.12.0."
 msgstr ""
 
-#: ../../source/3/3.1/3.1.2/pigdin.rst:27
+#: ../../source/3/3.1/3.1.2/pidgin.rst:27
 msgid "How to launch"
 msgstr ""
 
-#: ../../source/3/3.1/3.1.2/pigdin.rst:28
+#: ../../source/3/3.1/3.1.2/pidgin.rst:28
 msgid ""
 "To open Pidgin, click on the Pidgin icon (light purple face of a bird) in"
 " the Lubuntu Menu. You can also type and run `pidgin` in the terminal to "

@@ -20,7 +20,7 @@ Firefox has features of other web browsers and its own ones, such as:
 Usage/Screenshots
 ----------------------
 .. image:: firefox-screenshot.png
-   :width: 40%
+   :width: 80%
 
 Version
 ----------

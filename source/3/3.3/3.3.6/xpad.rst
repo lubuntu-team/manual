@@ -8,11 +8,11 @@ Xpad is an application for making notes on your desktop. It features clipboard i
 Screenshot
 ----------
 .. image:: xpad-screenshot.png
-      :width: 80%
+      :width: 40%
 
 Version
 -------
-Lubuntu ships with version 5.0.0 of xpad.
+Lubuntu ships with version 5.0.0 of Xpad.
 
 How to Launch
 -------------

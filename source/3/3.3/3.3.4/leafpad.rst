@@ -12,7 +12,7 @@ Leafpad allows to perform basic text operations, including unlimited undo/redo a
 Screenshot
 ----------
 .. image:: leafpad-screenshot.png
-   :width: 100%
+   :width: 80%
 
 Version
 -------

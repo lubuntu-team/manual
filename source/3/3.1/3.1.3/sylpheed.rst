@@ -15,7 +15,7 @@ Sylpheed has the following features, plus more:
 Usage/Screenshots
 ----------------------
 .. image:: sylpheed-screenshot.png
-   :width: 40%
+   :width: 80%
 
 Version
 ----------

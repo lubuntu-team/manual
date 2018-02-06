@@ -17,7 +17,7 @@ Pidgin has diverse features such as:
 Usage/Screenshots
 ----------------------
 .. image:: pidgin-screenshot.png
-   :width: 40%
+   :width: 80%
 
 Version
 ----------

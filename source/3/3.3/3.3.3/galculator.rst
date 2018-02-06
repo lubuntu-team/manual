@@ -1,4 +1,4 @@
-Chapter 3.3.3 Galculator
+Chapter 3.3.3: Galculator
 ========================
 
 Description

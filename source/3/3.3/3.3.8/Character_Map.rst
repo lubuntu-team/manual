@@ -1,4 +1,4 @@
-Chapter 3.3.8 Character Map
+Chapter 3.3.8: Character Map
 ===========================
 
 Description

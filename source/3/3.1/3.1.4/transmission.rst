@@ -19,7 +19,7 @@ Currently, Transmission has the following features:
 Usage/Screenshots
 ----------------------
 .. image:: transmission-screenshot.png
-   :width: 40%
+   :width: 80%
 
 Version
 ----------

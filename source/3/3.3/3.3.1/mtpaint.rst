@@ -1,4 +1,4 @@
-Chapter 3.3.4: mtPaint
+Chapter 3.3.1: mtPaint
 ======================
 
 Description
@@ -18,4 +18,6 @@ Lubuntu currently ships with mtPaint v3.4.0.
 
 How to launch
 -------------
-Go to the Applications Menu > Graphics > mtPaint graphic editor
+Go to the Applications Menu > Graphics > mtPaint graphic editor.
+
+mtpaint -s can be used to grab a screenshot and import it into mtpaint.

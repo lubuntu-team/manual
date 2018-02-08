@@ -8,6 +8,7 @@ This chapter contains the list of accessories installed by default.
    :titlesonly:
 
    3.3.1/mtpaint
+   3.3.2/pcmanfm
    3.3.3/galculator
    3.3.4/leafpad
    3.3.6/xpad

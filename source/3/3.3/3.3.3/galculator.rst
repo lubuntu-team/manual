@@ -5,8 +5,10 @@ Description
 -----------
 Galculator is a scientific calculator application. It has a basic mode, a scientific mode, and a paper mode.
 
-Usage and Screenshots
-----------------------
+Screenshot
+----------
+.. image:: gcalculator-screenshot.png
+   :width: 80%
 
 Version
 -------

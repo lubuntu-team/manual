@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-09 15:17+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: ../../source/3/3.3/3.3.1/mtpaint.rst:2
+msgid "Chapter 3.3.1: mtPaint"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.1/mtpaint.rst:5
+msgid "Description"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.1/mtpaint.rst:6
+msgid ""
+"mtPaint (Mark Tyler's Painting Program) is a painting program which Mark "
+"Tyler developed from scratch so he could easily create pixel art and "
+"manipulate digital photos."
+msgstr ""
+
+#: ../../source/3/3.3/3.3.1/mtpaint.rst:8
+msgid ""
+"It uses the GTK+ toolkit (version 1 or 2) and runs on PC's via the "
+"GNU/Linux or Windows operating systems. Due to its efficient design it "
+"can run on older PC hardware (e.g. a 200MHz CPU and 16MB of free RAM)."
+msgstr ""
+
+#: ../../source/3/3.3/3.3.1/mtpaint.rst:11
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.1/mtpaint.rst:16
+msgid "Version"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.1/mtpaint.rst:17
+msgid "Lubuntu currently ships with mtPaint v3.4.0."
+msgstr ""
+
+#: ../../source/3/3.3/3.3.1/mtpaint.rst:20
+msgid "How to launch"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.1/mtpaint.rst:21
+msgid "Go to the Applications Menu > Graphics > mtPaint graphic editor."
+msgstr ""
+
+#: ../../source/3/3.3/3.3.1/mtpaint.rst:23
+msgid "mtpaint -s can be used to grab a screenshot and import it into mtpaint."
+msgstr ""
+

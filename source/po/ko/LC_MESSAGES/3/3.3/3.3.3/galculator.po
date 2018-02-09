@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.04\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-02-06 15:52+0100\n"
+"POT-Creation-Date: 2018-02-09 15:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,22 +34,22 @@ msgid ""
 msgstr ""
 
 #: ../../source/3/3.3/3.3.3/galculator.rst:9
-msgid "Usage and Screenshots"
+msgid "Screenshot"
 msgstr ""
 
-#: ../../source/3/3.3/3.3.3/galculator.rst:12
+#: ../../source/3/3.3/3.3.3/galculator.rst:14
 msgid "Version"
 msgstr ""
 
-#: ../../source/3/3.3/3.3.3/galculator.rst:13
+#: ../../source/3/3.3/3.3.3/galculator.rst:15
 msgid "Lubuntu ships Galculator with version 2.1.4."
 msgstr ""
 
-#: ../../source/3/3.3/3.3.3/galculator.rst:16
+#: ../../source/3/3.3/3.3.3/galculator.rst:18
 msgid "How to launch"
 msgstr ""
 
-#: ../../source/3/3.3/3.3.3/galculator.rst:17
+#: ../../source/3/3.3/3.3.3/galculator.rst:19
 msgid ""
 "To launch Galculator, open the main menu and click the icon that looks "
 "like a calculator under Accessories; or, you can launch it by running "
@@ -63,5 +63,8 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "Lubuntu ships with version 2.1.4."
+#~ msgstr ""
+
+#~ msgid "Usage and Screenshots"
 #~ msgstr ""
 

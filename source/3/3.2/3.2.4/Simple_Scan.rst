@@ -6,7 +6,7 @@ Description
 Simple scan is an easy way to scan. It can scan pictures  to jpeg files. It can scan document to the pdf file format including mutliple page documents.
 Version
 -------
-Lubuntu ships with version 3.26.3
+Lubuntu ships with version 3.27.91 
 
 Useage
 ------

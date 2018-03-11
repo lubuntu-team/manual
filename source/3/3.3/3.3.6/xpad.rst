@@ -2,7 +2,7 @@ Chapter 3.3.6: Xpad
 ===================
 
 Description
-----------
+-----------
 Xpad is an application for making notes on your desktop. It features clipboard interaction, basic styling, and other features that generally come with a notes system.
 
 Screenshot

@@ -8,4 +8,5 @@ This chapter will show you the various applications that ship with Lubuntu.
    :titlesonly:
 
    3.1/internet_applications
+   3.2/office_applications
    3.3/accessories

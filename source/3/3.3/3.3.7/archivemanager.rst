@@ -1,8 +1,8 @@
 Chapter 3.3.7: Archive Manager
-============================
+==============================
 
 Description
-------------
+-----------
 Archive Manager (File-roller) for the GNOME environment.
 
 Currently, Archive Manager has the following features:
@@ -24,7 +24,7 @@ Currently, Archive Manager has the following features:
  - Xar archives (.xar) File-roller doesn't perform archive operations by itself, but relies on standard tools for this.
 
 Screenshots
-------------------
+-----------
 .. image:: archivemanager-screenshot.png
          :width: 80%
 

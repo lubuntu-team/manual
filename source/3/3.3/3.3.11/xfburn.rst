@@ -9,6 +9,11 @@ Version
 -------
 Lubuntu ships with version 0.5.5 of xfburn.
 
+Screenshot
+----------
+.. image::xfburn.png
+   :width: 80%
+
 How to launch
 -------------
 Go to the menu > Sound and video > xfburn. It also has an icon that looks like a cd disk.

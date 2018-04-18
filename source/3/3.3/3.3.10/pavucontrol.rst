@@ -10,6 +10,11 @@ Description
  you to redirect a playback stream to another output device without
  interrupting playback
 
+Screenshot
+----------
+.. image::
+   :width:80%
+ 
 Version
 -------
  Lubuntu ships with version 3.0-4
@@ -17,3 +22,4 @@ Version
 How to Launch
 -------------
 To launch pulse audio volume control in the bottom right of the panel there is an icon that looks like a speaker right click and on the menu click sound settings or run pavucontrol from the command line.  
+

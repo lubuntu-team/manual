@@ -9,10 +9,14 @@ Version
 -------
 Lubuntu ships with version 3.28
 
-Useage/screenshots
-------------------
+Useage
+------
 To scroll through multiple pages use either the scrollwheel on the mouse or on a touchpad. To go to a specific page in the document in the upper left corner next to the evince icon by default there is a box that says 1 of 6 to jump to that page.
 
+Screenshot
+----------
+  .. image:: document_viewer.png
+     :width: 80%
 
 How to Launch
 -------------

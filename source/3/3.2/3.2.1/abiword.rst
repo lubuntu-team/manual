@@ -9,17 +9,6 @@ Version
 -------
 Lubuntu ships with version 3.0.2
 
-3.2.1 Abiword
-=============
-
-Description
------------
-Abiword is a simple lightweight word processing program. 
-
-Version
--------
-Lubuntu ships with version 3.0.2
-
 Screenshot
 ----------
 .. image:: abiword.png

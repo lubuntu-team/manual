@@ -8,5 +8,6 @@ This Chapter includes the list of office applications included in Lubuntu by def
    :titlesonly:
 
    3.2.1/abiword
+   3.2.2/gnumeric
    3.2.3/document_viewer
    3.2.4/simple_scan

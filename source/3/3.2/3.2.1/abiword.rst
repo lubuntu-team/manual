@@ -13,6 +13,10 @@ Screenshot
 ----------
 .. image:: abiword.png
    :width: 80%
+<<<<<<< HEAD
+=======
+
+>>>>>>> eb44904c3fb6a917d77b28527c856bccd5241748
 
 Useage
 ------

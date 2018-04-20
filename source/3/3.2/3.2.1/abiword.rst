@@ -1,5 +1,5 @@
-3.2.1 Abiword
-=============
+Chapter 3.2.1 Abiword
+=====================
 
 Description
 -----------

@@ -1,5 +1,5 @@
-3.2.4 Simple Scan
-=================
+Chapter 3.2.4 Simple Scan
+=========================
 
 Description
 -----------

@@ -1,5 +1,5 @@
-3.2.3 Document_viewer
-=====================
+Chapter 3.2.3 Document_viewer
+=============================
 
 Description
 -----------

@@ -14,6 +14,7 @@ Screenshot
 .. image:: abiword.png
    :width: 80%
 
+
 Useage
 ------
 To use abiword you type your document into the the window. You can save your document by clicking the icon that looks like a disk with an icon pointing down on it on the toolbar. If you wish to open this document again after say you shutdown your computer click the button that looks like a folder and a dialog will pop up to find the document. You can check your spelling with the button that says abc with a green squiggly line underneath it. To print press the icon that uses a printer with a down arrow underneath it. 

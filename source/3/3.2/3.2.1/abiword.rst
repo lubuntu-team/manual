@@ -1,5 +1,5 @@
-3.2.1 Abiword
-=============
+Chapter 3.2.1 Abiword
+=====================
 
 Description
 -----------
@@ -14,10 +14,6 @@ Screenshot
 .. image:: abiword.png
    :width: 80%
 
-Screenshot
-----------
-.. image:: abiword.png
-   :width: 80%
 
 Useage
 ------

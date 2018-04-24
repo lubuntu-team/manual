@@ -16,3 +16,4 @@ This chapter contains the list of accessories installed by default.
    3.3.8/charactermap
    3.3.9/GNOME_mpv
    3.3.10/pavucontrol
+   3.3.11/xfburn

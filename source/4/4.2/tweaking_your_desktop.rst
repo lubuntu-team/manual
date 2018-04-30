@@ -8,3 +8,4 @@ This chapter contains the list of accessories installed by default.
    :titlesonly:
 
     4.2.1/openbox_configuration_manager
+    4.2.2/Customize_Look_and_Feel

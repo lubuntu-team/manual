@@ -7,5 +7,6 @@ This chapter contains the list of accessories installed by default.
    :maxdepth: 2
    :titlesonly:
 
-    4.2.1/openbox_configuration_manager
-    4.2.2/Customize_Look_and_Feel
+    4.2.1/openbox_configuration_manager.rst
+    4.2.2/Customize_Look_and_Feel.rst
+    4.2.3/Monitor_settings.rst

@@ -12,7 +12,7 @@ Description
 
 Screenshot
 ----------
-.. image::
+.. image:: pavucontrol.png
    :width:80%
  
 Version

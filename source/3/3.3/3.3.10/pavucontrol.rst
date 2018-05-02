@@ -12,8 +12,13 @@ Description
 
 Screenshot
 ----------
+<<<<<<< HEAD
+  .. image:: pavucontrol.png
+   :width: 80%
+=======
 .. image:: pavucontrol.png
    :width:80%
+>>>>>>> c7910a4c3c469a3d3f93b03984d3a65c755b0f28
  
 Version
 -------

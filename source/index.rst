@@ -19,6 +19,7 @@ Contents
 
    1/installing_lubuntu
    3/applications
+   4/System Configuration, Maintenance, and Administration
 
 Contact Us
 ==========

@@ -12,7 +12,7 @@ Monitor settings has for a multiple monitors and the ability to turn on and off 
 Screenshot
 ----------
  .. image:: Monitor_settings.png
-     :width:80%
+      :width:80%
 
 How to Launch
 -------------

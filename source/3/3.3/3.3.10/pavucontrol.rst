@@ -12,13 +12,8 @@ Description
 
 Screenshot
 ----------
-<<<<<<< HEAD
-  .. image:: pavucontrol.png
-   :width: 80%
-=======
 .. image:: pavucontrol.png
-   :width:80%
->>>>>>> c7910a4c3c469a3d3f93b03984d3a65c755b0f28
+         :width: 80%
  
 Version
 -------
@@ -27,4 +22,3 @@ Version
 How to Launch
 -------------
 To launch pulse audio volume control in the bottom right of the panel there is an icon that looks like a speaker right click and on the menu click sound settings or run pavucontrol from the command line.  
-

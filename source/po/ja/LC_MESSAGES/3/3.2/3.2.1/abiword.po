@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.04\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-11 15:41+0100\n"
+"POT-Creation-Date: 2018-05-10 20:04+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,35 +20,34 @@ msgstr ""
 "Generated-By: Babel 2.5.3\n"
 
 #: ../../source/3/3.2/3.2.1/abiword.rst:2
-#: ../../source/3/3.2/3.2.1/abiword.rst:13
-msgid "3.2.1 Abiword"
+msgid "Chapter 3.2.1 Abiword"
 msgstr ""
 
 #: ../../source/3/3.2/3.2.1/abiword.rst:5
-#: ../../source/3/3.2/3.2.1/abiword.rst:16
 msgid "Description"
 msgstr ""
 
 #: ../../source/3/3.2/3.2.1/abiword.rst:6
-#: ../../source/3/3.2/3.2.1/abiword.rst:17
 msgid "Abiword is a simple lightweight word processing program."
 msgstr ""
 
 #: ../../source/3/3.2/3.2.1/abiword.rst:9
-#: ../../source/3/3.2/3.2.1/abiword.rst:20
 msgid "Version"
 msgstr ""
 
 #: ../../source/3/3.2/3.2.1/abiword.rst:10
-#: ../../source/3/3.2/3.2.1/abiword.rst:21
 msgid "Lubuntu ships with version 3.0.2"
 msgstr ""
 
-#: ../../source/3/3.2/3.2.1/abiword.rst:24
+#: ../../source/3/3.2/3.2.1/abiword.rst:13
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.1/abiword.rst:18
 msgid "Useage"
 msgstr ""
 
-#: ../../source/3/3.2/3.2.1/abiword.rst:25
+#: ../../source/3/3.2/3.2.1/abiword.rst:19
 msgid ""
 "To use abiword you type your document into the the window. You can save "
 "your document by clicking the icon that looks like a disk with an icon "
@@ -60,14 +59,17 @@ msgid ""
 "down arrow underneath it."
 msgstr ""
 
-#: ../../source/3/3.2/3.2.1/abiword.rst:28
+#: ../../source/3/3.2/3.2.1/abiword.rst:22
 msgid "How to Launch"
 msgstr ""
 
-#: ../../source/3/3.2/3.2.1/abiword.rst:29
+#: ../../source/3/3.2/3.2.1/abiword.rst:23
 msgid ""
 "To launch abiword in the main menu under office click the icon that looks"
 " like a piece of paper and a pen with a blue stripe on the left hand "
 "side. Alternatively you can run abiword from the command line."
 msgstr ""
+
+#~ msgid "3.2.1 Abiword"
+#~ msgstr ""
 

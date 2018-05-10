@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.04\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-10 20:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: ../../source/3/3.2/3.2.3/document_viewer.rst:2
+msgid "Chapter 3.2.3 Document_viewer"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/document_viewer.rst:5
+msgid "Description"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/document_viewer.rst:6
+msgid ""
+"Document viewer opens .pdf files and postscript along with others. It "
+"allows you to copy text zoom in and out, use a table of contents and "
+"follow hyperlinks."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/document_viewer.rst:9
+msgid "Version"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/document_viewer.rst:10
+msgid "Lubuntu ships with version 3.28"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/document_viewer.rst:13
+msgid "Useage"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/document_viewer.rst:14
+msgid ""
+"To scroll through multiple pages use either the scrollwheel on the mouse "
+"or on a touchpad. To go to a specific page in the document in the upper "
+"left corner next to the evince icon by default there is a box that says 1"
+" of 6 to jump to that page."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/document_viewer.rst:17
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/document_viewer.rst:22
+msgid "How to Launch"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/document_viewer.rst:23
+msgid ""
+"Double clicking a .pdf file in a file manager will open that file in "
+"document viewer. You can in the main Lubuntu menu to graphics and then "
+"Document viewer or run evince from the command line."
+msgstr ""
+

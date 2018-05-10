@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.04\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-18 19:19+0100\n"
+"POT-Creation-Date: 2018-05-10 20:04+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -38,18 +38,22 @@ msgid ""
 msgstr ""
 
 #: ../../source/3/3.3/3.3.10/pavucontrol.rst:14
-msgid "Version"
-msgstr ""
-
-#: ../../source/3/3.3/3.3.10/pavucontrol.rst:15
-msgid "Lubuntu ships with version 3.0-4"
-msgstr ""
-
-#: ../../source/3/3.3/3.3.10/pavucontrol.rst:18
-msgid "How to Launch"
+msgid "Screenshot"
 msgstr ""
 
 #: ../../source/3/3.3/3.3.10/pavucontrol.rst:19
+msgid "Version"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.10/pavucontrol.rst:20
+msgid "Lubuntu ships with version 3.0-4"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.10/pavucontrol.rst:23
+msgid "How to Launch"
+msgstr ""
+
+#: ../../source/3/3.3/3.3.10/pavucontrol.rst:24
 msgid ""
 "To launch pulse audio volume control in the bottom right of the panel "
 "there is an icon that looks like a speaker right click and on the menu "

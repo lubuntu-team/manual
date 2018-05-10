@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.04\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-11 15:43+0100\n"
+"POT-Creation-Date: 2018-05-10 20:04+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Generated-By: Babel 2.5.3\n"
 
 #: ../../source/3/3.2/3.2.4/simple_scan.rst:2
-msgid "3.2.4 Simple Scan"
+msgid "Chapter 3.2.4 Simple Scan"
 msgstr ""
 
 #: ../../source/3/3.2/3.2.4/simple_scan.rst:5
@@ -50,10 +50,14 @@ msgid ""
 msgstr ""
 
 #: ../../source/3/3.2/3.2.4/simple_scan.rst:16
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.4/simple_scan.rst:22
 msgid "How to Launch"
 msgstr ""
 
-#: ../../source/3/3.2/3.2.4/simple_scan.rst:17
+#: ../../source/3/3.2/3.2.4/simple_scan.rst:23
 msgid ""
 "To launch Simple Scan in the main menu under graphics click on the icon "
 "that looks like a glass sheet with a piece of paper and a beam of light "
@@ -61,4 +65,7 @@ msgid ""
 "looking down. Alternatively you can run simple-scan from the command "
 "line."
 msgstr ""
+
+#~ msgid "3.2.4 Simple Scan"
+#~ msgstr ""
 

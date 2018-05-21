@@ -11,7 +11,7 @@ Screenshot is version 3.25
 
 Screenshot
 ----------
-.. image::
+.. image:: screenshot.png
    :width: 80%
 
 How to Launch

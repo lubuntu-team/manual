@@ -14,6 +14,7 @@ sudo apt install python3-pip python3-sphinx texlive-full && pip3 install sphinx_
 
 You can see the options for building the documentation by running `make help`.
 
+
 ## Contributing
 
 To contribute to the Lubuntu Manual, you can either create a pull request on GitHub, or send patch mail to [lubuntu-devel@lists.ubuntu.com](mailto:lubuntu-devel@lists.ubuntu.com) and prefix the subject with `[Lubuntu Manual Pull Request]`.
@@ -21,3 +22,8 @@ To contribute to the Lubuntu Manual, you can either create a pull request on Git
 ## License
 
 This work is licensed under a Creative Commons Attribution 4.0 International License. More details can be found here: http://creativecommons.org/licenses/by/4.0/
+
+## Legacy Branch 
+This branch is for the LXDE version which means it only applies to 18.04 and earlier of which Support of 16.04 and 18.04 are last supported versions. 
+
+

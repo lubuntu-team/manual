@@ -19,9 +19,9 @@ Contents
 
    1/Installing_lubuntu
    2/Applications
-   3/Sytem_tools_and_prefrences
-   4/Installing_updating_And_removing_software
-   5/Panel_desktop_and_runner
+   3/Sytem_Tools_and_Prefrences
+   4/Installing_Updating_And_Removing_Software
+   5/Panel_Desktop_and_Runner
 
 Contact Us
 ==========

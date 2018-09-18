@@ -74,8 +74,7 @@ git commit -a
 git commit -m "I changed x in foo and y in bar" foo bar
 ```
 
-To submit your code, either fork [Simon Quigley's mirror](https://github.com/tsimonq2/lubuntu-manual) and submit a pull
-request against that repository, or push to your Launchpad account and
+To submit your code, or push to your Launchpad account and
 submit a merge request, both will be seen by someone with the permission to
 merge. Push to the following repository to be able to submit a merge proposal
 in Launchpad:

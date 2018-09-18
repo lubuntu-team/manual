@@ -16,7 +16,7 @@ You can see the options for building the documentation by running `make help`.
 
 ## Contributing
 
-To contribute to the Lubuntu Manual, you can either create a pull request on GitHub, or send patch mail to [lubuntu-devel@lists.ubuntu.com](mailto:lubuntu-devel@lists.ubuntu.com) and prefix the subject with `[Lubuntu Manual Pull Request]`.
+To contribute to the Lubuntu Manual, you can either create a request on Launchpad, or send patch mail to [lubuntu-devel@lists.ubuntu.com](mailto:lubuntu-devel@lists.ubuntu.com) and prefix the subject with `[Lubuntu Manual Pull Request]`.
 
 ## License
 

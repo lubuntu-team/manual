@@ -69,7 +69,7 @@ instead of just one. This is often faster and saves the bandwidth of the Ubuntu 
 learn more about BitTorrent, take a look at `the Wikipedia page on the subject <https://en.wikipedia.org/wiki/BitTorrent>`_.
 
 In order to torrent the file, you need a BitTorrent client. We recommend `Transmission <https://transmissionbt.com/>`_, an Open Source BitTorrent
-client. Since Transmission only provides clients for Linux and macOS, we recommend `uTorrent <http://www.utorrent.com/>`_ for Windows users.
+client. Since Transmission only provides clients for Linux and macOS, we recommend `uTorrent <https://www.utorrent.com/>`_ for Windows users.
 
 You first need to download the seed files. They are available on the `Ubuntu cdimage server <http://cdimage.ubuntu.com/lubuntu/releases/16.04/release/>`_, or you can use the direct
 links provided below.

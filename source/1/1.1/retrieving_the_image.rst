@@ -75,8 +75,8 @@ You first need to download the seed files. They are available on the `Ubuntu cdi
 links provided below.
 
 Direct links:
- - amd64 (`desktop <http://cdimage.ubuntu.com/lubuntu/releases/16.10/release/lubuntu-16.10-desktop-amd64.iso.torrent>`_, `alternate <http://cdimage.ubuntu.com/lubuntu/releases/16.10/release/lubuntu-16.10-alternate-amd64.iso.torrent>`_)
- - i386 (`desktop <http://cdimage.ubuntu.com/lubuntu/releases/16.10/release/lubuntu-16.10-desktop-i386.iso.torrent>`_, `alternate <http://cdimage.ubuntu.com/lubuntu/releases/16.10/release/lubuntu-16.10-alternate-i386.iso.torrent>`_)
+ - amd64 (`desktop <http://cdimage.ubuntu.com/lubuntu/releases/16.10/release/lubuntu-16.10-desktop-amd64.iso.torrent>` )
+ - i386 (`desktop <http://cdimage.ubuntu.com/lubuntu/releases/16.10/release/lubuntu-16.10-desktop-i386.iso.torrent>` )
 
 After you have downloaded the link you need, open it in your BitTorrent client. This will download the image. After
 this is done, we recommend that you leave your BitTorrent client open so you can seed this image for other people.

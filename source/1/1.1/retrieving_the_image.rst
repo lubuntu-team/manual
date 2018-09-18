@@ -16,10 +16,9 @@ fact that the desktop image runs from your RAM while Lubuntu normally runs from 
 less than 512 MB of RAM it is recommended to use the alternate installer as it will perform better with your system.
 The alternate installer does not provide a live session so therefore it uses less RAM.
 
-Lubuntu offers images for three different architectures:
+Lubuntu offers images for two different architectures:
  - amd64 (commonly referred to as 64-bit)
  - i386 (commonly referred to as 32-bit)
- - PowerPC
 
 Architectures
 -------------
@@ -35,13 +34,6 @@ you have an amd64 processor with very low amounts of RAM.
 i386
 ~~~~
 This is the original 32-bit architecture that will work best on computers with very low amounts of RAM.
-
-
-PowerPC
-~~~~~~~
-PowerPC is for older Macintosh hardware from before 2006 and IBM OpenPower systems. Lubuntu 16.04 LTS is the only
-remaining release that ships with a PowerPC image, and binaries are no longer built for it in the newer releases.
-
 
 Ways to download the image
 ---------------------------

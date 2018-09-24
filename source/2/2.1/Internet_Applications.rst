@@ -6,3 +6,4 @@ Chapter 2.1 Internet Applications
    :titlesonly:
 
    2.1.1/Falkon
+   2.1.3/Quasel_Irc

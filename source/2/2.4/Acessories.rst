@@ -12,3 +12,4 @@ Chapter 2.4 Acessories
   2.4.4/pcmanfm-qt
   2.4.5/Qlipper
   2.4.7/noblenote
+  2.4.8/2048-qt

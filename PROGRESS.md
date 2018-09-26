@@ -10,28 +10,29 @@
 | :red_circle:          | 1.2.3       |
 | :red_circle:          | 1.2.4       |
 | :red_circle:          | 2.1         |
-| :red_circle:          | 2.1.1       |
-| :red_circle:          | 2.1.2       |
-| :red_circle:          | 2.1.3       |
+| :construction_worker: | 2.1.1       |
+| :construction_worker: | 2.1.2       |
+| :construction_worker: | 2.1.3       |
 | :red_circle:          | 2.2         |
 | :red_circle:          | 2.2.1       |
 | :red_circle:          | 2.2.2       |
-| :red_circle:          | 2.2.4       |
-| :red_cirlce:          | 2.2.5       |
+| :construction_worker: | 2.2.4       |
+| :construction_worker: | 2.2.5       |
+| :construction_worker: | 2.2.6       |
 | :red_circle:          | 2.3         |
 | :red_circle:          | 2.3.1       |
 | :red_circle:          | 2.3.2       |
 | :red_circle:          | 2.3.3       |
-| :red_circle:          | 2.3.4       |
+| :construction_worker: | 2.3.4       |
 | :red_circle:          | 2.4         |
-| :red_circle:          | 2.4.1       |
+| :construction_worker: | 2.4.1       |
 | :red_circle:          | 2.4.2       |
-| :red_circle:          | 2.4.3       |
-| :red_circle:          | 2.4.4       |
-| :red_circle:          | 2.4.5       |
-| :red_circle:          | 2.4.6       |
-| :red_circle:          | 2.4.7       |
-| :red_circle:          | 2.4.8       |
+| :construction_worker: | 2.4.3       |
+| :construction_worker: | 2.4.4       |
+| :construction_worker: | 2.4.5       |
+| :construction_worker: | 2.4.6       |
+| :construction_worker: | 2.4.7       |
+| :construction_worker: | 2.4.8       |
 | :red_circle:          | 2.5         |
 | :red_circle:          | 2.5.1       |
 | :red_circle:          | 2.5.2       |
@@ -68,7 +69,7 @@
 | :red_circle:          | 4.2         |
 | :red_circle:          | 5.1         |
 | :red_circle:          | 5.2         |
-| :red_circleL          | 5.3         |
+| :construction_worker: | 5.3         |
 | :red_circle:          | Appendix A  |
 | :red_circle:          | Appendix B  |
 | :red_circle:          | Appendix C  |

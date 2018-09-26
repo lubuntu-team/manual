@@ -5,3 +5,4 @@ Chapter 2.2.3 Graphics Applications
   :maxdepth: 2
   :titlesonly:
 
+  2.3.4/Skanlite

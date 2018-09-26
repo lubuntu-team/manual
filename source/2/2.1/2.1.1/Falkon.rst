@@ -14,4 +14,4 @@ Falkon has features of other browsers such as:
 
 How To Launch
 -------------
-In the menu go to Internet -> Falkon which has a purple icon with the head of a bird in it or run falkon.
+In the menu go to Internet -> Falkon which has a purple icon with the head of a bird in it and a purple background or run falkon.

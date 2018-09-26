@@ -5,5 +5,7 @@ Chapter 2.2 Office Applications
   :maxdepth: 2
   :titlesonly: 
 
+  2.2.4/libreoffice_math
+  2.2.5/libreoffice_writer
   2.2.6/qpdfview
 

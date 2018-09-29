@@ -6,4 +6,4 @@ Chapter 3.1 System Tools
   :titlesonly:
 
  3.1.2/htop 
-
+ 3.1.3/qterminal

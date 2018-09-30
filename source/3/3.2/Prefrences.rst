@@ -6,3 +6,4 @@ Chapter 3.2 Prefrences
   :titlesonly:
 
   3.2.1/LXQt_configuration_center
+  3.2.2/appearance

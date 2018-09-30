@@ -9,4 +9,5 @@ Chapter 3.2 Prefrences
   3.2.2/appearnce
   3.2.3/brightness 
   3.2.4/date_and_time
+  3.2.5/desktop
   

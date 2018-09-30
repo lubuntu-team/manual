@@ -6,4 +6,5 @@ Chapter 3.2 Prefrences
   :titlesonly:
 
   3.2.1/LXQt_configuration_center
-  3.2.2/appearance
+  3.2.2/appearnce.rst
+  3.2.3/brightness 

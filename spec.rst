@@ -131,17 +131,19 @@ Chapter 3.2 Prefrences
 
 3.2.1 LXQt configuration center 
 
-3.2.2 Brightness
+3.2.2 Appearance
 
-3.2.3 Date And Time
+3.2.3 Brightness
 
-3.2.4 Desktop 
+3.2.4 Date And Time
 
-3.2.5 Desktop Notifications
+3.2.5 Desktop 
 
-3.2.6 File Association
+3.2.6 Desktop Notifications
 
-3.2.7 Keyboard and Mouse
+3.2.7 File Association
+
+3.2.8 Keyboard and Mouse
 
 3.2.8 Locale
 
@@ -151,25 +153,25 @@ Chapter 3.2 Prefrences
 
 3.2.11 Power Management
 
-3.2.11 Session Settings
+3.2.12 Session Settings
 
-3.2.12 Shortcut Keys
+3.2.13 Shortcut Keys
 
-3.2.13 Session Settings 
+3.2.14 Session Settings 
 
-3.2.14 Shortcut Keys
+3.2.15 Shortcut Keys
 
-3.2.15 Users and Groups
+3.2.16 Users and Groups
 
-3.2.16 Window Effects
+3.2.17 Window Effects
 
-3.2.17 Alternatives Configurator
+3.2.18 Alternatives Configurator
 
-3.2.18 ibus Prefrences
+3.2.19 ibus Prefrences
 
-3.2.19 Printers
+3.2.20 Printers
 
-3.2.20 Screensaver
+3.2.21 Screensaver
 
 ------------------------------------------------------
 Chapter 4 Installing, Updating, and Removing  Software

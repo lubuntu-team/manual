@@ -6,7 +6,9 @@ Libreoffice Writer is a word processing application that is the default on Lubun
 Features:
  - no ribbon
  - one button pdf export
-
+ - many file formats to output
+ - spellcheck
+ - wordcount
 
 How to Launch
 -------------

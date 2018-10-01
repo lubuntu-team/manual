@@ -52,6 +52,8 @@ Chapter 2.1 Internet Applications
 
  2.1.3 Quassel IRC
 
+ 2.1.4 bluedevil
+
 Chapter 2.2 Office applications
 -------------------------------
 

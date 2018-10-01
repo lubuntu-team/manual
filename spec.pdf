@@ -52,7 +52,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Author () /CreationDate (D:20180929215454+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20180929215454+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20181001123154+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20181001123154+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Lubuntu LXQt Manual Specification) /Trapped /False
 >>
 endobj
@@ -147,7 +147,7 @@ endobj
 endobj
 26 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 375.0236 0 ] /Parent 23 0 R /Prev 25 0 R /Title (Appendicies)
+/Dest [ 6 0 R /XYZ 62.69291 357.0236 0 ] /Parent 23 0 R /Prev 25 0 R /Title (Appendicies)
 >>
 endobj
 27 0 obj
@@ -629,7 +629,7 @@ q
 1 0 0 1 62.69291 87.02362 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.8 Locale) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.9 Locale) Tj T* ET
 Q
 Q
  
@@ -637,7 +637,7 @@ endstream
 endobj
 30 0 obj
 <<
-/Length 3387
+/Length 3811
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -645,91 +645,91 @@ q
 1 0 0 1 62.69291 753.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.9 Monitor Settings) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.10 Monitor Settings) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 735.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.10 Openbox Settings) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.11 Openbox Settings) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 717.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.11 Power Management) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.12 Power Management) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 699.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.12 Session Settings) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.13 Session Settings) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 681.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.13 Shortcut Keys) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.14 Shortcut Keys) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 663.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.14 Session Settings) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.15 Session Settings) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 645.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.15 Shortcut Keys) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.16 Shortcut Keys) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 627.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.16 Users and Groups) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.17 Users and Groups) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 609.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.17 Window Effects) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.18 Window Effects) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 591.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.18 Alternatives Configurator) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.19 Alternatives Configurator) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 573.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.19 ibus Prefrences) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.20 ibus Prefrences) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 555.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.20 Printers) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.21 Printers) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 537.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.21 Screensaver) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.22 Screensaver) Tj T* ET
 Q
 Q
 q
@@ -780,19 +780,26 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5.3 lxqt-runner) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 357.0236 cm
+1 0 0 1 62.69291 369.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5.4 window management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 339.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Appendicies) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 345.0236 cm
+1 0 0 1 62.69291 327.0236 cm
 Q
 q
-1 0 0 1 62.69291 345.0236 cm
+1 0 0 1 62.69291 327.0236 cm
 Q
 q
-1 0 0 1 62.69291 333.0236 cm
+1 0 0 1 62.69291 315.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -813,10 +820,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 327.0236 cm
+1 0 0 1 62.69291 309.0236 cm
 Q
 q
-1 0 0 1 62.69291 315.0236 cm
+1 0 0 1 62.69291 297.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -837,10 +844,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 309.0236 cm
+1 0 0 1 62.69291 291.0236 cm
 Q
 q
-1 0 0 1 62.69291 297.0236 cm
+1 0 0 1 62.69291 279.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -861,7 +868,31 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 297.0236 cm
+1 0 0 1 62.69291 273.0236 cm
+Q
+q
+1 0 0 1 62.69291 261.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 4 0 Td (D.) Tj T* -4 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Upgrading from previous releases.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 261.0236 cm
 Q
  
 endstream
@@ -919,14 +950,14 @@ xref
 0000003915 00000 n 
 0000007674 00000 n 
 0000011519 00000 n 
-0000014958 00000 n 
-0000015017 00000 n 
-0000015051 00000 n 
-0000015085 00000 n 
+0000015382 00000 n 
+0000015441 00000 n 
+0000015475 00000 n 
+0000015509 00000 n 
 trailer
 <<
 /ID 
-[<c9006041446c771f7938792b713c9b63><c9006041446c771f7938792b713c9b63>]
+[<cf6e942782b0370e30b60696b773ab7d><cf6e942782b0370e30b60696b773ab7d>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 8 0 R
@@ -934,5 +965,5 @@ trailer
 /Size 35
 >>
 startxref
-15119
+15543
 %%EOF

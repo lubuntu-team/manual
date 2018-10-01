@@ -145,33 +145,33 @@ Chapter 3.2 Prefrences
 
 3.2.8 Keyboard and Mouse
 
-3.2.8 Locale
+3.2.9 Locale
 
-3.2.9 Monitor Settings
+3.2.10 Monitor Settings
 
-3.2.10 Openbox Settings
+3.2.11 Openbox Settings
 
-3.2.11 Power Management
+3.2.12 Power Management
 
-3.2.12 Session Settings
+3.2.13 Session Settings
 
-3.2.13 Shortcut Keys
+3.2.14 Shortcut Keys
 
-3.2.14 Session Settings 
+3.2.15 Session Settings 
 
-3.2.15 Shortcut Keys
+3.2.16 Shortcut Keys
 
-3.2.16 Users and Groups
+3.2.17 Users and Groups
 
-3.2.17 Window Effects
+3.2.18 Window Effects
 
-3.2.18 Alternatives Configurator
+3.2.19 Alternatives Configurator
 
-3.2.19 ibus Prefrences
+3.2.20 ibus Prefrences
 
-3.2.20 Printers
+3.2.21 Printers
 
-3.2.21 Screensaver
+3.2.22 Screensaver
 
 ------------------------------------------------------
 Chapter 4 Installing, Updating, and Removing  Software
@@ -191,9 +191,12 @@ Chapter 5 Panel Desktop and Runner
 
 5.3 lxqt-runner
 
+5.4 window management
+
 -----------
 Appendicies
 -----------
+
 
 A. Tips and tricks
 
@@ -201,4 +204,4 @@ B. Contributing
 
 C. Command Line
 
-
+D. Upgrading from previous releases.

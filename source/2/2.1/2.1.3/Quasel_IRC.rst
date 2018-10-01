@@ -10,6 +10,11 @@ Features:
  - aliases
  - ignore list
 
+Useage
+------
+To chat on irc you need to connect to a server and choose a chanel to chat and join with /join in the bottom or use the # join button. 
+
+
 How to Launch
 -------------
 In the menu go to internet -> Quassel IRC or type quassel in the command line. 

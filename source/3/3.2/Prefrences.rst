@@ -14,4 +14,5 @@ Chapter 3.2 Prefrences
   3.2.8/keyboard_and_mouse
   3.2.9/locale
   3.2.10/monitor_settings
+  3.2.11/openbox_settings
   

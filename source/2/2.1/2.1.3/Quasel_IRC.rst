@@ -12,7 +12,11 @@ Features:
 
 Useage
 ------
-To chat on irc you need to connect to a server and choose a chanel to chat and join with /join in the bottom or use the # join button. 
+To chat on irc you need to connect to a server and choose a chanel to chat and join with /join in the bottom or use the # join button.
+
+Version
+-------
+Lubuntu ships with version 1:0.12.5 of Quassel IRC.
 
 
 How to Launch

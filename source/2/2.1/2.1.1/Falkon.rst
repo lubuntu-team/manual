@@ -16,7 +16,9 @@ Useage
 ------
 To open a new tab to have multiple tabs open at once Press the green button shaped like a plus and a new tab will open. To close a tab Press the red x button with a click. To go back to a previous page you have visited press the blue arrow on the far left underneath all of your tabs to go back a page.  To go forward to a page you have already visited after htting the back button press the blue arrow pointing to the right but if you can't go forward anymore the arrow will be grayed out.
 
-
+Version
+-------
+Lubuntu ships with version  3.0.1 of Falkon.
 
 How To Launch
 -------------

@@ -11,6 +11,10 @@ Features:
  - memory
  - copy and paste
 
+Version
+-------
+Lubuntu ships with version 18.04.3 of Kcalc.
+
 How to launch
 -------------
 To launch kcalc go to accessories -> Kcalc.

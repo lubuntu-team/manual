@@ -7,6 +7,9 @@ Useage
 ------
 To play 2048-qt you use the arrows keys to combine blocks with the same number on them.
 
+Version
+-------
+Lubuntu ships with version 0.1.6 of 2048-Qt. 
 How to launch
 -------------
 To launch 2048-qt go to the menu -> games -> 2048-qt or run 2048-qt from the commanmd-line.

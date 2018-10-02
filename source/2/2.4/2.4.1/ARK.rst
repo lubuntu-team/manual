@@ -11,6 +11,10 @@ Supported file formats include:
  - Tar acrhieves compressed with bzip, gzip, lzip, LZMA, XZ compressed 
  - Zip Archieves
 
+Version
+-------
+Lubuntu ships version 4:18.04.3 of ARK. 
+
 How to launch
 -------------
 To launch ARK go to the menu -> Accessories -> ARK or run ark on the command line.

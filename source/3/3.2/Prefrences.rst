@@ -17,4 +17,5 @@ Chapter 3.2 Prefrences
   3.2.11/openbox_settings
   3.2.12/power_management
   3.2.13/session_settings
+  3.2.14/shortcut_keys
   

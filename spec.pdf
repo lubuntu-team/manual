@@ -52,7 +52,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Author () /CreationDate (D:20181002132201+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20181002132201+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20181002133210+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20181002133210+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Lubuntu LXQt Manual Specification) /Trapped /False
 >>
 endobj
@@ -687,42 +687,42 @@ q
 1 0 0 1 62.69291 627.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.17 Users and Groups) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.15 Users and Groups) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 609.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.18 Window Effects) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.16 Window Effects) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 591.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.19 Alternatives Configurator) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.17 Alternatives Configurator) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 573.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.20 ibus Prefrences) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.18 ibus Prefrences) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 555.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.21 Printers) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.19 Printers) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 537.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.22 Screensaver) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.20 Screensaver) Tj T* ET
 Q
 Q
 q
@@ -950,7 +950,7 @@ xref
 trailer
 <<
 /ID 
-[<238fb0f898ed548d89c00f3e68f5a081><238fb0f898ed548d89c00f3e68f5a081>]
+[<4b168b248f2fff87c7ca61cc99336531><4b168b248f2fff87c7ca61cc99336531>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 8 0 R

@@ -10,7 +10,11 @@ It supports:
  - autobracket
  - line numbers
  - search with find/replace
+ - undo and redo
 
+Useage
+------
+If you wish to open a text file press the button that looks like a black and white folder or press control + o to open a file. To open a new file press the button that looks like a piece of paper with a plus sign.     
 
 How to Launch
 -------------

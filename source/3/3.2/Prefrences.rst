@@ -12,4 +12,5 @@ Chapter 3.2 Prefrences
   3.2.5/desktop
   3.2.6/desktop_notifications
   3.2.8/keyboard_and_mouse
+  3.2.9/locale
   

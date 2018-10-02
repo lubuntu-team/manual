@@ -55,8 +55,8 @@ To download the image via HTTP, you can either navigate to the `Ubuntu cdimage s
 like to download, or use the direct links below.
 
 Direct links:
- - amd64 (`desktop <http://cdimage.ubuntu.com/lubuntu/releases/16.04/release/lubuntu-16.04.3-desktop-amd64.iso>`_, `alternate <http://cdimage.ubuntu.com/lubuntu/releases/16.04.1/release/lubuntu-16.04.1-alternate-amd64.iso>`_)
- - i386 (`desktop <http://cdimage.ubuntu.com/lubuntu/releases/16.04/release/lubuntu-16.04.3-desktop-i386.iso>`_, `alternate <http://cdimage.ubuntu.com/lubuntu/releases/16.04.1/release/lubuntu-16.04.1-alternate-i386.iso>`_)
+ - amd64 (`desktop <http://cdimage.ubuntu.com/lubuntu/releases/16.04/release/lubuntu-16.04.3-desktop-amd64.iso>`_)
+ - i386 (`desktop <http://cdimage.ubuntu.com/lubuntu/releases/16.04/release/lubuntu-16.04.3-desktop-i386.iso>`_,)
 
 After you download the image, you **must** verify it. There is `a helpful page on the Ubuntu Community Help wiki <https://help.ubuntu.com/community/VerifyIsoHowto>`_ that
 can guide you in the right direction.
@@ -102,6 +102,6 @@ If you are running Arch (or a distribution based off of it), run the following c
 
   sudo pacman -S zsync
 
-If you are running another distribution, you can find the source code `here <http://zsync.moria.org.uk/downloads>`_.
+If you are running another distribution, you can read your distros documentation on how to use your package manager, or you can find the source code `here <http://zsync.moria.org.uk/downloads>`_.
 
 **You have now downloaded the image successfully. Please continue to Chapter 1.2.**

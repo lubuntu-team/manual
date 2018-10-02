@@ -13,4 +13,5 @@ Chapter 3.2 Prefrences
   3.2.6/desktop_notifications
   3.2.8/keyboard_and_mouse
   3.2.9/locale
+  3.2.10/monitor_settings
   

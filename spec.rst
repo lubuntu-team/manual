@@ -159,10 +159,6 @@ Chapter 3.2 Prefrences
 
 3.2.14 Shortcut Keys
 
-3.2.15 Session Settings 
-
-3.2.16 Shortcut Keys
-
 3.2.17 Users and Groups
 
 3.2.18 Window Effects

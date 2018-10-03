@@ -14,7 +14,9 @@ It supports:
 
 Useage
 ------
-If you wish to open a text file press the button that looks like a black and white folder or press control + o to open a file. To open a new file press the button that looks like a piece of paper with a plus sign. To save your file after typing in the main part of the window press the button that looks like a floppy disk or press controlTo save your file after typing in the main part of the window press the button that looks like a floppy disk or press control +s.  
+If you wish to open a text file press the button that looks like a black and white folder or press control + o to open a file. To open a new file press the button that looks like a piece of paper with a plus sign. To save your file after typing in the main part of the window press the button that looks like a floppy disk or press controlTo save your file after typing in the main part of the window press the button that looks like a floppy disk or press control +s.
+
+To type things into your text file the main part of the window. If you are programming with featherpad the file extension will probably automatically select the correct syntax highlighting. 
 
 Version
 -------

@@ -4,7 +4,7 @@ LXQt panel is the panel shipped with Lubuntu and has a menu, a worksspace switch
 
 Useage
 ------
-To use LXQt panel the menu to search for all the different programs documented and chapter 2 and all the other desktop ones you install from the repositories is to the top left by default. If you want to change to another virtual desktop you can use the desktop switcher.  
+To use LXQt panel the menu to search for all the different programs documented and chapter 2 and all the other desktop ones you install from the repositories is to the top left by default. If you want to change to another virtual desktop you can use the desktop switcher. Next is a quick launch version with the icon looking like drawer of a file cabinet to launch pcmanfm-qt. The purple circle icon with a white bird as the head launches falkon the default web browser for Lubuntu.  
 
 Version
 -------

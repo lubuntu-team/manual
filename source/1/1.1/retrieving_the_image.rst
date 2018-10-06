@@ -6,21 +6,12 @@ Alternate and Desktop images. Lubuntu also provides support for many different C
 new version every six months (supported for nine months), with every two years having a long term support release
 (supported for three years).
 
-Choosing between Alternate and Desktop images
----------------------------------------------
-Alternate images are mainly intended for older, lower spec hardware and uses a non-graphical installer. The Desktop
-version offers a live session to try out Lubuntu and make sure all of your hardware works before you install it on
-your computer. The installer on the desktop is a graphical installer where you can use a mouse and keyboard and it is
-more user friendly, but this takes more resources than what is usually required to run Lubuntu itself, due to the
-fact that the desktop image runs from your RAM while Lubuntu normally runs from your hard drive. If your computer has
-less than 512 MB of RAM it is recommended to use the alternate installer as it will perform better with your system.
-The alternate installer does not provide a live session so therefore it uses less RAM.
-
-Lubuntu offers images for two different architectures:
+Architectures
+-------------
  - amd64 (commonly referred to as 64-bit)
  - i386 (commonly referred to as 32-bit)
 
-Architectures
+
 -------------
 
 amd64

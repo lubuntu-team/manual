@@ -11,6 +11,10 @@ Features:
  - places with removable media 
  - Ability to eject removable media and the ability to mount other filesystesms internally.
 
+Useage
+------
+Along the top to create a new tab in pcmanfm-qt you can use the button with a file and a plus on it to open a new tab or press control +t. The left pointing arrow button is a back button while the right pointing arrow button moves you forward in the directories that you have moved in the file manager. The button for the arrow pointing upward is to go up one level in the directory tree to the so called parent directory.  
+
 Screenshots
 ------------------
 

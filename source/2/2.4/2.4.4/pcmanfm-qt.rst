@@ -13,7 +13,9 @@ Features:
 
 Useage
 ------
-Along the top to create a new tab in pcmanfm-qt you can use the button with a file and a plus on it to open a new tab or press control +t. The left pointing arrow button is a back button while the right pointing arrow button moves you forward in the directories that you have moved in the file manager. The button for the arrow pointing upward is to go up one level in the directory tree to the so called parent directory.  
+Along the top to create a new tab in pcmanfm-qt you can use the button with a file and a plus on it to open a new tab or press control +t. The left pointing arrow button is a back button while the right pointing arrow button moves you forward in the directories that you have moved in the file manager. The button for the arrow pointing upward is to go up one level in the directory tree to the so called parent directory.
+
+If you single click on a file you will select it. If you double click on it you will open it in the  default program to open that file. If you right click on a file you can select  which program to open a file with if you have multiple. 
 
 Screenshots
 ------------------

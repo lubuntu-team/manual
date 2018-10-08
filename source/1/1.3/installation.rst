@@ -14,4 +14,25 @@ The next screen will show you a map of the world where you can chooose your time
 
 Selecting Keyboard Layout
 -------------------------
-To find the 
+To find the keyboard layout you can check if you want your keytobard on the top of the window should look the same as below on your keyboard. At the far bottom you can type to make sure your layout is correct. The keyboard model version lets you choose different layouts and the right column gets different vairtns of that loyout. To continue with the installation press the next button.
+
+Setting up partitions
+---------------------
+If all you want is Lubuntu is on your is Lubuntu you can select the erase disk which will delete all daata on the disk which is why having your data backed up before this point is extremely important. IF you choose to do this you can continue on to user setup. 
+
+Manual partioning
+-----------------
+
+If you wish to manual set up partitions as an advanced option you will have to choose which filesystem you want. A filesystem controls how your filesystems are accessed at lower levels on the disk. If you are booting your computer in UEFI mode a more modern firmware compared to BIOS you will need to create an EFI system partition see  `http://en.wikipedia.org/wiki/EFI_System_partition` for more detail to create this partition you will need a fat32 filesystem with the ESP flag with to be mounted at /boot/efi/ under the mount point. You will  also need a / or root filesystem several filesystems included for Lubuntu are ext4, xfs, and btrfs. 
+
+To create a partition you need to press the create partition button which will bring up a dialog. The filesystem field is a drop down menu to select which filesystem you want. You also need to select where you want to mount the partition which you need at least one / partition and if you are booting an efi system you will also need a /boot/efi mounted partition. Another common option is if you have a want to have your data all on its own partition which can even be on its own seperate physical disk this can be mounted at /home.    
+
+User Setup
+----------
+The user setup section creates a field to open your own name and then what username you want to use when you log in. The next input field is for the hostname of your computer. The final field of this entry is to enter your password twice to make sure you have not mistyped it into your box and then reboot to an install you cannot log into as this is a way more frustrating feeling than entering a password twice. Pressing the next button will give you a summary screen of the settings before install and if this is what you want press the install button to install everything after confirming in the dialog.
+
+The Install
+-----------
+The installer will show a slideshow while the installer writes to the partition and installs Lubuntu. Once Lubuntu is installed you have a checkbox to reboot now after your Lubuntu is installed and is now finished.   
+
+

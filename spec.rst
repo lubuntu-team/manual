@@ -54,6 +54,8 @@ Chapter 2.1 Internet Applications
 
  2.1.4 bluedevil
 
+ 2.1.5 Firefox 
+
 Chapter 2.2 Office applications
 -------------------------------
 
@@ -74,11 +76,9 @@ Chapter 2.3 Graphics Applications
 
 2.3.1 LXimage
 
-2.3.2 Screengrab
+2.3.2 Screeenshot
 
-2.3.3 Screeenshot
-
-2.3.4 Skanlite
+2.3.3 Skanlite
 
 Chapter 2.4 Acessories
 ----------------------
@@ -127,6 +127,8 @@ Chapter 3.1 System Tools
 3.1.5 nm-tray
 
 3.1.6 qps
+
+3.1.7 KDE partition manager
 
 Chapter 3.2 Prefrences
 ----------------------
@@ -203,3 +205,5 @@ B. Contributing
 C. Command Line
 
 D. Upgrading from previous releases.
+
+E. Live session 

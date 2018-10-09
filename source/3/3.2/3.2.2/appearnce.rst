@@ -3,6 +3,13 @@ Chapter 3.2.2 Appearance
 
 Appearnce is a program that changes the theming of lxqt for a different visual look.
 
+Screenshot
+----------
+ .. image:: appearnce.png
+
+Version
+-------
+Lubuntu ships with version 0.13.0 of appearance. 
 
 How to launch
 -------------

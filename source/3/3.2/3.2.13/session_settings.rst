@@ -5,7 +5,11 @@ Session Settings is a way to change what happens when log into lubuntu.
 
 Useage
 ------
-To change the window manager used by LXQt on the basic settings tab under the basic setting tab under the drop down menu labeled window manager choose from the drop down list or search if the drop down list does not see it. LXQt modules lists the different part of LXQt if you find you do not want part of LXQt active you can enable or disable them here.    
+To change the window manager used by LXQt on the basic settings tab under the basic setting tab under the drop down menu labeled window manager choose from the drop down list or search if the drop down list does not see it. LXQt modules lists the different part of LXQt if you find you do not want part of LXQt active you can enable or disable them here.
+
+Version
+-------
+Lubuntu ships with version 0.13.0 of session settings. 
 
 How to launch
 -------------

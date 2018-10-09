@@ -9,7 +9,12 @@ To open a new tab go to the file menu -> new tab or press control shift t with t
 
 Version
 -------
-Lubuntu ships with version 0.9.0 of qterminal. 
+Lubuntu ships with version 0.9.0 of qterminal.
+
+Screenshot
+----------
+
+.. image:: qterminal.png
 
 How to launch
 -------------

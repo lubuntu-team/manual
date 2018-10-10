@@ -6,6 +6,5 @@ Chapter 2.2.3 Graphics Applications
   :titlesonly:
 
   2.3.1/lximage
-  2.3.2/screengrab
-  2.3.3/screenshot
-  2.3.4/Skanlite
+  2.3.2/screenshot
+  2.3.3/Skanlite

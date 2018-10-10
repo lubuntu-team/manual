@@ -5,3 +5,4 @@ Chapter 4 Installing_Updating_and_Removing_Software
   :maxdepth: 2
   :titlesonly:
 
+  4.1/discover 

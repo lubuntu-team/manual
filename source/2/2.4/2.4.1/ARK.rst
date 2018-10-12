@@ -13,7 +13,7 @@ Supported file formats include:
 
 Screenshot
 ----------
-.. image:: ARK.png
+.. image::ARK.png
  :width 80%: 
 
 Version

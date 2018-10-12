@@ -15,7 +15,7 @@ Screenshot
 ----------
 
 .. image:: qterminal.png
-
+   :width 80%: 
 How to launch
 -------------
 To launch qterminal in a normal window go to the menu -> System Tools -> qterminal or run qterminal from the command line. To launch a drop down version of Qterminal from the menu -> System Tools -> qterminal drop down  or run qterminal -d from the command line.

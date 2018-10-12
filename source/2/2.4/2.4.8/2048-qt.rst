@@ -7,6 +7,11 @@ Useage
 ------
 To play 2048-qt you use the arrows keys to combine blocks with the same number on them.
 
+Screenshot
+----------
+.. image:: 2048-qt.png 
+   :width 80%: 
+
 Version
 -------
 Lubuntu ships with version 0.1.6 of 2048-Qt. 

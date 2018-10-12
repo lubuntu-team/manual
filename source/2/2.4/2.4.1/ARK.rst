@@ -11,6 +11,11 @@ Supported file formats include:
  - Tar acrhieves compressed with bzip, gzip, lzip, LZMA, XZ compressed 
  - Zip Archieves
 
+Screenshot
+----------
+.. image:: ARK.png
+ :width 80%: 
+
 Version
 -------
 Lubuntu ships version 4:18.04.3 of ARK. 

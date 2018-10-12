@@ -6,7 +6,11 @@ Montior settings controls your monitor(s) resolution and refresh rate.
 
 Version
 -------
-Lubuntu ships with version 0.13.0 of monitor settings. 
+Lubuntu ships with version 0.13.0 of monitor settings.
+
+Useage
+------
+If you use a single monitor you can change your single monitor resolution on the right hand size and select your resolution. When you change your resolution you will be asked to confirm to make sure you don't make a chocie that makes it harder to use your computer.  
 
 How to launch
 -------------

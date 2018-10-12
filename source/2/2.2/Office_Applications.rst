@@ -5,6 +5,7 @@ Chapter 2.2 Office Applications
   :maxdepth: 2
   :titlesonly: 
 
+  2.2.1/libreoffice
   2.2.2/libreoffice_calc
   2.2.3/libreoffice_impress
   2.2.4/libreoffice_math

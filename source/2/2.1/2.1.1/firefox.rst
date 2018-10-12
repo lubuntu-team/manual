@@ -1,4 +1,4 @@
-Chapter 3.1.1: Firefox
+Chapter 2.1.1: Firefox
 ==============================
 
 Description

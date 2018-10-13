@@ -18,6 +18,11 @@ If you wish to open a text file press the button that looks like a black and whi
 
 To type things into your text file the main part of the window similar to a word porcessor. If you are programming with featherpad the file extension will probably automatically select the correct syntax highlighting. 
 
+Screenshot
+----------
+.. image:: featherpad.png
+  :width: 80% 
+
 Version
 -------
 Lubuntu ships with version 0.9.0 of featherpad. 

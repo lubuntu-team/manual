@@ -52,7 +52,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Author () /CreationDate (D:20181008210544+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20181008210544+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20181013162617+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20181013162617+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Lubuntu LXQt Manual Specification) /Trapped /False
 >>
 endobj
@@ -157,7 +157,7 @@ endobj
 endobj
 28 0 obj
 <<
-/Length 3661
+/Length 3662
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -292,7 +292,7 @@ q
 1 0 0 1 20 72 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2.1.1 Falkon) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2.1.1 Firefox) Tj T* ET
 Q
 Q
 q
@@ -320,7 +320,7 @@ q
 1 0 0 1 20 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2.1.5 Firefox) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2.1.5 Trojita) Tj T* ET
 Q
 Q
 q
@@ -972,16 +972,16 @@ xref
 0000003731 00000 n 
 0000003843 00000 n 
 0000003915 00000 n 
-0000007628 00000 n 
-0000011498 00000 n 
-0000015649 00000 n 
-0000015708 00000 n 
-0000015742 00000 n 
-0000015776 00000 n 
+0000007629 00000 n 
+0000011499 00000 n 
+0000015650 00000 n 
+0000015709 00000 n 
+0000015743 00000 n 
+0000015777 00000 n 
 trailer
 <<
 /ID 
-[<2fa8fc4678a2277f8cd3ff5549e6c4d1><2fa8fc4678a2277f8cd3ff5549e6c4d1>]
+[<9b9291f98af3c46cfacc241a82089b57><9b9291f98af3c46cfacc241a82089b57>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 8 0 R
@@ -989,5 +989,5 @@ trailer
 /Size 35
 >>
 startxref
-15810
+15811
 %%EOF

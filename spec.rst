@@ -46,7 +46,7 @@ Chapter 2 Applications
 Chapter 2.1 Internet Applications
 ---------------------------------
 
- 2.1.1 Falkon
+ 2.1.1 Firefox 
 
  2.1.2 Qtransmission
 
@@ -54,7 +54,7 @@ Chapter 2.1 Internet Applications
 
  2.1.4 bluedevil
 
- 2.1.5 Firefox 
+ 2.1.5 Trojita  
 
 Chapter 2.2 Office applications
 -------------------------------

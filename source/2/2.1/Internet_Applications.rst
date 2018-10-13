@@ -8,3 +8,4 @@ Chapter 2.1 Internet Applications
    2.1.1/firefox
    2.1.2/qtransmission
    2.1.3/Quasel_IRC
+   2.1.5/trojita

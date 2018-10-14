@@ -9,7 +9,7 @@ To use brightness click on the dial towards the right window of the window. To m
 
 Screenshot
 ----------
-.. image ::brightness.png 
+.. image :: brightness.png 
 
 Version
 -------

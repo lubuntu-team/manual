@@ -5,7 +5,7 @@ Appearnce is a program that changes the theming of lxqt for a different visual l
 
 Screenshot
 ----------
- .. image:: appearnce.png
+ .. image :: appearnce.png
 
 Version
 -------

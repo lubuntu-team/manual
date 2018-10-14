@@ -13,8 +13,12 @@ Supported file formats include:
 
 Screenshot
 ----------
-.. image::ARK.png
+.. image:: ARK.png
  :width 80%: 
+
+Useage
+------
+To open a file in a archieve double click it after open it in the archieve or single click the file and press open. If you want to extract or move a file out of the archieve press the piece of paper with an upward pointed arrow that says extract.  
 
 Version
 -------

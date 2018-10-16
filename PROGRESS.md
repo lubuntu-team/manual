@@ -33,17 +33,17 @@
 | :construction_worker: | 2.4.6       |
 | :construction_worker: | 2.4.7       |
 | :construction_worker: | 2.4.8       |
-| :red_circle:          | 2.5         |
-| :red_circle:          | 2.5.1       |
-| :red_circle:          | 2.5.2       |
-| :red_circle:          | 2.5.3       |
+| :construction_worker: | 2.5         |
+| :construction_worker: | 2.5.1       |
+| :construction_worker: | 2.5.2       |
+| :construction_worker: | 2.5.3       |
 | :red_circle:          | 3.1         |
-| :red_circle:          | 3.1.1       |
-| :red_circle:          | 3.1.2       |
-| :red_circle:          | 3.1.3       |
+| :construction_worker: | 3.1.1       |
+| :construction_worker: | 3.1.2       |
+| :construction_worker: | 3.1.3       |
 | :red_circle:          | 3.1.4       |
-| :red_circle:          | 3.1.5       |
-| :red_circle:          | 3.1.6       |
+| :construction_worker: | 3.1.5       |
+| :construction_worker: | 3.1.6       |
 | :red_circle:          | 3.2         |
 | :red_circle:          | 3.2.1       |
 | :red_circle:          | 3.2.2       |
@@ -73,3 +73,4 @@
 | :red_circle:          | Appendix A  |
 | :red_circle:          | Appendix B  |
 | :red_circle:          | Appendix C  |
+| :construction_worker: | Appendix D  | 

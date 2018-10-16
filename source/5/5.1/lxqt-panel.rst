@@ -1,6 +1,6 @@
 Chapter 5.1 LXQt Panel
 ======================
-LXQt panel is the panel shipped with Lubuntu and has a menu, a worksspace switcher, a taskbar for listing all of your default programs, a system tray containing applets and a clock.
+LXQt panel is the panel shipped with Lubuntu. By default the panel contains a menu, a worksspace switcher, a quick-launcher, a taskbar for listing all of the open programs, a system tray containing applets and a clock.
 
 Useage
 ------

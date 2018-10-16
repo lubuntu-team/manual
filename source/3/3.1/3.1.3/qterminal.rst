@@ -14,7 +14,7 @@ Lubuntu ships with version 0.9.0 of qterminal.
 Screenshot
 ----------
 
-.. image::qterminal.png
+.. image:: qterminal.png
    :width 80%: 
 
 How to launch

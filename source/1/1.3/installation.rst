@@ -18,15 +18,17 @@ To find the keyboard layout you can check if you want your keytobard on the top 
 
 Setting up partitions
 ---------------------
-If all you want is Lubuntu is on your is Lubuntu you can select the erase disk which will delete all daata on the disk which is why having your data backed up before this point is extremely important. IF you choose to do this you can continue on to user setup. 
+If all you want is Lubuntu is on your is Lubuntu you can select the erase disk which will delete all daata on the disk which is why having your data backed up before this point is extremely important. IF you choose to do this you can continue on to user setup.
+
+.. warning:: 
+   Erasing your entire disk or partiion may cause you to lose data so please backup beforehand. 
 
 If you have had  a previous linux install and want to put the entire disk or just replace an entire partition you will need to unmount them. In this subcase running  `sudo swapoff -a` will unmount them and any partitions with data mounted can be unmounted through pcmanfm-qt.                                 
-
 
 Manual partioning
 -----------------
 
-If you wish to manual set up partitions as an advanced option you will have to choose which filesystem you want. A filesystem controls how your filesystems are accessed at lower levels on the disk. If you are booting your computer in UEFI mode a more modern firmware compared to BIOS you will need to create an EFI system partition see  `http://en.wikipedia.org/wiki/EFI_System_partition` for more detail to create this partition you will need a fat32 filesystem with the ESP flag with to be mounted at /boot/efi/ under the mount point. You will  also need a / or root filesystem several filesystems included for Lubuntu are ext4, xfs, and btrfs. If you have had  a previous linux install and want to put the entire disk or just replace an entire partition you will need to unmount them. In thi   
+If you wish to manual set up partitions as an advanced option you will have to choose which filesystem you want. A filesystem controls how your filesystems are accessed at lower levels on the disk. If you are booting your computer in UEFI mode a more modern firmware compared to BIOS you will need to create an EFI system partition see  `http://en.wikipedia.org/wiki/EFI_System_partition` for more detail to create this partition you will need a fat32 filesystem with the ESP flag with to be mounted at /boot/efi/ under the mount point. You will  also need a / or root filesystem several filesystems included for Lubuntu are ext4, xfs, and btrfs. If you have had  a previous linux install and want to put the entire disk or just replace an entire partition you will need to unmount them.
 
 To create a partition you need to press the create partition button which will bring up a dialog. The filesystem field is a drop down menu to select which filesystem you want. You also need to select where you want to mount the partition which you need at least one / partition and if you are booting an efi system you will also need a /boot/efi mounted partition. Another common option is if you have a want to have your data all on its own partition which can even be on its own seperate physical disk this can be mounted at /home.    
 

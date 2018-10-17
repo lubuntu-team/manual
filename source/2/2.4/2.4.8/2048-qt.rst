@@ -10,7 +10,6 @@ To play 2048-qt you use the arrows keys to combine blocks with the same number o
 Screenshot
 ----------
 .. image:: 2048-qt.png 
-   :width 80%: 
 
 Version
 -------

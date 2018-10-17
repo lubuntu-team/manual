@@ -14,7 +14,6 @@ Supported file formats include:
 Screenshot
 ----------
 .. image:: ARK.png
- :width 80%: 
 
 Useage
 ------

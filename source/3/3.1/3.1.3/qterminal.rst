@@ -15,7 +15,6 @@ Screenshot
 ----------
 
 .. image:: qterminal.png
-   :width 80%: 
 
 How to launch
 -------------

@@ -12,7 +12,11 @@ Features:
 
 Useage
 ------
-To chat on irc you need to connect to a server and choose a chanel to chat and join with /join in the bottom or use the # join button. To send a query or private message directly to someone type /query username or right click on the user list and select start query. If you wish to view older messages such as if you just got back to your keyboard move up on the scrollwheel of you mouse or drag the scrollbar on the right hand side up and vice versa to view newer messages.  
+To chat on irc you need to connect to a server and choose a chanel to chat and join with /join in the bottom or use the # join button. To send a query or private message directly to someone type /query username or right click on the user list and select start query. If you wish to view older messages such as if you just got back to your keyboard move up on the scrollwheel of you mouse or drag the scrollbar on the right hand side up and vice versa to view newer messages.
+
+Screenshot
+----------
+.. image:: quassel_irc.png
 
 Version
 -------

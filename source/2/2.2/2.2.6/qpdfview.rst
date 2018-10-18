@@ -5,19 +5,23 @@ qpdfview is the default pdf viewer for Lubuntu.
 
 Features:
  - tabs
- - presentation mode.
+ - presentation mode
  - zoom to entire page/ page width
  - rotating pages
- - outline, properties, thumbnail, and bookmark docks.
+ - outline, properties, thumbnail, and bookmark docks
  - printing support
+ - annotation and highlighting 
+ - bookmarks
+ -customizable keyboard shortcuts
 
-Useage
+Usage
 ------
-After launching qpdfview to open a pdf file use  file -> open from the menu or press control +o as the keyboard shortcut. If you have a pdf open and use file -> open in new tab from the menu, press the open in new tab button on the bar or press control +t. To refresh a pdf such as if you are using something to write a pdf and want to see what changed you can press the refresh button or press f5 just like most web browsers.
+To open a pdf file use File -> Open from the menu or Ctrl + O on the keyboard. If you have a pdf open use File -> Open in new tab from the menu, click the Open in new tab button or press Ctrl + T. To refresh a pdf click the Refresh button or press F5 just like most web browsers.
 
-If you want select a particular page of a pdf there is a box that says for example page 1/3 to switch to the third page you can type in the box and select page 3/3. To move to the previous page use the button that the arrow to the left. To move to the next page use the button that is an arrow pointing to the right. To change the view of the pdf to get closer there are a percentage of zoom as well as page width and page size. To see the full page of a pdf select page size and to select something where it shows. The button with a magnifying glass with a + sign in the middle of it will cause the page to zoom in and the magnifying glass with a - sign in it will casue the view to zoom out. 
+If you want to view a particular page select the box (e.g. page 1/3) and tpye the page number (e.g. page 3/3). To move to the previous and next page use the left and right arrow buttons respectively. There are numerous zoom option, including percentage, page width, page size, continous, and multiple pages.
 
-qpdfview also includes some very useful docks. To view the outline dock go to the view menu -> docks -> and make sure the radio button outline is checked or press the keyboard shortcut f6 and it should appear on the left hand side of the pdf with collapsel sections having a + sign to expand them and - sign to collapse parts of the outline. This is extremely useful in large pdfs. By clicking on a section of the outline you can take qpdfview to the page you want to view.  
+qpdfview also includes some very useful docks. To view the outline dock, in the menu select View -> Docks -> O utline (make sure the button is checked) or press F6 on the keyboard. It should appear on the left hand side of the pdf with collapsable sections. This is useful in navigating large pdfs.
+
 
 Version
 -------
@@ -25,4 +29,4 @@ Lubuntu ships with version 0.4.17 of qpdfview.
 
 How to launch
 -------------
-To launch qpdfview go to the menu -> office -> qpdfview or run qpdfview from the command line.
+To launch qpdfview go to the Menu -> Office -> qpdfview or run qpdfview from the command line.

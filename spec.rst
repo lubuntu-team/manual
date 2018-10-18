@@ -35,7 +35,7 @@ Boot options
 Chapter 1.3 Installation
 ------------------------
 
-Complete installation 
+Complete installation
 
 Different Installation Options
 
@@ -46,7 +46,7 @@ Chapter 2 Applications
 Chapter 2.1 Internet Applications
 ---------------------------------
 
- 2.1.1 Firefox 
+ 2.1.1 Firefox
 
  2.1.2 Qtransmission
 
@@ -54,7 +54,7 @@ Chapter 2.1 Internet Applications
 
  2.1.4 bluedevil
 
- 2.1.5 Trojita  
+ 2.1.5 Trojita
 
 Chapter 2.2 Office applications
 -------------------------------
@@ -83,7 +83,7 @@ Chapter 2.3 Graphics Applications
 Chapter 2.4 Acessories
 ----------------------
 
-2.4.1 ARK 
+2.4.1 ARK
 
 2.4.2 Featherpad
 
@@ -110,7 +110,7 @@ Chapter 2.5 Sound & Video
 2.5.3 VLC media player
 
 -------------------------------------
-Chapter 3 System Tools and Prefrences 
+Chapter 3 System Tools and Prefrences
 -------------------------------------
 
 Chapter 3.1 System Tools
@@ -133,7 +133,7 @@ Chapter 3.1 System Tools
 Chapter 3.2 Prefrences
 ----------------------
 
-3.2.1 LXQt configuration center 
+3.2.1 LXQt configuration center
 
 3.2.2 Appearance
 
@@ -141,7 +141,7 @@ Chapter 3.2 Prefrences
 
 3.2.4 Date And Time
 
-3.2.5 Desktop 
+3.2.5 Desktop
 
 3.2.6 Desktop Notifications
 
@@ -206,4 +206,4 @@ C. Command Line
 
 D. Upgrading from previous releases.
 
-E. Live session 
+E. Live session

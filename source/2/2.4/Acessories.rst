@@ -1,4 +1,4 @@
-Chapter 2.4 Acessories
+Chapter 2.4 Accessories
 ======================
 
 

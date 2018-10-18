@@ -12,7 +12,7 @@ Features:
  - printing support
  - annotation and highlighting 
  - bookmarks
- -customizable keyboard shortcuts
+ - customizable keyboard shortcuts
 
 Usage
 ------

@@ -1,7 +1,7 @@
 Chapter 1.2: Booting the image
 ==============================
 
-Now that you have the ISO file, you need to put the image on media of some sort and boot the image for installation.
+Now that you have the ISO file, you need to put the image on a media device and boot the image for installation.
 
 **This requires additional research on your own, as this varies depending on your hardware.**
 
@@ -12,7 +12,7 @@ downloaded:
 
 .
  - a DVD
- - a 2 GB (or greater) USB drive
+ - a USB drive (2 GB or greater) 
 
 
 Writing/burning the image

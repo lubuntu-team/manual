@@ -6,7 +6,7 @@ We are proud to present the highly anticipated release of Lubuntu 18.10! This re
 There are two methods of upgrading Lubuntu releases. The first is using the update manager a graphical user interface. The second involves the command line and is useful for server upgrades.
 
 Upgrading with GUI
------------------
+------------------
 -First ensure your system is up-to-date by starting Software Updater and performing software updates
   - This can be done by clicking the  Menu (Alt + F1) ->System tools ->Software Updater
   - When prompted click Install Now
@@ -21,7 +21,7 @@ Upgrading with GUI
     - and type in the command "update-manager -d", where the d flag refers to upgrade from hte supported to the development release
 
 Upgrading with command line
------------------
+---------------------------
 
 Do release upgrade is the command line tool for upgrading lubuntu releases. To run it you need root privledges which from the command line means typing sudo in front to run as root. Upgrades to a new operating system version can sometimes cause problems so please backup all your files beforehand and you should be backing up your files anyway to not lose them. The command you need to enter is sudo do-release-upgrade on the command line this checks if a new version is released  and will upgrade. This will upgrade a lot of packages so plugging in your laptop is strongly recommended.  
 

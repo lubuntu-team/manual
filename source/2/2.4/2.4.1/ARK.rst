@@ -1,7 +1,7 @@
 Chapter 2.4.1 ARK
 =================
 
-ARK is a file archieve so it can compress and decompress files 
+ARK is a file archieve utility. It can be used to view, compress, and decompress files.
 
 Supported file formats include:
 
@@ -17,7 +17,7 @@ Screenshot
 
 Useage
 ------
-To open a file in a archieve double click it after open it in the archieve or single click the file and press open. If you want to extract or move a file out of the archieve press the piece of paper with an upward pointed arrow that says extract.  
+To open a file in a archieve, open the archieve, then double click the file  or select it and click the Open button. If you want to extract or move a file from the archieve, use the extract button.  
 
 Version
 -------

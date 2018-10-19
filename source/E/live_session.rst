@@ -1,15 +1,18 @@
-Appendix E live session
+Appendix E Live Session
 =======================
 
-A live session is running you computer off of bootable media that also contains the installer. 
+It is possible to use Lubuntu without installing it. In a live session yoru computer is running off a bootable media (USB, CD, or DVD). The session can also be used to install Lubuntu. 
 
 Reasons for using live session:
-- Hardware testing
-- Install broke.
-- Carrying something lighter than laptop to use on a friends computer
+- Hardware testing and trouble shooting.
+- OS testing.
+- Fixing broken installs.
+- Carrying something lighter than laptop to use on a friends computer.
+- Backing up files
 
 
-A live session does have some quirks. If your computer turns on and won't boot you can run the live session. You could then mount the disk currently on the drive and backup all of your pictures or send an email. If your hardrive or ssd is no longer working you can boot a live session and then order replacment parts. You also can feel free to try different things out in a live session.
+
+A good example of when you would use a live session is if your computer turns on and won't boot, you can run the live session. You could then mount the disk and backup all of your pictures or send an email. If your hardrive or ssd is no longer working you can boot a live session and then order replacment parts. You also can feel free to try different things out in a live session.
 
 .. warning::
  In a live session anything you do not save to external media or a mounted drive specifically will be lost when you power off your machine. 

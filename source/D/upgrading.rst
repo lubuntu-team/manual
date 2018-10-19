@@ -67,7 +67,10 @@ After the installation reboot into the new 18.10 system.You be greeted by a new 
 
 Many of the old application will not be removed. Newer application with the same functionality where installed. Having this many unnesccesary application could bloat your system so uninstalling them may be a good idea. The following command will remove unneccesary applications.
 
-    sudo apt purge leafpad file-roller galculator gpicview xpad xfburn simple-scan  mtpaint pidgin sylpheed transmission-gtk abiword evince gnumeric audiacious gnome-mpv guvcview pcmanfm gdebi lxterminal hardinfo lightdm lxpanel lxsession obconf gnome-software gnome-disk-utilityi system-config-printer-gnome lxhotkey-gtk synaptic update-manager lxpolkit lxtask lxshortcut blueman usb-creator-gtk` . 
+
+.. code::
+
+    sudo apt purge leafpad file-roller galculator gpicview xpad xfburn simple-scan mtpaint pidgin sylpheed transmission-gtk abiword evince gnumeric audiacious gnome-mpv guvcview pcmanfm gdebi lxterminal hardinfo lightdm lxpanel lxsession obconf gnome-software gnome-disk-utilityi system-config-printer-gnome lxhotkey-gtk synaptic update-manager lxpolkit lxtask lxshortcut blueman usb-creator-gtk` . 
 
 To remove uneeded dependencies enter the following command:
 

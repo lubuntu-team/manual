@@ -13,4 +13,4 @@ Lubuntu ships with version 0.7.0 of screenshot.
 
 How to Launch
 -------------
-To launch screenshot from the menu -> Grapics -> Screenshot or run lximage-qt -s from the command line.
+To launch screenshot from the menu -> Grapics -> Screenshot or run lximage-qt -s from the command line. Pressing the printscreen key also brings up the screenshot dialog. 

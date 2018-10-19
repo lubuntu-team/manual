@@ -23,6 +23,7 @@ Contents
    4/Installing_Updating_and_Removing_Software
    5/Panel_Desktop_and_Runner
    D/upgrading
+   E/live_session
 
 Contact Us
 ==========

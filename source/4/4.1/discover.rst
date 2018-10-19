@@ -1,14 +1,19 @@
 Chapter 4.1 Discover
 ====================
-Discover is a software center that can graphically manage packages to install different programs and utilities.
+Discover is a software center. It allows you to install and remove programs and utilities.
 
-Useage
+Usage
 ------
-To search for applications in discover type in the box that says search and then press enter.To install an application after searching press the install button and then enter your password to make sure you want to install it. 
+Discover allows you to search for applications by using the search box. Clicking on a program will give you a description of it. When installing or removing software you will be prompted for your password.You can also browse through different cattegories on the left clicking on the different categories. 
 
-You can also browse through different cattegories on the left clicking ont he different categories of applications. If you have any updates you need to do check on the bottom of the left column for updates. If none are available you can click the button to check for updates manually. If you wait and then have updates press apply all updates and then enter your password in.
+Discover allows you to update software using the Updates tab located on the bottom of the left column. You can click the button to "check for updates" manually.
 
-To remove a package you can look through all of your installed packages you can search in the upper left hand corner and the press the remove button and enter your password to remove packages. 
+To remove software use the Installed tab. You can browse your installed packages, search usign the search bar (upper left corner), and the click the remove button to remove software. 
+
+Screenshot
+----------
+
+.. image:: discover_screen.png
 
 Version
 -------
@@ -16,4 +21,4 @@ Lubuntu ships with version 5.13.5 of discover.
 
 How to launch
 -------------
-To luanch Discover from the menu -> System Tools -> Discover or run plasma-discover from the command line. 
+To launch Discover from the menu -> System Tools -> Discover or run plasma-discover from the command line. 

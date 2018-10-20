@@ -15,6 +15,7 @@ The taskbar lists the windows you currently have open. To bring one of these win
 
 In the system tray there there are multiple widgets. With the volume applet you can change the volume by using the mouse-wheel with the mouse over the speaker icon left click the speaker icon and drag the volume up and down and toggle mute with the button at the bottom. To the far right is a clock, you can click the clock to bring up a pop up calendar window.  
 
+
     .. image:: system_tray.png
 
 As mentioned before the panel is highly configurable and you can customize it by right clicking at various places.

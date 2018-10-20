@@ -5,6 +5,7 @@ LXQt panel is the bar situated at the bottom of you screen by default. The panel
 
 Usage
 ------
+
 The application menu allows you to browse and search through available programs, a keyboard shortcut is conveniently available for this. The desktop switcher allows you to switch to another virtual desktop, allowing you to keep your workspace organized. The quick launch bar allows you to conveniently launch your file explorer (PCMan) and web browser (Firefox).
 
     .. image:: menu_search.png

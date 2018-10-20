@@ -19,7 +19,7 @@ Since 18.10 is not an LTS (Long Term Support) release, you may have to opt in fo
     - Close the update manager, and you should be prompted to upgrade to the latest release.
     - .. image:: 03_development_release.png
     - Alternatively, you can start a terminal (Ctrl + Alt + T) and type in the command "update-manager -d"
-        -  The -d flag is referring to the fact that it's moving to an unsupported release (if you are on the LTS track, this is accurate).
+    -  The -d flag is referring to the fact that it's moving to an unsupported release (if you are on the LTS track, this is accurate).
 
 Next, you will want to upgrade to the new release.
     - After rebooting, start the update manager.

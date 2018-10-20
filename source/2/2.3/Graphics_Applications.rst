@@ -1,4 +1,4 @@
-Chapter 2.2.3 Graphics Applications
+Chapter 2.3 Graphics Applications
 ===================================
 
 .. toctree::

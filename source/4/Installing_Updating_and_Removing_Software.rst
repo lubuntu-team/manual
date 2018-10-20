@@ -1,4 +1,4 @@
-Chapter 4 Installing Updating and Removing_Software
+Chapter 4 Installing Updating and Removing Software
 ===================================================
 
 .. toctree::

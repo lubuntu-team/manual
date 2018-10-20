@@ -7,7 +7,6 @@ Reasons for using live session:
 - Hardware testing and trouble shooting.
 - OS testing.
 - Fixing broken installs.
-- Carrying something lighter than laptop to use on a friends computer.
 - Backing up files
 
 

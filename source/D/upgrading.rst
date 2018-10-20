@@ -11,7 +11,7 @@ First ensure your system is up-to-date by starting Software Updater and performi
     - This can be done by clicking the  Menu (Alt + F1) ->System tools ->Software Updater
     - When prompted click Install Now. 
     - After the install is completed you may be prompted to reboot. If not reboot manually.
-    - .. image:: 02_up-to-date.png
+         .. image:: 02_up-to-date.png
 
 
 
@@ -19,7 +19,7 @@ First ensure your system is up-to-date by starting Software Updater and performi
 Since 18.10 is not a LTS (long term support) version you may have to opt in for non LTS version
     - Select the Updates-> Notify me of a new Ubuntu version -> For any new version, from Sofware and Updates
     - Close the update manager and the update manager should prompt you to upgrade to the lastest release.
-    - .. image:: 03_development_release.png 
+         .. image:: 03_development_release.png 
     - Alternatively you can start a terminal (Ctrl + Alt + T) and type in the command "update-manager -d" 
         -  where the d flag refers to upgrade from hte supported to the development release
 
@@ -27,9 +27,9 @@ Next you will want to upgrade to the new release.
     - After rebooting start the update manager. 
     - This can be done by clicking the  Menu (Alt + F1) ->Preferences ->Software and Updates
     - You should be prompted to upgrade. Click upgrade.
-    - .. image:: 04_release_available.png
+         .. image:: 04_release_available.png
     - Read the release notes
-    - .. image:: 05_release_notes.png
+         .. image:: 05_release_notes.png
     - Once the upgrade has completed restart your machine.
 
 

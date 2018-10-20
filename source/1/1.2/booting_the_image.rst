@@ -1,4 +1,4 @@
-Chapter 1.2: Booting the image
+Chapter 1.2 Booting the image
 ==============================
 
 Now that you have the ISO file, you need to put the image on a media device and boot the image for installation.

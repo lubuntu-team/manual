@@ -1,4 +1,4 @@
-Chapter 1.1: Retrieving the image
+Chapter 1.1 Retrieving the image
 =================================
 
 Before you install Lubuntu, you need to retrieve the correct image. Lubuntu provides support for several different CPU types and architectures, with a new version every six months (supported for nine months), and every two years being a long term support release (supported for three years).

@@ -1,16 +1,24 @@
 Chapter 5.1 LXQt Panel
 ======================
-LXQt panel is the panel shipped with Lubuntu. By default the panel contains a menu, a worksspace switcher, a quick-launcher, a taskbar for listing all of the open programs, a system tray containing applets and a clock.
+LXQt panel is the bar situated at the bottom of you screen by default. The panel contains an application menu, a desktop switcher, a quick-launch bar, a taskbar, a system tray containing applets and a clock. The panel is highly configurable with a number of settings and plugins.
 
-Useage
+
+Usage
 ------
-To use LXQt panel the menu to search for all the different programs documented and chapter 2 and all the other desktop ones you install from the repositories is to the top left by default. If you want to change to another virtual desktop you can use the desktop switcher. Next is a quick launch version with the icon looking like drawer of a file cabinet to launch pcmanfm-qt. The purple circle icon with a white bird as the head launches falkon the default web browser for Lubuntu. One further to the right is to show the desktop with a blue window with a black bar in the middle.  
 
-If you have multiple weapons oepn you can switch between them by left clicking on the taskbar on each windows. If you have multiple of the same window open you will be able to left click to open up the group and then select between the two different windows. If you want to close all of a group of multiple windows you can right click the group and click close all. To open and move a window up from minimized to the top is to move the scrollwheel up over the window.     
+The application menu allows you to browse and search through available programs, a keyboard shortcut is conveniently available for this. The desktop switcher allows you to switch to another virtual desktop, allowing you to keep your workspace organized. The quick launch bar allows you to conveniently launch your file explorer (PCMan) and web browser (Firefox).
 
-In the system tray there is the volume applet which you can change the volume by using the mousewheel with the mouse over the speaker icon left click the speaker icon and drag the volume up and down and toggle mute with the button at the bottom. 
+    .. image:: menu_search.png
 
-To the far right is a clock that can tell you what time it is. You can also click the clock to bring up a pop up calendar window.  
+The taskbar lists the windows you currently have open. To bring one of these windows to focus simply left click the windows on the task bar. If you have multiple of the same window left clicking will open the group, allowing you to select between the different windows. If you want to close a group of multiple windows you can right click the group and click close all.    
+
+    .. image:: multiple_tasks.png
+
+In the system tray there there are multiple widgets. With the volume applet you can change the volume by using the mouse-wheel with the mouse over the speaker icon left click the speaker icon and drag the volume up and down and toggle mute with the button at the bottom. To the far right is a clock, you can click the clock to bring up a pop up calendar window.  
+
+    .. image:: system_tray.png
+
+As mentioned before the panel is highly configurable and you can customize it by right clicking at various places.
 
 Version
 -------

@@ -15,7 +15,9 @@ Useage
 ------
 To change the useage Qt widget will change the buttons and tooblbars look on lubuntu in Qt applications. Check to apply Set GTk settings will apply to GTk applications. The checkbox to apply on single click has makes things you normally need two clicks for one click.  
 
-The icons theme changes desktop icons on your computer and if you click on the icon theme which is previewed on horizontal rows. 
+The icons theme changes desktop icons on your computer and if you click on the icon theme which is previewed on horizontal rows.
+
+To change the font size that desktop applications use choose the font tab and use the point size and enter in the size you want or use the up and down arrows to increase or decrease font size respectively. To change the default font there is a drop down box for font name that you can type the font name you or select from the drop down menu.  
 
 
 How to launch

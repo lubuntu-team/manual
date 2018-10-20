@@ -12,23 +12,26 @@ First, ensure your system is up-to-date by starting Software Updater and perform
     - This can be done by clicking the Menu (Alt + F1) -> System Tools -> Software Updater.
     - When prompted, click Install Now.
     - After the install is completed you may be prompted to reboot. If not, reboot manually.
-     - .. image:: 02_up-to-date.png
+
+.. image:: 02_up-to-date.png
 
 Since 18.10 is not an LTS (Long Term Support) release, you may have to opt in for non LTS versions of Lubuntu.
     - Select the Updates -> Notify me of a new Ubuntu version -> For any new version, from Software and Updates.
     - Close the update manager, and you should be prompted to upgrade to the latest release.
-    - .. image:: 03_development_release.png
     - Alternatively, you can start a terminal (Ctrl + Alt + T) and type in the command "update-manager -d"
-    -  The -d flag is referring to the fact that it's moving to an unsupported release (if you are on the LTS track, this is accurate).
+    - The -d flag is referring to the fact that it's moving to an unsupported release (if you are on the LTS track, this is accurate).
+
+.. image:: 03_development_release.png
 
 Next, you will want to upgrade to the new release.
     - After rebooting, start the update manager.
     - This can be done by clicking the Menu (Alt + F1) -> Preferences -> Software and Updates.
     - You should be prompted to upgrade. Click upgrade.
-    - .. image:: 04_release_available.png
     - Read the release notes. **This is important, in case there is information you need to know.**
-    - .. image:: 05_release_notes.png
     - Once the upgrade has completed, restart your machine.
+
+.. image:: 04_release_available.png
+.. image:: 05_release_notes.png
 
 
 Upgrading with command line

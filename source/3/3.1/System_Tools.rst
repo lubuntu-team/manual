@@ -6,7 +6,7 @@ Chapter 3.1 System Tools
    :titlesonly:
 
    3.1.1/fcitx
-   3.1.2/htop 
+   3.1.2/htop
    3.1.3/qterminal
    3.1.5/nm-tray
    3.1.6/qps

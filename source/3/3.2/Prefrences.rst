@@ -7,7 +7,7 @@ Chapter 3.2 Prefrences
 
   3.2.1/LXQt_configuration_center
   3.2.2/appearnce
-  3.2.3/brightness 
+  3.2.3/brightness
   3.2.4/date_and_time
   3.2.5/desktop
   3.2.6/desktop_notifications
@@ -20,4 +20,3 @@ Chapter 3.2 Prefrences
   3.2.14/shortcut_keys
   3.2.15/users_and_groups
   3.2.16/window_effects
-  

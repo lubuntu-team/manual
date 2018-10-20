@@ -5,6 +5,10 @@ LXQt panel is the bar situated at the bottom of you screen by default. The panel
 
 Usage
 ------
+<<<<<<< HEAD
+=======
+
+>>>>>>> 80ad115cffbeda4aeac8969c381d6142396ba0d8
 The application menu allows you to browse and search through available programs, a keyboard shortcut is conveniently available for this. The desktop switcher allows you to switch to another virtual desktop, allowing you to keep your workspace organized. The quick launch bar allows you to conveniently launch your file explorer (PCMan) and web browser (Firefox).
 
     .. image:: menu_search.png
@@ -14,7 +18,10 @@ The taskbar lists the windows you currently have open. To bring one of these win
     .. image:: multiple_tasks.png
 
 In the system tray there there are multiple widgets. With the volume applet you can change the volume by using the mouse-wheel with the mouse over the speaker icon left click the speaker icon and drag the volume up and down and toggle mute with the button at the bottom. To the far right is a clock, you can click the clock to bring up a pop up calendar window.  
+<<<<<<< HEAD
 
+=======
+>>>>>>> 80ad115cffbeda4aeac8969c381d6142396ba0d8
 
     .. image:: system_tray.png
 

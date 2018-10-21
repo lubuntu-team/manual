@@ -1,0 +1,96 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/index.rst:2
+msgid "Welcome to the Lubuntu Manual!"
+msgstr ""
+
+#: ../../source/index.rst:4
+msgid ""
+"Welcome to the Lubuntu Manual! This is the official reference book for "
+"using Lubuntu. This manual covers many topics, such as installation "
+"instructions, applications Lubuntu provides, and much more!"
+msgstr ""
+
+#: ../../source/index.rst:7
+msgid "What is Lubuntu?"
+msgstr ""
+
+#: ../../source/index.rst:9
+msgid ""
+"The project’s goal is to provide a lightweight yet functional Linux "
+"distribution based on a rock-solid Ubuntu base. Lubuntu provides a simple"
+" but modern and powerful graphical user interface, and comes with a wide "
+"variety of applications so you can browse, email, chat, play, and be "
+"productive. Lubuntu was formerly a distribution for low-end hardware, but"
+" `we have recently refocused <https://lubuntu.me/taking-a-new-"
+"direction/>`_."
+msgstr ""
+
+#: ../../source/index.rst:11
+msgid ""
+"Members of the team take care of LXQt and other packages that are part of"
+" Lubuntu in the Ubuntu archive, as well as the LXDE packages in the LTS "
+"releases of Lubuntu. Lubuntu received official recognition as a formal "
+"member of the Ubuntu family beginning with Lubuntu 11.10."
+msgstr ""
+
+#: ../../source/index.rst:14
+msgid "Contents"
+msgstr ""
+
+#: ../../source/index.rst:29
+msgid "Contact Us"
+msgstr ""
+
+#: ../../source/index.rst:31
+msgid ""
+"Do you have questions? Want to get involved? Take a look at our official "
+"website at `Lubuntu.me <https://lubuntu.me>`_ where you can find `the "
+"Lubuntu blog <https://lubuntu.me/blog/>`_, `ways to get in contact with "
+"us <https://lubuntu.me/links/>`_, and `our Phabricator instance "
+"<https://phab.lubuntu.me/>`_ where we do most of the Lubuntu development."
+msgstr ""
+
+#: ../../source/index.rst:34
+msgid "Thank you!"
+msgstr ""
+
+#: ../../source/index.rst:36
+msgid "Thank you for choosing to use Lubuntu!"
+msgstr ""
+
+#: ../../source/index.rst
+msgid "Authors"
+msgstr ""
+
+#: ../../source/index.rst:38
+msgid "Simon Quigley, Lyn Perrine, Jacob Kim, Daniel Lim"
+msgstr ""
+
+#: ../../source/index.rst
+msgid "Translators"
+msgstr ""
+
+#: ../../source/index.rst:39
+msgid "Marcin Mikołajczak"
+msgstr ""
+

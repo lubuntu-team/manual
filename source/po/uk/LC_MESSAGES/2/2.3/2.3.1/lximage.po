@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/2/2.3/2.3.1/lximage.rst:2
+msgid "Chapter 2.3.1 lximage"
+msgstr ""
+
+#: ../../source/2/2.3/2.3.1/lximage.rst:4
+msgid "Lximage is the default image viewer for lubuntu."
+msgstr ""
+
+#: ../../source/2/2.3/2.3.1/lximage.rst:7
+msgid "Useage"
+msgstr ""
+
+#: ../../source/2/2.3/2.3.1/lximage.rst:8
+msgid ""
+"To use lximage use the arrow to the right to view the next file in the "
+"folder and the arrow to the left to view the previous folder. To open a "
+"new picture press the open button which looks like a blue folder with a "
+"piece of paper in it. To save the file as something press the button that"
+" looks like a floppy disk."
+msgstr ""
+
+#: ../../source/2/2.3/2.3.1/lximage.rst:10
+msgid ""
+"If you wish to print a picture after viewing it from the file menu -> "
+"print or press control+ p to bring up a print dialog."
+msgstr ""
+
+#: ../../source/2/2.3/2.3.1/lximage.rst:12
+msgid ""
+"To rotate an image to the right press the circular arrrow that points to "
+"the right or go to edit -> rotate clockwise. To rotate conterclockwise "
+"use the circular arrow pointing to the left or edit ->rotate "
+"conterclockwise. To zoom in on a picture press the icon with a magnifying"
+" glass with a + symobol on it or press control + +. To zoom out press the"
+" button of a magnifying glass with a - symbol in it or press control + -."
+msgstr ""
+
+#: ../../source/2/2.3/2.3.1/lximage.rst:15
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/2/2.3/2.3.1/lximage.rst:19
+msgid "Version"
+msgstr ""
+
+#: ../../source/2/2.3/2.3.1/lximage.rst:20
+msgid "Lubuntu ships with version 0.7.0 or lximage."
+msgstr ""
+
+#: ../../source/2/2.3/2.3.1/lximage.rst:23
+msgid "How to launch"
+msgstr ""
+
+#: ../../source/2/2.3/2.3.1/lximage.rst:24
+msgid ""
+"To launch lximage from the menu -> graphics - > lximage or run lximage-qt"
+" from the command line."
+msgstr ""
+

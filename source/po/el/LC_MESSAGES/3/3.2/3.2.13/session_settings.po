@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/3/3.2/3.2.13/session_settings.rst:2
+msgid "Chapter 3.2.13 Session Settings"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.13/session_settings.rst:4
+msgid "Session Settings is a way to change what happens when log into lubuntu."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.13/session_settings.rst:7
+msgid "Useage"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.13/session_settings.rst:8
+msgid ""
+"To change the window manager used by LXQt on the basic settings tab under"
+" the basic setting tab under the drop down menu labeled window manager "
+"choose from the drop down list or search if the drop down list does not "
+"see it. LXQt modules lists the different part of LXQt if you find you do "
+"not want part of LXQt active you can enable or disable them here. If you "
+"wish to start the compton X11 compositor you can do so here which is off "
+"by default as that adds more lighness."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.13/session_settings.rst:10
+msgid ""
+"The autostart applications lets you choose which appliactions to "
+"autostart like managers for print queues. All of these are checkboxes to "
+"start various programs."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.13/session_settings.rst:13
+msgid "Version"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.13/session_settings.rst:14
+msgid "Lubuntu ships with version 0.13.0 of session settings."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.13/session_settings.rst:17
+msgid "How to launch"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.13/session_settings.rst:18
+msgid ""
+"To launch session settings from the menu -> Prefrences -> LXQt settings "
+"-> session settings. From LXQt configuration center press the button that"
+" looks like a triagnular blue flag and is labeled with session settings. "
+"To run session settings from the command line run lxqt-config-session."
+msgstr ""
+

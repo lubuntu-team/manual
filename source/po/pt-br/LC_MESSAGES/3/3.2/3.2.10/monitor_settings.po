@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/3/3.2/3.2.10/monitor_settings.rst:2
+msgid "Chapter 3.2.10 Monitor Settings"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.10/monitor_settings.rst:4
+msgid "Montior settings controls your monitor(s) resolution and refresh rate."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.10/monitor_settings.rst:8
+msgid "Version"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.10/monitor_settings.rst:9
+msgid "Lubuntu ships with version 0.13.0 of monitor settings."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.10/monitor_settings.rst:12
+msgid "Useage"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.10/monitor_settings.rst:13
+msgid ""
+"If you use a single monitor you can change your single monitor resolution"
+" on the right hand size and select your resolution. When you change your "
+"resolution you will be asked to confirm to make sure you don't make a "
+"chocie that makes it harder to use your computer."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.10/monitor_settings.rst:15
+msgid ""
+"If you want to rotate a monitor on the advanced tab from the  menu "
+"labeled rotation choose the way you want to rotate the monitor with "
+"inverted being upsdie down. Below you can also choose the refresh rate of"
+" monitor from the drop down menu to choose how fast your monitor "
+"refreshes."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.10/monitor_settings.rst:17
+msgid "To display info on your monitor click the info tab and read that info."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.10/monitor_settings.rst:19
+msgid ""
+"With multiple monitors you can in the set position you can drag the "
+"different screen around drag the two monitors around. The fast menu "
+"extended view sets you to set extended showing different things on "
+"different monitors. Selecting a unified view shows the same thing on both"
+" screens. First only shows up the first screen while second only shows "
+"only the second."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.10/monitor_settings.rst:22
+msgid "How to launch"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.10/monitor_settings.rst:23
+msgid ""
+"To launch monitor settings from the menu -> Prefrences -> LXQt settings "
+"-> Monitor settings. From lxqt-configuration-center press the button for "
+"monitor settings that looks like a desktop monitor or run lxqt-config-"
+"monitor from the command line."
+msgstr ""
+

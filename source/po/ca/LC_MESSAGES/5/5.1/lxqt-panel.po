@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/5/5.1/lxqt-panel.rst:2
+msgid "Chapter 5.1 LXQt Panel"
+msgstr ""
+
+#: ../../source/5/5.1/lxqt-panel.rst:3
+msgid ""
+"LXQt Panel is the bar situated at the bottom of your screen by default. "
+"The panel contains an application menu, a desktop switcher, a quick-"
+"launch bar, a taskbar, a system tray containing applets, and a clock. The"
+" panel is highly configurable with a number of settings and plugins."
+msgstr ""
+
+#: ../../source/5/5.1/lxqt-panel.rst:6
+msgid "Usage"
+msgstr ""
+
+#: ../../source/5/5.1/lxqt-panel.rst:8
+msgid ""
+"The application menu allows you to browse and search through available "
+"programs; a keyboard shortcut is conveniently available for this. The "
+"desktop switcher allows you to switch to another virtual desktop, "
+"allowing you to keep your workspace organized. The quick launch bar "
+"allows you to conveniently launch your file explorer (PCManFM Qt) and web"
+" browser (Firefox)."
+msgstr ""
+
+#: ../../source/5/5.1/lxqt-panel.rst:12
+msgid ""
+"The taskbar lists the windows you currently have open. To bring one of "
+"these windows to focus simply left click the windows on the task bar. If "
+"you have multiple of the same window left clicking will open the group, "
+"allowing you to select between the different windows. If you want to "
+"close a group of multiple windows you can right click the group and click"
+" close all."
+msgstr ""
+
+#: ../../source/5/5.1/lxqt-panel.rst:16
+msgid ""
+"In the system tray there there are multiple widgets. With the volume "
+"applet you can change the volume by using the mouse-wheel with the mouse "
+"over the speaker icon left click the speaker icon and drag the volume up "
+"and down and toggle mute with the button at the bottom. To the far right "
+"is a clock, you can click the clock to bring up a pop up calendar window."
+msgstr ""
+
+#: ../../source/5/5.1/lxqt-panel.rst:20
+msgid ""
+"As mentioned before, the panel is highly configurable and you can "
+"customize it by right clicking at various places."
+msgstr ""
+
+#: ../../source/5/5.1/lxqt-panel.rst:23
+msgid "Version"
+msgstr ""
+
+#: ../../source/5/5.1/lxqt-panel.rst:24
+msgid "Lubuntu ships with version 0.13.0 of lxqt-panel."
+msgstr ""
+
+#: ../../source/5/5.1/lxqt-panel.rst:27
+msgid "How to launch"
+msgstr ""
+
+#: ../../source/5/5.1/lxqt-panel.rst:28
+msgid ""
+"lxqt-panel should auto launch by default. If you need to manually start "
+"it, run lxqt-panel from the command line."
+msgstr ""
+

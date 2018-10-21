@@ -10,3 +10,5 @@ Chapter 3.1 System Tools
    3.1.3/qterminal
    3.1.5/nm-tray
    3.1.6/qps
+   3.1.7/kde_partitionmanager
+

@@ -7,4 +7,5 @@ This chapter will teach you how to use GUI to install update and remove software
   :maxdepth: 2
   :titlesonly:
 
-  4.1/discover 
+  4.1/discover
+  4.2/muon 

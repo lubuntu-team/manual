@@ -22,6 +22,7 @@ Contents
    3/System_Tools_and_Prefrences
    4/Installing_Updating_and_Removing_Software
    5/Panel_Desktop_and_Runner
+   C/command_line
    D/upgrading
    E/live_session
 

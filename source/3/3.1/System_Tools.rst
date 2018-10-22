@@ -1,6 +1,8 @@
 Chapter 3.1 System Tools
 ========================
 
+This chapter will give you system tools to administrate your system.
+
 .. toctree::
    :maxdepth: 2
    :titlesonly:

@@ -7,6 +7,8 @@ Useage
 ------
 To move between cells press the arrow keys. To enter data into cells type in the keyboard. To sum data from cells in the cell where you want the sum is to press the button that looks like Σ character and then drag the mouse over the cells you want to add.  
 
+To save your spreadsheet you need to press the button that looks like a floppy disk, press the keyboard shortcut or go to file menu -> save. To open a file press the button that looks like a brown folder and add selct the file you want from the dialog.   
+
 Version
 -------
 Lubuntu ships with version  6.1.1.2 of libreoffice Calc. 

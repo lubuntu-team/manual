@@ -1,371 +1,252 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Polish (lubuntu-manual)\n"
+"Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-31 22:49+0100\n"
-"PO-Revision-Date: 2018-01-31 23:43+0100\n"
-"Last-Translator: Marcin Mikołajczak <me@m4sk.in>\n"
-"Language: pl\n"
-"Language-Team: Polish <http://weblate.m4sk.in/projects/lubuntu-manual/index/pl/"
-">\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n"
-"%100>=20) ? 1 : 2;\n"
+"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.5.3\n"
-"X-Generator: Poedit 2.0.6\n"
+"Generated-By: Babel 2.6.0\n"
 
 #: ../../source/1/1.1/retrieving_the_image.rst:2
-msgid "Chapter 1.1: Retrieving the image"
-msgstr "Rozdział I.1: Uzyskanie obrazu ISO"
+msgid "Chapter 1.1 Retrieving the image"
+msgstr ""
 
 #: ../../source/1/1.1/retrieving_the_image.rst:4
 msgid ""
-"Before you install Lubuntu, you need to retrieve the correct image. Lubuntu "
-"offers two different kinds of images, Alternate and Desktop images. Lubuntu also "
-"provides support for many different CPU architectures. Lubuntu releases a new "
-"version every six months (supported for nine months), with every two years "
-"having a long term support release (supported for three years)."
+"Before you install Lubuntu, you need to retrieve the correct image. "
+"Lubuntu provides support for several different CPU types and "
+"architectures, with a new version every six months (supported for nine "
+"months), and every two years being a long term support release (supported"
+" for three years)."
 msgstr ""
-"Zanim zainstalujesz Lubuntu, musisz zdobyć odpowiedni obraz instalacyjny. "
-"Lubuntu jest dystrybuowane w dwóch rodzajach obrazów – Desktop i Alternate. "
-"Lubuntu obsługuje wiele architektur. Wydania Lubuntu pojawiają się co 6 miesięcy "
-"(wspierane przez 9 miesięcy), a co 2 lata pojawia się wydanie o przedłużonym "
-"okresie wsparcia (LTS) (wspierane przez 3 lata)."
 
-#: ../../source/1/1.1/retrieving_the_image.rst:10
-msgid "Choosing between Alternate and Desktop images"
-msgstr "Wybór pomiędzy obrazem Alternate a Desktop"
-
-#: ../../source/1/1.1/retrieving_the_image.rst:11
-msgid ""
-"Alternate images are mainly intended for older, lower spec hardware and uses a "
-"non-graphical installer. The Desktop version offers a live session to try out "
-"Lubuntu and make sure all of your hardware works before you install it on your "
-"computer. The installer on the desktop is a graphical installer where you can "
-"use a mouse and keyboard and it is more user friendly, but this takes more "
-"resources than what is usually required to run Lubuntu itself, due to the fact "
-"that the desktop image runs from your RAM while Lubuntu normally runs from your "
-"hard drive. If your computer has less than 512 MB of RAM it is recommended to "
-"use the alternate installer as it will perform better with your system. The "
-"alternate installer does not provide a live session so therefore it uses less "
-"RAM."
-msgstr ""
-"Obrazy Alternate przeznaczone są głównie na starsze komputery ze słabszym "
-"sprzętem. Obraz Desktop oferuje sesję live pozwalającą na sprawdzenie, czy "
-"system poprawnie funkcjonuje z tym sprzętem, zanim go zainstalujesz. Obraz "
-"Desktop oferuje bardziej przyjazny instalator obsługiwany z użyciem myszy, który "
-"zużywa więcej pamięci RAM niż typowa sesja zainstalowanego Lubuntu. Jeżeli "
-"komputer posiada mniej niż 512 MB RAM-u, zalecana jest instalacja z użyciem "
-"obrazu Alternate. Nie zawiera on sesji live, więc wykorzystuje mniej pamięci RAM."
-
-#: ../../source/1/1.1/retrieving_the_image.rst:22
-msgid "Lubuntu offers images for three different architectures:"
-msgstr "Obrazy Lubuntu są dostępne na trzy architektury procesora:"
-
-#: ../../source/1/1.1/retrieving_the_image.rst:20
-msgid "amd64 (commonly referred to as 64-bit)"
-msgstr "amd64 (często nazywana 64-bit)"
-
-#: ../../source/1/1.1/retrieving_the_image.rst:21
-msgid "i386 (commonly referred to as 32-bit)"
-msgstr "i386 (często nazywana 32-bit)"
-
-#: ../../source/1/1.1/retrieving_the_image.rst:22
-#: ../../source/1/1.1/retrieving_the_image.rst:41
-msgid "PowerPC"
-msgstr "PowerPC"
-
-#: ../../source/1/1.1/retrieving_the_image.rst:25
+#: ../../source/1/1.1/retrieving_the_image.rst:7
 msgid "Architectures"
-msgstr "Architektury"
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:8
+msgid "amd64 (commonly referred to as 64-bit)"
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:9
+msgid "i386 (commonly referred to as 32-bit)"
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:14
+msgid "amd64"
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:15
+msgid ""
+"The amd64 image will work with most modern processors. The best way to "
+"determine if your computer has an amd64 or i386 processor is to boot the "
+"image. It's the only way that you will be able to know for sure what "
+"architecture your computer is. amd64 computers are backwards compatible "
+"with i386 images. You may want to use an i386 image instead if you have "
+"an amd64 processor with very low amounts of RAM."
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:18
+msgid "i386"
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:19
+msgid ""
+"This is the original 32-bit architecture that will work best on computers"
+" with very low amounts of RAM and processing power."
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:22
+msgid "LTS vs. Regular Releases"
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:24
+msgid ""
+"Lubuntu offers two types of releases. The **Long Term Support** release, "
+"or the **LTS**, is the release recommended for most users. It is "
+"supported for three years after the release date and does not contain new"
+" features. Throughout the course of the cycle, the Ubuntu Kernel Team "
+"will deliver **Hardware Enablement** updates, or **HWE** updates, to "
+"Lubuntu via Linux kernel updates. Additionally, all currently-supported "
+"Lubuntu releases use the **LXDE** desktop environment, which is the "
+"traditional Lubuntu experience."
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:26
+msgid ""
+"For users looking to try new features every six months at the expense of "
+"the support cycle length, Lubuntu offers **interim releases**, or "
+"**regular releases**. These releases, while they are considered stable, "
+"are testing grounds for major, new features which will be rolled into the"
+" LTS release. Users of the regular releases are typically enthusiasts and"
+" somewhat more experienced users looking for a fresher experience."
+msgstr ""
 
 #: ../../source/1/1.1/retrieving_the_image.rst:28
-msgid "amd64"
-msgstr "amd64"
-
-#: ../../source/1/1.1/retrieving_the_image.rst:29
 msgid ""
-"The amd64 image will work with most modern processors. The best way to determine "
-"if your computer has an amd64 or i386 processor is to boot the image. It's the "
-"only way that you will be able to know for sure what architecture your computer "
-"is. amd64 computers are backwards compatible with i386 images. You may want to "
-"use an i386 image instead if you have an amd64 processor with very low amounts "
-"of RAM."
+"**It is extremely important that if you choose this path, you upgrade to "
+"each successive regular release shortly after it comes out.** If you are "
+"not comfortable doing this, you should consider using the LTS release "
+"instead."
 msgstr ""
-"Obraz amd64 działa z większością współczesnych komputerów. Najlepszym sposobem, "
-"aby stwierdzić czy komputer obsługuje daną architekturę jest próba uruchomienia "
-"danego obrazu. Komputery amd64 są wstecznie kompatybilne z architekturą i386. "
-"Możesz też uruchomić system i386 na komputerze amd64, jeżeli ma on małą ilość "
-"RAM-u."
 
-#: ../../source/1/1.1/retrieving_the_image.rst:36
-msgid "i386"
-msgstr "i386"
+#: ../../source/1/1.1/retrieving_the_image.rst:31
+msgid "Ways to download the image"
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:32
+msgid ""
+"Now that the decision of which architecture and release type you need is "
+"made, you will need to download the image."
+msgstr ""
 
 #: ../../source/1/1.1/retrieving_the_image.rst:37
-msgid ""
-"This is the original 32-bit architecture that will work best on computers with "
-"very low amounts of RAM."
+msgid "There are several ways to download the Lubuntu image:"
 msgstr ""
-"Oryginalna architektura 32-bit, która działa najlepiej na komputerach z małą "
-"ilością RAM-u."
 
-#: ../../source/1/1.1/retrieving_the_image.rst:42
-msgid ""
-"PowerPC is for older Macintosh hardware from before 2006 and IBM OpenPower "
-"systems. Lubuntu 16.04 LTS is the only remaining release that ships with a "
-"PowerPC image, and binaries are no longer built for it in the newer releases."
+#: ../../source/1/1.1/retrieving_the_image.rst:35
+msgid "HTTP download (from your web browser or terminal)."
 msgstr ""
-"PowerPC to architektura starszego sprzętu Macintosh sprzed 2006 roku i rozwiązań "
-"IBM OpenPower. Lubuntu 16.04 LTS jest jedynym wydaniem dostarczanym z obrazem "
-"dla PowerPC, a binaria nie będą budowane dla nowszych wydań."
+
+#: ../../source/1/1.1/retrieving_the_image.rst:36
+msgid ""
+"BitTorrent (from a BitTorrent client such as Transmission, recommended "
+"for Windows and macOS users)."
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:37
+msgid "zsync (from the terminal, recommended for Linux users)."
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:39
+msgid ""
+"You can also download the image via Jigdo but we will not cover that in "
+"this manual."
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:41
+msgid ""
+"An easy download page which lists the HTTP and BitTorrent downloads is "
+"available `on the Lubuntu website's Downloads page "
+"<https://lubuntu.me/downloads/>`_, however for zsync downloads, you need "
+"to visit `cdimage.ubuntu.com <http://cdimage.ubuntu.com/lubuntu/>`_, "
+"which has the files listed."
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:43
+msgid "Below you can find more detailed notes on each download method."
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:46
+msgid "Downloading the image via HTTP"
+msgstr ""
 
 #: ../../source/1/1.1/retrieving_the_image.rst:47
-msgid "Ways to download the image"
-msgstr "Sposoby na pobranie obrazu"
-
-#: ../../source/1/1.1/retrieving_the_image.rst:48
 msgid ""
-"Now that the decision of which image type and architecture is done, you will "
-"need to download the image."
+"*We don't recommend using this method as it's often slower and less "
+"efficient than the other methods.*"
 msgstr ""
-"Po wybraniu rodzaju obrazu i architektury, możesz przejść do pobierania obrazu."
+
+#: ../../source/1/1.1/retrieving_the_image.rst:49
+msgid ""
+"After you download the image, you **must** verify it, as this is the most"
+" common reason there are problems with a Lubuntu install. There is `a "
+"helpful page on the Ubuntu Community Help wiki "
+"<https://help.ubuntu.com/community/VerifyIsoHowto>`_ that can guide you "
+"in the right direction."
+msgstr ""
 
 #: ../../source/1/1.1/retrieving_the_image.rst:53
-msgid "There are several ways to download the Lubuntu image:"
-msgstr "Jest kilka sposobów na pobranie obrazu Lubuntu:"
-
-#: ../../source/1/1.1/retrieving_the_image.rst:51
-msgid "HTTP download (from your web browser or terminal)."
-msgstr "Pobieranie HTTP (z użyciem przeglądarki internetowej lub terminala)."
-
-#: ../../source/1/1.1/retrieving_the_image.rst:52
-msgid ""
-"BitTorrent (from a BitTorrent client such as Transmission, recommended for "
-"Windows and macOS users)."
+msgid "Downloading the image via BitTorrent"
 msgstr ""
-"BitTorrent (z użyciem klienta BitTorrent takiego jak Transmission, zalecane dla "
-"użytkowników Windows i macOS)."
 
-#: ../../source/1/1.1/retrieving_the_image.rst:53
-msgid "zsync (from the terminal, recommended for Linux users)."
-msgstr "zsync (w terminalu, zalecane dla użytkowników Linuksa)."
-
-#: ../../source/1/1.1/retrieving_the_image.rst:55
+#: ../../source/1/1.1/retrieving_the_image.rst:54
 msgid ""
-"You can also download the image via Jigdo but we will not cover that in this "
-"manual."
+"Instead of downloading the image from one server, you can \"torrent\" the"
+" image, or download it from multiple sources instead of just one. This is"
+" often faster and saves the bandwidth of the Ubuntu cdimage servers. If "
+"you would like to learn more about BitTorrent, take a look at `the "
+"Wikipedia page on the subject "
+"<https://en.wikipedia.org/wiki/BitTorrent>`_."
 msgstr ""
-"Możesz też pobrać obraz z użyciem Jidgo, ale nie zostanie to opisane w tym "
-"podręczniku."
 
-#: ../../source/1/1.1/retrieving_the_image.rst:59
-msgid "Downloading the image via HTTP"
-msgstr "Pobieranie obrazu przez HTTP"
+#: ../../source/1/1.1/retrieving_the_image.rst:56
+msgid ""
+"In order to torrent the file, you need a BitTorrent client. We recommend "
+"`Transmission <https://transmissionbt.com/>`_, an Open Source BitTorrent "
+"client. Since Transmission only provides clients for Linux and macOS, we "
+"recommend `uTorrent <https://www.utorrent.com/>`_ for Windows users."
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:58
+msgid ""
+"The BitTorrent links can be found on our Downloads page or "
+"cdimage.ubuntu.com, both linked above."
+msgstr ""
 
 #: ../../source/1/1.1/retrieving_the_image.rst:60
 msgid ""
-"*We don't recommend using this method as it's often slower and less efficient "
-"than the other methods.*"
+"After you have downloaded the link you need, open it in your BitTorrent "
+"client. This will download the image. After this is done, we recommend "
+"that you leave your BitTorrent client open so you can seed this image for"
+" other people, which helps reduce bandwidth costs even further by "
+"decentralizing the download location for other users."
 msgstr ""
-"*Nie polecamy tej metody, ponieważ jest często wolniejsza i mniej wydajna od "
-"pozostałych.*"
 
-#: ../../source/1/1.1/retrieving_the_image.rst:62
+#: ../../source/1/1.1/retrieving_the_image.rst:64
+msgid "Downloading the image via zsync"
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:65
 msgid ""
-"To download the image via HTTP, you can either navigate to the `Ubuntu cdimage "
-"server <http://cdimage.ubuntu.com/lubuntu/releases/16.04/release/>`_ and select "
-"the ISO file you would like to download, or use the direct links below."
+"zsync is a convenient application that will automatically verify the "
+"checksum of the image once downloaded. The Lubuntu team uses this to "
+"download daily images as it will seamlessly download the delta since the "
+"last image was spun."
 msgstr ""
-"Aby pobrać obraz z użyciem HTTP, możesz przejść do `serwera obrazów CD Ubuntu "
-"<http://cdimage.ubuntu.com/lubuntu/releases/16.04/release/>`_ i wybrać plik ISO "
-"do pobrania, lub użyć jednego z poniższych odnośników."
-
-#: ../../source/1/1.1/retrieving_the_image.rst:67
-#: ../../source/1/1.1/retrieving_the_image.rst:87
-msgid "Direct links:"
-msgstr "Odnośniki bezpośrednie:"
-
-#: ../../source/1/1.1/retrieving_the_image.rst:66
-msgid ""
-"amd64 (`desktop <http://cdimage.ubuntu.com/lubuntu/releases/16.04/release/"
-"lubuntu-16.04.3-desktop-amd64.iso>`_, `alternate <http://cdimage.ubuntu.com/"
-"lubuntu/releases/16.04.1/release/lubuntu-16.04.1-alternate-amd64.iso>`_)"
-msgstr ""
-"amd64 (`desktop <http://cdimage.ubuntu.com/lubuntu/releases/16.04/release/"
-"lubuntu-16.04.3-desktop-amd64.iso>`_, `alternate <http://cdimage.ubuntu.com/"
-"lubuntu/releases/16.04.1/release/lubuntu-16.04.1-alternate-amd64.iso>`_)"
 
 #: ../../source/1/1.1/retrieving_the_image.rst:67
 msgid ""
-"i386 (`desktop <http://cdimage.ubuntu.com/lubuntu/releases/16.04/release/"
-"lubuntu-16.04.3-desktop-i386.iso>`_, `alternate <http://cdimage.ubuntu.com/"
-"lubuntu/releases/16.04.1/release/lubuntu-16.04.1-alternate-i386.iso>`_)"
+"In order to use zsync, you need to install it. Since this is a Linux-only"
+" client, you can get it from your distribution's package repository."
 msgstr ""
-"i386 (`desktop <http://cdimage.ubuntu.com/lubuntu/releases/16.04/release/"
-"lubuntu-16.04.3-desktop-i386.iso>`_, `alternate <http://cdimage.ubuntu.com/"
-"lubuntu/releases/16.04.1/release/lubuntu-16.04.1-alternate-i386.iso>`_)"
 
 #: ../../source/1/1.1/retrieving_the_image.rst:69
 msgid ""
-"After you download the image, you **must** verify it. There is `a helpful page "
-"on the Ubuntu Community Help wiki <https://help.ubuntu.com/community/"
-"VerifyIsoHowto>`_ that can guide you in the right direction."
+"If you are running Debian or Ubuntu (or a distribution based off of "
+"either), run the following command in a terminal:"
 msgstr ""
-"Po pobraniu obrazu ISO, **zweryfikuj** go. Dostępna jest `pomocna strona na wiki "
-"Pomocy Społeczności Ubuntu <https://help.ubuntu.com/community/VerifyIsoHowto>`_, "
-"która może pomóc w wykonaniu tego."
 
-#: ../../source/1/1.1/retrieving_the_image.rst:74
-msgid "Downloading the image via BitTorrent"
-msgstr "Pobieranie obrazu przez BitTorrent"
+#: ../../source/1/1.1/retrieving_the_image.rst:71
+msgid "sudo apt install zsync"
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:73
+msgid ""
+"Otherwise, there is a snap application you can download of zsync which "
+"should function mostly the same and should work on all Linux "
+"distributions:"
+msgstr ""
 
 #: ../../source/1/1.1/retrieving_the_image.rst:75
-msgid ""
-"Instead of downloading the image from one server, you can \"torrent\" the image, "
-"or download it from multiple sources instead of just one. This is often faster "
-"and saves the bandwidth of the Ubuntu cdimage servers. If you would like to "
-"learn more about BitTorrent, take a look at `the Wikipedia page on the subject "
-"<https://en.wikipedia.org/wiki/BitTorrent>`_."
+msgid "sudo snap install zsync"
 msgstr ""
-"Zamiast pobierania obrazu z jednego serwera, możesz pobrać obraz z użyciem "
-"BitTorrent. W ten sposób zapewne pobierzesz go szybciej i oszczędzisz "
-"przepustowość serwerów Ubuntu. Aby dowiedzieć się więcej o technologii "
-"BitTorrent, przeczytaj `artykuł na Wikipedii w tym temacie <https://pl.wikipedia."
-"org/wiki/BitTorrent>`_."
 
-#: ../../source/1/1.1/retrieving_the_image.rst:79
+#: ../../source/1/1.1/retrieving_the_image.rst:77
 msgid ""
-"In order to torrent the file, you need a BitTorrent client. We recommend "
-"`Transmission <https://transmissionbt.com/>`_, an Open Source BitTorrent client. "
-"Since Transmission only provides clients for Linux and macOS, we recommend "
-"`uTorrent <http://www.utorrent.com/>`_ for Windows users."
+"**You have now downloaded the image successfully. Please continue to "
+"Chapter 1.2.**"
 msgstr ""
-"Aby korzystać z plików torrent, potrzebujesz klienta BitTorrent. Polecamy "
-"`Transmission <https://transmissionbt.com/>`_ – otwartoźródłowy klient "
-"BitTorrent. Ponieważ Transmission nie jest dostępne na system Windows, "
-"użytkownikom tego systemu polecamy `uTorrent <http://www.utorrent.com/>`_."
 
-#: ../../source/1/1.1/retrieving_the_image.rst:82
-msgid ""
-"You first need to download the seed files. They are available on the `Ubuntu "
-"cdimage server <http://cdimage.ubuntu.com/lubuntu/releases/16.04/release/>`_, or "
-"you can use the direct links provided below."
-msgstr ""
-"Musisz pobrać pliki „ziaren”. Są dostępne na stronie `Serwera obrazów CD Ubuntu "
-"<http://cdimage.ubuntu.com/lubuntu/releases/16.04/release/>`_ lub użyć jednego z "
-"poniższych odnośników."
-
-#: ../../source/1/1.1/retrieving_the_image.rst:86
-msgid ""
-"amd64 (`desktop <http://cdimage.ubuntu.com/lubuntu/releases/16.10/release/"
-"lubuntu-16.10-desktop-amd64.iso.torrent>`_, `alternate <http://cdimage.ubuntu."
-"com/lubuntu/releases/16.10/release/lubuntu-16.10-alternate-amd64.iso.torrent>`_)"
-msgstr ""
-"amd64 (`desktop <http://cdimage.ubuntu.com/lubuntu/releases/16.10/release/"
-"lubuntu-16.10-desktop-amd64.iso.torrent>`_, `alternate <http://cdimage.ubuntu."
-"com/lubuntu/releases/16.10/release/lubuntu-16.10-alternate-amd64.iso.torrent>`_)"
-
-#: ../../source/1/1.1/retrieving_the_image.rst:87
-msgid ""
-"i386 (`desktop <http://cdimage.ubuntu.com/lubuntu/releases/16.10/release/"
-"lubuntu-16.10-desktop-i386.iso.torrent>`_, `alternate <http://cdimage.ubuntu.com/"
-"lubuntu/releases/16.10/release/lubuntu-16.10-alternate-i386.iso.torrent>`_)"
-msgstr ""
-"i386 (`desktop <http://cdimage.ubuntu.com/lubuntu/releases/16.10/release/"
-"lubuntu-16.10-desktop-i386.iso.torrent>`_, `alternate <http://cdimage.ubuntu.com/"
-"lubuntu/releases/16.10/release/lubuntu-16.10-alternate-i386.iso.torrent>`_)"
-
-#: ../../source/1/1.1/retrieving_the_image.rst:89
-msgid ""
-"After you have downloaded the link you need, open it in your BitTorrent client. "
-"This will download the image. After this is done, we recommend that you leave "
-"your BitTorrent client open so you can seed this image for other people."
-msgstr ""
-"Po pobraniu tego pliku, otwórz to w kliencie BitTorrent. W ten sposób zostanie "
-"pobrany obraz. Po pobraniu, polecamy pozostawienie włączonego klienta "
-"BitTorrent, aby udostępniać (seedować) obraz innym."
-
-#: ../../source/1/1.1/retrieving_the_image.rst:94
-msgid "Downloading the image via zsync"
-msgstr "Pobieranie obrazu z użyciem zsync"
-
-#: ../../source/1/1.1/retrieving_the_image.rst:95
-msgid ""
-"zsync is a convenient application that will automatically verify the checksum of "
-"the image once downloaded. The Lubuntu team uses this to download daily images "
-"as it will download the changes since the last image was released."
-msgstr ""
-"zsync jest wygodną aplikacją automatycznie sprawdzającą sumę kontrolną po "
-"pobraniu obrazu. Zespół Lubuntu korzysta z tego do pobierania codziennych "
-"obrazów, ponieważ może to pobrać jedynie zmiany z poszczególnych wydań."
-
-#: ../../source/1/1.1/retrieving_the_image.rst:98
-msgid ""
-"In order to use zsync, you need to install it. Since this is a Linux-only "
-"client, you can get it from your distribution's package repository."
-msgstr ""
-"Aby używać zsync, musisz zainstalować go. Ponieważ jest on dostępny tylko dla "
-"Linuksa, możesz pobrać go z repozytorium swojej dystrybucji."
-
-#: ../../source/1/1.1/retrieving_the_image.rst:101
-msgid ""
-"If you are running Debian or Ubuntu (or a distribution based off of either), run "
-"the following command in a terminal:"
-msgstr ""
-"Jeżeli korzystasz z Debiana lub Ubuntu (bądź dystrybucji opartej na jednej z "
-"nich), wykonaj następujące polecenie w terminalu:"
-
-#: ../../source/1/1.1/retrieving_the_image.rst:103
-msgid "sudo apt install zsync"
-msgstr "sudo apt install zsync"
-
-#: ../../source/1/1.1/retrieving_the_image.rst:105
-msgid ""
-"If you are running Fedora (or a distribution based off of it), run the following "
-"command in a terminal:"
-msgstr ""
-"Jeżeli korzystasz z Fedory (lub opartej na niej dystrybucji), wykonaj "
-"następujące polecenie:"
-
-#: ../../source/1/1.1/retrieving_the_image.rst:107
-msgid "sudo dnf install zsync"
-msgstr "sudo dnf install zsync"
-
-#: ../../source/1/1.1/retrieving_the_image.rst:109
-msgid ""
-"If you are running Arch (or a distribution based off of it), run the following "
-"command in a terminal:"
-msgstr ""
-"Jeżeli korzystasz z Archa (lub opartej na nim dystrybucji), wykonaj następujące "
-"polecenie:"
-
-#: ../../source/1/1.1/retrieving_the_image.rst:111
-msgid "sudo pacman -S zsync"
-msgstr "sudo pacman -S zsync"
-
-#: ../../source/1/1.1/retrieving_the_image.rst:113
-msgid ""
-"If you are running another distribution, you can find the source code `here "
-"<http://zsync.moria.org.uk/downloads>`_."
-msgstr ""
-"Jeżeli korzystasz z innej dystrybucji, możesz znaleźć kod źródłowy `tutaj "
-"<http://zsync.moria.org.uk/downloads>`_."
-
-#: ../../source/1/1.1/retrieving_the_image.rst:115
-msgid ""
-"**You have now downloaded the image successfully. Please continue to Chapter 1.2."
-"**"
-msgstr "**Udało Ci się pomyślnie pobrać obraz. Możesz przejść  do rozdziału I.2.**"
-
-#~ msgid ""
-#~ "PowerPC is for older Macintosh hardware from before 2006 and IBM OpenPower "
-#~ "systems. While we don't release PowerPC for non-LTS releases (like 16.10), "
-#~ "you can download a 16.04 image if you wish and upgrade it."
-#~ msgstr ""
-#~ "PowerPC to architektura starszych komputerów Macintosh sprzed 2006 roku i "
-#~ "sprzętu IBM OpenPower. Mimo że nie wydajemy obrazów dla wersji o krótkim "
-#~ "okresie wsparcia (np. 17.10), możesz pobrać obraz wersji 16.04 i "
-#~ "zaktualizować go."

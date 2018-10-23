@@ -1,6 +1,8 @@
 Chapter 5 Panel Desktop and Runner
 ==================================
 
+This chapter will teach you how to use the panel desktop icons the runner to launch applications and window management.
+
 .. toctree::
   :maxdepth: 2
   :titlesonly:

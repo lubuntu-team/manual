@@ -1,9 +1,9 @@
 Chapter 2.5 Sound and Video
 ===========================
 
-.. toctree:: 
+.. toctree::
   :maxdepth: 2
-  :titlesonly: 
+  :titlesonly:
 
   2.5.1/K3b
   2.5.2/pulseaudio_volume_control

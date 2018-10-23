@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/5/5.3/lxqt-runner.rst:2
+msgid "Chapter 5.3 Runner"
+msgstr ""
+
+#: ../../source/5/5.3/lxqt-runner.rst:4
+msgid ""
+"Runner allows you to search for and launch applications and commands in "
+"the LXQt environment. It is a quick and convenient way of finding what "
+"you're looking for."
+msgstr ""
+
+#: ../../source/5/5.3/lxqt-runner.rst:8
+msgid "Usage"
+msgstr ""
+
+#: ../../source/5/5.3/lxqt-runner.rst:10
+msgid ""
+"To search for a program, Alt + F2 and start typing a command. The search "
+"results will show below, similar to addressbar behavior in browsers. All "
+"installed applications can be launched this way and lxqt-runner can "
+"configured to store a history of recent programs."
+msgstr ""
+
+#: ../../source/5/5.3/lxqt-runner.rst:14
+msgid "Configuration"
+msgstr ""
+
+#: ../../source/5/5.3/lxqt-runner.rst:16
+msgid ""
+"lxqt-runner has a few configuration options. If you want to change the "
+"keyboard shortcut to launch programs, click the the downward arrow on the"
+" right side of the search bar, to open up the menu. Select the gear icon "
+"to configure, at the bottom there is a label that says shortcut and then "
+"a button that lists the current shortcut. Left click on the button and a "
+"countdown will begin in which time you need to press the key or "
+"combination of keystrokes you want to launch lxqt-runner. In this screen "
+"there are also tickboxes to keep a history of your commands and if you "
+"want the historical items shown first."
+msgstr ""
+
+#: ../../source/5/5.3/lxqt-runner.rst:19
+msgid "Screenshot"
+msgstr ""
+

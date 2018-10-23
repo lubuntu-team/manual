@@ -16,6 +16,8 @@ If you want to rotate a monitor on the advanced tab from the  menu labeled rotat
 
 To display info on your monitor click the info tab and read that info. 
 
+With multiple monitors you can in the set position you can drag the different screen around drag the two monitors around. The fast menu extended view sets you to set extended showing different things on different monitors. Selecting a unified view shows the same thing on both screens. First only shows up the first screen while second only shows only the second.  
+
 How to launch
 -------------
 To launch monitor settings from the menu -> Prefrences -> LXQt settings -> Monitor settings. From lxqt-configuration-center press the button for monitor settings that looks like a desktop monitor or run lxqt-config-monitor from the command line. 

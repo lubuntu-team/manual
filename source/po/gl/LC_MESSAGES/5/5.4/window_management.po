@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/5/5.4/window_management.rst:2
+msgid "Chapter 5.4 Window Management"
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:4
+msgid ""
+"Window management is how to manage the windows on your desktop. "
+"Underneath, Lubuntu uses Openbox by default as the window manager. This "
+"manages window allows you to drag, close, and make windows take up the "
+"whole screen. You also can drag the whole window around by clicking on "
+"the titlebar and dragging the window with the mouse."
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:6
+msgid ""
+"If you want to make your window bigger or smaller, you can grab the "
+"border of the window which should be highlighted in blue by default to "
+"drag or make the window bigger or smaller. To make a window take up the "
+"full screen or maximize it is to press the button on the titlebar to make"
+" the window that look like to arrows pointing towards opposite corners of"
+" the window. Pressing the X button will close the window. The button that"
+" looks like a - will iconify the window to make it only appear on the "
+"taskbar of lxqt-panel and in the window switching dialog better known to "
+"microsoft windows users as minimize."
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:8
+msgid ""
+"On the far left at the top of the window is the icon for the program. If "
+"you left click on the icon brings up a menu for window management. The "
+"send to desktop to send to desktop for several different desktops or all "
+"desktops at the bottom. The layer option on the menu always on top to "
+"make the window appear always on top. If you want to move something to "
+"always show to bottom or you can move it back to normal. The third icon "
+"is move and then you can drag them to where you want. Resize lets you "
+"move the mouse by resizing. Iconify lets you see it only on the taskbar. "
+"Maximize maximizes the window to make it take up all of the monitor. Roll"
+" up roll down makes the window just a titlebar. On the far bottom is this"
+" menu you can move it to close."
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:10
+msgid ""
+"If you want some useful keyboard shortcuts use the Super Key and press an"
+" arrow key to snap the window to that side of the screen."
+msgstr ""
+

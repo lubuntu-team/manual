@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/2/2.5/2.5.3/vlc.rst:2
+msgid "Chapter 2.5.3 VLC"
+msgstr ""
+
+#: ../../source/2/2.5/2.5.3/vlc.rst:4
+msgid ""
+"VLC is the default media player for Lubuntu that can open both audio and "
+"video files."
+msgstr ""
+
+#: ../../source/2/2.5/2.5.3/vlc.rst:7
+msgid "Useage"
+msgstr ""
+
+#: ../../source/2/2.5/2.5.3/vlc.rst:8
+msgid ""
+"To open media stored locally on your system click media open file and "
+"navigate your local files or press control +o on the keyboard to open "
+"files stored locally on your machine. If you wish to open media from "
+"somewhere on the internet on media press open network stream or press "
+"control n. To pause playback of a file press the button that look like "
+"two verical lines. To resume playback press the right playback button. To"
+" toggle fullscreen press the button which has the four corners of the "
+"screen to make it fullscreen and the four screens to have it back into "
+"windowed mode."
+msgstr ""
+
+#: ../../source/2/2.5/2.5.3/vlc.rst:10
+msgid ""
+"On the bottom right of vlc there is a bar that gets wider for volume. "
+"Click farther to the right to increase volume within vlc. Or hover the "
+"cursor over this bar and use the mousewheel to control volume. The button"
+" that looks like a speaker next to this toggles mute in vlc."
+msgstr ""
+
+#: ../../source/2/2.5/2.5.3/vlc.rst:13
+msgid "Version"
+msgstr ""
+
+#: ../../source/2/2.5/2.5.3/vlc.rst:14
+msgid "Lubuntu ships with version 3.0.4 of VLC."
+msgstr ""
+
+#: ../../source/2/2.5/2.5.3/vlc.rst:17
+msgid "How to launch"
+msgstr ""
+
+#: ../../source/2/2.5/2.5.3/vlc.rst:18
+msgid ""
+"to launch vlc in the menu go to Sound and video --> VLC media player or "
+"run vlc from the command line."
+msgstr ""
+

@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/2/2.4/2.4.1/ARK.rst:2
+msgid "Chapter 2.4.1 ARK"
+msgstr ""
+
+#: ../../source/2/2.4/2.4.1/ARK.rst:4
+msgid ""
+"ARK is a file archieve utility. It can be used to view, compress, and "
+"decompress files."
+msgstr ""
+
+#: ../../source/2/2.4/2.4.1/ARK.rst:6
+msgid "Supported file formats include:"
+msgstr ""
+
+#: ../../source/2/2.4/2.4.1/ARK.rst:8
+msgid "7 zip archives"
+msgstr ""
+
+#: ../../source/2/2.4/2.4.1/ARK.rst:9
+msgid "Java Archieve"
+msgstr ""
+
+#: ../../source/2/2.4/2.4.1/ARK.rst:10
+msgid "Tar Archieves"
+msgstr ""
+
+#: ../../source/2/2.4/2.4.1/ARK.rst:11
+msgid "Tar acrhieves compressed with bzip, gzip, lzip, LZMA, XZ compressed"
+msgstr ""
+
+#: ../../source/2/2.4/2.4.1/ARK.rst:12
+msgid "Zip Archieves"
+msgstr ""
+
+#: ../../source/2/2.4/2.4.1/ARK.rst:15
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/2/2.4/2.4.1/ARK.rst:19
+msgid "Useage"
+msgstr ""
+
+#: ../../source/2/2.4/2.4.1/ARK.rst:20
+msgid ""
+"To open a file in a archieve, open the archieve, then double click the "
+"file  or select it and click the Open button. If you want to extract or "
+"move a file from the archieve, use the extract button."
+msgstr ""
+
+#: ../../source/2/2.4/2.4.1/ARK.rst:23
+msgid "Version"
+msgstr ""
+
+#: ../../source/2/2.4/2.4.1/ARK.rst:24
+msgid "Lubuntu ships version 4:18.04.3 of ARK."
+msgstr ""
+
+#: ../../source/2/2.4/2.4.1/ARK.rst:27
+msgid "How to launch"
+msgstr ""
+
+#: ../../source/2/2.4/2.4.1/ARK.rst:28
+msgid ""
+"To launch ARK go to the menu -> Accessories -> ARK or run ark on the "
+"command line."
+msgstr ""
+

@@ -1,9 +1,9 @@
 Chapter 2.2 Office Applications
 ===============================
 
-.. toctree:: 
+.. toctree::
   :maxdepth: 2
-  :titlesonly: 
+  :titlesonly:
 
   2.2.1/libreoffice
   2.2.2/libreoffice_calc

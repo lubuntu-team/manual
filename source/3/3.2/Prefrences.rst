@@ -1,13 +1,15 @@
 Chapter 3.2 Prefrences
 ======================
 
+This chapter sets up the many prefrences included within lubuntu for themeing and customization. Be aware that this likely will make your system look different than the screenshots in this manual. 
+
 .. toctree::
   :maxdepth: 2
   :titlesonly:
 
   3.2.1/LXQt_configuration_center
   3.2.2/appearnce
-  3.2.3/brightness 
+  3.2.3/brightness
   3.2.4/date_and_time
   3.2.5/desktop
   3.2.6/desktop_notifications
@@ -20,4 +22,4 @@ Chapter 3.2 Prefrences
   3.2.14/shortcut_keys
   3.2.15/users_and_groups
   3.2.16/window_effects
-  
+  3.2.19/Printers.rst

@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:2
+msgid "Chapter 3.2.11 Openbox Settings"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:4
+msgid ""
+"Openbox settings changes configuration of openbox which is the default "
+"window manager of Lubuntu 18.10."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:7
+msgid "Version"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:8
+msgid "Lubuntu ships with version 0.13.0-1 of openbox settings."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:12
+msgid "How to launch"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:13
+msgid ""
+"To launch openbox settings from the menu -> Prefrences -> LXQt settings "
+"-> openbox settings. From LXQt settings press the openbox settings button"
+" with the wrench and screwdriver on a computer window or run obconf-qt "
+"from the command line."
+msgstr ""
+

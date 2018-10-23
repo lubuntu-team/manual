@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/3/3.2/3.2.12/power_management.rst:2
+msgid "Chapter 3.2.12 Power Management"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.12/power_management.rst:4
+msgid ""
+"Power management manages what to do on laptop batteries when the power is"
+" low what happens when your lid to a laptop is closed and what to do when"
+" your computer is idle for long periods."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.12/power_management.rst:7
+msgid "Version"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.12/power_management.rst:8
+msgid "Lubuntu ships with version 0.13.0 of Power Management."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.12/power_management.rst:11
+msgid "How to Launch"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.12/power_management.rst:12
+msgid ""
+"To launch Power Management from the menu -> Prefrences -> LXQt settings "
+"-> Power Management. From LXQt configuration center press the power "
+"management icon that looks like a light bulb or run lxqt-config-"
+"powermanagement from the command line."
+msgstr ""
+

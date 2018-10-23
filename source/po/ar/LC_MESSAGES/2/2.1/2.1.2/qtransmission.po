@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/2/2.1/2.1.2/qtransmission.rst:2
+msgid "Chapter 2.1.2 Qtransmission"
+msgstr ""
+
+#: ../../source/2/2.1/2.1.2/qtransmission.rst:4
+msgid "Qtransmission is a bittorrent client."
+msgstr ""
+
+#: ../../source/2/2.1/2.1.2/qtransmission.rst:8
+msgid "Version"
+msgstr ""
+
+#: ../../source/2/2.1/2.1.2/qtransmission.rst:9
+msgid "Lubuntu ships with version 2.94 of Qtransmission."
+msgstr ""
+
+#: ../../source/2/2.1/2.1.2/qtransmission.rst:12
+msgid "How to launch"
+msgstr ""
+
+#: ../../source/2/2.1/2.1.2/qtransmission.rst:13
+msgid ""
+"To launch Qtransmission go to menu -> Internet -> Qtransmission bittorent"
+" client or run transmission-qt from the command line."
+msgstr ""
+

@@ -11,6 +11,11 @@ To save your spreadsheet you need to press the button that looks like a floppy d
 
 To copy data you can right click copy, press the button with two pieces of paper or press control + c. To paste data press control control +v, edit paste, right click paste or press the botton that is a clipboard with a piece of paper on it.  
 
+Screenshot
+----------
+
+.. image:: libreoffice_calc.png
+
 Version
 -------
 Lubuntu ships with version  6.1.1.2 of libreoffice Calc. 

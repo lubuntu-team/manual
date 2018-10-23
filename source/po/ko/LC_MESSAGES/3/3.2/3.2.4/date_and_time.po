@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/3/3.2/3.2.4/date_and_time.rst:2
+msgid "Chapter 3.2.4 Date and Time"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.4/date_and_time.rst:4
+msgid ""
+"Date and time is a program that lets you change your timezone toggle "
+"wheter to get the time automatically and change the date if you are not "
+"connected to a network."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.4/date_and_time.rst:7
+msgid "Useage"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.4/date_and_time.rst:8
+msgid ""
+"If you want to toggle synchronizing the time of network press the radio "
+"button of Enable network time synchronization button. To change the "
+"timezone of your computer press the timezone gear and select your time "
+"zone from the long list."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.4/date_and_time.rst:11
+msgid "Version"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.4/date_and_time.rst:12
+msgid "Lubuntu ships with version 0.13.0 of Date and time."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.4/date_and_time.rst:15
+msgid "How to launch"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.4/date_and_time.rst:16
+msgid ""
+"To launch date and time from the menu -> Prefrences -> LXQt settings -> "
+"Date and Time. From LXQt configuration center under the system settings "
+"header at the bottom press the date and time button or from the command "
+"line run lxqt-admin-time."
+msgstr ""
+

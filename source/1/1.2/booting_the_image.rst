@@ -12,7 +12,7 @@ downloaded:
 
 .
  - a DVD
- - a USB drive (2 GB or greater) 
+ - a USB drive (2 GB or greater)
 
 
 Writing/burning the image

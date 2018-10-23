@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/E/live_session.rst:2
+msgid "Appendix E Live Session"
+msgstr ""
+
+#: ../../source/E/live_session.rst:4
+msgid ""
+"It is possible to use Lubuntu without installing it. In a live session "
+"yoru computer is running off a bootable media (USB, CD, or DVD). The "
+"session can also be used to install Lubuntu."
+msgstr ""
+
+#: ../../source/E/live_session.rst:6
+msgid ""
+"Reasons for using live session: - Hardware testing and trouble shooting. "
+"- OS testing. - Fixing broken installs. - Backing up files"
+msgstr ""
+
+#: ../../source/E/live_session.rst:12
+msgid ""
+"A good example of when you would use a live session is if your computer "
+"turns on and won't boot, you can run the live session. You could then "
+"mount the disk and backup all of your pictures or send an email. If your "
+"hard drive or SSD is no longer working, you can boot a live session and "
+"then order replacment parts. You also can feel free to try different "
+"things out in a live session."
+msgstr ""
+
+#: ../../source/E/live_session.rst:15
+msgid ""
+"In a live session anything you do not save to external media or a mounted"
+" drive specifically will be lost when you power off your machine."
+msgstr ""
+

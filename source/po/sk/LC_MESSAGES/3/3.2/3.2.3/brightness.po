@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/3/3.2/3.2.3/brightness.rst:2
+msgid "Chapter 2.3.3 Brightness"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/brightness.rst:4
+msgid ""
+"Brightness is a tool to control your screen brightness. If you are using "
+"a laptop turning down your screen brighness can increase battery life by "
+"a large amount as well however too dim and the screen will be illegible."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/brightness.rst:7
+msgid "Useage"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/brightness.rst:8
+msgid ""
+"To use brightness click on the dial towards the right window of the "
+"window. To make the screen dimmer use the left arrow key or click on the "
+"dial and drag it towards the left.  If you want to make the screen more "
+"bright press the right arrow key or drag the dial towards the right."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/brightness.rst:11
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/brightness.rst:15
+msgid "Version"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/brightness.rst:16
+msgid "Lubuntu ships with 0.13.0 of Brightness."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/brightness.rst:19
+msgid "How to launch"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/brightness.rst:20
+msgid ""
+"To launch brightness from the menu -> Prefrences -> LXQt settings -> "
+"Brightness. Another way is to press the birghtness button on LXQt "
+"configuration center or run lxqt-config-brightness from the commandline."
+msgstr ""
+

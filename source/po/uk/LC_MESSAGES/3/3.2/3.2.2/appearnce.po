@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/3/3.2/3.2.2/appearnce.rst:2
+msgid "Chapter 3.2.2 Appearance"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.2/appearnce.rst:4
+msgid ""
+"Appearnce is a program that changes the theming of lxqt for a different "
+"visual look."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.2/appearnce.rst:7
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.2/appearnce.rst:11
+msgid "Version"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.2/appearnce.rst:12
+msgid "Lubuntu ships with version 0.13.0 of appearance."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.2/appearnce.rst:15
+msgid "Useage"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.2/appearnce.rst:16
+msgid ""
+"To change the useage Qt widget will change the buttons and tooblbars look"
+" on lubuntu in Qt applications. Check to apply Set GTk settings will "
+"apply to GTk applications. The checkbox to apply on single click has "
+"makes things you normally need two clicks for one click."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.2/appearnce.rst:18
+msgid ""
+"The icons theme changes desktop icons on your computer and if you click "
+"on the icon theme which is previewed on horizontal rows."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.2/appearnce.rst:20
+msgid ""
+"To change the font size that desktop applications use choose the font tab"
+" and use the point size and enter in the size you want or use the up and "
+"down arrows to increase or decrease font size respectively. To change the"
+" default font there is a drop down box for font name that you can type "
+"the font name you or select from the drop down menu."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.2/appearnce.rst:24
+msgid "How to launch"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.2/appearnce.rst:25
+msgid ""
+"To launch appearnce in the menu -> prefrences -> Lxqt settings -> "
+"appearance. Another way is to press the Appearance button from LXQt "
+"configuration center or run lxqt-config-appearance from the command line."
+msgstr ""
+

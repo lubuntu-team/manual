@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:2
+msgid "Chapter 2.3.4 Skanlite"
+msgstr ""
+
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:4
+msgid "Skanlite is a scanning application."
+msgstr ""
+
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:7
+msgid "Version"
+msgstr ""
+
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:8
+msgid "Lubuntu ships with version 2.1.0 of skanlite."
+msgstr ""
+
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:11
+msgid "Useage"
+msgstr ""
+
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:12
+msgid ""
+"To preview what you want to scan press the preview button and you can "
+"make sure the scan is in a good position. With this done you can press "
+"the scan button to scan the document after this a dialog will show up "
+"asking you were to save what you are scanning."
+msgstr ""
+
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:14
+msgid ""
+"To zoom in press the magnifying glass button with a plus sign conversely "
+"to move out press the magnifying glass button with a minus sign."
+msgstr ""
+
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:17
+msgid "How to launch"
+msgstr ""
+
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:18
+msgid ""
+"To launch skanlite turn on your scanner and that it is connected to your "
+"computer. To launch the application go to the menu -> graphics -> "
+"skanlite or run skanlite from the command line."
+msgstr ""
+

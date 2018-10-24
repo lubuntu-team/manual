@@ -11,6 +11,10 @@ The output devices tab shows different output for different sounds. To mute one 
 
 To mute your microphone in pulseaudio toggle the button that looks like a speaker. To adjust input volume slide the slider to the right to increase volume or to the left to decrease volume. 
 
+Screenshot
+----------
+.. image:: pavucontrol-qt.png
+
 Version
 -------
 Lubuntu ships with version 0.4.0 Pulse Audio Volume Control. 

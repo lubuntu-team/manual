@@ -12,6 +12,7 @@ Before starting, you need a few tools.
   - Ubuntu 16.04 LTS and onwards
  - The following packages from your Linux distribution's repository:
   - `git`
+  -  `arcansit`
   - `python3-sphinx`
   - `texlive-full`
  - The following packages from PyPI:

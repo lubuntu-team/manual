@@ -1,19 +1,35 @@
 Chapter 1.3 Installation
 ========================
+This is a guide to through the installation process of Lubuntu.
 
 Starting the installer
 ----------------------
-This will tell you about installation of Lubuntu. Once you have booted lubuntu to install it, you will be greeted by a screen with the following options: Start Lubuntu, Check disk for defects, Test RAM, and Boot from first hard disk. To start the install select Start Lubuntu, you will now be booting into a live session. In the top-left corner of the desktop there will be an icon "Install Lubuntu 18.10", double click it to start the installer. You will be taken to the lubuntu installer a Welcome screen. You can change the installer language in the drop down box. After selecting the language the next button will move you on to the next task.
+Once you have booted the lubuntu image, you will be greeted by a screen with the following options: Start Lubuntu, Check disk for defects, Test RAM, and Boot from first hard disk. To start the install select Start Lubuntu, you will now be booting into a live session. 
+
+.. image:: boot_installer.png
+
+Once you have booted into the live session, feel free to explore lubuntu. Once you are ready to install lubuntu, double click the icon in the top-left corner of the desktop "Install Lubuntu 18.10". 
+
+.. image:: live_session.png
+
+You will be taken to the lubuntu installer Welcome screen. You can change the installer language in the drop down box. After selecting the language the next button will move you on to the next task.
+
+.. image:: welcome_installer.png
+
 
 Selecting Your location
 -----------------------
 
 The next screen will show you a map of the world where you can choose your location. You location will be used to set your time zone and download server. On the bottom of the window there is a place to change your system language. 
 
+.. image:: location.png
+
 Selecting Keyboard Layout
 -------------------------
 
 Next select your keyboard layout, you can check your keyboard matches the keyboard shown picture shown. At the bottom you can type to make sure your layout is correct. The keyboard model version lets you choose different layouts and the right column gets different variants. When you have selected your keyboard layout, move on to the next stage of the installation.
+
+.. image:: keyboard.png
 
 Setting up partitions
 ---------------------
@@ -23,15 +39,20 @@ If all you want is Lubuntu on your machine, you can select the erase disk. This 
 .. warning::
    Erasing your entire disk or partition may cause you to lose data so please backup beforehand.
 
+.. image:: partitioning.png 
+
 If you wish to perform advance partitioning please refer the Advanced partitioning section.
 
 User Setup
 ----------
 The user setup section creates a user profile, consisting of your own name and the username you will use to log in. The next input field is the hostname of your computer. The final field is your password. Enter your password twice to make sure you have not mistyped it. Pressing the next button will give you a summary screen, showing you the settings before the install begins. Once you have checked the summary click the install button to begin the installation.
 
+
 The Install
 -----------
 The Lubuntu installer provides some useful information while the installer is running. Once Lubuntu is installed you have a checkbox to reboot now after your Lubuntu is installed and is now finished.
+
+.. image:: installer_screen.png
 
 Advanced partitioning 
 ======================

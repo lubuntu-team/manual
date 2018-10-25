@@ -20,12 +20,14 @@ Lubuntu ships with 0.13.0 of lxqt-sudo.
 How to Launch
 -------------
 To launch lxqt-sudo from the command line to run featherpad with administrative privlideges use 
-.. code:: 
+.. code::
+
    lxqt-sudo featherpad
 
 You can also run lxqt-sudo from the runner for example type in
 
 .. code:: 
+
    lxqt-sudo pcmanfm-qt 
 
 into the runner to do it this way without opening a terminal.

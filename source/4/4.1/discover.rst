@@ -1,5 +1,5 @@
-Chapter 4.1 Discover
-====================
+Chapter 4.1 Discover Software Center
+==========================================
 Discover is a software center. It allows you to install and remove programs and utilities.
 
 Usage

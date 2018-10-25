@@ -3,6 +3,9 @@ Chapter 2.1.2 Qtransmission
 
 Qtransmission is a bittorrent client.
 
+Screenshot
+----------
+.. image:: transmission.png
 
 Version
 -------

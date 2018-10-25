@@ -7,7 +7,7 @@ Usage
 ------
 To change the window manager used by LXQt, on the basic settings tab use the drop down menu labeled window manager. Choose from the drop down list or search if the drop down list does not contain your new window manager. LXQt modules lists the different part of LXQt if you find you do not want part of LXQt active you can enable or disable them here. If you wish to start the compton X11 compositor you can do so here, we have chosen to disable it at default to lower machine. 
 
-The auto-start applications lets you choose which applications to auto-start like managers for print queues. All of these are check-boxes to start various programs. You can start a program at startup by adding it here. Click the add button, give the process a name e.g. "Terminal drop down" and type in the appropriate termianl command e.g. "qterminal -d"
+The auto-start applications lets you choose which applications to auto-start like managers for print queues. All of these are check-boxes to start various programs. You can start a program at startup by adding it here. Click the add button, give the process a name e.g. "Terminal drop down" and type in the appropriate terminal command e.g. "terminal -d"
 
 Version
 -------

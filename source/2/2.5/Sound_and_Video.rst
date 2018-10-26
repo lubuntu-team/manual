@@ -1,6 +1,7 @@
 Chapter 2.5 Sound and Video
 ===========================
 
+This chapter documents playing media, burning disks, and controlling volume.                                                                          
 .. toctree::
   :maxdepth: 2
   :titlesonly:

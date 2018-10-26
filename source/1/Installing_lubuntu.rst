@@ -1,4 +1,4 @@
-Chapter 1: Installing Lubuntu
+Chapter 1 Installing Lubuntu
 ==============================
 
 This chapter will show you how to download and install Lubuntu on your computer.

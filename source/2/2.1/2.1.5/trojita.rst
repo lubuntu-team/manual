@@ -12,6 +12,7 @@ How to launch
 To launch trojita from the menu -> Internet -> trojita with the icon that looks like an envolope or run
 
 .. code::
- trojita 
+
+   trojita 
  
 from the command line. 

@@ -1,6 +1,6 @@
 Chapter 4.1 Discover Software Center
 ==========================================
-Discover is a software center. It allows you to install and remove programs and utilities.
+Discover allows you to install and remove programs and utilities. It has a simplistic interface making it easy to navigate and use.
 
 Usage
 ------
@@ -15,6 +15,7 @@ Screenshot
 
 .. image:: discover_screen.png
 
+
 Version
 -------
 Lubuntu ships with version 5.13.5 of Discover.
@@ -22,3 +23,4 @@ Lubuntu ships with version 5.13.5 of Discover.
 How to launch
 -------------
 To launch Discover from the menu -> System Tools -> Discover or run plasma-discover from the command line.
+

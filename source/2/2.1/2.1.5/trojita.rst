@@ -9,4 +9,10 @@ Lubuntu Ships with version 0.7-0 of trojita.
 
 How to launch
 --------------
-To launch trojita from the menu -> Internet -> trojita with the icon that looks like an envolope or run trojita from the command line. 
+To launch trojita from the menu -> Internet -> trojita with the icon that looks like an envolope or run
+
+.. code::
+
+   trojita 
+ 
+from the command line. 

@@ -14,6 +14,10 @@ When you open libreoffice impress you will get a dialog to select a templete wit
 
 To open a previous presentation you have been working on press the button that looks like a folder with a piece of paper in it and navigate to the file you want and open it. To save your presentation press the button that looks like a floppy disk.  
 
+Screenshot
+----------
+.. image:: libreoffice_impress.png
+
 Version
 -------
  Lubuntu ships with version 6.1.1.2 of libreoffice impress.

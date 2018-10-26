@@ -22,6 +22,10 @@ To change the font size There is a drop down box with a number in it you can typ
 
 To check the spelling of your document press the ABC button with a checkmark, from the menu -> tools spelling or press f7. After you are done writing your document you can press the button that looks like a printer to print, press control+ p or file -> print.  
 
+Screenshot
+----------
+.. image:: libreoffice_writer.png
+
 How to Launch
 -------------
 To launch go to menu -> office -> libreoffice writer or run lowriter from the command line.

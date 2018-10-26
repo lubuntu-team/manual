@@ -3,6 +3,10 @@ Chapter 3.2.9 Locale
 
 Locale changes your locale which changes your language and how things are translated on your desktop environment. 
 
+Screenshot
+----------
+.. image:: locale.png
+
 Version
 -------
 Lubuntu ships with version 0.13.0 of Locale. 

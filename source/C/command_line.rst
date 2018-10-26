@@ -1,15 +1,15 @@
-Appendix C command line
+Appendix C Command line
 =======================
 
-The command line is a different way of interfaceing with your computer that while not nesecary to learn can be helpful if you take the time to learn it.
+The command line is text interface to your computer and an alternative to graphical user interfaces like windows. It typically involves typing text commands into a terminal to perform some operation. Although not necessary to learn, it can be helpful. The terminal (Ctrl + Alt + T) is a command line running in a window. 
 
-One important way to learn about the command line of each command that can be used in Lubuntu is a bit beyond the scope of the manual but to learn more about a command and all of its options run the following fi you wanted to learn more about the df or disk free command 
+An exhaustive tutorial on the command line is a bit beyond the scope of the manual. The man command  brings up the user manual and can be used to learn more about a commands use, its options and inputs. If you wanted to learn more about the df (disk free) command, enter the following into a command line: 
 
 .. code::
    
    man df
 
-will show you info and explanation of the df command. One really useful option shown is for example is the -h for human readable output. so runing 
+This will show you the user manual for the df command containing and explanation of the command and other useful information. For example is the -h option gives a human readable output.
 
 .. code::
   

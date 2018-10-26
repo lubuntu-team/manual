@@ -7,6 +7,10 @@ Version
 -------
 Lubuntu ships with version 1.10.18 of qps. 
 
+Screenshot
+----------
+.. image:: qps.png
+
 How to launch
 -------------
 To launch qps go to the menu -> System Tools -> qps or run qps from the command line. 

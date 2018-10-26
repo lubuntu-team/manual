@@ -9,9 +9,14 @@ To change the window manager used by LXQt on the basic settings tab under the ba
 
 The autostart applications lets you choose which appliactions to autostart like managers for print queues. All of these are checkboxes to start various programs. 
 
+Screenshot
+----------
+.. image:: session_settings.png
+
 Version
 -------
 Lubuntu ships with version 0.13.0 of session settings. 
+
 
 How to launch
 -------------

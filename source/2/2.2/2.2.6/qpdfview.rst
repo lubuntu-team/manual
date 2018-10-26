@@ -23,6 +23,10 @@ If you want to view a particular page select the box (e.g. page 1/3) and tpye th
 qpdfview also includes some very useful docks. To view the outline dock, in the menu select View -> Docks -> O utline (make sure the button is checked) or press F6 on the keyboard. It should appear on the left hand side of the pdf with collapsable sections. This is useful in navigating large pdfs.
 
 
+Screenshot
+----------
+.. image:: qpdfview.png
+
 Version
 -------
 Lubuntu ships with version 0.4.17 of qpdfview.

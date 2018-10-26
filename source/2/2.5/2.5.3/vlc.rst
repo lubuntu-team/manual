@@ -9,6 +9,10 @@ To open media stored locally on your system click media open file and navigate y
 
 On the bottom right of vlc there is a bar that gets wider for volume. Click farther to the right to increase volume within vlc. Or hover the cursor over this bar and use the mousewheel to control volume. The button that looks like a speaker next to this toggles mute in vlc.  
 
+Screenshot
+----------
+.. image:: vlc.png
+
 Version
 -------
 Lubuntu ships with version 3.0.4 of VLC.

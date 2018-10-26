@@ -4,6 +4,7 @@ This is a guide to through the installation process of Lubuntu.
 
 Starting the installer
 ----------------------
+
 Once you have booted the Lubuntu image, you will be greeted by a screen with the following options: Start Lubuntu, Check disk for defects, Test RAM, and Boot from first hard disk. To start the install select Start Lubuntu, you will now be booting into a live session. 
 
 .. image:: boot_installer.png
@@ -13,6 +14,7 @@ Once you have booted into the live session, feel free to explore Lubuntu. Once y
 .. image:: live_session.png
 
 You will be taken to the Lubuntu installer Welcome screen. You can change the installer language in the drop down box. After selecting the language the next button will move you on to the next task.
+
 
 .. image:: welcome_installer.png
 

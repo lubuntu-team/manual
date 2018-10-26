@@ -1,4 +1,15 @@
 Chapter 5.2 Desktop Icons
 =========================
 
-The icons on your desktop can be moved by clicking and holding and dragging the desktop icon to the position you want it. To open a desktop entry file on an icon double click on it. To remove a desktop icon right click on the file and click move to trash. If you want a file to show up on your desktop you can save it to the Desktop folder in your home directory. Similar to the file manager you can right click the file and open with and select the program that way. 
+The icons on your desktop can be moved by left clicking, holding and dragging the desktop icon to the position you want it. Shortcuts or desktop entry files can be opened by double click on the icon. 
+
+Adding and removing items from the desktop
+------------------------------------------
+1.  Shortcuts can be copied to the desktop by dragging and dropping them from the application menu. 
+2.  You can also create shortcuts by dragging and dropping files and folders from the File manager onto the desktop.
+
+
+.. image:: desktop_entry.png
+
+To remove a desktop icon right click on the file and click move to trash.  
+

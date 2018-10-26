@@ -29,8 +29,6 @@ ToggleShowDesktop	W-d
 
 **Keybindings for windows**
 
-**Keybindings for windows**
-
 Close	A-F4
 
 Lower	A-Escape
@@ -55,53 +53,39 @@ DirectionalCycleWindows	W-S-Up
 
 DirectionalCycleWindows	W-S-Down
 
-**Lubuntu specific.
-        Keybindings for window tiling**
+**Lubuntu specific keybindings : window tiling**
 
-**# HalfLeftScreen**
+**HalfLeftScreen**
 
 UnmaximizeFull	W-Left
 
-**# HalfRightScreen**
+**HalfRightScreen**
 
 UnmaximizeFull	W-Right
 
-**# HalfUpperScreen**
+**HalfUpperScreen**
 
 UnmaximizeFull	W-Up
 
-**# HalfLowerScreen**
+**HalfLowerScreen**
 
 UnmaximizeFull	W-Down
-
-**Lubuntu specific : Keybindings**
-
-**Keybindings for running applications on Home + E**
-
-Execute	W-e
-
-**Keybindings for running Run menu from Lxpanel on Home + R**
-
-Execute	W-r
-
-Execute	A-F2
-
-**Keybindings for running Menu from Lxpanel**
-
-**<keybind key="A-F1">
-    <action name="Execute">
-      <command>lxpanelctl menu</command>
-    </action>
-  </keybind>
-  <keybind key="C-Escape">
-    <action name="Execute">
-      <command>lxpanelctl menu</command>
-    </action>
-  </keybind>**
 
 **Keybindings to toggle fullscreen**
 
 ToggleFullscreen	F11
+
+**Lubuntu specific Keybindings for running applications**
+
+**Keybindings for running application: File manager**
+
+Execute	W-e
+
+**Keybindings for running application: Lxpanel**
+
+Execute	W-r
+
+Execute	A-F2
 
 **Launch task manager on Ctrl + Alt + Del**
 
@@ -111,27 +95,11 @@ Execute	C-A-Delete
 
 Execute	C-A-T
 
-**Lock the screen on Ctrl + Alt + l**
-
-**<keybind key="C-A-l">
-    <action name="Execute">
-      <command>lxsession-default lock</command>
-    </action>
-  </keybind>**
-
 **Keybinding for terminal button**
 
 Execute	XF86WWW
 
 Execute	XF86Terminal
-
-**Keybinding for calculator button**
-
-**<keybind key="XF86Calculator">
-    <action name="Execute">
-      <command>lxsession-default calculator</command>
-    </action>
-  </keybind>**
 
 **Keybinding for computer button**
 
@@ -144,6 +112,22 @@ Execute	C-F7
 Execute	C-F10
 
 Execute	C-F11
+
+**Keybinding for calculator button**
+
+**<keybind key="XF86Calculator">
+    <action name="Execute">
+      <command>lxsession-default calculator</command>
+    </action>
+  </keybind>**
+
+**Lock the screen on Ctrl + Alt + l**
+
+**<keybind key="C-A-l">
+    <action name="Execute">
+      <command>lxsession-default lock</command>
+    </action>
+  </keybind>**
 
 **Take a screenshot of the current window with scrot when Alt+Print are pressed**
 
@@ -163,5 +147,18 @@ Execute	C-F11
 **<keybind key="XF86PowerOff">
     <action name="Execute">
       <command>lxsession-default quit</command>
+    </action>
+  </keybind>**
+
+**Keybindings for running Menu from Lxpanel**
+
+**<keybind key="A-F1">
+    <action name="Execute">
+      <command>lxpanelctl menu</command>
+    </action>
+  </keybind>
+  <keybind key="C-Escape">
+    <action name="Execute">
+      <command>lxpanelctl menu</command>
     </action>
   </keybind>**

@@ -8,7 +8,8 @@ Useage
 LXQt-sudo is used to open graphical programs as an administrator. 
 
  .. warning::
- Modifying the wrong system configuration files with adminstrator privledges could make your system unable to boot or for you to be unable to login.
+
+   Modifying the wrong system configuration files with adminstrator privledges could make your system unable to boot or for you to be unable to login.
 
 To use lxqt-sudo is important to not change your config files as if you did with sudo. You will need adminstartive privledges to edit config files but make sure you know what you are doing.
 

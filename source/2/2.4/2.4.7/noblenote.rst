@@ -7,6 +7,11 @@ Version
 -------
 Lubuntu ships with version 1.0.8 of noblenote. 
 
+
+Screenshot
+----------
+.. image:: noblenote.png
+
 How to launch
 -------------
 To launch noblenote go to the menu -> Acessories -> noblenote or run noblenote on the commandline.

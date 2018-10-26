@@ -9,3 +9,4 @@ This chapter will teach you how to use GUI to install update and remove software
 
   4.1/discover
   4.2/muon 
+  4.3/software_sources

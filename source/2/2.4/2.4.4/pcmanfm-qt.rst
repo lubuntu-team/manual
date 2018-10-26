@@ -21,8 +21,10 @@ To connect to a remote server such as a NAS go to the go menu -> Connect to serv
 
 
 
-Screenshots
-------------------
+Screenshot
+----------
+.. image:: pcmanfm-qt.png 
+
 
 Version
 -------

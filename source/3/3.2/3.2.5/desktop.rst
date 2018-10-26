@@ -17,6 +17,11 @@ The drop down menu for icon size lets you choose a different size of desktop ico
 
 The box labeled select font lets you choose which font and size information from a dialog box. On the left is a box for which font to select on on the bottom or type the name on top. The middle lets you choose the font style of the font on your desktop. On the far right is a choice for the size of your font which you can select from the menu. The box for text color brings up a widget to pick color of either the text color or the shadow color of the icons. 
 
+
+Screenshot
+----------
+.. image:: desktop.png
+
 How to launch
 -------------
 To launch desktop from the menu -> prefrences -> LXQt settings -> Desktop. Or from LXQt configuration center press the desktop button to launch it or run pcmanfm-qt --desktop-pref. Another way to launch this is to right click on the desktop desktop prefrences. 

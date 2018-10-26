@@ -15,6 +15,10 @@ If you wish to only have to click once to activate buttons normally requiring tw
 
 The cursor tab on the left lets you change your cursor theme which is quite useful if you are say running virtual machines so the cursor does not look the same in the host and the guest. To change a theme scroll down to which theme you want under preview but you will have to logout and log back in again for this to fully take effect. 
 
+Screenshot
+----------
+.. image:: keyboardandmouse.png
+
 How to launch
 -------------
 To launch Keyboard and Mouse use menu -> Prefrences -> LXQt settings -> keyboards and mouse. In LXQt configuration center press the keyboard and mouse button and keyboard and mouse. From the command line run lxqt-config-input.  

@@ -14,4 +14,10 @@ Screenshot
 
 How to launch
 -------------
-To launch noblenote go to the menu -> Acessories -> noblenote or run noblenote on the commandline.
+To launch noblenote go to the menu -> Acessories -> noblenote or run 
+
+.. code:: 
+   
+   noblenote 
+   
+on the commandline.

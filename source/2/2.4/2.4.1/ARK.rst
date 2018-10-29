@@ -25,6 +25,12 @@ Lubuntu ships version 4:18.04.3 of ARK.
 
 How to launch
 -------------
-To launch ARK go to the menu -> Accessories -> ARK or run ark on the command line.
+To launch ARK go to the menu -> Accessories -> ARK or run 
+
+.. code::
+
+   ark
+   
+on the command line.
 
 

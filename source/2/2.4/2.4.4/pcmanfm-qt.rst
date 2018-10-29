@@ -32,8 +32,12 @@ Lubuntu currently ships with 0.13.0 of pcmfanfm-qt.
 
 How to Launch
 -------------
-To open PCManFM in your current directory (in terminal), execute `pcmanfm-qt`.
+To open PCManFM in your current directory (in terminal), execute 
 
-Feel free to append [sudo] to run PCManFM-Qt as root.
+.. code::
+
+   pcmanfm-qt
+
+Feel free to append [lxqt-sudo] to run PCManFM-Qt as root.
 
 You can also go to the Applications Menu > Accessories > PCManFM-Qt File Manager.

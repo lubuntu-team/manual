@@ -22,6 +22,8 @@ To change the font size There is a drop down box with a number in it you can typ
 
 To check the spelling of your document press the ABC button with a checkmark, from the menu -> tools spelling or press f7. After you are done writing your document you can press the button that looks like a printer to print, press control+ p or file -> print.  
 
+To insert special symbols or characters press the button with the Ω symbol or from the menu Insert -> Special character. To insert a page break press control + enter or from the menu Insert -> Page Break.  
+
 Screenshot
 ----------
 .. image:: libreoffice_writer.png

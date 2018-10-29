@@ -13,6 +13,10 @@ Screenshot
 ----------
 .. image:: session_settings.png
 
+Screenshot
+----------
+.. image:: session_settings.png
+
 Version
 -------
 Lubuntu ships with version 0.13.0 of session settings. 

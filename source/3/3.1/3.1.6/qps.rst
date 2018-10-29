@@ -18,4 +18,10 @@ Screenshot
 
 How to launch
 -------------
-To launch qps go to the menu -> System Tools -> qps or run qps from the command line. 
+To launch qps go to the menu -> System Tools -> qps or run 
+
+.. code:: 
+
+   qps 
+   
+from the command line. 

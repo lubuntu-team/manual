@@ -33,4 +33,10 @@ Lubuntu ships with version 0.4.17 of qpdfview.
 
 How to launch
 -------------
-To launch qpdfview go to the Menu -> Office -> qpdfview or run qpdfview from the command line.
+To launch qpdfview go to the Menu -> Office -> qpdfview or run  
+
+.. code:: 
+
+   qpdfview 
+
+from the command line.

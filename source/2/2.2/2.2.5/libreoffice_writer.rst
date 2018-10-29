@@ -30,4 +30,10 @@ Screenshot
 
 How to Launch
 -------------
-To launch go to menu -> office -> libreoffice writer or run lowriter from the command line.
+To launch go to menu -> office -> libreoffice writer or run 
+
+.. code:: 
+
+   lowriter 
+   
+from the command line.

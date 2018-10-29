@@ -24,4 +24,10 @@ Version
 
 How To launch
 -------------
-To launch go to the menu -> Office -> Libreoffice impress or run loimpress. 
+To launch go to the menu -> Office -> Libreoffice impress or run  
+
+.. code:: 
+
+   loimpress 
+
+from the command line. 

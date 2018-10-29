@@ -13,4 +13,10 @@ To create a new useage create a new user enter your password to make sure it is 
 
 How to launch
 -------------
-To launch Users and groups from the menu -> Prefrences -> LXQt settings -> users and groups. From LXQt configuration center under system settings press the button that looks like two people. Or you can run lxqt-admin-user from the command line.  
+To launch Users and groups from the menu -> Prefrences -> LXQt settings -> users and groups. From LXQt configuration center under system settings press the button that looks like two people. Or you can run 
+
+.. code:: 
+
+   lxqt-admin-user 
+   
+from the command line.  

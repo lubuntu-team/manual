@@ -130,6 +130,8 @@ Chapter 3.1 System Tools
 
 3.1.7 KDE partition manager
 
+3.1.8 LxQt-sudo
+
 Chapter 3.2 Prefrences
 ----------------------
 

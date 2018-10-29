@@ -7,6 +7,10 @@ Useage
 ------
 If you want to toggle synchronizing the time of network press the radio button of Enable network time synchronization button. To change the timezone of your computer press the timezone gear and select your time zone from the long list.
 
+Screenshot
+----------
+.. image:: date_and_time.png 
+
 Version
 -------
 Lubuntu ships with version 0.13.0 of Date and time. 

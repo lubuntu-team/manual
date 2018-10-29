@@ -9,9 +9,14 @@ To change the window manager used by LXQt, on the basic settings tab use the dro
 
 The auto-start applications lets you choose which applications to auto-start like managers for print queues. All of these are check-boxes to start various programs. You can start a program at startup by adding it here. Click the add button, give the process a name e.g. "Terminal drop down" and type in the appropriate terminal command e.g. "terminal -d"
 
+Screenshot
+----------
+.. image:: session_settings.png
+
 Version
 -------
 Lubuntu ships with version 0.13.0 of session settings. 
+
 
 How to launch
 -------------

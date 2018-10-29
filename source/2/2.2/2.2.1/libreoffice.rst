@@ -7,6 +7,10 @@ Useage
 ------
 To open a recently used file in libreoffice they are shown in the main part of the window. To open a program or to create a file from a file dialog are along the left hand column. 
 
+Screenshot
+----------
+.. image:: libreoffice.png
+
 Version
 -------
 Lubuntu ships with version 6.1.2.1 of libreoffice.

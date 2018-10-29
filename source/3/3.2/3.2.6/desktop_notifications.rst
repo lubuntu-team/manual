@@ -20,6 +20,6 @@ How to launch
 -------------
 To launch Desktop notifications from the menu -> Prefrences -> LXQt settings -> Desktop Notifications. In lxqt-configuration center press the Desktop Notification button which looks like a giant !. To launch the configuration from the command line run 
 
-.. config:: 
+.. code:: 
 
    lxqt-config-configurationd 

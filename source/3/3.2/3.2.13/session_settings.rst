@@ -23,4 +23,6 @@ How to launch
 -------------
 To launch session settings from the menu -> Preferences -> LXQt settings -> session settings. From LXQt configuration center press the button that looks like a triangular blue flag and is labeled with session settings. To run session settings from the command line run 
 
-.. code:: lxqt-config-session 
+.. code:: 
+
+   lxqt-config-session 

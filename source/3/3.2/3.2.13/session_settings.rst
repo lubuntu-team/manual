@@ -13,9 +13,6 @@ Screenshot
 ----------
 .. image:: session_settings.png
 
-Screenshot
-----------
-.. image:: session_settings.png
 
 Version
 -------

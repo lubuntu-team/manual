@@ -25,5 +25,11 @@ Screenshot
 
 How to launch
 -------------
-Runner should be running in the background and Alt + F2 should. If you need to manually start it for some reason run lxqt-runner from the command line. 
+Runner should be running in the background and Alt + F2 should. If you need to manually start it for some reason run 
+
+.. code::
+
+   lxqt-runner 
+   
+from the command line. 
 

@@ -20,10 +20,14 @@ How to launch
 -------------
 To launch qterminal in a normal window go to the menu -> System Tools -> qterminal or run 
 
-.. code:: qterminal 
+.. code:: 
+
+   qterminal 
 
 from the command line. To launch a drop down version of Qterminal from the menu -> System Tools -> qterminal drop down  or run 
 
-.. code:: qterminal -d 
+.. code:: 
+
+   qterminal -d 
 
 from the command line.

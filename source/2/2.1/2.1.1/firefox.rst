@@ -21,6 +21,7 @@ Screenshot
 --------------
 .. image:: firefox-screenshot.png
    :width: 80%
+
 Useage
 ------
 To open a new tab in firefox press the plus button on the right of the tab bar. To view your browsing history press the button that looks like a stack of books with the last one at the end the third item down will show you history. To view your downloaded files press the button that looks like three stacked books with a fourth leaning over -> Downloads.

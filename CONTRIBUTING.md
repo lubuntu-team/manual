@@ -14,7 +14,7 @@ Before starting, you need a few tools.
   - `git`
   -  `arcansit`
   - `python3-sphinx`
-  - `texlive-full`
+  - `texlive`
  - The following packages from PyPI:
   - `sphinx_bootstrap_theme`
 

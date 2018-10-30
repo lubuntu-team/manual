@@ -24,6 +24,8 @@ To check the spelling of your document press the ABC button with a checkmark, fr
 
 To insert special symbols or characters press the button with the Ω symbol or from the menu Insert -> Special character. To insert a page break press control + enter or from the menu Insert -> Page Break.  
 
+To undo a mistake you make press control + z or press the yellow arrow pointing to the left. If you accidently undid code redo or press the green arrow pointing to the right.    
+
 Screenshot
 ----------
 .. image:: libreoffice_writer.png

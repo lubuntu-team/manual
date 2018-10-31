@@ -15,4 +15,10 @@ To zoom in press the magnifying glass button with a plus sign conversely to move
 
 How to launch
 -------------
-To launch skanlite turn on your scanner and that it is connected to your computer. To launch the application go to the menu -> graphics -> skanlite or run skanlite from the command line.  
+To launch skanlite turn on your scanner and that it is connected to your computer. To launch the application go to the menu -> graphics -> skanlite or run 
+
+.. code:: 
+
+   skanlite 
+   
+from the command line.  

@@ -68,9 +68,13 @@ In order to use zsync, you need to install it. Since this is a Linux-only client
 
 If you are running Debian or Ubuntu (or a distribution based off of either), run the following command in a terminal:
 
+.. code:: 
+
   sudo apt install zsync
 
 Otherwise, there is a snap application you can download of zsync which should function mostly the same and should work on all Linux distributions:
+
+.. code:: 
 
   sudo snap install zsync
 

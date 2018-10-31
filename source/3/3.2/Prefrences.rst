@@ -13,6 +13,7 @@ This chapter sets up the many prefrences included within lubuntu for themeing an
   3.2.4/date_and_time
   3.2.5/desktop
   3.2.6/desktop_notifications
+  3.2.7/file_associations
   3.2.8/keyboard_and_mouse
   3.2.9/locale
   3.2.10/monitor_settings

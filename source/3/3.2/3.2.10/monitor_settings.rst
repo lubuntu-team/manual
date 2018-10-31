@@ -20,4 +20,10 @@ With multiple monitors you can in the set position you can drag the different sc
 
 How to launch
 -------------
-To launch monitor settings from the menu -> Prefrences -> LXQt settings -> Monitor settings. From lxqt-configuration-center press the button for monitor settings that looks like a desktop monitor or run lxqt-config-monitor from the command line. 
+To launch monitor settings from the menu -> Prefrences -> LXQt settings -> Monitor settings. From lxqt-configuration-center press the button for monitor settings that looks like a desktop monitor or run 
+
+.. code::
+
+  lxqt-config-monitor 
+  
+from the command line. 

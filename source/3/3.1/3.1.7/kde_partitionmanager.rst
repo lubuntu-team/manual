@@ -20,5 +20,11 @@ Screensaver
 
 How to launch
 -------------
-To launch kde partition manager from the menu -> system tools -> KDE partition manager or run partitionmanager from the command line. 
+To launch kde partition manager from the menu -> system tools -> KDE partition manager or run 
+
+.. code:: 
+
+   partitionmanager 
+   
+from the command line. 
 

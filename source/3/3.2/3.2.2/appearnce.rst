@@ -22,4 +22,10 @@ To change the font size that desktop applications use choose the font tab and us
 
 How to launch
 -------------
-To launch appearnce in the menu -> prefrences -> Lxqt settings -> appearance. Another way is to press the Appearance button from LXQt configuration center or run lxqt-config-appearance from the command line. 
+To launch appearnce in the menu -> prefrences -> Lxqt settings -> appearance. Another way is to press the Appearance button from LXQt configuration center or run 
+
+.. code:: 
+
+    lxqt-config-appearance 
+    
+from the command line. 

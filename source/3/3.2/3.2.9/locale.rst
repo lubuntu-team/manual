@@ -13,4 +13,10 @@ Lubuntu ships with version 0.13.0 of Locale.
 
 How to Launch
 -------------
-To luaunch locale in the menu -> Prefrences -> LXQt settings -> locale or run lxqt-config-locale from the command line. In LXQt configuration center press the locale button that looks like a flag. 
+To luaunch locale in the menu -> Prefrences -> LXQt settings -> locale or run 
+
+.. code:: 
+
+   lxqt-config-locale 
+   
+from the command line. In LXQt configuration center press the locale button that looks like a flag. 

@@ -13,4 +13,10 @@ Lubuntu ships with version 0.13.0 of LXQt configuration center.
 
 How to Launch
 -------------
-To launch LXQt configuration center from the menu -> Prefrences -> LXQt settings -> LXQt configuration center or run lxqt-config from the command line.
+To launch LXQt configuration center from the menu -> Prefrences -> LXQt settings -> LXQt configuration center or run 
+
+.. code:: 
+
+   lxqt-config 
+   
+from the command line.

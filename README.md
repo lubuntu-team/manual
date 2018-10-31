@@ -1,6 +1,6 @@
 # Lubuntu Manual Source Code
 
-This is the Lubuntu Manual source code. The concept was derived from [the Kubuntu Manual](https://github.com/ahoneybun/kubuntu-manual).
+This is the Lubuntu Manual source code. The concept was derived from [the Kubuntu Manual](https://github.com/ahoneybun/kubuntu-manual). The master branch of this data is now on LXQt for Lubuntu 18.10+ and if you want code for earlier versions it is on the LXDE branch. 
 
 ## How it works
 

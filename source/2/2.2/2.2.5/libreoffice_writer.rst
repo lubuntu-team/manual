@@ -20,9 +20,11 @@ To use libreoffice writer type what you wish to type into the main part of the w
 
 To change the font size There is a drop down box with a number in it you can type the font size you want in this box or select from the dropdown menu. You can change the font with the drop down box to the left of the font size which you can type and it autocompletes the fonts or select from the drop down menu.  
 
-To check the spelling of your document press the ABC button with a checkmark, from the menu -> tools spelling or press f7. After you are done writing your document you can press the button that looks like a printer to print, press control+ p or file -> print.  
+To check the spelling of your document press the ABC button with a checkmark, from the menu -> tools spelling or press f7. After you are done writing your document you can press the button that looks like a printer to print, press control+ p or file -> print. To view your word count of how many words are currently in the document is with nothing slected at the bottom of the libreoffice writer window. If you select text with the mouse you can also see the word count of selection from the same spot.  
 
 To insert special symbols or characters press the button with the Ω symbol or from the menu Insert -> Special character. To insert a page break press control + enter or from the menu Insert -> Page Break.  
+
+To undo a mistake you make press control + z or press the yellow arrow pointing to the left. If you accidently undid code redo or press the green arrow pointing to the right.    
 
 Screenshot
 ----------

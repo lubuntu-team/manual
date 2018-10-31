@@ -15,6 +15,8 @@ The appearance tab lets you change where the buttons are so for is you want and 
 
 The font tab changes the font of your window titlebars you can select several different fonts for different conditions of the window. To change the style of the font you can under the style make the font inactive. For example if you have trouble telling which window you are in you can make the font italic for the titlebar of inactive windows to make it even more obvious.
 
+On the desktop tab to change number of desktops press the up arrow to add an additional desktop or the down arrow to reduce the number of virtual desktops.  
+
 Screenshot
 ----------
 .. image:: openbox-config.png

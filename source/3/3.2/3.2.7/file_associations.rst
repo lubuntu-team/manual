@@ -11,6 +11,10 @@ Useage
 ------
 To search for which file extenstion you want to change to open in another program you can search in the top box for that file format. On the left is really long list of all mimetype that you can change but searching for a particular one will be much faster. Once you find the filetype you want to change on the top right it tells you what kind of file that mimetype is and shows the extensions. The current default is shown on the lower right with a change button that brings up a menu for you to change it to something else. 
 
+Screenshot
+----------
+.. image:: file_associations.png
+
 How to Launch
 -------------
 From the menu -> Prefrences -> LXQt settings -> file associations or from the command line run 

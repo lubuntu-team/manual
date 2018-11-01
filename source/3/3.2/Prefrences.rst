@@ -23,4 +23,5 @@ This chapter sets up the many prefrences included within lubuntu for themeing an
   3.2.14/shortcut_keys
   3.2.15/users_and_groups
   3.2.16/window_effects
+  3.2.17/alternatives_configurator
   3.2.19/Printers.rst

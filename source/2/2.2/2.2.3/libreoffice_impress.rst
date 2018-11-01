@@ -16,7 +16,7 @@ To open a previous presentation you have been working on press the button that l
 
 To type text into a presentation click in one of the boxes for your theme and type in the text with controls for the text on the right hand side. To insert a picture press the button with what looks like a photograph of a tree and select the file you want to insert. 
 
-On the left there is a panel showing what slides you currently have in left side of the window. To insert a new slide right click on this panel on the left and select new slide. 
+On the left there is a panel showing what slides you currently have in left side of the window. To insert a new slide right click on this panel on the left and select new slide. To delete a slide on the left hand slide right click and select delete slide.  
 
 Screenshot
 ----------

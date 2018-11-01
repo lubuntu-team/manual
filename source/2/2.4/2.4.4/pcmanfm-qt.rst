@@ -19,7 +19,7 @@ If you single click on a file you will select it. If you double click on it you 
 
 To connect to a remote server such as a NAS go to the go menu -> Connect to server and authenticate to your remote storage. If you want to plug in removeable storage you can open the storage on the left with devices.  This also happens other internal filesystems on your computer. To eject removeable media press the button on the left with a circled up arrow to eject.   
 
-
+To see hidden files press control +h or go to view -> show hidden. To open a terminal in your current folder press f4  or Tool -> Open terminal from the menu. To search for files press f3 or tool -> search for files.       
 
 Screenshot
 ----------

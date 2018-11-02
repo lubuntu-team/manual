@@ -1,164 +1,48 @@
 
-**Keybindings for desktop switching**
+Hotkeys shortcuts
+===================
 
-GoToDesktop	C-A-Left
+Hotkeys, also known as keyboard shortcuts, allow users to easily navigate, start applications, and change settings like resize windows. These are useful as they create a smooth and time efficient user experience. It would benefit users to take a few minutes to learn some of these shortcuts.
 
-GoToDesktop	C-A-Right
+Lubuntu has manages the keyboard shortcuts using two layers. Namely, LXQT Global Keys and Openbox.
 
-GoToDesktop	C-A-Up
+Global-keys
+--------------
 
-GoToDesktop	C-A-Down
+Global-keys (lxqt-globalkeysd) is a component of the LXQT environment. Gloabal-keys takes preference over Openbox keyboard shortcuts. Global keys are viewed, (dis)enabled and managed using Shortcut keys (Chapter 3.2.14).
 
-SendToDesktop	S-A-Left
 
-SendToDesktop	S-A-Right
+Openbox keyboard shortcuts
+-------------------------------
+Openbox keyboard shortcuts is the second layer managing keyboard shortcuts. It is preferred for windows management like resizing.
 
-SendToDesktop	S-A-Up
+.. note::   Global-keys will take preference over openbox bindings. If a key is used in Global-keys, it will not work in Openbox keyboard shortcuts. For example if the W(indows) key opens the LXQT application menu (equivilant of the windows start menu) in Global-keys, Openbox commands like window resizing (W + arrow keys) will not work correctly. Keep this in mind when using and editing keyboard shortcuts. 
 
-SendToDesktop	S-A-Down
 
-GoToDesktop	W-F1
 
-GoToDesktop	W-F2
+The table below shows Lubuntu's default Openbox keyboard shortcuts:
 
-GoToDesktop	W-F3
 
-GoToDesktop	W-F4
+**Modifier keys** 	
 
-ToggleShowDesktop	W-d
+Key     description
 
-**Keybindings for windows**
+====    ========================
+S 	     Shift key
 
-Close	A-F4
+C 	     Control key
 
-Lower	A-Escape
+A 	     Alt key
 
-ShowMenu	A-space
+W 	     Super key (Usually bound to the Windows key on keyboards which have one)
 
-**Keybindings for window switching**
+M        Meta key
 
-NextWindow	A-Tab
+H 	     Hyper key (If it is bound to something) 
+====    ========================
 
-PreviousWindow	A-S-Tab
 
-NextWindow	C-A-Tab
+.. include:: openbox_keyboard.rst
 
-**Keybindings for window switching with the arrow keys**
 
-DirectionalCycleWindows	W-S-Right
 
-DirectionalCycleWindows	W-S-Left
-
-DirectionalCycleWindows	W-S-Up
-
-DirectionalCycleWindows	W-S-Down
-
-**Lubuntu specific keybindings : window tiling**
-
-**HalfLeftScreen**
-
-UnmaximizeFull	W-Left
-
-**HalfRightScreen**
-
-UnmaximizeFull	W-Right
-
-**HalfUpperScreen**
-
-UnmaximizeFull	W-Up
-
-**HalfLowerScreen**
-
-UnmaximizeFull	W-Down
-
-**Keybindings to toggle fullscreen**
-
-ToggleFullscreen	F11
-
-**Lubuntu specific Keybindings for running applications**
-
-**Keybindings for running application: File manager**
-
-Execute	W-e
-
-**Keybindings for running application: Lxpanel**
-
-Execute	W-r
-
-Execute	A-F2
-
-**Launch task manager on Ctrl + Alt + Del**
-
-Execute	C-A-Delete
-
-**Launch a terminal on Ctrl + Alt + T**
-
-Execute	C-A-T
-
-**Keybinding for terminal button**
-
-Execute	XF86WWW
-
-Execute	XF86Terminal
-
-**Keybinding for computer button**
-
-Execute	XF86MyComputer
-
-**Keybindings for Multimedia Keys and LCD Backlight (alternative when not using gnome-power-manager or xfce4-volumed)**
-
-Execute	C-F7
-
-Execute	C-F10
-
-Execute	C-F11
-
-**Keybinding for calculator button**
-
-**<keybind key="XF86Calculator">
-    <action name="Execute">
-      <command>lxsession-default calculator</command>
-    </action>
-  </keybind>**
-
-**Lock the screen on Ctrl + Alt + l**
-
-**<keybind key="C-A-l">
-    <action name="Execute">
-      <command>lxsession-default lock</command>
-    </action>
-  </keybind>**
-
-**Take a screenshot of the current window with scrot when Alt+Print are pressed**
-
-**<keybind key="Print">
-    <action name="Execute">
-      <command>lxsession-default screenshot</command>
-    </action>
-  </keybind>
-  <keybind key="A-Print">
-    <action name="Execute">
-      <command>lxsession-default screenshot window</command>
-    </action>
-  </keybind>**
-
-**Launch logout when push on the shutdown button**
-
-**<keybind key="XF86PowerOff">
-    <action name="Execute">
-      <command>lxsession-default quit</command>
-    </action>
-  </keybind>**
-
-**Keybindings for running Menu from Lxpanel**
-
-**<keybind key="A-F1">
-    <action name="Execute">
-      <command>lxpanelctl menu</command>
-    </action>
-  </keybind>
-  <keybind key="C-Escape">
-    <action name="Execute">
-      <command>lxpanelctl menu</command>
-    </action>
-  </keybind>**

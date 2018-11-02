@@ -24,4 +24,10 @@ Screenshot
 
 How to launch
 -------------
-To launch desktop from the menu -> prefrences -> LXQt settings -> Desktop. Or from LXQt configuration center press the desktop button to launch it or run pcmanfm-qt --desktop-pref. Another way to launch this is to right click on the desktop desktop prefrences. 
+To launch desktop from the menu -> prefrences -> LXQt settings -> Desktop. Or from LXQt configuration center press the desktop button to launch it or run
+
+.. code:: 
+
+   pcmanfm-qt --desktop-pref
+  
+from the command line. Another way to launch this is to right click on the desktop desktop prefrences. 

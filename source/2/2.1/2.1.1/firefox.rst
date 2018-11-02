@@ -17,10 +17,17 @@ Firefox has features of other web browsers and its own ones, such as:
  - Advanced customization with about:config
  - Open source
 
-Usage/Screenshots
-----------------------
+Screenshot
+--------------
 .. image:: firefox-screenshot.png
    :width: 80%
+
+Useage
+------
+To open a new tab in firefox press the plus button on the right of the tab bar. To close a tab press the button with an x on the right side of the tab. To view your browsing history press the button that looks like a stack of books with the last one at the end the third item down will show you history. To view your downloaded files press the button that looks like three stacked books with a fourth leaning over -> Downloads.
+
+To go back to a previous page in firefox press the button pointing to the left. To go forward to a page you have visited before but have now gone back from press the button with the arrow pointing to the right. To download a file directly to your local disk right click on the save file as and then you will get options to save the file where you want.  
+
 
 Version
 ----------

@@ -21,4 +21,10 @@ Lubuntu ships with version 0.7.0 or lximage.
 
 How to launch
 -------------
-To launch lximage from the menu -> graphics - > lximage or run lximage-qt from the command line.  
+To launch lximage from the menu -> graphics - > lximage or run
+
+.. code:: 
+
+   lximage-qt 
+
+from the command line.  

@@ -22,5 +22,11 @@ Lubuntu ships with version 5.13.5 of Discover.
 
 How to launch
 -------------
-To launch Discover from the menu -> System Tools -> Discover or run plasma-discover from the command line.
+To launch Discover from the menu -> System Tools -> Discover or run 
+
+.. code:: 
+
+   plasma-discover 
+   
+from the command line.
 

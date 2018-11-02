@@ -14,7 +14,7 @@ Before starting, you need a few tools.
   - `git`
   -  `arcansit`
   - `python3-sphinx`
-  - `texlive-full`
+  - `texlive`
  - The following packages from PyPI:
   - `sphinx_bootstrap_theme`
 
@@ -77,10 +77,10 @@ git commit -m "I changed x in foo and y in bar" foo bar
 
 To submit your code, or push to your Launchpad account and
 submit a merge request, both will be seen by someone with the permission to
-merge. Push to the following repository to be able to submit a merge proposal
-in Launchpad:
-```
-git push git+ssh://LPUSERNAME@git.launchpad.net/~LPUSERNAME/lubuntu-manual/+git/ADDITION
+merge. Push to the following repository to be able to submit a merge proposal on differential after registering an account on the Lubuntu phabricator.
+
+``` 
+arc diff
 ```
 
 Another option if you prefer would be to send patch mail to [lubuntu-devel@lists.ubuntu.com](mailto:lubuntu-devel@lists.ubuntu.com).

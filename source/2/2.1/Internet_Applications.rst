@@ -1,6 +1,8 @@
 Chapter 2.1 Internet Applications
 =================================
 
+This chapter documents how to use webbrowsers email clinets and torent clients. 
+
 .. toctree::
    :maxdepth: 2
    :titlesonly:

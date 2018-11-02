@@ -15,10 +15,22 @@ The appearance tab lets you change where the buttons are so for is you want and 
 
 The font tab changes the font of your window titlebars you can select several different fonts for different conditions of the window. To change the style of the font you can under the style make the font inactive. For example if you have trouble telling which window you are in you can make the font italic for the titlebar of inactive windows to make it even more obvious.
 
+The mouse tab use the focus follow mouse tab is if you move the mouse over the window it will automatically focus on that window.   
+
+On the desktop tab to change number of desktops press the up arrow to add an additional desktop or the down arrow to reduce the number of virtual desktops.  
+
+
+
 Screenshot
 ----------
 .. image:: openbox-config.png
 
 How to launch
 -------------
-To launch openbox settings from the menu -> Prefrences -> LXQt settings -> openbox settings. From LXQt settings press the openbox settings button with the wrench and screwdriver on a computer window or run obconf-qt from the command line.
+To launch openbox settings from the menu -> Prefrences -> LXQt settings -> openbox settings. From LXQt settings press the openbox settings button with the wrench and screwdriver on a computer window or run
+
+.. code:: 
+
+   obconf-qt
+
+from the command line.

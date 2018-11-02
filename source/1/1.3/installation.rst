@@ -4,7 +4,7 @@ This is a guide to through the installation process of Lubuntu.
 
 Starting the installer
 ----------------------
-<<<<<<< HEAD
+
 Once you have booted the Lubuntu image, you will be greeted by a screen with the following options: Start Lubuntu, Check disk for defects, Test RAM, and Boot from first hard disk. To start the install select Start Lubuntu, you will now be booting into a live session. 
 
 .. image:: boot_installer.png
@@ -14,17 +14,7 @@ Once you have booted into the live session, feel free to explore Lubuntu. Once y
 .. image:: live_session.png
 
 You will be taken to the Lubuntu installer Welcome screen. You can change the installer language in the drop down box. After selecting the language the next button will move you on to the next task.
-=======
-Once you have booted the lubuntu image, you will be greeted by a screen with the following options: Start Lubuntu, Check disk for defects, Test RAM, and Boot from first hard disk. To start the install select Start Lubuntu, you will now be booting into a live session. 
 
-.. image:: boot_installer.png
-
-Once you have booted into the live session, feel free to explore lubuntu. Once you are ready to install lubuntu, double click the icon in the top-left corner of the desktop "Install Lubuntu 18.10". 
-
-.. image:: live_session.png
-
-You will be taken to the lubuntu installer Welcome screen. You can change the installer language in the drop down box. After selecting the language the next button will move you on to the next task.
->>>>>>> 649e6743269e13afc131419c1258b458ca0596c5
 
 .. image:: welcome_installer.png
 
@@ -68,11 +58,17 @@ The Lubuntu installer provides some useful information while the installer is ru
 
 Advanced partitioning 
 -----------------------
-If you have had  a previous linux install and want to put the entire disk or just replace an entire partition you will need to unmount them. In this case running  `sudo swapoff -a` will unmount them and any partitions with data mounted can be unmounted through pcmanfm-qt.
+If you have had  a previous linux install and want to put the entire disk or just replace an entire partition you will need to unmount them. In this case running  
+
+.. code:: 
+
+   sudo swapoff -a
+  
+will unmount them and any partitions with data mounted can be unmounted through pcmanfm-qt.
 
 Manual partitioning
 -----------------------
 
-If you wish to manual set up partitions, as an advanced option you will have to choose which file-system you want. A file-system controls how your files are accessed at lower levels on the disk. If you are booting your computer in UEFI mode a more modern firmware compared to BIOS you will need to create an EFI system partition see  `http://en.wikipedia.org/wiki/EFI_System_partition` for more detail to create this partition you will need a FAT32 file-system with the ESP flag with to be mounted at /boot/efi/ under the mount point. You will also need a root (/) file-system, several file-systems included for Lubuntu are Ext4, XFS, and Btrfs. 
+If you wish to manual set up partitions, as an advanced option you will have to choose which file-system you want. A file-system controls how your files are accessed at lower levels on the disk. If you are booting your computer in UEFI mode a more modern firmware compared to BIOS you will need to create an EFI system partition see  `efi system partitionwikipedia <http://en.wikipedia.org/wiki/EFI_System_partition>`_ for more detail to create this partition you will need a FAT32 file-system with the ESP flag with to be mounted at /boot/efi/ under the mount point. You will also need a root (/) file-system, several file-systems included for Lubuntu are Ext4, XFS, and Btrfs. 
 
 You can create partition by clicking the button which will bring up a dialog. The file system field is a drop down menu, select which file-system you want. You also need to select where you want to mount the partition. which you need at least one root (/) partition and if you are booting an EFI system you will also need a /boot/efi mounted partition. Another common option is to have all your data on its own partition, which can even be on its own separate physical disk this can be mounted at /home.

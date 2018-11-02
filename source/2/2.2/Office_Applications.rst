@@ -1,6 +1,8 @@
 Chapter 2.2 Office Applications
 ===============================
 
+This chapter documents office applications including the libreoffice office suite and qpdfview for viewing pdfs. 
+
 .. toctree::
   :maxdepth: 2
   :titlesonly:

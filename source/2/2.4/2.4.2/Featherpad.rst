@@ -20,6 +20,7 @@ To type things into your text file the main part of the window similar to a word
 
 To open a new tab and empty text file press the button with a piece of paper with a plus symbol on it. If you wish to close a tab press the red x button.
 
+If you make a mistake and want to undo it press control + z or press the button that looks like a curved arrow pointing towards the left. To redo a change you have undone press the button with a curved arrow pointing towards the right. 
 
 Screenshot
 ----------
@@ -32,4 +33,9 @@ Lubuntu ships with version 0.9.0 of featherpad.
 
 How to Launch
 -------------
-In the menu go to Acessories -> featherpad or run featherpad from the command line.
+In the menu go to Acessories -> featherpad or run 
+.. code::
+
+   featherpad
+
+from the command line.

@@ -11,7 +11,7 @@ Useage
 ------
 To preview what you want to scan press the preview button and you can make sure the scan is in a good position. With this done you can press the scan button to scan the document after this a dialog will show up asking you were to save what you are scanning. 
 
-To zoom in press the magnifying glass button with a plus sign conversely to move out press the magnifying glass button with a minus sign. 
+To zoom in press the magnifying glass button with a plus sign conversely to move out press the magnifying glass button with a minus sign. To change your resolution change the scan resolution drop down and select the dots per inch you want to use.    
 
 How to launch
 -------------

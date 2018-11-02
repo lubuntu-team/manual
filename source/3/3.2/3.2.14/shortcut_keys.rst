@@ -1,21 +1,29 @@
-Chapter 3.2.14 shortcut keys
+Chapter 3.2.14 Shortcut keys
 ============================
 
-shortcut keys is a program that sets keyboard shortcuts for Lubuntu.
+Shortcut keys is a program that manages the global hotkeys or keyboard shortcuts for Lubuntu.
+
+.. note::
+    The keyboard shortcuts are also managed by Openbox. Refer to Appendix F for more detail.
 
 Version
 -------
 Lubuntu ships with version 0.13.0 of shortcut keys.
 
-Useage
+Usage
 ------
-To change a current keyboard shortcut to change things look at the menu click on the shortcut and a timer will begin to countdown during which time you should push the keyboard shortcut you want to change it to.  To remove a keyboard shortcut left click on that keyboard shortcut and press the remove button.
+You can **Modify** a current keyboard shortcut by selecting the shortcut from the keyboard table, clicking the modify button, then clicking on the shortcut button. A countdown will begin during which you should push the **keyboard shortcut combination** you want.  
 
-To create a new keyboard shortcut press the create button. The shortcut field will be blank but when you click the shortcut button a countdown will begin and then press the keyboard shorcut you want to assign it to. The summary field lets you enter a summary of the command useful so you know what this shortcut you created does in the future. To make this execute a terminal command press the terminal command radio button and enter the command in the radio button at the bottom.
+You can **Remove** a keyboard shortcut by selecting the shortcut from the keyboard table, and clicking the remove button.
+
+You can **Add** a new keyboard shortcut clicking the add button. The shortcut field will be blank, click the shortcut button to start the countdown, then press the **keyboard shortcut combination** you want to assign. Write a short description of what the keyboard shortcut does, for example "start drop down terminal", or "increases screen brightness". To make this execute a terminal command select the command radio button and enter the command in below.
 
 Screenshot
 ----------
+
 .. image:: shortcut_keys.png
+
+.. image:: add_key_ex.png
 
 How to launch
 -------------

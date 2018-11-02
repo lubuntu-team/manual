@@ -19,7 +19,7 @@ If you single click on a file you will select it. If you double click on it you 
 
 To connect to a remote server such as a NAS go to the go menu -> Connect to server and authenticate to your remote storage. If you want to plug in removeable storage you can open the storage on the left with devices.  This also happens other internal filesystems on your computer. To eject removeable media press the button on the left with a circled up arrow to eject.   
 
-To see hidden files press control +h or go to view -> show hidden. To open a terminal in your current folder press f4  or Tool -> Open terminal from the menu. To search for files press f3 or tool -> search for files.       
+To see hidden files press control +h or go to view -> show hidden. To open a terminal in your current folder press f4  or Tool -> Open terminal from the menu. To search for files press f3 or tool -> search for files. To view the properties of a file or folder right click on it and select properties from the menu. General will show you the size of the file where the file is and when it was last modified or accessed. The permissions tab will show you who owns the file which if you can't change it will be grayed out and who has permisson to read modify and execute the file.         
 
 Screenshot
 ----------

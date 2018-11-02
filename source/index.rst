@@ -25,6 +25,7 @@ Contents
    C/command_line
    D/upgrading
    E/live_session
+   F/keyboard_shorcuts
 
 Contact Us
 ==========

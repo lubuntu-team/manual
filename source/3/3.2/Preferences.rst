@@ -1,5 +1,5 @@
-Chapter 3.2 Prefrences
-======================
+Chapter 3.2 Preferences
+=======================
 
 This chapter sets up the many prefrences included within lubuntu for themeing and customization. Be aware that this likely will make your system look different than the screenshots in this manual. 
 

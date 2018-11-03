@@ -21,6 +21,12 @@ will make a much nicer output than
    
    df 
 
+To list files on the current file system one of the most important commands to know is ls. 
 
+.. code:: 
+
+   ls 
+
+will show the files in your current directory and the man page lists more options such as viewing all files or long listing. 
 
  

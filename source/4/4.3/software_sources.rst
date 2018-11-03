@@ -29,6 +29,10 @@ Muon Package Manager -> Settings-> Configure Software Sources
 
 Discover Software Center -> Settings -> Ubuntu (Default) -> Settings (Gear icon) -> Software Sources
 
-command line:    sudo software-properties-qt
+command line:   
+
+.. code:: 
+
+    lxqt-sudo software-properties-qt
 
 tags:ppa, software, download, sources, release, update, discover, muon, security, 

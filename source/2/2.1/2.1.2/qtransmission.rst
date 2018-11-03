@@ -17,6 +17,7 @@ How to launch
 -------------
 
 To launch Qtransmission go to menu -> Internet -> Qtransmission bittorent client or run 
+
 .. code:: 
  
    transmission-qt 

@@ -23,6 +23,7 @@ Right clicking on the title bar and left clicking on the icon located at the top
 -   The earlier mentioned Iconify, Maximize, Close, and Resize option are also available here.
 -   Roll up/down rolls the window into the title-bar.
 -   Decorate/Undecorate hides them title-bar.
+-   Resize lets you use the change the size of a window. 
 
 Useful keyboard shortcuts
 -------------------------

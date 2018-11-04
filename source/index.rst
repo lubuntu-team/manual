@@ -19,7 +19,7 @@ Contents
 
    1/Installing_lubuntu
    2/Applications
-   3/System_Tools_and_Prefrences
+   3/System_Tools_and_Preferences
    4/Installing_Updating_and_Removing_Software
    5/Panel_Desktop_and_Runner
    A/tips_and_tricks

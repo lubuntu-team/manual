@@ -11,6 +11,10 @@ To search for a program to install type into the bar at the top that says search
 
 If you want to see your history of package updates and installed from the menu -> view -> history or press control + h.  
 
+Screenshot
+----------
+.. image:: muon.png
+
 Version
 -------
 Lubuntu ships with version 4:5.8.0 of muon package manager

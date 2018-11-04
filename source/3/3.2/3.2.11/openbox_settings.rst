@@ -17,7 +17,9 @@ The font tab changes the font of your window titlebars you can select several di
 
 The mouse tab use the focus follow mouse tab is if you move the mouse over the window it will automatically focus on that window.   
 
-On the desktop tab to change number of desktops press the up arrow to add an additional desktop or the down arrow to reduce the number of virtual desktops.  
+On the desktop tab to change number of desktops press the up arrow to add an additional desktop or the down arrow to reduce the number of virtual desktops. When switching desktops there is  a checkbox to show a notification and a field for how many miliseconds to show that notification for. 
+
+To make a margin on your desktop on which nothing is placed you can set pixel margins on each side with the margins tab. 
 
 
 

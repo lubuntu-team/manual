@@ -13,6 +13,10 @@ Version
 
 Lubuntu ships with version 2.94 of Qtransmission.
 
+Useage
+------
+To open a torrent file press the open or simply dobule clicking the torrent file from a web browser after opening it will start Qtransmission. The torrent file will start download and using your connection to upload to others in a so called peer to peer network. At the bottom you will see an arrow pointing downward to show how fast you are downloading. The up arrow shows how fast you are seeding or uploading  the file to others. 
+
 How to launch
 -------------
 

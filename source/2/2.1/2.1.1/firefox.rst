@@ -28,6 +28,7 @@ To open a new tab in firefox press the plus button on the right of the tab bar. 
 
 To go back to a previous page in firefox press the button pointing to the left. To go forward to a page you have visited before but have now gone back from press the button with the arrow pointing to the right. To download a file directly to your local disk right click on the save file as and then you will get options to save the file where you want.  
 
+To go to a specific url in the address bar you can type it in the the main bar in the middle.  
 
 Version
 ----------

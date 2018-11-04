@@ -1,5 +1,3 @@
-Appendix F Keyboard shortcuts for Openbox
-=========================================
 
 **Keybindings for desktop switching**
 

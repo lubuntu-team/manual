@@ -26,7 +26,7 @@ Contents
    C/command_line
    D/upgrading
    E/live_session
-   F/openbox_keyboard
+   F/keyboard_shortcuts
 
 Contact Us
 ==========

@@ -24,7 +24,9 @@ Customizing
 -----------
 To change many panel settings right click not on the main taskbar and click the wrench button for panel settings. To move the panel their is a drop down menu of position that can move it to where you want.  The alignment drop down menu lets you set the alignment of the panel on your screen if you choose to move it or make it only a portion of the screen. The size menu lets you increase or decrease the width of the panel. Lenght has two fields the one is either px or percent is for to change the length of the panel in pixels while  percent is a percent of the entire screen size that changes if you change resolution. The first is the number of pixels or percent of the screen you want the panel to cover. The icon size makes the size of the icons bigger or smaller on the panel. 
 
-To change to a custom font color press the color button checkbox. Press the dropper button to bring up a widget to choose the custom color. 
+To change to a custom font color press the color button checkbox. Press the dropper button to bring up a widget to choose the custom color. The checkbox for background color sets a background color custom for the background of lxqt-panel and the dropper brings up how to select which color. 
+
+The checkbox for override icon theme lets you choose a non system default icon theme for lxqt-panel. The dropdown then lets you see what that icon theme from the dropdown list. If you do not like your changes to the system you can press the reset button to reset changing to before trying to customize the panel. 
 
 
 Version

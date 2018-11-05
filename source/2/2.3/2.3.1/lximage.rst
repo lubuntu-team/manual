@@ -11,6 +11,8 @@ If you wish to print a picture after viewing it from the file menu -> print or p
 
 To rotate an image to the right press the circular arrrow that points to the right or go to edit -> rotate clockwise. To rotate conterclockwise use the circular arrow pointing to the left or edit ->rotate conterclockwise. To zoom in on a picture press the icon with a magnifying glass with a + symobol on it or press control + +. To zoom out press the button of a magnifying glass with a - symbol in it or press control + -.    
 
+To view the next picture on your image press the right arrow and conversly to view the previous image press the left arrow. 
+
 Screenshot
 ----------
 .. image:: LXImage.png

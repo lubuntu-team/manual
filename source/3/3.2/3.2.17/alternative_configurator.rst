@@ -7,6 +7,10 @@ Version
 -------
 Lubuntu ships with version 1.0.1 of galternatives. 
 
+Screenshot
+----------
+.. image:: alternative.png
+
 How to Launch
 -------------
 To launch Alternatives configurator from the menu -> Prefrences -> Alternatives configurator or run 

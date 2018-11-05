@@ -9,7 +9,7 @@ To move between cells press the arrow keys. To enter data into cells type in the
 
 To save your spreadsheet you need to press the button that looks like a floppy disk, press the keyboard shortcut or go to file menu -> save. To open a file press the button that looks like a brown folder and add selct the file you want from the dialog. 
 
-To copy data you can right click copy, press the button with two pieces of paper or press control + c. To paste data press control control +v, edit paste, right click paste or press the botton that is a clipboard with a piece of paper on it.  
+To copy data you can right click copy, press the button with two pieces of paper or press control + c. To paste data press control control +v, edit paste, right click paste or press the botton that is a clipboard with a piece of paper on it. To cut text press control+x or press the sciors button to cut text.  
 
 Screenshot
 ----------

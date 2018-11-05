@@ -9,7 +9,7 @@ The playback tab of pulseaudio volume control gives you the ability to the contr
 
 The output devices tab shows different output for different sounds. To mute one output such as a set of speakers presss the button that looks like a speaker with an X on it. To increase the volume of an output slide the slider for that output to the right. To decrease the volume for each output slide the slider to the left.
 
-To mute your microphone in pulseaudio toggle the button that looks like a speaker. To adjust input volume slide the slider to the right to increase volume or to the left to decrease volume. 
+To mute your microphone in pulseaudio toggle the button that looks like a speaker. To adjust input volume slide the slider to the right to increase volume or to the left to decrease volume. To select which input such as line in or microphone for your device is in a drop down menu.  
 
 Screenshot
 ----------

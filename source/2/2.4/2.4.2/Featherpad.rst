@@ -22,7 +22,7 @@ To open a new tab and empty text file press the button with a piece of paper wit
 
 If you make a mistake and want to undo it press control + z or press the button that looks like a curved arrow pointing towards the left. To redo a change you have undone press the button with a curved arrow pointing towards the right. 
 
-To search your text file press Control + F or search find from the menu. Then in the bar on the bottom search for the text you want. Press the down arrow to move to the next result and the up arrow to move for the previous result in the text file. To jump to a particular line in a file press control +j or search jump to or the button that looks like >>. Then in the bar at the bottom type in what line you want to jump to.  
+To search your text file press Control + F or search find from the menu. Then in the bar on the bottom search for the text you want. Press the down arrow to move to the next result and the up arrow to move for the previous result in the text file. To jump to a particular line in a file press control +j or search jump to or the button that looks like >>. Then in the bar at the bottom type in what line you want to jump to. To find and replace text press control +r or search -> Replace. Type the text you want to Find in the find field and type what you want to put in with the Replace with field and then press enter to finish the finding and replacing through the whole file. 
 
 Screenshot
 ----------

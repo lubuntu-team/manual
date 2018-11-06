@@ -9,7 +9,7 @@ Lubuntu ships with version 1.0.1 of galternatives.
 
 Screenshot
 ----------
-.. image:: alternative.png
+.. image:: alternatives.png
 
 How to Launch
 -------------

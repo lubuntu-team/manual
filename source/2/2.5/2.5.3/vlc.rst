@@ -10,7 +10,9 @@ To open media stored locally on your system click media open file and navigate y
 On the bottom right of vlc there is a bar that gets wider for volume. Click farther to the right to increase volume within vlc. Or hover the cursor over this bar and use the mousewheel to control volume. The button that looks like a speaker next to this toggles mute in vlc.  
 
 
-To see how long you have been watching the current piece of media counts up above the play pause button in a time. At the other side a number will show the length of the media you are playing and inbetween is a slider with the current time. Moving the slider to the left will rewind playback while moving it to the left will fast forward playback. 
+To see how long you have been watching the current piece of media counts up above the play pause button in a time. At the other side a number will show the length of the media you are playing and inbetween is a slider with the current time. Moving the slider to the left will rewind playback while moving it to the left will fast forward playback.  
+
+To open an equalizier press the button that looks like several physical slider swichtes and on the audio effects equalizer tab press enable on the equalizer. Then to increase or decrease the sound at each frequency up to increase the volcume at that frequency.  
 
 Screenshot
 ----------

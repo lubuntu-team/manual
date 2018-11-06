@@ -21,7 +21,7 @@ To connect to a remote server such as a NAS go to the go menu -> Connect to serv
 
 To see hidden files press control +h or go to view -> show hidden. To open a terminal in your current folder press f4  or Tool -> Open terminal from the menu. To search for files press f3 or tool -> search for files. To view the properties of a file or folder right click on it and select properties from the menu. General will show you the size of the file where the file is and when it was last modified or accessed. The permissions tab will show you who owns the file which if you can't change it will be grayed out and who has permisson to read modify and execute the file.
 
-
+Pcmanfm-qt can actually launch other applications in places Applications and then gets all the tasks in the menu in lxqt-panel. 
 
 Screenshot
 ----------

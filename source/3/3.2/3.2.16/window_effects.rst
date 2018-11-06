@@ -8,6 +8,12 @@ Version
 -------
 Lubuntu ships with version 0.4.0 of Window effects.
 
+Useage
+------
+To toggle enable client side shadows press the Enable client side shadows checkbox. 
+
+The opacity tab is for transparency settings. Setting Opacity to 1.00 makes it opaque while 0 makes it entirely clear. 
+
 How to Launch
 -------------
 To launch window effects from the menu -> Prefrences -> LXQt Settings -> Window effects or run 

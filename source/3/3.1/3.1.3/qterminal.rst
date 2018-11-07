@@ -7,7 +7,9 @@ Useage
 ------
 To open a new tab go to the file menu -> new tab or press control shift t with the button that looks like a +. To close a tab press the X button near the right hand side of the tab. If you want to switch between tabs click on the different click on that tab or press the left and right arrows in the upper right corner on the tabbar. Another way to switch between tabs is control + page up or control plus page down. If you want to copy text from the temrinal press control +  shift + c to copy text. If you wish to paste text into the terminal you can control + shift + v however you should be really careful it is not a malicious command and shows the command you are pasting in. If you want to open a new terminal window Control+ Shift+ N or go file -> new window.    
 
-To change your prefrences go to file -> prefrences. To change your font press the font change the font and size press the change button in the prefrences dialog. 
+Customizing
+-----------
+To change your prefrences go to file -> prefrences. To change your font press the font change the font and size press the change button in the prefrences dialog. The color scheme field lets you say change how different colored things in the terminal colors appear. The widget style lets you overwrite the system widget style with something other than system default. The scrollbar position lets you move the scrollbar to the left or right or remove it entirely.  
 
 Version
 -------

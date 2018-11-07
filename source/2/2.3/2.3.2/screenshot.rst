@@ -1,4 +1,4 @@
-Chapter 2.3.3 Screenshot
+Chapter 2.3.2 Screenshot
 ========================
 
 Screenshot is a program to take screenshots.

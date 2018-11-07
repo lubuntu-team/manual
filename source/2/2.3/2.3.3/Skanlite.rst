@@ -1,4 +1,4 @@
-Chapter 2.3.4 Skanlite
+Chapter 2.3.3 Skanlite
 ======================
 
 Skanlite is a scanning application. 

@@ -7,6 +7,10 @@ Useage
 ------
 LXQt power management watches your battery, laptop lid, and idleness on the screen. Each one of the checkbox is to battery laptop lid and idleness is a checkbox to enable or disable each. When you add when power is low select what you want to do suspend shutodwn hibernate or something. The lid watcher lets you choose to suspend or shut off your computer when the lid is closed on battery or on AC.     
 
+Screenshot
+----------
+.. image:: power_management.png
+
 Version
 -------
 Lubuntu ships with version 0.13.0 of Power Management.  

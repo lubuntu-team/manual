@@ -1,5 +1,5 @@
 Chapter 3.1.6 qps
-================
+=================
 
 qps a graphical task manager included with Lubuntu.
 

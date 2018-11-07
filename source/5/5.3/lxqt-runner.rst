@@ -15,6 +15,7 @@ Configuration
 
 Runner has a few configuration options. If you want to change the keyboard shortcut to launch programs, click the the downward arrow on the right side of the search bar to open up the menu. Select the gear icon to configure, at the bottom there is a label that says shortcut and then a button that lists the current shortcut. Left click on the button and a countdown will begin in which time you need to press the key or combination of keystrokes you want to launch lxqt-runner. In this screen there are also tick-boxes to keep a history of your commands and if you want the historical items shown first. 
 
+.. image:: runner-config.png
 
 Screenshot
 ---------------

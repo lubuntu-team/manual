@@ -28,6 +28,8 @@ To insert special symbols or characters press the button with the Ω symbol or f
 
 To undo a mistake you make press control + z or press the yellow arrow pointing to the left. If you accidently undid code redo or press the green arrow pointing to the right.    
 
+To center your text is press the button with the horizontal lines centered or format -> align-> centered. To have your text justified to the right press the button with the lines on the right or format -> align -> right. To have your text aligned to left press the lines on the eleft with or format -> align -> left.    
+
 Screenshot
 ----------
 .. image:: libreoffice_writer.png

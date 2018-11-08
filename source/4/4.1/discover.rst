@@ -10,6 +10,8 @@ Discover allows you to update software using the Updates tab located on the bott
 
 To remove software use the Installed tab. You can browse your installed packages, search using the search bar (upper left corner), and the click the remove button to remove software.
 
+In the upper right corner of discover you can have a Sort category to sort your search results by name, rating, size, and release date. 
+
 Screenshot
 ----------
 

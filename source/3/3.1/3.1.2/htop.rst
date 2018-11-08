@@ -7,7 +7,7 @@ Useage
 ------
 To view how much RAM is being used on your system is under mem and then a [ number based on how many Gigabytes of memory. The Swap line lists how much swap is used. The numbers going down with a bar with a percentage next to them display useage on each of your cpu cores.
 
-Load average shows your system laod over the past one five and fiften minute is why there are three numbers see `https://en.wikipedia.org/wiki/Load_(computing)` for more infmormation. Uptime shows how long your computer has been booted.
+Load average shows your system laod over the past one five and fiften minute is why there are three numbers see `wikipedia load (computing) <https://en.wikipedia.org/wiki/Load_(computing)>`_ for more infmormation. Uptime shows how long your computer has been booted.
 
 After the bottom there is a green bar that says PID for the Process ID of a user, The user the process responds to, RES is how much RAM the process is currently using. CPU% shows how much as a percent of CPU time the process is using, mem% is a precent of the RAM your proess is using. TIme shows how long the process has been running. COmmand shows the command line command of the process. 
 

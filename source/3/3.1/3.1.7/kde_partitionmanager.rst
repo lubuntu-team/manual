@@ -14,6 +14,8 @@ To check the health of your hard drive on the menu Device ->  SMART status.
 
 You can see your disk useage for each partition graphically with the bars at the top with the shaded in part showing a bar graph as the percentage full of the partition. The Column size shows the size of the entire system while the Used shows the amount of space used on the drive. The type field lets you see which filesystem is on the parttion.   
 
+If you have say a new solid state drive that is not formatted you first need to put a partition table on it. A new partition data will get rid of all partitions on the disk which means no data will be visable anymore. Then you will need to create a partition on to store data. On unallocated space you can right click on the unalloacted space and new partition and select the filesystem you want. Then press the apply button to apply the changes to your partition. 
+
 Screensaver
 -----------
 .. image:: kde_partitionmanager.png

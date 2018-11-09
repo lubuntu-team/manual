@@ -19,6 +19,10 @@ You can navigate the Software Sources using the tabs.
 -   Authentication manages key files which ensure your downloads are not compromised, basically ensuring you are download from a reliable source and your download has not been intercepted.
 -   Submitting statistical data will improve the Ubuntu experience allowing developers to know which software you are downloading anonymously. We urge you to enable this feature but it is disabled by default as Lubuntu has an "Opt-in" philosophy. 
 
+Version
+-------
+Lubuntu ships with version 0.96.27 of software properties. 
+
 Screenshot
 --------------
 .. image:: software_sources.png

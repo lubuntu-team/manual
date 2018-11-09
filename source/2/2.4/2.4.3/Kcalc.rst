@@ -21,9 +21,12 @@ To make a number negative press the button that looks like a +/-. To insert deci
 
 To copy and answer out of Kcalc press control + c or edit -> copy from the menu. To paste a number into Kcalc you can press control + v or edit -> paste from the menu. To cut the text from Kcalc press control +x or edit -> cut from the menu.
 
+Scientific calculator mode advanced fuctionality
+------------------------------------------------
+
 If you want even more functionality of Kcalc there is also scientific mode which is acessed from settings and the scientific mode radio button. The button 1/x takes takes 1 and divides it by the number currently on the calculator also known as taking the reciprocal. x! read x factorial will take the number X you entered and multiple each number going down to 1 for example 5! would multiply 5*4*3*2*1. 
 
-The x squared button will take a x*x and multiply it by itself. The button with x and a superscript y will take x the number you have in will exponeniate x to the power of y. The x 10 with a supercript y will end up multiplying x by 10 to the power of y so for example to multiply 5 by 10 to the power of 3 entering in will give the answer of 5,000.      
+The x squared button will take a x*x and multiply it by itself. The button with x and a superscript y will take x the number you have in will exponeniate x to the power of y. The x 10 with a supercript y will end up multiplying x by 10 to the power of y so for example to multiply 5 by 10 to the power of 3 entering in will give the answer of 5,000.
 
 
 .. image:: kcalc-scientific.png

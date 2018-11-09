@@ -26,6 +26,8 @@ To search through your pdf file you can press control + f or from the menu edit 
 
 To make qpdfview fullscreen you can press f11. To enter presentation mode you can press f12 wihch is makes the content of the pdf take up the fullscreen and gives you no menubars. To exit presentation mode you can press f12 again. To advance to the next page in the presentation press the spacebar or the right arrow. To go back a page in presentation press the left arrow. 
 
+If you have a particularly long pdf file you might want to make a bookmark to find a specific thing easily. To create a bookmark press control +B or Bookmarks ->  Add Bookmark and give the bookmark a memorable title and description so you can find it in this document again easily. If you later want to remove the bookmark go bookmarks -> remove bookmark or press control+ shift+ B. 
+
 Screenshot
 ----------
 .. image:: qpdfview.png

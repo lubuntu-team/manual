@@ -16,7 +16,7 @@ Features:
 
 Usage
 ------
-To open a pdf file use File -> Open from the menu or Ctrl + O on the keyboard. If you have a pdf open use File -> Open in new tab from the menu, click the Open in new tab button or press Ctrl + T. To refresh a pdf click the Refresh button or press F5 just like most web browsers.
+To open a pdf file use File -> Open from the menu or Ctrl + O on the keyboard. If you have a pdf open use File -> Open in new tab from the menu, click the Open in new tab button or press Ctrl + T. To refresh a pdf click the Refresh button or press F5 just like most web browsers. To switch between tabs on the keyboard you can press control control +tab to go the next tab or control shift tab to cycle through your tabs in the opposite direction. At the bottom of the tab menu will be a list of all your tabs you have open with the title of each document.   
 
 If you want to view a particular page select the box (e.g. page 1/3) and tpye the page number (e.g. page 3/3). To move to the previous and next page use the left and right arrow buttons respectively. There are numerous zoom option, including percentage, page width, page size, continous, and multiple pages.
 

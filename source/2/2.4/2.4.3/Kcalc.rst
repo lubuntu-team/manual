@@ -28,6 +28,7 @@ If you want even more functionality of Kcalc there is also scientific mode which
 
 The x squared button will take a x*x and multiply it by itself. The button with x and a superscript y will take x the number you have in will exponeniate x to the power of y. The x 10 with a supercript y will end up multiplying x by 10 to the power of y so for example to multiply 5 by 10 to the power of 3 entering in will give the answer of 5,000.
 
+To change the unit that angles are measured in for triginometric units in Kcalc. Degrees take 360 to form a full circle while, 2Π radians form a full circle and 400 gradians form a full circle. The radio button for Deg is to select Degrees as the unit for angles, Rad selects radian as the unit of measurment of angles and Grad selects Gradians as the unit of measurement for angles. The Sin button takes what you have as the input and takes the trigonometric sine function of that value measured in the unit for angles you have selected. The cos button takes the cosine of the vlaue in the unit of angle you have selected.  
 
 .. image:: kcalc-scientific.png
 

@@ -15,6 +15,8 @@ To zoom in press the magnifying glass button with a plus sign conversely to move
 
 To change the brightness of a scan slide the slider or input an a positive or negative number into the the numeric field. To change constrast slide the slider or input a positive or negative number in the numeric field. 
 
+To clear selections that can be automatically selected but canceled with a brown smudge with an x on it. 
+
 How to launch
 -------------
 To launch skanlite turn on your scanner and that it is connected to your computer. To launch the application go to the menu -> graphics -> skanlite or run 

@@ -19,7 +19,7 @@ To clear selections that can be automatically selected but canceled with a brown
 
 How to launch
 -------------
-To launch skanlite turn on your scanner and that it is connected to your computer. To launch the application go to the menu :menuselect:`graphics --> skanlite` or run 
+To launch skanlite turn on your scanner and that it is connected to your computer. To launch the application go to the menu :menuselection:`graphics --> skanlite` or run 
 
 .. code:: 
 

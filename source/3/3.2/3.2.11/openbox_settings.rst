@@ -29,7 +29,7 @@ Screenshot
 
 How to launch
 -------------
-To launch openbox settings from the menu -> Prefrences -> LXQt settings -> openbox settings. From LXQt settings press the openbox settings button with the wrench and screwdriver on a computer window or run
+To launch openbox settings from the menu -> Preferences -> LXQt settings -> openbox settings. From LXQt settings press the openbox settings button with the wrench and screwdriver on a computer window or run
 
 .. code:: 
 

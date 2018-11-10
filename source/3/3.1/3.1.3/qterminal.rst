@@ -9,7 +9,7 @@ To open a new tab go to the file menu -> new tab or press control shift t with t
 
 Customizing
 -----------
-To change your prefrences go to file -> prefrences. To change your font press the font change the font and size press the change button in the prefrences dialog. The color scheme field lets you say change how different colored things in the terminal colors appear. The widget style lets you overwrite the system widget style with something other than system default. The scrollbar position lets you move the scrollbar to the left or right or remove it entirely. The tabs position moves the bar to that part of the window of qterminal. 
+To change your preferences go to file -> preferences. To change your font press the font change the font and size press the change button in the preferences dialog. The color scheme field lets you say change how different colored things in the terminal colors appear. The widget style lets you overwrite the system widget style with something other than system default. The scrollbar position lets you move the scrollbar to the left or right or remove it entirely. The tabs position moves the bar to that part of the window of qterminal.
 
 The box for showing close button on each tab if unchecked will not have a button to close each tab will not have the red x button  on each tab. 
 

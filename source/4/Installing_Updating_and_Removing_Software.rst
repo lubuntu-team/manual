@@ -1,7 +1,7 @@
 Chapter 4 Installing Updating and Removing Software
 ===================================================
 
-This chapter will teach you how to use GUI to install update and remove software.
+This chapter will teach you how to use GUI to install update and remove software and manage sources. 
 
 .. toctree::
   :maxdepth: 2

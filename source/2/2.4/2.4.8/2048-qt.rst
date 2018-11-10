@@ -16,7 +16,7 @@ Version
 Lubuntu ships with version 0.1.6 of 2048-Qt. 
 How to launch
 -------------
-To launch 2048-qt go to the menu -> games -> 2048-qt or run 
+To launch 2048-qt go to the menu :menuselection:`games -> 2048-qt` or run 
 
 .. code::
    

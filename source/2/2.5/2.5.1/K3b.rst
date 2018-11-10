@@ -7,6 +7,10 @@ Version
 -------
 Lubuntu ships with version 18.04.3 of K3b. 
 
+Screenshot
+----------
+.. k3b.png
+
 How to Launch
 -------------
 To launch K3b from the menu -> sound and video -> K3b or run 

@@ -18,7 +18,7 @@ Fading windows can have some  differences. There is a checkbox for fading window
 
 How to Launch
 -------------
-To launch window effects from the menu -> Prefrences -> LXQt Settings -> Window effects or run 
+To launch window effects from the menu :menuselection:`Prefrences --> LXQt Settings --> Window effects` or run 
 
 .. code:: 
 

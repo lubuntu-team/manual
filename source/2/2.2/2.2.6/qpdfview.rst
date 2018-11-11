@@ -20,13 +20,13 @@ To open a pdf file use :menuselection:`File --> Open` from the menu or Ctrl + O 
 
 If you want to view a particular page select the box (e.g. page 1/3) and tpye the page number (e.g. page 3/3). To move to the previous and next page use the left and right arrow buttons respectively. There are numerous zoom option, including percentage, page width, page size, continous, and multiple pages.
 
-qpdfview also includes some very useful docks. To view the outline dock, in the menu select View -> Docks -> O utline (make sure the button is checked) or press F6 on the keyboard. It should appear on the left hand side of the pdf with collapsable sections. This is useful in navigating large pdfs.
+qpdfview also includes some very useful docks. To view the outline dock, in the menu select :menuselection:`View --> Docks --> Outline (make sure the button is checked)` or press F6 on the keyboard. It should appear on the left hand side of the pdf with collapsable sections. This is useful in navigating large pdfs.
 
-To search through your pdf file you can press control + f or from the menu edit -> search. You will get taken to the results and will appear highligheted in yellow to see through the results you can press the down arrow to see results farther in the document and press the up arrow to see results towards the start of the document.
+To search through your pdf file you can press control + f or from the menu :menuselection:`edit --> search`. You will get taken to the results and will appear highligheted in yellow to see through the results you can press the down arrow to see results farther in the document and press the up arrow to see results towards the start of the document.
 
 To make qpdfview fullscreen you can press f11. To enter presentation mode you can press f12 wihch is makes the content of the pdf take up the fullscreen and gives you no menubars. To exit presentation mode you can press f12 again. To advance to the next page in the presentation press the spacebar or the right arrow. To go back a page in presentation press the left arrow. 
 
-If you have a particularly long pdf file you might want to make a bookmark to find a specific thing easily. To create a bookmark press control +B or  :menuselection:`Bookmarks ->  Add Bookmark` and give the bookmark a memorable title and description so you can find it in this document again easily. If you later want to remove the bookmark go :menuselection:`bookmarks --> remove bookmark` or press control+ shift+ B. 
+If you have a particularly long pdf file you might want to make a bookmark to find a specific thing easily. To create a bookmark press control +B or  :menuselection:`Bookmarks -->  Add Bookmark` and give the bookmark a memorable title and description so you can find it in this document again easily. If you later want to remove the bookmark go :menuselection:`bookmarks --> remove bookmark` or press control+ shift+ B. 
 
 Screenshot
 ----------

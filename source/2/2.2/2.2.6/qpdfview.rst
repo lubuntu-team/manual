@@ -16,7 +16,7 @@ Features:
 
 Usage
 ------
-To open a pdf file use File -> Open from the menu or Ctrl + O on the keyboard. If you have a pdf open use File -> Open in new tab from the menu, click the Open in new tab button or press Ctrl + T. To refresh a pdf click the Refresh button or press F5 just like most web browsers. To switch between tabs on the keyboard you can press control control +tab to go the next tab or control shift tab to cycle through your tabs in the opposite direction. At the bottom of the tab menu will be a list of all your tabs you have open with the title of each document.   
+To open a pdf file use :menuselection:`File --> Open` from the menu or Ctrl + O on the keyboard. If you have a pdf open use :menuselection:`File --> Open` in new tab from the menu, click the Open in new tab button or press Ctrl + T. To refresh a pdf click the Refresh button or press F5 just like most web browsers. To switch between tabs on the keyboard you can press control control +tab to go the next tab or control shift tab to cycle through your tabs in the opposite direction. At the bottom of the tab menu will be a list of all your tabs you have open with the title of each document.   
 
 If you want to view a particular page select the box (e.g. page 1/3) and tpye the page number (e.g. page 3/3). To move to the previous and next page use the left and right arrow buttons respectively. There are numerous zoom option, including percentage, page width, page size, continous, and multiple pages.
 
@@ -26,7 +26,7 @@ To search through your pdf file you can press control + f or from the menu edit 
 
 To make qpdfview fullscreen you can press f11. To enter presentation mode you can press f12 wihch is makes the content of the pdf take up the fullscreen and gives you no menubars. To exit presentation mode you can press f12 again. To advance to the next page in the presentation press the spacebar or the right arrow. To go back a page in presentation press the left arrow. 
 
-If you have a particularly long pdf file you might want to make a bookmark to find a specific thing easily. To create a bookmark press control +B or Bookmarks ->  Add Bookmark and give the bookmark a memorable title and description so you can find it in this document again easily. If you later want to remove the bookmark go bookmarks -> remove bookmark or press control+ shift+ B. 
+If you have a particularly long pdf file you might want to make a bookmark to find a specific thing easily. To create a bookmark press control +B or  :menuselection:`Bookmarks ->  Add Bookmark` and give the bookmark a memorable title and description so you can find it in this document again easily. If you later want to remove the bookmark go :menuselection:`bookmarks --> remove bookmark` or press control+ shift+ B. 
 
 Screenshot
 ----------
@@ -38,7 +38,7 @@ Lubuntu ships with version 0.4.17 of qpdfview.
 
 How to launch
 -------------
-To launch qpdfview go to the Menu -> Office -> qpdfview or run  
+To launch qpdfview go to the Menu :menuselection:`Office --> qpdfview` or run  
 
 .. code:: 
 

@@ -24,7 +24,7 @@ Screenshot
 
 How to launch
 -------------
-To launch monitor settings from the menu -> Prefrences -> LXQt settings -> Monitor settings. From lxqt-configuration-center press the button for monitor settings that looks like a desktop monitor or run 
+To launch monitor settings from the menu :menuselection:`Prefrences --> LXQt settings --> Monitor settings`. From lxqt-configuration-center press the button for monitor settings that looks like a desktop monitor or run 
 
 .. code::
 

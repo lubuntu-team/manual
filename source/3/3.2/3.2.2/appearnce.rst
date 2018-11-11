@@ -23,7 +23,7 @@ The cursor theme lets you change how the cursor looks with two themes installed 
 
 How to launch
 -------------
-To launch appearnce in the menu -> prefrences -> Lxqt settings -> appearance. Another way is to press the Appearance button from LXQt configuration center or run 
+To launch appearnce in the menu :menuselection:`prefrences --> Lxqt settings --> appearance`. Another way is to press the Appearance button from LXQt configuration center or run 
 
 .. code:: 
 

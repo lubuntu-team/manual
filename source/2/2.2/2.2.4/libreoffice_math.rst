@@ -12,7 +12,7 @@ Screenshot
 
 How to launch
 -------------
-To launch libreoffice math in the menu -> office -> libreoffice math or run 
+To launch libreoffice math in the menu :menuselection:`office --> libreoffice math` or run 
 
 .. code:: 
 

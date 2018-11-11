@@ -26,7 +26,7 @@ Screenshot
 
 How to launch
 -------------
-To launch qterminal in a normal window go to the menu -> System Tools -> qterminal or run 
+To launch qterminal in a normal window go to the menu :menuselection:`System Tools --> qterminal` or run 
 
 .. code:: 
 

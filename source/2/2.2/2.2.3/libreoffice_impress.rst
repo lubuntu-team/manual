@@ -30,7 +30,7 @@ Version
 
 How To launch
 -------------
-To launch go to the menu -> Office -> Libreoffice impress or run  
+To launch go to the menu :menuselection:`Office --> Libreoffice Impress` or run  
 
 .. code:: 
 

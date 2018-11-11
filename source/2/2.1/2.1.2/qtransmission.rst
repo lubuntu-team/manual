@@ -24,10 +24,10 @@ The button with two || circled is a pause button that can pause all downlaods an
 How to launch
 -------------
 
-To launch Qtransmission go to menu -> Internet -> Qtransmission bittorent client or run 
+To launch Qtransmission go to menu :menuselection:`Internet --> Qtransmission` bittorent client or run 
 
 .. code:: 
  
    transmission-qt 
 
-from the terminal. 
+from the terminal.

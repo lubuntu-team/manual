@@ -36,7 +36,7 @@ Lubuntu currently ships with the latest version of Firefox, Firefox Quantum.
 
 How to launch
 ----------------
-To open Firefox, click on the Firefox icon (red/orange fox covering a blue sphere) in the Lubuntu Menu.
+To open Firefox, click on the Firefox icon (red/orange fox covering a blue sphere) in :menuselection:`Internet --> Firefox` Menu.
 You can also type and run 
 
 .. code:: 

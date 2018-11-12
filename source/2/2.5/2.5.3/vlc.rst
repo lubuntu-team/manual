@@ -23,6 +23,8 @@ To loop the current playlist over and over press the button with an arrow pointi
 
 To randomize your playlist press the button with two crossing arrows on it. 
 
+To speed up playback faster than normal press the + key or use :menuselection:`Playback --> Speed --> Faster`. To slow down playback slower than normal press the - key :menuselection:`Playback --> Speed --> Slower`.  
+
 Screenshot
 ----------
 .. image:: vlc.png

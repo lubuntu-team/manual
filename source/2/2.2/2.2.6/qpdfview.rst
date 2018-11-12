@@ -20,7 +20,7 @@ To open a pdf file use :menuselection:`File --> Open` from the menu or Ctrl + O 
 
 If you want to view a particular page select the box (e.g. page 1/3) and tpye the page number (e.g. page 3/3). To move to the previous and next page use the left and right arrow buttons respectively. There are numerous zoom option, including percentage, page width, page size, continous, and multiple pages.
 
-qpdfview also includes some very useful docks. To view the outline dock, in the menu select :menuselection:`View --> Docks --> Outline (make sure the button is checked)` or press F6 on the keyboard. It should appear on the left hand side of the pdf with collapsable sections. This is useful in navigating large pdfs.
+qpdfview also includes some very useful docks. To view the outline dock, in the menu select :menuselection:`View --> Docks --> Outline (make sure the button is checked)` or press F6 on the keyboard. It should appear on the left hand side of the pdf with collapsable sections. This is useful in navigating large pdfs. To see a thumbnail of each page :menuselection:`View --> Dock --> Thumbnails` or press f8 to view a thumbnial of each page of the pdf file. If you want to close one of these docks press the X button on the dock to close it.  
 
 To search through your pdf file you can press control + f or from the menu :menuselection:`edit --> search`. You will get taken to the results and will appear highligheted in yellow to see through the results you can press the down arrow to see results farther in the document and press the up arrow to see results towards the start of the document.
 

@@ -32,6 +32,8 @@ To undo a mistake you make press control + z or press the yellow arrow pointing 
 
 To center your text is press the button with the horizontal lines centered or :menuselection:`format --> align --> centered`. To have your text justified to the right press the button with the lines on the right or :menuselection:`format --> align --> right`. To have your text aligned to left press the lines on the left with or :menuselection:`format --> align --> left`. To center justify your text which will add spaces in between words to make it appears at both orders press the button that has solid horizontal lines all of eqaul length to center justify the text. 
 
+To insert an image into your go to :menuselection:`Insert --> Image` to insert an image directly to your word processing document.  
+
 Screenshot
 ----------
 .. image:: libreoffice_writer.png

@@ -5,23 +5,26 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-11-13 03:58+0000\n"
+"Last-Translator: Henrik Christiansen <henrik@hxcdk.dk>\n"
+"Language-Team: Danish <https://translate.lubuntu.me/projects/lubuntu/"
+"manual-1-1/da/>\n"
+"Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/1/1.1/retrieving_the_image.rst:2
 msgid "Chapter 1.1 Retrieving the image"
-msgstr ""
+msgstr "Kapitel 1.1 Hent installation image"
 
 #: ../../source/1/1.1/retrieving_the_image.rst:4
 msgid ""
@@ -249,4 +252,3 @@ msgid ""
 "**You have now downloaded the image successfully. Please continue to "
 "Chapter 1.2.**"
 msgstr ""
-

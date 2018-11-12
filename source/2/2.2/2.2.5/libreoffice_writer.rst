@@ -24,9 +24,9 @@ To change font color press the button that has a T with a drop on it and a red u
 
 To make text superscript press the button with A and a smaller B located above it as if it in superscript. To make text subscript press the button that is an A with a smaller B located slightly below it. 
 
-To check the spelling of your document press the ABC button with a checkmark, from the menu -> tools spelling or press f7. After you are done writing your document you can press the button that looks like a printer to print, press control+ p or file -> print. To view your word count of how many words are currently in the document is with nothing slected at the bottom of the libreoffice writer window. If you select text with the mouse you can also see the word count of selection from the same spot.  
+To check the spelling of your document press the ABC button with a checkmark, from the menu -> tools spelling or press f7. After you are done writing your document you can press the button that looks like a printer to print, press control+ p or :menuselection:`file --> print`. To view your word count of how many words are currently in the document is with nothing slected at the bottom of the libreoffice writer window. If you select text with the mouse you can also see the word count of selection from the same spot.  
 
-To insert special symbols or characters press the button with the Ω symbol or from the menu Insert -> Special character. To insert a page break press control + enter or from the menu Insert -> Page Break.  
+To insert special symbols or characters press the button with the Ω symbol or from the menu :menuselction:`Insert --> Special character`. To insert a page break press control + enter or from the menu :menuselection:`Insert --> Page Break`.  
 
 To undo a mistake you make press control + z or press the yellow arrow pointing to the left. If you accidently undid code redo or press the green arrow pointing to the right.    
 

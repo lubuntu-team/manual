@@ -5,7 +5,9 @@ Chapter 2.4.8 2048-qt
 
 Useage
 ------
-To play 2048-qt you use the arrows keys to combine blocks with the same number on them.
+To play 2048-qt you use the arrows keys to combine blocks with the same number on them without having no possible moves at which point the game is over.
+
+If midway you want to restart to a new game press the new game button on the right hand side or :menuselection:`File --> New Game`.  
 
 Screenshot
 ----------

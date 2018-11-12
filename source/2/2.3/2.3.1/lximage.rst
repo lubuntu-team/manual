@@ -13,6 +13,8 @@ To rotate an image to the right press the circular arrrow that points to the rig
 
 To view the next picture on your image press the right arrow and conversly to view the previous image press the left arrow. To view thumbnials of the current directory you can toggle thumbnials and thumbnails will show at the buttom  with a scrollbar at the bottom of the window to view the whole folder. 
 
+To view the picture entirely at its original size press :menuselection:`View --> Fit` or the button with a veritcial and horizontal arrow and a folded over buttom right corner. To return your image to its original size press the magnifying button with 1:1 inside it or :menuselection:`View --> Original Size`. 
+
 Screenshot
 ----------
 .. image:: LXImage.png

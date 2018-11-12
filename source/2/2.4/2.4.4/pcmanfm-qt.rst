@@ -23,7 +23,7 @@ To see hidden files press control +h or go to:menuselection:`view -> show hidden
 
 Pcmanfm-qt can actually launch other applications in places Applications and then gets all the tasks in the menu in lxqt-panel.
 
-To add a bookmark press control +D and it will make a bookmark. 
+To add a bookmark :menuselection:`Bookmarks --> Add to  Bookmarks`  and it will make a bookmark. To later access this bookmark it will be on the left hand side under bookmarks and under the bookmarks menu. 
 
 Screenshot
 ----------

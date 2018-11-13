@@ -5,65 +5,70 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-11-13 20:19+0000\n"
+"Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
+"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
+"manual-2-2-5/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/2/2.2/2.2.5/libreoffice_writer.rst:2
 msgid "Chapter 2.2.5 Libreoffice Writer"
-msgstr ""
+msgstr "Capítulo 2.2.5 LibreOffice Writer"
 
 #: ../../source/2/2.2/2.2.5/libreoffice_writer.rst:4
 msgid ""
 "Libreoffice Writer is a word processing application that is the default "
 "on Lubuntu."
 msgstr ""
+"LibreOffice Writer es una aplicación de procesamiento de palabras que esta "
+"por defecto incluida en Lubuntu."
 
 #: ../../source/2/2.2/2.2.5/libreoffice_writer.rst:11
 msgid "Features:"
-msgstr ""
+msgstr "Características:"
 
 #: ../../source/2/2.2/2.2.5/libreoffice_writer.rst:7
 msgid "no ribbon"
-msgstr ""
+msgstr "Sin cinta"
 
 #: ../../source/2/2.2/2.2.5/libreoffice_writer.rst:8
 msgid "one button pdf export"
-msgstr ""
+msgstr "Exportación PDF"
 
 #: ../../source/2/2.2/2.2.5/libreoffice_writer.rst:9
 msgid "many file formats to output"
-msgstr ""
+msgstr "Varios tipos de formato para exportar"
 
 #: ../../source/2/2.2/2.2.5/libreoffice_writer.rst:10
 msgid "spellcheck"
-msgstr ""
+msgstr "Verificación de deletreado"
 
 #: ../../source/2/2.2/2.2.5/libreoffice_writer.rst:11
 msgid "wordcount"
-msgstr ""
+msgstr "Contador de palabras"
 
 #: ../../source/2/2.2/2.2.5/libreoffice_writer.rst:14
 msgid "Version"
-msgstr ""
+msgstr "Versión"
 
 #: ../../source/2/2.2/2.2.5/libreoffice_writer.rst:15
 msgid "Lubuntu ships with libreoffice writer 6.1.1.2"
-msgstr ""
+msgstr "Lubuntu incluye la version LibreOffice Writer 6.1.1.2"
 
 #: ../../source/2/2.2/2.2.5/libreoffice_writer.rst:18
 msgid "Useage"
-msgstr ""
+msgstr "Uso"
 
 #: ../../source/2/2.2/2.2.5/libreoffice_writer.rst:19
 msgid ""
@@ -76,6 +81,14 @@ msgid ""
 "sheet of paper with curved red lines on it or go file -> export and "
 "select the file type as pdf."
 msgstr ""
+"Para usar LibreOffice Writer escribe lo que deseas escribir en la parte "
+"principal de la venta. Si deseas grabar tus cambios presiona el icono que "
+"parece un disquete o presiona Ctrl + S. Para abrir un documento previamente "
+"guardado presiona el botón que parece una carpeta o presiona Ctrl + O. Para "
+"cargar o guardar un archivo desde el menú Archivos - > Abrir o Guardar. Para "
+"guardar su archivo como PDF presione el botón que parece una hoja de papel "
+"curvada con líneas rojas o vaya a Archivos -> Exportar y seleccione el tipo "
+"de archivo como PDF."
 
 #: ../../source/2/2.2/2.2.5/libreoffice_writer.rst:21
 msgid ""
@@ -85,6 +98,11 @@ msgid ""
 "font size which you can type and it autocompletes the fonts or select "
 "from the drop down menu."
 msgstr ""
+"Para cambiar el tamaño de la fuente hay un menú con números en el que puedes "
+"escribir el tamaño que quieres o seleccionarlo desde un menú en el mismo. "
+"Puedes cambiar la fuente con el menú que hay a la izquierda del menú de "
+"tamaño de fuente, el cual puedes escribir y se autocompletará o selecciónalo "
+"desde el menú en el mismo."
 
 #: ../../source/2/2.2/2.2.5/libreoffice_writer.rst:23
 msgid ""
@@ -93,14 +111,19 @@ msgid ""
 "done writing your document you can press the button that looks like a "
 "printer to print, press control+ p or file -> print."
 msgstr ""
+"Para verificar deletreado de tus documentos presiona el botón ABC con una "
+"marca, desde el menú -> Herramientas -> Tipeo o presiona F7. Luego de haber "
+"terminado de escribir tu documento puedes presionar el botón que parece una "
+"impresora para imprimir, o presiona Ctrl + P o Archivos -> Imprimir."
 
 #: ../../source/2/2.2/2.2.5/libreoffice_writer.rst:26
 msgid "How to Launch"
-msgstr ""
+msgstr "Como lanzar"
 
 #: ../../source/2/2.2/2.2.5/libreoffice_writer.rst:27
 msgid ""
 "To launch go to menu -> office -> libreoffice writer or run lowriter from"
 " the command line."
 msgstr ""
-
+"Para lanzar vaya al menú -> Oficina  -> LibreOffice Writer o corra lowriter "
+"desde la consola de comandos."

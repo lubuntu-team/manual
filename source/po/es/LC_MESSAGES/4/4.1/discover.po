@@ -5,18 +5,21 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-11-13 20:20+0000\n"
+"Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
+"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
+"manual-4-1/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/4/4.1/discover.rst:2
@@ -31,7 +34,7 @@ msgstr ""
 
 #: ../../source/4/4.1/discover.rst:6
 msgid "Usage"
-msgstr ""
+msgstr "Uso"
 
 #: ../../source/4/4.1/discover.rst:7
 msgid ""
@@ -58,11 +61,11 @@ msgstr ""
 
 #: ../../source/4/4.1/discover.rst:14
 msgid "Screenshot"
-msgstr ""
+msgstr "Captura de pantalla"
 
 #: ../../source/4/4.1/discover.rst:19
 msgid "Version"
-msgstr ""
+msgstr "Versión"
 
 #: ../../source/4/4.1/discover.rst:20
 msgid "Lubuntu ships with version 5.13.5 of Discover."
@@ -70,11 +73,10 @@ msgstr ""
 
 #: ../../source/4/4.1/discover.rst:23
 msgid "How to launch"
-msgstr ""
+msgstr "Como lanzar"
 
 #: ../../source/4/4.1/discover.rst:24
 msgid ""
 "To launch Discover from the menu -> System Tools -> Discover or run "
 "plasma-discover from the command line."
 msgstr ""
-

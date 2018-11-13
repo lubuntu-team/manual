@@ -5,43 +5,48 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-11-13 20:19+0000\n"
+"Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
+"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
+"manual-2-1-5/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/2/2.1/2.1.5/trojita.rst:2
 msgid "Chapter 2.1.5 Trojita"
-msgstr ""
+msgstr "Capítulo 2.1.5 Trojita"
 
 #: ../../source/2/2.1/2.1.5/trojita.rst:4
 msgid "Trojita is the default IMAP email client of Lubuntu."
 msgstr ""
+"Trojita es el cliente por defecto de correo electrónico IMAP de Lubuntu."
 
 #: ../../source/2/2.1/2.1.5/trojita.rst:7
 msgid "Version"
-msgstr ""
+msgstr "Versión"
 
 #: ../../source/2/2.1/2.1.5/trojita.rst:8
 msgid "Lubuntu Ships with version 0.7-0 of trojita."
-msgstr ""
+msgstr "Lubuntu incluye la version 0.7-0 de Trojita."
 
 #: ../../source/2/2.1/2.1.5/trojita.rst:11
 msgid "How to launch"
-msgstr ""
+msgstr "Como lanzar"
 
 #: ../../source/2/2.1/2.1.5/trojita.rst:12
 msgid ""
 "To launch trojita from the menu -> Internet -> trojita with the icon that"
 " looks like an envolope or run trojita from the command line."
 msgstr ""
-
+"Para lanzar Trojita, utilice el menú -> Internet -> Trojita con el icono que "
+"parece un sobre o corra Trojita desde la linea de comandos."

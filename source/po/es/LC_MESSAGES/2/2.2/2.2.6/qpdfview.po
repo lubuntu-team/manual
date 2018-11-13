@@ -5,71 +5,74 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-11-13 20:19+0000\n"
+"Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
+"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
+"manual-2-2-6/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/2/2.2/2.2.6/qpdfview.rst:2
 msgid "Chapter 2.2.6 qpdfview"
-msgstr ""
+msgstr "Capítulo 2.2.6 qpdfview"
 
 #: ../../source/2/2.2/2.2.6/qpdfview.rst:4
 msgid "qpdfview is the default pdf viewer for Lubuntu."
-msgstr ""
+msgstr "qpdfview es el visor PDF por defecto de Lubuntu."
 
 #: ../../source/2/2.2/2.2.6/qpdfview.rst:15
 msgid "Features:"
-msgstr ""
+msgstr "Características:"
 
 #: ../../source/2/2.2/2.2.6/qpdfview.rst:7
 msgid "tabs"
-msgstr ""
+msgstr "Pestañas"
 
 #: ../../source/2/2.2/2.2.6/qpdfview.rst:8
 msgid "presentation mode"
-msgstr ""
+msgstr "Modo de presentación"
 
 #: ../../source/2/2.2/2.2.6/qpdfview.rst:9
 msgid "zoom to entire page/ page width"
-msgstr ""
+msgstr "Zoom a la página entera"
 
 #: ../../source/2/2.2/2.2.6/qpdfview.rst:10
 msgid "rotating pages"
-msgstr ""
+msgstr "Rotar páginas"
 
 #: ../../source/2/2.2/2.2.6/qpdfview.rst:11
 msgid "outline, properties, thumbnail, and bookmark docks"
-msgstr ""
+msgstr "Contorno, propiedades, imagen miniatura y marcas"
 
 #: ../../source/2/2.2/2.2.6/qpdfview.rst:12
 msgid "printing support"
-msgstr ""
+msgstr "Soporte de impresión"
 
 #: ../../source/2/2.2/2.2.6/qpdfview.rst:13
 msgid "annotation and highlighting"
-msgstr ""
+msgstr "Anotación y destaque"
 
 #: ../../source/2/2.2/2.2.6/qpdfview.rst:14
 msgid "bookmarks"
-msgstr ""
+msgstr "Marcas"
 
 #: ../../source/2/2.2/2.2.6/qpdfview.rst:15
 msgid "customizable keyboard shortcuts"
-msgstr ""
+msgstr "Atajos de teclado personalizables"
 
 #: ../../source/2/2.2/2.2.6/qpdfview.rst:18
 msgid "Usage"
-msgstr ""
+msgstr "Uso"
 
 #: ../../source/2/2.2/2.2.6/qpdfview.rst:19
 msgid ""
@@ -78,6 +81,11 @@ msgid ""
 "menu, click the Open in new tab button or press Ctrl + T. To refresh a "
 "pdf click the Refresh button or press F5 just like most web browsers."
 msgstr ""
+"Para abrir un archivo PDF use Archivo -> Abrir desde el menú o Ctrl + O en "
+"el teclado. Si tiene un PDF para abrir use Archivo -> Abrir en nueva pestaña "
+"desde el menú, clic en Abrir en nueva pestaña o presione Ctrl + T. Para "
+"refrescar un PDF clic  en el botón de Refrescar o presione F5 como en la "
+"mayoría de los navegadores web."
 
 #: ../../source/2/2.2/2.2.6/qpdfview.rst:21
 msgid ""
@@ -87,6 +95,11 @@ msgid ""
 "numerous zoom option, including percentage, page width, page size, "
 "continous, and multiple pages."
 msgstr ""
+"Si quieres ver una pagina en particular selecciona la caja (por ejemplo "
+"página 1/3) y escribe el numero de la pagina (por ejemplo página 3/3). Para "
+"mover a la anterior y siguiente página, use los botones izquierda y derecha "
+"respectivamente. Hay numerosas opciones de zoom, incluyendo como porcentaje, "
+"anchura de página, tamaño de página, continuo y múltiples páginas."
 
 #: ../../source/2/2.2/2.2.6/qpdfview.rst:23
 msgid ""
@@ -96,22 +109,27 @@ msgid ""
 "side of the pdf with collapsable sections. This is useful in navigating "
 "large pdfs."
 msgstr ""
+"qpdfview tambien incluye algunos relojes muy utiles. Para ver el reloj, "
+"presione F6 en el teclado. Debería aparecer en la parte izquierda del PDF "
+"con secciones colapsables. Esto es útil para navegar PDFs con mucho "
+"contenido."
 
 #: ../../source/2/2.2/2.2.6/qpdfview.rst:27
 msgid "Version"
-msgstr ""
+msgstr "Versión"
 
 #: ../../source/2/2.2/2.2.6/qpdfview.rst:28
 msgid "Lubuntu ships with version 0.4.17 of qpdfview."
-msgstr ""
+msgstr "Lubuntu incluye la version 0.4.17 de qpdfview."
 
 #: ../../source/2/2.2/2.2.6/qpdfview.rst:31
 msgid "How to launch"
-msgstr ""
+msgstr "Como lanzar"
 
 #: ../../source/2/2.2/2.2.6/qpdfview.rst:32
 msgid ""
 "To launch qpdfview go to the Menu -> Office -> qpdfview or run qpdfview "
 "from the command line."
 msgstr ""
-
+"Para lanzar qpdfview ve al menu -> Office -> qpdfview o corre qpdfview en la "
+"consola de comandos."

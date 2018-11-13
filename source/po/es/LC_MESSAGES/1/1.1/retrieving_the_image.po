@@ -5,18 +5,21 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-11-13 04:15+0000\n"
+"Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
+"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
+"manual-1-1/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/1/1.1/retrieving_the_image.rst:2
@@ -34,19 +37,19 @@ msgstr ""
 
 #: ../../source/1/1.1/retrieving_the_image.rst:7
 msgid "Architectures"
-msgstr ""
+msgstr "Arquitecturas"
 
 #: ../../source/1/1.1/retrieving_the_image.rst:8
 msgid "amd64 (commonly referred to as 64-bit)"
-msgstr ""
+msgstr "amd64 (comúnmente conocido como 64 bits)"
 
 #: ../../source/1/1.1/retrieving_the_image.rst:9
 msgid "i386 (commonly referred to as 32-bit)"
-msgstr ""
+msgstr "i386 (comúnmente denominado 32 bits)"
 
 #: ../../source/1/1.1/retrieving_the_image.rst:14
 msgid "amd64"
-msgstr ""
+msgstr "amd64"
 
 #: ../../source/1/1.1/retrieving_the_image.rst:15
 msgid ""
@@ -57,20 +60,28 @@ msgid ""
 "with i386 images. You may want to use an i386 image instead if you have "
 "an amd64 processor with very low amounts of RAM."
 msgstr ""
+"La imágen denominada amd64, funcionará en la mayoría de los procesadores "
+"modernos. La mejor manera de determinar si tu computadora tiene un "
+"procesador de arquitectura amd64 o i386, es iniciando el ordenador con la "
+"imágen, algo a tener en cuenta es que los procesadores amd64 son compatibles "
+"con imágenes de i386. Es posible que quieras usar una imágen i386 si tienes "
+"un procesador amd64 con una cantidad de memoria RAM relativamente  baja."
 
 #: ../../source/1/1.1/retrieving_the_image.rst:18
 msgid "i386"
-msgstr ""
+msgstr "i386"
 
 #: ../../source/1/1.1/retrieving_the_image.rst:19
 msgid ""
 "This is the original 32-bit architecture that will work best on computers"
 " with very low amounts of RAM and processing power."
 msgstr ""
+"Esta es la arquitectura original de 32 bits que funcionará mejor con "
+"ordenadores con muy bajas cantidades de memoria RAM y poder de procesador."
 
 #: ../../source/1/1.1/retrieving_the_image.rst:22
 msgid "LTS vs. Regular Releases"
-msgstr ""
+msgstr "LTS vs Lanzamientos regulares"
 
 #: ../../source/1/1.1/retrieving_the_image.rst:24
 msgid ""
@@ -249,4 +260,3 @@ msgid ""
 "**You have now downloaded the image successfully. Please continue to "
 "Chapter 1.2.**"
 msgstr ""
-

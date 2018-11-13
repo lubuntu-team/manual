@@ -5,25 +5,27 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-11-13 03:58+0000\n"
+"Last-Translator: Henrik Christiansen <henrik@hxcdk.dk>\n"
+"Language-Team: Danish <https://translate.lubuntu.me/projects/lubuntu/"
+"manual-1/da/>\n"
+"Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/1/Installing_lubuntu.rst:2
 msgid "Chapter 1: Installing Lubuntu"
-msgstr ""
+msgstr "Kapitel 1: Installer Lubuntu"
 
 #: ../../source/1/Installing_lubuntu.rst:4
 msgid "This chapter will show you how to install Lubuntu on your computer."
-msgstr ""
-
+msgstr "Dette kapitel viser dig hvordan Lubuntu installeres på din computer."

@@ -11,7 +11,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
 "PO-Revision-Date: 2018-11-13 03:58+0000\n"
-"Last-Translator: Roberto <lumintnian@outlook.com>\n"
+"Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
 "Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
 "manual-1-1/es/>\n"
 "Language: es\n"
@@ -24,7 +24,7 @@ msgstr ""
 
 #: ../../source/1/1.1/retrieving_the_image.rst:2
 msgid "Chapter 1.1 Retrieving the image"
-msgstr ""
+msgstr "Capítulo 1.1 Obteniendo una imágen"
 
 #: ../../source/1/1.1/retrieving_the_image.rst:4
 msgid ""
@@ -34,6 +34,11 @@ msgid ""
 "months), and every two years being a long term support release (supported"
 " for three years)."
 msgstr ""
+"Antes de instalar Lubuntu, deberás conseguir una imágen correcta para tu "
+"arquitectura. Lubuntu provee soporte para diferentes tipos de CPU y "
+"arquitecturas, con una versión nueva cada seis meses (mantenida por nueve "
+"meses luego de su lanzamiento), y cada dos años una versión a largo plazo ("
+"también llamada LTS, que es mantenida por tres años)."
 
 #: ../../source/1/1.1/retrieving_the_image.rst:7
 msgid "Architectures"

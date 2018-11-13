@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: 2018-11-13 09:00+0000\n"
-"Last-Translator: Roberto <lumintnian@outlook.com>\n"
+"PO-Revision-Date: 2018-11-13 17:17+0000\n"
+"Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
 "Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
 "manual-index/es/>\n"
 "Language: es\n"
@@ -28,15 +28,14 @@ msgid "Welcome to the Lubuntu Manual!"
 msgstr "¡Bienvenido al manual de Lubuntu!"
 
 #: ../../source/index.rst:4
-#, fuzzy
 msgid ""
 "Welcome to the Lubuntu Manual! This is the official reference book for "
 "using Lubuntu. This manual covers many topics, such as installation "
 "instructions, applications Lubuntu provides, and much more!"
 msgstr ""
-"¡Bienvenido al manual de Lubuntu! Este es el libro de referencia oficial "
+"¡Bienvenido al manual de Lubuntu! ¡Este es el libro de referencia oficial "
 "para usar Lubuntu. Este manual cubre muchos temas, como las instrucciones de "
-"instalación, las aplicaciones que proporciona Lubuntu y mucho más."
+"instalación, las aplicaciones que proporciona Lubuntu y mucho más!"
 
 #: ../../source/index.rst:7
 msgid "What is Lubuntu?"
@@ -116,6 +115,5 @@ msgid "Translators"
 msgstr "Traductores"
 
 #: ../../source/index.rst:39
-#, fuzzy
 msgid "Marcin Mikołajczak"
 msgstr "Marcin Mikołajczak"

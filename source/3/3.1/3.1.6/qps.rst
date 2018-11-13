@@ -13,6 +13,8 @@ To see your memory useage in qps look at the bar that says MEM. The bar for CPU 
 
 To sort your processes by memory click on the mem tab. To have your processes sorted by CPU percentage press the button CPU% To have your processes sorted by CPU%.  To sort by the command line of each process you can press the command line.  
 
+To change the update period is to :menuselection:`Option --> Update Period`. To change your font :menuselection:`Option --> Prefrences` or put an appearance with the font and font size. 
+
 Screenshot
 ----------
 .. image:: qps.png

@@ -25,6 +25,8 @@ To add close the list of nicknames or channels press the X button. To reopen the
 
 To change your settings on your notifications :menuselection:`Settings --> Notificiations`.
 
+To select all of your Settings for Quassel :menuselection:`Settings --> Configure Quassel`. 
+
 Screenshot
 ----------
 .. image:: quassel_irc.png

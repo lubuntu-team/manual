@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: 2018-11-13 07:38+0000\n"
+"PO-Revision-Date: 2018-11-13 09:00+0000\n"
 "Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
 "Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
 "manual-index/es/>\n"
@@ -40,7 +40,7 @@ msgstr ""
 
 #: ../../source/index.rst:7
 msgid "What is Lubuntu?"
-msgstr ""
+msgstr "¿Qué es Lubuntu?"
 
 #: ../../source/index.rst:9
 msgid ""
@@ -52,6 +52,13 @@ msgid ""
 " `we have recently refocused <https://lubuntu.me/taking-a-new-"
 "direction/>`_."
 msgstr ""
+"El objetivo del proyecto es proveer una distribución de Linux liviana pero "
+"altamente funcional basada en una base sólida de Ubuntu. Lubuntu provee una "
+"simple pero poderosa interfaz gráfica de usuario, y tiene incluido una gran "
+"variedad de aplicaciones para que usted pueda navegar, utilizar su Email, "
+"chatear, jugar y ser productivo. Lubuntu solía ser una distribución para "
+"hardware de gama baja, `pero hemos recientemente cambiado de idea "
+"<https://lubuntu.me/taking-a-new-direction/>`_."
 
 #: ../../source/index.rst:11
 msgid ""
@@ -60,14 +67,18 @@ msgid ""
 "releases of Lubuntu. Lubuntu received official recognition as a formal "
 "member of the Ubuntu family beginning with Lubuntu 11.10."
 msgstr ""
+"Miembros del equipo toman cuidado de LXQt y otros paquetes que son parte de "
+"Lubuntu en los archivos de Ubuntu, al igual que los paquetes de LXDE en la "
+"versión LTS de Lubuntu. Lubuntu recibió reconocimiento oficial como miembro "
+"de la familia de Ubuntu comenzando desde Lubuntu 11.10."
 
 #: ../../source/index.rst:14
 msgid "Contents"
-msgstr ""
+msgstr "Contenidos"
 
 #: ../../source/index.rst:29
 msgid "Contact Us"
-msgstr ""
+msgstr "Contáctenos"
 
 #: ../../source/index.rst:31
 msgid ""
@@ -77,22 +88,28 @@ msgid ""
 "us <https://lubuntu.me/links/>`_, and `our Phabricator instance "
 "<https://phab.lubuntu.me/>`_ where we do most of the Lubuntu development."
 msgstr ""
+"¿Tienes preguntas? ¿Quiéres involucrarte? Dale un vistazo a nuestro sitio "
+"web oficial en `Lubuntu.me <https://lubuntu.me>`_ en donde podrás encontrar `"
+"el blog de Lubuntu <https://lubuntu.me/blog/>`_,`maneras de entrar en "
+"contactocon nosotros <https://lubuntu.me/links/>`_, y nuestra instancia de "
+"Phabricator <https://phab.lubuntu.me/>`_ en donde hacemos la mayor cantidad "
+"de desarrollo para Lubuntu."
 
 #: ../../source/index.rst:34
 msgid "Thank you!"
-msgstr ""
+msgstr "¡Gracias!"
 
 #: ../../source/index.rst:36
 msgid "Thank you for choosing to use Lubuntu!"
-msgstr ""
+msgstr "¡Gracias por elegir Lubuntu!"
 
 #: ../../source/index.rst
 msgid "Authors"
-msgstr ""
+msgstr "Autores"
 
 #: ../../source/index.rst:38
 msgid "Simon Quigley, Lyn Perrine, Jacob Kim, Daniel Lim"
-msgstr ""
+msgstr "Simon Quigley, Lyn Perrine, Jacob Kim, Daniel Lim"
 
 #: ../../source/index.rst
 msgid "Translators"

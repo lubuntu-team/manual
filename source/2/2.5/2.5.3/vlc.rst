@@ -17,8 +17,7 @@ To see how long you have been watching the current piece of media counts up abov
 
 To open an equalizier press the button that looks like several physical slider swichtes and on the audio effects equalizer tab press enable on the equalizer. Then to increase or decrease the sound at each frequency up to increase the volcume at that frequency.  
 
-To view a playlist of music or videos you can view press the button that is several horizontal lines and then a trianglular play button on it. This will bring up a whole view of your playlist. To add more files to your playlist right click on the bottom of the playlist window and click add file to add an additonal file. To move the playlist to a particular file and to have that play double click that file. To change the view of the playlist right click playlist view mode to the version of the playlist you like the look of the best.   
-
+To view a playlist of music or videos you can view press the button that is several horizontal lines and then a trianglular play button on it or press :kbd:`Control + l`. This will bring up a whole view of your playlist. To add more files to your playlist right click on the bottom of the playlist window and click add file to add an additonal file. To move the playlist to a particular file and to have that play double click that file. To change the view of the playlist right click playlist view mode to the version of the playlist you like the look of the best.   
 To loop the current playlist over and over press the button with an arrow pointing to the right and then another arrow below it pointing to the left.
 
 To randomize your playlist press the button with two crossing arrows on it. 

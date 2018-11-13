@@ -14,13 +14,18 @@ Usage
 ------
 To chat on irc you need to connect to a server and join a channel. This can be done with the join button or by typing "/join [channel]". To send a query or private message directly to someone type "/query" username or right click on the user list and select start query. If you wish to view older messages just scroll up. Scroll down to view newer messages.
 
-To add the Lubuntu IRC chat network click File-> Networks-> Configure_Networks-> 
-+Add(Networks) -> Use preset, select Lubuntu IRC -> click OK.
+To add the Lubuntu IRC chat network click :menuselection:`File --> Networks --> Configure_Networks`  +Add(Networks) -> Use preset, select Lubuntu IRC -> click OK.
 To join a channel simple type "/join 1" (where 1 is the channel name), right click the network and select join channel or use the join button.
 
 In Quasel if someone says your name you are said to be highlighted which in Quasel will make a sound and in a goldenrod color over the line of text with your name on it. The notification will also be shown on your desktop if you are in another window. 
 
-To use Sasl authentication to autologin to an account no matter which nickname you want to use file -> networks -> configure networks to bring up a network configuration dialog. Click on the autoidentify tab and press the checkbox for use SASL authentication. Enter your username on the IRC network in the username text field. Input your password into the password field so that you know how to auto identifify. You can also autoidentify without  using sasl by clicking the Top checkbox. Nickserv is a sensible default for what the services is but it may be different on different servers and put your password in where you autoidentify.  
+To use Sasl authentication to autologin to an account no matter which nickname you want to use :menuselection:`File --> Networks --> Configure networks` to bring up a network configuration dialog. Click on the autoidentify tab and press the checkbox for use SASL authentication. Enter your username on the IRC network in the username text field. Input your password into the password field so that you know how to auto identifify. You can also autoidentify without  using sasl by clicking the Top checkbox. Nickserv is a sensible default for what the services is but it may be different on different servers and put your password in where you autoidentify.  
+
+To add close the list of nicknames or channels press the X button. To reopen the view of nicks :menuselection:`View --> Nicks`.  
+
+To change your settings on your notifications :menuselection:`Settings --> Notificiations`.
+
+To select all of your Settings for Quassel :menuselection:`Settings --> Configure Quassel`. 
 
 Screenshot
 ----------
@@ -33,7 +38,7 @@ Lubuntu ships with version 1:0.12.5 of Quassel IRC.
 
 How to Launch
 -------------
-In the menu go to Internet -> Quassel IRC or type 
+In the menu go to :menuselection:`Internet --> Quassel` IRC or type 
 
 .. code:: 
 

@@ -24,7 +24,7 @@ Screenshot
 
 How to launch
 -------------
-To launch desktop from the menu -> Preferences -> LXQt settings -> Desktop. Or from LXQt configuration center press the desktop button to launch it or run
+To launch desktop from the menu :menuselection:`Preferences --> LXQt settings --> Desktop`. Or from LXQt configuration center press the desktop button to launch it or run
 
 .. code:: 
 

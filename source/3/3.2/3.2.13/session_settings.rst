@@ -23,7 +23,7 @@ Lubuntu ships with version 0.13.0 of session settings.
 
 How to launch
 -------------
-To launch session settings from the menu -> Preferences -> LXQt settings -> session settings. From LXQt configuration center press the button that looks like a triangular blue flag and is labeled with session settings. To run session settings from the command line run 
+To launch session settings from the menu  :menuselection:`Preferences --> LXQt settings --> session settings`. From LXQt configuration center press the button that looks like a triangular blue flag and is labeled with session settings. To run session settings from the command line run 
 
 .. code:: 
 

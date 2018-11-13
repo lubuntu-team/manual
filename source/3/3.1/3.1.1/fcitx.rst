@@ -13,7 +13,7 @@ To use a virtual keyboard click on the icon in the system tray that looks like a
 
 How to launch
 -------------
-To launch the fcitx applet from the menu -> system tools -> fcitx with icon with a penguin with a paintbrush. If you wish to run the applet from the command line run 
+To launch the fcitx applet from the menu :menuselection:`system tools --> fcitx` with icon with a penguin with a paintbrush. If you wish to run the applet from the command line run 
 
 .. code:: 
 

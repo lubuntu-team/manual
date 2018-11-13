@@ -21,7 +21,7 @@ This is the original 32-bit architecture that will work best on computers with v
 LTS vs. Regular Releases
 ------------------------
 
-Lubuntu offers two types of releases. The **Long Term Support** release, or the **LTS**, is the release recommended for most users. It is supported for three years after the release date and does not contain new features. Throughout the course of the cycle, the Ubuntu Kernel Team will deliver **Hardware Enablement** updates, or **HWE** updates, to Lubuntu via Linux kernel updates. Additionally, all currently-supported Lubuntu releases use the **LXDE** desktop environment, which is the traditional Lubuntu experience.
+Lubuntu offers two types of releases. The **Long Term Support** release, or the **LTS**, is the release recommended for most users. It is supported for three years after the release date and does not contain new features. Throughout the course of the cycle, the Ubuntu Kernel Team will deliver **Hardware Enablement** updates, or **HWE** updates, to Lubuntu via Linux kernel updates. Additionally, all currently-supported Lubuntu LTS releases use the **LXDE** desktop environment, which is the traditional Lubuntu experience however Lubuntu 18.10 uses the **LXQt** which is a more modern environment.
 
 For users looking to try new features every six months at the expense of the support cycle length, Lubuntu offers **interim releases**, or **regular releases**. These releases, while they are considered stable, are testing grounds for major, new features which will be rolled into the LTS release. Users of the regular releases are typically enthusiasts and somewhat more experienced users looking for a fresher experience.
 
@@ -53,7 +53,7 @@ Downloading the image via BitTorrent
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Instead of downloading the image from one server, you can "torrent" the image, or download it from multiple sources instead of just one. This is often faster and saves the bandwidth of the Ubuntu cdimage servers. If you would like to learn more about BitTorrent, take a look at `the Wikipedia page on the subject <https://en.wikipedia.org/wiki/BitTorrent>`_.
 
-In order to torrent the file, you need a BitTorrent client. We recommend `Transmission <https://transmissionbt.com/>`_, an Open Source BitTorrent client. Since Transmission only provides clients for Linux and macOS, we recommend `uTorrent <https://www.utorrent.com/>`_ for Windows users.
+In order to torrent the file, you need a BitTorrent client. We recommend `Transmission <https://transmissionbt.com/>`_, an Open Source BitTorrent client. Since Transmission only provides clients for Linux and macOS, we recommend `qbittorrent <https://www.qbittorrent.org/download.php>`_ for Windows users.
 
 The BitTorrent links can be found on our Downloads page or cdimage.ubuntu.com, both linked above.
 

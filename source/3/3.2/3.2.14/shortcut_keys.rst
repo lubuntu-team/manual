@@ -27,7 +27,7 @@ Screenshot
 
 How to launch
 -------------
-To launch shortcut keys from the menu -> Preferences -> LXQt settings -> shortcut keys. From LXQt configuration center use shortcut keys button which looks like 6 keyboard keys or from the command line run
+To launch shortcut keys from the menu :menuselection:`Preferences --> LXQt settings --> shortcut keys`. From LXQt configuration center use shortcut keys button which looks like 6 keyboard keys or from the command line run
 
 .. code:: 
 

@@ -9,6 +9,8 @@ To use screenshot the whole screen takes a screenshot of your entire screen, cur
 
 To have your titlebar and frame around the window on a current window is a checkbox on the bottom. The include mouse cursor will include your mouse cursor in the screenshot. 
 
+After taking your screenshot it will open up in the image viewer and to save it press :kbd:`Control + S` or :menuselection:`File --> Save`. 
+
 Screenshot
 ----------
 .. image:: screenshot.png

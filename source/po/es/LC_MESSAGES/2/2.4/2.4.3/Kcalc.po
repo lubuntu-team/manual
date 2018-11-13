@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: 2018-11-13 20:19+0000\n"
+"PO-Revision-Date: 2018-11-21 19:30+0000\n"
 "Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
 "Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
 "manual-2-4-3/es/>\n"
@@ -24,11 +24,11 @@ msgstr ""
 
 #: ../../source/2/2.4/2.4.3/Kcalc.rst:2
 msgid "Chapter 2.4.3 Kcalc"
-msgstr ""
+msgstr "Capítulo 2.4.3 Kcalc"
 
 #: ../../source/2/2.4/2.4.3/Kcalc.rst:4
 msgid "Kcalc is a scientific calculator application."
-msgstr ""
+msgstr "Kcalc es una aplicación de calculadora científica."
 
 #: ../../source/2/2.4/2.4.3/Kcalc.rst:6
 msgid "Features:"
@@ -36,23 +36,23 @@ msgstr "Características:"
 
 #: ../../source/2/2.4/2.4.3/Kcalc.rst:8
 msgid "trignometric functions"
-msgstr ""
+msgstr "Funciones trigonométricas"
 
 #: ../../source/2/2.4/2.4.3/Kcalc.rst:9
 msgid "factorials"
-msgstr ""
+msgstr "Factoriales"
 
 #: ../../source/2/2.4/2.4.3/Kcalc.rst:10
 msgid "built in mathematical and scientific constants."
-msgstr ""
+msgstr "Constantes científicas incorporadas."
 
 #: ../../source/2/2.4/2.4.3/Kcalc.rst:11
 msgid "memory"
-msgstr ""
+msgstr "Memoria"
 
 #: ../../source/2/2.4/2.4.3/Kcalc.rst:12
 msgid "copy and paste"
-msgstr ""
+msgstr "Copiado y pegado"
 
 #: ../../source/2/2.4/2.4.3/Kcalc.rst:15
 msgid "Useage"
@@ -66,6 +66,10 @@ msgid ""
 "multiplication and / for division. To view the answer press the button "
 "that is an =."
 msgstr ""
+"Para hacer simple aritmética cliquea en los números y luego presiona el "
+"signo de adición, multiplicación, sustracción o división. También puedes "
+"escribir los números y presionar + para adición, - para sustracción, * para "
+"multiplicación y / para división. Para ver el resultado presiona el botón =."
 
 #: ../../source/2/2.4/2.4.3/Kcalc.rst:19
 msgid "Version"
@@ -73,14 +77,16 @@ msgstr "Versión"
 
 #: ../../source/2/2.4/2.4.3/Kcalc.rst:20
 msgid "Lubuntu ships with version 18.04.3 of Kcalc."
-msgstr ""
+msgstr "Lubuntu incluye la version 18.04.3 de Kcalc."
 
 #: ../../source/2/2.4/2.4.3/Kcalc.rst:23
 msgid "How to launch"
-msgstr "Como lanzar"
+msgstr "Como iniciar"
 
 #: ../../source/2/2.4/2.4.3/Kcalc.rst:24
 msgid ""
 "To launch kcalc go to accessories -> Kcalc or run kcalc from the command "
 "line."
 msgstr ""
+"Para comenzar a usar Kcalc vaya a Accesorios -> Kcalc o corra kcalc desde la "
+"línea de comandos."

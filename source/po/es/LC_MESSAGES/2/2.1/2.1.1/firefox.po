@@ -5,27 +5,30 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-11-13 20:19+0000\n"
+"Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
+"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
+"manual-2-1-1/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/2/2.1/2.1.1/firefox.rst:2
 msgid "Chapter 2.1.1: Firefox"
-msgstr ""
+msgstr "Capítulo 2.1.1: Firefox"
 
 #: ../../source/2/2.1/2.1.1/firefox.rst:5
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 #: ../../source/2/2.1/2.1.1/firefox.rst:6
 msgid ""
@@ -33,64 +36,69 @@ msgid ""
 "default in Ubuntu. It is a decent choice if one wants a secure, fast, yet"
 " relatively less resource-heavy browser."
 msgstr ""
+"Firefox es un navegador web seguro y altamente recomendad que está instalado "
+"por default en Ubuntu. Es una elección decente si uno quiere un buscador "
+"seguro, rápido y al mismo tiempo relativamente de bajos recursos."
 
 #: ../../source/2/2.1/2.1.1/firefox.rst:18
 msgid "Firefox has features of other web browsers and its own ones, such as:"
-msgstr ""
+msgstr "Firefox tiene características de otros navegadores y las suyas, como:"
 
 #: ../../source/2/2.1/2.1.1/firefox.rst:10
 msgid "Tab browsing"
-msgstr ""
+msgstr "Navegación de pestañas"
 
 #: ../../source/2/2.1/2.1.1/firefox.rst:11
 msgid "Scroll through tabs"
-msgstr ""
+msgstr "Desplazamiento de pestañas"
 
 #: ../../source/2/2.1/2.1.1/firefox.rst:12
 msgid "Great plugins and add-ons"
-msgstr ""
+msgstr "Excelentes plugins y add-ons"
 
 #: ../../source/2/2.1/2.1.1/firefox.rst:13
 msgid "Favorites, bookmarks, pocket"
-msgstr ""
+msgstr "Favoritos, marcadores, pocket"
 
 #: ../../source/2/2.1/2.1.1/firefox.rst:14
 msgid "Firefox account sync"
-msgstr ""
+msgstr "Sincronización con cuenta de Firefox"
 
 #: ../../source/2/2.1/2.1.1/firefox.rst:15
 msgid "Master password"
-msgstr ""
+msgstr "Contraseña maestra"
 
 #: ../../source/2/2.1/2.1.1/firefox.rst:16
 msgid "UI customization with themes and toolbars"
-msgstr ""
+msgstr "Personalización de interfaz con temas y barras de herramientas"
 
 #: ../../source/2/2.1/2.1.1/firefox.rst:17
 msgid "Advanced customization with about:config"
-msgstr ""
+msgstr "Personalización avanzada con about:config"
 
 #: ../../source/2/2.1/2.1.1/firefox.rst:18
 msgid "Open source"
-msgstr ""
+msgstr "Código abierto"
 
 #: ../../source/2/2.1/2.1.1/firefox.rst:21
 msgid "Usage/Screenshots"
-msgstr ""
+msgstr "Uso/Capturas de pantalla"
 
 #: ../../source/2/2.1/2.1.1/firefox.rst:26
 msgid "Version"
-msgstr ""
+msgstr "Versión"
 
 #: ../../source/2/2.1/2.1.1/firefox.rst:27
 msgid ""
 "Lubuntu currently ships with the latest version of Firefox, Firefox "
 "Quantum."
 msgstr ""
+"Lubuntu actualmente trae consigo la última versión de Firefox, Firefox "
+"Quantum."
 
 #: ../../source/2/2.1/2.1.1/firefox.rst:30
 msgid "How to launch"
-msgstr ""
+msgstr "Como lanzar"
 
 #: ../../source/2/2.1/2.1.1/firefox.rst:31
 msgid ""
@@ -98,4 +106,6 @@ msgid ""
 "blue sphere) in the Lubuntu Menu. You can also type and run `firefox` in "
 "the terminal to open the browser."
 msgstr ""
-
+"Para abrir Firefox, haz doble click en el ícono de Firefox (zorro rojo/"
+"naranja cubriendo una esfera azul) en el menú de Lubuntu. También puedes "
+"tipear y correr `firefox` en la terminal para abrir el navegador."

@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: 2018-11-13 20:19+0000\n"
+"PO-Revision-Date: 2018-11-21 19:30+0000\n"
 "Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
 "Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
 "manual-2-4-4/es/>\n"
@@ -24,7 +24,7 @@ msgstr ""
 
 #: ../../source/2/2.4/2.4.4/pcmanfm-qt.rst:2
 msgid "Chapter 2.4.4: PCManFM-Qt"
-msgstr ""
+msgstr "Capítulo 2.4.4: PCManFM-Qt"
 
 #: ../../source/2/2.4/2.4.4/pcmanfm-qt.rst:5
 msgid "Description"
@@ -36,6 +36,10 @@ msgid ""
 "Qt after the original developed by Hong Jen Yee from Taiwan which is "
 "meant to be a replacement for Nautilus, Konqueror and Thunar."
 msgstr ""
+"PCManFM-Qt (PCMan File Manager) es una aplicación de organización de "
+"archivos en Qt de la versión original desarrollada por Hong Jen Yee de "
+"Taiwán la cual está hecha para ser un reemplazo de Nautilus, Konqueror y "
+"Thunar."
 
 #: ../../source/2/2.4/2.4.4/pcmanfm-qt.rst:12
 msgid "Features:"
@@ -51,13 +55,15 @@ msgstr "Marcas"
 
 #: ../../source/2/2.4/2.4.4/pcmanfm-qt.rst:11
 msgid "places with removable media"
-msgstr ""
+msgstr "Lugares con media removible"
 
 #: ../../source/2/2.4/2.4.4/pcmanfm-qt.rst:12
 msgid ""
 "Ability to eject removable media and the ability to mount other "
 "filesystesms internally."
 msgstr ""
+"Habilidad de expulsar un medio y la habilidad de montar otros sistemas de "
+"archivos internamente."
 
 #: ../../source/2/2.4/2.4.4/pcmanfm-qt.rst:15
 msgid "Useage"
@@ -72,6 +78,13 @@ msgid ""
 "the file manager. The button for the arrow pointing upward is to go up "
 "one level in the directory tree to the so called parent directory."
 msgstr ""
+"En la parte de arriba se puede crear una pestaña nueva en pcmanfm-qt, puedes "
+"usar el botón con un archivo y un símbolo + en el para abrir una nueva "
+"pestaña o presionar Ctrl + T. La flecha apuntando hacia la izquierda es el "
+"botón para ir hacia atrás mientras que la flecha apuntando hacia la derecha "
+"es el botón para ir adelante en los directorios en los que te has movido. El "
+"botón con la flecha apuntando para arriba es para moverse un nivel en el "
+"árbol hacia el directorio principal."
 
 #: ../../source/2/2.4/2.4.4/pcmanfm-qt.rst:18
 msgid ""
@@ -84,6 +97,15 @@ msgid ""
 " them right click cut and or press control + x. After copying or cutting "
 "a file you can paste them with right click paste or press control +v."
 msgstr ""
+"Si haces un solo clic en un archivo lo seleccionaras. Si haces doble clic lo "
+"abrirás en el programa por defecto de ese tipo de archivo. Si haces click "
+"derecho en un archivo puedes seleccionar con que programa abrir ese archivo "
+"si tienes múltiples programas para abrirlo. Si quieres seleccionar múltiples "
+"archivos puedes mantener presionado Ctrl y seleccionar los archivos. Para "
+"copiar archivos selecciona un archivo, haz clic derecho y clic en copiar o "
+"presiona Ctrl + C. Para cortar archivos seleccionados, clic derecho y clic "
+"en cortar y/o presiona Ctrl + X. Luego de haber copiado o cortado un archivo "
+"puedes pegarlos con clic derecho y pegar o presionar Ctrl + V."
 
 #: ../../source/2/2.4/2.4.4/pcmanfm-qt.rst:20
 msgid ""
@@ -94,10 +116,17 @@ msgid ""
 "removeable media press the button on the left with a circled up arrow to "
 "eject."
 msgstr ""
+"Para conectarse a un servidor remoto, por ejemplo NAS, vaya al menú -> "
+"Conectar a servidor y autenticar a su almacenamiento remoto. Si usted quiere "
+"conectar almacenamiento removible puede abrir el almacenamiento en la parte "
+"izquierda en la sección de dispositivos. Esto también sucede en oros "
+"sistemas de archivos internos de su ordenador. Para expulsar un medio "
+"removible presione el botón en la izquierda con una flecha circular hacia "
+"arriba para expulsar."
 
 #: ../../source/2/2.4/2.4.4/pcmanfm-qt.rst:25
 msgid "Screenshots"
-msgstr ""
+msgstr "Capturas"
 
 #: ../../source/2/2.4/2.4.4/pcmanfm-qt.rst:28
 msgid "Version"
@@ -105,7 +134,7 @@ msgstr "Versión"
 
 #: ../../source/2/2.4/2.4.4/pcmanfm-qt.rst:29
 msgid "Lubuntu currently ships with 0.13.0 of pcmfanfm-qt."
-msgstr ""
+msgstr "Lubuntu actualmente incluye la version 0.13.0 de pcmanfm-qt."
 
 #: ../../source/2/2.4/2.4.4/pcmanfm-qt.rst:32
 msgid "How to Launch"
@@ -116,13 +145,17 @@ msgid ""
 "To open PCManFM in your current directory (in terminal), execute "
 "`pcmanfm-qt`."
 msgstr ""
+"Para abrir PCManFM en su directorio actual (en terminal), ejecute `pcmanfm-"
+"qt`."
 
 #: ../../source/2/2.4/2.4.4/pcmanfm-qt.rst:35
 msgid "Feel free to append [sudo] to run PCManFM-Qt as root."
-msgstr ""
+msgstr "Siéntase libre de agregar [sudo] al correr PCManFM-Qt como root."
 
 #: ../../source/2/2.4/2.4.4/pcmanfm-qt.rst:37
 msgid ""
 "You can also go to the Applications Menu > Accessories > PCManFM-Qt File "
 "Manager."
 msgstr ""
+"También puede ir al menú de aplicaciones -> Accesorios -> PCManFM-Qt File "
+"Manager."

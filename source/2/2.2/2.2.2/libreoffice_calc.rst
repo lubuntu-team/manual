@@ -13,6 +13,8 @@ To copy data you can right click copy, press the button with two pieces of paper
 
 To change the size of a  row or colum of cells click in between the border of that particular row or column and drag with the mouse to give yourself room. 
 
+To undo a selection press control +z or press the button with the arrow looping around and pointing to the left. 
+
 Screenshot
 ----------
 

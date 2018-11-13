@@ -23,6 +23,8 @@ To use Sasl authentication to autologin to an account no matter which nickname y
 
 To add close the list of nicknames or channels press the X button. To reopen the view of nicks :menuselection:`View --> Nicks`.  
 
+To change your settings on your notifications :menuselection:`Settings --> Notificiations`.
+
 Screenshot
 ----------
 .. image:: quassel_irc.png

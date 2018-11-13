@@ -34,6 +34,8 @@ To center your text is press the button with the horizontal lines centered or :m
 
 To insert an image into your go to :menuselection:`Insert --> Image` to insert an image directly to your word processing document. To move your image around left click on it and drag the image around. To resize the image while keeping the same aspect ratio click on one of the blue boxes around the corner to resize the image.    
 
+To select all text in the document press control + A or :menuselection:`Edit --> Select All`.
+
 Screenshot
 ----------
 .. image:: libreoffice_writer.png

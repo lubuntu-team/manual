@@ -28,6 +28,8 @@ To make qpdfview fullscreen you can press f11. To enter presentation mode you ca
 
 If you have a particularly long pdf file you might want to make a bookmark to find a specific thing easily. To create a bookmark press control +B or  :menuselection:`Bookmarks -->  Add Bookmark` and give the bookmark a memorable title and description so you can find it in this document again easily. If you later want to remove the bookmark go :menuselection:`bookmarks --> remove bookmark` or press control+ shift+ B. 
 
+To jump to the start of a pdf file press the home key or :menuselection:`Edit --> First Page`. To jump to the last page of a pdf file press the end key or :menuselection:`Edit --> Last Page`.  
+
 Screenshot
 ----------
 .. image:: qpdfview.png

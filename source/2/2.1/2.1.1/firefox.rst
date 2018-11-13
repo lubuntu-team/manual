@@ -30,7 +30,7 @@ To go back to a previous page in firefox press the button pointing to the left. 
 
 To go to a specific url in the address bar you can type it in the the main bar in the middle.
 
-To zoom in if you find the text on a web page to small press control + +. If you want to zoom out on the text or pictures press control + -.  
+To zoom in if you find the text on a web page to small press control + +. If you want to zoom out on the text or pictures press control + -. To reset to the original zoom press control + 0.   
 
 Version
 ----------

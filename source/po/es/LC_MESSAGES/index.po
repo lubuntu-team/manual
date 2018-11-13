@@ -5,13 +5,14 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # Roberto <lumintnian@outlook.com>, 2018.
+# Leoni Franco Paz <lfrancopaz.451@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: 2018-11-13 03:58+0000\n"
-"Last-Translator: Roberto <lumintnian@outlook.com>\n"
+"PO-Revision-Date: 2018-11-13 07:38+0000\n"
+"Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
 "Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
 "manual-index/es/>\n"
 "Language: es\n"
@@ -24,7 +25,7 @@ msgstr ""
 
 #: ../../source/index.rst:2
 msgid "Welcome to the Lubuntu Manual!"
-msgstr ""
+msgstr "Bienvenido al manual de Lubuntu!"
 
 #: ../../source/index.rst:4
 #, fuzzy

@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: 2018-11-13 07:38+0000\n"
+"PO-Revision-Date: 2018-11-13 09:00+0000\n"
 "Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
 "Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
 "manual-1-2/es/>\n"
@@ -122,6 +122,8 @@ msgid ""
 "`How to burn a DVD on macOS "
 "<http://www.ubuntu.com/download/desktop/burn-a-dvd-on-mac-osx>`_"
 msgstr ""
+"`Como grabar un DVD en macOS <http://www.ubuntu.com/download/desktop/burn-a"
+"-dvd-on-mac-osx>`_"
 
 #: ../../source/1/1.2/booting_the_image.rst:33
 msgid ""
@@ -129,28 +131,38 @@ msgid ""
 "<https://help.ubuntu.com/community/mkusb>`_, a tool developed by a "
 "Lubuntu team member."
 msgstr ""
+"Para escribir imágenes a unidades USB en Linux, recomendamos `mkusb "
+"<https://help.ubuntu.com/community/mkusb>`_, una herramienta desarrollada "
+"por un miembro del equipo de Ubuntu."
 
 #: ../../source/1/1.2/booting_the_image.rst:35
 msgid ""
 "Writing images to USB drives from macOS or Windows is beyond the scope of"
 " this book, but the Ubuntu website also has several guides on this:"
 msgstr ""
+"Escribir imágenes en unidades USB desde macOS o Windows esta fuera del "
+"alcance de este libro, pero el sitio web de Ubuntu tiene varias guías sobre "
+"esto:"
 
 #: ../../source/1/1.2/booting_the_image.rst:39
 msgid ""
 "`How to create a bootable USB stick on Windows "
 "<http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows>`_"
 msgstr ""
+"`Como crear un USB de arranque en Windows <http://www.ubuntu.com/download/"
+"desktop/create-a-usb-stick-on-windows>`_"
 
 #: ../../source/1/1.2/booting_the_image.rst:40
 msgid ""
 "`How to create a bootable USB stick on macOS "
 "<http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-mac-osx>`_"
 msgstr ""
+"`Como crear un USB de arranque en macOS <http://www.ubuntu.com/download/"
+"desktop/create-a-usb-stick-on-mac-osx>`_"
 
 #: ../../source/1/1.2/booting_the_image.rst:44
 msgid "Booting the image"
-msgstr ""
+msgstr "Arrancando la imagen"
 
 #: ../../source/1/1.2/booting_the_image.rst:45
 msgid ""
@@ -160,7 +172,12 @@ msgid ""
 "looking for documentation specific to your hardware will likely provide "
 "the answer."
 msgstr ""
+"Con su medio insertado, arranque su computadora. Dependiendo de su "
+"configuración de hardware, puede arrancar en la imagen sin hacer nada, o "
+"quiza deba necesitar apretar una tecla cuando su ordenador prende para "
+"opciones de arranque. Esto varia pero ver documentación específica a su "
+"hardware probablemente tenga la respuesta."
 
 #: ../../source/1/1.2/booting_the_image.rst:48
 msgid "**You have now booted the image. Please continue to Chapter 1.3.**"
-msgstr ""
+msgstr "**Ha arrancado desde la imagen. Por favor continúe al capitulo 1.3.**"

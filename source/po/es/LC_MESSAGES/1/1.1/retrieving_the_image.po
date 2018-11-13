@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: 2018-11-13 05:57+0000\n"
+"PO-Revision-Date: 2018-11-13 06:15+0000\n"
 "Last-Translator: Roberto <lumintnian@outlook.com>\n"
 "Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
 "manual-1-1/es/>\n"
@@ -146,7 +146,7 @@ msgstr ""
 
 #: ../../source/1/1.1/retrieving_the_image.rst:37
 msgid "There are several ways to download the Lubuntu image:"
-msgstr "Hay varias maneras de descargar la imágen de Lubuntu:"
+msgstr "Hay varias formas de descargar la imagen de Lubuntu:"
 
 #: ../../source/1/1.1/retrieving_the_image.rst:35
 msgid "HTTP download (from your web browser or terminal)."

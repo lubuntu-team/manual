@@ -5,78 +5,87 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-11-13 07:38+0000\n"
+"Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
+"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
+"manual-1-2/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/1/1.2/booting_the_image.rst:2
 msgid "Chapter 1.2 Booting the image"
-msgstr ""
+msgstr "Capítulo 1.2 Arrancando la imagen"
 
 #: ../../source/1/1.2/booting_the_image.rst:4
 msgid ""
 "Now that you have the ISO file, you need to put the image on a media "
 "device and boot the image for installation."
 msgstr ""
+"Ahora que usted tiene el archivo ISO, debe poner la imagen en un dispositivo "
+"multimedia y arrancar la imagen para la instalación."
 
 #: ../../source/1/1.2/booting_the_image.rst:6
 msgid ""
 "**This requires additional research on your own, as this varies depending"
 " on your hardware.**"
 msgstr ""
+"**Esto requiere ser investigado de su parte, ya que esto varia dependiendo "
+"de su hardware.**"
 
 #: ../../source/1/1.2/booting_the_image.rst:9
 msgid "Choosing the media"
-msgstr ""
+msgstr "Eligiendo el medio"
 
 #: ../../source/1/1.2/booting_the_image.rst:10
 msgid ""
 "In order to boot the image, you need to put it somewhere. You have three "
 "choices, depending on which image you downloaded:"
 msgstr ""
+"Para poder arrancar la imagen, la debe poner en algun lugar. Tiene tres "
+"opciones, dependiendo de la imagen que ha descargado:"
 
 #: ../../source/1/1.2/booting_the_image.rst:16
 #: ../../source/1/1.2/booting_the_image.rst:41
 msgid "."
-msgstr ""
+msgstr "."
 
 #: ../../source/1/1.2/booting_the_image.rst:14
 msgid "a DVD"
-msgstr ""
+msgstr "un DVD"
 
 #: ../../source/1/1.2/booting_the_image.rst:15
 msgid "a USB drive (2 GB or greater)"
-msgstr ""
+msgstr "un USB (2 GB o más)"
 
 #: ../../source/1/1.2/booting_the_image.rst:19
 msgid "Writing/burning the image"
-msgstr ""
+msgstr "Escribir/quemar la imagen"
 
 #: ../../source/1/1.2/booting_the_image.rst:23
 msgid "Here are some common tools to burn images onto CDs/DVDs:"
-msgstr ""
+msgstr "Aquí hay algunas herramientas comunes para grabar imagenes a CDs/DVDs:"
 
 #: ../../source/1/1.2/booting_the_image.rst:21
 msgid "`Brasero <https://wiki.gnome.org/Apps/Brasero/>`_"
-msgstr ""
+msgstr "`Brasero <https://wiki.gnome.org/Apps/Brasero/>`_"
 
 #: ../../source/1/1.2/booting_the_image.rst:22
 msgid "Windows Disc Image Burner"
-msgstr ""
+msgstr "Windows Disc Image Burner"
 
 #: ../../source/1/1.2/booting_the_image.rst:23
 msgid "InfraRecorder"
-msgstr ""
+msgstr "InfraRecorder"
 
 #: ../../source/1/1.2/booting_the_image.rst:25
 msgid ""
@@ -84,22 +93,29 @@ msgid ""
 "manual. The Ubuntu website has several guides on this topic, and we "
 "recommend you read them if you plan on doing this."
 msgstr ""
+"Lamentablemente, grabar imágenes a CDs o DVDs esta fuera del alcance de este "
+"manual. El sitio web de Ubuntu tiene varias guías con respecto a este tema, "
+"y recomendamos que las leas si planeas hacer esto."
 
 #: ../../source/1/1.2/booting_the_image.rst:31
 msgid "Guides from the Ubuntu website:"
-msgstr ""
+msgstr "Guías del sitio web de Ubuntu:"
 
 #: ../../source/1/1.2/booting_the_image.rst:29
 msgid ""
 "`How to burn a DVD on Ubuntu "
 "<http://www.ubuntu.com/download/desktop/burn-a-dvd-on-ubuntu>`_"
 msgstr ""
+"`Como quemar un DVD en Ubuntu <http://www.ubuntu.com/download/desktop/burn-a"
+"-dvd-on-ubuntu>`_"
 
 #: ../../source/1/1.2/booting_the_image.rst:30
 msgid ""
 "`How to burn a DVD on Windows "
 "<http://www.ubuntu.com/download/desktop/burn-a-dvd-on-windows>`_"
 msgstr ""
+"`Como quemar un DVD en Windows <http://www.ubuntu.com/download/desktop/burn-a"
+"-dvd-on-windows>`_"
 
 #: ../../source/1/1.2/booting_the_image.rst:31
 msgid ""
@@ -148,4 +164,3 @@ msgstr ""
 #: ../../source/1/1.2/booting_the_image.rst:48
 msgid "**You have now booted the image. Please continue to Chapter 1.3.**"
 msgstr ""
-

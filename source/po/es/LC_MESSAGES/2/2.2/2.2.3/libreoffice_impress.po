@@ -5,47 +5,50 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-11-13 20:19+0000\n"
+"Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
+"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
+"manual-2-2-3/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:2
 msgid "Chapter 2.2.3 Libreoffice Impress"
-msgstr ""
+msgstr "Capítulo 2.2.3 LibreOffice Impress"
 
 #: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:4
 msgid "Libreoffice Impress is a program to present presentations."
-msgstr ""
+msgstr "LibreOffice Impress es un programa para mostrar presentaciones."
 
 #: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:9
 msgid "Features include:"
-msgstr ""
+msgstr "Características:"
 
 #: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:7
 msgid "in built themes"
-msgstr ""
+msgstr "Temas pre hechos"
 
 #: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:8
 msgid "sepll check"
-msgstr ""
+msgstr "Verificación de deletrado"
 
 #: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:9
 msgid "pdf export"
-msgstr ""
+msgstr "Exportación PDF"
 
 #: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:12
 msgid "Useage"
-msgstr ""
+msgstr "Uso"
 
 #: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:13
 msgid ""
@@ -54,6 +57,10 @@ msgid ""
 " and then click open. To add a title to a slide click where it says click"
 " to add title."
 msgstr ""
+"Cuando abres LibreOffice Impress aparecerá un diálogo para seleccionar una "
+"plantilla, selecciona la que quieras usar haciendo clic izquierdo y luego "
+"clic en abrir. Para añadir un título a una sección haz clic en donde dice "
+"añadir título."
 
 #: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:15
 msgid ""
@@ -62,22 +69,27 @@ msgid ""
 " file you want and open it. To save your presentation press the button "
 "that looks like a floppy disk."
 msgstr ""
+"Para abrir una presentación previa en la que has estado trabajando presiona "
+"el botón que parece una carpeta con una hoja de papel dentro y navega hacia "
+"el archivo que quieres y abrelo. Para guardar tu presentación presiona el "
+"botón que parece un disquete."
 
 #: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:18
 msgid "Version"
-msgstr ""
+msgstr "Versión"
 
 #: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:19
 msgid "Lubuntu ships with version 6.1.1.2 of libreoffice impress."
-msgstr ""
+msgstr "Lubuntu incluye la version 6.1.1.2 de LibreOffice Impress."
 
 #: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:22
 msgid "How To launch"
-msgstr ""
+msgstr "Como lanzar"
 
 #: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:23
 msgid ""
 "To launch go to the menu -> Office -> Libreoffice impress or run "
 "loimpress."
 msgstr ""
-
+"Para lanzar ve al menú -> Office -> LibreOffice Impress o corre loimpress "
+"desde la consola de comandos."

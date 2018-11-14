@@ -32,6 +32,7 @@ To go to a specific url in the address bar you can type it in the the main bar i
 
 To zoom in if you find the text on a web page to small press :kbd:`control + +`. If you want to zoom out on the text or pictures press :kbd:`control + -`. To reset to the original zoom press :kbd:`control + 0`.
 
+If you want a menubar for firefox right click the tab bar and click the checkbox for menu bar. 
 
 Version
 ----------

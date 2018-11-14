@@ -32,7 +32,9 @@ To go to a specific url in the address bar you can type it in the the main bar i
 
 To zoom in if you find the text on a web page to small press :kbd:`control + +`. If you want to zoom out on the text or pictures press :kbd:`control + -`. To reset to the original zoom press :kbd:`control + 0`.
 
-If you want a menubar for firefox right click the tab bar and click the checkbox for menu bar. 
+If you want a menubar for firefox right click the tab bar and click the checkbox for menu bar.
+
+If you want to view your firefox prefrences you can type about:preferences into the address bar. To have your seession restored each time you restart firefox is on the general tab of firefox prefrences is to press restore previous session. The tabs section has a checkbox to open links in new tabs instead of new windows which is checked by default. If you want to switch to new tabs immediately check the When you open a link in new tab, switch to it immediately.      
 
 Version
 ----------

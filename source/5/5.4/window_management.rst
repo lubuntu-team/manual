@@ -27,9 +27,9 @@ Right clicking on the title bar and left clicking on the icon located at the top
 
 Useful keyboard shortcuts
 -------------------------
--   Closing a window (Alt + F4)
--   Switching through windows (Hold Alt + hit Tab)
--   Resizing windows, Super (windows key) + directional arrows.
+-   Closing a window :kbd:`Alt + F4`
+-   Switching through windows :kbd:`Hold Alt + hit Tab`
+-   Resizing windows, :kbd:`Super (windows key) + directional arrows`.
 
 Screenshots
 -----------

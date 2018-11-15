@@ -28,6 +28,8 @@ To search through your pdf file you can press :kbd:`control + f` or from the men
 
 To make qpdfview fullscreen you can press :kbd:`f11`. To enter presentation mode you can press :kbd:`f12` wihch is makes the content of the pdf take up the fullscreen and gives you no menubars. To exit presentation mode you can press :kbd:`f12` again. To advance to the next page in the presentation press the spacebar or the right arrow. To go back a page in presentation press the left arrow. 
 
+To rotate the file to the left is press :kbd:`Control + Left` or :menuselection:`View --> Rotate Left`. To rotate the file to the right is press :kbd:`Control + Rights` or :menuselection:`View --> Rotate Right`. 
+
 If you have a particularly long pdf file you might want to make a bookmark to find a specific thing easily. To create a bookmark press :kbd:`control +b` or  :menuselection:`Bookmarks -->  Add Bookmark` and give the bookmark a memorable title and description so you can find it in this document again easily. If you later want to remove the bookmark go :menuselection:`bookmarks --> remove bookmark` or press :kbd:`control+ shift+ B`. 
 
 To jump to the start of a pdf file press the :kbd:`home` key or :menuselection:`Edit --> First Page`. To jump to the last page of a pdf file press the :kbd:`end` key or :menuselection:`Edit --> Last Page`.  

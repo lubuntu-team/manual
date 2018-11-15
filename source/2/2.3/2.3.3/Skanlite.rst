@@ -17,7 +17,7 @@ To zoom in press the magnifying glass button with a plus sign conversely to move
 
 To change the brightness of a scan slide the slider or input an a positive or negative number into the the numeric field. To change constrast slide the slider or input a positive or negative number in the numeric field. 
 
-To clear selections that can be automatically selected but canceled with a brown smudge with an x on it. 
+To select part of a scan you particularly want to save is to click over a preview of a scan and you will drag the selection with the mouse. To clear selections that can be automatically selected but canceled with a brown smudge with an x on it. 
 
 How to launch
 -------------

@@ -21,6 +21,9 @@ To change the font size that desktop applications use choose the font tab and us
 
 The cursor theme lets you change how the cursor looks with two themes installed by default but more available in the package repositories. 
 
+If you want to reset your changes you will need to click the reset button to revert your changes to how they were before. 
+
+
 How to launch
 -------------
 To launch appearnce in the menu :menuselection:`prefrences --> Lxqt settings --> appearance`. Another way is to press the Appearance button from LXQt configuration center or run 

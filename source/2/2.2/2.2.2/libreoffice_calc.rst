@@ -15,6 +15,8 @@ To change the size of a  row or colum of cells click in between the border of th
 
 To undo a selection press :kbd:`control +z` or press the button with the arrow looping around and pointing to the left. 
 
+To zoom to view a full page on your spreadsheet in the menu :menuselection:`View --> Zoom --> Entire Page`. To view the whole width of your page on the menu :menuselection:`View --> Zoom --> Page Width`.   
+
 Screenshot
 ----------
 

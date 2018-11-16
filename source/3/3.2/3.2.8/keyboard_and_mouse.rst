@@ -23,7 +23,7 @@ Screenshot
 
 How to launch
 -------------
-To launch Keyboard and Mouse use menu -> Prefrences -> LXQt settings -> keyboards and mouse. In LXQt configuration center press the keyboard and mouse button and keyboard and mouse or from the command line run
+To launch Keyboard and Mouse use menu :menuselection:`Prefrences --> LXQt settings --> keyboards and mouse`. In LXQt configuration center press the keyboard and mouse button and keyboard and mouse or from the command line run
 
 .. code:: 
 

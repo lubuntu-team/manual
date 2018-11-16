@@ -5,18 +5,21 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-11-13 20:19+0000\n"
+"Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
+"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
+"manual-3-2-15/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/3/3.2/3.2.15/users_and_groups.rst:2
@@ -29,7 +32,7 @@ msgstr ""
 
 #: ../../source/3/3.2/3.2.15/users_and_groups.rst:7
 msgid "Version"
-msgstr ""
+msgstr "Versión"
 
 #: ../../source/3/3.2/3.2.15/users_and_groups.rst:8
 msgid "Lubuntu ships with version 0.13.0 of Users and Groups."
@@ -37,7 +40,7 @@ msgstr ""
 
 #: ../../source/3/3.2/3.2.15/users_and_groups.rst:11
 msgid "Useage"
-msgstr ""
+msgstr "Uso"
 
 #: ../../source/3/3.2/3.2.15/users_and_groups.rst:12
 msgid ""
@@ -50,7 +53,7 @@ msgstr ""
 
 #: ../../source/3/3.2/3.2.15/users_and_groups.rst:15
 msgid "How to launch"
-msgstr ""
+msgstr "Como lanzar"
 
 #: ../../source/3/3.2/3.2.15/users_and_groups.rst:16
 msgid ""
@@ -59,4 +62,3 @@ msgid ""
 " press the button that looks like two people. Or you can run lxqt-admin-"
 "user from the command line."
 msgstr ""
-

@@ -7,7 +7,7 @@ Runner allows you to search for and launch applications and commands in the LXQt
 Usage
 ------
 
-To search for a program, press Alt + F2 and start typing a command. The search results will show below, similar to address bar behavior in browsers. All installed applications can be launched this way and lxqt-runner can configured to store a history of recent programs.
+To search for a program, press :kbd:`Alt + F2` and start typing a command. The search results will show below, similar to address bar behavior in browsers. All installed applications can be launched this way and lxqt-runner can configured to store a history of recent programs.
 
 
 Configuration
@@ -26,7 +26,7 @@ Screenshot
 
 How to launch
 -------------
-Runner should be running in the background and Alt + F2 should. If you need to manually start it for some reason run 
+Runner should be running in the background and :kbd:`Alt + F2` should bring it forward to launch an application. If you need to manually start it for some reason run 
 
 .. code::
 

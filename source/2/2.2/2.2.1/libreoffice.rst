@@ -17,7 +17,7 @@ Lubuntu ships with version 6.1.2.1 of libreoffice.
 
 How to launch
 -------------
-From the menu -> Office -> Libreoffice to launch libreoffice or run 
+From the menu :menuselection:`Office --> Libreoffice` to launch libreoffice or run 
 
 .. code::
 

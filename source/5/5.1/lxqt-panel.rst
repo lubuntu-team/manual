@@ -5,7 +5,7 @@ LXQt Panel is the bar situated at the bottom of your screen by default. The pane
 Usage
 ------
 
-The application menu allows you to browse and search through available programs; a keyboard shortcut is conveniently available for this. The desktop switcher allows you to switch to another virtual desktop, allowing you to keep your workspace organized. The quick launch bar allows you to conveniently launch your file explorer (PCManFM) and web browser (Firefox). To add a program to quick launch open the menu and find it there and drag it down onto the panel. 
+The application menu allows you to browse and search through available programs; a keyboard shortcut is conveniently available for this and is set to :kbd:`Alt +F1` by default. The desktop switcher allows you to switch to another virtual desktop, allowing you to keep your workspace organized. The quick launch bar allows you to conveniently launch your file explorer (PCManFM) and web browser (Firefox). To add a program to quick launch open the menu and find it there and drag it down onto the panel. 
 
 
 .. image:: menu_search.png
@@ -30,7 +30,9 @@ To change to a custom font color press the color button checkbox. Press the drop
 
 The checkbox for override icon theme lets you choose a non system default icon theme for lxqt-panel. The dropdown then lets you see what that icon theme from the dropdown list. If you do not like your changes to the system you can press the reset button to reset changing to before trying to customize the panel. 
 
-To add a new widget click on the widget on the panel configuration screen and press the +  button and select the widget you want to add some of which are not on the panel by default. To move an applet down on the order of presentation press the down arrow while the up arrow moves the applet up on the order of presentation. To remove an applet you do not want you can press the - button. 
+To add a new widget click on the widget on the panel configuration screen and press the +  button and select the widget you want to add some of which are not on the panel by default. To move an applet down on the order of presentation press the down arrow while the up arrow moves the applet up on the order of presentation. To remove an applet you do not want you can press the - button. The wrench button has the settings for certain but not all of the applets in the panel for example the application menu and task manager are customizeable but quick launch and show desktop do not.  
+
+To configure options for your application menu right click on the menu configure application menu or from the panel configuration dialog with the widget selected for application menu click on the wrench button. The checkbox for icon lets you choose a custom icon to use in your menu if you want one and then the use the folder button to browse for the path of the custom file you want for your menu. The checkbox for menu text lets you add text that can be anything you want to your menu.  
 
 Version
 -------

@@ -21,7 +21,7 @@ Lubuntu ships with version 4:5.8.0 of muon package manager
 
 How to Launch
 -------------
-To launch muon package manager from the menu -> System Tools -> Muon package manager or run 
+To launch muon package manager from the menu :menuselection:`System Tools --> Muon package manager` or run 
 
 .. code:: 
 

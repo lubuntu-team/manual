@@ -19,7 +19,7 @@ Lubuntu ships with version 0.13.0 of Power Management.
 
 How to Launch
 -------------
-To launch Power Management from the menu -> Prefrences -> LXQt settings -> Power Management. From LXQt configuration center press the power management icon that looks like a light bulb or run
+To launch Power Management from the menu :menuselection:`Prefrences --> LXQt settings --> Power Management`. From LXQt configuration center press the power management icon that looks like a light bulb or run
 .. code:: 
 
     lxqt-config-powermanagement 

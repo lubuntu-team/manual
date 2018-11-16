@@ -17,7 +17,7 @@ Lubuntu ships with 0.13.0 of Brightness.
 
 How to launch
 -------------
-To launch brightness from the menu -> Prefrences -> LXQt settings -> Brightness. Another way is to press the birghtness button on LXQt configuration center or run  
+To launch brightness from the menu :menuselection:`Prefrences --> LXQt settings --> Brightness`. Another way is to press the birghtness button on LXQt configuration center or run  
 
 .. code:: 
 

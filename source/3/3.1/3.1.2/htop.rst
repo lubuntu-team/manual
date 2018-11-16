@@ -25,7 +25,7 @@ Lubuntu ships with version 2.2.0 of htop.
 
 How to launch
 -------------
-To launch htop from the menu -> system tools -> htop with the Icon that looks like the green H made out of text or run  
+To launch htop from the menu :menuselection:`system tools --> htop` with the Icon that looks like the green H made out of text or run  
 
 .. code:: 
 

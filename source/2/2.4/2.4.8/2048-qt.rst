@@ -5,7 +5,9 @@ Chapter 2.4.8 2048-qt
 
 Useage
 ------
-To play 2048-qt you use the arrows keys to combine blocks with the same number on them.
+To play 2048-qt you use the arrows keys to combine blocks with the same number on them without having no possible moves at which point the game is over. As you combine numbers your score increases by the sum of the new block(s) you make and is shown towards the upper right hand corner of the window. Your high score is the best you have done at this game and is also shown towards the upper right hand corner. 
+
+If midway you want to restart to a new game press the new game button on the right hand side or :menuselection:`File --> New Game`.  
 
 Screenshot
 ----------
@@ -16,7 +18,7 @@ Version
 Lubuntu ships with version 0.1.6 of 2048-Qt. 
 How to launch
 -------------
-To launch 2048-qt go to the menu -> games -> 2048-qt or run 
+To launch 2048-qt go to the menu :menuselection:`games -> 2048-qt` or run 
 
 .. code::
    

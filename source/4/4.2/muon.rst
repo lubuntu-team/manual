@@ -11,6 +11,8 @@ To search for a program to install type into the bar at the top that says search
 
 If you want to see your history of package updates and installed from the menu -> view -> history or press control + h.  
 
+To check for updates in muon press :kbd:`Control + R` or the gear button with an arrow or :menuselection:`Edit --> Check for Updates`.  
+
 Screenshot
 ----------
 .. image:: muon.png

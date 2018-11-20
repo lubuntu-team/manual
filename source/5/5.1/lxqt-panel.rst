@@ -38,6 +38,8 @@ To change options for your task manager or taskbar open the panel configuration 
 
 To change the look of your taskbar in the same window as above the appearance section the button style will change whetehre to show only the icon or the icon only for only the icons. To show window and the text label of the program press text and icon. Icons only will work best with a panel aligned to the left or right. To have only the text and no icons slecet only text. To change the maximum width of a button change the maximum button width which is measured in pixels to how wide on maximum a button could be.  
 
+To change the settings on your clock right click on the clock and then configure world clock. The format drop down menu allows you to change how the clock shows. To sleect a short format allows you to have a preselected short format which shows a 12 hour format and am just telling you what time it is. Selecting long from the menu will show you the time with seconds and the time zone.   
+
 Version
 -------
 Lubuntu ships with version 0.13.0 of lxqt-panel.

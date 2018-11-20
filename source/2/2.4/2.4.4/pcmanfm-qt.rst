@@ -46,4 +46,4 @@ To open PCManFM in your current directory (in terminal), execute
 
 Feel free to append [lxqt-sudo] to run PCManFM-Qt as root.
 
-You can also go to the Applications menu  :menuselection:`Accessories --> PCManFM-Qt File Manager`. There also is a keyboard shortcut for launching pcmanfm-qt of :kbd:`Super + E`. 
+You can also go to the Applications menu  :menuselection:`Accessories --> PCManFM-Qt File Manager`. There also is a keyboard shortcut for launching pcmanfm-qt of :kbd:`Super + E`. The icon for pcmanfm-qt looks like a file cabinet drawer with files in it at the top.  

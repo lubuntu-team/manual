@@ -44,4 +44,4 @@ To launch kcalc go to :menuselection:`accessories -> Kcalc` or run
 
    kcalc 
  
-from the command line. 
+from the command line. The icon for kcalc looks like a box with a + sign a - sign a multipliucation sign and an equals sign.

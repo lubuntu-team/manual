@@ -36,6 +36,8 @@ To configure options for your application menu right click on the menu configure
 
 To change options for your task manager or taskbar open the panel configuration dialog select taskmanager taskbar and click the wrench button. The checkbox for show only windows from desktop will only show windows from a certain desktop and will have a drop down that will default to the current desktop but can also be shown. If you want to close windows on a middle click there is a checkbox to turn that on and off. The window grouping button will group multiple windows of the same program into a group of windows. The checkbox for show popup on mouse hover will allow you to hover the mouse over the window group to show them off. Turning the checkbox for window grouping will show each window as its own item on the taskbar.   
 
+To change the look of your taskbar in the same window as above the appearance section the button style will change whetehre to show only the icon or the icon only for only the icons. To show window and the text label of the program press text and icon. Icons only will work best with a panel aligned to the left or right. To have only the text and no icons slecet only text. To change the maximum width of a button change the maximum button width which is measured in pixels to how wide on maximum a button could be.  
+
 Version
 -------
 Lubuntu ships with version 0.13.0 of lxqt-panel.

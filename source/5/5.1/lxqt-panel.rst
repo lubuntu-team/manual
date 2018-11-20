@@ -32,7 +32,9 @@ The checkbox for override icon theme lets you choose a non system default icon t
 
 To add a new widget click on the widget on the panel configuration screen and press the +  button and select the widget you want to add some of which are not on the panel by default. To move an applet down on the order of presentation press the down arrow while the up arrow moves the applet up on the order of presentation. To remove an applet you do not want you can press the - button. The wrench button has the settings for certain but not all of the applets in the panel for example the application menu and task manager are customizeable but quick launch and show desktop do not.  
 
-To configure options for your application menu right click on the menu configure application menu or from the panel configuration dialog with the widget selected for application menu click on the wrench button. The checkbox for icon lets you choose a custom icon to use in your menu if you want one and then the use the folder button to browse for the path of the custom file you want for your menu. The checkbox for menu text lets you add text that can be anything you want to your menu.  
+To configure options for your application menu right click on the menu configure application menu or from the panel configuration dialog with the widget selected for application menu click on the wrench button. The checkbox for icon lets you choose a custom icon to use in your menu if you want one and then the use the folder button to browse for the path of the custom file you want for your menu. The checkbox for menu text lets you add text that can be anything you want to your menu. To change the shortcut to open the menu from the default :kbd:`Alt + f1` you can press the button for keyboard shortcut and a countdown will begin a countdown and press the button.
+
+
 
 Version
 -------

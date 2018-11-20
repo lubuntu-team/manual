@@ -14,7 +14,7 @@ The taskbar lists the windows you currently have open. To bring one of these win
 
 .. image:: multiple_tasks.png
 
-In the system tray there there are multiple widgets. With the volume applet you can change the volume by using the mouse-wheel with the mouse over the speaker icon left click the speaker icon and drag the volume up and down and toggle mute with the button at the bottom. To the far right is a clock, you can click the clock to bring up a pop up calendar window.  
+In the system tray there there are multiple widgets. With the volume applet you can change the volume by using the mouse-wheel with the mouse over the speaker icon left click the speaker icon and drag the volume up and down and toggle mute with the button at the bottom or middle click on the volume applet. To the far right is a clock, you can click the clock to bring up a pop up calendar window.  
 
 .. image:: system_tray.png
 
@@ -34,7 +34,7 @@ To add a new widget click on the widget on the panel configuration screen and pr
 
 To configure options for your application menu right click on the menu configure application menu or from the panel configuration dialog with the widget selected for application menu click on the wrench button. The checkbox for icon lets you choose a custom icon to use in your menu if you want one and then the use the folder button to browse for the path of the custom file you want for your menu. The checkbox for menu text lets you add text that can be anything you want to your menu. To change the shortcut to open the menu from the default :kbd:`Alt + f1` you can press the button for keyboard shortcut and a countdown will begin a countdown and press the button.
 
-
+To change options for your task manager or taskbar open the panel configuration dialog select taskmanager taskbar and click the wrench button. The checkbox for show only windows from desktop will only show windows from a certain desktop and will have a drop down that will default to the current desktop but can also be shown. If you want to close windows on a middle click there is a checkbox to turn that on and off. The window grouping button will group multiple windows of the same program into a group of windows. The checkbox for show popup on mouse hover will allow you to hover the mouse over the window group to show them off. Turning the checkbox for window grouping will show each window as its own item on the taskbar.   
 
 Version
 -------

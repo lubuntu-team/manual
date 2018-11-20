@@ -44,4 +44,4 @@ In the menu go to :menuselection:`Acessories --> featherpad` or run
 
    featherpad
 
-from the command line.
+from the command line. The icon for Featherpad looks like a pad of paper with a feather on it.  

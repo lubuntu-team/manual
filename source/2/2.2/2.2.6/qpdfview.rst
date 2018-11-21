@@ -22,6 +22,8 @@ If you want to view a particular page select the box (e.g. page 1/3) and tpye th
 
 To select text or an image from qpdfview press :kbd:`control+c` or :menuselection:`Edit --> Copy to clipboard`. Then the cursor will turn into a crosshair and you will be able to expand a box to slect either text or an image and a menu to select copying the text, selecting the text, copying the image, and saving the image to file.   
 
+To save your pdf fil is to :menuselection:`File --> Save` or you can press :kbd:`Control + s`. You can save the file with a different name with :menuselection:`File --> SAve as`. To save a copy of the document click :menuselection:`File --> Save a copy`.  
+
 qpdfview also includes some very useful docks. To view the outline dock, in the menu select :menuselection:`View --> Docks --> Outline (make sure the button is checked)` or press :kbd:`F6` on the keyboard. It should appear on the left hand side of the pdf with collapsable sections. This is useful in navigating large pdfs. To see a thumbnail of each page :menuselection:`View --> Dock --> Thumbnails` or press :kbd:`f8` to view a thumbnial of each page of the pdf file. If you want to close one of these docks click the X button on the dock to close it.  
 
 To view two pages at once like if you want to see a two page spread of an illustration in a pdf of a book press :kbd:`Control + 6` or :menuselection:`View --> Two pages`. To get your view back to normal press :kbd:`Control +6` agian or :menuselection:`View --> Two pages` again.  

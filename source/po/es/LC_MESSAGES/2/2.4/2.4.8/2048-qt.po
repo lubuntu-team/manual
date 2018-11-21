@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: 2018-11-13 20:19+0000\n"
+"PO-Revision-Date: 2019-01-02 03:03+0000\n"
 "Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
 "Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
 "manual-2-4-8/es/>\n"
@@ -24,11 +24,11 @@ msgstr ""
 
 #: ../../source/2/2.4/2.4.8/2048-qt.rst:2
 msgid "Chapter 2.4.8 2048-qt"
-msgstr ""
+msgstr "Capítulo 2.4.8 2048-qt"
 
 #: ../../source/2/2.4/2.4.8/2048-qt.rst:4
 msgid "2048 is a fun simple lightweight game included by default."
-msgstr ""
+msgstr "2048 es un juego liviano simple y divertido incluido por defecto."
 
 #: ../../source/2/2.4/2.4.8/2048-qt.rst:7
 msgid "Useage"
@@ -39,6 +39,8 @@ msgid ""
 "To play 2048-qt you use the arrows keys to combine blocks with the same "
 "number on them."
 msgstr ""
+"Para jugar 2048-qt debes usar las teclas de flechas para combinar bloques "
+"con el mismo número."
 
 #: ../../source/2/2.4/2.4.8/2048-qt.rst:11
 msgid "Screenshot"
@@ -54,3 +56,5 @@ msgid ""
 "To launch 2048-qt go to the menu -> games -> 2048-qt or run 2048-qt from "
 "the commanmd-line."
 msgstr ""
+"Lubuntu incluye la version 0.1.6 de 2048-Qt. Para iniciar 2048-Qt desde el "
+"menú vaya a Juegos -> 2048-Qt o ejecute 2048-qt desde la línea de comandos."

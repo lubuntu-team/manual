@@ -33,4 +33,4 @@ To launch lximage from the menu :menuselection:`graphics --> lximage` or run
 
    lximage-qt 
 
-from the command line.  
+from the command line. The icon for lximage-qt is an orange landscape scene of a sunset. 

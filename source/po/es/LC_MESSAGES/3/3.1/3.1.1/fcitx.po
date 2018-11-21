@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: 2018-11-13 20:19+0000\n"
+"PO-Revision-Date: 2018-11-21 19:30+0000\n"
 "Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
 "Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
 "manual-3-1-1/es/>\n"
@@ -24,13 +24,15 @@ msgstr ""
 
 #: ../../source/3/3.1/3.1.1/fcitx.rst:2
 msgid "Chapter 3.1.1 Fcitx"
-msgstr ""
+msgstr "Capítulo 3.1.1 Fcitx"
 
 #: ../../source/3/3.1/3.1.1/fcitx.rst:4
 msgid ""
 "Fcitx is the default input manager for Lubuntu and shows as a tray applet"
 " in lxqt-panel."
 msgstr ""
+"Fcitx es el administrador de entrada predeterminado para Lubuntu y se "
+"muestra como un applet de bandeja en lxqt-panel."
 
 #: ../../source/3/3.1/3.1.1/fcitx.rst:7
 msgid "Version"
@@ -38,7 +40,7 @@ msgstr "Versión"
 
 #: ../../source/3/3.1/3.1.1/fcitx.rst:8
 msgid "Lubuntu ships with version 1:4.2.9.6-4 of Fcitx."
-msgstr ""
+msgstr "Lubuntu incluye la versión 1:4.2.9.6-4 de Fcitx."
 
 #: ../../source/3/3.1/3.1.1/fcitx.rst:11
 msgid "Useage"
@@ -49,10 +51,12 @@ msgid ""
 "To use a virtual keyboard click on the icon in the system tray that looks"
 " like a keyboard and toggle virtual keyboard."
 msgstr ""
+"Para usar un teclado virtual, haga clic en el ícono en la bandeja del "
+"sistema que parece un teclado y alternar el teclado virtual."
 
 #: ../../source/3/3.1/3.1.1/fcitx.rst:15
 msgid "How to launch"
-msgstr "Como lanzar"
+msgstr "Como iniciar"
 
 #: ../../source/3/3.1/3.1.1/fcitx.rst:16
 msgid ""
@@ -60,3 +64,6 @@ msgid ""
 "icon with a penguin with a paintbrush. If you wish to run the applet from"
 " the command line run `fcitx`"
 msgstr ""
+"Para iniciar el applet fcitx desde el menú -> Herramientas del sistema -> "
+"fcitx con el ícono con un pingüino con un pincel. Si desea ejecutar el "
+"applet desde la línea de comandos, ejecute `fcitx`"

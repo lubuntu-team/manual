@@ -11,7 +11,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
 "PO-Revision-Date: 2018-11-21 19:30+0000\n"
-"Last-Translator: Roberto Alzaga <lumintnian@outlook.com>\n"
+"Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
 "Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
 "manual-2-4-7/es/>\n"
 "Language: es\n"
@@ -40,7 +40,7 @@ msgstr "Lubuntu se entrega con la versión 1.0.8 de noblenote."
 
 #: ../../source/2/2.4/2.4.7/noblenote.rst:11
 msgid "How to launch"
-msgstr "Como lanzar"
+msgstr "Como iniciar"
 
 #: ../../source/2/2.4/2.4.7/noblenote.rst:12
 msgid ""

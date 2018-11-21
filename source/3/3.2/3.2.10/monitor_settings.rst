@@ -16,7 +16,7 @@ If you want to rotate a monitor on the advanced tab from the  menu labeled rotat
 
 To display info on your monitor click the info tab and read that info. The fields explained will be the NAme of the monitor the serial numberthe size of the display and the serial number.
 
-To save your monitor settings press the save button and a pop up will show that your have your settings ok for you and press yes. The saved setting will save with a name for your time. If you want to apply your saved settings press the settings button with the wrench and screwdriver. To choose your saved settings press the apply button and your settings will be applied. To give your saved settings a meaninful name you can press the rename button with a name for what you want and can remember what it is.  
+To save your monitor settings press the save button and a pop up will show that your have your settings ok for you and press yes. The saved setting will save with a name for your time. If you want to apply your saved settings press the settings button with the wrench and screwdriver. To choose your saved settings press the apply button and your settings will be applied. To give your saved settings a meaninful name you can press the rename button with a name for what you want and can remember what it is. If you want to delete theese setting later press the delete button.   
 
 With multiple monitors you can in the set position you can drag the different screen around drag the two monitors around. The fast menu extended view sets you to set extended showing different things on different monitors. Selecting a unified view shows the same thing on both screens. First only shows up the first screen while second only shows only the second.  
 

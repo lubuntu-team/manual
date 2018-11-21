@@ -28,7 +28,7 @@ Lubuntu ships with version  6.1.1.2 of libreoffice Calc.
 
 How to launch
 -------------
-To launch libreoffice calc in the menu go to :menuselection:`Office -> Libreoffice Calc` or run 
+To launch libreoffice calc in the menu go to :menuselection:`Office --> Libreoffice Calc` or run 
 
 .. code::
 

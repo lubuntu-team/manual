@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: 2018-11-13 20:19+0000\n"
+"PO-Revision-Date: 2018-11-21 19:30+0000\n"
 "Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
 "Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
 "manual-2-4-2/es/>\n"
@@ -24,15 +24,15 @@ msgstr ""
 
 #: ../../source/2/2.4/2.4.2/Featherpad.rst:2
 msgid "Chapter 2.4.2 Featherpad"
-msgstr ""
+msgstr "Capítulo 2.4.2 Featherpad"
 
 #: ../../source/2/2.4/2.4.2/Featherpad.rst:4
 msgid "Featherpad is a lightweight text editor."
-msgstr ""
+msgstr "Featherpad es un editor de texto liviano."
 
 #: ../../source/2/2.4/2.4.2/Featherpad.rst:13
 msgid "It supports:"
-msgstr ""
+msgstr "Soporta:"
 
 #: ../../source/2/2.4/2.4.2/Featherpad.rst:7
 msgid "tabs"
@@ -40,27 +40,27 @@ msgstr "Pestañas"
 
 #: ../../source/2/2.4/2.4.2/Featherpad.rst:8
 msgid "syntax highlighting"
-msgstr ""
+msgstr "Resaltado de sintáxis"
 
 #: ../../source/2/2.4/2.4.2/Featherpad.rst:9
 msgid "autoindent"
-msgstr ""
+msgstr "Autoindentación"
 
 #: ../../source/2/2.4/2.4.2/Featherpad.rst:10
 msgid "autobracket"
-msgstr ""
+msgstr "Autobracket"
 
 #: ../../source/2/2.4/2.4.2/Featherpad.rst:11
 msgid "line numbers"
-msgstr ""
+msgstr "Número de líneas"
 
 #: ../../source/2/2.4/2.4.2/Featherpad.rst:12
 msgid "search with find/replace"
-msgstr ""
+msgstr "Buscar con encontrar/reemplazar"
 
 #: ../../source/2/2.4/2.4.2/Featherpad.rst:13
 msgid "undo and redo"
-msgstr ""
+msgstr "Deshacer y rehacer"
 
 #: ../../source/2/2.4/2.4.2/Featherpad.rst:16
 msgid "Useage"
@@ -76,6 +76,11 @@ msgid ""
 "after typing in the main part of the window press the button that looks "
 "like a floppy disk or press control +s."
 msgstr ""
+"Si deseas abrir un archivo de texto presiona el botón que parece una carpeta "
+"de color blanco y negro o presiona Ctrl + O para abrir un archivo. Para "
+"abrir un archivo nuevo presiona el botón que parece una hoja de papel con un "
+"símbolo +. Para guardar su archivo luego de haber escrito algo, presione el "
+"botón que parece un disquete o presione Ctrl + S."
 
 #: ../../source/2/2.4/2.4.2/Featherpad.rst:19
 msgid ""
@@ -84,6 +89,10 @@ msgid ""
 "extension will probably automatically select the correct syntax "
 "highlighting."
 msgstr ""
+"Para escribir cosas en su texto, use la parte principal de la ventana como "
+"un procesador de texto. Si usted está programando con Featherpad la "
+"extension del archivo probablemente sea seleccionada automáticamente con el "
+"resaltado de sintaxis correcto."
 
 #: ../../source/2/2.4/2.4.2/Featherpad.rst:21
 msgid ""
@@ -91,6 +100,9 @@ msgid ""
 "paper with a plus symbol on it. If you wish to close a tab press the red "
 "x button."
 msgstr ""
+"Para abrir una nueva pestaña y limpiar archivos de texto presione el botón "
+"con una hoja de papel y un símbolo + en ella.Si usted desea cerrar una "
+"pestaña presione el botón rojo con el símbolo x."
 
 #: ../../source/2/2.4/2.4.2/Featherpad.rst:25
 msgid "Screenshot"
@@ -102,7 +114,7 @@ msgstr "Versión"
 
 #: ../../source/2/2.4/2.4.2/Featherpad.rst:31
 msgid "Lubuntu ships with version 0.9.0 of featherpad."
-msgstr ""
+msgstr "Lubuntu incluye la versión 0.9.0 de Featherpad."
 
 #: ../../source/2/2.4/2.4.2/Featherpad.rst:34
 msgid "How to Launch"
@@ -113,3 +125,5 @@ msgid ""
 "In the menu go to Acessories -> featherpad or run featherpad from the "
 "command line."
 msgstr ""
+"En el menú vaya a Accesorios -> Featherpad o corre featherpad desde la linea "
+"de comandos."

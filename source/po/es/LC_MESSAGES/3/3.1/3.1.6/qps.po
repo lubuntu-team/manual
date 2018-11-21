@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: 2018-11-13 20:19+0000\n"
+"PO-Revision-Date: 2018-11-21 19:30+0000\n"
 "Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
 "Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
 "manual-3-1-6/es/>\n"
@@ -24,11 +24,11 @@ msgstr ""
 
 #: ../../source/3/3.1/3.1.6/qps.rst:2
 msgid "Chapter 3.16 qps"
-msgstr ""
+msgstr "Capítulo 3.16 qps"
 
 #: ../../source/3/3.1/3.1.6/qps.rst:4
 msgid "qps a graphical task manager included with Lubuntu."
-msgstr ""
+msgstr "qps un administrador de tareas gráfico incluido con Lubuntu."
 
 #: ../../source/3/3.1/3.1.6/qps.rst:7
 msgid "Version"
@@ -36,14 +36,16 @@ msgstr "Versión"
 
 #: ../../source/3/3.1/3.1.6/qps.rst:8
 msgid "Lubuntu ships with version 1.10.18 of qps."
-msgstr ""
+msgstr "Lubuntu incluye la versión 1.10.18 de qps."
 
 #: ../../source/3/3.1/3.1.6/qps.rst:11
 msgid "How to launch"
-msgstr "Como lanzar"
+msgstr "Como iniciar"
 
 #: ../../source/3/3.1/3.1.6/qps.rst:12
 msgid ""
 "To launch qps go to the menu -> System Tools -> qps or run qps from the "
 "command line."
 msgstr ""
+"Para iniciar qps, vaya al menú -> Herramientas del sistema -> qps o ejecute "
+"qps desde la línea de comandos."

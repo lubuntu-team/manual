@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: 2018-11-13 20:19+0000\n"
-"Last-Translator: Roberto <lumintnian@outlook.com>\n"
+"PO-Revision-Date: 2018-11-21 19:48+0000\n"
+"Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
 "Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
 "manual-d/es/>\n"
 "Language: es\n"
@@ -66,16 +66,20 @@ msgid ""
 "First, ensure your system is up-to-date by starting Software Updater and "
 "performing system updates:"
 msgstr ""
+"Primero, asegúrese de que su sistema esté actualizado iniciando el "
+"Actualizador de Software y realizando actualizaciones del sistema:"
 
 #: ../../source/D/upgrading.rst:12
 msgid ""
 "This can be done by clicking the Menu (Alt + F1) -> System Tools -> "
 "Software Updater."
 msgstr ""
+"Esto se puede hacer haciendo clic en Menú (Alt + F1) -> Herramientas del "
+"sistema -> Actualizador de Software."
 
 #: ../../source/D/upgrading.rst:13
 msgid "When prompted, click Install Now."
-msgstr ""
+msgstr "Cuando se le solicite, haga clic en Instalar ahora."
 
 #: ../../source/D/upgrading.rst:14
 msgid ""

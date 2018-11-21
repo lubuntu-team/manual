@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: 2018-11-13 20:19+0000\n"
+"PO-Revision-Date: 2018-11-21 19:30+0000\n"
 "Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
 "Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
 "manual-2-4-1/es/>\n"
@@ -24,37 +24,39 @@ msgstr ""
 
 #: ../../source/2/2.4/2.4.1/ARK.rst:2
 msgid "Chapter 2.4.1 ARK"
-msgstr ""
+msgstr "Capítulo 2.4.1 ARK"
 
 #: ../../source/2/2.4/2.4.1/ARK.rst:4
 msgid ""
 "ARK is a file archieve utility. It can be used to view, compress, and "
 "decompress files."
 msgstr ""
+"ARK es un programa de utilidad para manejo de archivos. Puede ser usado para "
+"ver, comprimir y descomprimir archivos."
 
 #: ../../source/2/2.4/2.4.1/ARK.rst:6
 msgid "Supported file formats include:"
-msgstr ""
+msgstr "Formatos soportados:"
 
 #: ../../source/2/2.4/2.4.1/ARK.rst:8
 msgid "7 zip archives"
-msgstr ""
+msgstr "Archivos 7-Zip"
 
 #: ../../source/2/2.4/2.4.1/ARK.rst:9
 msgid "Java Archieve"
-msgstr ""
+msgstr "Archivos Java"
 
 #: ../../source/2/2.4/2.4.1/ARK.rst:10
 msgid "Tar Archieves"
-msgstr ""
+msgstr "Archivos Tar"
 
 #: ../../source/2/2.4/2.4.1/ARK.rst:11
 msgid "Tar acrhieves compressed with bzip, gzip, lzip, LZMA, XZ compressed"
-msgstr ""
+msgstr "Archivos Tar comprimidos con bzip, gzip, lzip, LZMA, XZ compreso"
 
 #: ../../source/2/2.4/2.4.1/ARK.rst:12
 msgid "Zip Archieves"
-msgstr ""
+msgstr "Archivos Zip"
 
 #: ../../source/2/2.4/2.4.1/ARK.rst:15
 msgid "Screenshot"
@@ -70,6 +72,9 @@ msgid ""
 "file  or select it and click the Open button. If you want to extract or "
 "move a file from the archieve, use the extract button."
 msgstr ""
+"Para abrir un archivo archivado, abra el archivo, luego haga doble clic "
+"sobre el mismo o selecciónelo y clickee el botón de Abrir. Si quiere extraer "
+"o mover un archivo de el archivo comprimido, use el botón de extracción."
 
 #: ../../source/2/2.4/2.4.1/ARK.rst:23
 msgid "Version"
@@ -77,14 +82,16 @@ msgstr "Versión"
 
 #: ../../source/2/2.4/2.4.1/ARK.rst:24
 msgid "Lubuntu ships version 4:18.04.3 of ARK."
-msgstr ""
+msgstr "Lubuntu incluye la version 4:18.04.3 de ARK."
 
 #: ../../source/2/2.4/2.4.1/ARK.rst:27
 msgid "How to launch"
-msgstr "Como lanzar"
+msgstr "Como iniciar"
 
 #: ../../source/2/2.4/2.4.1/ARK.rst:28
 msgid ""
 "To launch ARK go to the menu -> Accessories -> ARK or run ark on the "
 "command line."
 msgstr ""
+"Para lanzar ARK vaya al menú -> Accesorios -> ARK o corra ark en la línea de "
+"comandos."

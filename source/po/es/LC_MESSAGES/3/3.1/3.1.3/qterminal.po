@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: 2018-11-13 20:19+0000\n"
+"PO-Revision-Date: 2018-11-21 19:30+0000\n"
 "Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
 "Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
 "manual-3-1-3/es/>\n"
@@ -24,13 +24,15 @@ msgstr ""
 
 #: ../../source/3/3.1/3.1.3/qterminal.rst:2
 msgid "Chapter 3.1.3 qterminal"
-msgstr ""
+msgstr "Capítulo 3.1.3 qterminal"
 
 #: ../../source/3/3.1/3.1.3/qterminal.rst:4
 msgid ""
 "qterminal is the default terminal of Lubuntu that also has a drop down "
 "version."
 msgstr ""
+"qterminal es el terminal predeterminado de Lubuntu que también tiene una "
+"versión desplegable."
 
 #: ../../source/3/3.1/3.1.3/qterminal.rst:7
 msgid "Useage"
@@ -50,6 +52,18 @@ msgid ""
 "and shows the command you are pasting in. If you want to open a new "
 "terminal window Control+ Shift+ N or go file -> new window."
 msgstr ""
+"Para abrir una nueva pestaña, vaya al menú de archivo -> nueva pestaña o "
+"presione Ctrl + Shift + T con el botón que se ve como un +. Para cerrar una "
+"pestaña, presione el botón X cerca del lado derecho de la pestaña. Si desea "
+"cambiar entre pestañas, haga clic en el clic diferente en esa pestaña o "
+"presione las flechas izquierda y derecha en la esquina superior derecha de "
+"la barra de pestañas. Otra forma de cambiar entre pestañas es Ctrl + página "
+"arriba o Ctrl + página abajo. Si desea copiar texto del terminal, presione "
+"Ctrl + Shift + C para copiar texto. Si desea pegar texto en el terminal, "
+"puede Ctrl + Shift + V, sin embargo, debe tener mucho cuidado de que no es "
+"un comando malicioso y muestra el comando que está pegando. Si desea abrir "
+"una nueva ventana de terminal Control + Shift + N o ir Archivo -> Nueva "
+"ventana."
 
 #: ../../source/3/3.1/3.1.3/qterminal.rst:11
 msgid "Version"
@@ -57,7 +71,7 @@ msgstr "Versión"
 
 #: ../../source/3/3.1/3.1.3/qterminal.rst:12
 msgid "Lubuntu ships with version 0.9.0 of qterminal."
-msgstr ""
+msgstr "Lubuntu se envía con la versión 0.9.0 de qterminal."
 
 #: ../../source/3/3.1/3.1.3/qterminal.rst:15
 msgid "Screenshot"
@@ -65,7 +79,7 @@ msgstr "Captura de pantalla"
 
 #: ../../source/3/3.1/3.1.3/qterminal.rst:20
 msgid "How to launch"
-msgstr "Como lanzar"
+msgstr "Como iniciar"
 
 #: ../../source/3/3.1/3.1.3/qterminal.rst:21
 msgid ""
@@ -74,3 +88,8 @@ msgid ""
 "version of Qterminal from the menu -> System Tools -> qterminal drop down"
 "  or run qterminal -d from the command line."
 msgstr ""
+"Para iniciar qterminal en una ventana normal, vaya al menú -> Herramientas "
+"del sistema -> qterminal o ejecute qterminal desde la línea de comandos. "
+"Para iniciar una versión desplegable de Qterminal desde el menú -> "
+"Herramientas del sistema -> desplegable de qterminal o ejecute qterminal -d "
+"desde la línea de comandos."

@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: 2018-11-13 20:20+0000\n"
+"PO-Revision-Date: 2018-11-21 19:30+0000\n"
 "Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
 "Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
 "manual-5-1/es/>\n"
@@ -83,7 +83,7 @@ msgstr ""
 
 #: ../../source/5/5.1/lxqt-panel.rst:27
 msgid "How to launch"
-msgstr "Como lanzar"
+msgstr "Como iniciar"
 
 #: ../../source/5/5.1/lxqt-panel.rst:28
 msgid ""

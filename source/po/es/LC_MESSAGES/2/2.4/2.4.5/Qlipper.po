@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: 2018-11-13 20:19+0000\n"
-"Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
+"PO-Revision-Date: 2018-11-21 19:30+0000\n"
+"Last-Translator: Roberto Alzaga <lumintnian@outlook.com>\n"
 "Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
 "manual-2-4-5/es/>\n"
 "Language: es\n"
@@ -24,11 +24,13 @@ msgstr ""
 
 #: ../../source/2/2.4/2.4.5/Qlipper.rst:2
 msgid "Chapter 2.4.5 Qlipper"
-msgstr ""
+msgstr "Capítulo 2.4.5 Qlipper"
 
 #: ../../source/2/2.4/2.4.5/Qlipper.rst:4
 msgid "Qlipper is a clipboard manager that is included by default on Lubuntu."
 msgstr ""
+"Qlipper es un gestor de portapapeles que viene incluido por defecto en "
+"Lubuntu."
 
 #: ../../source/2/2.4/2.4.5/Qlipper.rst:7
 msgid "Useage"
@@ -43,6 +45,13 @@ msgid ""
 " press the add button and add what you want always to be listed in "
 "qlipper."
 msgstr ""
+"Para usar qlipper, se inicia automáticamente en el panel y haga clic en el "
+"icono de la bandeja del sistema que parece un portapapeles o puede presionar "
+"Ctrl + Alt + V. Si realmente desea que un elemento aparezca siempre, haga "
+"clic con el botón derecho en el portapapeles y presione el ícono de "
+"configurar la llave, haga clic en el divisor de elementos adhesivos y "
+"presione el botón Agregar y agregue lo que siempre desea que aparezca en la "
+"lista de qlipper."
 
 #: ../../source/2/2.4/2.4.5/Qlipper.rst:12
 msgid "Version"
@@ -50,11 +59,11 @@ msgstr "Versión"
 
 #: ../../source/2/2.4/2.4.5/Qlipper.rst:13
 msgid "Lubuntu ships with version 5.1.1 of Qlipper."
-msgstr ""
+msgstr "Lubuntu viene con la versión 5.1.1 de Qlipper."
 
 #: ../../source/2/2.4/2.4.5/Qlipper.rst:16
 msgid "How to launch"
-msgstr "Como lanzar"
+msgstr "Como iniciar"
 
 #: ../../source/2/2.4/2.4.5/Qlipper.rst:17
 msgid ""
@@ -62,3 +71,7 @@ msgid ""
 "your panel. If you need to get it running and it is not go to the menu ->"
 " Accessories -> Qlipper. To launch it from the command line run qlipper."
 msgstr ""
+"Por defecto, qlipper debería iniciarse automáticamente y debería estar en la "
+"parte inferior derecha de su panel. Si necesita ponerlo en funcionamiento y "
+"no ir al menú -> Accesorios -> Qlipper. Para lanzarlo desde la línea de "
+"comandos ejecute qlipper."

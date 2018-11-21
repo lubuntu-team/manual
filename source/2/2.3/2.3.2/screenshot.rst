@@ -26,4 +26,4 @@ To launch screenshot from the menu :menuselection:`Grapics --> Screenshot` or ru
 
    lximage-qt -s 
 
-from the command line. Pressing the printscreen key also brings up the screenshot dialog. 
+from the command line. Pressing the printscreen key also brings up the screenshot dialog. The icon to launch screenshot looks like a camera.  

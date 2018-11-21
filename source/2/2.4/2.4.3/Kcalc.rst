@@ -38,7 +38,7 @@ Lubuntu ships with version 18.04.3 of Kcalc.
 
 How to launch
 -------------
-To launch kcalc go to :menuselection:`accessories -> Kcalc` or run
+To launch kcalc go to :menuselection:`accessories --> Kcalc` or run
 
 .. code::
 

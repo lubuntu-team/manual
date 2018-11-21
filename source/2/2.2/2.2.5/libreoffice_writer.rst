@@ -28,7 +28,7 @@ To check the spelling of your document press the ABC button with a checkmark, fr
 
 To insert special symbols or characters press the button with the Ω symbol or from the menu :menuselection:`Insert --> Special character`. To insert a page break press :kbd:`control + enter` or from the menu :menuselection:`Insert --> Page Break`.  
 
-To undo a mistake you make press :kbd:`control + z` or press the yellow arrow pointing to the left. If you accidently undid code redo or press the green arrow pointing to the right.    
+To undo a mistake you make press :kbd:`control + z` or press the yellow arrow pointing to the left. If you accidently undid code redo or press the green arrow pointing to the right or press :kbd:`control + y`.     
 
 To center your text is press the button with the horizontal lines centered or :menuselection:`format --> align --> centered`. To have your text justified to the right press the button with the lines on the right or :menuselection:`format --> align --> right`. To have your text aligned to left press the lines on the left with or :menuselection:`format --> align --> left`. To center justify your text which will add spaces in between words to make it appears at both orders press the button that has solid horizontal lines all of eqaul length to center justify the text. 
 

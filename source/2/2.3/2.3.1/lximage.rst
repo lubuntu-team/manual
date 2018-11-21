@@ -11,6 +11,8 @@ If you wish to print a picture after viewing it from the :menuselection:`file --
 
 To rotate an image to the right press the circular arrrow that points to the right or go to :menuselection:`edit --> rotate clockwise`. To rotate conterclockwise use the circular arrow pointing to the left or :menuselection:`edit -->rotate conterclockwise`. To zoom in on a picture press the icon with a magnifying glass with a + symobol on it or press :kbd:`control + +`. To zoom out press the button of a magnifying glass with a - symbol in it or press :kbd:`control + -`.    
 
+To flip your image on the vertical axis :menuselection:`Edit --> Flip Vertically`. To flip your image on the horizontal axis :menuselection:`Edit --> Flip Horizonatally`. 
+
 To copy an image to the clipboard you can :menuselection:`Copy to Clipboard`. To paste an image to the clipboard :menuselection:`Paste to Clipboard`.  
 
 To view the next picture on your image press the right arrow and conversly to view the previous image press the left arrow. To view thumbnials of the current directory you can toggle thumbnials and thumbnails will show at the buttom  with a scrollbar at the bottom of the window to view the whole folder. You can also scroll between different pictures with the mousewheel as well. To jump to the first picture press :kbd:`home` or :menuselection:`Go --> First File`. To jump to the last picture press :kbd:`end` or :menuselection:`Go --> Last File`.   

@@ -15,7 +15,7 @@ The appearance tab lets you change where the buttons are so for is you want and 
 
 The font tab changes the font of your window titlebars you can select several different fonts for different conditions of the window. To change the style of the font you can under the style make the font inactive. For example if you have trouble telling which window you are in you can make the font italic for the titlebar of inactive windows to make it even more obvious.
 
-The move and resize tab lets you change settings for moving and resizing windows. The update window contents when reisizing redraws the whole window when resizing it. Having it off will  have a drawn solid color until you stop resizing it. The drag threshold distance changes the minimum number of pixels to drag a window. 
+The move and resize tab lets you change settings for moving and resizing windows. The update window contents when reisizing redraws the whole window when resizing it. Having it off will  have a drawn solid color until you stop resizing it. The drag threshold distance changes the minimum number of pixels to drag a window. The switch desktops when moving a window past the edge of a the screen lets you drag a window past the edge to switch desktops. The field for time lets you cahnge the amount of time to wait before moving beyond the edge of the desktop to another virtual desktop.   
 
 The mouse tab use the focus follow mouse tab is if you move the mouse over the window it will automatically focus on that window. The titlebar drop down of doubleclicking on the titlebar what option fo to shade or maiximize the window or custom actions which lubuntu has set to maximize. 
 

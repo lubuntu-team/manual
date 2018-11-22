@@ -10,7 +10,7 @@ Lubuntu ships with version 0.4.0 of Window effects.
 
 Useage
 ------
-To toggle enable client side shadows press the Enable client side shadows checkbox. 
+To toggle enable client side shadows press the Enable client side shadows checkbox. The checkbox for Aviod drawing shadows on dock/panel windows will stop drawing shadows on the panel. The label for color lets you change the color of your shadows.   
 
 The opacity tab is for transparency settings. Setting Opacity to 1.00 makes it opaque while 0 makes it entirely clear. Menus, inactive windows, active windows titlebars and borders all can have their opacity changed indepently.
 

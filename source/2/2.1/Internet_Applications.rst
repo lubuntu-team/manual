@@ -9,6 +9,6 @@ This chapter documents how to use webbrowsers email clinets and torent clients.
 
    2.1.1/firefox
    2.1.2/qtransmission
-   2.1.3/Quasel_IRC
+   2.1.3/Quassel_IRC
    2.1.4/bluedevil
    2.1.5/trojita

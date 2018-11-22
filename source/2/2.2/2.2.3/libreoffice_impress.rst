@@ -16,9 +16,11 @@ To open a previous presentation you have been working on press the button that l
 
 To type text into a presentation click in one of the boxes for your theme and type in the text with controls for the text on the right hand side. To insert a picture press the button with what looks like a photograph of a tree and select the file you want to insert. 
 
+To change the zoom of you presentation :menuselection:`View --> Zoom --> Zoom` to bring up a window to manage your zoom.  
+
 On the left there is a panel showing what slides you currently have in left side of the window. To insert a new slide right click on this panel on the left and select new slide. To delete a slide on the left hand slide right click and select delete slide. 
 
-To start a slideshow press f5 or the button the looks like a tv with a triangle on it or :menuselection:`slideshow --> start from the first slide.` To exit the slideshow press escape. To get to the next slide of the slideshow click or press the right arrow key. to get to a previous slide in presentation mode press the left arrow key or right click previous.    
+To start a slideshow press :kbd:`f5` or the button the looks like a tv with a triangle on it or :menuselection:`slideshow --> start from the first slide.` To exit the slideshow press escape. To get to the next slide of the slideshow click or press the right arrow key. to get to a previous slide in presentation mode press the left arrow key or right click previous.    
 
 Screenshot
 ----------

@@ -33,6 +33,6 @@ To launch ARK go to the menu :menuselection:`Accessories --> ARK` or run
 
    ark
    
-on the command line.
+on the command line. The icon for ARK looks like a green box with a zipper. 
 
 

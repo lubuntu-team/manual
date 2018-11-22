@@ -7,6 +7,9 @@ Useage
 ------
 LXQt power management watches your battery, laptop lid, and idleness on the screen. Each one of the checkbox is to battery laptop lid and idleness is a checkbox to enable or disable each. When you add when power is low select what you want to do suspend shutodwn hibernate or something. The lid watcher lets you choose to suspend or shut off your computer when the lid is closed on battery or on AC.     
 
+On a laptop power management should show a + with a ring around it represeneting your current battery charge on your laptop when it is charging with a full green circle meaning you are fully charged in the system tray. If your battery is discharging you will see a - sybmol at the center of the circle. If you hover the mouse cursor over this it will show the percent of charge as a percentage and whether the battery is charging or discharging. When your battery is fully charged it will turn into a black circle. 
+
+
 Screenshot
 ----------
 .. image:: power_management.png
@@ -23,4 +26,4 @@ To launch Power Management from the menu :menuselection:`Preferences --> LXQt se
 
     lxqt-config-powermanagement 
 
-from the command line.
+from the command line. 

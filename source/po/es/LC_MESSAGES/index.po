@@ -5,12 +5,13 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # Roberto <lumintnian@outlook.com>, 2018.
+# Leoni Franco Paz <lfrancopaz.451@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: 2018-11-13 03:58+0000\n"
+"PO-Revision-Date: 2018-11-13 17:22+0000\n"
 "Last-Translator: Roberto <lumintnian@outlook.com>\n"
 "Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
 "manual-index/es/>\n"
@@ -24,22 +25,21 @@ msgstr ""
 
 #: ../../source/index.rst:2
 msgid "Welcome to the Lubuntu Manual!"
-msgstr ""
+msgstr "¡Bienvenido al manual de Lubuntu!"
 
 #: ../../source/index.rst:4
-#, fuzzy
 msgid ""
 "Welcome to the Lubuntu Manual! This is the official reference book for "
 "using Lubuntu. This manual covers many topics, such as installation "
 "instructions, applications Lubuntu provides, and much more!"
 msgstr ""
-"¡Bienvenido al manual de Lubuntu! Este es el libro de referencia oficial "
+"¡Bienvenido al manual de Lubuntu! ¡Este es el libro de referencia oficial "
 "para usar Lubuntu. Este manual cubre muchos temas, como las instrucciones de "
-"instalación, las aplicaciones que proporciona Lubuntu y mucho más."
+"instalación, las aplicaciones que proporciona Lubuntu y mucho más!"
 
 #: ../../source/index.rst:7
 msgid "What is Lubuntu?"
-msgstr ""
+msgstr "¿Qué es Lubuntu?"
 
 #: ../../source/index.rst:9
 msgid ""
@@ -51,6 +51,14 @@ msgid ""
 " `we have recently refocused <https://lubuntu.me/taking-a-new-"
 "direction/>`_."
 msgstr ""
+"El objetivo del proyecto es proporcionar una distribución de Linux ligera y "
+"funcional basada en una base sólida como una roca de Ubuntu. Lubuntu "
+"proporciona una interfaz gráfica de usuario simple pero moderna y potente y "
+"viene con una amplia variedad de aplicaciones para que pueda navegar, enviar "
+"correos electrónicos, chatear, jugar y ser productivo. Lubuntu era "
+"anteriormente una distribución para hardware de gama baja, pero `"
+"recientemente la hemos reenfocado <https://lubuntu.me/taking-a-new-direction/"
+">` _."
 
 #: ../../source/index.rst:11
 msgid ""
@@ -59,14 +67,18 @@ msgid ""
 "releases of Lubuntu. Lubuntu received official recognition as a formal "
 "member of the Ubuntu family beginning with Lubuntu 11.10."
 msgstr ""
+"Los miembros del equipo se ocupan de LXQt y otros paquetes que forman parte "
+"de Lubuntu en el archivo de Ubuntu, así como los paquetes de LXDE en las "
+"versiones de LTS de Lubuntu. Lubuntu recibió reconocimiento oficial como "
+"miembro formal de la familia Ubuntu a partir de Lubuntu 11.10."
 
 #: ../../source/index.rst:14
 msgid "Contents"
-msgstr ""
+msgstr "Contenido"
 
 #: ../../source/index.rst:29
 msgid "Contact Us"
-msgstr ""
+msgstr "Contáctenos"
 
 #: ../../source/index.rst:31
 msgid ""
@@ -76,28 +88,33 @@ msgid ""
 "us <https://lubuntu.me/links/>`_, and `our Phabricator instance "
 "<https://phab.lubuntu.me/>`_ where we do most of the Lubuntu development."
 msgstr ""
+"¿Tienes preguntas? ¿Quieres involucrarte? Echa un vistazo a nuestro sitio "
+"web oficial en `Lubuntu.me <https://lubuntu.me>` _, donde puedes encontrar `"
+"el blog de Lubuntu <https://lubuntu.me/blog/>` _, `maneras de obtener en "
+"contacto con nosotros <https://lubuntu.me/links/> `_, y` nuestra instancia "
+"de Phabricator <https://phab.lubuntu.me/> `_ donde hacemos la mayor parte "
+"del desarrollo de Lubuntu."
 
 #: ../../source/index.rst:34
 msgid "Thank you!"
-msgstr ""
+msgstr "¡Gracias!"
 
 #: ../../source/index.rst:36
 msgid "Thank you for choosing to use Lubuntu!"
-msgstr ""
+msgstr "¡Gracias por elegir usar Lubuntu!"
 
 #: ../../source/index.rst
 msgid "Authors"
-msgstr ""
+msgstr "Autores"
 
 #: ../../source/index.rst:38
 msgid "Simon Quigley, Lyn Perrine, Jacob Kim, Daniel Lim"
-msgstr ""
+msgstr "Simon Quigley, Lyn Perrine, Jacob Kim, Daniel Lim"
 
 #: ../../source/index.rst
 msgid "Translators"
 msgstr "Traductores"
 
 #: ../../source/index.rst:39
-#, fuzzy
 msgid "Marcin Mikołajczak"
 msgstr "Marcin Mikołajczak"

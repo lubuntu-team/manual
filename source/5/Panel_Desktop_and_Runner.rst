@@ -11,3 +11,4 @@ This chapter will teach you how to use the panel desktop icons the runner to lau
   5.2/desktop_icons
   5.3/lxqt-runner
   5.4/window_management
+  5.5/keyboard_menu_navigation

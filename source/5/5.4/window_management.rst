@@ -7,7 +7,7 @@ Using the mouse
 ---------------
 In the top-right corner of a windows a few commands allow you basic controls of the window. Starting from left to right
 
--   Iconify (-) hides/minimizes the window making it only appear on the task bar of the Panel. It can be recalled by clicking on the application on the task bar, or cycling through open windows with (ALT + Tab)
+-   Iconify (-) hides/minimizes the window making it only appear on the task bar of the Panel. It can be recalled by clicking on the application on the task bar, or cycling through open windows with :kbd:`ALT + Tab`
 -   Maximize reshapes the window to fix the entire screen.
 -   Close (x) attempts to end the window and probably the program.
 
@@ -27,9 +27,10 @@ Right clicking on the title bar and left clicking on the icon located at the top
 
 Useful keyboard shortcuts
 -------------------------
--   Closing a window (Alt + F4)
--   Switching through windows (Hold Alt + hit Tab)
--   Resizing windows, Super (windows key) + directional arrows.
+-   Closing a window :kbd:`Alt + F4`
+-   Switching through windows :kbd:`Hold Alt + hit Tab`
+-   Resizing windows, :kbd:`Super (windows key) + directional arrows`.
+-   Show desktop with :kbd:`Control + Alt + D`.  
 
 Screenshots
 -----------

@@ -5,23 +5,26 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-11-21 19:48+0000\n"
+"Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
+"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
+"manual-d/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/D/upgrading.rst:2
 msgid "Appendix D Upgrading from previous releases"
-msgstr ""
+msgstr "Apéndice D Actualización desde versiones anteriores"
 
 #: ../../source/D/upgrading.rst:4
 msgid ""
@@ -33,6 +36,15 @@ msgid ""
 "battery (such as a laptop), please ensure that the power is connected, as"
 " it may take a while and unexpected power failures could be disasterous."
 msgstr ""
+"¡Estamos orgullosos de presentar el lanzamiento altamente esperado de "
+"Lubuntu 18.10! Esta versión viene con muchos cambios, que probablemente se "
+"verán eclipsados por el cambio al entorno de escritorio LXQt. Naturalmente, "
+"un cambio extremadamente grande como este puede causar problemas, por lo que "
+"** recomendamos encarecidamente que realice una copia de seguridad de sus "
+"archivos **. Además, si su ordenador funciona con una batería (como un "
+"ordenador portátil), asegúrese de que la alimentación esté conectada, ya que "
+"puede tardar un tiempo y los fallos de alimentación inesperados pueden ser "
+"desastrosos."
 
 #: ../../source/D/upgrading.rst:6
 msgid ""
@@ -40,6 +52,10 @@ msgid ""
 "the update manager a graphical user interface. The second involves the "
 "command line and is useful for server upgrades."
 msgstr ""
+"Hay dos métodos para actualizar las versiones de Lubuntu. El primero es usar "
+"el administrador de actualizaciones desde una interfaz gráfica de usuario. "
+"El segundo involucra la línea de comandos y es útil para las actualizaciones "
+"del servidor."
 
 #: ../../source/D/upgrading.rst:9
 msgid "Upgrading with GUI"
@@ -50,16 +66,20 @@ msgid ""
 "First, ensure your system is up-to-date by starting Software Updater and "
 "performing system updates:"
 msgstr ""
+"Primero, asegúrese de que su sistema esté actualizado iniciando el "
+"Actualizador de Software y realizando actualizaciones del sistema:"
 
 #: ../../source/D/upgrading.rst:12
 msgid ""
 "This can be done by clicking the Menu (Alt + F1) -> System Tools -> "
 "Software Updater."
 msgstr ""
+"Esto se puede hacer haciendo clic en Menú (Alt + F1) -> Herramientas del "
+"sistema -> Actualizador de Software."
 
 #: ../../source/D/upgrading.rst:13
 msgid "When prompted, click Install Now."
-msgstr ""
+msgstr "Cuando se le solicite, haga clic en Instalar ahora."
 
 #: ../../source/D/upgrading.rst:14
 msgid ""
@@ -210,4 +230,3 @@ msgstr ""
 #: ../../source/D/upgrading.rst:76
 msgid "To remove uneeded dependencies enter the following command:"
 msgstr ""
-

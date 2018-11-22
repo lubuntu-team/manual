@@ -5,31 +5,34 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-11-21 19:30+0000\n"
+"Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
+"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
+"manual-2-3-1/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/2/2.3/2.3.1/lximage.rst:2
 msgid "Chapter 2.3.1 lximage"
-msgstr ""
+msgstr "Capítulo 2.3.1 lximage"
 
 #: ../../source/2/2.3/2.3.1/lximage.rst:4
 msgid "Lximage is the default image viewer for lubuntu."
-msgstr ""
+msgstr "Lximage es el visor de imágenes por defecto en Lubuntu."
 
 #: ../../source/2/2.3/2.3.1/lximage.rst:7
 msgid "Useage"
-msgstr ""
+msgstr "Uso"
 
 #: ../../source/2/2.3/2.3.1/lximage.rst:8
 msgid ""
@@ -39,12 +42,19 @@ msgid ""
 "piece of paper in it. To save the file as something press the button that"
 " looks like a floppy disk."
 msgstr ""
+"Para usar lximage use la flecha a la derecha para ver el siguiente archivo "
+"en la carpeta y la flecha a la izquierda para ver la carpeta anterior. Para "
+"abrir una nueva imagen presione el botón de abrir que parece una carpeta "
+"azul con una hoja de papel en ella. Para guardar el archivo como algo, "
+"presione el botón que parece un disquete."
 
 #: ../../source/2/2.3/2.3.1/lximage.rst:10
 msgid ""
 "If you wish to print a picture after viewing it from the file menu -> "
 "print or press control+ p to bring up a print dialog."
 msgstr ""
+"Si deseas imprimir una imagen luego de verla, desde el menú de Archivos -> "
+"Imprimir, o presione Ctrl + P para mostrar el diálogo de impresión."
 
 #: ../../source/2/2.3/2.3.1/lximage.rst:12
 msgid ""
@@ -55,26 +65,34 @@ msgid ""
 " glass with a + symobol on it or press control + +. To zoom out press the"
 " button of a magnifying glass with a - symbol in it or press control + -."
 msgstr ""
+"Para rotar la imagen a la derecha presione la flecha circular que apunta "
+"hacia la derecha o vaya a Editar -> Rotar hacia la derecha. Para rotar hacia "
+"la izquierda use la flecha circular apuntando hacia la izquierda o vaya a "
+"Editar -> Rotar hacia la izquierda. Para hacer zoom en una una imagen "
+"presione el icono con una lupa con un símbolo \"+\". Para hacer zoom hacia "
+"afuera presione el botón con la upa y un simbolo \"-\", o presione Ctrl mas +"
+" o -."
 
 #: ../../source/2/2.3/2.3.1/lximage.rst:15
 msgid "Screenshot"
-msgstr ""
+msgstr "Captura de pantalla"
 
 #: ../../source/2/2.3/2.3.1/lximage.rst:19
 msgid "Version"
-msgstr ""
+msgstr "Versión"
 
 #: ../../source/2/2.3/2.3.1/lximage.rst:20
 msgid "Lubuntu ships with version 0.7.0 or lximage."
-msgstr ""
+msgstr "Lubuntu incluye la version 0.7.0 de lximage."
 
 #: ../../source/2/2.3/2.3.1/lximage.rst:23
 msgid "How to launch"
-msgstr ""
+msgstr "Como iniciar"
 
 #: ../../source/2/2.3/2.3.1/lximage.rst:24
 msgid ""
 "To launch lximage from the menu -> graphics - > lximage or run lximage-qt"
 " from the command line."
 msgstr ""
-
+"Para lanzar lximage desde el menú -> Gráficos -> lximage o corra lximage-qt "
+"desde la linea de comandos."

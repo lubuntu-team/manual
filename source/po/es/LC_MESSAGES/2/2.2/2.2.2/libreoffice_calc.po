@@ -5,43 +5,49 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-11-21 19:30+0000\n"
+"Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
+"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
+"manual-2-2-2/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:2
 msgid "Chapter 2.2.2 Libreoffice Calc"
-msgstr ""
+msgstr "Capítulo 2.2.2 LibreOffice Calc"
 
 #: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:4
 msgid "Libreoffice Calc is a spreadsheat program included by default in Lubuntu."
 msgstr ""
+"LibreOffice Calc es un programa de hojas de cálculo incluido por defecto en "
+"Lubuntu."
 
 #: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:7
 msgid "Version"
-msgstr ""
+msgstr "Versión"
 
 #: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:8
 msgid "Lubuntu ships with version  6.1.1.2 of libreoffice Calc."
-msgstr ""
+msgstr "Lubuntu incluye la version 6.1.1.2 de LibreOffice Calc."
 
 #: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:11
 msgid "How to launch"
-msgstr ""
+msgstr "Como iniciar"
 
 #: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:12
 msgid ""
 "To launch libreoffice calc in the menu go to Office -> Libreoffice Calc "
 "or run localc from the command line."
 msgstr ""
-
+"Para lanzar LibreOffice Calc en el menú vaya a Office -> LibreOffice Calc o "
+"corra localc desde la linea de comandos."

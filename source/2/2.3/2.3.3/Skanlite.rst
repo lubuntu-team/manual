@@ -9,13 +9,15 @@ Lubuntu ships with version 2.1.0 of skanlite.
 
 Useage
 ------
-To preview what you want to scan press the preview button and you can make sure the scan is in a good position. With this done you can press the scan button to scan the document after this a dialog will show up asking you were to save what you are scanning. 
+To preview what you want to scan press the preview button and you can make sure the scan is in a good position. With this done you can press the scan button to scan the document after this a dialog will show up asking you were to save what you are scanning. If you want to cancel your scan midway through the scan click on the red x button to cancel the scan while the scan is in progress.  
+
+To change the dpi or dots per inch is the dpi drop down menu for scanner resolution but keep in mind the higher the number of dpi the better the picture quality but the longer it will take to scan. The scan mode changing allows you to select color to select color scanning or gray to only show your scan in gray and not use color ink if you would want to print it out again.  
 
 To zoom in press the magnifying glass button with a plus sign conversely to move out press the magnifying glass button with a minus sign. To change your resolution change the scan resolution drop down and select the dots per inch you want to use.    
 
 To change the brightness of a scan slide the slider or input an a positive or negative number into the the numeric field. To change constrast slide the slider or input a positive or negative number in the numeric field. 
 
-To clear selections that can be automatically selected but canceled with a brown smudge with an x on it. 
+To select part of a scan you particularly want to save is to click over a preview of a scan and you will drag the selection with the mouse. To clear selections that can be automatically selected but canceled with a brown smudge with an x on it. 
 
 How to launch
 -------------

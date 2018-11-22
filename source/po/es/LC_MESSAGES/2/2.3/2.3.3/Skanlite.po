@@ -5,39 +5,42 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-11-21 19:30+0000\n"
+"Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
+"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
+"manual-2-3-3/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/2/2.3/2.3.3/Skanlite.rst:2
 msgid "Chapter 2.3.4 Skanlite"
-msgstr ""
+msgstr "Capítulo 2.3.4 Skanlite"
 
 #: ../../source/2/2.3/2.3.3/Skanlite.rst:4
 msgid "Skanlite is a scanning application."
-msgstr ""
+msgstr "Skanlite es una aplicación de escanear."
 
 #: ../../source/2/2.3/2.3.3/Skanlite.rst:7
 msgid "Version"
-msgstr ""
+msgstr "Versión"
 
 #: ../../source/2/2.3/2.3.3/Skanlite.rst:8
 msgid "Lubuntu ships with version 2.1.0 of skanlite."
-msgstr ""
+msgstr "Lubuntu incluye la version 2.1.0 de Skanlite."
 
 #: ../../source/2/2.3/2.3.3/Skanlite.rst:11
 msgid "Useage"
-msgstr ""
+msgstr "Uso"
 
 #: ../../source/2/2.3/2.3.3/Skanlite.rst:12
 msgid ""
@@ -46,16 +49,23 @@ msgid ""
 "the scan button to scan the document after this a dialog will show up "
 "asking you were to save what you are scanning."
 msgstr ""
+"Para ver previamente lo que quieres escanear, presiona el botón de vista "
+"previa, y podrás estar seguro de que tu escaneo está en buena posición. "
+"Habiendo hecho esto, ahora puedes presionar el botón de escanear para "
+"escanear el documento luego de esto, un dialogo aparecerá preguntando si "
+"quieres guardar ese escaneo."
 
 #: ../../source/2/2.3/2.3.3/Skanlite.rst:14
 msgid ""
 "To zoom in press the magnifying glass button with a plus sign conversely "
 "to move out press the magnifying glass button with a minus sign."
 msgstr ""
+"Para hacer zoom presiona el botón con la lupa y signo +, inversamente si "
+"quieres alejar el zoom usa el botón con la lupa y signo -."
 
 #: ../../source/2/2.3/2.3.3/Skanlite.rst:17
 msgid "How to launch"
-msgstr ""
+msgstr "Como iniciar"
 
 #: ../../source/2/2.3/2.3.3/Skanlite.rst:18
 msgid ""
@@ -63,4 +73,6 @@ msgid ""
 "computer. To launch the application go to the menu -> graphics -> "
 "skanlite or run skanlite from the command line."
 msgstr ""
-
+"Para comenzar a usar Skanlite encienda su escáner y que esté conectado a su "
+"ordenador. Para lanzar la aplicación vaya al menú -> Gráficos -> Skanlite o "
+"corra Skanlite desde la linea de comandos."

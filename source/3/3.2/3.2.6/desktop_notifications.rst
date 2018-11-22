@@ -5,7 +5,7 @@ Desktop notifications are the settings for your desktop notifactions such as whe
 
 Useage
 ------
-To change where Desktop notifications appear on your screen click the button that appears on the portion of your screen where you want them with the outline being your window under the basic settings tab. To change duration of desktop notifications there is up and down to add or reduce the number of seconds to show notifications for the default is 10 seconds. The sizes width lets you choose how wide to make notifications.   
+To change where Desktop notifications appear on your screen click the button that appears on the portion of your screen where you want them with the outline being your window under the basic settings tab. To change duration of desktop notifications there is up and down to add or reduce the number of seconds to show notifications for the default is 10 seconds. The sizes width lets you choose how wide to make notifications. The spacing field changes how far to place the notification from each other.  
 
 Screenshot
 ----------

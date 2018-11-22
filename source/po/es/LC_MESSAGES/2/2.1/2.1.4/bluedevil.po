@@ -5,35 +5,38 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-11-13 20:19+0000\n"
+"Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
+"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
+"manual-2-1-4/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/2/2.1/2.1.4/bluedevil.rst:2
 msgid "Chapter 2.1.4 Bluedevil"
-msgstr ""
+msgstr "Capítulo 2.1.4 Bluedevil"
 
 #: ../../source/2/2.1/2.1.4/bluedevil.rst:4
 msgid ""
 "bluedevil is the default application to make bluetooth devices for "
 "lubuntu."
 msgstr ""
+"Bluedevil es la aplicación estándar para dispositivos bluetooth en Lubuntu."
 
 #: ../../source/2/2.1/2.1.4/bluedevil.rst:7
 msgid "Version"
-msgstr ""
+msgstr "Versión"
 
 #: ../../source/2/2.1/2.1.4/bluedevil.rst:8
 msgid "Lubuntu ships with version 5.13.5 of bluedevil."
-msgstr ""
-
+msgstr "Lubuntu incluye la versión 5.13.5 de Bluedevil."

@@ -10,11 +10,17 @@ Lubuntu ships with version 0.4.0 of Window effects.
 
 Useage
 ------
-To toggle enable client side shadows press the Enable client side shadows checkbox. 
+To toggle enable client side shadows press the Enable client side shadows checkbox. The checkbox for Aviod drawing shadows on dock/panel windows will stop drawing shadows on the panel. The label for color lets you change the color of your shadows. The field for blur radius for shadows changes how big to blur the shadows. The left offset for shadows is how far to move the shadows to the left with a larger number makes the shadow appear farther to the right. The top offset for shadows the larger the number farther down the shadow appears below the window. The field for translucany of for shadows is how opaque or clear to make the shadows 1 is opqaque shadows and 0 is clear.   
 
 The opacity tab is for transparency settings. Setting Opacity to 1.00 makes it opaque while 0 makes it entirely clear. Menus, inactive windows, active windows titlebars and borders all can have their opacity changed indepently.
 
 Fading windows can have some  differences. There is a checkbox for fading window during opactity changes so if the opacity changes it will smoothly fade. With this settings windows will fade in and out when opened and closed unless you don't them to which you can press the Avoid fade in out when windows opening and closing.  
+
+To have your settings applied you will need to press the apply button. If you want to cancel your changes press the cancel button.
+
+Screenshot
+----------
+.. image:: window_effects.png
 
 How to Launch
 -------------

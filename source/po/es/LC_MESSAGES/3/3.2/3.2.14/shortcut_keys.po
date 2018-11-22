@@ -5,18 +5,21 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-11-21 19:30+0000\n"
+"Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
+"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
+"manual-3-2-14/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/3/3.2/3.2.14/shortcut_keys.rst:2
@@ -29,7 +32,7 @@ msgstr ""
 
 #: ../../source/3/3.2/3.2.14/shortcut_keys.rst:7
 msgid "Version"
-msgstr ""
+msgstr "Versión"
 
 #: ../../source/3/3.2/3.2.14/shortcut_keys.rst:8
 msgid "Lubuntu ships with version 0.13.0 of shortcut keys."
@@ -37,7 +40,7 @@ msgstr ""
 
 #: ../../source/3/3.2/3.2.14/shortcut_keys.rst:11
 msgid "Useage"
-msgstr ""
+msgstr "Uso"
 
 #: ../../source/3/3.2/3.2.14/shortcut_keys.rst:12
 msgid ""
@@ -61,7 +64,7 @@ msgstr ""
 
 #: ../../source/3/3.2/3.2.14/shortcut_keys.rst:17
 msgid "How to launch"
-msgstr ""
+msgstr "Como iniciar"
 
 #: ../../source/3/3.2/3.2.14/shortcut_keys.rst:18
 msgid ""
@@ -69,4 +72,3 @@ msgid ""
 "shortcut keys. From LXQt configuration center use shortcut keys button "
 "which looks like 6 keyboard keys or run lxqt-config-globalkeyshortcuts."
 msgstr ""
-

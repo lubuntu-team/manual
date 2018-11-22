@@ -30,4 +30,4 @@ To launch Qtransmission go to menu :menuselection:`Internet --> Qtransmission` b
  
    transmission-qt 
 
-from the terminal.
+from the terminal. The icon looks like a silver box outlined in red with a double pointed vertical arrow. 

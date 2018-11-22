@@ -7,6 +7,8 @@ Useage
 ------
 If you want to toggle synchronizing the time of network press the radio button of Enable network time synchronization button. To change the timezone of your computer press the timezone gear and select your time zone from the long list.
 
+If you do not wish to synchronize your clock via network time protocol. Once you want to be able to change your time locally you will be able to change it in the time put will type your time in the time in the time by typing a new time in.
+
 Screenshot
 ----------
 .. image:: date_and_time.png 

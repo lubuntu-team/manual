@@ -16,6 +16,8 @@ The opacity tab is for transparency settings. Setting Opacity to 1.00 makes it o
 
 Fading windows can have some  differences. There is a checkbox for fading window during opactity changes so if the opacity changes it will smoothly fade. With this settings windows will fade in and out when opened and closed unless you don't them to which you can press the Avoid fade in out when windows opening and closing.  
 
+To have your settings applied you will need to press the apply button. If you want to cancel your changes press the cancel button.
+
 Screenshot
 ----------
 .. image:: window_effects.png

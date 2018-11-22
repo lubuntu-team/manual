@@ -15,7 +15,7 @@ The appearance tab lets you change where the buttons are so for is you want and 
 
 The font tab changes the font of your window titlebars you can select several different fonts for different conditions of the window. To change the style of the font you can under the style make the font inactive. For example if you have trouble telling which window you are in you can make the font italic for the titlebar of inactive windows to make it even more obvious.
 
-The mouse tab use the focus follow mouse tab is if you move the mouse over the window it will automatically focus on that window.   
+The mouse tab use the focus follow mouse tab is if you move the mouse over the window it will automatically focus on that window. The titlebar drop down of doubleclicking on the titlebar what option fo to shade or maiximize the window or custom actions which lubuntu has set to maximize. 
 
 On the desktop tab to change number of desktops press the up arrow to add an additional desktop or the down arrow to reduce the number of virtual desktops. When switching desktops there is  a checkbox to show a notification and a field for how many miliseconds to show that notification for. 
 

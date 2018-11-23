@@ -13,7 +13,7 @@ Screenshot
 
 How to Launch
 -------------
-To launch Alternatives configurator from the menu :menuselection:`Prefrences --> Alternatives configurator` or run 
+To launch Alternatives configurator from the menu :menuselection:`Preferences --> Alternatives configurator` or run
 
 .. code::
 

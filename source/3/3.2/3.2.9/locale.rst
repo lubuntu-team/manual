@@ -13,7 +13,7 @@ Lubuntu ships with version 0.13.0 of Locale.
 
 How to Launch
 -------------
-To luaunch locale in the menu :menuselection:`Prefrences --> LXQt settings --> locale` or run 
+To launch locale in the menu :menuselection:`Preferences --> LXQt settings --> locale` or run
 
 .. code:: 
 

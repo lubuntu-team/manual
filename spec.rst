@@ -183,6 +183,8 @@ Chapter 4 Installing, Updating, and Removing  Software
 
 4.2 Muon Package Manager
 
+4.3 Software Sources
+
 ----------------------------------
 Chapter 5 Panel Desktop and Runner
 ----------------------------------
@@ -194,6 +196,8 @@ Chapter 5 Panel Desktop and Runner
 5.3 lxqt-runner
 
 5.4 window management
+
+5.5 keyboard menu navigation
 
 -----------
 Appendicies

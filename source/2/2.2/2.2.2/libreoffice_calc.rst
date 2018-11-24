@@ -13,6 +13,8 @@ To copy data you can right click copy, press the button with two pieces of paper
 
 To change the size of a  row or colum of cells click in between the border of that particular row or column and drag with the mouse to give yourself room. 
 
+To sort your data like a bunch of names first select all the cells with the mouse :menuselection:`Data --> Sort Ascending`. If you want the reverse order to this you can have :menuselection:`Data --> Sort Descending`.  
+
 To undo a selection press :kbd:`control +z` or press the button with the arrow looping around and pointing to the left. 
 
 To zoom to view a full page on your spreadsheet in the menu :menuselection:`View --> Zoom --> Entire Page`. To view the whole width of your page on the menu :menuselection:`View --> Zoom --> Page Width`.   

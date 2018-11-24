@@ -19,7 +19,9 @@ On a single window to move it to a different desktop right click to desktop to m
 
 .. image:: menu-right-click.png
 
-In the system tray there there are multiple widgets. With the volume applet you can change the volume by using the mouse-wheel with the mouse over the speaker icon left click the speaker icon and drag the volume up and down and toggle mute with the button at the bottom or middle click on the volume applet. To the far right is a clock, you can click the clock to bring up a pop up calendar window.  
+The removeable media applet will allow you to manage your remove flash drives and external hard drives and to unmount them without data loss on your system. To unmount such devices left click on the panel that looks like a disk and then click the eject button that is an upward pointing arrow. 
+
+In the system tray there there are multiple widgets. With the volume applet you can change the volume by using the mouse-wheel with the mouse over the speaker icon left click the speaker icon and drag the volume up and down and toggle mute with the button at the bottom or middle click on the volume applet.  To the far right is a clock, you can click the clock to bring up a pop up calendar window.  
 
 .. image:: system_tray.png
 

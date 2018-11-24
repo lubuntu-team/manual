@@ -19,7 +19,7 @@ Screenshot
 
 How to launch
 -------------
-To launch Users and groups from the menu :menuselection:`Prefrences --> LXQt settings --> users and groups`. From LXQt configuration center under system settings press the button that looks like two people. Or you can run 
+To launch Users and groups from the menu :menuselection:`Preferences --> LXQt settings --> users and groups`. From LXQt configuration center under system settings press the button that looks like two people. Or you can run
 
 .. code:: 
 

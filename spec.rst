@@ -109,9 +109,9 @@ Chapter 2.5 Sound & Video
 
 2.5.3 VLC media player
 
--------------------------------------
-Chapter 3 System Tools and Prefrences
--------------------------------------
+--------------------------------------
+Chapter 3 System Tools and Preferences
+--------------------------------------
 
 Chapter 3.1 System Tools
 ------------------------
@@ -132,8 +132,8 @@ Chapter 3.1 System Tools
 
 3.1.8 LxQt-sudo
 
-Chapter 3.2 Prefrences
-----------------------
+Chapter 3.2 Preferences
+-----------------------
 
 3.2.1 LXQt configuration center
 
@@ -169,7 +169,7 @@ Chapter 3.2 Prefrences
 
 3.2.17 Alternatives Configurator
 
-3.2.18 ibus Prefrences
+3.2.18 ibus Preferences
 
 3.2.19 Printers
 

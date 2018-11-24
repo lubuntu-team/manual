@@ -24,7 +24,7 @@ Screenshot
 
 How to Launch
 -------------
-To launch window effects from the menu :menuselection:`Prefrences --> LXQt Settings --> Window effects` or run 
+To launch window effects from the menu :menuselection:`Preferences --> LXQt Settings --> Window effects` or run
 
 .. code:: 
 

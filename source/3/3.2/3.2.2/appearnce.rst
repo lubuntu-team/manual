@@ -30,7 +30,7 @@ If you want to reset your changes you will need to click the reset button to rev
 
 How to launch
 -------------
-To launch appearnce in the menu :menuselection:`prefrences --> Lxqt settings --> appearance`. Another way is to press the Appearance button from LXQt configuration center or run 
+To launch appearnce in the menu :menuselection:`Preferences --> Lxqt settings --> appearance`. Another way is to press the Appearance button from LXQt configuration center or run
 
 .. code:: 
 

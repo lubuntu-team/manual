@@ -3,7 +3,6 @@ Chapter 3.2.2 Appearance
 
 Appearnce is a program that changes the theming of lxqt for a different visual look.
 
- .. image :: appearnce.png
 
 Version
 -------
@@ -13,7 +12,7 @@ Useage
 ------
 To change the useage Qt widget will change the buttons and tooblbars look on lubuntu in Qt applications. Check to apply Set GTk settings will apply to GTk applications. The checkbox to apply on single click has makes things you normally need two clicks for one click.  
 
- .. image:: appearnce.png
+ .. image:: appearance.png
 
 
 The icons theme changes desktop icons on your computer and if you click on the icon theme which is previewed on horizontal rows. The icon theme is will change how all the icon look and how some button looks in other windows as well for like reset button as well. 

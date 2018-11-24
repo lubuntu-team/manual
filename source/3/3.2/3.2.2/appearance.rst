@@ -23,11 +23,11 @@ The tab for LXQt theme lets you change how the panel and notifictions appear.
 
 To change the font size that desktop applications use choose the font tab and use the point size and enter in the size you want or use the up and down arrows to increase or decrease font size respectively. To change the default font there is a drop down box for font name that you can type the font name you or select from the drop down menu. The checkbox for antialias and font hinting for fonts lets you also set antialiased fonts which are enabled for easier screen viewing. The DPI sets the resolution of your screen or dots per inch.  
 
+.. image:: appearance-font.png
+
 The cursor theme lets you change how the cursor looks with two themes installed by default but more available in the package repositories. 
 
 If you want to reset your changes you will need to click the reset button to revert your changes to how they were before.
-
-
 
 
 How to launch

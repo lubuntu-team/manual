@@ -48,7 +48,9 @@ Screenshot
 
 Customizing
 -----------
-To add your own settings to qpdfview you can get to a settings window with :menuselection:`Edit --> Settings`. The checkbox for open url allows you to turn on or off Opening URL within within qpdfview. The autorefresh checkbox relaods the pdf whenever the file changes which is useful if you are authoring pdf files. If you want to reset these settings to the defaults is to press the defaults button. If you just want defaults on the current tab you can press the defaults on current tab button. If you want to return to viewing your pdf with the same settings press the OK button. If you wish to discard your changes press the cancel button.     
+To add your own settings to qpdfview you can get to a settings window with :menuselection:`Edit --> Settings`. The checkbox for open url allows you to turn on or off Opening URL within within qpdfview. The autorefresh checkbox relaods the pdf whenever the file changes which is useful if you are authoring pdf files. If you want to scroll once to go to an entire page press the minimal scrolling checkbox.
+
+If you want to reset these settings to the defaults is to press the defaults button. If you just want defaults on the current tab you can press the defaults on current tab button. If you want to return to viewing your pdf with the same settings press the OK button. If you wish to discard your changes press the cancel button.     
 
 To deal with settings on graphics press press on the graphics tab. The settings for paper color will has a drop down menu for previewing what it is like printing on colored paper. The checkbox for prefetch will preload pages not directly viewed by the pdf viewer not directly on the screen however this will use more resources. The drop down for cache size will larger will use up more resources but will make loading of pdfs much faster. 
 

@@ -18,7 +18,8 @@ Usage
 ------
 To open a pdf file use :menuselection:`File --> Open` from the menu or :kbd:`Control + O` on the keyboard. If you have a pdf open use :menuselection:`File --> Open` in new tab from the menu, click the Open in new tab button or press :kbd:`Control + T`. To refresh a pdf click the Refresh button or press :kbd:`F5` just like most web browsers. To switch between tabs on the keyboard you can press control :kbd:`control + tab` to go the next tab or :kbd:`control + shift + tab` to cycle through your tabs in the opposite direction. At the bottom of the tab menu will be a list of all your tabs you have open with the title of each document.   
 
-If you want to view a particular page select the box (e.g. page 1/3) and tpye the page number (e.g. page 3/3). To move to the previous and next page use the left and right arrow buttons respectively. There are numerous zoom option, including percentage, page width, page size, continous, and multiple pages. Another way to jump to a particular page is to press :kbd:`control + j` or :menuselection:`Edit --> Jump to Page`. To go back to page which you have just come from press :kbd:`control + enter` or :menuselection:`Edit --> Jump backward`. To jump forward a page press control + shift + enter or :menuselection:`Edit --> Jump Forward` 
+If you want to view a particular page select the box (e.g. page 1/3) and tpye the page number (e.g. page 3/3). To move to the previous and next page use the left and right arrow buttons respectively. There are numerous zoom option, including percentage, page width, page size, continous, and multiple pages. Another way to jump to a particular page is to press :kbd:`control + j` or :menuselection:`Edit --> Jump to Page`. To go back to page which you have just come from press :kbd:`control + enter` or :menuselection:`Edit --> Jump backward`. To jump forward a page press control + shift + enter or :menuselection:`Edit --> Jump Forward`. 
+
 
 To select text or an image from qpdfview press :kbd:`control+c` or :menuselection:`Edit --> Copy to clipboard`. Then the cursor will turn into a crosshair and you will be able to expand a box to slect either text or an image and a menu to select copying the text, selecting the text, copying the image, and saving the image to file.   
 
@@ -34,7 +35,8 @@ To make qpdfview fullscreen you can press :kbd:`f11`. To enter presentation mode
 
 To make an annotation press :kbd:`Control +A` or :menuselection:`Edit --> Add annotation`. To view the annotation you have made or edit it again press click on what looks like a sticky note with a pin in it. To remove your annotation right click on the annotation and click remove annotation. 
 
-To sleect page width in zoom in qpdfview is a drop down menu with page width to show the width of the page on qpdfview. To view the whole page on qpdfview in this drop down menu select whole page. To return to the original zoom press :kbd:`Control + 0` or :menuselection:`View --> Original size`. To zoom in is press the magnifying glass with a + in it or press :kbd:`Control + +` or :menuselection:`View --> Zoom in`. To zoom out press the magnifying glass button with a - in it or press :kbd:`Control + -` or :menuselection:`View --> Zoom out`. To rotate the file to the left is press :kbd:`Control + Left` or :menuselection:`View --> Rotate Left`. To rotate the file to the right is press :kbd:`Control + Rights` or :menuselection:`View --> Rotate Right`. 
+To sleect page width in zoom in qpdfview is a drop down menu with page width to show the width of the page on qpdfview. To view the whole page on qpdfview in this drop down menu select whole page. To return to the original zoom press :kbd:`Control + 0` or :menuselection:`View --> Original size`. To zoom in is press the magnifying glass with a + in it or press :kbd:`Control + +` or :menuselection:`View --> Zoom in`. To zoom out press the magnifying glass button with a - in it or press :kbd:`Control + -` or :menuselection:`View --> Zoom out`. To rotate the file to the left is press :kbd:`Control + Left` or :menuselection:`View --> Rotate Left`. To rotate the file to the right is press :kbd:`Control + Rights` or :menuselection:`View --> Rotate Right`.Another way to zoom with the scrollwheel is to press :kbd:`Control` and zoom with the mousewheel.
+ 
 
 If you have a particularly long pdf file you might want to make a bookmark to find a specific thing easily. To create a bookmark press :kbd:`control +b` or  :menuselection:`Bookmarks -->  Add Bookmark` and give the bookmark a memorable title and description so you can find it in this document again easily. If you later want to remove the bookmark go :menuselection:`bookmarks --> remove bookmark` or press :kbd:`control+ shift+ B`. 
 
@@ -43,6 +45,11 @@ To jump to the start of a pdf file press the :kbd:`home` key or :menuselection:`
 Screenshot
 ----------
 .. image:: qpdfview.png
+
+Customizing
+-----------
+To add your own settings to qpdfview you can get to a settings window with :menuselection:`Edit --> Settings`. The checkbox for open url allows you to turn on or off Opening URL within within qpdfview. The autorefresh checkbox relaods the pdf whenever the file changes which is useful if you are authoring pdf files.  
+
 
 Version
 -------

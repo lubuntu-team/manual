@@ -25,7 +25,10 @@ Pcmanfm-qt can actually launch other applications in places Applications and the
 
 To add a bookmark :menuselection:`Bookmarks --> Add to  Bookmarks`  and it will make a bookmark. To later access this bookmark it will be on the left hand side under bookmarks and under the bookmarks menu. 
 
-Pcmanfm-Qt has different view modes which can be changed in the view menu. To select a view that has bigger thumbnails to view pictures before deciding to open them :menuselection:`View --> View --> Thumbnail View`. If you want to view lists of move data about something like the file size the time it is modified select detailed list view by :menuselection:`View --> View --> Detailed list view`. If you really want to have see as many files in a small area use the compact view or :menuselection:`View --> View --> Compact View`. To return to the original view of pcmanfm-qt is to :menuselection:`View --> View --> Icon View`.    
+Pcmanfm-Qt has different view modes which can be changed in the view menu. To select a view that has bigger thumbnails to view pictures before deciding to open them :menuselection:`View --> View --> Thumbnail View`. If you want to view lists of move data about something like the file size the time it is modified select detailed list view by :menuselection:`View --> View --> Detailed list view`. If you really want to have see as many files in a small area use the compact view or :menuselection:`View --> View --> Compact View`. To return to the original view of pcmanfm-qt is to :menuselection:`View --> View --> Icon View`.  
+
+
+pcmanfm-qt when right clicking has special options for dealing with archieves such as tar or zip files. To extract the files in the current directory right click and select extract here.  
 
 Screenshot
 ----------

@@ -17,7 +17,7 @@ Screenshot
 
 Useage
 ------
-To open a file in a archieve, open the archieve, then double click the file  or select it and click the Open button. If you want to extract or move a file from the archieve, use the extract button.  
+To open a file in a archieve, open the archieve, then double click the :menuselection:`File --> Open` button. If you want to extract or move a file from the archieve, use the extract button. After you have extracted to places and you have the file open it will appear in in the menu for quick areas to extract to in :menuselection:`Archive --> Extract All --> Quick Extract to`. 
 
 To create an archieve press the archieve new button to bring up the create new archive dialog. Enter in the folder you want to create this archieve in the folder or press the folder button on the right to select where to create this archieve. Type the filename of the archieve you want to name the file. To select which type of archieve you get a drop down menu to select tar or zip archieve with various different kinds of compression. 
 

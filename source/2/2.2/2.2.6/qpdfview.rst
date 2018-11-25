@@ -27,7 +27,7 @@ To save your pdf file is to :menuselection:`File --> Save` or you can press :kbd
 
 qpdfview also includes some very useful docks. To view the outline dock, in the menu select :menuselection:`View --> Docks --> Outline (make sure the button is checked)` or press :kbd:`F6` on the keyboard. It should appear on the left hand side of the pdf with collapsable sections. This is useful in navigating large pdfs. To see a thumbnail of each page :menuselection:`View --> Dock --> Thumbnails` or press :kbd:`f8` to view a thumbnial of each page of the pdf file. If you want to close one of these docks click the X button on the dock to close it.  
 
-To view two pages at once like if you want to see a two page spread of an illustration in a pdf of a book press :kbd:`Control + 6` or :menuselection:`View --> Two pages`. To get your view back to normal press :kbd:`Control +6` agian or :menuselection:`View --> Two pages` again.  
+To view two pages at once like if you want to see a two page spread of an illustration in a pdf of a book press :kbd:`Control + 6` or :menuselection:`View --> Two pages`. To get your view back to normal press :kbd:`Control +6` agian or :menuselection:`View --> Two pages` again.  To toggle the view of three pages at a time press :kbd:`Control +4` or :menuselection:`View --> Multiple pages`.  
 
 To search through your pdf file you can press :kbd:`control + f` or from the menu :menuselection:`edit --> search`. You will get taken to the results and will appear highligheted in yellow to see through the results you can press the down arrow to see results farther in the document and press the up arrow to see results towards the start of the document.
 

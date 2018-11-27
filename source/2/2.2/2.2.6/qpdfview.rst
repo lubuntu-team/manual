@@ -21,6 +21,8 @@ To open a pdf file use :menuselection:`File --> Open` from the menu or :kbd:`Con
 If you want to view a particular page select the box (e.g. page 1/3) and tpye the page number (e.g. page 3/3). To move to the previous and next page use the left and right arrow buttons respectively. There are numerous zoom option, including percentage, page width, page size, continous, and multiple pages. Another way to jump to a particular page is to press :kbd:`control + j` or :menuselection:`Edit --> Jump to Page`. To go back to page which you have just come from press :kbd:`control + enter` or :menuselection:`Edit --> Jump backward`. To jump forward a page press control + shift + enter or :menuselection:`Edit --> Jump Forward`. 
 
 
+To print your pdf press :kbd:`Control + P` or :menuselection:`File --> Print`. If you are printing the pdf in black and white you can however  tpggle previewing  the file in black and white by pressing :kbd:`Control + U` or :menuselection:`View --> Convert to grayscale`. 
+
 To select text or an image from qpdfview press :kbd:`control+c` or :menuselection:`Edit --> Copy to clipboard`. Then the cursor will turn into a crosshair and you will be able to expand a box to slect either text or an image and a menu to select copying the text, selecting the text, copying the image, and saving the image to file.   
 
 To save your pdf file is to :menuselection:`File --> Save` or you can press :kbd:`Control + s`. You can save the file with a different name with :menuselection:`File --> SAve as`. To save a copy of the document click :menuselection:`File --> Save a copy`.  

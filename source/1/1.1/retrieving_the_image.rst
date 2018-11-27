@@ -44,9 +44,11 @@ Below you can find more detailed notes on each download method.
 
 Downloading the image via HTTP
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-*We don't recommend using this method as it's often slower and less efficient than the other methods.*
+*We don't recommend using this method as it's often slower, more error prone, and less efficient than the other methods.*
 
 After you download the image, you **must** verify it, as this is the most common reason there are problems with a Lubuntu install. There is `a helpful page on the Ubuntu Community Help wiki <https://help.ubuntu.com/community/VerifyIsoHowto>`_ that can guide you in the right direction.
+
+.. warning:: Downloading via HTTP and not verifying the image can lead to hours of frustration with even the developers quite confused what is happening with your system. With just one bit of the image flipped it will cause massive frustration and a failed install. 
 
 
 Downloading the image via BitTorrent

@@ -16,7 +16,7 @@ To open a previous presentation you have been working on press the button that l
 
 To type text into a presentation click in one of the boxes for your theme and type in the text with controls for the text on the right hand side. To insert a picture press the button with what looks like a photograph of a tree and select the file you want to insert. 
 
-To insert an image click :menuselection:`Insert --> Image`. 
+To insert an image click :menuselection:`Insert --> Image`. To drag your image to where you want it left click and drag the mouse to where you want the image. To resize the image without distorting it click one of the boxes on the corner and resize to the size you wish. 
 
 To change the zoom of you presentation :menuselection:`View --> Zoom --> Zoom` to bring up a window to manage your zoom.  
 

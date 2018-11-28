@@ -58,6 +58,14 @@ To do this the easiest way is the command line is to run for 64 bit lubuntu 18.1
 
 and then carefully check that the output matches 99408e73e5ff11727be6987d9b2f8ee3b6a3b672c9da540a63c8b462a0cf63c4 \*lubuntu-18.10-desktop-amd64.iso
 
+For 32 bit lubuntu 18.10 is to run 
+
+.. code::
+
+   sha256sum lubuntu-18.10-desktop-i386.iso 
+
+and then check carefully the output matches 38e0bf05b6bfc3faa700f779e94cc1b7 \*lubuntu-18.10-desktop-i386.iso
+
 
 Downloading the image via BitTorrent
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

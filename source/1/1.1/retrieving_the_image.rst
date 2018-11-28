@@ -50,6 +50,14 @@ After you download the image, you **must** verify it, as this is the most common
 
 .. warning:: Downloading via HTTP and not verifying the image can lead to hours of frustration with even the developers quite confused what is happening with your system. With just one bit of the image flipped it will cause massive frustration and a failed install. 
 
+To do this the easiest way is the command line is to run for 64 bit lubuntu 18.10
+
+.. code:: 
+
+ sha256sum lubuntu-18.10-desktop-amd64.iso 
+
+and then carefully check that the output matches 99408e73e5ff11727be6987d9b2f8ee3b6a3b672c9da540a63c8b462a0cf63c4 \*lubuntu-18.10-desktop-amd64.iso
+
 
 Downloading the image via BitTorrent
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

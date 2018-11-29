@@ -28,7 +28,7 @@ To open a new tab in firefox press the plus button on the right of the tab bar o
 
 To go back to a previous page in firefox press the button pointing to the left. To go forward to a page you have visited before but have now gone back from press the button with the arrow pointing to the right. To download a file directly to your local disk right click on the save file as and then you will get options to save the file where you want.  
 
-To go to a specific url in the address bar you can type it in the the main bar in the middle. If you have a url in your clipboard you can paste it here or into the address bar right click and paste and go. 
+To go to a specific url in the address bar you can type it in the the main bar in the middle. If you have a url in your clipboard you can paste it here or into the address bar right click and paste and go. Or if you right click into the the clipboard and not immediately go to the page and type in a sub page right click paste and then type to go a specific sub page of the same site and then press enter to go to the page. 
 
 To zoom in if you find the text on a web page to small press :kbd:`control + +`. If you want to zoom out on the text or pictures press :kbd:`control + -`. To reset to the original zoom press :kbd:`control + 0`.
 

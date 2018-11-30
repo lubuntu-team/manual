@@ -24,7 +24,7 @@ To change font color press the button that has a T with a drop on it and a red u
 
 To make text superscript press the button with A and a smaller B located above it as if it in superscript. To make text subscript press the button that is an A with a smaller B located slightly below it. 
 
-If you want text in a text box that can be moved with the mouse press the button that looks like a T with a box around it or :menuselection:`Insert --> Text box`.
+If you want text in a text box that can be moved with the mouse press the button that looks like a T with a box around it or :menuselection:`Insert --> Text box`. To insert a hyperlink press :kbd:`Control + K` or :menuselection:`Insert --> Hyperlink`.
 
 To check the spelling of your document press the ABC button with a checkmark, from the menu -> tools spelling or press :kbd:`f7`. After you are done writing your document you can press the button that looks like a printer to print, press :kbd:`control+ p` or :menuselection:`file --> print`. To view your word count of how many words are currently in the document is with nothing slected at the bottom of the libreoffice writer window. If you select text with the mouse you can also see the word count of selection from the same spot.  
 

@@ -5,7 +5,7 @@ Lximage is the default image viewer for lubuntu.
 
 Useage
 ------
-To open a picture press :menuselection:`File --> Open`, :kbd:`Control + O`, or press the button that looks like a opening folder.
+To open a picture press :menuselection:`File --> Open`, :kbd:`Control + O`, or press the button that looks like a opening folder. If you do not like the picture press :kbd:`Del` or :menuselection:`File --> Delete`. 
 
 To use lximage use the arrow to the right to view the next file in the folder and the arrow to the left to view the previous folder. To open a new picture press the open button which looks like a blue folder with a piece of paper in it. To save the file as something press the button that looks like a floppy disk.
 

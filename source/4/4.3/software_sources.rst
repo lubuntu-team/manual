@@ -3,6 +3,7 @@ Chapter 4.3 Managing Software Sources
 
 
 Occasionally you may need to change the setting of you software sources. This could involve: 
+
 -   changing update settings like update frequency, notification of new releases,
 -   adding or removing sources such as PPAs
 -   changing download server
@@ -13,6 +14,7 @@ Usage
 ------
 
 You can navigate the Software Sources using the tabs.
+
 -   Ubuntu Software contains settings involving the downloading of software from Ubuntu repositories. Here you can disable proprietary software and select a download server among other things.
 -   Other software allows you to add, remove or edit other software sources. Here you can manage remote repositories (PPAs) and CD-ROM repositories.
 -   Updates allows you set which software updates you would like to subscribe to, in this case Security, Recommended, Pre-released (unstable), and Unsupported updates. You can also set how frequently your system will automatically check for updates and what actions it should take, namely notify you, download (without notification), or install updates. You can also specify which releases you would like to be notified of, Normal Releases, Long term releases or Never.
@@ -29,6 +31,7 @@ Screenshot
 
 How to Launch
 -------------
+
 Muon Package Manager -> Settings-> Configure Software Sources
 
 Discover Software Center -> Settings -> Ubuntu (Default) -> Settings (Gear icon) -> Software Sources

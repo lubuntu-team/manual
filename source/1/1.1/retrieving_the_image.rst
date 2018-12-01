@@ -44,9 +44,27 @@ Below you can find more detailed notes on each download method.
 
 Downloading the image via HTTP
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-*We don't recommend using this method as it's often slower and less efficient than the other methods.*
+*We don't recommend using this method as it's often slower, more error prone, and less efficient than the other methods.*
 
 After you download the image, you **must** verify it, as this is the most common reason there are problems with a Lubuntu install. There is `a helpful page on the Ubuntu Community Help wiki <https://help.ubuntu.com/community/VerifyIsoHowto>`_ that can guide you in the right direction.
+
+.. warning:: Downloading via HTTP and not verifying the image can lead to hours of frustration with even the developers quite confused what is happening with your system. With just one bit of the image flipped it will cause massive frustration and a failed install. 
+
+To do this the easiest way is the command line is to run for 64 bit lubuntu 18.10
+
+.. code:: 
+
+ sha256sum lubuntu-18.10-desktop-amd64.iso 
+
+and then carefully check that the output matches 99408e73e5ff11727be6987d9b2f8ee3b6a3b672c9da540a63c8b462a0cf63c4 \*lubuntu-18.10-desktop-amd64.iso
+
+For 32 bit lubuntu 18.10 is to run 
+
+.. code::
+
+   sha256sum lubuntu-18.10-desktop-i386.iso 
+
+and then check carefully the output matches 38e0bf05b6bfc3faa700f779e94cc1b7 \*lubuntu-18.10-desktop-i386.iso
 
 
 Downloading the image via BitTorrent

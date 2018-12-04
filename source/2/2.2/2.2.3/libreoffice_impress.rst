@@ -30,7 +30,7 @@ To change the zoom of you presentation :menuselection:`View --> Zoom --> Zoom` t
 
 On the left there is a panel showing what slides you currently have in left side of the window. To insert a new slide right click on this panel on the left and select new slide or press :kbd:`Control + Enter`. To delete a slide on the left hand slide right click and select delete slide. To create another copy of a slide right click and then select duplicate slide. 
 
-To start a slideshow press :kbd:`f5` or the button the looks like a tv with a triangle on it or :menuselection:`slideshow --> start from the first slide.` To exit the slideshow press escape. To get to the next slide of the slideshow click or press the right arrow key. to get to a previous slide in presentation mode press the left arrow key or right click previous.    
+To start a slideshow press :kbd:`f5` or the button the looks like a tv with a triangle on it or :menuselection:`slideshow --> start from the first slide.` To start a slideshow from the current slide press :kbd:`Shift + f5` or :menuselection:`Slideshow --> Start from current slide`. To exit the slideshow press escape. To get to the next slide of the slideshow click or press the right arrow key. to get to a previous slide in presentation mode press the left arrow key or right click previous.    
 
 Screenshot
 ----------

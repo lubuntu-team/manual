@@ -30,6 +30,8 @@ To go back to a previous page in firefox press the button pointing to the left. 
 
 To go to a specific url in the address bar you can type it in the the main bar in the middle. If you have a url in your clipboard you can paste it here or into the address bar right click and paste and go. Or if you right click into the the clipboard and not immediately go to the page and type in a sub page right click paste and then type to go a specific sub page of the same site and then press enter to go to the page. 
 
+To bookmark a page press :kbd:`Control +D` or Press the button with three vertical lines and slanted one and then the submenu of bookmarks and bookmark this page. To access the bookmark again press that looks like three vertical lines and a slanted one and bookmarks and then select the bookmark you want.
+
 To zoom in if you find the text on a web page to small press :kbd:`control + +`. If you want to zoom out on the text or pictures press :kbd:`control + -`. To reset to the original zoom press :kbd:`control + 0`.
 
 If you want a menubar for firefox right click the tab bar and click the checkbox for menu bar.

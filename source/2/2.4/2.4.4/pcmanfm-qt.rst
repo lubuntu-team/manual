@@ -25,7 +25,7 @@ Pcmanfm-qt can actually launch other applications in places Applications and the
 
 To add a bookmark :menuselection:`Bookmarks --> Add to  Bookmarks`  and it will make a bookmark. To later access this bookmark it will be on the left hand side under bookmarks and under the bookmarks menu. 
 
-If you want to run an executeable script from pcmanfm double click and then click execute on the executeable. 
+If you want to run an executeable script from pcmanfm double click and then click execute on the executeable. If you wish to edit the script you can press the open button. 
 
 Pcmanfm-Qt has different view modes which can be changed in the view menu. To select a view that has bigger thumbnails to view pictures before deciding to open them :menuselection:`View --> View --> Thumbnail View`. If you want to view lists of move data about something like the file size the time it is modified select detailed list view by :menuselection:`View --> View --> Detailed list view`. If you really want to have see as many files in a small area use the compact view or :menuselection:`View --> View --> Compact View`. To return to the original view of pcmanfm-qt is to :menuselection:`View --> View --> Icon View`.  
 

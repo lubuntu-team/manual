@@ -21,7 +21,7 @@ To save your monitor settings press the save button and a pop up will show that 
 
 Multimonitor
 ------------
-With multiple monitors you can in the set position  tab you can drag the different screen around drag the two monitors around. The fast menu extended view sets you to set extended showing different things on different monitors. Selecting a unified view shows the same thing on both screens. First only shows up the first screen while second only shows only the second.  
+With multiple monitors you can in the set position  tab you can drag the different screen around drag the two monitors around. The fast menu extended view sets you to set extended showing different things on different monitors. Selecting a unified view shows the same thing on both screens. First only shows up the first screen while second only shows only the second. The tabs towards the bottom are settings for each monitor.  
 
 Screenshot
 ----------

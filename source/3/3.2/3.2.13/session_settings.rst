@@ -11,6 +11,8 @@ The checkbox for ask confirmation for leaving session gives you a simple yes no 
 
 The autostart applications lets you choose which applications to autostart like managers for print queues. All of these are check-boxes to start various programs. You can start a program at startup by adding it here. Click the add button, give the process a name e.g. "Terminal drop down" and type in the appropriate terminal command e.g. "terminal -d" 
 
+The tab for session settings has many effects for you environment variables for your session. Several of theese varibles relate to hidpi support see `<https://forum.lxqt.org/t/detailed-guide-to-enable-high-dpi-scaling-on-lxqt/507/5>`_ .
+
 If you want to undo changes you have done press the reset button with brown smudge with an X and reset on it. 
 
 Screenshot

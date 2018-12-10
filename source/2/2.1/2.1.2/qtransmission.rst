@@ -25,7 +25,7 @@ To remove a torrent from the list of torrent files right click on it or :kbd:`De
 
 If you want have a move compact view :menuselection:`View --> Compact View` or press :kbd:`Alt + C`. 
 
-To sort your torrents by activity :menuselection:`View --> Sort by Activity`. To sort your torrents by age :menuselection:`View --> Sort by Age`. 
+To sort your torrents by activity :menuselection:`View --> Sort by Activity`. To sort your torrents by age :menuselection:`View --> Sort by Age`. To sort your torrents by name :menuselection:`View --> Sort by Name`. To sort your torrents by Progress :menuselection:`View --> Sort by Progress`. 
 
 How to launch
 -------------

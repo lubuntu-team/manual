@@ -20,7 +20,7 @@ To use libreoffice writer type what you wish to type into the main part of the w
 
 To change the font size There is a drop down box with a number in it you can type the font size you want in this box or select from the dropdown menu. You can change the font with the drop down box to the left of the font size which you can type and it autocompletes the fonts or select from the drop down menu. To make your text bold you can select the text with the mouse and press the button that looks like **B** or press :kbd:`control + B`. To make the font italic press the button that looks like  *I* or press :kbd:`control + I` after selecting the text or keep typing with it to be italic. To make strikethrough press the button that is a s with a line through it.
 
-To copy text select it with the mouse or :kbd:`Shift + arrow key` then press :kbd:`Control +C` or :menuselection:`Edit --> Copy`. To cut text select it first and then press :kbd:`Control +X` or :menuselection:`Edit --> Paste`.
+To copy text select it with the mouse or :kbd:`Shift + arrow key` then press :kbd:`Control +C` or :menuselection:`Edit --> Copy`. To cut text select it first and then press :kbd:`Control +X` or :menuselection:`Edit --> Cut`. To paste text press :kbd:`Control +V` or :menuselection:`Edit --> Paste`. To paste with no formatting press :kbd:`Control + Alt + Shift+ V` or :menuselection:`Edit --> Paste Unformatted Text`.
 
 To change font color press the button that has a T with a drop on it and a red underline this will bring down several differenent colors you can change your text to a color you want. 
 

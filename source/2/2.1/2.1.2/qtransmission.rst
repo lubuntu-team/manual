@@ -21,6 +21,8 @@ While you download your file a progress bar with will show your download for eac
 
 The button with two || circled is a pause button that can pause all downloads and uploads. To start downloading and uploading again to press a button with a triangle to start uploading and downloading again. 
 
+To remove a torrent from the list of torrent files right click on it or :kbd:`Delete` and click remove. To delete the files and remove the torrent from the list right click Delete files and remove or press :kbd:`Shift +Delete`. 
+
 How to launch
 -------------
 

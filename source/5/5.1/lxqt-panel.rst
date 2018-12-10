@@ -5,7 +5,7 @@ LXQt Panel is the bar situated at the bottom of your screen by default. The pane
 Usage
 ------
 
-The application menu allows you to browse and search through available programs; a keyboard shortcut is conveniently available for this and is set to :kbd:`Alt +F1` by default. The menu has many subcategories to launch each application. The desktop switcher allows you to switch to another virtual desktop, allowing you to keep your workspace organized. The quick launch bar allows you to conveniently launch your file explorer (PCManFM) and web browser (Firefox). To add a program to quick launch open the menu and find it there and drag it down onto the panel. 
+The application menu allows you to browse and search through available programs; a keyboard shortcut is conveniently available for this and is set to :kbd:`Alt +F1` by default. The menu has many subcategories to launch each application. The leave menu has how to Hibernate, Leave, Logout, Reboot, Shutdown, or Suspend. The desktop switcher allows you to switch to another virtual desktop, allowing you to keep your workspace organized. The quick launch bar allows you to conveniently launch your file explorer (PCManFM) and web browser (Firefox). To add a program to quick launch open the menu and find it there and drag it down onto the panel. 
 
 
 .. image:: menu_search.png

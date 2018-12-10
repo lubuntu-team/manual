@@ -23,9 +23,9 @@ To use Sasl authentication to autologin to an account no matter which nickname y
 
 If you want to have settings for automatic recoonecting :menuselection:`File --> Network --> Configure network` and slect the Connection tab. The checkbox for auto reconnect will automatically rejoin chats if you get disconnected. The wait filed shows how long to between the retries between each try. The checkbox for rejoin all channels after reconnecting lets you rejoin all of your channels without having to manual rejoin each. The number of retries is how many times to retry to connect before stopping. To have an unlimited number of retries click the unlimited number of checkboxes.    
 
-To add close the list of nicknames or channels press the X button. To reopen the view of nicks :menuselection:`View --> Nicks`.  
+To add close the list of nicknames or channels press the X button. To reopen the view of nicks :menuselection:`View --> Nicks`. To close the list of all chats press the X button to close a list of all channel and private messages you are in. To reopen it press the :menuselection:`View --> Chat lists --> All chats`. 
 
-To make your chat full screen :menuselection:`View --> Full Screen Mode` or :kbd:`Control + Shift +F`.
+To make your chat full screen :menuselection:`View --> Full Screen Mode` or :kbd:`Control + Shift +F`. 
 
 To change your settings on your notifications :menuselection:`Settings --> Notificiations`.
 

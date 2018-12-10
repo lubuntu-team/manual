@@ -25,6 +25,8 @@ If you want to have settings for automatic recoonecting :menuselection:`File -->
 
 To add close the list of nicknames or channels press the X button. To reopen the view of nicks :menuselection:`View --> Nicks`.  
 
+To make your chat full screen :menuselection:`View --> Full Screen Mode` or :kbd:`Control + Shift +F`.
+
 To change your settings on your notifications :menuselection:`Settings --> Notificiations`.
 
 To select all of your Settings for Quassel :menuselection:`Settings --> Configure Quassel`. 

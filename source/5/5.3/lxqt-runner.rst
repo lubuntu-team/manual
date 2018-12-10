@@ -7,7 +7,7 @@ Runner allows you to search for and launch applications and commands in the LXQt
 Usage
 ------
 
-To search for a program, press :kbd:`Alt + F2` and start typing a command. The search results will show below, similar to address bar behavior in browsers. All installed applications can be launched this way and lxqt-runner can configured to store a history of recent programs. If you want to clear history open the downard pointing menu :menuselection:`Clear History`.
+To search for a program, press :kbd:`Alt + F2` and start typing a command. The search results will show below, similar to address bar behavior in browsers. All installed applications can be launched this way and lxqt-runner can configured to store a history of recent programs. If you want to clear history open the downard pointing menu :menuselection:`Clear History`. The runner even lets you logout, shutdown, or other ways to leave your session through the runner. 
 
 
 Configuration

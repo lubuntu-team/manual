@@ -44,6 +44,8 @@ To select all text in the document press :kbd:`control + A` or :menuselection:`E
 
 To zoom for the entire page to be visible :menuselection:`View --> Zoom --> Entire Page`. To zoom so you can see the width of the page and everything is bigger :menuselection:`View --> Zoom ---> Page width`.  
 
+To have a view of the document with no margins shown like on a webpage :menuselection:`View --> Web` or To get back to the original view :menuselection:`View --> Menu`. 
+
 To toggle your view of rulers press :kbd:`Control + Shift +R` or :menuselection:`View --> Rulers --> Rulers`.  
 
 Screenshot

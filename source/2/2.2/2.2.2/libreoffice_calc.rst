@@ -11,7 +11,7 @@ To save your spreadsheet you need to press the button that looks like a floppy d
 
 To copy data you can right click copy, press the button with two pieces of paper or press :kbd:`control + c`. To paste data press control :kbd:`control +v`, :menuselection:`edit -->  paste`, right click paste or press the botton that is a clipboard with a piece of paper on it. To cut text press :kbd:`control+x` or press the sciors button to cut text. If you want to paste your text unformatted press :kbd:`Control+Shift + Alt+V` or :menuselection:`Edit --> Paste Unformatted Text`.
 
-To insert an image press :menuselection:`Insert --> Image`.
+To insert an image press :menuselection:`Insert --> Image`. To get to the dialog of how to insert a chart :menuselection:`Insert --> Chart`. The the first selection is to choose a column, bar, Pie, Area, Line, XY(Scatter), Bubble, Net, Stock, or Column and Line chart.   
 
 To change the size of a  row or colum of cells click in between the border of that particular row or column and drag with the mouse to give yourself room. 
 

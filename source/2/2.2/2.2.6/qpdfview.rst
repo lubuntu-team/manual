@@ -56,6 +56,8 @@ If you want to reset these settings to the defaults is to press the defaults but
 
 To deal with settings on graphics press press on the graphics tab. The settings for paper color will has a drop down menu for previewing what it is like printing on colored paper. The checkbox for prefetch will preload pages not directly viewed by the pdf viewer not directly on the screen however this will use more resources. The drop down for cache size will larger will use up more resources but will make loading pdfs much faster. 
 
+To change the interface settings click on the interface tab.  If you want the tabs to be spread out press the spread tabs checkbox. The the tab position changes where the tabbar on the window. The tab visibility can be set to as needed, always or never.  
+
 Version
 -------
 Lubuntu ships with version 0.4.17 of qpdfview.

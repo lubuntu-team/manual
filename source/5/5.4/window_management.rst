@@ -32,6 +32,10 @@ Useful keyboard shortcuts
 -   Resizing windows, :kbd:`Super (windows key) + directional arrows`.
 -   Show desktop with :kbd:`Control + Alt + D`.  
 
+Virtual Desktop Switching
+-------------------------
+To switch to the next virtual desktop press :kbd:`Control +Alt + Right arrow`. To shift to the previous virtual desktop press :kbd:`Control+ Alt + Left Arrow`. To Do this with a combination of mouse wheel and keyboard :kbd:`Alt+ Mousewheel`.
+
 Screenshots
 -----------
 .. image:: snap_left_right.png

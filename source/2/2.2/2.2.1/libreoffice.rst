@@ -9,6 +9,8 @@ To open a recently used file in libreoffice they are shown in the main part of t
 
 Libreoffice all of the different components have a window menu that lets you switch between a document in libreoffice writer and libreoffice calc. To do this go to :menuselection:`Window` and sleect the window that you want to switch to. 
 
+Libreoffice if you shutdown without saving your work libreoffice will automatically recover the document. If you do not want to recover a document press the discard button. If you want to automatically recover the document press the start button.
+
 Screenshot
 ----------
 .. image:: libreoffice.png

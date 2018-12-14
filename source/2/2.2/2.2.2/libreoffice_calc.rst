@@ -13,7 +13,7 @@ To copy data you can right click copy, press the button with two pieces of paper
 
 To insert an image press :menuselection:`Insert --> Image`. To get to the dialog of how to insert a chart :menuselection:`Insert --> Chart`. The the first selection is to choose a column, bar, Pie, Area, Line, XY(Scatter), Bubble, Net, Stock, or Column and Line chart. To change the subtype of graph click the pciture of a chart that looks like the type you want.
 
-If you want to insert a new column to the left of a column right click on the letter for the column Insert column left. If you want the new column to the right is right click on the letter and insert column right. If you want to delete a column right click on the letter and delete column. 
+If you want to insert a new column to the left of a column right click on the letter for the column Insert column left. If you want the new column to the right is right click on the letter and insert column right. If you want to delete a column right click on the letter and delete column. To insert a row above the current row right click on the number and insert row above. To insert a row below the current row right click on the number and insert row below. To delte a row right click the number delete rows.  
 
 To change the size of a  row or colum of cells click in between the border of that particular row or column and drag with the mouse to give yourself room. 
 

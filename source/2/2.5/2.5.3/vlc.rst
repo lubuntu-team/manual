@@ -9,7 +9,7 @@ To open media stored locally on your system click media open :menuselection:`med
 
 To pause playback of a file press the button that look like two verical lines or :menuselection:`Playback --> Pause`. To resume playback press the right playback button. To toggle fullscreen press the button which has the four corners of the screen or :menuselection:`Video --> Fullscreen` to make it fullscreen and the four screens to have it back into windowed mode. 
 
-On the bottom right of vlc there is a bar that gets wider for volume. Click farther to the right to increase volume within vlc. Or hover the cursor over this bar and use the mousewheel to control volume. The button that looks like a speaker next to this toggles mute in vlc.  Another way to mute the volume is to :menuselection:`Audio --> Mute`. 
+On the bottom right of vlc there is a bar that gets wider for volume. Click farther to the right to increase volume within vlc or press :kbd:`Up arrow` to increase volume or :kbd:`Down arrow` to decrease volume. Or hover the cursor over this bar and use the mousewheel to control volume. The button that looks like a speaker next to this toggles mute in vlc.  Another way to mute the volume is to :menuselection:`Audio --> Mute`. 
 
 To make the same sound come out of both speakers go to :menuselection:`Audio --> Stereo mode --> Mono`. The sound to make a different left and right channel on each speaker will be :menuselection:`Audio --> Stereo Mode --> Stereo`. To make all sound come from the left channel :menuselection:`Audio --> Stereo Mode --> Left` and likewise for Right.  
 

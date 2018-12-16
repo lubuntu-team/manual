@@ -31,6 +31,8 @@ Pcmanfm-Qt has different view modes which can be changed in the view menu. To se
 
 To reverse the order that pcmanfm-Qt sorts files :menuselection:`View --> Sorting --> Descending` or conversly to switch back :menuselection:`View --> Sorting -->Ascending.` To sort by file name :menuselection:`View --> Sorting --> By file name`. To sort by modification :menuselection:`View --> Sorting --> By modification time`. To sort by file size :menuselection:`View --> Sorting --> By file size`. To sort by file type :menuselection:`View --> Sorting --> By file type`. To sort by owner :menuselection:`View --> Sorting --> By Owner`. To seperate all folders first in sorting check the checkbox in :menuselection:`View --> Sorting --> Folder First`. To sort with case sensitive check the checkbox in :menuselection:`View --> Sorting --> Case sensitive`.  
 
+To change your path bar to buttons :menuselection:`View --> Pathbar --> Location` and to get 
+back to a pathbar you can type into :menuselection:`View --> Pathbar --> Path Buttons`.
 
 pcmanfm-qt when right clicking has special options for dealing with archieves such as tar or zip files. To extract the files in the current directory right click and select extract here. You can also extract to another location with right clicking and selecting extract to and a dialog will pop up showing to where to extract the file.  
 

@@ -8,7 +8,7 @@ Discover allows you to search for applications by using the search box. Clicking
 
 To search for programs in discover type in the search bar in the upper left or press :kbd:`Control + F`.  
 
-Discover allows you to update software using the Updates tab located on the bottom of the left column. You can click the button to "check for updates" manually.
+Discover allows you to update software using the Updates tab located on the bottom of the left column. You can click the button to "check for updates" manually. If you have updates that need to be installed Update with a gear and will be highlighted in orange and the number of updates that are available.
 
 To remove software use the Installed tab. You can browse your installed packages, search using the search bar (upper left corner), and the click the remove button to remove software.
 

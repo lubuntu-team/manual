@@ -21,7 +21,7 @@ To connect to a remote server such as a NAS go to the :menuselection:`go -->  Co
 
 To see hidden files press :kbd:`control +h`, right click show hidden, or go to:menuselection:`view --> show hidden`. Press the same thing again to hide hidden files again. To open a terminal in your current folder press :kbd:`f4`  or :menuselection:`Tool --> Open terminal` from the menu. To search for files press :kbd:`f3` or :menuselection:`Tool --> search` for files. To view the properties of a file or folder right click on it and select properties from the menu or press :kbd:`Alt +Enter`. General will show you the size of the file where the file is and when it was last modified or accessed. The permissions tab will show you who owns the file which if you can't change it will be grayed out and who has permisson to read modify and execute the file.
 
-Pcmanfm-qt can actually launch other applications in places Applications or :menuselection:`Go --> Applications` and then gets all the tasks in the menu in lxqt-panel.
+Pcmanfm-qt can actually launch other applications in places Applications or :menuselection:`Go --> Applications` and then gets all the tasks in the menu in lxqt-panel. To view what files are on your desktop :menuselection:`Go --> Desktop` or on the places sidebar press the desktop item on the left.
 
 To add a bookmark :menuselection:`Bookmarks --> Add to  Bookmarks`  and it will make a bookmark. To later access this bookmark it will be on the left hand side under bookmarks and under the bookmarks menu. 
 

@@ -21,7 +21,7 @@ The :guilabel:`icons theme tab` changes desktop icons on your computer and if yo
 
 The tab for :guilabel:`LXQt theme` lets you change how the panel and notifictions appear.
 
-To change the font size that desktop applications use choose the font tab and use the point size and enter in the size you want or use the up and down arrows to increase or decrease font size respectively. To change the default font there is a drop down box for font name that you can type the font name you or select from the drop down menu. The checkbox for antialias and font hinting for fonts lets you also set antialiased fonts which are enabled for easier screen viewing. The DPI sets the resolution of your screen or dots per inch.  
+ The :guilabel:`Font` tab has settings for fonts. To change the font size that desktop applications use choose the font tab and use the point size and enter in the size you want or use the up and down arrows to increase or decrease font size respectively. To change the default font there is a drop down box for font name that you can type the font name you or select from the drop down menu. The checkbox for antialias and font hinting for fonts lets you also set antialiased fonts which are enabled for easier screen viewing. The DPI sets the resolution of your screen or dots per inch.  
 
 .. image:: appearance-font.png
 

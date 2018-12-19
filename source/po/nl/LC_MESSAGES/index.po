@@ -4,24 +4,27 @@
 # This file is distributed under the same license as the Lubuntu Manual
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
-#, fuzzy
+# Daan van Oirschot <daan1575@outlook.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-01-02 03:03+0000\n"
+"Last-Translator: Daan van Oirschot <daan1575@outlook.com>\n"
+"Language-Team: Dutch <https://translate.lubuntu.me/projects/lubuntu/"
+"manual-index/nl/>\n"
+"Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/index.rst:2
 msgid "Welcome to the Lubuntu Manual!"
-msgstr ""
+msgstr "Welkom bij de Lubuntu handleiding!"
 
 #: ../../source/index.rst:4
 msgid ""
@@ -29,10 +32,13 @@ msgid ""
 "using Lubuntu. This manual covers many topics, such as installation "
 "instructions, applications Lubuntu provides, and much more!"
 msgstr ""
+"Welkom in de Lubuntu handleiding! Dit is het officiële referentie boek voor "
+"het gebruik van Lubuntu. Deze handleiding behandeld meerdere onderwerpen, "
+"zoals installatie instructies, appliecaties in Lubuntu, en nog veel meer!"
 
 #: ../../source/index.rst:7
 msgid "What is Lubuntu?"
-msgstr ""
+msgstr "Wat is Lubuntu?"
 
 #: ../../source/index.rst:9
 msgid ""
@@ -44,6 +50,13 @@ msgid ""
 " `we have recently refocused <https://lubuntu.me/taking-a-new-"
 "direction/>`_."
 msgstr ""
+"Het doel van het project is het leveren van een lichtgewicht maar toch "
+"functionerende Linux distributie gebazeerd op Ubuntu base. Lubuntu levert "
+"een simpele maar krachtige grafische gebruikers interface, en komt met een "
+"groot scala aan appliecaties zodat je kan browsen, emailen, chatten en "
+"productief bezig zijn. 'Vroeger was Lubuntu een distributie voor low-end "
+"hardware, we hebben nu ons doel verlegd <https://lubuntu.me/"
+"taking-a-new-direction/>`_."
 
 #: ../../source/index.rst:11
 msgid ""
@@ -52,14 +65,18 @@ msgid ""
 "releases of Lubuntu. Lubuntu received official recognition as a formal "
 "member of the Ubuntu family beginning with Lubuntu 11.10."
 msgstr ""
+"De teamleden zorgen voor LXQt en andere pakketjes die deel uit maken van "
+"Lubuntu in het Ubuntu argief, even min als het LXDE pakket in de LTS "
+"uitgaven van Lubuntu. Lubuntu kreeg officiële erkenning als formeel lid van "
+"de Ubuntu-familie, beginnend met Lubuntu 11.10."
 
 #: ../../source/index.rst:14
 msgid "Contents"
-msgstr ""
+msgstr "Inhoud"
 
 #: ../../source/index.rst:29
 msgid "Contact Us"
-msgstr ""
+msgstr "Neem contact op"
 
 #: ../../source/index.rst:31
 msgid ""
@@ -69,28 +86,32 @@ msgid ""
 "us <https://lubuntu.me/links/>`_, and `our Phabricator instance "
 "<https://phab.lubuntu.me/>`_ where we do most of the Lubuntu development."
 msgstr ""
+"Heeft u vragen? Wil je meedoen? Neem een kijkje op onze officiële website op "
+"'Lubuntu.me <https://lubuntu.me> `_ waar` de Lubuntu-blog <https://lubuntu."
+"me/blog/> `_,` manieren te vinden zijn in contact met ons <https://lubuntu."
+"me/links/> `_, en` ons Phabricator-exemplaar <https://phab.lubuntu.me/> `_ "
+"waar we het grootste deel van de ontwikkeling van Lubuntu doen."
 
 #: ../../source/index.rst:34
 msgid "Thank you!"
-msgstr ""
+msgstr "Bedankt!"
 
 #: ../../source/index.rst:36
 msgid "Thank you for choosing to use Lubuntu!"
-msgstr ""
+msgstr "Bedankt voor het kiezen van Lubuntu!"
 
 #: ../../source/index.rst
 msgid "Authors"
-msgstr ""
+msgstr "Auteurs"
 
 #: ../../source/index.rst:38
 msgid "Simon Quigley, Lyn Perrine, Jacob Kim, Daniel Lim"
-msgstr ""
+msgstr "Simon Quigley, Lyn Perrine, Jacob Kim, Daniel Lim"
 
 #: ../../source/index.rst
 msgid "Translators"
-msgstr ""
+msgstr "Vertalers"
 
 #: ../../source/index.rst:39
 msgid "Marcin Mikołajczak"
-msgstr ""
-
+msgstr "Marcin Mikołajczak"

@@ -15,11 +15,11 @@ To change the useage Qt widget will change the buttons and tooblbars look on lub
  .. image:: appearance.png
 
 
-The icons theme changes desktop icons on your computer and if you click on the icon theme which is previewed on horizontal rows. The icon theme is will change how all the icon look and how some button looks in other windows as well for like reset button as well. 
+The :guilabel:`icons theme tab` changes desktop icons on your computer and if you click on the icon theme which is previewed on horizontal rows. The icon theme is will change how all the icon look and how some button looks in other windows as well for like reset button as well. 
 
  .. image:: appearance-icon-theme.png
 
-The tab for LXQt theme lets you change how the panel and notifictions appear.
+The tab for :guilabel:`LXQt theme` lets you change how the panel and notifictions appear.
 
 To change the font size that desktop applications use choose the font tab and use the point size and enter in the size you want or use the up and down arrows to increase or decrease font size respectively. To change the default font there is a drop down box for font name that you can type the font name you or select from the drop down menu. The checkbox for antialias and font hinting for fonts lets you also set antialiased fonts which are enabled for easier screen viewing. The DPI sets the resolution of your screen or dots per inch.  
 

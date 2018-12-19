@@ -18,7 +18,7 @@ If you wish to open a text file press the button that looks like a black and whi
 
 To type things into your text file the main part of the window similar to a word porcessor. If you are programming with featherpad the file extension will probably automatically select the correct syntax highlighting. To view line numbers of the file press :kbd:`control +l` or :menuselection:`options --> line numbers`. 
 
-To open a new tab and empty text file press the button with a piece of paper with a plus symbol on it. If you wish to close a tab press the red x button.
+To open a new tab and empty text file press the button with a piece of paper with a plus symbol on it, or press :kbd:`Control + N`. If you wish to close a tab press the red x button.
 
 If you make a mistake and want to undo it press :kbd:`control + z` or press the button that looks like a curved arrow pointing towards the left. To redo a change you have undone press the button with a curved arrow pointing towards the right. 
 

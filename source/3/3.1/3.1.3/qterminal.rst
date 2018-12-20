@@ -16,7 +16,7 @@ To change your preferences go to :menuselection:`file --> preferences`. To chang
 
 The box for showing close button on each tab if unchecked will not have a button to close each tab will not have the red x button  on each tab. 
 
-To apply these changes to see how they appear on qterminal press the apply button. If you like your new customized terminal layout press the OK button or if you wish to cancel your changes press the cancel button. 
+To apply these changes to see how they appear on qterminal press the :guilabel:`apply` button. If you like your new customized terminal layout press the OK button or if you wish to cancel your changes press the :guilabel:`cancel` button. 
 
 Version
 -------

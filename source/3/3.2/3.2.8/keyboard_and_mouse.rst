@@ -11,7 +11,7 @@ Useage
 ------
 The :guilabel:`Mouse` tab provides settings for how fast the mouse moves scrolls and double clicks. To increase the sensitivity of the mouse drag the slider next to sensitivity towards the right or conversely to decrease senseativity drag the slider towards less sensitivity. To increase acceleration of the mouse drag the slider to the right for accelration and to make the mouse accelerate slower drag it to the left. The settings should apply immediately so make sure the mouse moves how you want it. If you do not like the new settings press the reset button to go back to your previous settings. 
 
-.. image:: keybaordandmouse.png
+.. image:: keyboardandmouse.png
 
 If you wish to only have to click once to activate buttons normally requiring two clicks check the single click to activate items checkbox. If you wish to swap left and right buttons on your mouse press the left handed button on the mouse. Note that this also swaps the button on a touchpad. 
 

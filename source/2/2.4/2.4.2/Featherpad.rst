@@ -14,7 +14,7 @@ It supports:
 
 Useage
 ------
-If you wish to open a text file press the button that looks like a black and white folder or press :kbd:`control + o` to open a file. To open a new file press the button that looks like a piece of paper with a plus sign. To save your file after typing in the main part of the window press the button that looks like a floppy disk or press controlTo save your file after typing in the main part of the window press the button that looks like a floppy disk or press :kbd:`control +s`. To reload a file if something else has changed that file in featherpad press the arrow that loops back on itself to reload the page. 
+If you wish to open a text file press the button that looks like a black and white folder or press :kbd:`control + o` to open a file. To view your recently modified files :menuselection:`File --> Recently modified`.  To open a new file press the button that looks like a piece of paper with a plus sign. To save your file after typing in the main part of the window press the button that looks like a floppy disk or press controlTo save your file after typing in the main part of the window press the button that looks like a floppy disk or press :kbd:`control +s`. To reload a file if something else has changed that file in featherpad press the arrow that loops back on itself to reload the page. 
 
 To type things into your text file the main part of the window similar to a word porcessor. If you are programming with featherpad the file extension will probably automatically select the correct syntax highlighting. To view line numbers of the file press :kbd:`control +l` or :menuselection:`options --> line numbers`. 
 

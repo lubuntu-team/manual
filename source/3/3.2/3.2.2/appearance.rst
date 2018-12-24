@@ -27,7 +27,7 @@ The tab for :guilabel:`LXQt theme` lets you change how the panel and notifiction
 
 The :guilabel:`cursor` tab has one option to change cursor theme lets you change how the cursor looks with two themes installed by default but more available in the package repositories. 
 
-If you want to reset your changes you will need to click the reset button to revert your changes to how they were before.
+If you want to reset your changes you will need to click the :guilabel:`reset` button to revert your changes to how they were before.
 
 
 How to launch

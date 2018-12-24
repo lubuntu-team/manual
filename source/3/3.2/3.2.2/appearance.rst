@@ -10,7 +10,8 @@ Lubuntu ships with version 0.13.0 of appearance.
 
 Useage
 ------
-To change the useage Qt widget will change the buttons and tooblbars look on lubuntu in Qt applications. Check to apply Set GTk settings will apply to GTk applications. The checkbox to apply on single click has makes things you normally need two clicks for one click.  
+To change the useage Qt widget will change the buttons and tooblbars look on lubuntu in Qt applications. Check the checkbox :guilabel:`apply Set GTk` settings will apply native themes to GTk applications. The checkbox :guilabel:`Activate on single click` has makes things you normally need two clicks for one click.  
+
 
  .. image:: appearance.png
 

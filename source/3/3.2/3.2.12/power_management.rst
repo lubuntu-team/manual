@@ -11,7 +11,7 @@ The level low changes when the battery is considered low power.
 
 On a laptop power management should show a + with a ring around it represeneting your current battery charge on your laptop when it is charging with a full green circle meaning you are fully charged in the system tray. If your battery is discharging you will see a - sybmol at the center of the circle. If you hover the mouse cursor over this it will show the percent of charge as a percentage and whether the battery is charging or discharging. When your battery is fully charged it will turn into a black circle. 
 
- The :guilabel:`Lid` tab manages settings for when you close your laptop lid. The lid watcher lets you choose to suspend or shut off your computer when the lid is closed on battery or on AC. The checkbox for :guilabel:`Enable Lid Watcher` enables actions to be taken when the laptop lid is closed and of course unchecking means it won't take any action. The :guilabel:`On battery` field changes what action to take when your laptop is on battery.  
+ The :guilabel:`Lid` tab manages settings for when you close your laptop lid. The lid watcher lets you choose to suspend or shut off your computer when the lid is closed on battery or on AC. The checkbox for :guilabel:`Enable Lid Watcher` enables actions to be taken when the laptop lid is closed and of course unchecking means it won't take any action. The :guilabel:`On battery` field changes what action to take when your laptop which each does it like it sounds like.   
 
 Screenshot
 ----------

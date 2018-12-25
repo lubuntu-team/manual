@@ -16,6 +16,8 @@ The :guilabel:`input devices` tab manager your sound inputs. To mute your microp
 
 .. image:: pavucontrol-input.png
 
+The :guilabel:`Configuration` tab has different sound profiles. 
+
 Version
 -------
 Lubuntu ships with version 0.4.0 Pulse Audio Volume Control. 

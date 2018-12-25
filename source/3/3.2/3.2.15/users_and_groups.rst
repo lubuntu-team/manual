@@ -13,6 +13,8 @@ The :guilabel:`users` tab lets you manage Users.To create a new useage create a 
 
 To change your users password you can press on the button with a key and enter the new password and enter new password and then use a password to authenticate that you have permission to do this. 
 
+The :guilabel:`Groups` tabs lets you see info on groups and change properties. The :guilabel:`Name` field shows the name of the group. The :guilabel:`Group ID` shows the numeric group id of the group in the name field. The :guilabel:`Members` show the members of the current group.   
+
 Screenshot
 ----------
 .. image:: users_and_groups.png

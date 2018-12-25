@@ -31,7 +31,7 @@ qpdfview also includes some very useful docks. To view the outline dock, in the 
 
 To view two pages at once like if you want to see a two page spread of an illustration in a pdf of a book press :kbd:`Control + 6` or :menuselection:`View --> Two pages`. To get your view back to normal press :kbd:`Control +6` agian or :menuselection:`View --> Two pages` again.  To toggle the view of three pages at a time press :kbd:`Control +4` or :menuselection:`View --> Multiple pages`.  
 
-To search through your pdf file you can press :kbd:`control + f` or from the menu :menuselection:`edit --> search`. You will get taken to the results and will appear highligheted in yellow to see through the results you can press the down arrow to see results farther in the document and press the up arrow to see results towards the start of the document.
+To search through your pdf file you can press :kbd:`control + f` or from the menu :menuselection:`edit --> search`. You will get taken to the results and will appear highligheted in yellow to see through the results you can press the down arrow to see results farther in the document and press the upward pointed arrow button to see results towards the start of the document.
 
 To make qpdfview fullscreen you can press :kbd:`f11`. To enter presentation mode you can press :kbd:`f12` wihch is makes the content of the pdf take up the fullscreen and gives you no menubars. To exit presentation mode you can press :kbd:`f12` again. To advance to the next page in the presentation press the spacebar or the right arrow. To go back a page in presentation press the left arrow.
 

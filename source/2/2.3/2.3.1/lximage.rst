@@ -5,7 +5,7 @@ Lximage is the default image viewer for lubuntu.
 
 Useage
 ------
-To open a picture press :menuselection:`File --> Open`, :kbd:`Control + O`, or press the button that looks like a opening folder. If you do not like the picture press :kbd:`Del` or :menuselection:`File --> Delete`. 
+To open a picture press :menuselection:`File --> Open`, :kbd:`Control + O`, or press the button that looks like a opening folder. If you do not like the picture press :kbd:`Del` or :menuselection:`File --> Delete`. If you want to upload a picture to share it online press :menuselection:`Edit --> Upload`. 
 
 To use lximage use the arrow to the right to view the next file in the folder and the arrow to the left to view the previous folder. To open a new picture press the open button which looks like a blue folder with a piece of paper in it. To save the file as something press the button that looks like a floppy disk.
 
@@ -15,7 +15,7 @@ To rotate an image to the right press the circular arrrow that points to the rig
 
 To flip your image on the vertical axis :menuselection:`Edit --> Flip Vertically`. To flip your image on the horizontal axis :menuselection:`Edit --> Flip Horizonatally`. 
 
-To copy an image to the clipboard you can :menuselection:`Copy to Clipboard`. To paste an image to the clipboard :menuselection:`Paste to Clipboard`.  
+To copy an image to the clipboard you can :menuselection:`Copy to Clipboard`. To paste an image to the clipboard :menuselection:`Paste from Clipboard`.  
 
 To view the next picture on your image press the right arrow and conversly to view the previous image press the left arrow. To view thumbnials of the current directory you can toggle thumbnials and thumbnails will show at the buttom  with a scrollbar at the bottom of the window to view the whole folder. You can also scroll between different pictures with the mousewheel as well. To jump to the first picture press :kbd:`home` or :menuselection:`Go --> First File`. To jump to the last picture press :kbd:`end` or :menuselection:`Go --> Last File`.   
 

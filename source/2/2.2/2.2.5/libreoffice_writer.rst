@@ -26,7 +26,9 @@ To change font color press the button that has a T with a drop on it and a red u
 
 To make text superscript press the button with A and a smaller B located above it as if it in superscript. To make text subscript press the button that is an A with a smaller B located slightly below it. 
 
-If you want text in a text box that can be moved with the mouse press the button that looks like a T with a box around it or :menuselection:`Insert --> Text box`. To insert a hyperlink press :kbd:`Control + K` or :menuselection:`Insert --> Hyperlink`. To add multiple columns to your document :menuselection:`Format --> Columns`.
+If you want text in a text box that can be moved with the mouse press the button that looks like a T with a box around it or :menuselection:`Insert --> Text box`. To insert a hyperlink press :kbd:`Control + K` or :menuselection:`Insert --> Hyperlink`. 
+
+To add multiple columns to your document :menuselection:`Format --> Columns`. To have multiple columns in the field that says :guilabel:`Columns` and set to the number of columns you want. When you are done with your settings press the :guilabel:`OK` button or if you decide you do not want to make changes to columns press the :guilabel:`Cancel` button.
 
 To check the spelling of your document press the ABC button with a checkmark, from the menu -> tools spelling or press :kbd:`f7`. To view how your document looks before printing it :menuselection:`File --> Print preview` or :kbd:`Control +Shift +O`. To get back to editing your document press the same thing again or click the close preview button. After you are done writing your document you can press the button that looks like a printer to print, press :kbd:`control+ p` or :menuselection:`file --> print`. To view your word count of how many words are currently in the document is with nothing slected at the bottom of the libreoffice writer window. If you select text with the mouse you can also see the word count of selection from the same spot.  
 

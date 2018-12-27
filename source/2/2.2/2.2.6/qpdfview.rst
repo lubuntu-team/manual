@@ -33,7 +33,7 @@ To view two pages at once like if you want to see a two page spread of an illust
 
 To search through your pdf file you can press :kbd:`control + f` or from the menu :menuselection:`edit --> search`. You will get taken to the results and will appear highligheted in yellow to see through the results you can press the down arrow to see results farther in the document and press the upward pointed arrow button to see results towards the start of the document.
 
-To make qpdfview fullscreen you can press :kbd:`f11`. To enter presentation mode you can press :kbd:`f12` wihch is makes the content of the pdf take up the fullscreen and gives you no menubars. To exit presentation mode you can press :kbd:`f12` again. To advance to the next page in the presentation press the spacebar or the right arrow. To go back a page in presentation press the left arrow.
+To make qpdfview fullscreen you can press :kbd:`f11`. To enter presentation mode you can press :kbd:`f12` wihch is makes the content of the pdf take up the fullscreen and gives you no menubars. To exit presentation mode you can press :kbd:`f12` again. To advance to the next page in the presentation press the :kbd:`spacebar` or the :kbd:`right arrow`. To go back a page in presentation press the :kbd:`left arrow`. To exit the presentation press :kbd:`escape`.
 
 To make an annotation press :kbd:`Control +A` or :menuselection:`Edit --> Add annotation`. To view the annotation you have made or edit it again press click on what looks like a sticky note with a pin in it. To remove your annotation right click on the annotation and click remove annotation. If you just want to highligh something slect add highlight at the context menu right then.  
 

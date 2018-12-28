@@ -28,6 +28,10 @@ To change what font you want select :menuselection:`option --> font` to change y
 
 To print a text :menuselection:`file --> Print` or press :kbd:`control + p`.  
 
+Customizing
+------------
+To view the prefrences for featherpad press :kdb:`control +Shift +P` or :menuselection:`Options --> Prefrences`. 
+
 Screenshot
 ----------
 .. image:: featherpad.png

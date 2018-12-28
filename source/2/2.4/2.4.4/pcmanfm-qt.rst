@@ -27,7 +27,7 @@ The :guilabel:`permissions` tab will show you who owns the file which if you can
 
 Pcmanfm-qt can actually launch other applications in places Applications or :menuselection:`Go --> Applications` and then gets all the tasks in the menu in lxqt-panel. To view what files are on your desktop :menuselection:`Go --> Desktop` or on the places sidebar press the desktop item on the left.
 
-To add a bookmark :menuselection:`Bookmarks --> Add to  Bookmarks`  and it will make a bookmark. To later access this bookmark it will be on the left hand side under bookmarks and under the bookmarks menu. 
+To add a bookmark :menuselection:`Bookmarks --> Add to  Bookmarks`  and it will make a bookmark. To later access this bookmark it will be on the left hand side under :guilabel:`bookmarks` and under the bookmarks menu. 
 
 If you want to run an executeable script from pcmanfm double click and then click execute on the executeable. If you wish to edit the script you can press the open button. 
 

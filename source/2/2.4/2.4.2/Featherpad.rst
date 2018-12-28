@@ -24,7 +24,7 @@ If you make a mistake and want to undo it press :kbd:`control + z` or press the 
 
 To search your text file press :kbd:`Control + f` or :menuselection:`search --> find` from the menu. Then in the bar on the bottom search for the text you want. Press the down arrow to move to the next result and the up arrow to move for the previous result in the text file. To jump to a particular line in a file press :kbd:`control +j` or search jump to or the button that looks like >>. Then in the bar at the bottom type in what line you want to jump to. To find and replace text press :kbd:`control +r` or :menuselection:`search --> Replace`. Type the text you want to Find in the find field and type what you want to put in with the Replace with field and then press enter to finish the finding and replacing through the whole file. 
 
-To change what font you want select :menuselection:`option --> font` to change your font sizes. To change each font on the on the font level. To change the size type the size you or select it from the drop down menu. To select a font size simply use a font style of italic or oblique. To view a sample of your font :guilabel:`Sample` and will preview your text. 
+To change what font you want select :menuselection:`option --> font` to change your font sizes. To change each font on the on the font level. To change the size type the size you or select it from the :guilabel:`Size` drop down menu. To select a font size simply use a font style of italic or oblique. To add an underlined font check the :guilabel:`Underline` checkbox. To view a sample of your font :guilabel:`Sample` and will preview your text. 
 
 To print a text :menuselection:`file --> Print` or press :kbd:`control + p`.  
 

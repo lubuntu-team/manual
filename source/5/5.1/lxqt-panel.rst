@@ -5,7 +5,7 @@ LXQt Panel is the bar situated at the bottom of your screen by default. The pane
 Usage
 ------
 
-The application menu allows you to browse and search through available programs; a keyboard shortcut is conveniently available for this and is set to :kbd:`Alt +F1` by default. The desktop switcher allows you to switch to another virtual desktop, allowing you to keep your workspace organized. The quick launch bar allows you to conveniently launch your file explorer (PCManFM) and web browser (Firefox). To add a program to quick launch open the menu and find it there and drag it down onto the panel. 
+The application menu allows you to browse and search through available programs; a keyboard shortcut is conveniently available for this and is set to :kbd:`Alt +F1` by default. The menu has many subcategories to launch each application. The leave menu has how to Hibernate, Leave, Logout, Reboot, Shutdown, or Suspend. The desktop switcher allows you to switch to another virtual desktop, allowing you to keep your workspace organized. The quick launch bar allows you to conveniently launch your file explorer (PCManFM) and web browser (Firefox). To add a program to quick launch open the menu and find it there and drag it down onto the panel. 
 
 
 .. image:: menu_search.png
@@ -29,11 +29,15 @@ As mentioned before, the panel is highly configurable and you can customize it b
 
 Customizing
 -----------
-To change many panel settings right click not on the main taskbar and click the wrench button for panel settings. To move the panel their is a drop down menu of position that can move it to where you want.  The alignment drop down menu lets you set the alignment of the panel on your screen if you choose to move it or make it only a portion of the screen. The size menu lets you increase or decrease the width of the panel. Lenght has two fields the one is either px or percent is for to change the length of the panel in pixels while  percent is a percent of the entire screen size that changes if you change resolution. The first is the number of pixels or percent of the screen you want the panel to cover. The icon size makes the size of the icons bigger or smaller on the panel. 
+To change many panel settings right click not on the main taskbar and click the wrench button for panel settings.  
+
+The :guilabel:`Panel` tab has settings for the color and position of the panel. To move the panel their is a drop down menu of position that can move it to the side of the screen you want. The alignment drop down menu lets you set the alignment of the panel on your screen if you choose to move it or make it only a portion of the screen. The size menu lets you increase or decrease the width of the panel. Length has two fields the one is either px or percent is for to change the length of the panel in pixels while  percent is a percent of the entire screen size that changes if you change resolution. The first is the number of pixels or percent of the screen you want the panel to cover. The icon size makes the size of the icons bigger or smaller on the panel. 
+
+If you want to autohide the panel check the auto hide checkbox in panel settings. To show how long your panel will appear when it comes back after hiding in miliseconds.  
 
 .. image:: lxqt-panel-config.png 
 
-To change to a custom font color press the color button checkbox. Press the dropper button to bring up a widget to choose the custom color. The checkbox for background color sets a background color custom for the background of lxqt-panel and the dropper brings up how to select which color. To add an image to your panel background press the checkbox and select your image for the file in the dialog.  
+The :guilabel:`Widgets` lets you change the widgets or individual items on the panel and their configuration. To change to a custom font color press the color button checkbox. Press the dropper button to bring up a widget to choose the custom color. The checkbox for background color sets a background color custom for the background of lxqt-panel and the dropper brings up how to select which color. To add an image to your panel background press the checkbox and select your image for the file in the dialog.  
 
 The checkbox for override icon theme lets you choose a non system default icon theme for lxqt-panel. The dropdown then lets you see what that icon theme from the dropdown list. If you do not like your changes to the system you can press the reset button to reset changing to before trying to customize the panel. 
 
@@ -53,6 +57,8 @@ To configure options for your application menu right click on the menu configure
 To change options for your task manager or taskbar open the panel configuration dialog select taskmanager taskbar and click the wrench button. The checkbox for show only windows from desktop will only show windows from a certain desktop and will have a drop down that will default to the current desktop but can also be shown. If you want to close windows on a middle click there is a checkbox to turn that on and off. The window grouping button will group multiple windows of the same program into a group of windows. The checkbox for show popup on mouse hover will allow you to hover the mouse over the window group to show them off. Turning the checkbox for window grouping will show each window as its own item on the taskbar.   
 
 To change the look of your taskbar in the same window as above the appearance section the button style will change whetehre to show only the icon or the icon only for only the icons. To show window and the text label of the program press text and icon. Icons only will work best with a panel aligned to the left or right. To have only the text and no icons slecet only text. To change the maximum width of a button change the maximum button width which is measured in pixels to how wide on maximum a button could be.  
+
+The settings for removeable media is able to be opened up is right click the applet Configure Removeable media you can select show info, popup menu, or do nothing. If you want to reset the setting for this press the reset button.
 
 To change the settings on your clock right click on the clock and then configure world clock. The format drop down menu allows you to change how the clock shows. To sleect a short format allows you to have a preselected short format which shows a 12 hour format and am just telling you what time it is. Selecting long from the menu will show you the time with seconds and the time zone. To have a customizeale clock message select custom and then checkboxes to show seconds, pad the hours with zeros or to use a 12 hour format. The time zone checkbox will show your your time zone. The position of says where to put the time zone on the clock.     
 

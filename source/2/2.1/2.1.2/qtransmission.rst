@@ -21,6 +21,12 @@ While you download your file a progress bar with will show your download for eac
 
 The button with two || circled is a pause button that can pause all downloads and uploads. To start downloading and uploading again to press a button with a triangle to start uploading and downloading again. 
 
+To remove a torrent from the list of torrent files right click on it or :kbd:`Delete` and click remove. To delete the files and remove the torrent from the list right click Delete files and remove or press :kbd:`Shift +Delete`.
+
+If you want have a move compact view :menuselection:`View --> Compact View` or press :kbd:`Alt + C`. 
+
+To sort your torrents by activity :menuselection:`View --> Sort by Activity`. To sort your torrents by age :menuselection:`View --> Sort by Age`. To sort your torrents by name :menuselection:`View --> Sort by Name`. To sort your torrents by Progress :menuselection:`View --> Sort by Progress`.  To sort your torrents by Queue :menuselection:`View --> Sort by Queue`. To sort your torrents by ratio uploaded to downloaded :menuselection:`View --> Sort by ratio`. To sort your torrents by size :menuselection:`View --> Sort by Size`. To sort your torrents by State :menuselection:`View --> Sort by State`. To sort your torrents by time to finish downloading :menuselection:`View --> Sort by time left`. To reverse the sort order :menuselection:`View --> Reverse sort order`. 
+
 How to launch
 -------------
 

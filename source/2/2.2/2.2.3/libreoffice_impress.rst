@@ -12,11 +12,11 @@ Useage
 ------
 When you open libreoffice impress you will get a dialog to select a templete with a preview select which one you want to use by left clicking and then click open. To add a title to a slide click where it says click to add title. 
 
-To open a previous presentation you have been working on press the button that looks like a folder with a piece of paper in it and navigate to the file you want and open it. To save your presentation press the button that looks like a floppy disk or :menuselection:`File --> Save`. To save a new copy under a custom file name :menuselection:`File --> Save As`. To save a file as a pdf :menuselection:`File --> Export as PDF`.  
+To open a previous presentation you have been working on press the button that looks like a folder with a piece of paper in it and navigate to the file you want and open it or :menuselection:`File --> Open`. To view your recently opened files press :menuselection:`File --> Recent Documents`. To save your presentation press the button that looks like a floppy disk or :menuselection:`File --> Save`. To save a new copy under a custom file name :menuselection:`File --> Save As`. To save a file as a pdf :menuselection:`File --> Export as PDF`.  
 
-To type text into a presentation click in one of the boxes for your theme and type in the text with controls for the text on the right hand side. To insert a picture press the button with what looks like a photograph of a tree and select the file you want to insert.
+To type text into a presentation click in one of the boxes for your theme and type in the text with controls for the text on the right hand side. To insert a picture press the button with what looks like a photograph of a tree and select the file you want to insert. To insert audio or video to your presentation :menuselection:`Insert --> Audio or video`.
 
-If you want to print your slides you can press :kbd:`Control + p` or :menuselection:`File --> Print`. 
+ To spell check your presentation press :kbd:`F7` or :menuselection:`Tools --> Spellcheck`. If you want to print your slides you can press :kbd:`Control + p` or :menuselection:`File --> Print`. 
 
 If you want to paste text into a slideshow press :kbd:`Control + V` or :menuselection:`Edit --> Paste`. To copy text select it first and then press :kbd:`Control + C` or :menuselection:`Edit --> Copy`. To cut text select it first and the press :kbd:`Control +X` or :menuselection:`Edit --> Cut`.
 

@@ -9,9 +9,9 @@ To view how much RAM is being used on your system is under mem and then a [ numb
 
 Load average shows your system laod over the past one five and fiften minute is why there are three numbers see `wikipedia load (computing) <https://en.wikipedia.org/wiki/Load_(computing)>`_ for more infmormation. Uptime shows how long your computer has been booted.
 
-After the bottom there is a green bar that says PID for the Process ID of a user, The user the process responds to, RES is how much RAM the process is currently using. CPU% shows how much as a percent of CPU time the process is using, mem% is a precent of the RAM your proess is using. TIme shows how long the process has been running. COmmand shows the command line command of the process. 
+After the bottom there is a green bar that says PID for the Process ID of a user, The user the process responds to, RES is how much RAM the process is currently using. CPU% shows how much as a percent of CPU time the process is using, mem% is a precent of the RAM your proess is using. TIme shows how long the process has been running. COmmand shows the command line command of the process.  
 
-You can press F1 to help you with settings on htop. F2 brings about a customizeable settings on htop. F3 lets you search for a particular process. F4 makes it so you can only see processes matching a certain partern. F5 is what you press to veiw file in a tree. PRessing F9 lets you kill a process with different signals to send to the process and 15 will terminate the process while 9 will Kill it. Lastly F10 will quit htop and return you to a terminal. 
+You can press :kbd:`F1` to help you with settings on htop. :kbd:`F2` brings about a customizeable settings on htop. :kbd:`F3` lets you search for a particular process. To reverse sort order press :kbd:`Shift +I`. :kbd:`F4` makes it so you can only see processes matching a certain partern. :kbd:`F5` is what you press to veiw file in a tree. Pressing :kbd:`F9` lets you kill a process with different signals to send to the process and 15 will terminate the process while 9 will Kill it. Lastly :kbd:`F10` will quit htop and return you to a terminal. 
 
 Screenshot
 ----------

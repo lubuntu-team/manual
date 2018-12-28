@@ -6,13 +6,13 @@ Usage
 ------
 Discover allows you to search for applications by using the search box. Clicking on a program will give you a description of it. When installing or removing software, you will be prompted for your password. You can also browse through different categories on the left clicking on the different categories. To move back from a category or search press the back button which functions similar to the back button in a web browser. In the results after selecting your program you are looking at you can select a screenshot and get a bigger view of the screenshot click on the screenshot. 
 
-To search for programs in discover type in the search bar in the upper left or press :kbd:`Control + F`.  
+To search for programs in discover type in the search bar in the upper left or press :kbd:`Control + F`. To view featured applications press the blue rectangle on the top left hand corner. 
 
-Discover allows you to update software using the Updates tab located on the bottom of the left column. You can click the button to "check for updates" manually.
+Discover allows you to update software using the Updates tab located on the bottom of the left column. You can click the :guilabel:`Check for updates` button to check for updates manually. If you have updates that need to be installed Update with a gear and will be highlighted in orange and the number of updates that are available.
 
-To remove software use the Installed tab. You can browse your installed packages, search using the search bar (upper left corner), and the click the remove button to remove software.
+To remove software use the :guilabel:`Installed` tab. You can browse your installed packages, search using the search bar (upper left corner), and the click the remove button to remove software.
 
-In the upper right corner of discover you can have a Sort category to sort your search results by name, rating, size, and release date.  
+In the upper right corner of discover you can have a :guilabel:`Sort` category to sort your search results by name, rating, size, and release date.  
 
 
 

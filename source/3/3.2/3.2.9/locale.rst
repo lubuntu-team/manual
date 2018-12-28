@@ -7,6 +7,10 @@ Screenshot
 ----------
 .. image:: locale.png
 
+Useage
+------
+To change your locale the :guilabel:`Region` shows the name of your local and in the drop down menu you can type the name of your locale to search through the locales or scroll through the long list. Under the :guilabel:`Examples` will show how numbers Time Currency and measurment units will be shown on your system. If you do not like the changes you can press the :guilabel:`Reset` button. 
+ 
 Version
 -------
 Lubuntu ships with version 0.13.0 of Locale. 

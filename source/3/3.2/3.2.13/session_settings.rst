@@ -15,7 +15,7 @@ The :guilabel:`Autostart` tab has settings for what to autostart. The autostart 
 
 The tab for :guilabel:`Environment (Advanced)` has many effects for you environment variables for your session. Several of theese varibles relate to hidpi support see `<https://forum.lxqt.org/t/detailed-guide-to-enable-high-dpi-scaling-on-lxqt/507/5>`_ .
 
-If you want to undo changes you have done press the reset button with brown smudge with an X and reset on it. 
+If you want to undo changes you have done press the :guilabel:`reset` button. 
 
 Screenshot
 ----------

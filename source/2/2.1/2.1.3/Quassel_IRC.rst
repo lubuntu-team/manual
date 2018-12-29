@@ -30,6 +30,8 @@ To make your chat full screen :menuselection:`View --> Full Screen Mode` or :kbd
 To change your settings on your notifications :menuselection:`Settings --> Notificiations`.
 
 To select all of your Settings for Quassel :menuselection:`Settings --> Configure Quassel`. 
+ 
+To see all the nicknames of someone in a channel are located in a sidebar labeled :guilabel:`Nicks`. The lists of all channels you are in is labeled :guilabel:`All chats`. To switch between different channels left click on the channel name.
 
 Screenshot
 ----------

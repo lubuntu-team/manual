@@ -26,9 +26,9 @@ To zoom to view a full page on your spreadsheet in the menu :menuselection:`View
 
 To select all cells in your spreadsheet press :kbd:`Control+A`. To select an entire column press :kbd:`Control+Space` or :menuselection:`Edit --> Select --> Select Column`. To select an entire row press :kbd:`Shift +Space` or :menuselection:`Edit --> Select --> Select Row`.
 
-To createa a new spreadsheet in the same file press the button on the bottom that looks like a :guilabel:`+`. To switch between each sheet perss the button on each sheet at the bottom near the button to add a new sheet.
+To createa a new spreadsheet in the same file press the button on the bottom that looks like a :guilabel:`+` or :menuselection:`Sheet --> Insert Sheet`. To switch between each sheet perss the button on each sheet at the bottom near the button to add a new sheet.
 
-To insert a special character not on your keyboard :menuselection:`Insert --> Special Character`.
+To insert a special character not on your keyboard :menuselection:`Insert --> Special Character`. 
 
 Screenshot
 ----------

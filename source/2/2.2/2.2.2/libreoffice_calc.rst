@@ -23,6 +23,9 @@ To undo a selection press :kbd:`control +z` or press the button with the arrow l
 
 To zoom to view a full page on your spreadsheet in the menu :menuselection:`View --> Zoom --> Entire Page`. To view the whole width of your page on the menu :menuselection:`View --> Zoom --> Page Width`.   
 
+
+To select all cells in your spreadsheet press :kbd:`Control+A`. To select an entire column press :kbd:`Control+Space` or :menuselection:`Edit --> Select --> Select Column`. To select an entire row press :kbd:`Shift +Space` or :menuselection:`Edit --> Select --> Select Row`.
+
 Screenshot
 ----------
 

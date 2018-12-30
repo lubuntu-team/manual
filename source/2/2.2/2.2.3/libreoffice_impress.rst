@@ -26,7 +26,7 @@ To move a text box around you can left click on the text box and drag it to the 
 
 To insert an image click :menuselection:`Insert --> Image`. To drag your image to where you want it left click and drag the mouse to where you want the image. To resize the image without distorting it click one of the boxes on the corner and resize to the size you wish. 
 
-To change the zoom of you presentation :menuselection:`View --> Zoom --> Zoom` to bring up a window to manage your zoom.  
+To change the zoom of you presentation :menuselection:`View --> Zoom --> Zoom` to bring up a window to manage your zoom. If you just want to zoom to fit the page width :menuselection:`View --> Zoom --> Page Width`. 
 
 On the left there is a panel showing what slides you currently have in left side of the window. To insert a new slide right click on this panel on the left and select new slide or press :kbd:`Control + Enter`. To delete a slide on the left hand slide right click and select delete slide. To create another copy of a slide right click and then select duplicate slide. 
 

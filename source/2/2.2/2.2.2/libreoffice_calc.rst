@@ -28,6 +28,8 @@ To select all cells in your spreadsheet press :kbd:`Control+A`. To select an ent
 
 To createa a new spreadsheet in the same file press the button on the bottom that looks like a :guilabel:`+`. To switch between each sheet perss the button on each sheet at the bottom near the button to add a new sheet.
 
+To insert a special character not on your keyboard :menuselection:`Insert --> Special Character`.
+
 Screenshot
 ----------
 

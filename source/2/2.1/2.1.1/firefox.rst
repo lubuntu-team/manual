@@ -38,6 +38,8 @@ If you want a menubar for firefox right click the tab bar and click the checkbox
 
 If you want to view your firefox prefrences you can type about:preferences into the address bar. To have your seession restored each time you restart firefox is on the general tab of firefox prefrences is to press restore previous session. The tabs section has a checkbox to open links in new tabs instead of new windows which is checked by default. If you want to switch to new tabs immediately check the When you open a link in new tab, switch to it immediately.      
 
+I to copy text in firefox press :kbd:`Control +C`. To paste text into firefox press :kbd:`Control+ V`.
+
 Version
 ----------
 Lubuntu currently ships with the latest version of Firefox, Firefox Quantum.

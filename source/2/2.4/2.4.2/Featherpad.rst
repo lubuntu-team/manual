@@ -34,6 +34,8 @@ Customizing
 ------------
 To view the prefrences for featherpad press :kdb:`control +Shift +P` or :menuselection:`Options --> Prefrences`. To have settings on the featherpad prefences is on the :guilabel:`Window` tabs. To remember the size of your window check the :guilabel:`Remember size on Closing` checkbox. To hide the toolbar you can press the :guilabel:`do not show toolbar` checkbox. 
 
+To change prefrences on how text is displayed choose the :guilabel:`Text` Tab. To have featherpad remember what font you want press the :guilabel:`Remember Font` checkbox. If you do not want featherpad to highlight syntax by default uncheck the :guilabel:`highlight syntax by default` checkbox. If you want to change the be able to change the syntax highlight check the checkbox for :guilabel:`Support Syntax override`. 
+
 Screenshot
 ----------
 .. image:: featherpad.png

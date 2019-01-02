@@ -14,8 +14,6 @@ To remove software use the :guilabel:`Installed` tab. You can browse your instal
 
 In the upper right corner of discover you can have a :guilabel:`Sort` category to sort your search results by name, rating, size, and release date.  
 
-
-
 Screenshot
 ----------
 

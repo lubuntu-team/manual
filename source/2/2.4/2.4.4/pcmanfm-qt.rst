@@ -27,7 +27,7 @@ The :guilabel:`permissions` tab will show you who owns the file which if you can
 
 Pcmanfm-qt can actually launch other applications in places Applications or :menuselection:`Go --> Applications` and then gets all the tasks in the menu in lxqt-panel. To view what files are on your desktop :menuselection:`Go --> Desktop` or on the places sidebar press the desktop item on the left.
 
-To add a bookmark :menuselection:`Bookmarks --> Add to  Bookmarks`  and it will make a bookmark. To later access this bookmark it will be on the left hand side under :guilabel:`bookmarks` and under the bookmarks menu. 
+To add a bookmark :menuselection:`Bookmarks --> Add to  Bookmarks`  and it will make a bookmark. To later access this bookmark it will be on the left hand side under :guilabel:`bookmarks` and under the bookmarks menu.  
 
 If you want to run an executeable script from pcmanfm double click and then click execute on the executeable. If you wish to edit the script you can press the open button. 
 
@@ -38,7 +38,7 @@ To reverse the order that pcmanfm-Qt sorts files :menuselection:`View --> Sortin
 To change your path bar to buttons :menuselection:`View --> Pathbar --> Location` and to get 
 back to a pathbar you can type into :menuselection:`View --> Pathbar --> Path Buttons`.
 
-pcmanfm-qt when right clicking has special options for dealing with archieves such as tar or zip files. To extract the files in the current directory right click and select extract here. You can also extract to another location with right clicking and selecting extract to and a dialog will pop up showing to where to extract the file.  
+pcmanfm-qt has options when right clicking has special options for dealing with archieves such as tar or zip files. To extract the files in the current directory right click and select extract here. You can also extract to another location with right clicking and selecting extract to and a dialog will pop up showing to where to extract the file.  
 
 Screenshot
 ----------

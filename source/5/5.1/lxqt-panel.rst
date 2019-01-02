@@ -37,7 +37,7 @@ If you want to autohide the panel check the auto hide checkbox in panel settings
 
 .. image:: lxqt-panel-config.png 
 
-The :guilabel:`Widgets` lets you change the widgets or individual items on the panel and their configuration. To change to a custom font color press the color button checkbox. Press the dropper button to bring up a widget to choose the custom color. The checkbox for background color sets a background color custom for the background of lxqt-panel and the dropper brings up how to select which color. To add an image to your panel background press the checkbox and select your image for the file in the dialog.  
+The :guilabel:`Widgets` lets you change the widgets or individual items on the panel and their configuration. To change to a custom font color press the color button checkbox. Press the dropper button to bring up a widget to choose the custom color. The checkbox for :guilabel:`background color` sets a background color custom for the background of lxqt-panel and the :guilabel:`dropper` brings up how to select which color. To add an image to your panel background press the checkbox and select your image for the file in the dialog.  
 
 The checkbox for override icon theme lets you choose a non system default icon theme for lxqt-panel. The dropdown then lets you see what that icon theme from the dropdown list. If you do not like your changes to the system you can press the reset button to reset changing to before trying to customize the panel. 
 

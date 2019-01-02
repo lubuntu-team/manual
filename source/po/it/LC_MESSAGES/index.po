@@ -4,24 +4,27 @@
 # This file is distributed under the same license as the Lubuntu Manual
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
-#, fuzzy
+# Alberto Pasqualetto <alberto.pasqualetto01@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-21 00:20-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-01-02 03:03+0000\n"
+"Last-Translator: Alberto Pasqualetto <alberto.pasqualetto01@gmail.com>\n"
+"Language-Team: Italian <https://translate.lubuntu.me/projects/lubuntu/"
+"manual-index/it/>\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/index.rst:2
 msgid "Welcome to the Lubuntu Manual!"
-msgstr ""
+msgstr "Benvenuto nel manuale di Lubuntu!"
 
 #: ../../source/index.rst:4
 msgid ""
@@ -29,10 +32,14 @@ msgid ""
 "using Lubuntu. This manual covers many topics, such as installation "
 "instructions, applications Lubuntu provides, and much more!"
 msgstr ""
+"Benvenuti nel manuale di Lubuntu! Questo è il libro di riferimento ufficiale "
+"per l'uso di Lubuntu. Questo manuale si occupa di molti argomenti, come le "
+"istruzioni di installazione, le applicazioni fornite da Lubuntu e molto "
+"altro!"
 
 #: ../../source/index.rst:7
 msgid "What is Lubuntu?"
-msgstr ""
+msgstr "Cos'è Lubuntu?"
 
 #: ../../source/index.rst:9
 msgid ""
@@ -44,6 +51,13 @@ msgid ""
 " `we have recently refocused <https://lubuntu.me/taking-a-new-"
 "direction/>`_."
 msgstr ""
+"L'obiettivo del progetto è fornire una distribuzione Linux leggera ma "
+"funzionale basata su una solida base Ubuntu. Lubuntu offre un'interfaccia "
+"utente grafica semplice ma moderna e potente e viene fornito con un'ampia "
+"varietà di applicazioni in modo da poter navigare, inviare email, chattare, "
+"giocare ed essere produttivi. In passato Lubuntu era una distribuzione per "
+"hardware di fascia bassa, ma \"ci siamo recentemente concentrati su "
+"<https://lubuntu.me/taking-a-new-direction/>` _."
 
 #: ../../source/index.rst:11
 msgid ""
@@ -52,14 +66,18 @@ msgid ""
 "releases of Lubuntu. Lubuntu received official recognition as a formal "
 "member of the Ubuntu family beginning with Lubuntu 11.10."
 msgstr ""
+"I membri del team si occupano di LXQt e di altri pacchetti che fanno parte "
+"di Lubuntu nell'archivio di Ubuntu, nonché dei pacchetti LXDE nelle versioni "
+"LTS di Lubuntu. Lubuntu ha ricevuto il riconoscimento ufficiale come membro "
+"formale della famiglia Ubuntu a partire da Lubuntu 11.10."
 
 #: ../../source/index.rst:14
 msgid "Contents"
-msgstr ""
+msgstr "Contenuti"
 
 #: ../../source/index.rst:29
 msgid "Contact Us"
-msgstr ""
+msgstr "Contattaci"
 
 #: ../../source/index.rst:31
 msgid ""
@@ -69,28 +87,32 @@ msgid ""
 "us <https://lubuntu.me/links/>`_, and `our Phabricator instance "
 "<https://phab.lubuntu.me/>`_ where we do most of the Lubuntu development."
 msgstr ""
+"Hai domande? Vuoi essere coinvolto? Dai un'occhiata al nostro sito ufficiale "
+"su `Lubuntu.me <https://lubuntu.me>` _ dove puoi trovare `il blog di Lubuntu "
+"<https://lubuntu.me/blog/>` _, `modi per contattarci <https://lubuntu.me/"
+"links/> `_, e` la nostra istanza di Phabricator <https://phab.lubuntu.me/> `"
+"_ dove facciamo la maggior parte dello sviluppo di Lubuntu."
 
 #: ../../source/index.rst:34
 msgid "Thank you!"
-msgstr ""
+msgstr "Grazie!"
 
 #: ../../source/index.rst:36
 msgid "Thank you for choosing to use Lubuntu!"
-msgstr ""
+msgstr "Grazie per aver scelto Lubuntu!"
 
 #: ../../source/index.rst
 msgid "Authors"
-msgstr ""
+msgstr "Autori"
 
 #: ../../source/index.rst:38
 msgid "Simon Quigley, Lyn Perrine, Jacob Kim, Daniel Lim"
-msgstr ""
+msgstr "Simon Quigley, Lyn Perrine, Jacob Kim, Daniel Lim"
 
 #: ../../source/index.rst
 msgid "Translators"
-msgstr ""
+msgstr "Traduttori"
 
 #: ../../source/index.rst:39
 msgid "Marcin Mikołajczak"
-msgstr ""
-
+msgstr "Marcin Mikołajczak"

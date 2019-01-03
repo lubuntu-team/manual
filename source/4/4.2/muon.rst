@@ -11,7 +11,7 @@ To search for a program to install type into the bar at the top that says :guila
 
 When you find your package you want to install on the bottom half of the screen there is a bar of tabs. The :guilabel:`detail` tab has a description of the package you are currently selected. The :guilabel:`Technical Details` will show you where the package comes from what category it is and what the installed size would be and what size it takes to download the package. The :guilabel:`depenedncies` tab shows you what other packages are needed by the package you wish to install. To view the changes of a package the :guilabel:`Changes List` and scroll down to view them. 
 
-If you want to see your history of package updates and installed from the :menuselection:`menu --> view --> history` or press :kbd:`control + h`.  
+If you want to see your history of package updates and installed from the :menuselection:`menu --> view --> history` or press :kbd:`control + h`. To view all installed packes on the left hand side of the window under filetered click the divider for :guilabel:`By status` and select :guilabel:`installed`. now in the upper main part of the window will be a window with a scrollbar to see all packages on your system.  
 
 To check for updates in muon press :kbd:`Control + R` or the gear button with an arrow or :menuselection:`Edit --> Check for Updates`.  
 

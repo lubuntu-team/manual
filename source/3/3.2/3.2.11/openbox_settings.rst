@@ -27,9 +27,10 @@ The move and resize tab lets you change settings for moving and resizing windows
 
 .. image:: obconf-mv-resize.png
 
-The mouse tab use the focus follow mouse tab is if you move the mouse over the window it will automatically focus on that window. The titlebar drop down of doubleclicking on the titlebar what option fo to shade or maiximize the window or custom actions which lubuntu has set to maximize. 
+The :guilabel:`mouse` tab use the focus follow mouse tab is if you move the mouse over the window it will automatically focus on that window. The :guilabel:`Double click on the titlebar` drop down of doubleclicking on the titlebar what option fo to shade or maiximize the window or custom actions which lubuntu has set to maximize. 
 
-On the desktop tab to change number of desktops press the up arrow to add an additional desktop or the down arrow to reduce the number of virtual desktops. When switching desktops there is  a checkbox to show a notification and a field for how many miliseconds to show that notification for. 
+On the :guilabel:`desktops` tab to change number of desktops press the up arrow to add an additional desktop or the down arrow to reduce the number of virtual desktops. When switching desktops there is  a checkbox to show a notification and a field for how many miliseconds to show that notification for. 
+
 
 To make a margin on your desktop on which nothing is placed you can set pixel margins on each side with the margins tab. 
 

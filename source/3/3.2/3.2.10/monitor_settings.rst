@@ -12,7 +12,7 @@ Useage
 ------
 If you use a single monitor you can change your single monitor resolution on the right hand size and select your resolution. When you change your resolution you will be asked to confirm to make sure you don't make a chocie that makes it harder to use your computer. 
 
-If you want to rotate a monitor on the advanced tab from the  menu labeled rotation choose the way you want to rotate the monitor with inverted being upsdie down. Below you can also choose the refresh rate of monitor from the drop down menu to choose how fast your monitor refreshes.  
+If you want to rotate a monitor on the :guilabel:`advanced` tab from the  menu labeled :guilabel:`rotation` choose the way you want to rotate the monitor with inverted being upsdie down. Below you can also choose the refresh rate of monitor from the :guilabel:`Refresh Rate` drop down menu to choose how fast your monitor refreshes.  
 
 To display info on your monitor click the :guilabel:`info` tab and read that info. The fields explained will be the Name of the monitor the serial numberthe size of the display and the serial number.
 

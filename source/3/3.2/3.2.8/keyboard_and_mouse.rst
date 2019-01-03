@@ -23,7 +23,7 @@ The :guilabel:`Keyboard` tab has settings for changing keyboard settings. If you
  
 .. image:: keyboard-settings-tab.png
 
-The :guilabel:`Keyboard Layout` tab has settings to add a new keyboard layout. In the top center of the window is a listing of your current keyboard layout and any varaint applied to it.
+The :guilabel:`Keyboard Layout` tab has settings to add a new keyboard layout. In the top center of the window is a listing of your current keyboard layout and any varaint applied to it. To add a keyboard layout press the :guilabel:`Add button`. 
 
 How to launch
 -------------

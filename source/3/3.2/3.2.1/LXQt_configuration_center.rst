@@ -5,7 +5,7 @@ LXQt configuration center is an application with buttons that launches configura
 
 Useage
 ------
-LXQt configuration center lets you launch many different applications in this chapter from a simple control center where you can double click on the icon for that program. 
+LXQt configuration center lets you launch many different applications in this chapter from a simple control center where you can double click on the icon for that program. To close one of the programs here you have launched you can close it by pressing :kbd:`Escape`. 
 
 Screenshot
 ----------

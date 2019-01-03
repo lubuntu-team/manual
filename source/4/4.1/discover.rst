@@ -10,7 +10,7 @@ To search for programs in discover type in the search bar in the upper left or p
 
 Discover allows you to update software using the Updates tab located on the bottom of the left column. You can click the :guilabel:`Check for updates` button to check for updates manually. If you have updates that need to be installed Update with a gear and will be highlighted in orange and the number of updates that are available.
 
-To remove software use the :guilabel:`Installed` tab. You can browse your installed packages, search using the search bar (upper left corner), and the click the remove button to remove software.
+To remove software use the :guilabel:`Installed` tab. You can browse your installed packages, search using the search bar (upper left corner), and the click the remove button to remove software by pressing the :guilabel:`Remove` button.
 
 In the upper right corner of discover you can have a :guilabel:`Sort` category to sort your search results by name, rating, size, and release date.  
 

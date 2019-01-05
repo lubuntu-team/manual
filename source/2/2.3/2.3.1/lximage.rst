@@ -21,7 +21,7 @@ To view the next picture on your image press the :kbd:`right arrow` and conversl
 
 To view the picture entirely at its original size press :menuselection:`View --> Fit` or the button with a veritcial and horizontal arrow and a folded over buttom right corner. To return your image to its original size press the magnifying button with 1:1 inside it or :menuselection:`View --> Original Size`.
 
-To view the picture as fullscreen press :kbd:`f11` or :menuselection:`View --> Fullscreen`. To have a slideshow of you pictures :menuselection:`View --> Slideshow`. 
+To view the picture as fullscreen press :kbd:`f11` or :menuselection:`View --> Fullscreen`. To have a slideshow of you pictures :menuselection:`View --> Slideshow`. Once you start the slideshow on the toolbar a play pause button will appear on the toolbar. 
 
 Screenshot
 ----------

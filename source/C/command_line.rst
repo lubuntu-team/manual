@@ -29,6 +29,16 @@ To list files on the current file system one of the most important commands to k
 
 will show the files in your current directory and the man page lists more options such as viewing all files or long listing. 
 
+To change to another directory an important command is 
+
+.. code:: 
+
+   cd [dir] 
+
+where [dir] is the directory you want to switch to.
+
+   
+
 There is also the command line for manageing and installing packages which is beyond the scope of this appendix but please see `apt package management <https://help.ubuntu.com/lts/serverguide/apt.html.en>`_  for how to insert and remove packages from the command line. 
 
  

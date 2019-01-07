@@ -35,7 +35,7 @@ To change to another directory an important command is
 
    cd [dir] 
 
-where [dir] is the directory you want to switch to.
+where [dir] is the directory you want to switch to. Another thing that is useful is you can append .. after cd to make it go up one level.
 
    
 

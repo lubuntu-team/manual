@@ -20,6 +20,8 @@ To apply these changes to see how they appear on qterminal press the :guilabel:`
 
 The :guilabel:`Behavior` tab changes history, pasting, and different kinds of emulation. The button for unlimited history will save an unlimited amount of history. The history size in line lets you save only that many lines of history. The checkbox for Confirm multiline paste brings up a confirmation for pasting multiple lines.
 
+.. image:: qterminalprefrences.png 
+
 Version
 -------
 Lubuntu ships with version 0.9.0 of qterminal.

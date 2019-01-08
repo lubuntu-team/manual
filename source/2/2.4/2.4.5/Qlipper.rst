@@ -12,6 +12,8 @@ Screenshot
 ----------
 .. image:: qlipper.png
 
+.. image:: qlipperprefrences.png
+
 Version
 -------
 Lubuntu ships with version 5.1.1 of Qlipper. 

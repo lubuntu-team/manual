@@ -30,6 +30,9 @@ To change what font you want select :menuselection:`option --> font` to change y
 
 To print a text :menuselection:`file --> Print` or press :kbd:`control + p`.  
 
+.. image:: featherpad.png
+  :width: 80% 
+
 Customizing
 ------------
 To view the prefrences for featherpad press :kbd:`control +Shift +P` or :menuselection:`Options --> Prefrences`. To have settings on the featherpad prefences is on the :guilabel:`Window` tabs. To remember the size of your window check the :guilabel:`Remember size on Closing` checkbox. To hide the toolbar you can press the :guilabel:`do not show toolbar` checkbox. 
@@ -38,10 +41,6 @@ To change prefrences on how text is displayed choose the :guilabel:`Text` Tab. T
 
 .. image:: featherpadprefrences.png
 
-Screenshot
-----------
-.. image:: featherpad.png
-  :width: 80% 
 
 Version
 -------

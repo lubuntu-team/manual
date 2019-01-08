@@ -40,6 +40,8 @@ If you want to view your firefox prefrences you can type about:preferences into 
 
 To tab on the left :guilabel:`Home` has settings for your home and opening of new tabs. The :guilabel:`Homepage and new windows` drop down lets you select the firefox home or a blank page when you first open the browser. The :guilabel:`New Tabs` menu lets you choose firefox home or blank page when you open a new tab. The checkbox :guilabel:`Web Search` lets you toggle whther to show a web search on the firefox homepage. The checkbox :guilabel:`Top Sites` shows the sites you visit the most. The checkbox :guilabel:`Recommend by Pocket` toggles links recommend by pocket. Uncheck the :guilabel:`Sponsored stories` checkbox to not have sponsoerd stories from pocket. The :guilabel:`Highlights` checkbox allows site that you have saved or visited recently.  
 
+.. image:: prefrenceshome.png
+
 To manage your search settings use the :guilabel:`search` tab on prefrences. The radio button for :guilabel:`Search Bar` changes whether you want a seperate search bar or and integrated search bar for search and navigation. The :guilabel:`Default Search Engine` lets you change your default search engine. To toggle whether to search suggestions check/uncheck the :guilabel:`Provide search suggestions`.
 
 I to copy text in firefox press :kbd:`Control +C`. To paste text into firefox press :kbd:`Control+ V`.

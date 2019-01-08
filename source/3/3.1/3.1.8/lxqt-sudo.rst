@@ -17,6 +17,10 @@ Version
 -------
 Lubuntu ships with 0.13.0 of lxqt-sudo. 
 
+Screenshot
+----------
+
+.. image:: lxqt-sudo.png
 
 How to Launch
 -------------

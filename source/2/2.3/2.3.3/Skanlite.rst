@@ -22,6 +22,10 @@ To change the brightness of a scan slide the :guilabel:`brightness` slider or in
 
 To select part of a scan you particularly want to save is to click over a preview of a scan and you will drag the selection with the mouse. To clear selections that can be automatically selected but canceled with a brown smudge with an x on it. 
 
+Screenshot
+----------
+.. image:: skanlite.png
+
 How to launch
 -------------
 To launch skanlite turn on your scanner and that it is connected to your computer. To launch the application go to the menu :menuselection:`graphics --> skanlite` or run 

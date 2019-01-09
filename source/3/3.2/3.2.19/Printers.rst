@@ -1,4 +1,4 @@
-Chapter 3.2.20 Printers
+Chapter 3.2.19 Printers
 =======================
 
 Pritners allows you to configure your printer and show your print queue.

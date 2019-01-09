@@ -20,6 +20,7 @@ To save your monitor settings press the :guilabel:`save` button and a pop up wil
 
 .. image:: monitor_settings.png
 
+.. image:: advnacedmontiortab.png
 
 Multimonitor
 ------------

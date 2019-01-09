@@ -4,7 +4,7 @@ Discover allows you to install and remove programs and utilities. It has a simpl
 
 Usage
 ------
-Discover allows you to search for applications by using the search box. Clicking on a program will give you a description of it. When installing or removing software, you will be prompted for your password. You can also browse through different categories on the left clicking on the different categories. To move back from a category or search press the back button which functions similar to the back button in a web browser. In the results after selecting your program you are looking at you can select a screenshot and get a bigger view of the screenshot click on the screenshot. 
+Discover allows you to search for applications by using the search box. Clicking on a program will give you a description of it. When installing or removing software, you will be prompted for your password. You can also browse through different categories on the left clicking on the different categories. To move back from a category or search press the :guilabel:`back` button which functions similar to the back button in a web browser. In the results after selecting your program you are looking at you can select a screenshot and get a bigger view of the screenshot click on the screenshot. 
 
 To search for programs in discover type in the search bar in the upper left or press :kbd:`Control + F`. To view featured applications press the blue rectangle on the top left hand corner. 
 

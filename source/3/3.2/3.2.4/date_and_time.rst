@@ -13,6 +13,8 @@ Screenshot
 ----------
 .. image:: date_and_time.png 
 
+.. image:: datetimetime.png
+
 Version
 -------
 Lubuntu ships with version 0.13.0 of Date and time. 

@@ -43,7 +43,7 @@ To change prefrences on how text is displayed choose the :guilabel:`Text` Tab. T
 
 .. image:: featherpadprefrences.png
 
-To modify changes to your files from the prefrences dialog on :guilabel:`Files` tab. The :guilabel:`Number of recent files` field lets you change how many files show in recent files. The set of radio buttons for either :guilabel:`Show recently modified files` or :guilabel:`Show recently opened files`. 
+To modify changes to your files from the prefrences dialog on :guilabel:`Files` tab. The :guilabel:`Number of recent files` field lets you change how many files show in recent files. The set of radio buttons for either :guilabel:`Show recently modified files` or :guilabel:`Show recently opened files`. If you want to autosave files check the :guilabel:`Save changes to files every` checkbox and then select the number of minutes you want. If you do not want to be able to open non text files in featherpad check the :guilabel:`Do not permit opening of non-text files` checkbox.  
 
 Version
 -------

@@ -37,7 +37,7 @@ To print a text :menuselection:`file --> Print` or press :kbd:`control + p`.
 
 Customizing
 ------------
-To view the prefrences for featherpad press :kbd:`control +Shift +P` or :menuselection:`Options --> Prefrences`. To have settings on the featherpad prefences is on the :guilabel:`Window` tabs. To remember the size of your window check the :guilabel:`Remember size on Closing` checkbox. To hide the toolbar you can press the :guilabel:`do not show toolbar` checkbox. To not show the menubar by default check the :guilabel:`Do not show menubar` checkbox. 
+To view the prefrences for featherpad press :kbd:`control +Shift +P` or :menuselection:`Options --> Prefrences`. To have settings on the featherpad prefences is on the :guilabel:`Window` tabs. To remember the size of your window check the :guilabel:`Remember size on Closing` checkbox. To hide the toolbar you can press the :guilabel:`do not show toolbar` checkbox. To not show the menubar by default check the :guilabel:`Do not show menubar` checkbox. The :guilabel:`Tab position` moves where the tab around on the screen. 
 
 To change prefrences on how text is displayed choose the :guilabel:`Text` Tab. To have featherpad remember what font you want press the :guilabel:`Remember Font` checkbox. If you do not want featherpad to highlight syntax by default uncheck the :guilabel:`highlight syntax by default` checkbox. If you want to change the be able to change the syntax highlight check the checkbox for :guilabel:`Support Syntax override`. The checkbox for :guilabel:`Always show line numbers` always shows line numbers.  
 

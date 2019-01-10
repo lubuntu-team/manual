@@ -28,6 +28,8 @@ To search your text file press :kbd:`Control + f` or :menuselection:`search --> 
 
 To change what font you want select :menuselection:`option --> font` to change your font sizes. To change each font on the on the font level. To change the size type the size you or select it from the :guilabel:`Size` drop down menu. To select a font size simply use a font style of italic or oblique. To add an underlined font check the :guilabel:`Underline` checkbox. To view a sample of your font :guilabel:`Sample` and will preview your text. 
 
+To make the text all lowercase press :kbd:`Control + Shift +L` or :menuselection:`Edit --> To Lowercase`. To make the text all uppercase press :kbd:`Control + Shift +U` or :menuselection:`Edit --> To Uppercase`. 
+
 To print a text :menuselection:`file --> Print` or press :kbd:`control + p`.  
 
 .. image:: featherpad.png

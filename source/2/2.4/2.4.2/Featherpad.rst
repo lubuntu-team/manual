@@ -43,6 +43,7 @@ To change prefrences on how text is displayed choose the :guilabel:`Text` Tab. T
 
 .. image:: featherpadprefrences.png
 
+To modify changes to your files from the prefrences dialog on :guilabel:`Files` tab. The :guilabel:`Number of recent files` field lets you change how many files show in recent files. The set of radio buttons for either :guilabel:`Show recently modified files` or :guilabel:`Show recently opened files`. 
 
 Version
 -------

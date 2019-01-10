@@ -11,6 +11,8 @@ Useage
 ------
 To use a virtual keyboard click on the icon in the system tray that looks like a keyboard and toggle virtual keyboard. 
 
+To switch your keyboard method with the applet is to left click on the applet :menuselection:`Input Mehtod --> Desired keyboard layout`. 
+
 Screenshot
 ----------
 

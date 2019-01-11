@@ -13,7 +13,7 @@ To use trojita you will need to input your account information. After entering t
 
 After you have set everything up a set of folders will appear on the left hand side. 
 
-To send an email to someone press :kbd:`Control +N` or :menuselection:`Imap --> Compose Mail --> New Message`. Then you will bring up a compose mail window. Type the email address of the person you want to type the address where it says :guilabel:`To`. Put the subject of your message in the :guilabel:`Subject` line.  
+To send an email to someone press :kbd:`Control +N` or :menuselection:`Imap --> Compose Mail --> New Message`. Then you will bring up a compose mail window. Type the email address of the person you want to type the address where it says :guilabel:`To`. Put the subject of your message in the :guilabel:`Subject` line. In the main part of the message called the body is where you will add most of your message. If you want to attach a file to your email press the button with the paperclip on it that says :guilabel:`Attach`. To send your message press the :guilabel:`Send` button.  
 
 To manually check for new messages :menuselection:`Mailbox --> Check for new messages`.
 

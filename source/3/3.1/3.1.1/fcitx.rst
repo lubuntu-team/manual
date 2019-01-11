@@ -13,6 +13,8 @@ To use a virtual keyboard right click on the tray icon in the system tray that l
 
 To switch your keyboard method with the applet is to left click on the applet :menuselection:`Input Mehtod --> Desired keyboard layout`. 
 
+To bring up a configuration dialog for input method right click on the panel applet and :menuselection:`configure current input method`. 
+
 Screenshot
 ----------
 

@@ -29,5 +29,3 @@ To launch the fcitx applet from the menu :menuselection:`system tools --> fcitx`
 .. code:: 
 
    fcitx
-
-

@@ -19,7 +19,7 @@ To view your messages on trojita to see new messages you have recieved in your i
 
 .. image:: trojita.png
 
-When writing a replay message a window will pop up to write your message in. To send 
+When writing a replay message a window will pop up to write your message in. 
 
 To manually check for new messages :menuselection:`Mailbox --> Check for new messages`. To hide read messages :menuselection:`View --> Hide read messages` and uncheck this to see read messages again. To view newest messages in trojita first :menuselection:`View --> Sorting --> Descending`.
 

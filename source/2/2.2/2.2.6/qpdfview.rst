@@ -16,7 +16,7 @@ Features:
 
 Usage
 ------
-To open a pdf file use :menuselection:`File --> Open` from the menu or :kbd:`Control + O` on the keyboard. If you have a pdf open use :menuselection:`File --> Open` in new tab from the menu, click the Open in new tab button or press :kbd:`Control + T`. To refresh a pdf click the Refresh button or press :kbd:`F5` just like most web browsers. To switch between tabs on the keyboard you can press control :kbd:`control + tab` to go the next tab or :kbd:`control + shift + tab` to cycle through your tabs in the opposite direction. At the bottom of the tab menu will be a list of all your tabs you have open with the title of each document. To close the tab press the red X button on the tab or press :kbd:`Control +W`. To close all tabs on qpdfview press :kbd:`Control + Shift +W`. To restore the most recently closed tabs press :kbd:`Alt+Shift+W` or :menuselection:`Restore most recently closed tab`. 
+To open a pdf file use :menuselection:`File --> Open` from the menu or :kbd:`Control + O` on the keyboard. If you have a pdf open use :menuselection:`File --> Open` in new tab from the menu, click the Open in new tab button or press :kbd:`Control + T`. To refresh a pdf click the Refresh button, :menuselection:`File --> Refresh`, or press :kbd:`F5` just like most web browsers. To switch between tabs on the keyboard you can press control :kbd:`control + tab` to go the next tab or :kbd:`control + shift + tab` to cycle through your tabs in the opposite direction. At the bottom of the tab menu will be a list of all your tabs you have open with the title of each document. To close the tab press the red X button on the tab or press :kbd:`Control +W`. To close all tabs on qpdfview press :kbd:`Control + Shift +W`. To restore the most recently closed tabs press :kbd:`Alt+Shift+W` or :menuselection:`Restore most recently closed tab`. 
 
 If you want to view a particular page select the box (e.g. page 1/3) and type the page number (e.g. page 3/3). To move to the previous and next page use the left and right arrow buttons respectively. There are numerous zoom option, including percentage, page width, page size, continous, and multiple pages. Another way to jump to a particular page is to press :kbd:`control + j` or :menuselection:`Edit --> Jump to Page`. To go back to page which you have just come from press :kbd:`control + enter` or :menuselection:`Edit --> Jump backward`. To jump forward a page press control + shift + enter or :menuselection:`Edit --> Jump Forward`.  
 
@@ -60,7 +60,9 @@ To change the interface settings click on the :guilabel:`interface` tab.  If you
 
 .. image:: qpdfviewprefrences.png
 
-The :guilabel:`Shortcuts` tab provides the abilty to customize keyboard shortcuts. The :guilabel:`Action` column is what is keyboard shortcut does. The :guilabel:`Key seqeunce` column shows the keyboard shorcut. Double click in the key sequence column to change the keyboard shortcut. 
+The :guilabel:`Shortcuts` tab provides the abilty to customize keyboard shortcuts. The :guilabel:`Action` column is what is keyboard shortcut does. The :guilabel:`Key seqeunce` column shows the keyboard shorcut. Double click in the key sequence column to change the keyboard shortcut.
+
+
 
 Version
 -------

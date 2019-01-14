@@ -12,7 +12,7 @@ Features:
 
 Usage
 ------
-To chat on irc you need to connect to a server and join a channel. This can be done with the join button or by typing "/join [channel]". To send a query or private message directly to someone type "/query" username or right click on the user list and select start query. If you wish to view older messages just scroll up. Scroll down to view newer messages. To ignore a really annoying user you can on the nicks bar on the right hand side right click ignore and then select a user to ingore so you will not hear them in irc. If you realize you want to talk to them again Right click the same username and uncheck the checkbox for the ignore rule you created.
+To chat on irc you need to connect to a server and join a channel. This can be done with the join button or by typing "/join [channel]". To send a query or private message directly to someone type "/query" username or right click on the user list and select start query. If you wish to view older messages just scroll up. Scroll down to view newer messages. To ignore a really annoying user you can on the nicks bar on the right hand side right click ignore and then select a user to ingore so you will not hear them in irc. If you realize you want to talk to them again Right click the same username and uncheck the checkbox for the ignore rule you created. You also can switch between multiple channels with :kbd:`Alt + up arrow` to move up or :kbd:`Alt + Down arrow` to move down.
 
 .. image:: quasselwizard.png
 

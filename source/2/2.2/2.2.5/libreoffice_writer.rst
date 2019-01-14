@@ -49,7 +49,7 @@ If you want to change your line spacing of your document :menuselection:`Format 
 
 To insert an image into your go to :menuselection:`Insert --> Image` to insert an image directly to your word processing document. To move your image around left click on it and drag the image around. To resize the image while keeping the same aspect ratio click on one of the blue boxes around the corner to resize the image.   
 
-To have a header shown at the top of each page :menuselection:`Insert --> Header and footer --> Header --> Default style`. To have a footer at the bottom of each page :menuselection:`Insert--> Header and footer --> Footer --> Deafault style`. 
+To have a header shown at the top of each page :menuselection:`Insert --> Header and footer --> Header --> Default style`. To have a footer at the bottom of each page :menuselection:`Insert--> Header and footer --> Footer --> Deafault style`. To get back to writing the main part of the document left click on the body of the document.  
 
 To select all text in the document press :kbd:`control + A` or :menuselection:`Edit --> Select All`. 
 

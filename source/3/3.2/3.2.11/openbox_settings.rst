@@ -25,6 +25,8 @@ The :guilabel:`font` tab changes the font of your window titlebars you can selec
 
 .. image:: obconf-font.png
 
+The :guilabel:`Windows` tab manages the behavior of newly opened windows. The :guilabel:`Focus new windows when they appear` checkbox gives new windows focus when they finish opening and then be the active window as if you clicked on the icon on the taskbar. The :guilabel:`Place new Windows under the mouse pointer` puts all your new windows you open under the mouse pointer. The :guilabel:`Center new windows when they are placed` puts the new windows in the center of the monitor. 
+
 The :guilabel:`move & resize` tab lets you change settings for moving and resizing windows. The update window contents when reisizing redraws the whole window when resizing it. Having it off will  have a drawn solid color until you stop resizing it. The drag threshold distance changes the minimum number of pixels to drag a window. The switch desktops when moving a window past the edge of a the screen lets you drag a window past the edge to switch desktops. The field for time lets you cahnge the amount of time to wait before moving beyond the edge of the desktop to another virtual desktop.   
 
 .. image:: obconf-mv-resize.png

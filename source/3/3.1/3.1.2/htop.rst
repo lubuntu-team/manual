@@ -15,7 +15,7 @@ You can press :kbd:`F1` to help you with settings on htop. Pressing :kbd:`F3` le
 
 To change how your process are sorted press :kbd:`F6` which will bring up your own menu to sort by by PID, USER, Priority, NICE, M_Size, M_Resident, M_Share, State, Percent_CPU, Percent_Mem, Time, or Command.  
 
-:kbd:`F2` brings about a customizeable settings on htop. The :guilabel:`Meters` brings up meters like CPu average. 
+:kbd:`F2` brings about a customizeable settings on htop. The :guilabel:`Meters` brings up meters like CPu average. The :guilabel:`Display Options` has option for different ways to display in htop. The :guilabel:`Colors` tab brings up different color schemes for htop.   
 
 Screenshot
 ----------

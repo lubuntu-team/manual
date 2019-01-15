@@ -15,7 +15,7 @@ To switch your keyboard method with the applet is to left click on the applet :m
 
 To bring up a configuration dialog for input method right click on the panel applet and :menuselection:`configure current input method`. 
 
-To restart fcitx right click on the applet and click :menuselection:`Restart`.
+To restart fcitx right click on the applet and click :menuselection:`Restart`. To close the Fcitx applet right click the tray icon :menuselection:`Exit`.
 
 Screenshot
 ----------

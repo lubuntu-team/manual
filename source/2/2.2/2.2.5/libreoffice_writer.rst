@@ -59,6 +59,8 @@ To have a view of the document with no margins shown like on a webpage :menusele
 
 To toggle your view of rulers press :kbd:`Control + Shift +R` or :menuselection:`View --> Rulers --> Rulers`.  
 
+To bring up a window with properties of your document :menuselection:`File --> Properties`. The :guilabel:`General` tab shows metadata about the file including creation or modification time. The :guilabel:`Descrption` tab has fields to input title subject and keywords and lets you also put in comments. 
+
 How to Launch
 -------------
 To launch go to menu :menuselection:`office --> libreoffice writer` or run 

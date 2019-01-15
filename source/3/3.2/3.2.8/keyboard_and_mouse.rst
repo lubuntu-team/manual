@@ -9,7 +9,7 @@ Lubuntu ships with version 0.13.0 of Keyboard and Mouse.
 
 Useage
 ------
-The :guilabel:`Mouse` tab provides settings for how fast the mouse moves scrolls and double clicks. To increase the sensitivity of the mouse drag the slider next to sensitivity towards the right or conversely to decrease sensitivity drag the slider towards less sensitivity. To increase acceleration of the mouse drag the :guilabel:`acceleration` slider to the right for acceleration and to make the mouse accelerate slower drag it to the left. The settings should apply immediately so make sure the mouse moves how you want it. If you do not like the new settings press the reset button to go back to your previous settings. 
+The :guilabel:`Mouse` tab provides settings for how fast the mouse moves scrolls and double clicks. To increase the sensitivity of the mouse drag the slider next to sensitivity towards the right or conversely to decrease sensitivity drag the slider towards less sensitivity. To increase acceleration of the mouse drag the :guilabel:`acceleration` slider to the right for acceleration and to make the mouse accelerate slower drag it to the left. The settings should apply immediately so make sure the mouse moves how you want it. If you do not like the new settings press the :guilabel:`reset` button to go back to your previous settings. 
 
 .. image:: keyboardandmouse.png
 

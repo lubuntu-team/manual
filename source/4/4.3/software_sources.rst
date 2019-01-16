@@ -32,9 +32,10 @@ Screenshot
 How to Launch
 -------------
 
-Muon Package Manager -> Settings-> Configure Software Sources
+In Muon Package Manager :menuselection:`Settings --> Configure Software Sources`
 
-Discover Software Center -> Settings -> Ubuntu (Default) -> Settings (Gear icon) -> Software Sources
+
+In Discover Software Center :menuselection:`Settings --> Ubuntu (Default) --> Settings (Gear icon) --> Software Sources`.
 
 command line:   
 

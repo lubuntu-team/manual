@@ -27,7 +27,7 @@ If you want have a move compact view :menuselection:`View --> Compact View` or p
 
 To sort your torrents by activity :menuselection:`View --> Sort by Activity`. To sort your torrents by age :menuselection:`View --> Sort by Age`. To sort your torrents by name :menuselection:`View --> Sort by Name`. To sort your torrents by Progress :menuselection:`View --> Sort by Progress`.  To sort your torrents by Queue :menuselection:`View --> Sort by Queue`. To sort your torrents by ratio uploaded to downloaded :menuselection:`View --> Sort by ratio`. To sort your torrents by size :menuselection:`View --> Sort by Size`. To sort your torrents by State :menuselection:`View --> Sort by State`. To sort your torrents by time to finish downloading :menuselection:`View --> Sort by time left`. To reverse the sort order :menuselection:`View --> Reverse sort order`.
 
-If you want to deprioitize the speed of your torrents press the button on the bottom of transmission that looks like a turtle. To change the raio view on the bottom to your total changes :menuselction:`Globe button --> Total Transfer`. 
+If you want to deprioitize the speed of your torrents press the button on the bottom of transmission that looks like a turtle. To change the raio view on the bottom to your total changes :menuselection:`Globe button --> Total Transfer`. 
 
 How to launch
 -------------

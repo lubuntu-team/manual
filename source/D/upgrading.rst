@@ -18,8 +18,14 @@ First, ensure your system is up-to-date by starting Software Updater and perform
 Since 18.10 is not an LTS (Long Term Support) release, you may have to opt in for non LTS versions of Lubuntu.
     - Select the Updates -> Notify me of a new Ubuntu version -> For any new version, from Software and Updates.
     - Close the update manager, and you should be prompted to upgrade to the latest release.
-    - Alternatively, you can start a terminal (Ctrl + Alt + T) and type in the command "update-manager -d"
-    - The -d flag is referring to the fact that it's moving to an unsupported release (if you are on the LTS track, this is accurate).
+    - Alternatively, you can start a terminal (Ctrl + Alt + T) and type in the command
+     
+.. code::
+
+   update-manager -d
+   
+   
+The -d flag is referring to the fact that it's moving to an unsupported release (if you are on the LTS track, this is accurate).
 
 .. image:: 03_development_release.png
 

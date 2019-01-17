@@ -9,7 +9,9 @@ Lubuntu Ships with version 0.7-0 of trojita.
 
 Useage
 ------
-To use trojita you will need to input your account information. After entering this in you will be asked to check the certificate for your server and will need to select the :guilabel:`yes` for the first time. If you did not insert your password to be stored on your computer a dialog box will popup and you will need to input it.
+To use trojita you will need to input your account information. You will need to type in your name so people know what call you and the email address so trojita needs to know what address to get information from. The :guilabel:`Imap` tab haas settings for how to get messages to your machine. The :guilabel:`Encryption` method tells what kind of encrpytion to use when accessing your mail as needed for your mail provider. The :guilabel:`Server` field is where you input what server to get your email from. 
+
+After entering this in you will be asked to check the certificate for your server and will need to select the :guilabel:`yes` for the first time. If you did not insert your password to be stored on your computer a dialog box will popup and you will need to input it.
 
 After you have set everything up a set of folders will appear on the left hand side. 
 

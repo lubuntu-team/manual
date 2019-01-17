@@ -44,6 +44,9 @@ To select all of your Settings for Quassel :menuselection:`Settings --> Configur
  
 To see all the nicknames of someone in a channel are located in a sidebar labeled :guilabel:`Nicks`. The lists of all channels you are in is labeled :guilabel:`All chats`. To switch between different channels left click on the channel name.
 
+Customizing
+-----------
+To change your prefrences for quassel press :kbd:`F7` or :menuselection:`Settings --> Configure Quassel`. To toggle showing tray icon check/uncheck the :guilabel:`Show system tray icon` checkbox.
 
 Version
 -------

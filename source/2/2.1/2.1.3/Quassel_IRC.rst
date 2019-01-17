@@ -48,7 +48,7 @@ Customizing
 -----------
 To change your prefrences for quassel press :kbd:`F7` or :menuselection:`Settings --> Configure Quassel`. To change the client style for the widget of quassel choose a widget style from the :guilabel:`Client style` drop down menu. To toggle showing tray icon check/uncheck the :guilabel:`Show system tray icon` checkbox. 
 
-The :guilabel:`Chat view` tab has settings for colors timestamps and hyperlinks.
+The :guilabel:`Chat view` tab has settings for colors timestamps and hyperlinks. To chose a custom chat window font press the :guilabel:`Custom chat window font` checkbox and then press the :guilabel:`choose` button to choose a new font.
 
 Version
 -------

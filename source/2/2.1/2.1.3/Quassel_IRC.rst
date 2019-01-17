@@ -46,7 +46,9 @@ To see all the nicknames of someone in a channel are located in a sidebar labele
 
 Customizing
 -----------
-To change your prefrences for quassel press :kbd:`F7` or :menuselection:`Settings --> Configure Quassel`. To toggle showing tray icon check/uncheck the :guilabel:`Show system tray icon` checkbox.
+To change your prefrences for quassel press :kbd:`F7` or :menuselection:`Settings --> Configure Quassel`. To change the client style for the widget of quassel choose a widget style from the :guilabel:`Client style` drop down menu. To toggle showing tray icon check/uncheck the :guilabel:`Show system tray icon` checkbox. 
+
+The :guilabel:`Chat view` tab has settings for colors timestamps and hyperlinks.
 
 Version
 -------

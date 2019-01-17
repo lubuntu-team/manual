@@ -59,7 +59,7 @@ To have a view of the document with no margins shown like on a webpage :menusele
 
 To toggle your view of rulers press :kbd:`Control + Shift +R` or :menuselection:`View --> Rulers --> Rulers`.  
 
-To bring up a window with properties of your document :menuselection:`File --> Properties`. The :guilabel:`General` tab shows metadata about the file including creation or modification time. The :guilabel:`Descrption` tab has fields to input title subject and keywords and lets you also put in comments. 
+To bring up a window with properties of your document :menuselection:`File --> Properties`. The :guilabel:`General` tab shows metadata about the file including creation or modification time. The :guilabel:`Descrption` tab has fields to input title subject and keywords and lets you also put in comments. The :guilabel:`Title` is where you can optionally put the title on. The :guilabel:`Subject` is a field to input the subject of the document. 
 
 How to Launch
 -------------

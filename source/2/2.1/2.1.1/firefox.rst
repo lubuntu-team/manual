@@ -34,6 +34,8 @@ To bookmark a page press :kbd:`Control +D` or Press the button with three vertic
 
 To zoom in if you find the text on a web page to small press :kbd:`control + +`. If you want to zoom out on the text or pictures press :kbd:`control + -`. To reset to the original zoom press :kbd:`control + 0`.
 
+To print a webpage such as directions you can click the button with horizontal bars and select :menuselection:`Print` from the menu. 
+
 If you want a menubar for firefox right click the tab bar and click the checkbox for menu bar.
 
 If you want to view your firefox prefrences you can type about:preferences into the address bar. To have your seession restored each time you restart firefox is on the general tab of firefox prefrences is to press restore previous session. The checkbox for :guilabel:`Restore previous session` checkbox restores your tab when you close firefox. The tabs section has a checkbox to :guilabel:`open links in new tabs` instead of new windows which is checked by default. The checkbox for :guilabel:`When you open a link a new tab switch to it immediately` switches to new tabs when you open them. The radio button group for :guilabel:`Downloads` lets you have a static location to save downloads or always ask to save files. 

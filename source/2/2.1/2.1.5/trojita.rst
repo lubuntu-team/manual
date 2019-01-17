@@ -17,6 +17,8 @@ To send an email to someone press :kbd:`Control +N` or :menuselection:`Imap --> 
 
 To view your messages on trojita to see new messages you have recieved in your inbox left click on the word :guilabel:`Inbox`. In the center of the window will show a list of all messages in your inbox. Unread messages will appear in bold. To view a message left click on the title and subject of the window and it will appear at the bottom. If you want to open this email in a popup window of its own double click the message title. If you recieve an email with an attachment a paperclip will appear on the message and click that to download the attachment or open it directly.
 
+To move to the next unread message press the :kbd:`n` key or to move to the previous message press the :kbd:`p` key.
+
 To reply to a message to just the person that sent it press :kbd:`Control + Shift +A` or :menuselection:`IMAP --> Private Reply`. To forward an email to someone else press :kbd:`Control +Shift+F` or :menuselection:`Imap --> Forward`.  
 
 .. image:: trojita.png

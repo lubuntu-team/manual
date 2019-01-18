@@ -59,7 +59,7 @@ To have a view of the document with no margins shown like on a webpage :menusele
 
 To toggle your view of rulers press :kbd:`Control + Shift +R` or :menuselection:`View --> Rulers --> Rulers`.  
 
-To bring up a window with properties of your document :menuselection:`File --> Properties`. The :guilabel:`General` tab shows metadata about the file including creation or modification time. The :guilabel:`Descrption` tab has fields to input title subject and keywords and lets you also put in comments. The :guilabel:`Title` is where you can optionally put the title on. The :guilabel:`Subject` is a field to input the subject of the document. The :guilabel:`Keywords` is to input keywords on the document. The :guilabel:`Comments` is where you can have comments about the document. 
+To bring up a window with properties of your document :menuselection:`File --> Properties`. The :guilabel:`General` tab shows metadata about the file including creation or modification time. The :guilabel:`Descrption` tab has fields to input title subject and keywords and lets you also put in comments. The :guilabel:`Title` is where you can optionally put the title on. The :guilabel:`Subject` is a field to input the subject of the document. The :guilabel:`Keywords` is to input keywords on the document. The :guilabel:`Comments` is where you can have comments about the document. To embed any fonts you have in the documnet click the :guilabel:`Font` tab and check the :guilabel:`Embed fonts in the document` checkbox. 
 
 How to Launch
 -------------

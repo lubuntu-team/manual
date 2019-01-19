@@ -15,7 +15,7 @@ If you wish to delete a notebook right click on a notebook and delete notebook, 
 
 To delete a note click on the note and press the button with a page X on it, press :kbd:`Control + Shift + D` or edit :menuselection:`Edit --> Delete note`. 
 
-If you make a mistake tpying and want to undo your changes press :kbd:`Control + z` or :menuselection:`Edit --> Undo`. If you wish to paste text into noblenote press :kbd:`Control + v` or :menuselection:`Edit --> Paste`. To copy text from your note press :kbd:`Control+C` or right click and select :menuselection:`Copy`. 
+If you make a mistake tpying and want to undo your changes press :kbd:`Control + z` or :menuselection:`Edit --> Undo`. If you wish to paste text into noblenote press :kbd:`Control + v` or :menuselection:`Edit --> Paste`. To copy text from your note press :kbd:`Control+C` or right click and select :menuselection:`Copy`. To select all text in a note press :kbd:`Control +A`. 
 
 To bring back up your note noblenote will leave a notebook icon in the system tray on the lower right hand corner of the panel by default which can bring back up the noblenote window. 
 

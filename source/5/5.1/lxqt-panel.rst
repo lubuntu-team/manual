@@ -62,6 +62,10 @@ The settings for removeable media is able to be opened up is right click the app
 
 To change the settings on your clock right click on the clock and then configure world clock. The format drop down menu allows you to change how the clock shows. To sleect a short format allows you to have a preselected short format which shows a 12 hour format and am just telling you what time it is. Selecting long from the menu will show you the time with seconds and the time zone. To have a customizeale clock message select custom and then checkboxes to show seconds, pad the hours with zeros or to use a 12 hour format. The :guilabel:`time zone` checkbox will show your your time zone. The :guilabel:`position` drop down  says where to put the time zone on the clock.     
 
+Non-Default widgets
+-------------------
+To use your sensors widgets which you would have to add manually as shown above. A sensor bar will appear with as many sensors as on your panel. To view the temp as a number mouse over the sensor bar to see what your temperture is in a number.
+
 Version
 -------
 Lubuntu ships with version 0.13.0 of lxqt-panel.

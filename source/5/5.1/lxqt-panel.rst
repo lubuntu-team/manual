@@ -66,7 +66,9 @@ Non-Default widgets
 -------------------
 To use your sensors widgets which you would have to add manually as shown above. A sensor bar will appear with as many sensors as on your panel. To view the temp as a number mouse over the sensor bar to see what your temperture is in a number. 
 
-To customize the sensors right click on the sensors :menuselection:`Configure "Sensors"`. The :guilabel:`Update interval(seconds)` field lets you choose how often in seconds to update the sensors. The :guilabel:`Temperature bar width` field shows how widw to make the bar for your sensors. The :guilabel:`Temperature Scale` field lets you select Celsius or Farenheit for your sensors. The checkbox :guilabel:`Warning about high temperature` puts a warning if your temperture gets too high. If you want to reset your settings press the :guilabel:`Reset` button.
+To customize the sensors right click on the sensors :menuselection:`Configure "Sensors"`. The :guilabel:`Update interval(seconds)` field lets you choose how often in seconds to update the sensors. The :guilabel:`Temperature bar width` field shows how widw to make the bar for your sensors. The :guilabel:`Temperature Scale` field lets you select Celsius or Farenheit for your sensors. The checkbox :guilabel:`Warning about high temperature` puts a warning if your temperture gets too high. If you want to reset your settings press the :guilabel:`Reset` button. 
+
+The :guilabel:`Sensors` tab is for each individual sensors on the board. To enable/disable which sensor press to the :guilabel:`Enabled` checkbox for each sensor. The :guilabel:`Label` shows a label for each sensor. 
 
 Version
 -------

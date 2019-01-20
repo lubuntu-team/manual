@@ -43,7 +43,7 @@ The checkbox for :guilabel:`override icon theme` lets you choose a non system de
 
 To add a new widget click on the widget on the panel configuration screen and press the :guilabel:`+`  button and select the widget you want to add some of which are not on the panel by default. To move an applet down on the order of presentation press the down arrow while the up arrow moves the applet up on the order of presentation. To remove an applet you do not want you can press the :guilabel:`-` button. The gear button has the settings for certain but not all of the applets in the panel for example the application menu and task manager are customizeable but quick launch and show desktop do not.  
 
-Shipped applets ont enabled by default:
+Shipped applets not enabled by default:
  - Cpu Monitor
  - Color Picker
  - Panel Dom Tree

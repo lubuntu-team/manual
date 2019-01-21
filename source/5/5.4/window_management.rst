@@ -29,6 +29,7 @@ Useful keyboard shortcuts
 -------------------------
 -   Closing a window :kbd:`Alt + F4`
 -   Switching through windows :kbd:`Hold Alt + hit Tab`
+-   To switch between tabs in the reverse direction :kbd:`Hold Alt + Shift+Tab`
 -   Resizing windows, :kbd:`Super (windows key) + directional arrows`.
 -   Show desktop with :kbd:`Control + Alt + D`.  
 

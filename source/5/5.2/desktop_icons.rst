@@ -1,7 +1,7 @@
 Chapter 5.2 Desktop Icons
 =========================
 
-The icons on your desktop can be moved by left clicking, holding and dragging the desktop icon to the position you want it. Shortcuts or desktop entry files can be opened by double click on the icon. If you want to view or edit a desktop file say for launching an application is to right click on the icon open with and slect say a text editor like featherpad to open file. 
+The icons on your desktop can be moved by left clicking, holding and dragging the desktop icon to the position you want it. Shortcuts or desktop entry files can be opened by double click on the icon. If you want to view or edit a desktop file say for launching an application is to right click on the icon open with and slect say a text editor like featherpad to open file. If you move a desktop icon and then want to move it back right click and uncheck :menuselection:`Stick to current Position`. 
 
 Adding and removing items from the desktop
 ------------------------------------------
@@ -11,5 +11,5 @@ Adding and removing items from the desktop
 
 .. image:: desktop_entry.png
 
-To remove a desktop icon right click on the file and click move to trash.  
+To remove a desktop icon right click on the file and click :menuselection:`move to trash`.  
 

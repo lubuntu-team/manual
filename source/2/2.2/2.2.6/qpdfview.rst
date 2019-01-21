@@ -56,7 +56,7 @@ To deal with settings on graphics press press on the :guilabel:`graphics` tab. T
 
 The :guilabel:`PDF` tab has more settings for pdfs. The :guilabel:`Antialiasing` checkbox gives pdfs antialiaasing. The :guilabel:`Text antialiasing` checkbox has antialiasing on text of pdfs.  
 
-To change the interface settings click on the :guilabel:`interface` tab.  If you want the tabs to be spread out press the spread tabs checkbox. The the tab position changes where the tabbar on the window. The tab visibility can be set to as needed, always or never. The checkbox for new tab next to current tab opens new tabs next to the current one. The field for recently used lets you set the maximum number of files to keep around in recently used.   
+To change the interface settings click on the :guilabel:`interface` tab.  If you want the tabs to be spread out press the spread tabs checkbox. The the tab position changes where the tabbar on the window. The tab visibility can be set to as needed, always or never. The checkbox for new tab next to current tab opens new tabs next to the current one. The field for recently used lets you set the maximum number of files to keep around in recently used. The :guilabel:`Spread tabs` checkbox spreads the tabs to take up the whole tab bar and they get smaller the more tabs you open.   
 
 .. image:: qpdfviewprefrences.png
 

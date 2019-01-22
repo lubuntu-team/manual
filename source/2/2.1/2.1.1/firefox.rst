@@ -46,7 +46,7 @@ To tab on the left :guilabel:`Home` has settings for your home and opening of ne
 
 To manage your search settings use the :guilabel:`search` tab on prefrences. The radio button for :guilabel:`Search Bar` changes whether you want a seperate search bar or and integrated search bar for search and navigation. The :guilabel:`Default Search Engine` lets you change your default search engine. To toggle whether to search suggestions check/uncheck the :guilabel:`Provide search suggestions`.
 
-I to copy text in firefox press :kbd:`Control +C`. To paste text into firefox press :kbd:`Control+ V`.
+I to copy text in firefox press :kbd:`Control +C`. To paste text into firefox press :kbd:`Control+ V`. To cut text in firefox press :kbd:`Control+X`.
 
 Version
 ----------

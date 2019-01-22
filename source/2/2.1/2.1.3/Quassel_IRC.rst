@@ -46,11 +46,12 @@ To see all the nicknames of someone in a channel are located in a sidebar labele
 
 Customizing
 -----------
-To change your prefrences for quassel press :kbd:`F7` or :menuselection:`Settings --> Configure Quassel`. To change the client style for the widget of quassel choose a widget style from the :guilabel:`Client style` drop down menu. To toggle showing tray icon check/uncheck the :guilabel:`Show system tray icon` checkbox. 
+To change your prefrences for quassel press :kbd:`F7` or :menuselection:`Settings --> Configure Quassel`. To change the client style for the widget of quassel choose a widget style from the :guilabel:`Client style` drop down menu. To toggle showing tray icon check/uncheck the :guilabel:`Show system tray icon` checkbox. If you want to be able to close the quassel window 
+and still have quassel running in the system tray to bring it back up check the :guilabel:`Hide to tray on close button`.
 
 The :guilabel:`Chat view` tab has settings for colors timestamps and hyperlinks. To chose a custom chat window font press the :guilabel:`Custom chat window font` checkbox and then press the :guilabel:`choose` button to choose a new font. To toggle if you want colored text press/unpress the :guilabel:`Allow colored text` checkbox. To toggle previews of hyperlinks in chat check/uncheck the :guilabel:`Show previews of webpages on URL hover`. To toggle setting marker line when switching chats check/uncheck the :guilabel:`Set marker line automatically when switching chats`. To toggle the set marker line automatically when Quassel losses focus check/uncheck :guilabel:`Set marker line automatically when Quassel loses focus` checkbox.
 
-The :guilabel:`Chat & Nick Lists` has settings for the lists of nickname lists. The :guilabel:`Custom font` checkbox lets you chose a custom font on the lists of nicks and the :guilabel:`Choose` button lets you choose the font you want. 
+The :guilabel:`Chat & Nick Lists` has settings for the lists of nickname lists. The :guilabel:`Custom font` checkbox lets you chose a custom font on the lists of nicks and the :guilabel:`Choose` button lets you choose the font you want.  
 
 Version
 -------

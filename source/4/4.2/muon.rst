@@ -21,6 +21,8 @@ If you want to save all of your packages on a text file you can :menuselection:`
 
 On the bottom of muon package manager there is a toolbar that states how many packages are available, installed, and upgradeable.
 
+To view and configure your shortcuts :menuselection:`Settings --> Configure Shortcuts` and a window to open shortcuts will appear. The column for :guilabel:`Action` says what the keyboard shortcut will do. The column  :guilabel:`shortcut` will let you have a shortcut to apply changes. To add shortcut to something that does not have it press the small faint :menuselection:`-->` will bring a drop down menu and presss the button next to the word :guilabel:`Custom` and input :kbd:`Your shortcut here`.  
+
 Screenshot
 ----------
 .. image:: muon.png

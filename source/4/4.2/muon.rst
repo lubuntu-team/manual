@@ -27,7 +27,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 4:5.8.0 of muon package manager
+Lubuntu ships with version 4:5.8.0 of muon package manager. 
 
 How to Launch
 -------------

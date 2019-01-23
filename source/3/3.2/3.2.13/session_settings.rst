@@ -7,6 +7,8 @@ Usage
 ------
 The :guilabel:`Basic Settings` tab lets you change with a window manager  and LXQt modules. To change the window manager used by LXQt, on the basic settings tab use the drop down menu labeled window manager. Choose from the drop down list or search if the drop down list does not contain your new window manager. LXQt modules lists the different part of LXQt if you find you do not want part of LXQt active you can enable or disable them here. If you wish to start the compton X11 compositor you can do so here, we have chosen to disable it at default to lower system resources by default.
 
+.. image:: sessionsettings-basic.png
+
 The checkbox for :guilabel:`ask confirmation to leave session` gives you a simple yes no dialog to make sure you really want to leave so you do not lose your work uncheck it if you do not want this and find this dialog annoying. The lock screen before suspending or hibrenating locks your screen before suspending and hibernating and is checked by default unchecking this will leave this so the screen is not unlocked after suspending or hibernating. 
 
 The :guilabel:`Default Applications` tab lets you change your default browser and terminal emeulator. The drop down for :guilabel:`terminal emulator` lets you change the terminal emulator and the drop down for :guilabel:`web browser` lets you change your webbrowser.

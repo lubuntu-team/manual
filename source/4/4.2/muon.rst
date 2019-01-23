@@ -13,7 +13,7 @@ When you find your package you want to install on the bottom half of the screen 
 
 If you want to see your history of package updates and installed from the :menuselection:`menu --> view --> history` or press :kbd:`control + h`. To view all installed packes on the left hand side of the window under filetered click the divider for :guilabel:`By status` and select :guilabel:`installed`. now in the upper main part of the window will be a window with a scrollbar to see all packages on your system. 
 
-If you remove some packages you may have packages that were dependencies that are no longer needed anymore you can check on this by clicking the divider on the left hand side by :menuselection:`By Status --> Installed(auto-removeable)` will show if you have packages that are now able to be removed without any problems that are no longer serving a purpose. Then select the :guilabel:`Mark for Removeal` button. Then of course you will need to press the :guilabel:`Apply Changes` button to apply changes. 
+If you remove some packages you may have packages that were dependencies that are no longer needed anymore you can check on this by clicking the divider on the left hand side by :menuselection:`By Status --> Installed(auto-removeable)` will show if you have packages that are now able to be removed without any problems that are no longer serving a purpose. Then select the :guilabel:`Mark for Removeal` button. If you just want to mark all packages for removal :menuselection:`Edit --> Remove Unesscary Packages`. Then of course you will need to press the :guilabel:`Apply Changes` button to apply changes. 
 
 To check for updates in muon press :kbd:`Control + R` or the gear button with an arrow or :menuselection:`Edit --> Check for Updates`.  
 

@@ -9,7 +9,8 @@ Lubuntu ships with version 2.1.0 of skanlite.
 
 Useage
 ------
-To preview what you want to scan press the :guilabel:`preview` button and you can make sure the scan is in a good position. With this done you can press the :guilabel:`scan` button to scan the document after this a dialog will show up asking you were to save what you are scanning. If you want to cancel your scan midway through the scan click on the red x button to cancel the scan while the scan is in progress.  
+To preview what you want to scan press the :guilabel:`preview` button and you can make sure the scan is in a good position. With this done you can press the :guilabel:`scan` button to scan the document after this a dialog will show up asking you were to save what you are scanning. If you want to cancel your scan midway through the scani or preview click on the red octogon with a white inside x button to cancel the scan while the scan is in progress.  
+p
 
 
 If your scanner is not detected a you will get a device saying "Sorry no devices detected" whith having a button for :guilabel:`Reload devices list` to try and find your scanner again. If you want to cancel press the :guilabel:`Cancel` button. 

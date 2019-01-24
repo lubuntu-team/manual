@@ -21,6 +21,8 @@ To make a number negative press the button that looks like a :guilabel:`+/-`. To
 
 To copy and answer out of Kcalc press :kbd:`control + c` or :menuselection:`edit --> copy` from the menu. To paste a number into Kcalc you can press :kbd:`control + v` or :menuselection:`edit --> paste` from the menu. To cut the text from Kcalc press :kbd:`control +x` or :menuselection:`edit --> cut` from the menu.
 
+To undo an operation press :kbd:`Control+Z` or :menuselection:`Edit --> Undo`. To redo an operation press :kbd:`Control+Shift+Z` or :menuselection:`Edit --> Redo`. 
+
 Scientific calculator mode advanced fuctionality
 ------------------------------------------------
 

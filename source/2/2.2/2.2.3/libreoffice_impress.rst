@@ -36,7 +36,7 @@ To insert an image click :menuselection:`Insert --> Image`. To drag your image t
 
 To change the zoom of you presentation :menuselection:`View --> Zoom --> Zoom` to bring up a window to manage your zoom. If you just want to zoom to fit the page width :menuselection:`View --> Zoom --> Page Width`. 
 
-On the left there is a panel showing what slides you currently have in left side of the window. To insert a new slide right click on this panel on the left and select new slide or press :kbd:`Control + Enter`. To delete a slide on the left hand slide right click and select delete slide. To create another copy of a slide right click and then select duplicate slide. 
+On the left there is a panel showing what slides you currently have in left side of the window. To insert a new slide right click on this panel on the left and select new slide or press :kbd:`Control + Enter`. To delete a slide on the left hand slide right click and select delete slide or :menuselection:`Slide --> Delete Slide`. To create another copy of a slide right click and then select duplicate slide. 
 
 To move a slide down :menuselection:`Slide --> Move --> Slide Down`. To move a slide up :menuselection:`Slide --> Move --> Slide Up`. To move a slide to the start :menuselection:`Slide --> Move --> Slide to start`. To move a slide to the end :menuselection:`Slide --> Move --> Slide to end`.
 

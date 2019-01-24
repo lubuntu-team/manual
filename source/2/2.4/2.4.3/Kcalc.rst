@@ -32,6 +32,11 @@ To change the unit that angles are measured in for triginometric units in Kcalc.
 
 .. image:: kcalc-scientific.png
 
+
+Customizing
+-----------
+To open configruation for kcalc press :kbd:`Control+Shift+ +` or :menuselection:`Settings --> Configure Kcalc`. To change the maximum number of digits change the :guilabel:`Maximum number of digits` field. If you want to show the result in the window title check the :guilabel:`Show result in window title` checkbox.
+
 Version
 -------
 Lubuntu ships with version 18.04.3 of Kcalc.

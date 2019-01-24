@@ -32,7 +32,7 @@ To search for text press :kbd:`Control + F` or :menuselection:`Edit --> Find` to
 
 To move a text box around you can left click on the text box and drag it to the desired position. To resize a text box click on the corner and drag to resize to the desired size.
 
-To insert an image click :menuselection:`Insert --> Image`. To drag your image to where you want it left click and drag the mouse to where you want the image. To resize the image without distorting it click one of the boxes on the corner and resize to the size you wish. If you want to delete an image press :kbd:`Delete`. To replace an image right click the image and :menuselection:`Replace` will bring a file picker up to pick a new image. To crop an image right click on the image and select :menuselection:`Crop`. To save an image out of a presentation right click on the image and select :menuselection:`Save ...`.  
+To insert an image click :menuselection:`Insert --> Image`. To drag your image to where you want it left click and drag the mouse to where you want the image. To resize the image without distorting it click one of the boxes on the corner and resize to the size you wish. If you want to delete an image press :kbd:`Delete`. To replace an image right click the image and :menuselection:`Replace` will bring a file picker up to pick a new image. To crop an image right click on the image and select :menuselection:`Crop`. To save an image out of a presentation right click on the image and select :menuselection:`Save ...`.   
 
 To change the zoom of you presentation :menuselection:`View --> Zoom --> Zoom` to bring up a window to manage your zoom. If you just want to zoom to fit the page width :menuselection:`View --> Zoom --> Page Width`. 
 
@@ -41,6 +41,8 @@ On the left there is a panel showing what slides you currently have in left side
 To move a slide down :menuselection:`Slide --> Move --> Slide Down`. To move a slide up :menuselection:`Slide --> Move --> Slide Up`. To move a slide to the start :menuselection:`Slide --> Move --> Slide to start`. To move a slide to the end :menuselection:`Slide --> Move --> Slide to end`.
 
 To start a slideshow press :kbd:`f5` or the button the looks like a tv with a triangle on it or :menuselection:`slideshow --> start from the first slide.` To start a slideshow from the current slide press :kbd:`Shift + f5` or :menuselection:`Slideshow --> Start from current slide`. To exit the slideshow press escape. To get to the next slide of the slideshow click or press the right arrow key. to get to a previous slide in presentation mode press the left arrow key or right click previous.    
+
+To view your slides right next to each other :menuselection:`View --> Slide Sorter`. 
 
 Screenshot
 ----------

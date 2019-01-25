@@ -27,6 +27,8 @@ To speed up playback faster than normal press the :kbd:`+` key or use :menuselec
 
 To view info on your media press :kbd:`Control + I` or click :menuselection:`Tools --> Media info`.
 
+If you want a minimal interface that hides menubar and toolbars press :kbd:`Control +H` or :menuselection:`View --> Minimal View`. To access the fucntionality of the menubar you can right click on where the video will play. To get back to the default view press :kbd:`Control+H` again or right click and then :menuselection:`View --> Minimal View`. 
+
 Screenshot
 ----------
 .. image:: vlc.png

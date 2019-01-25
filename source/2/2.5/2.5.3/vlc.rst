@@ -13,7 +13,7 @@ On the bottom right of vlc there is a bar that gets wider for volume. Click fart
 
 To make the same sound come out of both speakers go to :menuselection:`Audio --> Stereo mode --> Mono`. The sound to make a different left and right channel on each speaker will be :menuselection:`Audio --> Stereo Mode --> Stereo`. To make all sound come from the left channel :menuselection:`Audio --> Stereo Mode --> Left` and likewise for Right.  
 
-To see how long you have been watching the current piece of media counts up above the play pause button in a time. At the other side a number will show the length of the media you are playing and inbetween is a slider with the current time. Moving the slider to the left will rewind playback while moving it to the left will fast forward playback. When you mouseover the progress for playback it will show the time at that point and that will jump to that time when you left click. Another way to jump to a specific time is to press :kbd:`control +T` or :menuselection:`Playback --> Jump to specific time`.
+To see how long you have been watching the current piece of media counts up above the play pause button in a time. At the other side a number will show the length of the media you are playing and inbetween is a slider with the current time. Moving the slider to the left will rewind playback while moving it to the left will fast forward playback. When you mouseover the progress for playback it will show the time at that point and that will jump to that time when you left click. Another way to jump to a specific time is to press :kbd:`control +T` or :menuselection:`Playback --> Jump to specific time`. To move back 10 seconds in playback press :kbd:`Left arrow`. To jump forward 10 seconds in playback press :kbd:`Right arrow`.
 
 To open an equalizier press the button that looks like several physical slider swichtes and on the audio effects equalizer tab press enable on the equalizer. Then to increase or decrease the sound at each frequency up to increase the volcume at that frequency.  
 
@@ -30,6 +30,8 @@ To view info on your media press :kbd:`Control + I` or click :menuselection:`Too
 If you want a minimal interface that hides menubar and toolbars press :kbd:`Control +H` or :menuselection:`View --> Minimal View`. To access the fucntionality of the menubar you can right click on where the video will play. To get back to the default view press :kbd:`Control+H` again or right click and then :menuselection:`View --> Minimal View`. 
 
 To view more advanced controls :menuselection:`View --> Advanced Controls`. To view to a status bar with what is playing and the speed with :menuselection:`View --> Status bar`. 
+
+To change the aspect ratio of a video :menuselection:`Video --> Aspect Ratio` and select the one you wish. 
 
 Screenshot
 ----------

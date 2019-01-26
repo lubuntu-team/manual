@@ -28,7 +28,7 @@ If you want to paste text into a slideshow press :kbd:`Control + V` or :menusele
 
 To insert a special character :menuselection:`Insert --> Special Character`. To center your text press :kbd:`Control + E` or :menuselection:`Format --> Align --> Center`. To have your text aligned to the right press :kbd:`Control +R` or :menuselection:`Format --> Align --> Right`. To align text to the left press :kbd:`Control + L` or :menuselection:`Format -->Align --> Left`.
 
-To move settings with a box of text left click on the border of the box of text. To move the text box click and drag on the border. 
+To move settings with a box of text left click on the border of the box of text. To move the text box click and drag on the border. To resize both vertical and horizontal size together left click on the corner and resize the text box. To resize how tall the text box is click the box at the top and bottom and drag to the desired size. 
 
 To search for text press :kbd:`Control + F` or :menuselection:`Edit --> Find` to search for text. To find and replaace text press :kbd:`Control + H` or :menuselection:`Edit --> Find and Replace`.
 

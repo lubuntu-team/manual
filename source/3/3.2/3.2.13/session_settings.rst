@@ -13,7 +13,7 @@ The checkbox for :guilabel:`ask confirmation to leave session` gives you a simpl
 
 The :guilabel:`Default Applications` tab lets you change your default browser and terminal emeulator. The drop down for :guilabel:`terminal emulator` lets you change the terminal emulator and the drop down for :guilabel:`web browser` lets you change your webbrowser.
 
-The :guilabel:`Autostart` tab has settings for what to autostart. The autostart applications lets you choose which applications to autostart like managers for print queues. All of these are check-boxes to start various programs. You can start a program at startup by adding it here. Click the :guilabel:`add` button, give the process a name e.g. "Terminal drop down" and type in the appropriate terminal command e.g. "terminal -d" where it says :guilabel:`Command`.
+The :guilabel:`Autostart` tab has settings for what to autostart. The autostart applications lets you choose which applications to autostart like managers for print queues. All of these are check-boxes to start various programs. You can start a program at startup by adding it here. Click the :guilabel:`add` button, give the process a name e.g. "Terminal drop down" and type in the appropriate terminal command e.g. "terminal -d" where it says :guilabel:`Command`. To change a keyboard shortcut press the :guilabel:`Edit` button. 
 
 The tab for :guilabel:`Environment (Advanced)` has many effects for you environment variables for your session. Several of theese varibles relate to hidpi support see `<https://forum.lxqt.org/t/detailed-guide-to-enable-high-dpi-scaling-on-lxqt/507/5>`_ .
 

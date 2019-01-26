@@ -15,7 +15,7 @@ The :guilabel:`Default Applications` tab lets you change your default browser an
 
 The :guilabel:`Autostart` tab has settings for what to autostart. The autostart applications lets you choose which applications to autostart like managers for print queues. All of these are check-boxes to start various programs. You can start a program at startup by adding it here. Click the :guilabel:`add` button, give the process a name e.g. "Terminal drop down" and type in the appropriate terminal command e.g. "terminal -d" where it says :guilabel:`Command`. To change a keyboard shortcut press the :guilabel:`Edit` button. 
 
-The tab for :guilabel:`Environment (Advanced)` has many effects for you environment variables for your session. Several of theese varibles relate to hidpi support see `<https://forum.lxqt.org/t/detailed-guide-to-enable-high-dpi-scaling-on-lxqt/507/5>`_ .
+The tab for :guilabel:`Environment (Advanced)` has many effects for you environment variables for your session. The :guilabel:`Variable Name` provides the name of the environment variable. To change the value of a varible double click on the value under the :guilabel:`Value` column. Several of theese varibles relate to hidpi support see `<https://forum.lxqt.org/t/detailed-guide-to-enable-high-dpi-scaling-on-lxqt/507/5>`_ .
 
 If you want to undo changes you have done press the :guilabel:`reset` button. 
 

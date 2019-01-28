@@ -49,6 +49,7 @@ Shipped applets not enabled by default:
  - Panel Dom Tree
  - Sensors
  - System Statisitics
+ - Spacer
 
 .. image:: panel-config-widgets.png
 
@@ -73,6 +74,8 @@ The Color picker is shows what color something is on your screen usually useful 
 To customize the sensors right click on the sensors :menuselection:`Configure "Sensors"`. The :guilabel:`Update interval(seconds)` field lets you choose how often in seconds to update the sensors. The :guilabel:`Temperature bar width` field shows how widw to make the bar for your sensors. The :guilabel:`Temperature Scale` field lets you select Celsius or Farenheit for your sensors. The checkbox :guilabel:`Warning about high temperature` puts a warning if your temperture gets too high. If you want to reset your settings press the :guilabel:`Reset` button. 
 
 The :guilabel:`Sensors` tab is for each individual sensors on the board. To enable/disable which sensor press to the :guilabel:`Enabled` checkbox for each sensor. The :guilabel:`Label` shows a label for each sensor. The :guilabel:`Color` column shows the color for the bar to appear in the panel and you can bring up a dialog to change color by left clicking on the button. 
+
+To add a spacer to your panel add the spacers widget. It creates a blank space on your panel.
 
 Version
 -------

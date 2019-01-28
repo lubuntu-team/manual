@@ -75,7 +75,7 @@ To customize the sensors right click on the sensors :menuselection:`Configure "S
 
 The :guilabel:`Sensors` tab is for each individual sensors on the board. To enable/disable which sensor press to the :guilabel:`Enabled` checkbox for each sensor. The :guilabel:`Label` shows a label for each sensor. The :guilabel:`Color` column shows the color for the bar to appear in the panel and you can bring up a dialog to change color by left clicking on the button. 
 
-To add a spacer to your panel add the spacers widget. It creates a blank space on your panel.
+To add a spacer to your panel add the spacers widget. It creates a blank space on your panel. To change how wide your spacer is change the :guilabel:`Space Width` field to the number of pixels you want the spacer to be wide. The setting for :guilabel:`Space type` selects a solid line, a dotted line, or invisible for how the spacer appears on the panel.
 
 Version
 -------

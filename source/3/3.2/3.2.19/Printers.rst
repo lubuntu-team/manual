@@ -5,7 +5,7 @@ Pritners allows you to configure your printer and show your print queue.
 
 Useage
 ------
-To view your print queue right click on the printer and right click view print queue or with the printer slected press :kbd:`Control+F` and if a job is held you can restart it. To view the properties of printer or make changes with :menuselection:`Printer --> Properties`. 
+To view your print queue right click on the printer and right click view print queue or with the printer slected press :kbd:`Control+F` or :menuselection:`Printer --> View Print Queue` and if a job is held you can restart it. To view the properties of printer or make changes with :menuselection:`Printer --> Properties`. 
 
 Screenshot
 ----------

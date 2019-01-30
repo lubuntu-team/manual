@@ -15,9 +15,10 @@ If you get a url in your terminal you can right click copy link address to copy 
 Customizing
 -----------
 
-To change your preferences go to :menuselection:`file --> preferences`. To change your font press the font change the font and size press the change button in the preferences dialog. The :guilabel:`color scheme` field lets you say change how different colored things in the terminal colors appear. The :guilabel:`widget style` lets you overwrite the system widget style with something other than system default. The :guilabel:`scrollbar position` lets you move the scrollbar to the left or right or remove it entirely. The :guilabel:`tabs position` moves the bar to that part of the window of qterminal. The :guilabel:`cursor shape` changes the shape of the cursor between block cursor a large block, underline cursor a small underline, or i beam which is quite small like a | character. To toggle showing the menubar check/uncheck the :guilabel:`Show the menubar` checkbox. 
+To change your preferences go to :menuselection:`file --> preferences`. To change your font press the font change the font and size press the change button in the preferences dialog. The :guilabel:`color scheme` field lets you say change how different colored things in the terminal colors appear. The :guilabel:`widget style` lets you overwrite the system widget style with something other than system default. The :guilabel:`scrollbar position` lets you move the scrollbar to the left or right or remove it entirely. The :guilabel:`tabs position` moves the bar to that part of the window of qterminal. The :guilabel:`cursor shape` changes the shape of the cursor between block cursor a large block, underline cursor a small underline, or i beam which is quite small like a | character. 
 
-The box for showing close button on each tab if unchecked will not have a button to close each tab will not have the red x button  on each tab.
+To toggle showing the menubar check/uncheck the :guilabel:`Show the menubar` checkbox. The checkbox :guilabel:`Hide tab bar with only one tab` hides the tab bar when you only have one tab.
+
 
 To apply these changes to see how they appear on qterminal press the :guilabel:`apply` button. If you like your new customized terminal layout press the OK button or if you wish to cancel your changes press the :guilabel:`cancel` button. 
 

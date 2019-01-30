@@ -24,7 +24,7 @@ Screenshot
 
 Useage
 ------
-To open a new tab in firefox press the plus button on the right of the tab bar or press :kbd:`Control + t`. To close a tab press the button with an x on the right side of the tab or press :kbd:`Control +W`.  To Open a new window in browsing press :kbd:`Control +N`. To view your browsing history press the button that looks like a stack of books with the last one at the end the third item down will show you history or press :kbd:`Control +H`. To view your downloaded files press the button that looks like three stacked books with a fourth leaning over -> Downloads.
+To open a new tab in firefox press the plus button on the right of the tab bar or press :kbd:`Control + t`. To close a tab press the button with an x on the right side of the tab or press :kbd:`Control +W`.  To Open a new window in browsing press :kbd:`Control +N`. To view your browsing history press the button that looks like a stack of books with the last one at the end the third item down will show you history or press :kbd:`Control +H`. To view your downloaded files press the button that looks like three stacked books with a fourth leaning over :menuselection:`--> Downloads`.
 
 To go back to a previous page in firefox press the button pointing to the left or press :kbd:`Control + LEft arrow`. To open the page you were previously at in a new tab middle click the back button. To go forward to a page you have visited before but have now gone back from press the button with the arrow pointing to the right or :kbd:`Control+ Right`. Middle click on the forward button to open the page you went back from in a new tab. To download a file directly to your local disk right click on the save file as and then you will get options to save the file where you want.  
 

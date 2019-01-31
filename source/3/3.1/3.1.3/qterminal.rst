@@ -19,6 +19,8 @@ To change your preferences go to :menuselection:`file --> preferences`. To chang
 
 To toggle showing the menubar check/uncheck the :guilabel:`Show the menubar` checkbox. The checkbox :guilabel:`Hide tab bar with only one tab` hides the tab bar when you only have one tab. The checkbox :guilabel:`Limit tab width` limits how wide a tab would be how be and the filed next to it is how wide to limit the width of tabs.The :guilabel:`Show a border around the current terminal` shows a border around the terminal. The checkbox :guilabel:`Show terminal size on resize` toggles showing the terminal size on resizing the window.
 
+The field :guilabel:`Application transparency` gives you the percent transparent for the full application transparency. The feild :guilabel:`Terminal transparency` is how transparent to make the terminal. Note you will need to enable the compton compositor for this function properly. 
+
 
 To apply these changes to see how they appear on qterminal press the :guilabel:`apply` button. If you like your new customized terminal layout press the OK button or if you wish to cancel your changes press the :guilabel:`cancel` button. 
 

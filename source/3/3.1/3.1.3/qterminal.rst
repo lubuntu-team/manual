@@ -12,6 +12,8 @@ To open a new tab go to the :menuselection:`file --> new tab` or press :kbd:`con
 
 If you get a url in your terminal you can right click copy link address to copy the link. To open your link directly press :kbd:`Control + left click`. To zoom in on the terminal press :kbd:`Control + Shift + +` or right click and select zoom in. To zoom out press :kbd:`Control + -` or right click zoom out. To return to the original zoom press :kbd:`Control + 0` or right click original zoom. If you want qterminal to be fullscreen press :kbd:`F11` to make it fullscreen then :kbd:`F11` again to make it back to its original size.
 
+To split your terminal vertically into two terminals on top of each other :menuselection:`Actions --> Split Terminal Horizontal`. To have one terminal to the left and one to the right :menuselection:`Actions --> Split Terminal Vertically`. To collpase back to how your terminal back to how they were before :menuselection:`Actions --> Collapse Subterminal`.
+
 Customizing
 -----------
 

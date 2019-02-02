@@ -30,7 +30,7 @@ The field :guilabel:`Application transparency` gives you the percent transparent
 
 To apply these changes to see how they appear on qterminal press the :guilabel:`apply` button. If you like your new customized terminal layout press the OK button or if you wish to cancel your changes press the :guilabel:`cancel` button. 
 
-The :guilabel:`Behavior` tab changes history, pasting, and different kinds of emulation. The button for unlimited history will save an unlimited amount of history. The history size in line lets you save only that many lines of history. The checkbox for Confirm multiline paste brings up a confirmation for pasting multiple lines.
+The :guilabel:`Behavior` tab changes history, pasting, and different kinds of emulation. The button for unlimited history will save an unlimited amount of history. The history size in line lets you save only that many lines of history. The checkbox for :guilabel:`Confirm multiline paste` brings up a confirmation for pasting multiple lines.
 
 .. image:: qterminalprefrences.png 
 

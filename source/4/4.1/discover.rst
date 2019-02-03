@@ -8,7 +8,7 @@ Discover allows you to search for applications by using the search box. Clicking
 
 To search for programs in discover type in the search bar in the upper left or press :kbd:`Control + F`. To view featured applications press the blue rectangle on the top left hand corner. 
 
-Discover allows you to update software using the Updates tab located on the bottom of the left column. You can click the :guilabel:`Check for updates` button to check for updates manually. If you have updates that need to be installed Update with a gear and will be highlighted in orange and the number of updates that are available.
+Discover allows you to update software using the Updates tab located on the bottom of the left column. You can click the :guilabel:`Check for updates` button to check for updates manually. If you have updates that need to be installed Update with a gear and will be highlighted in orange and the number of updates that are available. When you select updates to install and have updates towards the upper left shows you the number of packages to update and the size of the download in parenthisis. To finally update press the :guilabel:`Update All` button to install all updates and then you will need to enter your password to make sure you are installing these updates. 
 
 To remove software use the :guilabel:`Installed` tab. You can browse your installed packages, search using the search bar (upper left corner), and the click the remove button to remove software by pressing the :guilabel:`Remove` button. If you have a program installed there will also be a :guilabel:`Launch` button will actually launch this program.
 

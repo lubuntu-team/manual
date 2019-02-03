@@ -12,6 +12,8 @@ Useage
 ------
 The :guilabel:`Shadow` tab manages how compton draws shadows. To toggle enable client side shadows press the Enable client side shadows checkbox. The checkbox for Aviod drawing shadows on dock/panel windows will stop drawing shadows on the panel. The label for color lets you change the color of your shadows. The field for blur radius for shadows changes how big to blur the shadows. The :guilabel:`left offset for shadows` is how far to move the shadows to the left with a larger number makes the shadow appear farther to the right. The :guilabel:`top offset for shadows` the larger the number farther down the shadow appears below the window. The field for :guilabel:`translucany for shadows` is how opaque or clear to make the shadows 1 is opqaque shadows and 0 is clear. The :guilabel:`Crop shadows of maximized windows from extended displays` checkbox does not have shadows across multimonitor layouts on other monitors from windows on another.  
 
+.. image:: window_effects.png
+
 The :guilabel:`opacity` tab is for transparency settings. Setting Opacity to 1.00 makes it opaque while 0 makes it entirely clear. Menus, inactive windows, active windows titlebars and borders all can have their opacity changed indepently. The :guilabel:`Blur background of transparent windows` blurs the background of transparent windows. 
 
 .. image:: compton_conf_opacity.png
@@ -21,10 +23,6 @@ The :guilabel:`Fade` tab manages fading windows opening or closing or opacity ch
 .. image:: compton_conf_fade.png
 
 To have your settings applied you will need to press the :guilabel:`apply` button. If you want to cancel your changes press the :guilabel:`cancel` button.
-
-Screenshot
-----------
-.. image:: window_effects.png
 
 How to Launch
 -------------

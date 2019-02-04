@@ -55,6 +55,8 @@ Customizing
 -----------
 To open a dialog for prefrences of pcmanfm-qt :menuselection:`Edit --> Prefrences`. The :guilabel:`Behavior` tab has settings for the way pcmanfm-qt manages files. The checkbox :guilabel:`Open files with single click` opens files by clicking on them once and you select the files by mousing over them. The :guilabel:`Bookmarks` drop down menu has options to either open bookmarks in the current tab, open bookmarks in a new tab, or open bookmarks in a new window. The :guilabel:`Confirm before deleting files` checkbox makes a confirm dialog before deleting files. The checkbox :guilabel:`Move deleted files to "Trash bin instead of erasing from disk` puts files in the trash bin instead of always deleting them. The :guilabel:`Erase files on removable media instead of "trash can" creation` Erases files on removable media isntead of creating a trash can on the removable media. The checkbox :guilabel:`Confirm before moving files into "trash can"` brings a confirmation dialog before moving files to the trash can. The checkbox :guilabel:`Launch executable files without prompt` will run executable files without bringing up a prompt asking what to do with the file. To select new files automatically check/uncheck the :guilabel:`Select newly created files` checkbox.
 
+The tab :guilabel:`Display` tab allows you to change icon sizes and changes size prefexes hide backup files and settings for margins. The :guilabel:`Size of big icons` changes the size of big icons in pcmanfm-qt. The :guilabel:`Size of small icons` Changes the size of small icons for pcmanfm-qt. The :guilabel:`Size of thumbnails` changes the size of thumbnails in pcmanfm-qt.
+
 Version
 -------
 Lubuntu currently ships with 0.13.0 of pcmfanfm-qt. 

@@ -45,3 +45,8 @@ To launch muon package manager from the menu :menuselection:`System Tools --> Mu
 
 from the command line. 
 
+
+Customizing
+-----------
+
+To get to your prefrences for Muon package manager :menuselection:`Settings --> Configure Muon Package Manager`. The checkbox :guilabel:`Ask To confirm changes that affect other packages` brings up confirmation dialog when you will affect multiple packages. The checkbox :guilabel:`Treat reccomended packages as dependencies` will always install all recommended packages as depenencies and will automatically install one when you install a recommended package. 

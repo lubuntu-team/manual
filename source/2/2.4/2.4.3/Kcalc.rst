@@ -34,6 +34,9 @@ To change the unit that angles are measured in for triginometric units in Kcalc.
 
 .. image:: kcalc-scientific.png
 
+Numerical System mode
+---------------------
+The numerical system mode lets you change your numerical base instead of say the default base 10. To switch to a binary calculations click the :guilabel:`Bin` radio button.
 
 Customizing
 -----------

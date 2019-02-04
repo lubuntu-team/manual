@@ -53,7 +53,7 @@ Screenshot
 
 Customizing
 -----------
-To open a dialog for prefrences of pcmanfm-qt :menuselection:`Edit --> Prefrences`. The :guilabel:`Behavior` tab has settings for the way pcmanfm-qt manages files. The checkbox :guilabel:`Open files with single click` opens files by clicking on them once and you select the files by mousing over them. The :guilabel:`Bookmarks` drop down menu has options to either open bookmarks in the current tab, open bookmarks in a new tab, or open bookmarks in a new window. The :guilabel:`Confirm before deleting files` checkbox makes a confirm dialog before deleting files. 
+To open a dialog for prefrences of pcmanfm-qt :menuselection:`Edit --> Prefrences`. The :guilabel:`Behavior` tab has settings for the way pcmanfm-qt manages files. The checkbox :guilabel:`Open files with single click` opens files by clicking on them once and you select the files by mousing over them. The :guilabel:`Bookmarks` drop down menu has options to either open bookmarks in the current tab, open bookmarks in a new tab, or open bookmarks in a new window. The :guilabel:`Confirm before deleting files` checkbox makes a confirm dialog before deleting files. The checkbox :guilabel:`Move deleted files to "Trash bin instead of erasing from disk` puts files in the trash bin instead of always deleting them. The :guilabel:`Erase files on removable media instead of "trash can" creation` Erases files on removable media isntead of creating a trash can on the removable media.
 
 Version
 -------

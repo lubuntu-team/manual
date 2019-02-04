@@ -32,6 +32,8 @@ The x squared button will take a x*x and multiply it by itself. The button with 
 
 To change the unit that angles are measured in for triginometric units in Kcalc. Degrees take 360 to form a full circle while, 2Π radians form a full circle and 400 gradians form a full circle. The radio button for Deg is to select Degrees as the unit for angles, Rad selects :guilabel:`radian` as the unit of measurment of angles and :guilabel:`Grad` selects Gradians as the unit of measurement for angles. The :guilabel:`Sin` button takes what you have as the input and takes the trigonometric sine function of that value measured in the unit for angles you have selected. The :guilabel:`cos` button takes the cosine of the vlaue in the unit of angle you have selected. The :guilabel:`tan` button takes the tangent of the angle in the current units.  
 
+The Scientific mode also brings in a menu for many different predetermined comments under the :menuselection:`Constants`.
+
 .. image:: kcalc-scientific.png
 
 Numerical System mode

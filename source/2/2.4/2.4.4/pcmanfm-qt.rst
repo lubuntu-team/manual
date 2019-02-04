@@ -51,6 +51,10 @@ Screenshot
 .. image:: pcmanfm-qt.png 
 
 
+Customizing
+-----------
+To open a dialog for prefrences of pcmanfm-qt :menuselection:`Edit --> Prefrences`. The :guilabel:`Behavior` tab has settings for the way pcmanfm-qt manages files. The checkbox :guilabel:`Open files with single click` opens files by clicking on them once and you select the files by mousing over them. The :guilabel:`Bookmarks` drop down menu has options to either open bookmarks in the current tab, open bookmarks in a new tab, or open bookmarks in a new window.
+
 Version
 -------
 Lubuntu currently ships with 0.13.0 of pcmfanfm-qt. 

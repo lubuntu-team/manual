@@ -59,6 +59,8 @@ The tab :guilabel:`Display` tab allows you to change icon sizes and changes size
 
 The tab :guilabel:`User Interface` changes how pcmanfm-qt appears in windows. To toggle always showing the tabbar even when you have only one tab check/uncheck the :guilabel:`Always show the tab bar` checkbox. The checkbox :guilabel:`Fullwidth tab bar` makes the tab bar take the full width of the window including over the side pane. To toggle showing the x on each tab to close each tab check/uncheck the :guilabel:`Show 'Close' buttons on tabs` checkbox. To have pcmanfm-qt open the window in the same size as the last time you closed the window by checking/unchecking the :guilabel:`Remember the size of the last closed window` checkbox. If you have the :guilabel:`Remember the size of the last closed window` you can change the :guilabel:`Default width of new Window` filed or :guilabel:`Default height of new windows` fields.
 
+The tab :guilabel:`Thumbnail` tab has settings for thumbnails on files in pcmanfm-qt. To enable/disable thumbnails check/uncheck the :guilabel:`Show thumbnails of files` checkbox. If you want to only have thumbnails for local files not on another machine check  :guilabel:`Only show thumbnails for local files` checkbox. Unchecking the previous checkbox will result in a slower performance to get the thumbnails for the files. 
+
 Version
 -------
 Lubuntu currently ships with 0.13.0 of pcmfanfm-qt. 

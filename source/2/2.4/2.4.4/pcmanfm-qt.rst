@@ -57,6 +57,8 @@ To open a dialog for prefrences of pcmanfm-qt :menuselection:`Edit --> Prefrence
 
 The tab :guilabel:`Display` tab allows you to change icon sizes and changes size prefexes hide backup files and settings for margins. The :guilabel:`Size of big icons` changes the size of big icons in pcmanfm-qt. The :guilabel:`Size of small icons` Changes the size of small icons for pcmanfm-qt. The :guilabel:`Size of thumbnails` changes the size of thumbnails in pcmanfm-qt. The :guilabel:`Size of side pane icons` changes the size of side pane icons. The checkbox :guilabel:`Use SI decimal prefixes instead of IEC binary prefixes` treats kilobytes, megabytes, and gigabytes as base 1000 instead of 1024. To toggle showing backup files as hidden check/uncheck the :guilabel:`Treat backup files as hidden` checkbox. To change the minimum margins in icon view for number of pisels change the numbers in :guilabel:`Minimum item margins in icon view`. To toggle locking the marings in places check/uncheck the :guilabel:`Lock` checkbox.
 
+The tab :guilabel:`User Interface` changes how pcmanfm-qt appears in windows. To toggle always showing the tabbar even when you have only one tab check/uncheck the :guilabel:`Always show the tab bar` checkbox. The checkbox :guilabel:`Fullwidth tab bar` makes the tab bar take the full width of the window including over the side pane.
+
 Version
 -------
 Lubuntu currently ships with 0.13.0 of pcmfanfm-qt. 

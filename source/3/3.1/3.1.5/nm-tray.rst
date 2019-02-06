@@ -10,7 +10,9 @@ After connecting to a wifi your known connections will by left clicking on nm-tr
 
 To get information on your current connection to the network your can right click on nm-tray connection information to get info on your current Ip address connection speed and driver in use for the connection. To toggle notifications on connecting and disconnecting to networks right click on the nm-tray tray icon and check or uncheck the checkbox for :guilabel:`enable notifications`. To disable wifi uncheck :guilabel:`Enable Wifi`. To turn off all networking uncheck :guilabel:`Enable Networking`.
 
-To view your own networking information right click the applet :menuselection:`Connection Information` which willl pop up a window with information such as your ip address. On this window each interfaace will show the names of each network interface in a tab bar along the top. The field :guilabel:`Interface` Shows you the name of your network adapter to the system what type of connection it is. The label for :guilabel:`Driver` shows you what driver is in use for this network interface. The field :guilabel:`Speed` shows the speed supported by the connection.  
+To view your own networking information right click the applet :menuselection:`Connection Information` which willl pop up a window with information such as your ip address. On this window each interfaace will show the names of each network interface in a tab bar along the top. The field :guilabel:`Interface` Shows you the name of your network adapter to the system what type of connection it is. The label for :guilabel:`Driver` shows you what driver is in use for this network interface. The field :guilabel:`Speed` shows the speed supported by the connection. 
+
+The section :guilabel:`IPV4` shows you information on your settings for networking using IPV4. The section :guilabel:`IP Address` shows you  your current ip adress. 
 
 Screenshot
 ----------

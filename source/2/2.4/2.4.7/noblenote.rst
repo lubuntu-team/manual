@@ -27,6 +27,8 @@ Screenshot
 ----------
 .. image:: noblenote.png
 
+.. image:: noblenote-note.png
+
 How to launch
 -------------
 To launch noblenote go to the menu :menuselection:`Acessories --> noblenote` or run 

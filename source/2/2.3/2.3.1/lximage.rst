@@ -31,6 +31,10 @@ Screenshot
 ----------
 .. image:: LXImage.png
 
+Customizing
+-----------
+To change the background color in a window press the button next to :guilabel:`Normal background color` and then a window will pop up showing your color choice. To change the background color when fullscreen press the button next to :guilabel:`Fullscreen background color` and the same color picker window will appear. To change how long it takes for a each slide show to change change the :guilabel:`Slide show interval (seconds):` field. To cancel your changes press the :guilabel:`Cancel` button. To apply your settings and exit the prefrence dialog by pressing the :guilabel:`OK` button.
+
 Version
 -------
 Lubuntu ships with version 0.7.0 or lximage. 

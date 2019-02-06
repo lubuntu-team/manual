@@ -11,7 +11,9 @@ Usage
 ------
 The :guilabel:`Users` tab lets you manage Users. To create a new user account press the :guilabel:`Add` button. You will need to select the groups you want the user to be in unter the :guilabel:`Groups` tab. Once the user information and groups are set press the :guilabel:`OK` button. Then you will be prompted to enter an administrative password. Next you will be prompted to enter the new password for the user. To change the users permission click account type and enter your password and select desktop user to not give permission to change the system or admin to change system settings. 
 
-To view an info on a particaulr user press the :guilabel:`Properties` to bring up a dialog box or the accomplish the same thing by doubleclicking on the username. You can view the :guilabel:`Login Name` will show you the login name for the user and can be edited if you type in the box. The field :guilabel:`User ID` is the numerical internal id of your user. The field :guilabel:`Main Group` is the main group that is default group for files access to.       
+To view an info on a particaulr user press the :guilabel:`Properties` to bring up a dialog box or the accomplish the same thing by doubleclicking on the username. You can view the :guilabel:`Login Name` will show you the login name for the user and can be edited if you type in the box. The field :guilabel:`User ID` is the numerical internal id of your user. The field :guilabel:`Main Group` is the main group that is default group for files access to. 
+
+The tab :guilabel:`Groups` under properties has checkboxes for each group you are in. 
 
 To change a user's password select the user in the list then press the :guilabel:`Change Password` button you will be prompted to  enter the new password. Then you will be prompted to enter an administrative password to authenticate that you have permission to do this. To reload the info on users and groups press the :guilabel:`Refresh` button. 
 

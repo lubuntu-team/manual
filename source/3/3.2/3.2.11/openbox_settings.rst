@@ -37,7 +37,7 @@ On the :guilabel:`desktops` tab to change number of desktops press the up arrow 
 
 .. image:: obconfdesktop.png
 
-To make a margin on your desktop on which nothing is placed you can set pixel margins on each side with the :guilabel:`margins` tab. 
+To make a margin on your desktop on which nothing is placed you can set pixel margins on each side with the :guilabel:`margins` tab. The fields :guilabel:`Left`, :guilabel:`Top`, :guilabel:`Right`, or :guilabel:`Bottom` each have a field for each number of pixels as a margin. 
 
 
 

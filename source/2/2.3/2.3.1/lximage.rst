@@ -9,6 +9,8 @@ To open a picture press :menuselection:`File --> Open`, :kbd:`Control + O`, or p
 
 If you want to upload a picture to share it online press :menuselection:`Edit --> Upload` and a new window will pop up with a drop down menu to show where to upload the picture to. To actually uplaod the file press :guilabel:`Start`.
 
+.. image:: lximage_upload.png
+
 To use lximage use the arrow to the right to view the next file in the folder and the arrow to the left to view the previous folder. To open a new picture press the open button which looks like a blue folder with a piece of paper in it. To open an entire directory :menuselection:`File --> Open Directory` or press :kbd:`Control +D`. To save the file as something press the button that looks like a floppy disk or :menuselection:`File --> Save As`.
 
 If you wish to print a picture after viewing it from the :menuselection:`file --> print` or press :kbd:`control+ p` to bring up a print dialog.

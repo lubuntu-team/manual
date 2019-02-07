@@ -11,6 +11,8 @@ To view how much RAM is being used on your system is under :guilabel:`mem` and t
 
 After the bottom there is a green bar that says :guilabel:`PID` for the Process ID of a user, The user the process responds to, :guilabel:`RES` is how much RAM the process is currently using. :guilabel:`CPU%` shows how much as a percent of CPU time the process is using, mem% is a precent of the RAM your proess is using. :guilabel:`Time` shows how long the process has been running. :guilabel:`Command` shows the command line command of the process. To view any cut off part of the :guilabel:`command` field press the :kbd:`Right Arrow` to view the cut off area of the window. To move your window back to where it was press  the :kbd:`Left Arrow` key.   
 
+To select the process below the currently selected one press :kbd:`Down Arrow` to select the process below. To select the process above the currently selected one press :kbd:`Up Arrow` to select the process above.
+
 You can press :kbd:`F1` to help you with settings on htop. Pressing :kbd:`F3` lets you search for a particular process. To reverse sort order press :kbd:`Shift +I`. :kbd:`F4` makes it so you can only see processes matching a certain partern. :kbd:`F5` is what you press to veiw file in a tree. Pressing :kbd:`F9` lets you kill a process with different signals to send to the process and 15 will terminate the process while 9 will Kill it. Lastly :kbd:`F10` will quit htop and return you to a terminal.
 
 To change how your process are sorted press :kbd:`F6` which will bring up your own menu to sort by by PID, USER, Priority, NICE, M_Size, M_Resident, M_Share, State, Percent_CPU, Percent_Mem, Time, or Command.  

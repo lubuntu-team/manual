@@ -1,4 +1,14 @@
-Chapter 3.1.4 Startup Disc Creator
+Chapter 3.1.4 Startup Disk Creator
 ==================================
 
-Startup Disc creator is a graphical utility for creating bootable USB media.
+Startup Disk creator is a graphical utility for creating bootable USB media.
+
+How to Launch
+-------------
+To launch startup disc creator :menuselection:`System Tools --> Startup disk creator` or run 
+
+.. code::
+
+  usb-creator-kde
+
+from the command line.

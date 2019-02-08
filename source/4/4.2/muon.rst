@@ -11,6 +11,8 @@ To search for a program to install type into the bar at the top that says :guila
 
 The :guilabel:`Package` shows the package name and a short description of the package. The :guilabel:`Status` shows what the current status of the package is. The :guilabel:`Requested` shows what status you want for the package. To revesrse the sort order of packages press the triangle button just to the left of the :guilabel:`Status` column. 
 
+To select the next package left click on the list of packages press the :kbd:`Down Arrow` key to move to the next selected package. To select the previous package left click on the list of packages above press the :kbd:`Up Arrow`.  
+
 When you find your package you want to install on the bottom half of the screen there is a bar of tabs. The :guilabel:`detail` tab has a description of the package you are currently selected. The :guilabel:`Technical Details` will show you where the package comes from what category it is and what the installed size would be and what size it takes to download the package. The :guilabel:`depenedncies` tab shows you what other packages are needed by the package you wish to install. To view the changes of a package the :guilabel:`Changes List` and scroll down to view them. 
 
 If you want to see your history of package updates and installed from the :menuselection:`menu --> view --> history` or press :kbd:`control + h`. To view all installed packes on the left hand side of the window under filetered click the divider for :guilabel:`By status` and select :guilabel:`installed`. now in the upper main part of the window will be a window with a scrollbar to see all packages on your system. 

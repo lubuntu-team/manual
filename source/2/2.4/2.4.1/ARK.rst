@@ -21,7 +21,7 @@ To open a file in a archieve, open the archieve, then double click the :menusele
 
 To create an archieve press :kbd:`Control +N` or :menuselection:`archieve --> new` button to bring up the create new archive dialog. Enter in the folder you want to create this archieve in the folder or press the folder button on the right to select where to create this archieve. Type the filename of the archieve you want to name the file. To select which type of archieve you get a drop down menu to select tar or zip archieve with various different kinds of compression. Some types of archives will allow to expand tunable settings of compression to change the compression with higher compression but will take more cpu to decompress. 
 
-To add a file to your archive :menuselection:`Archive --> Add Files` which brings up a file picker to choose how to add files. 
+To add a file to your archive :menuselection:`Archive --> Add Files` which brings up a file picker to choose how to add files. Once you add a file press the :guilabel:`Add` button to add a file. If you want to select multiple files to add at once you can hold down :kbd:`Control` and then left click on the files. 
 
 To view how to open recent archives :menuselection:`Archive --> Open Recent`. To clear the list of recent files :menuselection:`Archive --> Open Recent --> Clear List`. 
 

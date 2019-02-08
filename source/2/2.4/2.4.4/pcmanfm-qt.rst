@@ -46,6 +46,8 @@ To reverse the order that pcmanfm-Qt sorts files :menuselection:`View --> Sortin
 To change your path bar to buttons :menuselection:`View --> Pathbar --> Location` and to get 
 back to a pathbar you can type into :menuselection:`View --> Pathbar --> Path Buttons`.
 
+.. image:: pathbar-location.png
+
 pcmanfm-qt has options when right clicking has special options for dealing with archieves such as tar or zip files. To extract the files in the current directory right click and select extract here. You can also extract to another location with right clicking and selecting extract to and a dialog will pop up showing to where to extract the file.  
 
 Screenshot

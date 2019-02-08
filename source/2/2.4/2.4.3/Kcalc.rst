@@ -34,7 +34,7 @@ To change the unit that angles are measured in for triginometric units in Kcalc.
 
 The Scientific mode also brings in a menu for many different predetermined comments under the :menuselection:`Constants`.
  
-To store a value in memory press the :guilabel:`M+` Button. To retirve a value from memory press the :guilabel:`MR` button.
+To store a value in memory press the :guilabel:`M+` Button. To retirve a value from memory press the :guilabel:`MR` button. To clear a value from memory press the :guilabel:`MC` button.
 
 .. image:: kcalc-scientific.png
 

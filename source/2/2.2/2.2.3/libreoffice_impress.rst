@@ -24,7 +24,7 @@ To increaase your font size press :kbd:`Control + ]` or :menuselection:`Format -
 
 To spell check your presentation press :kbd:`F7` or :menuselection:`Tools --> Spellcheck`. If you want to print your slides you can press :kbd:`Control + p` or :menuselection:`File --> Print`. To open up your printer settings :menuselection:`File --> Printer Settings`. 
 
-If you want to paste text into a slideshow press :kbd:`Control + V` or :menuselection:`Edit --> Paste`. To copy text select it first and then press :kbd:`Control + C` or :menuselection:`Edit --> Copy`. To cut text select it first and the press :kbd:`Control +X` or :menuselection:`Edit --> Cut`. To paste text without formatting pres :kbd:`Control +Shift + Alt +V`. 
+If you want to paste text into a slideshow press :kbd:`Control + V` or :menuselection:`Edit --> Paste`. To copy text select it first and then press :kbd:`Control + C` or :menuselection:`Edit --> Copy`. To cut text select it first and the press :kbd:`Control +X` or :menuselection:`Edit --> Cut`. To paste text without formatting pres :kbd:`Control +Shift + Alt +V` or :menuselection:`Edit --> Paste Unformatted Text`. 
 
 To insert a special character :menuselection:`Insert --> Special Character`. To center your text press :kbd:`Control + E` or :menuselection:`Format --> Align --> Center`. To have your text aligned to the right press :kbd:`Control +R` or :menuselection:`Format --> Align --> Right`. To align text to the left press :kbd:`Control + L` or :menuselection:`Format -->Align --> Left`.
 

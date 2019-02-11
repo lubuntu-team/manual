@@ -46,7 +46,7 @@ To move a slide down :menuselection:`Slide --> Move --> Slide Down`. To move a s
 
 To start a slideshow press :kbd:`f5` or the button the looks like a tv with a triangle on it or :menuselection:`slideshow --> start from the first slide.` To start a slideshow from the current slide press :kbd:`Shift + f5` or :menuselection:`Slideshow --> Start from current slide`. To exit the slideshow press escape. To get to the next slide of the slideshow click or press the right arrow key. to get to a previous slide in presentation mode press the left arrow key or right click previous.    
 
-To view your slides right next to each other :menuselection:`View --> Slide Sorter`.  To switch to an outline view of just text :menuselection:`View --> Outline`. To switch to an outline :menuselection:`View --> Outline`. To switch back to your normal view :menuselection:`View --> Normal`. 
+To view your slides right next to each other :menuselection:`View --> Slide Sorter`. To rearange your slides click and hold a slide and drag the slide between the slides you want to move to. To switch to an outline view of just text :menuselection:`View --> Outline`. To switch to an outline :menuselection:`View --> Outline`. To switch back to your normal view :menuselection:`View --> Normal`. 
 
 Screenshot
 ----------

@@ -5,7 +5,7 @@ Date and time is a program that lets you change your timezone toggle wheter to g
 
 Useage
 ------
- The tab for :guilabel:`Date and time` sets what time it is and settings for synchronize it via the network.If you want to toggle synchronizing the time of network press the radio button of Enable network time synchronization button. To change the timezone of your computer press the timezone gear and select your time zone from the long list. The checkbox for RTC is in local time is for the real time clock on your motherboard.
+ The tab for :guilabel:`Date and time` sets what time it is and settings for synchronize it via the network.If you want to toggle synchronizing the time of network press the radio button of Enable network time synchronization button. To change the timezone of your computer press the timezone gear and select your time zone from the long list. The checkbox for :guilabel:`RTC is in local time` is for the real time clock on your motherboard being in local time rather than UTC.
 
 If you do not wish to synchronize your clock via network time protocol uncheck the :guilabel:`Enable network time synchroniziation (NTP)` checkbox. Once NTP is disabled you want to be able to change your time locally you will be able to change your time by typing your time in the correct time.
 

@@ -11,7 +11,9 @@ Screenshot
 
 Useage
 ------
-To save your formula you have written in libreoffice math press :kbd:`Control +S` or :menuselection:`File --> Save`. To open a file press :kbd:`Control +O` or :menuselection:`File --> Open`. The left hand side has many symbols you can use for say set relations and other operators.
+To save your formula you have written in libreoffice math press :kbd:`Control +S` or :menuselection:`File --> Save`. To open a file press :kbd:`Control +O` or :menuselection:`File --> Open`.  To print your fomrula press :kbd:`Control +P` or :menuselection:`File --> Print`.
+
+The left hand side has many symbols you can use for say set relations and other operators. 
 
 How to launch
 -------------

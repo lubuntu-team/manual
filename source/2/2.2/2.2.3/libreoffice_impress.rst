@@ -40,6 +40,8 @@ To move a text box around you can left click on the text box and drag it to the 
 
 To insert an image click :menuselection:`Insert --> Image`. To drag your image to where you want it left click and drag the mouse to where you want the image. To resize the image without distorting it click one of the boxes on the corner and resize to the size you wish. If you want to delete an image press :kbd:`Delete`. To replace an image right click the image and :menuselection:`Replace` will bring a file picker up to pick a new image. To crop an image right click on the image and select :menuselection:`Crop`. To save an image out of a presentation right click on the image and select :menuselection:`Save ...`.   
 
+.. image:: loimpressscreenshot.png
+
 To change the zoom of you presentation :menuselection:`View --> Zoom --> Zoom` to bring up a window to manage your zoom. If you just want to zoom to fit the page width :menuselection:`View --> Zoom --> Page Width`. 
 
 On the left there is a panel showing what slides you currently have in left side of the window. To insert a new slide right click on this panel on the left and select new slide or press :kbd:`Control + Enter`. To delete a slide on the left hand slide right click and select delete slide or :menuselection:`Slide --> Delete Slide`. To create another copy of a slide right click and then select duplicate slide. To change the type of slide  :menuselection:`Slide --> Layout --> Your choice of slide here` which has many different options. 

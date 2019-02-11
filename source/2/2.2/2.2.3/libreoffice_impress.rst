@@ -7,6 +7,7 @@ Features include:
  - in built themes
  - sepll check
  - pdf export
+ - images
 
 Useage
 ------

@@ -9,6 +9,8 @@ Useage
 
 If you do not wish to synchronize your clock via network time protocol uncheck the :guilabel:`Enable network time synchroniziation (NTP)` checkbox. Once NTP is disabled you want to be able to change your time locally you will be able to change your time by typing your time in the correct time.
 
+To cancel your changes to in date and time press the :guilabel:`Cancel` button.
+
 Screenshot
 ----------
 .. image:: date_and_time.png 

@@ -33,7 +33,7 @@ To bring up a dialog to customize the character or your text :menuselection:`For
 
 To toggle bulleted lists on your points :menuselection:`Format --> Lists --> Bulleted List`. To toggle a numbered list for your points :menuslection:`Format --> Lists --> Numbered Lists`.
 
-To change your line spacing on your presentation :menuselection:`Format --> Spacing --> Line spacing` and select the spacing you want.
+To change your line spacing on your presentation :menuselection:`Format --> Spacing --> Line spacing` and select the spacing you want. To increase your spacing between paragraphs :menuselection:`Format --> Spacing --> Increase Paragraph Spacing`. To decrease your spacing between paragraphs :menuselection:`Format --> Spacing --> Decrease Paragraph Spacing`. 
 
 To move settings with a box of text left click on the border of the box of text. To move the text box click and drag on the border. To resize both vertical and horizontal size together left click on the corner and resize the text box. To resize how tall the text box is click the box at the top or bottom and drag to the desired size. To resize the horizontal size only select the box on a veritcal size of the box.
 

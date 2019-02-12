@@ -9,19 +9,26 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: 2019-01-02 03:03+0000\n"
 "Last-Translator: Roberto Alzaga <lumintnian@outlook.com>\n"
-"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
-"manual-4/es/>\n"
 "Language: es\n"
+"Language-Team: Spanish "
+"<https://translate.lubuntu.me/projects/lubuntu/manual-4/es/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/4/Installing_Updating_and_Removing_Software.rst:2
-msgid "Chapter 4 Installing Updating and Removing Software"
+#, fuzzy
+msgid "Chapter 4 Installing, Updating, and Removing Software"
 msgstr "Capítulo 4 Instalación, actualización y eliminación de software"
+
+#: ../../source/4/Installing_Updating_and_Removing_Software.rst:4
+msgid ""
+"This chapter will teach you how to use GUI to install update and remove "
+"software and manage sources."
+msgstr ""
+

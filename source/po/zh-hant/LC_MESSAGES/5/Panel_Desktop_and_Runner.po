@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,6 +20,15 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/5/Panel_Desktop_and_Runner.rst:2
-msgid "Chapter 5 Panel Desktop and Runner"
+msgid "Chapter 5 Panel, Desktop, and Runner"
 msgstr ""
+
+#: ../../source/5/Panel_Desktop_and_Runner.rst:4
+msgid ""
+"This chapter will teach you how to use the panel desktop icons the runner"
+" to launch applications and window management."
+msgstr ""
+
+#~ msgid "Chapter 5 Panel Desktop and Runner"
+#~ msgstr ""
 

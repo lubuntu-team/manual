@@ -9,17 +9,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: 2018-11-21 19:30+0000\n"
 "Last-Translator: F. Lamy <f.lahme@me.com>\n"
-"Language-Team: German <https://translate.lubuntu.me/projects/lubuntu/"
-"manual-1-1/de/>\n"
 "Language: de\n"
+"Language-Team: German "
+"<https://translate.lubuntu.me/projects/lubuntu/manual-1-1/de/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/1/1.1/retrieving_the_image.rst:2
@@ -36,9 +35,9 @@ msgid ""
 msgstr ""
 "Bevor Sie Lubuntu installieren, müssen Sie die korrekte Image-Datei "
 "herunterladen. Lubuntu unterstützt mehrere verschiedene CPU-Typen und "
-"Architekturen, mit einer neuen Version alle sechs Monate (Unterstützung für "
-"neun Monate) und alle zwei Jahre mit einer Langzeitunterstützung ("
-"Unterstützung für drei Jahre)."
+"Architekturen, mit einer neuen Version alle sechs Monate (Unterstützung "
+"für neun Monate) und alle zwei Jahre mit einer Langzeitunterstützung "
+"(Unterstützung für drei Jahre)."
 
 #: ../../source/1/1.1/retrieving_the_image.rst:7
 msgid "Architectures"
@@ -65,13 +64,14 @@ msgid ""
 "with i386 images. You may want to use an i386 image instead if you have "
 "an amd64 processor with very low amounts of RAM."
 msgstr ""
-"Die amd64 Image-Datei ist mit den meisten modernen Prozessoren kompatibel. "
-"Der beste Weg um herauszufinden ob Ihr Computer einen amd64 oder i386 "
-"Prozessor hat, ist die entsprechende Image-Datei zu booten. Das ist der "
-"einzige Weg um wirklich sicher zu wissen, welche Prozessorarchitektur ihr "
-"Computer besitzt. Amd64-Computer sind abwärtskompatibel mit i386-"
-"Imagedateien. Falls Sie einen Computer mit einem amd64 Prozessor mit sehr "
-"wenig RAM haben, empfiehlt es sich eine i386 Image-Datei zu verwenden."
+"Die amd64 Image-Datei ist mit den meisten modernen Prozessoren "
+"kompatibel. Der beste Weg um herauszufinden ob Ihr Computer einen amd64 "
+"oder i386 Prozessor hat, ist die entsprechende Image-Datei zu booten. Das"
+" ist der einzige Weg um wirklich sicher zu wissen, welche "
+"Prozessorarchitektur ihr Computer besitzt. Amd64-Computer sind "
+"abwärtskompatibel mit i386-Imagedateien. Falls Sie einen Computer mit "
+"einem amd64 Prozessor mit sehr wenig RAM haben, empfiehlt es sich eine "
+"i386 Image-Datei zu verwenden."
 
 #: ../../source/1/1.1/retrieving_the_image.rst:18
 msgid "i386"
@@ -82,14 +82,15 @@ msgid ""
 "This is the original 32-bit architecture that will work best on computers"
 " with very low amounts of RAM and processing power."
 msgstr ""
-"Auf Computern mit sehr wenig RAM und geringer Prozessorleistung, wird die "
-"ursprüngliche 32-Bit Architektur am besten funktionieren."
+"Auf Computern mit sehr wenig RAM und geringer Prozessorleistung, wird die"
+" ursprüngliche 32-Bit Architektur am besten funktionieren."
 
 #: ../../source/1/1.1/retrieving_the_image.rst:22
 msgid "LTS vs. Regular Releases"
 msgstr "LTS gegenüber regelmäßigen Veröffentlichungen"
 
 #: ../../source/1/1.1/retrieving_the_image.rst:24
+#, fuzzy
 msgid ""
 "Lubuntu offers two types of releases. The **Long Term Support** release, "
 "or the **LTS**, is the release recommended for most users. It is "
@@ -97,18 +98,19 @@ msgid ""
 " features. Throughout the course of the cycle, the Ubuntu Kernel Team "
 "will deliver **Hardware Enablement** updates, or **HWE** updates, to "
 "Lubuntu via Linux kernel updates. Additionally, all currently-supported "
-"Lubuntu releases use the **LXDE** desktop environment, which is the "
-"traditional Lubuntu experience."
+"Lubuntu LTS releases use the **LXDE** desktop environment, which is the "
+"traditional Lubuntu experience however Lubuntu 18.10 uses the **LXQt** "
+"which is a more modern environment."
 msgstr ""
 "Lubuntu bietet zwei Arten von Versionen an. Die Version mit "
-"Langzeitunterstützung (engl. \"Long Term Support\", kurz \"LTS\"), welche "
-"für die meisten Nutzer empfohlen wird. Nach dem Veröffentlichungsdatum wird "
-"diese Version drei Jahre lang unterstützt, enthält aber keine neuen "
-"Funktionen. In dieser Zeit wird diese Lubuntu Version aber mit Updates des "
-"Ubuntu Kernel Teams gepflegt. Diese \"Hardware Enablement\"-Updates werden "
-"durch die Linux kernel Updates implementiert. Zudem verwenden alle derzeitig "
-"unterstützten Lubuntu Versionen die \"LXDE\" Desktop-Umgebung, das die "
-"traditionelle Lubuntu Erfahrung widerspiegelt."
+"Langzeitunterstützung (engl. \"Long Term Support\", kurz \"LTS\"), welche"
+" für die meisten Nutzer empfohlen wird. Nach dem Veröffentlichungsdatum "
+"wird diese Version drei Jahre lang unterstützt, enthält aber keine neuen "
+"Funktionen. In dieser Zeit wird diese Lubuntu Version aber mit Updates "
+"des Ubuntu Kernel Teams gepflegt. Diese \"Hardware Enablement\"-Updates "
+"werden durch die Linux kernel Updates implementiert. Zudem verwenden alle"
+" derzeitig unterstützten Lubuntu Versionen die \"LXDE\" Desktop-Umgebung,"
+" das die traditionelle Lubuntu Erfahrung widerspiegelt."
 
 #: ../../source/1/1.1/retrieving_the_image.rst:26
 msgid ""
@@ -121,8 +123,8 @@ msgid ""
 msgstr ""
 "Für Nutzer die alle sechs Monate neue Funktionen, im Rahmen des "
 "Unterstützungszykluses, ausprobieren möchten, bietet Lubuntu die "
-"regelmäßigen Versionen (engl. \"regular releases\") oder Übergangsversionen ("
-"engl. \"interim releases\") an."
+"regelmäßigen Versionen (engl. \"regular releases\") oder "
+"Übergangsversionen (engl. \"interim releases\") an."
 
 #: ../../source/1/1.1/retrieving_the_image.rst:28
 msgid ""
@@ -131,10 +133,10 @@ msgid ""
 "not comfortable doing this, you should consider using the LTS release "
 "instead."
 msgstr ""
-"**Es ist sehr wichtig zu wissen, dass Sie dadurch sukzessiv Ihre Version auf "
-"die aktuellste Version (\"regular release\") updaten, sobald diese "
-"veröffentlicht wird.** Falls das von Ihnen nicht gewünscht ist, sollten Sie "
-"die LTS-Version in Erwägung ziehen."
+"**Es ist sehr wichtig zu wissen, dass Sie dadurch sukzessiv Ihre Version "
+"auf die aktuellste Version (\"regular release\") updaten, sobald diese "
+"veröffentlicht wird.** Falls das von Ihnen nicht gewünscht ist, sollten "
+"Sie die LTS-Version in Erwägung ziehen."
 
 #: ../../source/1/1.1/retrieving_the_image.rst:31
 msgid "Ways to download the image"
@@ -145,8 +147,8 @@ msgid ""
 "Now that the decision of which architecture and release type you need is "
 "made, you will need to download the image."
 msgstr ""
-"Jetzt, nachdem die Entscheidung welche Prozessorarchitektur und Version Sie "
-"benötigen, gefallen ist, müssen Sie die Image-Datei herunterladen."
+"Jetzt, nachdem die Entscheidung welche Prozessorarchitektur und Version "
+"Sie benötigen, gefallen ist, müssen Sie die Image-Datei herunterladen."
 
 #: ../../source/1/1.1/retrieving_the_image.rst:37
 msgid "There are several ways to download the Lubuntu image:"
@@ -173,8 +175,8 @@ msgid ""
 "You can also download the image via Jigdo but we will not cover that in "
 "this manual."
 msgstr ""
-"Sie können die Image-Datei auch via Jigdo herunterladen, dies wird aber kein "
-"Bestandteil dieser Anleitung sein."
+"Sie können die Image-Datei auch via Jigdo herunterladen, dies wird aber "
+"kein Bestandteil dieser Anleitung sein."
 
 #: ../../source/1/1.1/retrieving_the_image.rst:41
 msgid ""
@@ -184,11 +186,11 @@ msgid ""
 "to visit `cdimage.ubuntu.com <http://cdimage.ubuntu.com/lubuntu/>`_, "
 "which has the files listed."
 msgstr ""
-"Eine Downloadseite, die HTTP und BitTorrent Downloads aufführt, ist unter "
-"der `Lubuntu Downloadseite  <https://lubuntu.me/downloads/>`_ verfügbar. Für "
-"den Download per zsync müssen Sie die folgende Seite aufrufen `"
-"cdimage.ubuntu.com <http://cdimage.ubuntu.com/lubuntu/>`_. Diese hat die "
-"entsprechenden Dateien aufgelistet."
+"Eine Downloadseite, die HTTP und BitTorrent Downloads aufführt, ist unter"
+" der `Lubuntu Downloadseite  <https://lubuntu.me/downloads/>`_ verfügbar."
+" Für den Download per zsync müssen Sie die folgende Seite aufrufen "
+"`cdimage.ubuntu.com <http://cdimage.ubuntu.com/lubuntu/>`_. Diese hat die"
+" entsprechenden Dateien aufgelistet."
 
 #: ../../source/1/1.1/retrieving_the_image.rst:43
 msgid "Below you can find more detailed notes on each download method."
@@ -201,9 +203,10 @@ msgid "Downloading the image via HTTP"
 msgstr "Herunterladen der Image-Datei via HTTP"
 
 #: ../../source/1/1.1/retrieving_the_image.rst:47
+#, fuzzy
 msgid ""
-"*We don't recommend using this method as it's often slower and less "
-"efficient than the other methods.*"
+"*We don't recommend using this method as it's often slower, more error "
+"prone, and less efficient than the other methods.*"
 msgstr ""
 "*Wir empfehlen diese Methode nicht, da sie meist langsamer und weniger "
 "effizient ist, als andere Methoden.*"
@@ -217,16 +220,47 @@ msgid ""
 "in the right direction."
 msgstr ""
 "Nachdem Sie die Image-Datei heruntergeladen haben, **müssen** Sie diese "
-"verifizieren, da durch ungeprüfte Image-Dateien die meisten Probleme während "
-"der Lubuntu Installation auftreten. Eine hilfreiche Seite, wie Sie Ihre "
-"Image-Datei prüfen, finden Sie im `Ubuntu Community Hilfe Wiki unter "
-"<https://help.ubuntu.com/community/VerifyIsoHowto>`_."
+"verifizieren, da durch ungeprüfte Image-Dateien die meisten Probleme "
+"während der Lubuntu Installation auftreten. Eine hilfreiche Seite, wie "
+"Sie Ihre Image-Datei prüfen, finden Sie im `Ubuntu Community Hilfe Wiki "
+"unter <https://help.ubuntu.com/community/VerifyIsoHowto>`_."
+
+#: ../../source/1/1.1/retrieving_the_image.rst:51
+msgid ""
+"Downloading via HTTP and not verifying the image can lead to hours of "
+"frustration with even the developers quite confused what is happening "
+"with your system. With just one bit of the image flipped it will cause "
+"massive frustration and a failed install."
+msgstr ""
 
 #: ../../source/1/1.1/retrieving_the_image.rst:53
+msgid ""
+"To do this the easiest way is the command line is to run for 64 bit "
+"lubuntu 18.10"
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:59
+msgid ""
+"and then carefully check that the output matches "
+"99408e73e5ff11727be6987d9b2f8ee3b6a3b672c9da540a63c8b462a0cf63c4 "
+"\\*lubuntu-18.10-desktop-amd64.iso"
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:61
+msgid "For 32 bit lubuntu 18.10 is to run"
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:67
+msgid ""
+"and then check carefully the output matches "
+"38e0bf05b6bfc3faa700f779e94cc1b7 \\*lubuntu-18.10-desktop-i386.iso"
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:71
 msgid "Downloading the image via BitTorrent"
 msgstr "Herunterladen der Image-Datei via BitTorrent"
 
-#: ../../source/1/1.1/retrieving_the_image.rst:54
+#: ../../source/1/1.1/retrieving_the_image.rst:72
 msgid ""
 "Instead of downloading the image from one server, you can \"torrent\" the"
 " image, or download it from multiple sources instead of just one. This is"
@@ -235,26 +269,28 @@ msgid ""
 "Wikipedia page on the subject "
 "<https://en.wikipedia.org/wiki/BitTorrent>`_."
 msgstr ""
-"Anstelle die Image-Datei von nur einem Server zu laden, können Sie die Datei "
-"auch per \"torrent\", also von von vielen verschiedenen Quellen, downloaden. "
-"Das ist oft schneller und spart den Ubuntu Image-Servern Bandbreite. Falls "
-"Sie mehr über BitTorrent erfahren möchten, schauen Sie auf `diese "
-"Wikipediaseite <https://en.wikipedia.org/wiki/BitTorrent>`_."
+"Anstelle die Image-Datei von nur einem Server zu laden, können Sie die "
+"Datei auch per \"torrent\", also von von vielen verschiedenen Quellen, "
+"downloaden. Das ist oft schneller und spart den Ubuntu Image-Servern "
+"Bandbreite. Falls Sie mehr über BitTorrent erfahren möchten, schauen Sie "
+"auf `diese Wikipediaseite <https://en.wikipedia.org/wiki/BitTorrent>`_."
 
-#: ../../source/1/1.1/retrieving_the_image.rst:56
+#: ../../source/1/1.1/retrieving_the_image.rst:74
+#, fuzzy
 msgid ""
 "In order to torrent the file, you need a BitTorrent client. We recommend "
 "`Transmission <https://transmissionbt.com/>`_, an Open Source BitTorrent "
 "client. Since Transmission only provides clients for Linux and macOS, we "
-"recommend `uTorrent <https://www.utorrent.com/>`_ for Windows users."
+"recommend `qbittorrent <https://www.qbittorrent.org/download.php>`_ for "
+"Windows users."
 msgstr ""
-"Um die Image-Datei per \"torrent\" herunterladen zu können, benötigen Sie "
-"ein BitTorrent-Programm (BitTorrent client). Wir empfehlen das Open Source "
-"BitTorrent Programm `Transmission <https://transmissionbt.com/>`_. Da "
-"Transmission nur für Linux und macOS zur Verfügung steht, empfehlen wir "
-"Windows-Nutzern `uTorrent <https://www.utorrent.com/>`_."
+"Um die Image-Datei per \"torrent\" herunterladen zu können, benötigen Sie"
+" ein BitTorrent-Programm (BitTorrent client). Wir empfehlen das Open "
+"Source BitTorrent Programm `Transmission <https://transmissionbt.com/>`_."
+" Da Transmission nur für Linux und macOS zur Verfügung steht, empfehlen "
+"wir Windows-Nutzern `uTorrent <https://www.utorrent.com/>`_."
 
-#: ../../source/1/1.1/retrieving_the_image.rst:58
+#: ../../source/1/1.1/retrieving_the_image.rst:76
 msgid ""
 "The BitTorrent links can be found on our Downloads page or "
 "cdimage.ubuntu.com, both linked above."
@@ -262,7 +298,7 @@ msgstr ""
 "Die BitTorrent-Links finden Sie auf unserer Downloadseite oder unter "
 "cdimage.ubuntu.com. Beide haben wir bereits oben verlinkt."
 
-#: ../../source/1/1.1/retrieving_the_image.rst:60
+#: ../../source/1/1.1/retrieving_the_image.rst:78
 msgid ""
 "After you have downloaded the link you need, open it in your BitTorrent "
 "client. This will download the image. After this is done, we recommend "
@@ -271,17 +307,17 @@ msgid ""
 "decentralizing the download location for other users."
 msgstr ""
 "Nachdem Sie den Link heruntergeladen haben, öffnen Sie ihn in Ihrem "
-"BitTorrent Programm. Dies wird die Image-Datei herunterladen. Nachdem die "
-"Datei geladen wurde, empfehlen wir Ihnen das Programm nicht zu schließen, da "
-"Sie somit die Image-Datei an andere Leute verteilen können. Das hilft dabei "
-"Kosten für die Bandbreite zu reduzieren und die Download-Orte weiter zu "
-"dezentralisieren."
+"BitTorrent Programm. Dies wird die Image-Datei herunterladen. Nachdem die"
+" Datei geladen wurde, empfehlen wir Ihnen das Programm nicht zu "
+"schließen, da Sie somit die Image-Datei an andere Leute verteilen können."
+" Das hilft dabei Kosten für die Bandbreite zu reduzieren und die "
+"Download-Orte weiter zu dezentralisieren."
 
-#: ../../source/1/1.1/retrieving_the_image.rst:64
+#: ../../source/1/1.1/retrieving_the_image.rst:82
 msgid "Downloading the image via zsync"
 msgstr "Herunterladen der Image-Datei via zsync"
 
-#: ../../source/1/1.1/retrieving_the_image.rst:65
+#: ../../source/1/1.1/retrieving_the_image.rst:83
 #, fuzzy
 msgid ""
 "zsync is a convenient application that will automatically verify the "
@@ -290,48 +326,49 @@ msgid ""
 "last image was spun."
 msgstr ""
 "Zsync ist ein praktisches Programm, dass die Prüfsumme automatisch "
-"verifiziert, wenn die Image-Datei geladen wurde. The Lubuntu team uses this "
-"to download daily images as it will seamlessly download the delta since the "
-"last image was spun."
+"verifiziert, wenn die Image-Datei geladen wurde. The Lubuntu team uses "
+"this to download daily images as it will seamlessly download the delta "
+"since the last image was spun."
 
-#: ../../source/1/1.1/retrieving_the_image.rst:67
+#: ../../source/1/1.1/retrieving_the_image.rst:85
 msgid ""
 "In order to use zsync, you need to install it. Since this is a Linux-only"
 " client, you can get it from your distribution's package repository."
 msgstr ""
-"Um zsync nutzen zu können, müssen Sie es installieren. Da es sich hierbei um "
-"ein Linux-Programm handelt, können Sie es aus der Paketquelle der "
+"Um zsync nutzen zu können, müssen Sie es installieren. Da es sich hierbei"
+" um ein Linux-Programm handelt, können Sie es aus der Paketquelle der "
 "Distribution beziehen."
 
-#: ../../source/1/1.1/retrieving_the_image.rst:69
+#: ../../source/1/1.1/retrieving_the_image.rst:87
 msgid ""
 "If you are running Debian or Ubuntu (or a distribution based off of "
 "either), run the following command in a terminal:"
 msgstr ""
 "Falls Sie Debian oder Ubuntu benutzen (oder eine Distribution, die auf "
-"darauf basiert), können Sie das folgende Kommando in den Terminal eingeben:"
+"darauf basiert), können Sie das folgende Kommando in den Terminal "
+"eingeben:"
 
-#: ../../source/1/1.1/retrieving_the_image.rst:71
-msgid "sudo apt install zsync"
-msgstr "sudo apt install zsync"
-
-#: ../../source/1/1.1/retrieving_the_image.rst:73
+#: ../../source/1/1.1/retrieving_the_image.rst:93
 msgid ""
 "Otherwise, there is a snap application you can download of zsync which "
 "should function mostly the same and should work on all Linux "
 "distributions:"
 msgstr ""
-"Andererseits gibt es auch eine snap-Variante von zsync, welche nahezu gleich "
-"funktioniert und auf allen Linux Distributionen funktionieren sollte:"
+"Andererseits gibt es auch eine snap-Variante von zsync, welche nahezu "
+"gleich funktioniert und auf allen Linux Distributionen funktionieren "
+"sollte:"
 
-#: ../../source/1/1.1/retrieving_the_image.rst:75
-msgid "sudo snap install zsync"
-msgstr "sudo snap install zsync"
-
-#: ../../source/1/1.1/retrieving_the_image.rst:77
+#: ../../source/1/1.1/retrieving_the_image.rst:99
 msgid ""
 "**You have now downloaded the image successfully. Please continue to "
 "Chapter 1.2.**"
 msgstr ""
-"**Sie haben die Image-Datei erfolgreich heruntergeladen. Bitte fahren Sie "
-"mit Kapitel 1.2. fort.**"
+"**Sie haben die Image-Datei erfolgreich heruntergeladen. Bitte fahren Sie"
+" mit Kapitel 1.2. fort.**"
+
+#~ msgid "sudo apt install zsync"
+#~ msgstr "sudo apt install zsync"
+
+#~ msgid "sudo snap install zsync"
+#~ msgstr "sudo snap install zsync"
+

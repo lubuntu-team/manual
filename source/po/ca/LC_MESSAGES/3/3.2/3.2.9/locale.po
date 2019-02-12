@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,21 +30,54 @@ msgid ""
 msgstr ""
 
 #: ../../source/3/3.2/3.2.9/locale.rst:7
-msgid "Version"
-msgstr ""
-
-#: ../../source/3/3.2/3.2.9/locale.rst:8
-msgid "Lubuntu ships with version 0.13.0 of Locale."
+msgid "Screenshot"
 msgstr ""
 
 #: ../../source/3/3.2/3.2.9/locale.rst:11
-msgid "How to Launch"
+msgid "Useage"
 msgstr ""
 
 #: ../../source/3/3.2/3.2.9/locale.rst:12
 msgid ""
-"To luaunch locale in the menu -> Prefrences -> LXQt settings -> locale or"
-" run lxqt-config-locale from the command line. In LXQt configuration "
-"center press the locale button that looks like a flag."
+"To change your locale the :guilabel:`Region` shows the name of your local"
+" and in the drop down menu you can type the name of your locale to search"
+" through the locales or scroll through the long list. Under the "
+":guilabel:`Examples` will show how numbers Time Currency and measurment "
+"units will be shown on your system. If you do not like the changes you "
+"can press the :guilabel:`Reset` button. The checkbox for "
+":guilabel:`Detailed settings` allows for even more customization."
 msgstr ""
+
+#: ../../source/3/3.2/3.2.9/locale.rst:15
+msgid "Version"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.9/locale.rst:16
+msgid "Lubuntu ships with version 0.13.0 of Locale."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.9/locale.rst:19
+msgid "How to Launch"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.9/locale.rst:20
+msgid ""
+"To launch locale in the menu :menuselection:`Preferences --> LXQt "
+"settings --> locale` or run"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.9/locale.rst:26
+msgid ""
+"from the command line. In LXQt configuration center press the locale "
+"button that looks like a flag."
+msgstr ""
+
+#~ msgid ""
+#~ "To luaunch locale in the menu ->"
+#~ " Prefrences -> LXQt settings -> "
+#~ "locale or run lxqt-config-locale "
+#~ "from the command line. In LXQt "
+#~ "configuration center press the locale "
+#~ "button that looks like a flag."
+#~ msgstr ""
 

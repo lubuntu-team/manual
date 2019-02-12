@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,19 +27,73 @@ msgstr ""
 msgid "nm-tray is the an applet to manage network connections."
 msgstr ""
 
+#: ../../source/3/3.1/3.1.5/nm-tray.rst:7
+msgid "Useage"
+msgstr ""
+
 #: ../../source/3/3.1/3.1.5/nm-tray.rst:8
-msgid "Version"
+msgid ""
+"If you want to connect to  a network on nm-tray left click the icon in "
+"the system tray. If you have a wired connection with DHCP it should "
+"connect automatically. If you want to disconnect your from a network "
+"under active connections left click to disconnect. To connect to wifi "
+"left click on the nm-tray applet and connect the wifi name applet and "
+"then enter the password for the wifi. After connecting to a wifi your "
+"known connections will by left clicking on nm-tray of wifi connections "
+"under known connections. The list of active connections are networks you "
+"are currently connected to. The list of wifi networks is listed under "
+"wifi networks you are connected to."
 msgstr ""
 
-#: ../../source/3/3.1/3.1.5/nm-tray.rst:9
-msgid "Lubuntu ships with version 0.4.0 of nm-tray."
-msgstr ""
-
-#: ../../source/3/3.1/3.1.5/nm-tray.rst:12
-msgid "How to launch"
+#: ../../source/3/3.1/3.1.5/nm-tray.rst:11
+msgid ""
+"To get information on your current connection to the network your can "
+"right click on nm-tray connection information to get info on your current"
+" Ip address connection speed and driver in use for the connection. To "
+"toggle notifications on connecting and disconnecting to networks right "
+"click on the nm-tray tray icon and check or uncheck the checkbox for "
+":guilabel:`enable notifications`. To disable wifi uncheck "
+":guilabel:`Enable Wifi`. To turn off all networking uncheck "
+":guilabel:`Enable Networking`."
 msgstr ""
 
 #: ../../source/3/3.1/3.1.5/nm-tray.rst:13
+msgid ""
+"To view your own networking information right click the applet "
+":menuselection:`Connection Information` which willl pop up a window with "
+"information such as your ip address. On this window each interfaace will "
+"show the names of each network interface in a tab bar along the top. The "
+"field :guilabel:`Interface` Shows you the name of your network adapter to"
+" the system what type of connection it is. The label for "
+":guilabel:`Driver` shows you what driver is in use for this network "
+"interface. The field :guilabel:`Speed` shows the speed supported by the "
+"connection."
+msgstr ""
+
+#: ../../source/3/3.1/3.1.5/nm-tray.rst:15
+msgid ""
+"The section :guilabel:`IPV4` shows you information on your settings for "
+"networking using IPV4. The section :guilabel:`IP Address` shows you  your"
+" current ip adress."
+msgstr ""
+
+#: ../../source/3/3.1/3.1.5/nm-tray.rst:18
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/3/3.1/3.1.5/nm-tray.rst:22
+msgid "Version"
+msgstr ""
+
+#: ../../source/3/3.1/3.1.5/nm-tray.rst:23
+msgid "Lubuntu ships with version 0.4.0 of nm-tray."
+msgstr ""
+
+#: ../../source/3/3.1/3.1.5/nm-tray.rst:26
+msgid "How to launch"
+msgstr ""
+
+#: ../../source/3/3.1/3.1.5/nm-tray.rst:27
 msgid ""
 "nm-tray should already launch in the system tray to and looks like either"
 " a plug with a cable plugged in if you have an ethernet connection."

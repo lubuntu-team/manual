@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,13 +31,49 @@ msgid ""
 msgstr ""
 
 #: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:7
-msgid "How to Launch"
+msgid "Useage"
 msgstr ""
 
 #: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:8
 msgid ""
-"To launch LXQt configuration center from the menu -> Prefrences -> LXQt "
-"settings -> LXQt configuration center or run lxqt-config from the command"
-" line."
+"LXQt configuration center lets you launch many different applications in "
+"this chapter from a simple control center where you can double click on "
+"the icon for that program. To close one of the programs here you have "
+"launched you can close it by pressing :kbd:`Escape`."
 msgstr ""
+
+#: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:11
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:15
+msgid "Version"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:16
+msgid "Lubuntu ships with version 0.13.0 of LXQt configuration center."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:19
+msgid "How to Launch"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:21
+msgid ""
+"To launch LXQt configuration center from the menu "
+":menuselection:`Preferences --> LXQt settings -> LXQt configuration "
+"center` or run"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:27
+msgid "from the command line."
+msgstr ""
+
+#~ msgid ""
+#~ "To launch LXQt configuration center from"
+#~ " the menu -> Prefrences -> LXQt "
+#~ "settings -> LXQt configuration center or"
+#~ " run lxqt-config from the command "
+#~ "line."
+#~ msgstr ""
 

@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,53 +20,122 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/3/3.2/3.2.14/shortcut_keys.rst:2
-msgid "Chapter 3.2.14 shortcut keys"
+msgid "Chapter 3.2.14 Shortcut keys"
 msgstr ""
 
 #: ../../source/3/3.2/3.2.14/shortcut_keys.rst:4
-msgid "shortcut keys is a program that sets keyboard shortcuts for Lubuntu."
+msgid ""
+"Shortcut keys is a program that manages the global hotkeys or keyboard "
+"shortcuts for Lubuntu."
 msgstr ""
 
 #: ../../source/3/3.2/3.2.14/shortcut_keys.rst:7
+msgid ""
+"The keyboard shortcuts are also managed by Openbox. Refer to Appendix F "
+"for more detail."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.14/shortcut_keys.rst:10
 msgid "Version"
 msgstr ""
 
-#: ../../source/3/3.2/3.2.14/shortcut_keys.rst:8
+#: ../../source/3/3.2/3.2.14/shortcut_keys.rst:11
 msgid "Lubuntu ships with version 0.13.0 of shortcut keys."
 msgstr ""
 
-#: ../../source/3/3.2/3.2.14/shortcut_keys.rst:11
-msgid "Useage"
-msgstr ""
-
-#: ../../source/3/3.2/3.2.14/shortcut_keys.rst:12
-msgid ""
-"To change a current keyboard shortcut to change things look at the menu "
-"click on the shortcut and a timer will begin to countdown during which "
-"time you should push the keyboard shortcut you want to change it to.  To "
-"remove a keyboard shortcut left click on that keyboard shortcut and press"
-" the remove button."
-msgstr ""
-
 #: ../../source/3/3.2/3.2.14/shortcut_keys.rst:14
+msgid "Usage"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.14/shortcut_keys.rst:15
 msgid ""
-"To create a new keyboard shortcut press the create button. The shortcut "
-"field will be blank but when you click the shortcut button a countdown "
-"will begin and then press the keyboard shorcut you want to assign it to. "
-"The summary field lets you enter a summary of the command useful so you "
-"know what this shortcut you created does in the future. To make this "
-"execute a terminal command press the terminal command radio button and "
-"enter the command in the radio button at the bottom."
+"You can **Modify** a current keyboard shortcut by selecting the shortcut "
+"from the keyboard table, clicking the modify button, then clicking on the"
+" shortcut button. A countdown will begin during which you should push the"
+" **keyboard shortcut combination** you want."
 msgstr ""
 
 #: ../../source/3/3.2/3.2.14/shortcut_keys.rst:17
+msgid ""
+"You can **Remove** a keyboard shortcut by selecting the shortcut from the"
+" keyboard table, and clicking the :guilabel:`remove` button. To swap to "
+"shortcut keys you can select two shortcuts with :kbd:`Control+ Left "
+"Click` then left click on the :guilabel:`Swap` button."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.14/shortcut_keys.rst:19
+msgid ""
+"You can **Add** a new keyboard shortcut clicking the :guilabel:`add` "
+"button. The shortcut field will be blank, click the shortcut button to "
+"start the countdown, then press the **keyboard shortcut combination** you"
+" want to assign. Write a short description of what the keyboard shortcut "
+"does, for example \"start drop down terminal\", or \"increases screen "
+"brightness\". To make this execute a terminal command select the command "
+"radio button and enter the command in the :guilabel:`Descrption` field."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.14/shortcut_keys.rst:22
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.14/shortcut_keys.rst:29
 msgid "How to launch"
 msgstr ""
 
-#: ../../source/3/3.2/3.2.14/shortcut_keys.rst:18
+#: ../../source/3/3.2/3.2.14/shortcut_keys.rst:30
 msgid ""
-"To launch shortcut keys from the menu -> Prefrences -> LXQt settings -> "
-"shortcut keys. From LXQt configuration center use shortcut keys button "
-"which looks like 6 keyboard keys or run lxqt-config-globalkeyshortcuts."
+"To launch shortcut keys from the menu :menuselection:`Preferences --> "
+"LXQt settings --> shortcut keys`. From LXQt configuration center use "
+"shortcut keys button which looks like 6 keyboard keys or from the command"
+" line run"
 msgstr ""
+
+#~ msgid "Chapter 3.2.14 shortcut keys"
+#~ msgstr ""
+
+#~ msgid "shortcut keys is a program that sets keyboard shortcuts for Lubuntu."
+#~ msgstr ""
+
+#~ msgid "Useage"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To change a current keyboard shortcut"
+#~ " to change things look at the "
+#~ "menu click on the shortcut and a"
+#~ " timer will begin to countdown during"
+#~ " which time you should push the "
+#~ "keyboard shortcut you want to change "
+#~ "it to.  To remove a keyboard "
+#~ "shortcut left click on that keyboard "
+#~ "shortcut and press the remove button."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To create a new keyboard shortcut "
+#~ "press the create button. The shortcut"
+#~ " field will be blank but when "
+#~ "you click the shortcut button a "
+#~ "countdown will begin and then press "
+#~ "the keyboard shorcut you want to "
+#~ "assign it to. The summary field "
+#~ "lets you enter a summary of the"
+#~ " command useful so you know what "
+#~ "this shortcut you created does in "
+#~ "the future. To make this execute a"
+#~ " terminal command press the terminal "
+#~ "command radio button and enter the "
+#~ "command in the radio button at the"
+#~ " bottom."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To launch shortcut keys from the "
+#~ "menu -> Prefrences -> LXQt settings "
+#~ "-> shortcut keys. From LXQt "
+#~ "configuration center use shortcut keys "
+#~ "button which looks like 6 keyboard "
+#~ "keys or run lxqt-config-"
+#~ "globalkeyshortcuts."
+#~ msgstr ""
 

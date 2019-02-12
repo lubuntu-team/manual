@@ -9,17 +9,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: 2018-11-21 19:30+0000\n"
 "Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
-"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
-"manual-3-2-4/es/>\n"
 "Language: es\n"
+"Language-Team: Spanish "
+"<https://translate.lubuntu.me/projects/lubuntu/manual-3-2-4/es/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/3/3.2/3.2.4/date_and_time.rst:2
@@ -39,28 +38,72 @@ msgstr "Uso"
 
 #: ../../source/3/3.2/3.2.4/date_and_time.rst:8
 msgid ""
-"If you want to toggle synchronizing the time of network press the radio "
-"button of Enable network time synchronization button. To change the "
-"timezone of your computer press the timezone gear and select your time "
-"zone from the long list."
+"The tab for :guilabel:`Date and time` sets what time it is and settings "
+"for synchronize it via the network.If you want to toggle synchronizing "
+"the time of network press the radio button of Enable network time "
+"synchronization button. To change the timezone of your computer left "
+"click the :guilabel:`timezone` tab and select your time zone from the "
+"long list. The checkbox for :guilabel:`RTC is in local time` is for the "
+"real time clock on your motherboard being in local time rather than UTC."
 msgstr ""
 
-#: ../../source/3/3.2/3.2.4/date_and_time.rst:11
-msgid "Version"
-msgstr "Versión"
+#: ../../source/3/3.2/3.2.4/date_and_time.rst:10
+msgid ""
+"If you do not wish to synchronize your clock via network time protocol "
+"uncheck the :guilabel:`Enable network time synchroniziation (NTP)` "
+"checkbox. Once NTP is disabled you want to be able to change your time "
+"locally you will be able to change your time by typing your time in the "
+"correct time."
+msgstr ""
 
 #: ../../source/3/3.2/3.2.4/date_and_time.rst:12
-msgid "Lubuntu ships with version 0.13.0 of Date and time."
+msgid ""
+"To cancel your changes to in date and time press the :guilabel:`Cancel` "
+"button."
 msgstr ""
 
 #: ../../source/3/3.2/3.2.4/date_and_time.rst:15
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.4/date_and_time.rst:21
+msgid "Version"
+msgstr "Versión"
+
+#: ../../source/3/3.2/3.2.4/date_and_time.rst:22
+msgid "Lubuntu ships with version 0.13.0 of Date and time."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.4/date_and_time.rst:25
 msgid "How to launch"
 msgstr "Como iniciar"
 
-#: ../../source/3/3.2/3.2.4/date_and_time.rst:16
+#: ../../source/3/3.2/3.2.4/date_and_time.rst:26
 msgid ""
-"To launch date and time from the menu -> Prefrences -> LXQt settings -> "
-"Date and Time. From LXQt configuration center under the system settings "
-"header at the bottom press the date and time button or from the command "
-"line run lxqt-admin-time."
+"To launch date and time from the menu :menuselection:`Preferences --> "
+"LXQt settings --> Date and Time`. From LXQt configuration center under "
+"the system settings header at the bottom press the date and time button "
+"or from the command line run"
 msgstr ""
+
+#~ msgid ""
+#~ "If you want to toggle synchronizing "
+#~ "the time of network press the "
+#~ "radio button of Enable network time "
+#~ "synchronization button. To change the "
+#~ "timezone of your computer press the "
+#~ "timezone gear and select your time "
+#~ "zone from the long list."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To launch date and time from the"
+#~ " menu -> Prefrences -> LXQt settings"
+#~ " -> Date and Time. From LXQt "
+#~ "configuration center under the system "
+#~ "settings header at the bottom press "
+#~ "the date and time button or from"
+#~ " the command line run lxqt-admin-"
+#~ "time."
+#~ msgstr ""
+

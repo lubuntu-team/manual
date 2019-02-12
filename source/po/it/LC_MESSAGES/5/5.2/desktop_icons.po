@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,9 +25,46 @@ msgstr ""
 
 #: ../../source/5/5.2/desktop_icons.rst:4
 msgid ""
-"The icons on your desktop can be moved by clicking and holding and "
-"dragging the desktop icon to the position you want it. To open a desktop "
-"entry file on an icon double click on it. To remove a desktop icon right "
-"click on the file and click move to trash."
+"The icons on your desktop can be moved by left clicking, holding and "
+"dragging the desktop icon to the position you want it. Shortcuts or "
+"desktop entry files can be opened by double click on the icon. If you "
+"want to view or edit a desktop file say for launching an application is "
+"to right click on the icon open with and slect say a text editor like "
+"featherpad to open file. If you move a desktop icon and then want to move"
+" it back right click and uncheck :menuselection:`Stick to current "
+"Position`."
 msgstr ""
+
+#: ../../source/5/5.2/desktop_icons.rst:7
+msgid "Adding and removing items from the desktop"
+msgstr ""
+
+#: ../../source/5/5.2/desktop_icons.rst:8
+msgid ""
+"Shortcuts can be copied to the desktop by dragging and dropping them from"
+" the application menu."
+msgstr ""
+
+#: ../../source/5/5.2/desktop_icons.rst:9
+msgid ""
+"You can also create shortcuts by dragging and dropping files and folders "
+"from the File manager onto the desktop."
+msgstr ""
+
+#: ../../source/5/5.2/desktop_icons.rst:14
+msgid ""
+"To remove a desktop icon right click on the file and click "
+":menuselection:`move to trash`."
+msgstr ""
+
+#~ msgid ""
+#~ "The icons on your desktop can be"
+#~ " moved by clicking and holding and"
+#~ " dragging the desktop icon to the "
+#~ "position you want it. To open a"
+#~ " desktop entry file on an icon "
+#~ "double click on it. To remove a"
+#~ " desktop icon right click on the "
+#~ "file and click move to trash."
+#~ msgstr ""
 

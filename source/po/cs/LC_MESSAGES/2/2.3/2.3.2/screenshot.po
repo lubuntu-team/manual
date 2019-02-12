@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/2/2.3/2.3.2/screenshot.rst:2
-msgid "Chapter 2.3.3 Screenshot"
+msgid "Chapter 2.3.2 Screenshot"
 msgstr ""
 
 #: ../../source/2/2.3/2.3.2/screenshot.rst:4
@@ -35,27 +35,77 @@ msgstr ""
 msgid ""
 "To use screenshot the whole screen takes a screenshot of your entire "
 "screen, current window only takes only the current window and capture an "
-"area of the screen lets you select an area interacetively. There is also "
-"a delay for the screenshot you can set like a timer for a camera in the "
-"bottom right corner of the screen."
+"area of the screen lets you select an area interacetively. To start the "
+"interactive area left click and then drag the mouse in a rectangle to "
+"select the area you want to take a screenshot. There is also a delay for "
+"the screenshot you can set like a timer for a camera in the bottom right "
+"corner of the screen."
 msgstr ""
 
-#: ../../source/2/2.3/2.3.2/screenshot.rst:11
-msgid "Version"
+#: ../../source/2/2.3/2.3.2/screenshot.rst:10
+msgid ""
+"To have your titlebar and frame around the window on a current window is "
+"a checkbox on the bottom. The :guilabel:`Include mouse cursor` checkbox "
+"will include your mouse cursor in the screenshot."
 msgstr ""
 
 #: ../../source/2/2.3/2.3.2/screenshot.rst:12
-msgid "Lubuntu ships with version 0.7.0 of screenshot."
+msgid ""
+"After taking your screenshot it will open up in the image viewer and to "
+"save it press :kbd:`Control + S` or :menuselection:`File --> Save`. If "
+"you did not get what you want in the screenshot you can take another with"
+" :menuselection:`File --> Capture Screenshot`."
 msgstr ""
 
 #: ../../source/2/2.3/2.3.2/screenshot.rst:15
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/2/2.3/2.3.2/screenshot.rst:19
+msgid "Version"
+msgstr ""
+
+#: ../../source/2/2.3/2.3.2/screenshot.rst:20
+msgid "Lubuntu ships with version 0.7.0 of screenshot."
+msgstr ""
+
+#: ../../source/2/2.3/2.3.2/screenshot.rst:23
 msgid "How to Launch"
 msgstr ""
 
-#: ../../source/2/2.3/2.3.2/screenshot.rst:16
+#: ../../source/2/2.3/2.3.2/screenshot.rst:24
 msgid ""
-"To launch screenshot from the menu -> Grapics -> Screenshot or run "
-"lximage-qt -s from the command line. Pressing the printscreen key also "
-"brings up the screenshot dialog."
+"To launch screenshot from the menu :menuselection:`Grapics --> "
+"Screenshot` or run .. code::"
 msgstr ""
+
+#: ../../source/2/2.3/2.3.2/screenshot.rst:29
+msgid ""
+"from the command line. Pressing the printscreen key also brings up the "
+"screenshot dialog. The icon to launch screenshot looks like a camera."
+msgstr ""
+
+#~ msgid "Chapter 2.3.3 Screenshot"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To use screenshot the whole screen "
+#~ "takes a screenshot of your entire "
+#~ "screen, current window only takes only"
+#~ " the current window and capture an"
+#~ " area of the screen lets you "
+#~ "select an area interacetively. There is"
+#~ " also a delay for the screenshot "
+#~ "you can set like a timer for "
+#~ "a camera in the bottom right "
+#~ "corner of the screen."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To launch screenshot from the menu "
+#~ "-> Grapics -> Screenshot or run "
+#~ "lximage-qt -s from the command line."
+#~ " Pressing the printscreen key also "
+#~ "brings up the screenshot dialog."
+#~ msgstr ""
 

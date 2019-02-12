@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/3/3.2/3.2.19/Printers.rst:2
+msgid "Chapter 3.2.19 Printers"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.19/Printers.rst:4
+msgid "Pritners allows you to configure your printer and show your print queue."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.19/Printers.rst:7
+msgid "Useage"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.19/Printers.rst:8
+msgid ""
+"To view your print queue right click on the printer and right click view "
+"print queue or with the printer slected press :kbd:`Control+F` or "
+":menuselection:`Printer --> View Print Queue` and if a job is held you "
+"can restart it. To view the properties of printer or make changes with "
+":menuselection:`Printer --> Properties`."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.19/Printers.rst:10
+msgid ""
+"If you want to delete a printer :menuselection:`Printer --> Delete` after"
+" left clicking on the printer will delete the printer after you left "
+"click on it and you will be asked to confirm so you do not accidently "
+"delete your printer."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.19/Printers.rst:13
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.19/Printers.rst:17
+msgid "Version"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.19/Printers.rst:18
+msgid "Lubuntu ships with version 1.5.11 of printers."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.19/Printers.rst:21
+msgid "How to launch"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.19/Printers.rst:22
+msgid ""
+"To launch printers from the menu :menuselection:`Preferences --> "
+"Printers` or run"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.19/Printers.rst:28
+msgid "from the command line."
+msgstr ""
+

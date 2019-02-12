@@ -9,17 +9,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: 2019-01-02 03:03+0000\n"
 "Last-Translator: Roberto Alzaga <lumintnian@outlook.com>\n"
-"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
-"manual-3-2-1/es/>\n"
 "Language: es\n"
+"Language-Team: Spanish "
+"<https://translate.lubuntu.me/projects/lubuntu/manual-3-2-1/es/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:2
@@ -34,15 +33,46 @@ msgid ""
 msgstr ""
 
 #: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:7
-msgid "How to Launch"
-msgstr "Como lanzar"
+msgid "Useage"
+msgstr ""
 
 #: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:8
 msgid ""
-"To launch LXQt configuration center from the menu -> Prefrences -> LXQt "
-"settings -> LXQt configuration center or run lxqt-config from the command"
-" line."
+"LXQt configuration center lets you launch many different applications in "
+"this chapter from a simple control center where you can double click on "
+"the icon for that program. To close one of the programs here you have "
+"launched you can close it by pressing :kbd:`Escape`."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:11
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:15
+msgid "Version"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:16
+#, fuzzy
+msgid "Lubuntu ships with version 0.13.0 of LXQt configuration center."
+msgstr "Capítulo 3.2.1 Centro de configuración de LXQt"
+
+#: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:19
+msgid "How to Launch"
+msgstr "Como lanzar"
+
+#: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:21
+#, fuzzy
+msgid ""
+"To launch LXQt configuration center from the menu "
+":menuselection:`Preferences --> LXQt settings -> LXQt configuration "
+"center` or run"
 msgstr ""
 "Para iniciar el centro de configuración de LXQt desde el menú -> "
-"Preferencias -> Configuración de LXQt -> centro de configuración de LXQt o "
-"ejecute lxqt-config desde la línea de comandos."
+"Preferencias -> Configuración de LXQt -> centro de configuración de LXQt "
+"o ejecute lxqt-config desde la línea de comandos."
+
+#: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:27
+msgid "from the command line."
+msgstr ""
+

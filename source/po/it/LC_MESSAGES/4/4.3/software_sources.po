@@ -1,0 +1,134 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/4/4.3/software_sources.rst:2
+msgid "Chapter 4.3 Managing Software Sources"
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:5
+msgid ""
+"Occasionally you may need to change the setting of you software sources. "
+"This could involve:"
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:7
+msgid ""
+"changing update settings like update frequency, notification of new "
+"releases,"
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:8
+msgid "adding or removing sources such as PPAs"
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:9
+msgid "changing download server"
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:10
+msgid "etc,"
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:14
+msgid "Usage"
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:16
+msgid "You can navigate the Software Sources using the tabs."
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:18
+msgid ""
+"Ubuntu Software contains settings involving the downloading of software "
+"from Ubuntu repositories. Here you can disable proprietary software and "
+"select a download server among other things."
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:19
+msgid ""
+"Other software allows you to add, remove or edit other software sources. "
+"Here you can manage remote repositories (PPAs) and CD-ROM repositories."
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:20
+msgid ""
+"Updates allows you set which software updates you would like to subscribe"
+" to, in this case Security, Recommended, Pre-released (unstable), and "
+"Unsupported updates. You can also set how frequently your system will "
+"automatically check for updates and what actions it should take, namely "
+"notify you, download (without notification), or install updates. You can "
+"also specify which releases you would like to be notified of, Normal "
+"Releases, Long term releases or Never."
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:21
+msgid ""
+"Authentication manages key files which ensure your downloads are not "
+"compromised, basically ensuring you are download from a reliable source "
+"and your download has not been intercepted."
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:22
+msgid ""
+"Submitting statistical data will improve the Ubuntu experience allowing "
+"developers to know which software you are downloading anonymously. We "
+"urge you to enable this feature but it is disabled by default as Lubuntu "
+"has an \"Opt-in\" philosophy."
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:25
+msgid "Version"
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:26
+msgid "Lubuntu ships with version 0.96.27 of software properties."
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:29
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:33
+msgid "How to Launch"
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:35
+msgid ""
+"In Muon Package Manager :menuselection:`Settings --> Configure Software "
+"Sources`"
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:38
+msgid ""
+"In Discover Software Center :menuselection:`Settings --> Ubuntu (Default)"
+" --> Settings (Gear icon) --> Software Sources`."
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:40
+msgid "command line:"
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:46
+msgid ""
+"tags:ppa, software, download, sources, release, update, discover, muon, "
+"security,"
+msgstr ""
+

@@ -9,17 +9,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: 2018-11-21 19:30+0000\n"
 "Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
-"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
-"manual-2-4-7/es/>\n"
 "Language: es\n"
+"Language-Team: Spanish "
+"<https://translate.lubuntu.me/projects/lubuntu/manual-2-4-7/es/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/2/2.4/2.4.7/noblenote.rst:2
@@ -39,13 +38,86 @@ msgid "Lubuntu ships with version 1.0.8 of noblenote."
 msgstr "Lubuntu se entrega con la versión 1.0.8 de noblenote."
 
 #: ../../source/2/2.4/2.4.7/noblenote.rst:11
-msgid "How to launch"
-msgstr "Como iniciar"
+msgid "Useage"
+msgstr ""
 
 #: ../../source/2/2.4/2.4.7/noblenote.rst:12
 msgid ""
-"To launch noblenote go to the menu -> Acessories -> noblenote or run "
-"noblenote on the commandline."
+"To start a new note right click on the right hand column new note or "
+":menuselection:`Edit --> New Note`. Then enter a title for this note. To "
+"open a note double click on that note from the right hand column which "
+"will open a new window with your note in it. To input text in the note "
+"type in the main body of this window after clicking on it."
 msgstr ""
-"Para iniciar noblenote, vaya al menú -> Accesorios -> noblenote o ejecute "
-"noblenote en la línea de comandos."
+
+#: ../../source/2/2.4/2.4.7/noblenote.rst:14
+msgid ""
+"If you wish to delete a notebook right click on a notebook and delete "
+"notebook, or with the notebook highlighted press :kbd:`Control + D`, or "
+":menuselection:`Edit --> Delete notebook`."
+msgstr ""
+
+#: ../../source/2/2.4/2.4.7/noblenote.rst:16
+msgid ""
+"To delete a note click on the note and press the button with a page X on "
+"it, press :kbd:`Control + Shift + D` or edit :menuselection:`Edit --> "
+"Delete note`."
+msgstr ""
+
+#: ../../source/2/2.4/2.4.7/noblenote.rst:18
+msgid ""
+"If you make a mistake tpying and want to undo your changes press "
+":kbd:`Control + z` or :menuselection:`Edit --> Undo`. If you wish to "
+"paste text into noblenote press :kbd:`Control + v` or "
+":menuselection:`Edit --> Paste`. To copy text from your note press "
+":kbd:`Control+C` or right click and select :menuselection:`Copy`. To "
+"select all text in a note press :kbd:`Control +A`."
+msgstr ""
+
+#: ../../source/2/2.4/2.4.7/noblenote.rst:20
+msgid ""
+"To change prefrences of noblenote press :kbd:`Control +P` or "
+":menuselection:`Settings --> Configure`. To keep noblenote in your system"
+" tray after you close noblenote check/uncheck the :guilabel:`Close to "
+"tray` checkbox. If you want to change the font for editing notes change "
+"the :guilabel:`Note Editor default font` underneath has the font and font"
+" size. If you want to toggle showing notes in HTML format check/uncheck "
+"the :guilabel:`Convert notes to the HTML format`. If you want to toggle "
+"the menu entry to show source check/uncheck the :guilabel:`Show \"Show "
+"source menu entry`."
+msgstr ""
+
+#: ../../source/2/2.4/2.4.7/noblenote.rst:22
+msgid ""
+"To toggle showing the toolbar press :kbd:`Control +Shift +T` or "
+":menuselection:`View --> Show toolbar`."
+msgstr ""
+
+#: ../../source/2/2.4/2.4.7/noblenote.rst:24
+msgid ""
+"To bring back up your note noblenote will leave a notebook icon in the "
+"system tray on the lower right hand corner of the panel by default which "
+"can bring back up the noblenote window."
+msgstr ""
+
+#: ../../source/2/2.4/2.4.7/noblenote.rst:27
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/2/2.4/2.4.7/noblenote.rst:33
+msgid "How to launch"
+msgstr "Como iniciar"
+
+#: ../../source/2/2.4/2.4.7/noblenote.rst:34
+#, fuzzy
+msgid ""
+"To launch noblenote go to the menu :menuselection:`Acessories --> "
+"noblenote` or run"
+msgstr ""
+"Para iniciar noblenote, vaya al menú -> Accesorios -> noblenote o ejecute"
+" noblenote en la línea de comandos."
+
+#: ../../source/2/2.4/2.4.7/noblenote.rst:40
+msgid "on the commandline."
+msgstr ""
+

@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/5/5.5/keyboard_menu_navigation.rst:2
+msgid "Chapter 5.5 Keyboard Menu Navigation"
+msgstr ""
+
+#: ../../source/5/5.5/keyboard_menu_navigation.rst:4
+msgid ""
+"Lubuntu 18.10 allows you to move through the menus of with only the "
+"keyboard instead of having to use the mouse. Looking at the menus there "
+"is an underlined with a letter. To open that menu with a for example "
+"ofter the file menu can be opened with :kbd:`Alt + F`. One other thing to"
+" notice is that with :kbd:`Alt + underlined character`. The currently "
+"selected menu item will appear in a different color."
+msgstr ""
+
+#: ../../source/5/5.5/keyboard_menu_navigation.rst:6
+msgid ""
+"Once you have the menu opened you can use the up and down arrow keys to "
+"move up and down in a menu. If the menu has :menuselection:`-->` to the "
+"right you can press :kbd:`Right arrow` to expand into a submenu. To move "
+"back up a level from the menu press :kbd:`Left arrow`. If you want to "
+"exit the menu press :kbd:`escape`. To move to adjacent menu to the left "
+"press :kbd:`Alt + left arrow`. To move to an adjacent menu to the right "
+"press :kbd:`Alt + right arrow`. To activate an item on your menu press "
+":kbd:`Enter`."
+msgstr ""
+

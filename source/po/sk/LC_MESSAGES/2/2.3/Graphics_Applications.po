@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,5 +21,11 @@ msgstr ""
 
 #: ../../source/2/2.3/Graphics_Applications.rst:2
 msgid "Chapter 2.3 Graphics Applications"
+msgstr ""
+
+#: ../../source/2/2.3/Graphics_Applications.rst:4
+msgid ""
+"This chapters documents programs with viewing pictures taking screenshots"
+" and scanning pictures or documents."
 msgstr ""
 

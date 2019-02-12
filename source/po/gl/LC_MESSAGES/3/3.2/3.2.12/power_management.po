@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,22 +31,114 @@ msgid ""
 msgstr ""
 
 #: ../../source/3/3.2/3.2.12/power_management.rst:7
-msgid "Version"
+msgid "Useage"
 msgstr ""
 
 #: ../../source/3/3.2/3.2.12/power_management.rst:8
-msgid "Lubuntu ships with version 0.13.0 of Power Management."
+msgid ""
+"LXQt power management watches your battery, laptop lid, and idleness on "
+"the screen. Each one of the checkbox is to battery laptop lid and "
+"idleness is a checkbox to enable or disable each. When you add when power"
+" is low select what you want to do suspend shutodwn hibernate or "
+"something."
 msgstr ""
 
-#: ../../source/3/3.2/3.2.12/power_management.rst:11
-msgid "How to Launch"
+#: ../../source/3/3.2/3.2.12/power_management.rst:10
+msgid ""
+"The :guilabel:`level is low at` changes when the battery is considered "
+"low power. The checkbox :guilabel:`Show icon` shows an icon in the tray "
+"for your power management. The checkbox :guilabel:`Use icons from theme` "
+"changes the appearance of your battery to be the battery icon from your "
+"icon theme."
 msgstr ""
 
 #: ../../source/3/3.2/3.2.12/power_management.rst:12
 msgid ""
-"To launch Power Management from the menu -> Prefrences -> LXQt settings "
-"-> Power Management. From LXQt configuration center press the power "
-"management icon that looks like a light bulb or run lxqt-config-"
-"powermanagement from the command line."
+"The :guilabel:`Battery` tab has settings for monitoring your battery "
+"power level and some settings. On a laptop power management should show a"
+" + with a ring around it represeneting your current battery charge on "
+"your laptop when it is charging with a full green circle meaning you are "
+"fully charged in the system tray. If your battery is discharging you will"
+" see a - sybmol at the center of the circle. If you hover the mouse "
+"cursor over this it will show the percent of charge as a percentage and "
+"whether the battery is charging or discharging. When your battery is "
+"fully charged it will turn into a black circle."
 msgstr ""
+
+#: ../../source/3/3.2/3.2.12/power_management.rst:14
+msgid ""
+"The field :guilabel:`Enable Batter Watcher` Watches the battery on your "
+"system. The field :guilabel:`When Power is low then:` lets you choose "
+"what to do when your batter is low. The :guilabel:`Warning` field "
+"provides a duration to show a warning for low power. To change the level "
+"for low level of battery change the :guilabel:`Level is low at` field."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.12/power_management.rst:16
+msgid ""
+"The :guilabel:`Lid` tab manages settings for when you close your laptop "
+"lid. The lid watcher lets you choose to suspend or shut off your computer"
+" when the lid is closed on battery or on AC. The checkbox for "
+":guilabel:`Enable Lid Watcher` enables actions to be taken when the "
+"laptop lid is closed and of course unchecking means it won't take any "
+"action. The :guilabel:`On battery` field changes what action to take when"
+" your laptop which each does it like it sounds like. The :guilabel:`On "
+"AC` is changes what action to take when your laptop lid is closed and it "
+"is plugged into power."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.12/power_management.rst:18
+msgid ""
+"The Checkbox :guilabel:`When using external monitor` Allows you to have "
+"different settings when your laptop for closing the lid if you are "
+"plugged in to an external monitor. The fields :guilabel:`On Battery` and "
+":guilabel:`On AC` function as above just different settings when plugged "
+"into an external monitor."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.12/power_management.rst:20
+msgid ""
+"The :guilabel:`Idle` tab manages what happens when you walk away from "
+"your keyboard. The :guilabel:`When idle then` you slect whether you want "
+"to do nothing, Lock Screen, Suspend, hibernate, Shutdown or turn off "
+"monitor. The :guilabel:`Idle time` fields tell you how long to wait when "
+"you are away before the idleness watcher takes the action you wish."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.12/power_management.rst:23
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.12/power_management.rst:27
+msgid "Version"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.12/power_management.rst:28
+msgid "Lubuntu ships with version 0.13.0 of Power Management."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.12/power_management.rst:30
+msgid "How to Launch"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.12/power_management.rst:32
+msgid ""
+"To launch Power Management from the menu :menuselection:`Preferences --> "
+"LXQt settings --> Power Management`. From LXQt configuration center press"
+" the power management icon that looks like a light bulb or run"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.12/power_management.rst:38
+msgid "from the command line."
+msgstr ""
+
+#~ msgid ""
+#~ "To launch Power Management from the "
+#~ "menu -> Prefrences -> LXQt settings "
+#~ "-> Power Management. From LXQt "
+#~ "configuration center press the power "
+#~ "management icon that looks like a "
+#~ "light bulb or run lxqt-config-"
+#~ "powermanagement from the command line."
+#~ msgstr ""
 

@@ -9,17 +9,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: 2018-11-21 19:30+0000\n"
 "Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
-"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
-"manual-2-2-2/es/>\n"
 "Language: es\n"
+"Language-Team: Spanish "
+"<https://translate.lubuntu.me/projects/lubuntu/manual-2-2-2/es/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:2
@@ -29,25 +28,143 @@ msgstr "Capítulo 2.2.2 LibreOffice Calc"
 #: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:4
 msgid "Libreoffice Calc is a spreadsheat program included by default in Lubuntu."
 msgstr ""
-"LibreOffice Calc es un programa de hojas de cálculo incluido por defecto en "
-"Lubuntu."
+"LibreOffice Calc es un programa de hojas de cálculo incluido por defecto "
+"en Lubuntu."
 
 #: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:7
-msgid "Version"
-msgstr "Versión"
+msgid "Useage"
+msgstr ""
 
 #: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:8
-msgid "Lubuntu ships with version  6.1.1.2 of libreoffice Calc."
-msgstr "Lubuntu incluye la version 6.1.1.2 de LibreOffice Calc."
-
-#: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:11
-msgid "How to launch"
-msgstr "Como iniciar"
+msgid ""
+"To move between cells press the arrow keys. To enter data into cells type"
+" in the keyboard. To select cells left click and drag to select the cells"
+" you want. To sum data from cells in the cell where you want the sum is "
+"to press the button that looks like Σ character and then drag the mouse "
+"over the cells you want to add. To sort your cells in descending order "
+"press the button with bullet points and an arrow going down. To sort in "
+"ascending order press the button with bullet points and an arrow pointing"
+" upwards."
+msgstr ""
 
 #: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:12
 msgid ""
-"To launch libreoffice calc in the menu go to Office -> Libreoffice Calc "
-"or run localc from the command line."
+"To save your spreadsheet you need to press the button that looks like a "
+"floppy disk, press the keyboard shortcut or go to :menuselection:`file "
+"--> save`. To save with a different file name :menuselection:`File --> "
+"Save as`. To open a file press the button that looks like a brown folder "
+"and add selct the file you want from the dialog or :menuselection:`File "
+"--> Open`. To open a recent document :menuselection:`File --> Recent "
+"Documents`."
 msgstr ""
-"Para lanzar LibreOffice Calc en el menú vaya a Office -> LibreOffice Calc o "
-"corra localc desde la linea de comandos."
+
+#: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:14
+msgid ""
+"To copy data you can right click copy, press the button with two pieces "
+"of paper or press :kbd:`control + c`. To paste data press control "
+":kbd:`control +v`, :menuselection:`edit -->  paste`, right click paste or"
+" press the botton that is a clipboard with a piece of paper on it. To cut"
+" text press :kbd:`control+x` or press the sciors button to cut text. If "
+"you want to paste your text unformatted press :kbd:`Control+Shift + "
+"Alt+V` or :menuselection:`Edit --> Paste Unformatted Text`."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:16
+msgid ""
+"To insert an image press :menuselection:`Insert --> Image`. To get to the"
+" dialog of how to insert a chart :menuselection:`Insert --> Chart`. The "
+"the first selection is to choose a column, bar, Pie, Area, Line, "
+"XY(Scatter), Bubble, Net, Stock, or Column and Line chart. To change the "
+"subtype of graph click the pciture of a chart that looks like the type "
+"you want."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:20
+msgid ""
+"If you want to insert a new column to the left of a column right click on"
+" the letter for the column Insert column left. If you want the new column"
+" to the right is right click on the letter and insert column right. If "
+"you want to delete a column right click on the letter and delete column. "
+"To insert a row above the current row right click on the number and "
+"insert row above. To insert a row below the current row right click on "
+"the number and insert row below. To delte a row right click the number "
+"delete rows."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:22
+msgid ""
+"To change the size of a  row or colum of cells click in between the "
+"border of that particular row or column and drag with the mouse to give "
+"yourself room."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:24
+msgid ""
+"To sort your data like a bunch of names first select all the cells with "
+"the mouse :menuselection:`Data --> Sort Ascending`. If you want the "
+"reverse order to this you can have :menuselection:`Data --> Sort "
+"Descending`."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:26
+msgid ""
+"To undo a selection press :kbd:`control +z` or press the button with the "
+"arrow looping around and pointing to the left. To redo an operation press"
+" :kbd:`Control +y` or the number looping to the right and exiting to the "
+"left."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:28
+msgid ""
+"To zoom to view a full page on your spreadsheet in the menu "
+":menuselection:`View --> Zoom --> Entire Page`. To view the whole width "
+"of your page on the menu :menuselection:`View --> Zoom --> Page Width`."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:31
+msgid ""
+"To select all cells in your spreadsheet press :kbd:`Control+A`. To select"
+" an entire column press :kbd:`Control+Space` or :menuselection:`Edit --> "
+"Select --> Select Column`. To select an entire row press :kbd:`Shift "
+"+Space` or :menuselection:`Edit --> Select --> Select Row`."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:33
+msgid ""
+"To createa a new spreadsheet in the same file press the button on the "
+"bottom that looks like a :guilabel:`+` or :menuselection:`Sheet --> "
+"Insert Sheet`. To switch between each sheet perss the button on each "
+"sheet at the bottom near the button to add a new sheet."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:35
+msgid ""
+"To insert a special character not on your keyboard :menuselection:`Insert"
+" --> Special Character`."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:38
+msgid "Version"
+msgstr "Versión"
+
+#: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:39
+msgid "Lubuntu ships with version  6.1.1.2 of libreoffice Calc."
+msgstr "Lubuntu incluye la version 6.1.1.2 de LibreOffice Calc."
+
+#: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:42
+msgid "How to launch"
+msgstr "Como iniciar"
+
+#: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:43
+#, fuzzy
+msgid ""
+"To launch libreoffice calc in the menu go to :menuselection:`Office --> "
+"Libreoffice Calc` or run"
+msgstr ""
+"Para lanzar LibreOffice Calc en el menú vaya a Office -> LibreOffice Calc"
+" o corra localc desde la linea de comandos."
+
+#: ../../source/2/2.2/2.2.2/libreoffice_calc.rst:49
+msgid "from the command line."
+msgstr ""
+

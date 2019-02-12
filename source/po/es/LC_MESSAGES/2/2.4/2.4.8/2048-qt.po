@@ -9,17 +9,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: 2019-01-02 03:03+0000\n"
 "Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
-"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
-"manual-2-4-8/es/>\n"
 "Language: es\n"
+"Language-Team: Spanish "
+"<https://translate.lubuntu.me/projects/lubuntu/manual-2-4-8/es/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/2/2.4/2.4.8/2048-qt.rst:2
@@ -37,24 +36,52 @@ msgstr "Uso"
 #: ../../source/2/2.4/2.4.8/2048-qt.rst:8
 msgid ""
 "To play 2048-qt you use the arrows keys to combine blocks with the same "
-"number on them."
+"number on them without having no possible moves at which point the game "
+"is over. As you combine numbers your score increases by the sum of the "
+"new block(s) you make and is shown towards the upper right hand corner of"
+" the window. Your :guilabel:`high score` is the best you have done at "
+"this game and is also shown towards the upper right hand corner. To the "
+"left of you high score is your :guilabel:`score` with the number of your "
+"current score."
 msgstr ""
-"Para jugar 2048-qt debes usar las teclas de flechas para combinar bloques "
-"con el mismo número."
 
-#: ../../source/2/2.4/2.4.8/2048-qt.rst:11
+#: ../../source/2/2.4/2.4.8/2048-qt.rst:10
+msgid ""
+"If midway you want to restart to a new game press the :guilabel:`New "
+"Game` button on the right hand side or :menuselection:`File --> New "
+"Game`."
+msgstr ""
+
+#: ../../source/2/2.4/2.4.8/2048-qt.rst:13
 msgid "Screenshot"
 msgstr "Captura de pantalla"
 
-#: ../../source/2/2.4/2.4.8/2048-qt.rst:15
+#: ../../source/2/2.4/2.4.8/2048-qt.rst:17
 msgid "Version"
 msgstr "Versión"
 
-#: ../../source/2/2.4/2.4.8/2048-qt.rst:16
+#: ../../source/2/2.4/2.4.8/2048-qt.rst:18
+#, fuzzy
 msgid ""
 "Lubuntu ships with version 0.1.6 of 2048-Qt. How to launch ------------- "
-"To launch 2048-qt go to the menu -> games -> 2048-qt or run 2048-qt from "
-"the commanmd-line."
+"To launch 2048-qt go to the menu :menuselection:`games -> 2048-qt` or run"
 msgstr ""
-"Lubuntu incluye la version 0.1.6 de 2048-Qt. Para iniciar 2048-Qt desde el "
-"menú vaya a Juegos -> 2048-Qt o ejecute 2048-qt desde la línea de comandos."
+"Lubuntu incluye la version 0.1.6 de 2048-Qt. Para iniciar 2048-Qt desde "
+"el menú vaya a Juegos -> 2048-Qt o ejecute 2048-qt desde la línea de "
+"comandos."
+
+#: ../../source/2/2.4/2.4.8/2048-qt.rst:27
+msgid ""
+"from the commanmd-line. The icon looks like a green square with 2048 in "
+"white text."
+msgstr ""
+
+#~ msgid ""
+#~ "To play 2048-qt you use the arrows"
+#~ " keys to combine blocks with the "
+#~ "same number on them."
+#~ msgstr ""
+#~ "Para jugar 2048-qt debes usar las "
+#~ "teclas de flechas para combinar bloques"
+#~ " con el mismo número."
+

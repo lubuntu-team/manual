@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -80,8 +80,9 @@ msgid ""
 " features. Throughout the course of the cycle, the Ubuntu Kernel Team "
 "will deliver **Hardware Enablement** updates, or **HWE** updates, to "
 "Lubuntu via Linux kernel updates. Additionally, all currently-supported "
-"Lubuntu releases use the **LXDE** desktop environment, which is the "
-"traditional Lubuntu experience."
+"Lubuntu LTS releases use the **LXDE** desktop environment, which is the "
+"traditional Lubuntu experience however Lubuntu 18.10 uses the **LXQt** "
+"which is a more modern environment."
 msgstr ""
 
 #: ../../source/1/1.1/retrieving_the_image.rst:26
@@ -155,8 +156,8 @@ msgstr ""
 
 #: ../../source/1/1.1/retrieving_the_image.rst:47
 msgid ""
-"*We don't recommend using this method as it's often slower and less "
-"efficient than the other methods.*"
+"*We don't recommend using this method as it's often slower, more error "
+"prone, and less efficient than the other methods.*"
 msgstr ""
 
 #: ../../source/1/1.1/retrieving_the_image.rst:49
@@ -168,11 +169,42 @@ msgid ""
 "in the right direction."
 msgstr ""
 
+#: ../../source/1/1.1/retrieving_the_image.rst:51
+msgid ""
+"Downloading via HTTP and not verifying the image can lead to hours of "
+"frustration with even the developers quite confused what is happening "
+"with your system. With just one bit of the image flipped it will cause "
+"massive frustration and a failed install."
+msgstr ""
+
 #: ../../source/1/1.1/retrieving_the_image.rst:53
+msgid ""
+"To do this the easiest way is the command line is to run for 64 bit "
+"lubuntu 18.10"
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:59
+msgid ""
+"and then carefully check that the output matches "
+"99408e73e5ff11727be6987d9b2f8ee3b6a3b672c9da540a63c8b462a0cf63c4 "
+"\\*lubuntu-18.10-desktop-amd64.iso"
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:61
+msgid "For 32 bit lubuntu 18.10 is to run"
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:67
+msgid ""
+"and then check carefully the output matches "
+"38e0bf05b6bfc3faa700f779e94cc1b7 \\*lubuntu-18.10-desktop-i386.iso"
+msgstr ""
+
+#: ../../source/1/1.1/retrieving_the_image.rst:71
 msgid "Downloading the image via BitTorrent"
 msgstr ""
 
-#: ../../source/1/1.1/retrieving_the_image.rst:54
+#: ../../source/1/1.1/retrieving_the_image.rst:72
 msgid ""
 "Instead of downloading the image from one server, you can \"torrent\" the"
 " image, or download it from multiple sources instead of just one. This is"
@@ -182,21 +214,22 @@ msgid ""
 "<https://en.wikipedia.org/wiki/BitTorrent>`_."
 msgstr ""
 
-#: ../../source/1/1.1/retrieving_the_image.rst:56
+#: ../../source/1/1.1/retrieving_the_image.rst:74
 msgid ""
 "In order to torrent the file, you need a BitTorrent client. We recommend "
 "`Transmission <https://transmissionbt.com/>`_, an Open Source BitTorrent "
 "client. Since Transmission only provides clients for Linux and macOS, we "
-"recommend `uTorrent <https://www.utorrent.com/>`_ for Windows users."
+"recommend `qbittorrent <https://www.qbittorrent.org/download.php>`_ for "
+"Windows users."
 msgstr ""
 
-#: ../../source/1/1.1/retrieving_the_image.rst:58
+#: ../../source/1/1.1/retrieving_the_image.rst:76
 msgid ""
 "The BitTorrent links can be found on our Downloads page or "
 "cdimage.ubuntu.com, both linked above."
 msgstr ""
 
-#: ../../source/1/1.1/retrieving_the_image.rst:60
+#: ../../source/1/1.1/retrieving_the_image.rst:78
 msgid ""
 "After you have downloaded the link you need, open it in your BitTorrent "
 "client. This will download the image. After this is done, we recommend "
@@ -205,11 +238,11 @@ msgid ""
 "decentralizing the download location for other users."
 msgstr ""
 
-#: ../../source/1/1.1/retrieving_the_image.rst:64
+#: ../../source/1/1.1/retrieving_the_image.rst:82
 msgid "Downloading the image via zsync"
 msgstr ""
 
-#: ../../source/1/1.1/retrieving_the_image.rst:65
+#: ../../source/1/1.1/retrieving_the_image.rst:83
 msgid ""
 "zsync is a convenient application that will automatically verify the "
 "checksum of the image once downloaded. The Lubuntu team uses this to "
@@ -217,36 +250,69 @@ msgid ""
 "last image was spun."
 msgstr ""
 
-#: ../../source/1/1.1/retrieving_the_image.rst:67
+#: ../../source/1/1.1/retrieving_the_image.rst:85
 msgid ""
 "In order to use zsync, you need to install it. Since this is a Linux-only"
 " client, you can get it from your distribution's package repository."
 msgstr ""
 
-#: ../../source/1/1.1/retrieving_the_image.rst:69
+#: ../../source/1/1.1/retrieving_the_image.rst:87
 msgid ""
 "If you are running Debian or Ubuntu (or a distribution based off of "
 "either), run the following command in a terminal:"
 msgstr ""
 
-#: ../../source/1/1.1/retrieving_the_image.rst:71
-msgid "sudo apt install zsync"
-msgstr ""
-
-#: ../../source/1/1.1/retrieving_the_image.rst:73
+#: ../../source/1/1.1/retrieving_the_image.rst:93
 msgid ""
 "Otherwise, there is a snap application you can download of zsync which "
 "should function mostly the same and should work on all Linux "
 "distributions:"
 msgstr ""
 
-#: ../../source/1/1.1/retrieving_the_image.rst:75
-msgid "sudo snap install zsync"
-msgstr ""
-
-#: ../../source/1/1.1/retrieving_the_image.rst:77
+#: ../../source/1/1.1/retrieving_the_image.rst:99
 msgid ""
 "**You have now downloaded the image successfully. Please continue to "
 "Chapter 1.2.**"
 msgstr ""
+
+#~ msgid ""
+#~ "Lubuntu offers two types of releases."
+#~ " The **Long Term Support** release, "
+#~ "or the **LTS**, is the release "
+#~ "recommended for most users. It is "
+#~ "supported for three years after the "
+#~ "release date and does not contain "
+#~ "new features. Throughout the course of"
+#~ " the cycle, the Ubuntu Kernel Team"
+#~ " will deliver **Hardware Enablement** "
+#~ "updates, or **HWE** updates, to Lubuntu"
+#~ " via Linux kernel updates. Additionally,"
+#~ " all currently-supported Lubuntu releases"
+#~ " use the **LXDE** desktop environment, "
+#~ "which is the traditional Lubuntu "
+#~ "experience."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "*We don't recommend using this method"
+#~ " as it's often slower and less "
+#~ "efficient than the other methods.*"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In order to torrent the file, you"
+#~ " need a BitTorrent client. We "
+#~ "recommend `Transmission <https://transmissionbt.com/>`_,"
+#~ " an Open Source BitTorrent client. "
+#~ "Since Transmission only provides clients "
+#~ "for Linux and macOS, we recommend "
+#~ "`uTorrent <https://www.utorrent.com/>`_ for Windows"
+#~ " users."
+#~ msgstr ""
+
+#~ msgid "sudo apt install zsync"
+#~ msgstr ""
+
+#~ msgid "sudo snap install zsync"
+#~ msgstr ""
 

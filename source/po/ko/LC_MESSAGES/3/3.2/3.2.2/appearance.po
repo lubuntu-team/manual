@@ -1,0 +1,116 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/3/3.2/3.2.2/appearance.rst:2
+msgid "Chapter 3.2.2 Appearance"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.2/appearance.rst:4
+msgid ""
+"Appearnce is a program that changes the theming of lxqt for a different "
+"visual look."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.2/appearance.rst:8
+msgid "Version"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.2/appearance.rst:9
+msgid "Lubuntu ships with version 0.13.0 of appearance."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.2/appearance.rst:12
+msgid "Useage"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.2/appearance.rst:13
+msgid ""
+"To change the useage Qt widget will change the buttons and tooblbars look"
+" on lubuntu in Qt applications. Check the checkbox :guilabel:`apply Set "
+"GTk` settings will apply native themes to GTk applications. The field for"
+" :guilabel:`GTK 2 Theme` will select a theme for GTK2 applications. The "
+":guilabel:`GTK3 theme` field sets the theme with GTK3 applications. The "
+"checkbox :guilabel:`Activate on single click` has makes things you "
+"normally need two clicks for one click."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.2/appearance.rst:19
+msgid ""
+"The :guilabel:`icons theme tab` changes desktop icons on your computer "
+"and if you click on the icon theme which is previewed on horizontal rows."
+" The icon theme is will change how all the icon look and how some button "
+"looks in other windows as well for like reset button as well. The "
+":guilabel:`Colorize Icons based on widget style` will slightly change the"
+" background icons with the color of the background."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.2/appearance.rst:23
+msgid ""
+"The tab for :guilabel:`LXQt theme` lets you change how the panel and "
+"notifictions appear. To change the theme left click on the theme name to "
+"change the theme. To the left of the theme name there is a small preview "
+"of the panel and the default button for the panel. The checkbox "
+":guilabel:`Override user-defined wallpaper` changes your wallpaper to one"
+" that comes with the LXQt theme."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.2/appearance.rst:25
+msgid ""
+"The :guilabel:`Font` tab has settings for fonts. To change the font size "
+"that desktop applications use choose the font tab and change the "
+":guilabel:`point size` and enter in the size you want or use the up and "
+"down arrows to increase or decrease font size respectively. To change the"
+" default font there is a drop down box for font name that you can type "
+"the font name you or select from the drop down menu. The checkbox for  "
+":guilabel:`use antialias fonts` and :guilabel:`font hinting` for fonts "
+"lets you also set antialiased fonts which are enabled for easier screen "
+"viewing. The :guilabel:`Resolution(DPI)` sets the resolution or dots per "
+"inch of the screen."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.2/appearance.rst:29
+msgid ""
+"The :guilabel:`cursor` tab has one option to change cursor theme lets you"
+" change how the cursor looks with two themes installed by default but "
+"more available in the package repositories."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.2/appearance.rst:31
+msgid ""
+"If you want to reset your changes you will need to click the "
+":guilabel:`reset` button to revert your changes to how they were before."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.2/appearance.rst:35
+msgid "How to launch"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.2/appearance.rst:36
+msgid ""
+"To launch appearnce in the menu :menuselection:`Preferences --> Lxqt "
+"settings --> appearance`. Another way is to press the Appearance button "
+"from LXQt configuration center or run"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.2/appearance.rst:42
+msgid "from the command line."
+msgstr ""
+

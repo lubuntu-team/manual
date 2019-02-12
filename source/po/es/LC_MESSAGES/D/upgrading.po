@@ -9,17 +9,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: 2018-11-21 19:48+0000\n"
 "Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
-"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
-"manual-d/es/>\n"
 "Language: es\n"
+"Language-Team: Spanish "
+"<https://translate.lubuntu.me/projects/lubuntu/manual-d/es/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/D/upgrading.rst:2
@@ -37,25 +36,28 @@ msgid ""
 " it may take a while and unexpected power failures could be disasterous."
 msgstr ""
 "¡Estamos orgullosos de presentar el lanzamiento altamente esperado de "
-"Lubuntu 18.10! Esta versión viene con muchos cambios, que probablemente se "
-"verán eclipsados por el cambio al entorno de escritorio LXQt. Naturalmente, "
-"un cambio extremadamente grande como este puede causar problemas, por lo que "
-"** recomendamos encarecidamente que realice una copia de seguridad de sus "
-"archivos **. Además, si su ordenador funciona con una batería (como un "
-"ordenador portátil), asegúrese de que la alimentación esté conectada, ya que "
-"puede tardar un tiempo y los fallos de alimentación inesperados pueden ser "
-"desastrosos."
+"Lubuntu 18.10! Esta versión viene con muchos cambios, que probablemente "
+"se verán eclipsados por el cambio al entorno de escritorio LXQt. "
+"Naturalmente, un cambio extremadamente grande como este puede causar "
+"problemas, por lo que ** recomendamos encarecidamente que realice una "
+"copia de seguridad de sus archivos **. Además, si su ordenador funciona "
+"con una batería (como un ordenador portátil), asegúrese de que la "
+"alimentación esté conectada, ya que puede tardar un tiempo y los fallos "
+"de alimentación inesperados pueden ser desastrosos."
 
 #: ../../source/D/upgrading.rst:6
+#, fuzzy
 msgid ""
 "There are two methods of upgrading Lubuntu releases. The first is using "
 "the update manager a graphical user interface. The second involves the "
-"command line and is useful for server upgrades."
+"command line and is useful for server upgrades. Unfortunately with main "
+"Ubuntu dropping 32-bit upgrades, 32-bit upgrades from 18.04 to 18.10 are "
+"not supported."
 msgstr ""
-"Hay dos métodos para actualizar las versiones de Lubuntu. El primero es usar "
-"el administrador de actualizaciones desde una interfaz gráfica de usuario. "
-"El segundo involucra la línea de comandos y es útil para las actualizaciones "
-"del servidor."
+"Hay dos métodos para actualizar las versiones de Lubuntu. El primero es "
+"usar el administrador de actualizaciones desde una interfaz gráfica de "
+"usuario. El segundo involucra la línea de comandos y es útil para las "
+"actualizaciones del servidor."
 
 #: ../../source/D/upgrading.rst:9
 msgid "Upgrading with GUI"
@@ -70,15 +72,17 @@ msgstr ""
 "Actualizador de Software y realizando actualizaciones del sistema:"
 
 #: ../../source/D/upgrading.rst:12
+#, fuzzy
 msgid ""
-"This can be done by clicking the Menu (Alt + F1) -> System Tools -> "
-"Software Updater."
+"This can be done by clicking the Menu (Alt + F1) :menuselection:`System "
+"Tools --> Software Updater`."
 msgstr ""
 "Esto se puede hacer haciendo clic en Menú (Alt + F1) -> Herramientas del "
 "sistema -> Actualizador de Software."
 
 #: ../../source/D/upgrading.rst:13
-msgid "When prompted, click Install Now."
+#, fuzzy
+msgid "When prompted, click :guilabel:`Install Now`."
 msgstr "Cuando se le solicite, haga clic en Instalar ahora."
 
 #: ../../source/D/upgrading.rst:14
@@ -87,7 +91,7 @@ msgid ""
 "reboot manually."
 msgstr ""
 
-#: ../../source/D/upgrading.rst:22
+#: ../../source/D/upgrading.rst:21
 msgid ""
 "Since 18.10 is not an LTS (Long Term Support) release, you may have to "
 "opt in for non LTS versions of Lubuntu."
@@ -108,62 +112,62 @@ msgstr ""
 #: ../../source/D/upgrading.rst:21
 msgid ""
 "Alternatively, you can start a terminal (Ctrl + Alt + T) and type in the "
-"command \"update-manager -d\""
+"command"
 msgstr ""
 
-#: ../../source/D/upgrading.rst:22
+#: ../../source/D/upgrading.rst:28
 msgid ""
 "The -d flag is referring to the fact that it's moving to an unsupported "
 "release (if you are on the LTS track, this is accurate)."
 msgstr ""
 
-#: ../../source/D/upgrading.rst:31
+#: ../../source/D/upgrading.rst:37
 msgid "Next, you will want to upgrade to the new release."
 msgstr ""
 
-#: ../../source/D/upgrading.rst:27
+#: ../../source/D/upgrading.rst:33
 msgid "After rebooting, start the update manager."
 msgstr ""
 
-#: ../../source/D/upgrading.rst:28
+#: ../../source/D/upgrading.rst:34
 msgid ""
 "This can be done by clicking the Menu (Alt + F1) -> Preferences -> "
 "Software and Updates."
 msgstr ""
 
-#: ../../source/D/upgrading.rst:29
+#: ../../source/D/upgrading.rst:35
 msgid "You should be prompted to upgrade. Click upgrade."
 msgstr ""
 
-#: ../../source/D/upgrading.rst:30
+#: ../../source/D/upgrading.rst:36
 msgid ""
 "Read the release notes. **This is important, in case there is information"
 " you need to know.**"
 msgstr ""
 
-#: ../../source/D/upgrading.rst:31
+#: ../../source/D/upgrading.rst:37
 msgid "Once the upgrade has completed, restart your machine."
 msgstr ""
 
-#: ../../source/D/upgrading.rst:38
+#: ../../source/D/upgrading.rst:44
 msgid "Upgrading with command line"
 msgstr ""
 
-#: ../../source/D/upgrading.rst:39
+#: ../../source/D/upgrading.rst:45
 msgid ""
 "The first step will be to ensure your system is up to date. This can be "
 "done by entering the following command into the terminal. If prompted, "
 "enter your password."
 msgstr ""
 
-#: ../../source/D/upgrading.rst:46
+#: ../../source/D/upgrading.rst:52
 msgid ""
 "Once the software upgrade has completed, you want to restart your pc. "
 "This can be done in a number of ways, however the following command is "
 "the simplest."
 msgstr ""
 
-#: ../../source/D/upgrading.rst:53
+#: ../../source/D/upgrading.rst:59
 msgid ""
 "The next thing you want to do is do the release upgrade. do-release-"
 "upgrade is the command line tool for upgrading Lubuntu installations. To "
@@ -176,13 +180,13 @@ msgid ""
 "after the install. Enter the following command into your terminal:"
 msgstr ""
 
-#: ../../source/D/upgrading.rst:59
+#: ../../source/D/upgrading.rst:65
 msgid ""
 "You may be prompted \"No new release found\", if so follow this step, "
 "else skip it."
 msgstr ""
 
-#: ../../source/D/upgrading.rst:61
+#: ../../source/D/upgrading.rst:67
 msgid ""
 "Since Lubuntu 18.04 was a long term support release, you will have to "
 "opt-in to install the regular releases. **It is important that you keep "
@@ -195,13 +199,13 @@ msgid ""
 "\"Prompt=normal\"."
 msgstr ""
 
-#: ../../source/D/upgrading.rst:63
+#: ../../source/D/upgrading.rst:69
 msgid ""
 "Now, update your software and run do-release-upgrade in a terminal, "
 "basically starting the process over."
 msgstr ""
 
-#: ../../source/D/upgrading.rst:65
+#: ../../source/D/upgrading.rst:71
 msgid ""
 "During the release upgrade, several changes will take place. You will be "
 "asked to select a display manager, the new default is Simple Desktop "
@@ -210,14 +214,14 @@ msgid ""
 "several more obsolete packages."
 msgstr ""
 
-#: ../../source/D/upgrading.rst:67
+#: ../../source/D/upgrading.rst:73
 msgid ""
 "After the installation, reboot into the new 18.10 system. You be greeted "
 "by a new login screen that is the SDDM display manager and a notification"
 " that this is now your first time running LXQt Power Management."
 msgstr ""
 
-#: ../../source/D/upgrading.rst:69
+#: ../../source/D/upgrading.rst:75
 msgid ""
 "Many of the old applications will not be removed. Newer and often times "
 "more featureful, Qt-based applications with the same functionality are "
@@ -227,6 +231,13 @@ msgid ""
 "applications:"
 msgstr ""
 
-#: ../../source/D/upgrading.rst:76
+#: ../../source/D/upgrading.rst:82
 msgid "To remove uneeded dependencies enter the following command:"
 msgstr ""
+
+#~ msgid ""
+#~ "Alternatively, you can start a terminal"
+#~ " (Ctrl + Alt + T) and type "
+#~ "in the command \"update-manager -d\""
+#~ msgstr ""
+

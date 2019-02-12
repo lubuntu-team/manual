@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -36,31 +36,70 @@ msgstr ""
 
 #: ../../source/3/3.2/3.2.6/desktop_notifications.rst:8
 msgid ""
-"To change where Desktop notifications appear on your screen click the "
-"button that appears on the portion of your screen where you want them "
-"with the outline being your window under the basic settings tab. To "
-"change duration of desktop notifications there is up and down to add or "
-"reduce the number of seconds to show notifications for the default is 10 "
-"seconds. The sizes width lets you choose how wide to make notifications."
+"The :guilabel:`Basic Settings` tab lets you change where Desktop "
+"notifications appear on your screen click the button that appears on the "
+"portion of your screen where you want them with the outline being your "
+"window."
 msgstr ""
 
-#: ../../source/3/3.2/3.2.6/desktop_notifications.rst:11
-msgid "Version"
+#: ../../source/3/3.2/3.2.6/desktop_notifications.rst:10
+msgid ""
+"On the :guilabel:`Advanced Settings` lets you change duration of desktop "
+"notifications there is up and down to add or reduce the number of seconds"
+" to show notifications for the default is 10 seconds. The sizes "
+":guilabel:`width` field lets you choose how wide to make notifications. "
+"The :guilabel:`spacing` field changes how far to place the notification "
+"from each other."
 msgstr ""
 
-#: ../../source/3/3.2/3.2.6/desktop_notifications.rst:12
-msgid "Lubuntu ships with version 0.13.0 of desktop notifications."
-msgstr ""
-
-#: ../../source/3/3.2/3.2.6/desktop_notifications.rst:16
-msgid "How to launch"
+#: ../../source/3/3.2/3.2.6/desktop_notifications.rst:13
+msgid "Screenshot"
 msgstr ""
 
 #: ../../source/3/3.2/3.2.6/desktop_notifications.rst:17
-msgid ""
-"To launch Desktop notifications from the menu -> Prefrences -> LXQt "
-"settings -> Desktop Notifications. In lxqt-configuration center press the"
-" Desktop Notification button which looks like a giant !. To launch the "
-"configuration from the command line run lxqt-config-configurationd."
+msgid "Version"
 msgstr ""
+
+#: ../../source/3/3.2/3.2.6/desktop_notifications.rst:18
+msgid "Lubuntu ships with version 0.13.0 of desktop notifications."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.6/desktop_notifications.rst:22
+msgid "How to launch"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.6/desktop_notifications.rst:23
+msgid ""
+"To launch Desktop notifications from the menu :menuselection:`Preferences"
+" --> LXQt settings --> Desktop Notifications`. In lxqt-configuration "
+"center press the Desktop Notification button which looks like a giant !. "
+"To launch the configuration from the command line run"
+msgstr ""
+
+#~ msgid ""
+#~ "To change where Desktop notifications "
+#~ "appear on your screen click the "
+#~ "button that appears on the portion "
+#~ "of your screen where you want them"
+#~ " with the outline being your window"
+#~ " under the basic settings tab. To "
+#~ "change duration of desktop notifications "
+#~ "there is up and down to add "
+#~ "or reduce the number of seconds to"
+#~ " show notifications for the default "
+#~ "is 10 seconds. The sizes width "
+#~ "lets you choose how wide to make"
+#~ " notifications."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To launch Desktop notifications from the"
+#~ " menu -> Prefrences -> LXQt settings"
+#~ " -> Desktop Notifications. In lxqt-"
+#~ "configuration center press the Desktop "
+#~ "Notification button which looks like a"
+#~ " giant !. To launch the configuration"
+#~ " from the command line run lxqt-"
+#~ "config-configurationd."
+#~ msgstr ""
 

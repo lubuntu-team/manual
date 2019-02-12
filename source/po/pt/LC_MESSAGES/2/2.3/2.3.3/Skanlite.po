@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/2/2.3/2.3.3/Skanlite.rst:2
-msgid "Chapter 2.3.4 Skanlite"
+msgid "Chapter 2.3.3 Skanlite"
 msgstr ""
 
 #: ../../source/2/2.3/2.3.3/Skanlite.rst:4
@@ -41,26 +41,111 @@ msgstr ""
 
 #: ../../source/2/2.3/2.3.3/Skanlite.rst:12
 msgid ""
-"To preview what you want to scan press the preview button and you can "
-"make sure the scan is in a good position. With this done you can press "
-"the scan button to scan the document after this a dialog will show up "
-"asking you were to save what you are scanning."
+"To preview what you want to scan press the :guilabel:`preview` button and"
+" you can make sure the scan is in a good position. With this done you can"
+" press the :guilabel:`scan` button to scan the document after this a "
+"dialog will show up asking you were to save what you are scanning. If you"
+" want to cancel your scan midway through the scani or preview click on "
+"the red octogon with a white inside x button to cancel the scan while the"
+" scan is in progress. Then a file save dialog will pop up and type the "
+"file name you want in the :guilabel:`File name` field and then press the "
+":guilabel:`Save` button."
 msgstr ""
 
-#: ../../source/2/2.3/2.3.3/Skanlite.rst:14
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:16
 msgid ""
-"To zoom in press the magnifying glass button with a plus sign conversely "
-"to move out press the magnifying glass button with a minus sign."
-msgstr ""
-
-#: ../../source/2/2.3/2.3.3/Skanlite.rst:17
-msgid "How to launch"
+"If your scanner is not detected a you will get a device saying \"Sorry no"
+" devices detected\" whith having a button for :guilabel:`Reload devices "
+"list` to try and find your scanner again. If you want to cancel press the"
+" :guilabel:`Cancel` button."
 msgstr ""
 
 #: ../../source/2/2.3/2.3.3/Skanlite.rst:18
 msgid ""
-"To launch skanlite turn on your scanner and that it is connected to your "
-"computer. To launch the application go to the menu -> graphics -> "
-"skanlite or run skanlite from the command line."
+"To change the dpi or dots per inch is the dpi drop down menu for "
+":guilabel:`scan resolution` but keep in mind the higher the number of dpi"
+" the better the picture quality but the longer it will take to scan. The "
+"scan mode changing allows you to select color to select color scanning or"
+" gray to only show your scan in gray and not use color ink if you would "
+"want to print it out again."
 msgstr ""
+
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:20
+msgid ""
+"To zoom in press the magnifying glass button with a plus sign conversely "
+"to move out press the magnifying glass button with a minus sign. To "
+"change your resolution change the scan resolution drop down and select "
+"the dots per inch you want to use."
+msgstr ""
+
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:22
+msgid ""
+"To change the brightness of a scan slide the :guilabel:`brightness` "
+"slider or input an a positive or negative number into the the numeric "
+"field. To change constrast slide the :guilabel:`Contrast` slider or input"
+" a positive or negative number in the numeric field. To toggle inverting "
+"your colors on the scan check/uncheck the :guilabel:`Invert colors` "
+"Checkbox."
+msgstr ""
+
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:24
+msgid ""
+"To select part of a scan you particularly want to save is to click over a"
+" preview of a scan and you will drag the selection with the mouse. To "
+"clear selections that can be automatically selected but canceled with a "
+"brown smudge with an x on it. If you want to zoom to your selection right"
+" click :guilabel:`Zoom to selection`. If you want to zoom to fit the "
+"whole entire page right click :guilabel:`Zoom to fit`."
+msgstr ""
+
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:27
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:31
+msgid "How to launch"
+msgstr ""
+
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:32
+msgid ""
+"To launch skanlite turn on your scanner and that it is connected to your "
+"computer. To launch the application go to the menu "
+":menuselection:`graphics --> skanlite` or run"
+msgstr ""
+
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:38
+msgid "from the command line."
+msgstr ""
+
+#~ msgid "Chapter 2.3.4 Skanlite"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To preview what you want to scan"
+#~ " press the preview button and you "
+#~ "can make sure the scan is in "
+#~ "a good position. With this done "
+#~ "you can press the scan button to"
+#~ " scan the document after this a "
+#~ "dialog will show up asking you "
+#~ "were to save what you are "
+#~ "scanning."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To zoom in press the magnifying "
+#~ "glass button with a plus sign "
+#~ "conversely to move out press the "
+#~ "magnifying glass button with a minus "
+#~ "sign."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To launch skanlite turn on your "
+#~ "scanner and that it is connected "
+#~ "to your computer. To launch the "
+#~ "application go to the menu -> "
+#~ "graphics -> skanlite or run skanlite "
+#~ "from the command line."
+#~ msgstr ""
 

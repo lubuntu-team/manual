@@ -9,17 +9,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: 2018-11-13 20:19+0000\n"
 "Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
-"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
-"manual-2-1-4/es/>\n"
 "Language: es\n"
+"Language-Team: Spanish "
+"<https://translate.lubuntu.me/projects/lubuntu/manual-2-1-4/es/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/2/2.1/2.1.4/bluedevil.rst:2
@@ -27,16 +26,49 @@ msgid "Chapter 2.1.4 Bluedevil"
 msgstr "Capítulo 2.1.4 Bluedevil"
 
 #: ../../source/2/2.1/2.1.4/bluedevil.rst:4
+#, fuzzy
 msgid ""
-"bluedevil is the default application to make bluetooth devices for "
+"bluedevil is the default application to manage bluetooth devices for "
 "lubuntu."
 msgstr ""
-"Bluedevil es la aplicación estándar para dispositivos bluetooth en Lubuntu."
+"Bluedevil es la aplicación estándar para dispositivos bluetooth en "
+"Lubuntu."
 
-#: ../../source/2/2.1/2.1.4/bluedevil.rst:7
+#: ../../source/2/2.1/2.1.4/bluedevil.rst:9
 msgid "Version"
 msgstr "Versión"
 
-#: ../../source/2/2.1/2.1.4/bluedevil.rst:8
+#: ../../source/2/2.1/2.1.4/bluedevil.rst:10
 msgid "Lubuntu ships with version 5.13.5 of bluedevil."
 msgstr "Lubuntu incluye la versión 5.13.5 de Bluedevil."
+
+#: ../../source/2/2.1/2.1.4/bluedevil.rst:13
+msgid "Pairing"
+msgstr ""
+
+#: ../../source/2/2.1/2.1.4/bluedevil.rst:14
+msgid ""
+"To launch bluedevil to pair with a device from the menu "
+":menuselection:`Internet --> Bluedevil Wizard`. If bluetooth is disabled "
+"you will be asked to enable it. In the main part of the window will show "
+"detected bluetooth devices. Click on the device you wish to add and press"
+" :guilabel:`next`."
+msgstr ""
+
+#: ../../source/2/2.1/2.1.4/bluedevil.rst:17
+msgid "Sending files"
+msgstr ""
+
+#: ../../source/2/2.1/2.1.4/bluedevil.rst:18
+msgid ""
+"To send a file to another device after pairing with the device "
+":menuselection:`Internet --> Bluedevil Send file` to open the file "
+"sending dialog. Then select the device you want to send a file to. Press "
+"the button with the upward pointing arrow to to bring a dialog of which "
+"files to transfer."
+msgstr ""
+
+#: ../../source/2/2.1/2.1.4/bluedevil.rst:21
+msgid "Screenshot"
+msgstr ""
+

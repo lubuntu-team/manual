@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,21 +23,71 @@ msgstr ""
 msgid "Chapter 2.2.4 Libreoffice Math"
 msgstr ""
 
-#: ../../source/2/2.2/2.2.4/libreoffice_math.rst:6
+#: ../../source/2/2.2/2.2.4/libreoffice_math.rst:5
 msgid "Version"
 msgstr ""
 
-#: ../../source/2/2.2/2.2.4/libreoffice_math.rst:7
+#: ../../source/2/2.2/2.2.4/libreoffice_math.rst:6
 msgid "Lubuntu ships with Version 6.1.1.2 of libreoffice math."
 msgstr ""
 
-#: ../../source/2/2.2/2.2.4/libreoffice_math.rst:10
+#: ../../source/2/2.2/2.2.4/libreoffice_math.rst:9
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/2/2.2/2.2.4/libreoffice_math.rst:13
+msgid "Useage"
+msgstr ""
+
+#: ../../source/2/2.2/2.2.4/libreoffice_math.rst:14
+msgid ""
+"To save your formula you have written in libreoffice math press "
+":kbd:`Control +S` or :menuselection:`File --> Save`. To open a file press"
+" :kbd:`Control +O` or :menuselection:`File --> Open`.  To print your "
+"fomrula press :kbd:`Control +P` or :menuselection:`File --> Print`."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.4/libreoffice_math.rst:16
+msgid ""
+"To paste text into libreoffice math press :kbd:`Control +V` or "
+":menuselection:`Edit --> Paste`. To copy text from libreoffice math press"
+" :kbd:`Control+C` or :menuselection:`Edit --> Copy`. To cut text from "
+"libreoffice math press :kbd:`Control +X` or :menuselection:`Edit --> "
+"Cut`."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.4/libreoffice_math.rst:18
+msgid ""
+"To undo changes in libreoffice math press :kbd:`Control +Z` or "
+":menuselection:`Edit --> Undo`. To redo a change you have undone press "
+":kbd:`Control +Y` or :menuselection:`Edit --> Redo`."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.4/libreoffice_math.rst:20
+msgid ""
+"The left hand side has many symbols you can use for say set relations and"
+" other operators. To insert even more symbols :menuselection:`Tools --> "
+"Symbols`."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.4/libreoffice_math.rst:23
 msgid "How to launch"
 msgstr ""
 
-#: ../../source/2/2.2/2.2.4/libreoffice_math.rst:11
+#: ../../source/2/2.2/2.2.4/libreoffice_math.rst:24
 msgid ""
-"To launch libreoffice math in the menu -> office -> libreoffice math or "
-"run lomath from the command line."
+"To launch libreoffice math in the menu :menuselection:`office --> "
+"libreoffice math` or run"
 msgstr ""
+
+#: ../../source/2/2.2/2.2.4/libreoffice_math.rst:30
+msgid "from the command line."
+msgstr ""
+
+#~ msgid ""
+#~ "To launch libreoffice math in the "
+#~ "menu -> office -> libreoffice math "
+#~ "or run lomath from the command "
+#~ "line."
+#~ msgstr ""
 

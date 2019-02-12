@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,7 +27,7 @@ msgstr ""
 msgid "Libreoffice Impress is a program to present presentations."
 msgstr ""
 
-#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:9
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:10
 msgid "Features include:"
 msgstr ""
 
@@ -43,41 +43,278 @@ msgstr ""
 msgid "pdf export"
 msgstr ""
 
-#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:12
-msgid "Useage"
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:10
+msgid "images"
 msgstr ""
 
 #: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:13
+msgid "Useage"
+msgstr ""
+
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:14
 msgid ""
 "When you open libreoffice impress you will get a dialog to select a "
 "templete with a preview select which one you want to use by left clicking"
-" and then click open. To add a title to a slide click where it says click"
-" to add title."
+" and then click :guilabel:`open`. To add a title to a slide click where "
+"it says click to add title."
 msgstr ""
 
-#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:15
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:16
 msgid ""
 "To open a previous presentation you have been working on press the button"
 " that looks like a folder with a piece of paper in it and navigate to the"
-" file you want and open it. To save your presentation press the button "
-"that looks like a floppy disk."
+" file you want and open it or :menuselection:`File --> Open`. To view "
+"your recently opened files press :menuselection:`File --> Recent "
+"Documents`. To save your presentation press the button that looks like a "
+"floppy disk or :menuselection:`File --> Save`. To save a new copy under a"
+" custom file name :menuselection:`File --> Save As`. To save a file as a "
+"pdf :menuselection:`File --> Export as PDF`."
 msgstr ""
 
 #: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:18
-msgid "Version"
+msgid ""
+"To type text into a presentation click in one of the boxes for your theme"
+" and type in the text with controls for the text on the right hand side. "
+"To insert a picture press the button with what looks like a photograph of"
+" a tree and select the file you want to insert or :menuselection:`Insert "
+"--> Image...`. To insert audio or video to your presentation "
+":menuselection:`Insert --> Audio or video`."
 msgstr ""
 
-#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:19
-msgid "Lubuntu ships with version 6.1.1.2 of libreoffice impress."
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:20
+msgid ""
+"To change the layout of your slide :menuselection:`Slide --> Layout --> "
+"Your prefred layout`."
 msgstr ""
 
 #: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:22
+msgid ""
+"To apply a bold effects on your fonts select the text with the mouse and "
+"then press :kbd:`Control+ B` or :menuselection:`Format --> Text --> "
+"Bold`. To make text italic with first select it and then press "
+":kbd:`Control + I` or :menuselection:`Format --> Text --> Italic`. To "
+"underline your text select it and then press :kbd:`Control+U` or "
+":menuselection:`Format --> Text --> Underline`."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:24
+msgid ""
+"To increaase your font size press :kbd:`Control + ]` or "
+":menuselection:`Format --> Text --> Increase Size`. To decrease your font"
+" size press :kbd:`Control + [` or :menuselection:`Format --> Text --> "
+"Decrease Size`. To make text superscript select it and press :kbd:`Shift "
+"+ Control +P` or :menuselection:`Format --> Text --> Superscript`. To "
+"make text subscript select it and press :kbd:`Shift + Control + B` or "
+":menuselection:`Format --> Text --> Subscript`."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:26
+msgid ""
+"To spell check your presentation press :kbd:`F7` or :menuselection:`Tools"
+" --> Spellcheck`. If you want to print your slides you can press "
+":kbd:`Control + p` or :menuselection:`File --> Print`. To open up your "
+"printer settings :menuselection:`File --> Printer Settings`."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:28
+msgid ""
+"If you want to paste text into a slideshow press :kbd:`Control + V` or "
+":menuselection:`Edit --> Paste`. To copy text select it first and then "
+"press :kbd:`Control + C` or :menuselection:`Edit --> Copy`. To cut text "
+"select it first and the press :kbd:`Control +X` or :menuselection:`Edit "
+"--> Cut`. To paste text without formatting pres :kbd:`Control +Shift + "
+"Alt +V` or :menuselection:`Edit --> Paste Unformatted Text`."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:30
+msgid ""
+"To insert a special character :menuselection:`Insert --> Special "
+"Character`. To center your text press :kbd:`Control + E` or "
+":menuselection:`Format --> Align --> Center`. To have your text aligned "
+"to the right press :kbd:`Control +R` or :menuselection:`Format --> Align "
+"--> Right`. To align text to the left press :kbd:`Control + L` or "
+":menuselection:`Format -->Align --> Left`."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:32
+msgid ""
+"To bring up a dialog to customize the character or your text "
+":menuselection:`Format --> Character`. The :guilabel:`Family` lets you "
+"choose the font family for your text. The :guilabel:`Style` is where you "
+"can select the of your font. The :guilabel:`Size` Lets you change the "
+"font size. The :guilabel:`Font effects` tab has even more effects for "
+"fonts. The drop down :guilabel:`Font Label` changes your font color. The "
+":guilabel:`Overlining` menu lets you make a style for how to draw lines "
+"over the text. The :guilabel:`Overline Color` brings up a drop down menu "
+"to choose what color to draw a line over something. The "
+":guilabel:`Effects` has effects for your text. To have many different "
+"strikethrough effects to your text select the one you want from "
+"thedropdown :guilabel:`Strikethrough` menu. To change whether the font "
+"appears to be sunken or raised from the presentation use the menu for "
+":guilabel:`Relief`. To choose how you want your text underlined choose an"
+" option from the :guilabel:`Underlining` menu. To change the color of "
+"your underline use the :guilabel:`Underline color` menu. To have effects "
+"with how your is vertically with the rest of the line select the "
+":guilabel:`Position` tab. To make your text superscript press the  "
+":guilabel:`Superscript` button. To make your text subscript press the "
+":guilabel:`Subscript` button. The menu for :guilabel:`Scale width` "
+"changes how much to scale the width of the font."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:36
+msgid ""
+"To toggle bulleted lists on your points :menuselection:`Format --> Lists "
+"--> Bulleted List`. To toggle a numbered list for your points "
+":menuselection:`Format --> Lists --> Numbered Lists`."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:38
+msgid ""
+"To change your line spacing on your presentation :menuselection:`Format "
+"--> Spacing --> Line spacing` and select the spacing you want. To "
+"increase your spacing between paragraphs :menuselection:`Format --> "
+"Spacing --> Increase Paragraph Spacing`. To decrease your spacing between"
+" paragraphs :menuselection:`Format --> Spacing --> Decrease Paragraph "
+"Spacing`."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:40
+msgid ""
+"To move settings with a box of text left click on the border of the box "
+"of text. To move the text box click and drag on the border. To resize "
+"both vertical and horizontal size together left click on the corner and "
+"resize the text box. To resize how tall the text box is click the box at "
+"the top or bottom and drag to the desired size. To resize the horizontal "
+"size only select the box on a veritcal size of the box."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:42
+msgid ""
+"To search for text press :kbd:`Control + F` or :menuselection:`Edit --> "
+"Find` to search for text. To find and replaace text press :kbd:`Control +"
+" H` or :menuselection:`Edit --> Find and Replace`."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:44
+msgid ""
+"To move a text box around you can left click on the text box and drag it "
+"to the desired position. To resize a text box click on the corner and "
+"drag to resize to the desired size."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:46
+msgid ""
+"To insert an image click :menuselection:`Insert --> Image`. To drag your "
+"image to where you want it left click and drag the mouse to where you "
+"want the image. To resize the image without distorting it click one of "
+"the boxes on the corner and resize to the size you wish. If you want to "
+"delete an image press :kbd:`Delete`. To replace an image right click the "
+"image and :menuselection:`Replace` will bring a file picker up to pick a "
+"new image. To crop an image right click on the image and select "
+":menuselection:`Crop`. To save an image out of a presentation right click"
+" on the image and select :menuselection:`Save ...`."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:50
+msgid ""
+"To change the zoom of you presentation :menuselection:`View --> Zoom --> "
+"Zoom` to bring up a window to manage your zoom. If you just want to zoom "
+"to fit the page width :menuselection:`View --> Zoom --> Page Width`."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:52
+msgid ""
+"On the left there is a panel showing what slides you currently have in "
+"left side of the window. To insert a new slide right click on this panel "
+"on the left and select new slide or press :kbd:`Control + Enter`. To "
+"delete a slide on the left hand slide right click and select delete slide"
+" or :menuselection:`Slide --> Delete Slide`. To create another copy of a "
+"slide right click and then select duplicate slide. To change the type of "
+"slide  :menuselection:`Slide --> Layout --> Your choice of slide here` "
+"which has many different options."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:54
+msgid ""
+"To move a slide down :menuselection:`Slide --> Move --> Slide Down`. To "
+"move a slide up :menuselection:`Slide --> Move --> Slide Up`. To move a "
+"slide to the start :menuselection:`Slide --> Move --> Slide to start`. To"
+" move a slide to the end :menuselection:`Slide --> Move --> Slide to "
+"end`."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:56
+msgid ""
+"To start a slideshow press :kbd:`f5` or the button the looks like a tv "
+"with a triangle on it or :menuselection:`slideshow --> start from the "
+"first slide.` To start a slideshow from the current slide press "
+":kbd:`Shift + f5` or :menuselection:`Slideshow --> Start from current "
+"slide`. To exit the slideshow press escape. To get to the next slide of "
+"the slideshow  left click or press the :kbd:`right arrow key`. to get to "
+"a previous slide in presentation mode press the :kbd:`left arrow key` or "
+"right click previous."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:58
+msgid ""
+"To view your slides right next to each other :menuselection:`View --> "
+"Slide Sorter`. To rearange your slides click and hold a slide and drag "
+"the slide between the slides you want to move to. To switch to an outline"
+" view of just text :menuselection:`View --> Outline`. To switch to an "
+"outline :menuselection:`View --> Outline`. To switch back to your normal "
+"view :menuselection:`View --> Normal`."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:61
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:65
+msgid "Version"
+msgstr ""
+
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:66
+msgid "Lubuntu ships with version 6.1.1.2 of libreoffice impress."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:69
 msgid "How To launch"
 msgstr ""
 
-#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:23
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:70
 msgid ""
-"To launch go to the menu -> Office -> Libreoffice impress or run "
-"loimpress."
+"To launch go to the menu :menuselection:`Office --> Libreoffice Impress` "
+"or run"
 msgstr ""
+
+#: ../../source/2/2.2/2.2.3/libreoffice_impress.rst:76
+msgid "from the command line."
+msgstr ""
+
+#~ msgid ""
+#~ "When you open libreoffice impress you"
+#~ " will get a dialog to select a"
+#~ " templete with a preview select which"
+#~ " one you want to use by left"
+#~ " clicking and then click open. To "
+#~ "add a title to a slide click "
+#~ "where it says click to add title."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To open a previous presentation you "
+#~ "have been working on press the "
+#~ "button that looks like a folder "
+#~ "with a piece of paper in it "
+#~ "and navigate to the file you want"
+#~ " and open it. To save your "
+#~ "presentation press the button that looks"
+#~ " like a floppy disk."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To launch go to the menu -> "
+#~ "Office -> Libreoffice impress or run "
+#~ "loimpress."
+#~ msgstr ""
 

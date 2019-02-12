@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -41,21 +41,51 @@ msgid ""
 "dialog are along the left hand column."
 msgstr ""
 
-#: ../../source/2/2.2/2.2.1/libreoffice.rst:11
-msgid "Version"
+#: ../../source/2/2.2/2.2.1/libreoffice.rst:10
+msgid ""
+"Libreoffice all of the different components have a window menu that lets "
+"you switch between a document in libreoffice writer and libreoffice calc."
+" To do this go to :menuselection:`Window` and sleect the window that you "
+"want to switch to."
 msgstr ""
 
 #: ../../source/2/2.2/2.2.1/libreoffice.rst:12
-msgid "Lubuntu ships with version 6.1.2.1 of libreoffice."
+msgid ""
+"Libreoffice if you shutdown without saving your work libreoffice will "
+"automatically recover the document. If you do not want to recover a "
+"document press the :guilabel:`discard` button. If you want to "
+"automatically recover the document press the :guilabel:`start` button."
 msgstr ""
 
 #: ../../source/2/2.2/2.2.1/libreoffice.rst:15
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/2/2.2/2.2.1/libreoffice.rst:19
+msgid "Version"
+msgstr ""
+
+#: ../../source/2/2.2/2.2.1/libreoffice.rst:20
+msgid "Lubuntu ships with version 6.1.2.1 of libreoffice."
+msgstr ""
+
+#: ../../source/2/2.2/2.2.1/libreoffice.rst:23
 msgid "How to launch"
 msgstr ""
 
-#: ../../source/2/2.2/2.2.1/libreoffice.rst:16
+#: ../../source/2/2.2/2.2.1/libreoffice.rst:24
 msgid ""
-"From the menu -> Office -> Libreoffice to launch libreoffice or run "
-"libreoffice from the command line."
+"From the menu :menuselection:`Office --> Libreoffice` to launch "
+"libreoffice or run"
 msgstr ""
+
+#: ../../source/2/2.2/2.2.1/libreoffice.rst:30
+msgid "from the command line."
+msgstr ""
+
+#~ msgid ""
+#~ "From the menu -> Office -> "
+#~ "Libreoffice to launch libreoffice or run"
+#~ " libreoffice from the command line."
+#~ msgstr ""
 

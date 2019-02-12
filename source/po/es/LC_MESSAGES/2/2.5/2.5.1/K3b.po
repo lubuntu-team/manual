@@ -9,17 +9,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: 2018-11-21 19:30+0000\n"
 "Last-Translator: Roberto Alzaga <lumintnian@outlook.com>\n"
-"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
-"manual-2-5-1/es/>\n"
 "Language: es\n"
+"Language-Team: Spanish "
+"<https://translate.lubuntu.me/projects/lubuntu/manual-2-5-1/es/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/2/2.5/2.5.1/K3b.rst:2
@@ -39,13 +38,23 @@ msgid "Lubuntu ships with version 18.04.3 of K3b."
 msgstr "Lubuntu se entrega con la versión 18.04.3 de K3b."
 
 #: ../../source/2/2.5/2.5.1/K3b.rst:11
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/2/2.5/2.5.1/K3b.rst:15
 msgid "How to Launch"
 msgstr "Como lanzar"
 
-#: ../../source/2/2.5/2.5.1/K3b.rst:12
+#: ../../source/2/2.5/2.5.1/K3b.rst:16
+#, fuzzy
 msgid ""
-"To launch K3b from the menu -> sound and video -> K3b or run K3b from the"
-" command line."
+"To launch K3b from the menu :menuselection:`sound and video --> K3b` or "
+"run"
 msgstr ""
-"Para iniciar K3b desde el menú -> sonido y video -> K3b o ejecutar K3b desde "
-"la línea de comandos."
+"Para iniciar K3b desde el menú -> sonido y video -> K3b o ejecutar K3b "
+"desde la línea de comandos."
+
+#: ../../source/2/2.5/2.5.1/K3b.rst:22
+msgid "from the command line."
+msgstr ""
+

@@ -9,17 +9,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: 2018-11-21 19:30+0000\n"
 "Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
-"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
-"manual-e/es/>\n"
 "Language: es\n"
+"Language-Team: Spanish "
+"<https://translate.lubuntu.me/projects/lubuntu/manual-e/es/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.2.2\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/E/live_session.rst:2
@@ -27,39 +26,53 @@ msgid "Appendix E Live Session"
 msgstr "Apéndice E Sesión en vivo"
 
 #: ../../source/E/live_session.rst:4
+#, fuzzy
 msgid ""
 "It is possible to use Lubuntu without installing it. In a live session "
-"yoru computer is running off a bootable media (USB, CD, or DVD). The "
+"your computer is running off a bootable media (USB, CD, or DVD). The "
 "session can also be used to install Lubuntu."
 msgstr ""
-"Es posible usar Lubuntu sin tener que instalarlo. En una sesión en vivo su "
-"ordenador está corriendo desde un medio de arranque (USB, CD o DVD). Esta "
-"sesión también puede ser usada para instalar Lubuntu."
+"Es posible usar Lubuntu sin tener que instalarlo. En una sesión en vivo "
+"su ordenador está corriendo desde un medio de arranque (USB, CD o DVD). "
+"Esta sesión también puede ser usada para instalar Lubuntu."
 
-#: ../../source/E/live_session.rst:6
-msgid ""
-"Reasons for using live session: - Hardware testing and trouble shooting. "
-"- OS testing. - Fixing broken installs. - Backing up files"
+#: ../../source/E/live_session.rst:10
+msgid "Reasons for using live session:"
 msgstr ""
-"Razones para usar una sesión en vivo: - Verificación de hardware. - "
-"Verificación de SO. - Reparación de instalaciones rotas. - Respaldo de "
-"archivos"
+
+#: ../../source/E/live_session.rst:7
+msgid "Hardware testing and trouble shooting."
+msgstr ""
+
+#: ../../source/E/live_session.rst:8
+msgid "OS testing."
+msgstr ""
+
+#: ../../source/E/live_session.rst:9
+msgid "Fixing broken installs."
+msgstr ""
+
+#: ../../source/E/live_session.rst:10
+msgid "Backing up files"
+msgstr ""
 
 #: ../../source/E/live_session.rst:12
+#, fuzzy
 msgid ""
 "A good example of when you would use a live session is if your computer "
 "turns on and won't boot, you can run the live session. You could then "
 "mount the disk and backup all of your pictures or send an email. If your "
 "hard drive or SSD is no longer working, you can boot a live session and "
-"then order replacment parts. You also can feel free to try different "
+"then order replacement parts. You also can feel free to try different "
 "things out in a live session."
 msgstr ""
-"Un buen ejemplo en donde puede usar una sesión en vivo es si su ordenador se "
-"prende pero no arranca, puedes correr la sesión en vivo. Entonces podría "
-"entonces montar el disco y respaldar todas sus imágenes o enviarlas por "
-"correo electrónico. Si su disco duro o SSD no funciona, puede arrancar una "
-"sesión en vivo y luego ordenar componentes de reemplazo para su ordenador. "
-"También es libre de probar diferentes cosas en una sesión en vivo."
+"Un buen ejemplo en donde puede usar una sesión en vivo es si su ordenador"
+" se prende pero no arranca, puedes correr la sesión en vivo. Entonces "
+"podría entonces montar el disco y respaldar todas sus imágenes o "
+"enviarlas por correo electrónico. Si su disco duro o SSD no funciona, "
+"puede arrancar una sesión en vivo y luego ordenar componentes de "
+"reemplazo para su ordenador. También es libre de probar diferentes cosas "
+"en una sesión en vivo."
 
 #: ../../source/E/live_session.rst:15
 msgid ""
@@ -68,3 +81,16 @@ msgid ""
 msgstr ""
 "En una sesión en vivo lo que hagas y no guardes en un medio externo será "
 "perdido cuando apague su máquina."
+
+#~ msgid ""
+#~ "Reasons for using live session: - "
+#~ "Hardware testing and trouble shooting. -"
+#~ " OS testing. - Fixing broken "
+#~ "installs. - Backing up files"
+#~ msgstr ""
+#~ "Razones para usar una sesión en "
+#~ "vivo: - Verificación de hardware. - "
+#~ "Verificación de SO. - Reparación de "
+#~ "instalaciones rotas. - Respaldo de "
+#~ "archivos"
+

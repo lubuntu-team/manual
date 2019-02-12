@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,28 +20,122 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../source/2/2.1/2.1.2/qtransmission.rst:2
-msgid "Chapter 2.1.2 Qtransmission"
+msgid "Chapter 2.1.2 Transmission"
 msgstr ""
 
 #: ../../source/2/2.1/2.1.2/qtransmission.rst:4
-msgid "Qtransmission is a bittorrent client."
+msgid "Transmission is a bit-torrent client."
 msgstr ""
 
-#: ../../source/2/2.1/2.1.2/qtransmission.rst:8
-msgid "Version"
-msgstr ""
-
-#: ../../source/2/2.1/2.1.2/qtransmission.rst:9
-msgid "Lubuntu ships with version 2.94 of Qtransmission."
+#: ../../source/2/2.1/2.1.2/qtransmission.rst:7
+msgid "Screenshot"
 msgstr ""
 
 #: ../../source/2/2.1/2.1.2/qtransmission.rst:12
+msgid "Version"
+msgstr ""
+
+#: ../../source/2/2.1/2.1.2/qtransmission.rst:14
+msgid "Lubuntu ships with version 2.94 of Transmission."
+msgstr ""
+
+#: ../../source/2/2.1/2.1.2/qtransmission.rst:17
+msgid "Usage"
+msgstr ""
+
+#: ../../source/2/2.1/2.1.2/qtransmission.rst:18
+msgid ""
+"To open a torrent file press the open or simply double clicking the "
+"torrent file from a web browser after opening it will start Transmission."
+" The torrent file will start download and using your connection to upload"
+" to others in a so called peer to peer network. At the bottom you will "
+"see an arrow pointing downward to show how fast you are downloading. The "
+"up arrow shows how fast you are seeding or uploading the file to others."
+msgstr ""
+
+#: ../../source/2/2.1/2.1.2/qtransmission.rst:20
+msgid ""
+"While you download your file a progress bar with will show your download "
+"for each file once you have it entirely you have see how many people you "
+"are seeding to each person and how fast you are uploading to that person."
+msgstr ""
+
+#: ../../source/2/2.1/2.1.2/qtransmission.rst:22
+msgid ""
+"The button with two || circled is a pause button that can pause all "
+"downloads and uploads. To start downloading and uploading again to press "
+"a button with a triangle to start uploading and downloading again."
+msgstr ""
+
+#: ../../source/2/2.1/2.1.2/qtransmission.rst:24
+msgid ""
+"To remove a torrent from the list of torrent files right click on it or "
+":kbd:`Delete` and click remove. To delete the files and remove the "
+"torrent from the list right click Delete files and remove or press "
+":kbd:`Shift +Delete`."
+msgstr ""
+
+#: ../../source/2/2.1/2.1.2/qtransmission.rst:26
+msgid ""
+"If you want have a move compact view :menuselection:`View --> Compact "
+"View` or press :kbd:`Alt + C`."
+msgstr ""
+
+#: ../../source/2/2.1/2.1.2/qtransmission.rst:28
+msgid ""
+"To sort your torrents by activity :menuselection:`View --> Sort by "
+"Activity`. To sort your torrents by age :menuselection:`View --> Sort by "
+"Age`. To sort your torrents by name :menuselection:`View --> Sort by "
+"Name`. To sort your torrents by Progress :menuselection:`View --> Sort by"
+" Progress`.  To sort your torrents by Queue :menuselection:`View --> Sort"
+" by Queue`. To sort your torrents by ratio uploaded to downloaded "
+":menuselection:`View --> Sort by ratio`. To sort your torrents by size "
+":menuselection:`View --> Sort by Size`. To sort your torrents by State "
+":menuselection:`View --> Sort by State`. To sort your torrents by time to"
+" finish downloading :menuselection:`View --> Sort by time left`. To "
+"reverse the sort order :menuselection:`View --> Reverse sort order`."
+msgstr ""
+
+#: ../../source/2/2.1/2.1.2/qtransmission.rst:30
+msgid ""
+"If you want to deprioitize the speed of your torrents press the button on"
+" the bottom of transmission that looks like a turtle. To change the raio "
+"view on the bottom to your total changes :menuselection:`Globe button -->"
+" Total Transfer`. To view your upload/download ratio in the current "
+"session :menuselection:`Globe button --> Session Ratio`. To view your "
+"transfer from the current session only :menuselection:`Globe button --> "
+"Session Transfer`."
+msgstr ""
+
+#: ../../source/2/2.1/2.1.2/qtransmission.rst:33
 msgid "How to launch"
 msgstr ""
 
-#: ../../source/2/2.1/2.1.2/qtransmission.rst:13
+#: ../../source/2/2.1/2.1.2/qtransmission.rst:35
 msgid ""
-"To launch Qtransmission go to menu -> Internet -> Qtransmission bittorent"
-" client or run transmission-qt from the command line."
+"To launch Transmission go to menu :menuselection:`Internet --> "
+"Qtransmission` bittorent client or run"
 msgstr ""
+
+#: ../../source/2/2.1/2.1.2/qtransmission.rst:41
+msgid ""
+"from the terminal. The icon looks like a silver box outlined in red with "
+"a double pointed vertical arrow."
+msgstr ""
+
+#~ msgid "Chapter 2.1.2 Qtransmission"
+#~ msgstr ""
+
+#~ msgid "Qtransmission is a bittorrent client."
+#~ msgstr ""
+
+#~ msgid "Lubuntu ships with version 2.94 of Qtransmission."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To launch Qtransmission go to menu "
+#~ "-> Internet -> Qtransmission bittorent "
+#~ "client or run transmission-qt from "
+#~ "the command line."
+#~ msgstr ""
 

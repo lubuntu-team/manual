@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2018, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 18.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../source/A/tips_and_tricks.rst:2
+msgid "Appendix A Tips and Tricks"
+msgstr ""
+
+#: ../../source/A/tips_and_tricks.rst:4
+msgid ""
+"If you run a hypervisor on your system putting a different mouse cursor "
+"for both the host and the guest can let you tell them apart. If you want "
+"to install many more colors you can search the repositories for cursor or"
+" if you just want many different colors install the oxygen-cursor-theme-"
+"extra package. To have a a different style for applications to install "
+"you can install the qt-style-plugin-plastique package."
+msgstr ""
+
+#: ../../source/A/tips_and_tricks.rst:7
+msgid ""
+"If you select text on X11 you can do what is middle click paste the "
+"selected text with the middle mouse button by clicking down on the scroll"
+" wheel."
+msgstr ""
+
+#: ../../source/A/tips_and_tricks.rst:9
+msgid ""
+"To find out what version of softare you have you can view the `ubuntu "
+"packages website <https://packages.ubuntu.com/>`_ from whatever kind of "
+"computer you are on. On the command line you can run"
+msgstr ""
+
+#: ../../source/A/tips_and_tricks.rst:15
+msgid "even if it does not ship with lubuntu by default."
+msgstr ""
+

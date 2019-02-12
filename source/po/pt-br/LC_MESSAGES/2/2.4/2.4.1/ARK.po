@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2019-02-12 14:08-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -64,25 +64,82 @@ msgstr ""
 #: ../../source/2/2.4/2.4.1/ARK.rst:20
 msgid ""
 "To open a file in a archieve, open the archieve, then double click the "
-"file  or select it and click the Open button. If you want to extract or "
-"move a file from the archieve, use the extract button."
+":menuselection:`File --> Open` button. If you want to extract or move a "
+"file from the archieve, use the extract button. After you have extracted "
+"to places and you have the file open it will appear in in the menu for "
+"quick areas to extract to in :menuselection:`Archive --> Extract All --> "
+"Quick Extract to`. To preview a file press :kbd:`Control +P` or "
+":menuselection:`File --> Preview`. To open a file placed in an archieve "
+":menuselection:`File --> Open`. To rename a file in an archieve press "
+":kbd:`f2` or :menuselection:`File --> Rename`. To delete a file from an "
+"archieve press :kbd:`Delete` or :menuselection:`File --> Delete` and you "
+"will have a confirmation so you do not accidently lose data as this can't"
+" be undone."
 msgstr ""
 
-#: ../../source/2/2.4/2.4.1/ARK.rst:23
-msgid "Version"
+#: ../../source/2/2.4/2.4.1/ARK.rst:22
+msgid ""
+"To create an archieve press :kbd:`Control +N` or :menuselection:`archieve"
+" --> new` button to bring up the create new archive dialog. Enter in the "
+"folder you want to create this archieve in the folder or press the folder"
+" button on the right to select where to create this archieve. Type the "
+"filename of the archieve you want to name the file. To select which type "
+"of archieve you get a drop down menu to select tar or zip archieve with "
+"various different kinds of compression. Some types of archives will allow"
+" to expand tunable settings of compression to change the compression with"
+" higher compression but will take more cpu to decompress."
 msgstr ""
 
 #: ../../source/2/2.4/2.4.1/ARK.rst:24
+msgid ""
+"To add a file to your archive :menuselection:`Archive --> Add Files` "
+"which brings up a file picker to choose how to add files. Once you add a "
+"file press the :guilabel:`Add` button to add a file. If you want to "
+"select multiple files to add at once you can hold down :kbd:`Control` and"
+" then left click on the files."
+msgstr ""
+
+#: ../../source/2/2.4/2.4.1/ARK.rst:26
+msgid ""
+"To view how to open recent archives :menuselection:`Archive --> Open "
+"Recent`. To clear the list of recent files :menuselection:`Archive --> "
+"Open Recent --> Clear List`."
+msgstr ""
+
+#: ../../source/2/2.4/2.4.1/ARK.rst:29
+msgid "Version"
+msgstr ""
+
+#: ../../source/2/2.4/2.4.1/ARK.rst:30
 msgid "Lubuntu ships version 4:18.04.3 of ARK."
 msgstr ""
 
-#: ../../source/2/2.4/2.4.1/ARK.rst:27
+#: ../../source/2/2.4/2.4.1/ARK.rst:33
 msgid "How to launch"
 msgstr ""
 
-#: ../../source/2/2.4/2.4.1/ARK.rst:28
-msgid ""
-"To launch ARK go to the menu -> Accessories -> ARK or run ark on the "
-"command line."
+#: ../../source/2/2.4/2.4.1/ARK.rst:34
+msgid "To launch ARK go to the menu :menuselection:`Accessories --> ARK` or run"
 msgstr ""
+
+#: ../../source/2/2.4/2.4.1/ARK.rst:40
+msgid ""
+"on the command line. The icon for ARK looks like a green box with a "
+"zipper."
+msgstr ""
+
+#~ msgid ""
+#~ "To open a file in a archieve, "
+#~ "open the archieve, then double click "
+#~ "the file  or select it and click"
+#~ " the Open button. If you want "
+#~ "to extract or move a file from "
+#~ "the archieve, use the extract button."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To launch ARK go to the menu "
+#~ "-> Accessories -> ARK or run ark"
+#~ " on the command line."
+#~ msgstr ""
 

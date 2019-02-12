@@ -51,6 +51,8 @@ and still have quassel running in the system tray to bring it back up check the 
 
 The :guilabel:`Chat view` tab has settings for colors timestamps and hyperlinks. To chose a custom chat window font press the :guilabel:`Custom chat window font` checkbox and then press the :guilabel:`choose` button to choose a new font. To toggle if you want colored text press/unpress the :guilabel:`Allow colored text` checkbox. To toggle previews of hyperlinks in chat check/uncheck the :guilabel:`Show previews of webpages on URL hover`. To toggle setting marker line when switching chats check/uncheck the :guilabel:`Set marker line automatically when switching chats`. To toggle the set marker line automatically when Quassel losses focus check/uncheck :guilabel:`Set marker line automatically when Quassel loses focus` checkbox. 
 
+To change the Colors of your user interface on Quassel check the :guilabel:`Custom Colors` checkbox. Then there are many buttons for each different kind of message which you can press the buton that all bring up the specific color for that kind of message. 
+
 .. image:: quasselpref.png
 
 The :guilabel:`Chat & Nick Lists` has settings for the lists of nickname lists. The :guilabel:`Custom font` checkbox lets you chose a custom font on the lists of nicks and the :guilabel:`Choose` button lets you choose the font you want. The :guilabel:`Display topic in tooltip` shows the channel topic in a tooltip if you move the mouse over it. If you want to be able to switch channels from the mouse wheel check the :guilabel:`Mouse wheel changes selected chat` checkbox. 

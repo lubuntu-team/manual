@@ -9,7 +9,7 @@ Usage
 
 To search for a program, press :kbd:`Alt + F2` and start typing a command. The search results will show below, similar to address bar behavior in browsers. All installed applications can be launched this way and lxqt-runner can configured to store a history of recent programs. If you want to clear history open the downard pointing menu :menuselection:`Clear History`. The runner even lets you logout, shutdown, or other ways to leave your session through the runner. Also keep in mind you do not have to search for the start of an application like inputting :kbd:`shot` will show results for screenshot. 
 
-Runner can also work as a calculator if you put for example :kbd:`2+2=` and you will get the answer.
+Runner can also work as a calculator if you put for example :kbd:`2+2=` and you will get the answer. To add numbers together with the calculator enter the :kbd:`+` in the bar. To subtract numbers together with the calculator enter the :kbd:`-` in the bar. To mulitply numbers enter :kbd:`*` into the bar. To divide numbers in runner enter :kbd:`/` into the bar. To exponentiate enter :kbd:`^` into the bar.
 
 
 Configuration

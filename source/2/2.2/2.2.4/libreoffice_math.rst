@@ -11,7 +11,7 @@ Screenshot
 
 Useage
 ------
-To save your formula you have written in libreoffice math press :kbd:`Control +S` or :menuselection:`File --> Save`. To open a file press :kbd:`Control +O` or :menuselection:`File --> Open`.  To print your fomrula press :kbd:`Control +P` or :menuselection:`File --> Print`. To view your printer settings :menuselection:`File --> Printer settings`. To save a file as a different name press :kbd:`Control+Shift+S` or :menuselection:`File --> Save As`.
+To save your formula you have written in libreoffice math press :kbd:`Control +S` or :menuselection:`File --> Save`. To open a file press :kbd:`Control +O` or :menuselection:`File --> Open`.  To print your fomrula press :kbd:`Control +P` or :menuselection:`File --> Print`. To view your printer settings :menuselection:`File --> Printer settings`. To save a file as a different name press :kbd:`Control+Shift+S` or :menuselection:`File --> Save As`. To view your recent files :menuselection:`File --> Recent Documents`. 
 
 To paste text into libreoffice math press :kbd:`Control +V` or :menuselection:`Edit --> Paste`. To copy text from libreoffice math press :kbd:`Control+C` or :menuselection:`Edit --> Copy`. To cut text from libreoffice math press :kbd:`Control +X` or :menuselection:`Edit --> Cut`.
 

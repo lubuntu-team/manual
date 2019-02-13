@@ -1,0 +1,1 @@
+../../ksh/LC_MESSAGES/2/2.1/2.1.3/Quasel_IRC.po

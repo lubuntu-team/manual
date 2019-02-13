@@ -1,0 +1,1 @@
+../../fy/LC_MESSAGES/2/2.1/2.1.3/Quassel_IRC.po

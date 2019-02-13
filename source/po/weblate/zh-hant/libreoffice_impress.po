@@ -1,0 +1,1 @@
+../../zh-hant/LC_MESSAGES/2/2.2/2.2.3/libreoffice_impress.po

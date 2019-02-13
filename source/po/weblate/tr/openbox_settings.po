@@ -1,0 +1,1 @@
+../../tr/LC_MESSAGES/3/3.2/3.2.11/openbox_settings.po

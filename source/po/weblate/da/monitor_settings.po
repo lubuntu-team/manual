@@ -1,0 +1,1 @@
+../../da/LC_MESSAGES/3/3.2/3.2.10/monitor_settings.po

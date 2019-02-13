@@ -1,0 +1,1 @@
+../../uk/LC_MESSAGES/5/5.3/lxqt-runner.po

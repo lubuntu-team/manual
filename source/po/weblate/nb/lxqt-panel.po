@@ -1,0 +1,1 @@
+../../nb/LC_MESSAGES/5/5.1/lxqt-panel.po

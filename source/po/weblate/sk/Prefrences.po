@@ -1,0 +1,1 @@
+../../sk/LC_MESSAGES/3/3.2/Prefrences.po

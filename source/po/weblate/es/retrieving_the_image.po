@@ -1,0 +1,1 @@
+../../es/LC_MESSAGES/1/1.1/retrieving_the_image.po

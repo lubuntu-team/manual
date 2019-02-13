@@ -1,0 +1,1 @@
+../../zh-hant/LC_MESSAGES/1/1.2/booting_the_image.po

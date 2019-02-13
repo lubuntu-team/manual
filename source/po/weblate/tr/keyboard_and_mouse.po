@@ -1,0 +1,1 @@
+../../tr/LC_MESSAGES/3/3.2/3.2.8/keyboard_and_mouse.po

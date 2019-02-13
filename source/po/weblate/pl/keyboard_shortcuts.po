@@ -1,0 +1,1 @@
+../../pl/LC_MESSAGES/F/keyboard_shortcuts.po

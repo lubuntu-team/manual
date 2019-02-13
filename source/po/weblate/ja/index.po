@@ -1,0 +1,1 @@
+../../ja/LC_MESSAGES/index.po

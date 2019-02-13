@@ -1,0 +1,1 @@
+../../ksh/LC_MESSAGES/3/3.2/3.2.12/power_management.po

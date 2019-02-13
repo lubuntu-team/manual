@@ -1,0 +1,1 @@
+../../fi/LC_MESSAGES/3/3.2/3.2.1/LXQt_configuration_center.po

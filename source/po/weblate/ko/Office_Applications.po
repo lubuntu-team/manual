@@ -1,0 +1,1 @@
+../../ko/LC_MESSAGES/2/2.2/Office_Applications.po

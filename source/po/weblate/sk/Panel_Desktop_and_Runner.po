@@ -1,0 +1,1 @@
+../../sk/LC_MESSAGES/5/Panel_Desktop_and_Runner.po

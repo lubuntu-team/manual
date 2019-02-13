@@ -1,0 +1,1 @@
+../../hu/LC_MESSAGES/3/3.2/3.2.4/date_and_time.po

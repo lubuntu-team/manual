@@ -1,0 +1,1 @@
+../../sk/LC_MESSAGES/index.po

@@ -17,7 +17,9 @@ To paste text into libreoffice math press :kbd:`Control +V` or :menuselection:`E
 
 To undo changes in libreoffice math press :kbd:`Control +Z` or :menuselection:`Edit --> Undo`. To redo a change you have undone press :kbd:`Control +Y` or :menuselection:`Edit --> Redo`.
 
-The left hand side has many symbols you can use for say set relations and other operators. To insert even more symbols :menuselection:`Tools --> Symbols`. 
+The left hand side has many symbols you can use for say set relations and other operators. To insert even more symbols :menuselection:`Tools --> Symbols`.
+
+To change the fonts of your formulas :menuselection:`Format --> Fonts` which brings up a window for fonts for different contexts. To change your font size :menuselection:`Format --> Font sizes`.
 
 How to launch
 -------------

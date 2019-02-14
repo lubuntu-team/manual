@@ -69,6 +69,7 @@ The tab :guilabel:`Thumbnail` tab has settings for thumbnails on files in pcmanf
 
 The tab :guilabel:`Volume` manages flash drives other partions on external disks and other external meida. The :guilabel:`Auto Mount` section is settings for atuomatically mounting removable media. The :guilabel:`Mount mountable volumens automatically on program startup` mounts removable media when you start pcmanfm-qt. To automount removeable media when you insert them into your computer check the :guilabel:`Mount removeable media automatically when they are inserted`. To show a menu for removeable media when inserted check/uncheck the :guilabel:`Show available options for removable media when they are inserted`. To choose when you unmount a a removable volum you can choose to :guilabel:`Close tab containing removeable medium` or :guilabel:`Change folder in the tab to home folder`.    
 
+The :guilabel:`Advanced` tab shows integration with other programs and advanced settings. To change your default terminal emulator from pcmanfm-qt prefrences drop down change the :guilabel:`Terminal emulator` drop down menu. To change your Archiver integration change the :guilabel:`Archiver integration` drop down.
 
 Version
 -------

@@ -46,7 +46,7 @@ The numerical system mode lets you change your numerical base instead of say the
 
 Customizing
 -----------
-To open configruation for kcalc press :kbd:`Control+Shift+ +` or :menuselection:`Settings --> Configure Kcalc`. To change the maximum number of digits change the :guilabel:`Maximum number of digits` field. If you want to show the result in the window title check the :guilabel:`Show result in window title` checkbox.
+To open configruation for kcalc press :kbd:`Control+Shift+ +` or :menuselection:`Settings --> Configure Kcalc`. To change the maximum number of digits change the :guilabel:`Maximum number of digits` field. To have kcalc set decimal precision to only a certain number of places after the decimal place check the :guilabel:`Set decimal precision` checkbox and select the number of digits after the decimal place. If you ant to show the result in the window title check the :guilabel:`Show result in window title` checkbox.
 
 The :guilabel:`Font` tab has settings to change settings with your fonts. To choose the font for your buttons on your calculator :guilabel:`Button font` and press the :guilabel:`Choose` button to the font for the buttons on your calculator. To change the font for the diplay of the calculator. :guilabel:`Display font` will change how the and the :guilabel:`Choose` button 
 

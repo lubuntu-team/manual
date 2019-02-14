@@ -1,7 +1,7 @@
 Chapter 2.3 Graphics Applications
 ===================================
 
-This chapters documents programs with viewing pictures taking screenshots and scanning pictures or documents. 
+This chapters documents programs with viewing pictures, taking screenshots, and scanning pictures or documents. 
 
 .. toctree::
   :maxdepth: 2

@@ -47,6 +47,8 @@ To center your text is press the button with the horizontal lines centered or :m
 
 If you want to change your line spacing of your document :menuselection:`Format --> Spacing --> Line spacing: 2` for double spacing or :menuselection:`Format --> Spacing --> Line spacing 1.5` for one and a half line spacing. To change back to single line spacing of your document :menuselection:`Format --> Spacing --> Line Spacing: 1`. 
 
+To add a list of bullet points press :kbd:`Shift +F12` or :menuselection:`Format --> Lists --> Bulleted Lists`. To start a numbered lists press :kbd:`F12` or :menuselection:`Format --> Lists --> Numbered List`.
+
 To insert an image into your go to :menuselection:`Insert --> Image` to insert an image directly to your word processing document. To move your image around left click on it and drag the image around. To resize the image while keeping the same aspect ratio click on one of the blue boxes around the corner to resize the image.   
 
 To have a header shown at the top of each page :menuselection:`Insert --> Header and footer --> Header --> Default style`. To have a footer at the bottom of each page :menuselection:`Insert--> Header and footer --> Footer --> Deafault style`. To get back to writing the main part of the document left click on the body of the document.  

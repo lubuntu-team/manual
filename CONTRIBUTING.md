@@ -15,6 +15,7 @@ Before starting, you need a few tools.
   -  `arcansit`
   - `python3-sphinx`
   - `texlive`
+  - `texlive-formats-extra`
  - The following packages from PyPI:
   - `sphinx_bootstrap_theme`
 

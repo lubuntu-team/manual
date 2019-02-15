@@ -5,7 +5,7 @@ LXQt Panel is the bar situated at the bottom of your screen by default. The pane
 Usage
 ------
 
-The application menu allows you to browse and search through available programs; a keyboard shortcut is conveniently available for this and is set to :kbd:`Alt +F1` by default. The menu has many subcategories to launch each application. The leave menu has how to Hibernate, Leave, Logout, Reboot, Shutdown, or Suspend. If you mouseover a program you can see a description of that program in the menu. The desktop switcher allows you to switch to another virtual desktop, allowing you to keep your workspace organized. The quick launch bar allows you to conveniently launch your file explorer (PCManFM) and web browser (Firefox). To add a program to quick launch open the menu and find it there and drag it down onto the panel. 
+The application menu allows you to browse and search through available programs; a keyboard shortcut is conveniently available for this and is set to :kbd:`Alt +F1` by default. The menu has many subcategories to launch each application. The leave menu has how to Hibernate, Leave, Logout, Reboot, Shutdown, or Suspend. If you mouseover a program you can see a description of that program in the menu. The desktop switcher allows you to switch to another virtual desktop, allowing you to keep your workspace organized. The quick launch bar allows you to conveniently launch your file manager (PCManFM) and web browser (Firefox). To add a program to quick launch open the menu and find it there and drag it down onto the panel. 
 
 
 .. image:: menu_search.png
@@ -15,7 +15,7 @@ The taskbar lists the windows you currently have open. To bring one of these win
 .. image:: multiple_tasks.png
 
 
-On a single window to move it to a different desktop right click to desktop to move the desired desktop. The item to current desktop moves the window to your current virtual desktop. Right clicking move lets you drag the application around to the desired point on the desktop. The resize option from the same window lets you resize the window you right clicked on. Right click and then select maximize on a window to maximize it. Right clicking on window Restore will have a window back to its orginal size. If you right click minimize on the window will minimize your window. Right clicking roll up on a window will make the window only your titlebar. Right clicking to layer will allow you to have move a window always on top, normal, and always on bottom. Finally to close a window with right click on the taskbar and select close will close the window.    
+On a single window to move it to a different desktop right click to desktop to move the desired desktop. The item to current desktop moves the window to your current virtual desktop. Right clicking move lets you drag the application around to the desired point on the desktop. The resize option from the same window lets you resize the window you right clicked on. Right click and then select maximize on a window to maximize it. Right clicking on window Restore will have a window back to its orginal size. If you right click minimize on the window will minimize your window. Right clicking roll up on a window will make the window only your titlebar. Right clicking to layer will allow you to have move a window always on top, normal, and always on bottom. Finally to close a window with right click on the taskbar and select close will close the window. If you middle click on an item in the taksbar you will close the window.   
 
 .. image:: menu-right-click.png
 

@@ -132,6 +132,8 @@ Chapter 3.1 System Tools
 
 3.1.8 LxQt-sudo
 
+3.1.9 SDDM Configuration
+
 Chapter 3.2 Preferences
 -----------------------
 

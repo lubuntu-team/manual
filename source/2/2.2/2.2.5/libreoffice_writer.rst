@@ -25,7 +25,7 @@ To change the font size There is a drop down box with a number in it you can typ
 
 To copy text select it with the mouse or :kbd:`Shift + arrow key` then press :kbd:`Control +C` or :menuselection:`Edit --> Copy`. To cut text select it first and then press :kbd:`Control +X` or :menuselection:`Edit --> Cut`. To paste text press :kbd:`Control +V` or :menuselection:`Edit --> Paste`. To paste with no formatting press :kbd:`Control + Alt + Shift+ V` or :menuselection:`Edit --> Paste Unformatted Text`.
 
-To change font color press the button that has a T with a drop on it and a red underline this will bring down several differenent colors you can change your text to a color you want. 
+To change font color press the button that has a T with a drop on it and a red underline this will bring down several differenent colors you can change your text to a color you want. You can also change your font color threought the :guilabel:`Font --> Character` window.
 
 To make text superscript press the button with A and a smaller B located above it as if it in superscript. To make text subscript press the button that is an A with a smaller B located slightly below it. 
 

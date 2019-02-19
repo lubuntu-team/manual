@@ -1,5 +1,6 @@
+********************************************
 Appendix D Upgrading from previous releases
-===========================================
+********************************************
 
 We are proud to present the highly anticipated release of Lubuntu 18.10! This release comes with many changes, which will probably be overshadowed by the move to the LXQt desktop environment. Naturally, an extremely large change like this can cause problems, so **we strongly recommend you back up your files**. Also, if your computer is one that runs on a battery (such as a laptop), please ensure that the power is connected, as it may take a while and unexpected power failures could be disasterous.
 

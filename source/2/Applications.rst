@@ -1,5 +1,6 @@
+***********************
 Chapter 2 Applications
-======================
+***********************
 
 This chapter will document the applictions in Lubuntu 18.10. 
 

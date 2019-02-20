@@ -42,4 +42,10 @@ where [dir] is the directory you want to switch to. Another thing that is useful
 
 There is also the command line for manageing and installing packages which is beyond the scope of this appendix but please see `apt package management <https://help.ubuntu.com/lts/serverguide/apt.html.en>`_  for how to insert and remove packages from the command line. 
 
- 
+If you need to edit a text file from the command line the easiest editor included is nano so to edit a file from the command line if you broke something run 
+
+.. code::
+
+   nano [file]
+
+where you replace [file] with the file you want to edit.

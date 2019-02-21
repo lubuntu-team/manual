@@ -33,7 +33,7 @@ To bring up a dialog to customize the character or your text :menuselection:`For
 
 .. image:: loformatcharacter.png
 
-To format the paragraphs and spacing of text :menuselection:`Format --> Paragraph`. The :guilabel:`Indents & Spacing` Tab has settings for inteting your text and the space between lines. To increase the indent right before the text starts increase the :guilabel:`Before text` field. 
+To format the paragraphs and spacing of text :menuselection:`Format --> Paragraph`. The :guilabel:`Indents & Spacing` Tab has settings for inteting your text and the space between lines. To increase the indent right before the text starts increase the :guilabel:`Before text` field. To change the indentation after your text change the :guilabel:`After text` field. To have a different indent for your first line change the :guilabel:`First Line` filed. 
 
 To toggle bulleted lists on your points :menuselection:`Format --> Lists --> Bulleted List`. To toggle a numbered list for your points :menuselection:`Format --> Lists --> Numbered Lists`.
 

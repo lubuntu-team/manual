@@ -160,7 +160,7 @@ Execute                       XF86MyComputer
 
 ============================= ========================
 
-**Keybindings for Multimedia Keys and LCD Backlight (alternative when not using gnome-power-manager or xfce4-volumed)**
+**Keybinding for backlight**
 
 ============================= ========================
 

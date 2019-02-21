@@ -3,9 +3,9 @@
 
 ============================= ========================
 
-GoToDesktop                   C-A-Left
+GoToLeftDesktop               C-A-Left
 
-GoToDesktop                   C-A-Right
+GoToRightDesktop              C-A-Right
 
 GoToDesktop                   C-A-Up
 

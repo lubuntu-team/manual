@@ -165,10 +165,10 @@ Execute                       XF86MyComputer
 
 ============================= ========================
 
-Execute                       C-F7
+Toggle turn off monitor       C-F7
 
-Execute                       C-F10
+Decrease backlight brightness C-F10
 
-Execute                       C-F11
+Increase backlight brightness C-F11
 
 ============================= ========================

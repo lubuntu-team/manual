@@ -73,7 +73,7 @@ DirectionalCycleWindows       W-S-Down
 
 ============================= ========================
 
-UnmaximizeFull                W-Left
+Snap left half screen         W-Left
 
 ============================= ========================
 
@@ -81,7 +81,7 @@ UnmaximizeFull                W-Left
 
 ============================= ========================
 
-UnmaximizeFull                W-Right
+Snap Right half screen        W-Right
 
 ============================= ========================
 
@@ -89,7 +89,7 @@ UnmaximizeFull                W-Right
 
 ============================= ========================
 
-UnmaximizeFull                W-Up
+Snap Top half of screen       W-Up
 
 ============================= ========================
 
@@ -97,7 +97,7 @@ UnmaximizeFull                W-Up
 
 ============================= ========================
 
-UnmaximizeFull                W-Down
+Snap Bottom half of screen    W-Down
 
 ============================= ========================
 

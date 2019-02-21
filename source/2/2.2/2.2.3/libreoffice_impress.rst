@@ -33,6 +33,8 @@ To bring up a dialog to customize the character or your text :menuselection:`For
 
 .. image:: loformatcharacter.png
 
+To format the paragraphs and spacing of text :menuselection:`Format --> Paragraph`. The :guilabel:`Indents & Spacing` Tab has settings for inteting your text and the space between lines. To increase the indent right before the text starts increase the :guilabel:`Before text` field. 
+
 To toggle bulleted lists on your points :menuselection:`Format --> Lists --> Bulleted List`. To toggle a numbered list for your points :menuselection:`Format --> Lists --> Numbered Lists`.
 
 To change your line spacing on your presentation :menuselection:`Format --> Spacing --> Line spacing` and select the spacing you want. To increase your spacing between paragraphs :menuselection:`Format --> Spacing --> Increase Paragraph Spacing`. To decrease your spacing between paragraphs :menuselection:`Format --> Spacing --> Decrease Paragraph Spacing`. 

@@ -6,6 +6,14 @@ Sddm is the display manager that shows up when you first log in to Lubuntu or lo
 
 Useage
 ------
+If you have autologin enabled and want to disable autologin open the file /etc/sddm.conf as root. To do this run 
+
+.. code::
+
+   lxqt-sudo featherpad
+
+and open /etc/sddm.conf. 
+
 To test your sddm configuration and make sure it is a valid one so you can log in run 
 
 .. code:: 

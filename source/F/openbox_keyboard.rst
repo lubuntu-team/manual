@@ -11,9 +11,9 @@ GoToDesktop                   C-A-Up
 
 GoToDesktop                   C-A-Down
 
-SendToDesktop                 S-A-Left
+SendToDesktoaToLeft           S-A-Left
 
-SendToDesktop                 S-A-Right
+SendToDesktopToRight          S-A-Right
 
 SendToDesktop                 S-A-Up
 

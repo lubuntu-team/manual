@@ -9,4 +9,5 @@ Useage
 To test your sddm configuration and make sure it is a valid one so you can log in run 
 
 .. code:: 
+   
    sddm-greeter --test-mode

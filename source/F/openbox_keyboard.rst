@@ -148,7 +148,7 @@ Open terminal                 C-A-T
 
 Execute                       XF86WWW
 
-Execute                       XF86Terminal
+Open terminal                 XF86Terminal
 
 ============================= ========================
 
@@ -156,7 +156,7 @@ Execute                       XF86Terminal
 
 ============================= ========================
 
-Execute                       XF86MyComputer
+Open pcmanfm-qt               XF86MyComputer
 
 ============================= ========================
 

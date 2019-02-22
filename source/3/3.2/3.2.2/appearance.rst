@@ -16,7 +16,7 @@ To change the useage Qt widget will change the buttons and tooblbars look on lub
  .. image:: appearance.png
 
 
-The :guilabel:`icons theme tab` changes desktop icons on your computer and if you click on the icon theme which is previewed on horizontal rows. The icon theme is will change how all the icon look and how some button looks in other windows as well for like reset button as well. The :guilabel:`Colorize Icons based on widget style` will slightly change the background icons with the color of the background. 
+The :guilabel:`icons theme tab` changes desktop icons on your computer and if you click on the icon theme which is previewed on horizontal rows. The icon theme changes how all the icon look and how some button looks in other windows such as the reset button as well. The :guilabel:`Colorize Icons based on widget style` will slightly change the background icons with the color of the background. 
 
  .. image:: appearance-icon-theme.png
 

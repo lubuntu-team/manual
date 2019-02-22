@@ -53,7 +53,7 @@ To add a list of bullet points press :kbd:`Shift +F12` or :menuselection:`Format
 
 To insert an image into your go to :menuselection:`Insert --> Image` to insert an image directly to your word processing document. To move your image around left click on it and drag the image around. To resize the image while keeping the same aspect ratio click on one of the blue boxes around the corner to resize the image.   
 
-To Insert a page number :menuselection:`Insert --> Page number`. To insert the current time into the document :menuselection:`Insert --> field --> Time`. To insert the current date into the document :menuselection:`Insert --> field --> Date`. 
+To Insert a page number :menuselection:`Insert --> Page number`. To insert the current time into the document :menuselection:`Insert --> field --> Time`. To insert the current date into the document :menuselection:`Insert --> field --> Date`.  To insert the number of pages in the document :menuselection:`Insert --> field --> Page count`.
 
 To have a header shown at the top of each page :menuselection:`Insert --> Header and footer --> Header --> Default style`. To have a footer at the bottom of each page :menuselection:`Insert--> Header and footer --> Footer --> Deafault style`. To get back to writing the main part of the document left click on the body of the document.  
 

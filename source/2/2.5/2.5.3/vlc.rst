@@ -33,9 +33,15 @@ To view more advanced controls :menuselection:`View --> Advanced Controls`. To v
 
 To change the aspect ratio of a video :menuselection:`Video --> Aspect Ratio` and select the one you wish. To crop a video to only part of your screen :menuselection:`Video --> Crop` and select the aspect ratio you want to crop the video to. To take a screenshot of the currently playing media :menuselection:`Video --> Take Snapshot`. 
 
+
+
 Screenshot
 ----------
 .. image:: vlc.png
+
+Customizing
+-----------
+To view your prefrences of Vlc press :kbd:`control +P` or :menuselection:`Tools --> Prefrences`. To choose to use a custom skin for vlc press the :guilabel:`Use custom skin` radio button. To toggle showing the controls for pasuing playback and other things check/uncheck the :guilabel:`Show controls in full screen mode` checkbox. To start vlc in a minimal view mode check/uncheck the :guilabel:`Start in minimal view mode` checkbox. To have vlc pause playback when the vlc window is minimized check/uncheck the :guilabel:`Pause playback when minimized` checkbox. To toggle showing an icon in the system tray check/uncheck the :guilabel:`Show systray icon` checkbox.
 
 Version
 -------

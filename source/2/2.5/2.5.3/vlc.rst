@@ -49,6 +49,8 @@ To manage your audio settings use the :guilabel:`Audio tab`. To disable audio en
 
 To disable video and thus save some processing power uncheck the :guilabel:`Enable Video` checkbox. To have window decorations on a seperate video window check the :guilabel:`Window decorations` checkbox. To automatically have fullscreen video check the :guilabel:`Fullscreen` checkbox. The menu :guilabel:`Fullscreen Video Device` menu lets you select which monitor to play the full screen video. To change the backend for vlc to play videos change the :guilabel:`Output` menu. To turn deinterlacing on or off change :guilabel:`Deinterlacing` menu. The mode :guilabel:`Mode` changes the mode to deinterlace the frames of video. The guilabel:`Directory` is what directory to save snapshots of videos in and to choose one in a pop up window press the :guilabel:`Browse` button. The :guilabel:`Prefix` field lets you have a preshot to the snapshot file name. You can choose the format of the snapshot in the :guilabel:`Format` menu.
 
+To change settings with codecs choose the :guilabel:`Input/codecs` tab. To change your settings for hardware-accelerated decoding use the :guilabel:`Hardware-accelerated decoding` which you can choose a specific kind of decoding. To change your default optical device the drop down menu next to :guilabel:`Default optical device` to change your default optical device.
+
 Version
 -------
 Lubuntu ships with version 3.0.4 of VLC.

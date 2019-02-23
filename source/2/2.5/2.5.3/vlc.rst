@@ -47,6 +47,8 @@ To cancel your changes in this window and close it press the :guilabel:`Cancel` 
 
 To manage your audio settings use the :guilabel:`Audio tab`. To disable audio entirely uncheck the :guilabel:`Enable audio` checkbox. To change the output of audio type change the :guilabel:`Output module` menu. To add a visualization of Audio change the :guilabel:`Visualization:` menu. To change replay gain mode change the :guilabel:`Replay gain mode` menu. To allow playing audio at different speeds without changing the pitch is to check the :guilabel:`Enable Time-stretching audio` checkbox.
 
+To disable video and thus save some processing power uncheck the :guilabel:`Enable Video` checkbox. To have window decorations on a seperate video window check the :guilabel:`Window decorations` checkbox. To automatically have fullscreen video check the :guilabel:`Fullscreen` checkbox.
+
 Version
 -------
 Lubuntu ships with version 3.0.4 of VLC.

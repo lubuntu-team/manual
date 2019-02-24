@@ -51,7 +51,9 @@ To disable video and thus save some processing power uncheck the :guilabel:`Enab
 
 To change settings with codecs choose the :guilabel:`Input/codecs` tab. To change your settings for hardware-accelerated decoding use the :guilabel:`Hardware-accelerated decoding` which you can choose a specific kind of decoding. To change your default optical device the drop down menu next to :guilabel:`Default optical device` to change your default optical device.
 
-To view your hotkey settings use the  :guilabel:`Hotkeys` tab. The column :guilabel:`Action` describes what your keyboard shortcut will do. The Column :guilabel:`Hotkey` is the keyboard shortcut to do what is said in the :guilabel:`Action` column. To change your keyboard shortcut doulbe click on the shortcut in the :guilabel:`Hotkey` column and press the keyboard combination you want to set it to. To change what scrolling verically does for use the :guilabel:`Mouse wheel vertical axis control` menu. To choose what to do with horitzonal scrolling use the :guilabel:`Mouse wheel horizontal axis control`.  
+To view your settings for subtitles anhd on screen display choose the :guilabel:`Subtitles/OSD` tab. To disable the On secreen display uncheck the :guilabel:`Enable On Screen Display` checkbok. The checkbox :guilabel:`Show media title on video start` shows the video title at the start of a video. The :guilabel:`Position` menu lets you choose where to show the media title.
+
+To view your hotkey settings use the  :guilabel:`Hotkeys` tab. The column :guilabel:`Action` describes what your keyboard shortcut will do. The Column :guilabel:`Hotkey` is the keyboard shortcut to do what is said in the :guilabel:`Action` column. To change your keyboard shortcut doulbe click on the shortcut in the :guilabel:`Hotkey` column and press the keyboard combination you want to set it to. To change what scrolling verically does for use the :guilabel:`Mouse wheel vertical axis control` menu. To choose what to do with horitzonal scrolling use the :guilabel:`Mouse wheel horizontal axis control`.   
 
 Version
 -------

@@ -50,7 +50,7 @@ To enter Statistic mode :menuselection:`Settings --> Statistic Mode`. To enter m
 
 Customizing
 -----------
-To open configruation for kcalc press :kbd:`Control+Shift+ +` or :menuselection:`Settings --> Configure Kcalc`. To change the maximum number of digits change the :guilabel:`Maximum number of digits` field. To have kcalc set decimal precision to only a certain number of places after the decimal place check the :guilabel:`Set decimal precision` checkbox and select the number of digits after the decimal place. If you ant to show the result in the window title check the :guilabel:`Show result in window title` checkbox.
+To open configruation for kcalc press :kbd:`Control+Shift+ +` or :menuselection:`Settings --> Configure Kcalc`. To change the maximum number of digits change the :guilabel:`Maximum number of digits` field. To have kcalc set decimal precision to only a certain number of places after the decimal place check the :guilabel:`Set decimal precision` checkbox and select the number of digits after the decimal place. If you ant to show the result in the window title check the :guilabel:`Show result in window title` checkbox. To have Kcalc group digits together check the :guilabel:`Group digits` checkbox. 
 
 To cancel and not apply your changes press the :guilabel:`Cancel` button along the bottom. To apply your changes and not exit from this window press the :guilabel:`Apply` button. To restore the settings to your defaults press the :guilabel:`Restore Defaults`. To apply your changes if any and close this window press the :guilabel:`OK` button. 
 

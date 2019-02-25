@@ -23,11 +23,15 @@ To create an archieve press :kbd:`Control +N` or :menuselection:`archieve --> ne
 
 To add a file to your archive :menuselection:`Archive --> Add Files` which brings up a file picker to choose how to add files. Once you add a file press the :guilabel:`Add` button to add a file. If you want to select multiple files to add at once you can hold down :kbd:`Control` and then left click on the files. 
 
-To view how to open recent archives :menuselection:`Archive --> Open Recent`. To clear the list of recent files :menuselection:`Archive --> Open Recent --> Clear List`. To find files in an archieve press :kbd:`Control+F` or :menuselection:`Archieve --> Find`. To view the properities of your archieve press :kbd:`Alt+ return` or :menuselection:`Archive --> Properties`.  
+To view how to open recent archives :menuselection:`Archive --> Open Recent`. To clear the list of recent files :menuselection:`Archive --> Open Recent --> Clear List`. To find files in an archieve press :kbd:`Control+F` or :menuselection:`Archieve --> Find`. To view the properities of your archieve press :kbd:`Alt+ return` or :menuselection:`Archive --> Properties`. To test your archieve press :kbd:`Alt +T` or :menuselection:`File --> Test Integrity`.   
 
 Version
 -------
 Lubuntu ships version 4:18.04.3 of ARK. 
+
+Customizing
+-----------
+To acess your prefrences :menuselection:`Settings --> Prefrences`. To show files in the associated program press the :guilabel:`Open file with associted application` radio button. To preivew with internal previewer press the :guilabel:`Preview file with internal previewer` radio button. 
 
 How to launch
 -------------

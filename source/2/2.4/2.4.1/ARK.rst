@@ -31,7 +31,9 @@ Lubuntu ships version 4:18.04.3 of ARK.
 
 Customizing
 -----------
-To acess your prefrences :menuselection:`Settings --> Prefrences`. To show files in the associated program press the :guilabel:`Open file with associted application` radio button. To preivew with internal previewer press the :guilabel:`Preview file with internal previewer` radio button. 
+To acess your prefrences :menuselection:`Settings --> Prefrences`. To show files in the associated program press the :guilabel:`Open file with associted application` radio button. To preivew with internal previewer press the :guilabel:`Preview file with internal previewer` radio button. To have a warning when creating a zip file with AES encryption check the :guilabel:`Show a warning when creating zip files with AES encrpytion` checkbox. 
+
+The :guilabel:`Extraction Settings` tab has optoiins for extracting files. To open the destinatation folder after extraction check the :guilabel:`Open destination folder after extraction` checkbox. To close ARK after extraction check the :guilabel:`Close ARK after extraction` checkbox.
 
 How to launch
 -------------

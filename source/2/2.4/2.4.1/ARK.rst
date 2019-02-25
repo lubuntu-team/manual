@@ -23,7 +23,7 @@ To create an archieve press :kbd:`Control +N` or :menuselection:`archieve --> ne
 
 To add a file to your archive :menuselection:`Archive --> Add Files` which brings up a file picker to choose how to add files. Once you add a file press the :guilabel:`Add` button to add a file. If you want to select multiple files to add at once you can hold down :kbd:`Control` and then left click on the files. 
 
-To view how to open recent archives :menuselection:`Archive --> Open Recent`. To clear the list of recent files :menuselection:`Archive --> Open Recent --> Clear List`. To find files in an archieve press :kbd:`Control+F` or :menuselection:`Archieve --> Find`.  
+To view how to open recent archives :menuselection:`Archive --> Open Recent`. To clear the list of recent files :menuselection:`Archive --> Open Recent --> Clear List`. To find files in an archieve press :kbd:`Control+F` or :menuselection:`Archieve --> Find`. To view the properities of your archieve press :kbd:`Alt+ return` or :menuselection:`Archive --> Properties`.  
 
 Version
 -------

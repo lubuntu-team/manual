@@ -33,6 +33,8 @@ Customizing
 -----------
 To acess your prefrences :menuselection:`Settings --> Prefrences`. To show files in the associated program press the :guilabel:`Open file with associted application` radio button. To preivew with internal previewer press the :guilabel:`Preview file with internal previewer` radio button. To have a warning when creating a zip file with AES encryption check the :guilabel:`Show a warning when creating zip files with AES encrpytion` checkbox. 
 
+To cancel your changes to your settings press the :guilabel:`Cancel` button. To apply your changes and close the window press the :guilabel:`OK` button. To currently apply your settings press the :guilabel:`Apply` button.
+
 The :guilabel:`Extraction Settings` tab has options for extracting files. To open the destinatation folder after extraction check the :guilabel:`Open destination folder after extraction` checkbox. To close ARK after extraction check the :guilabel:`Close ARK after extraction` checkbox. To have ARK extract to a subfolder if the archive has more than one file or directoryy at the of the file check the :guilabel:`Extract to subfolder if the archive has more than one top-level entry`.
 
 The :guilabel:`Plugin Settings` tab has settings for each individual plugin. The :guilabel:`Name column` is the name of the plugin and the :guilabel:`Description` column is a descrption of the plugin. To toggle enabling disabling a plugin check or uncheck the chekbox next to the plugin name on the :guilabel:`Name` checkbox.  

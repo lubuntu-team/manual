@@ -39,6 +39,8 @@ The :guilabel:`Extraction Settings` tab has options for extracting files. To ope
 
 The :guilabel:`Plugin Settings` tab has settings for each individual plugin. The :guilabel:`Name column` is the name of the plugin and the :guilabel:`Description` column is a descrption of the plugin. To toggle enabling disabling a plugin check or uncheck the chekbox next to the plugin name on the :guilabel:`Name` checkbox.  
 
+To toggle preview for files larger than a certain size check/uncheck the :guilabel:`Disable preview for files larger than` checkbox. To change the size of the amount to be previewed change the field to the right of :guilabel:`Disable preview for files larger than` field.
+
 How to launch
 -------------
 To launch ARK go to the menu :menuselection:`Accessories --> ARK` or run 

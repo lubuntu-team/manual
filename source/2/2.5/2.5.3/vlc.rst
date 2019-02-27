@@ -19,6 +19,8 @@ To open an equalizier press the button that looks like several physical slider s
 
 To view a playlist of music or videos you can view press the button that is several horizontal lines and then a trianglular play button on it or press :kbd:`Control + l`. This will bring up a whole view of your playlist. To return to your original view press :kbd:`Control + l`. To add more files to your playlist right click on the bottom of the playlist window and click add file to add an additonal file. To play a particular file from a playlist double click on the file. To change the view of the playlist right click playlist view mode to the version of the playlist you like the look of the best.   
 
+To change the view mode of the playlist :menuselection:`View --> Playlist View Mode`. 
+
 .. image:: vlcplaylist.png 
 
 To loop the current playlist over and over press the button with an arrow pointing to the right and then another arrow below it pointing to the left. To randomize your playlist press the button with two crossing arrows on it.

@@ -36,7 +36,7 @@ Next select your keyboard layout, you can check your keyboard matches the keyboa
 Setting up partitions
 ---------------------
 
-If all you want is Lubuntu on your machine, you can select the erase disk. This will format the disk and **delete all data on the disk**,  which is why having your data backed up before this point is extremely important. IF you choose to do this you can continue on to user setup. 
+If all you want is Lubuntu on your machine, you can select the erase disk. This will format the disk and **delete all data on the disk**,  which is why having your data backed up before this point is extremely important. If you choose to do this you can continue on to user setup. 
 
 .. warning::
    Erasing your entire disk or partition may cause you to lose data so please backup beforehand.

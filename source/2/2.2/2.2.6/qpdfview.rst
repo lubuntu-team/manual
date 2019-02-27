@@ -43,7 +43,7 @@ To sleect page width in zoom in qpdfview is a drop down menu with page width to 
  
 If you have a particularly long pdf file you might want to make a bookmark to find a specific thing easily. To create a bookmark press :kbd:`control +b` or  :menuselection:`Bookmarks -->  Add Bookmark` and give the bookmark a memorable title and description so you can find it in this document again easily. If you later want to remove the bookmark go :menuselection:`bookmarks --> remove bookmark` or press :kbd:`control+ shift+ B`. 
 
-To jump to the start of a pdf file press the :kbd:`home` key or :menuselection:`Edit --> First Page`. To jump to the last page of a pdf file press the :kbd:`end` key or :menuselection:`Edit --> Last Page`. To move to the next paget with a keyboard press :kbd:`Spacebar` or press :kbd:`Backspace` to move back a page. 
+To jump to the start of a pdf file press the :kbd:`home` key or :menuselection:`Edit --> First Page`. To jump to the last page of a pdf file press the :kbd:`end` key or :menuselection:`Edit --> Last Page`. To move to the next page with a keyboard press :kbd:`Spacebar` or press :kbd:`Backspace` to move back a page. 
 
 Screenshot
 ----------

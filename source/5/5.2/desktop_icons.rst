@@ -11,5 +11,5 @@ Adding and removing items from the desktop
 
 .. image:: desktop_entry.png
 
-To remove a desktop icon right click on the file and click :menuselection:`move to trash`.  
+To remove a desktop icon right click on the file and click :menuselection:`Move to Trash`.  
 

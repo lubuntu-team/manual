@@ -17,6 +17,7 @@ The window can be moved by by clicking on the title-bar and dragging the mouse.
 You can resize the window by grabbing the border (sides or corners which should be highlighted in blue) and dragging. 
 
 Right clicking on the title bar or left clicking on the icon located at the top-left of the window  brings the window management menu. Here you can:
+
 -   Using Send to desktop, send the window to a virtual desktop of your choice
 -   Using Layer option allows you to set  whether this windows is always on top, etc. 
 -   If you want to move something to always show to bottom or you can move it back to normal. 

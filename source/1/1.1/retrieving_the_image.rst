@@ -80,7 +80,7 @@ After you have downloaded the link you need, open it in your BitTorrent client. 
 
 Downloading the image via zsync
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-zsync is a convenient application that will automatically verify the checksum of the image once downloaded. The Lubuntu team uses this to download daily images as it will seamlessly download the delta since the last image was spun.
+zsync is a convenient application that will automatically verify the checksum of the image once downloaded. The Lubuntu team uses this to download daily images as it will seamlessly download the delta or difference since the last image was spun.
 
 In order to use zsync, you need to install it. Since this is a Linux-only client, you can get it from your distribution's package repository.
 

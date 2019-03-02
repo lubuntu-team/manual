@@ -7,10 +7,10 @@ Now that you have the ISO file, you need to put the image on a media device and 
 
 Choosing the media
 ------------------
-In order to boot the image, you need to put it somewhere. You have three choices, depending on which image you
+In order to boot the image, you need to put it somewhere. You have two choices, depending on which image you
 downloaded:
 
-.
+
  - a DVD
  - a USB drive (2 GB or greater)
 

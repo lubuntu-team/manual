@@ -32,7 +32,7 @@ To save a file with a different encoding use the :menuselection:`Options --> Enc
 
 To make the text all lowercase press :kbd:`Control + Shift +L` or :menuselection:`Edit --> To Lowercase`. To make the text all uppercase press :kbd:`Control + Shift +U` or :menuselection:`Edit --> To Uppercase`. 
 
-To print a text :menuselection:`file --> Print` or press :kbd:`control + p`.  
+To print a text :menuselection:`File --> Print` or press :kbd:`control + p`.  
 
 .. image:: featherpad.png
   :width: 80% 

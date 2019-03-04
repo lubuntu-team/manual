@@ -15,7 +15,8 @@ To use lximage use the arrow to the right to view the next file in the folder an
 
 If you wish to print a picture after viewing it from the :menuselection:`file --> print` or press :kbd:`control+ p` to bring up a print dialog.
 
-To rotate an image to the right press the circular arrrow that points to the right or go to :menuselection:`edit --> rotate clockwise`. To rotate conterclockwise use the circular arrow pointing to the left or :menuselection:`edit -->rotate conterclockwise`. To zoom in on a picture press the icon with a magnifying glass with a + symobol on it or press :kbd:`control + +`. To zoom out press the button of a magnifying glass with a - symbol in it or press :kbd:`control + -`.    
+
+To rotate an image to the right press the circular arrrow that points to the right or go to :menuselection:`edit --> rotate clockwise`. To rotate conterclockwise use the circular arrow pointing to the left or :menuselection:`edit -->rotate conterclockwise`. To zoom in on a picture press the icon with a magnifying glass with a + symobol on it, :menuselection:`View --> Zoom In`, or press :kbd:`control + +`. To zoom out press the button of a magnifying glass with a - symbol in it, :menuselection:`View --> Zoom Out` or press :kbd:`control + -`.    
 
 To flip your image on the vertical axis :menuselection:`Edit --> Flip Vertically`. To flip your image on the horizontal axis :menuselection:`Edit --> Flip Horizonatally`. 
 

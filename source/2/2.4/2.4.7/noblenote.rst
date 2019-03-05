@@ -1,11 +1,11 @@
-Chapter 2.4.7 Noblenote
+Chapter 2.4.7 nobleNote
 =======================
 
-Noblenote is an application to make a note on your desktop.
+nobleNote is an application to make a note on your desktop.
 
 Version
 -------
-Lubuntu ships with version 1.0.8 of noblenote.
+Lubuntu ships with version 1.0.8 of nobleNote.
 
 Useage
 ------
@@ -19,11 +19,11 @@ To import notes from a file :menuselection:`File --> Import`.
 
 If you make a mistake tpying and want to undo your changes press :kbd:`Control + z` or :menuselection:`Edit --> Undo`. If you wish to paste text into noblenote press :kbd:`Control + v` or :menuselection:`Edit --> Paste`. To copy text from your note press :kbd:`Control+C` or right click and select :menuselection:`Copy`. To select all text in a note press :kbd:`Control +A`. 
 
-To change prefrences of noblenote press :kbd:`Control +P` or :menuselection:`Settings --> Configure`. To keep noblenote in your system tray after you close noblenote check/uncheck the :guilabel:`Close to tray` checkbox. If you want to change the font for editing notes change the :guilabel:`Note Editor default font` underneath has the font and font size. If you want to toggle showing notes in HTML format check/uncheck the :guilabel:`Convert notes to the HTML format`. If you want to toggle the menu entry to show source check/uncheck the :guilabel:`Show "Show source menu entry`.   
+To change prefrences of nobleNote press :kbd:`Control +P` or :menuselection:`Settings --> Configure`. To keep nobleNote in your system tray after you close nobleNote check/uncheck the :guilabel:`Close to tray` checkbox. If you want to change the font for editing notes change the :guilabel:`Note Editor default font` underneath has the font and font size. If you want to toggle showing notes in HTML format check/uncheck the :guilabel:`Convert notes to the HTML format`. If you want to toggle the menu entry to show source check/uncheck the :guilabel:`Show "Show source menu entry`.   
 
 To toggle showing the toolbar press :kbd:`Control +Shift +T` or :menuselection:`View --> Show toolbar`. 
 
-To bring back up your note noblenote will leave a notebook icon in the system tray on the lower right hand corner of the panel by default which can bring back up the noblenote window. 
+To bring back up your note nobleNote will leave a notebook icon in the system tray on the lower right hand corner of the panel by default which can bring back up the nobleNote window. 
 
 Screenshot
 ----------
@@ -33,7 +33,7 @@ Screenshot
 
 How to launch
 -------------
-To launch noblenote go to the menu :menuselection:`Acessories --> noblenote` or run 
+To launch noblenote go to the menu :menuselection:`Acessories --> nobleNote` or run 
 
 .. code:: 
    

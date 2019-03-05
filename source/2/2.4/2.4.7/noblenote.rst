@@ -9,7 +9,7 @@ Lubuntu ships with version 1.0.8 of nobleNote.
 
 Useage
 ------
-To start a new note right click on the right hand column new note or :menuselection:`Edit --> New Note`. Then enter a title for this note. To open a note double click on that note from the right hand column which will open a new window with your note in it. To input text in the note type in the main body of this window after clicking on it.   
+To start a new note right click on the right hand column new note or :menuselection:`Edit --> New note`. Then enter a title for this note. To open a note double click on that note from the right hand column which will open a new window with your note in it. To input text in the note type in the main body of this window after clicking on it.   
 
 If you wish to delete a notebook right click on a notebook and delete notebook, or with the notebook highlighted press :kbd:`Control + D`, or :menuselection:`Edit --> Delete notebook`. 
 

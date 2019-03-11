@@ -69,7 +69,7 @@ To bring up a window with properties of your document :menuselection:`File --> P
 
 How to Launch
 -------------
-To launch go to menu :menuselection:`office --> libreoffice writer` or run 
+To launch go to menu :menuselection:`Office --> Libreoffice Writer` or run 
 
 .. code:: 
 

@@ -10,7 +10,7 @@ Lubuntu ships with 0.13.0 of Desktop.
 
 Useage
 ------
-To change the desktop background you can either type the path of the file you can type in Wallpaper image file or use the :guilabel:`Browse` to bring up a dialog to choose which the desktop. The drop down of :guilabel:`Wallpaper mode` lets you change how the image you select for a wallpaper changes. If you want an image to have multiple copies of a smaller image select tile image from the drop down. If you do not want an image and just a solid color select fill with background color only. 
+To change the desktop background you can either type the path of the file you can type in Wallpaper image file or use the :guilabel:`Browse` to bring up a dialog to choose which the desktop. The drop down of :guilabel:`Wallpaper mode` lets you change how the image you select for a wallpaper changes. If you want an image to have multiple copies of a smaller image select tile image from the drop down. If you do not want an image and just a solid color select fill with background color only. To change the background color if you select that press the button to the right of :guilabel:`Select background color`. 
 
 The drop down menu for :guilabel:`icon size` lets you choose a different size of desktop icons you can choose a size that looks good on your screen.
 

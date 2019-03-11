@@ -55,6 +55,8 @@ To search for files press :kbd:`f3` or :menuselection:`Tool --> find files` for 
 
 To change what types of files you use choose the :guilabel:`File Type` tab. To choose to search for only certain file check/uncheck the files under the text :guilabel:`Only search for files of following types:` text. The options for which type of file include: Text files, Image files, Audio files, Video files, Documents, or Folders.
 
+The :guilabel:`Properties` tab has more settings based on information about the file also called metadata. To only show results on files larger than this file check the :guilabel:`Larger than` checkbox and then in the field to the right for size. To only show files smaller thanthis file check the :guilabel:`Smaller than` checkbox and to the field to the right select the size smaller than that. 
+
 Screenshot
 ----------
 .. image:: pcmanfm-qt.png 

@@ -1,4 +1,4 @@
-Chapter 3.2.1 LXQt configuration center
+Chapter 3.2.1 LXQt Configuration Center
 =======================================
 
 LXQt configuration center is an application with buttons that launches configuration options for lxqt the default desktop environment of Lubuntu. 
@@ -18,7 +18,7 @@ Lubuntu ships with version 0.13.0 of LXQt configuration center.
 How to Launch
 -------------
 
-To launch LXQt configuration center from the menu :menuselection:`Preferences --> LXQt settings -> LXQt configuration center` or run
+To launch LXQt configuration center from the menu :menuselection:`Preferences --> LXQt settings -> LXQt Configuration Center` or run
 
 .. code:: 
 

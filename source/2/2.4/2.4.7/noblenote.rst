@@ -23,7 +23,7 @@ To change prefrences of nobleNote press :kbd:`Control +P` or :menuselection:`Set
 
 To toggle showing the toolbar press :kbd:`Control +Shift +T` or :menuselection:`View --> Show toolbar`. 
 
-To bring back up your note nobleNote will leave a notebook icon in the system tray on the lower right hand corner of the panel by default which can bring back up the nobleNote window. 
+To bring back up your note nobleNote will leave a notebook icon in the system tray on the lower right hand corner of the panel. To bring the notes backup after closing them left click on the tray icon.
 
 Screenshot
 ----------

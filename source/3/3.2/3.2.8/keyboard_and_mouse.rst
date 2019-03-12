@@ -9,11 +9,11 @@ Lubuntu ships with version 0.13.0 of Keyboard and Mouse.
 
 Useage
 ------
-The :guilabel:`Mouse` tab provides settings for how fast the mouse moves scrolls and double clicks. To increase the sensitivity of the mouse drag the slider for :guilabel:`Sensitivity` towards the right or conversely to decrease sensitivity drag the slider towards less sensitivity. To increase acceleration of the mouse drag the :guilabel:`acceleration` slider to the right for acceleration and to make the mouse accelerate slower drag it to the left. The settings should apply immediately so make sure the mouse moves how you want it. If you do not like the new settings press the :guilabel:`reset` button to go back to your previous settings. 
+The :guilabel:`Mouse` tab provides settings for how fast the mouse moves scrolls and double clicks. To increase the sensitivity of the mouse drag the slider for :guilabel:`Sensitivity` towards the right or conversely to decrease sensitivity drag the slider towards less sensitivity. To increase acceleration of the mouse drag the :guilabel:`Acceleration` slider to the right for more acceleration and to make the mouse accelerate slower drag it to the left. The settings should apply immediately so make sure the mouse moves how you want it. If you do not like the new settings press the :guilabel:`Reset` button to go back to your previous settings. 
 
 .. image:: keyboardandmouse.png
 
-If you wish to only have to click once to activate buttons normally requiring two clicks check the :guilabel:`single click to activate items` checkbox. If you wish to swap left and right buttons on your mouse check the :guilabel:`left handed` checkbox. Note that this also swaps the button on a touchpad. 
+If you wish to only have to click once to activate buttons normally requiring two clicks check the :guilabel:`Single click to activate items` checkbox. If you wish to swap left and right buttons on your mouse check the :guilabel:`Left handed` checkbox. Note that this also swaps the button on a touchpad. 
 
 The :guilabel:`cursor` tab on the left lets you change your cursor theme which is quite useful if you are say running virtual machines so the cursor does not look the same in the host and the guest. To change a theme scroll down to which theme you want under preview but you will have to logout and log back in again for this to fully take effect. 
 

@@ -7,7 +7,7 @@ Useage
 ------
 The :guilabel:`Basic Settings` tab lets you change where Desktop notifications appear on your screen click the button that appears on the portion of your screen where you want them with the outline being your window. 
 
-On the :guilabel:`Advanced Settings` lets you change duration of desktop notifications there is up and down to add or reduce the number of seconds to show notifications for the default is 10 seconds. The sizes :guilabel:`Width` field lets you choose how wide to make notifications. The :guilabel:`Spacing` field changes how far to place the notification from each other.  
+On the :guilabel:`Advanced Settings` tab lets you change duration of desktop notificationsi and their spacing.  The :guilabel:`Default duration` is how long to show a notifiaction for with a default of 10 seconds. The sizes :guilabel:`Width` field lets you choose how wide to make notifications. The :guilabel:`Spacing` field changes how far to place the notification from each other.  
 
 Screenshot
 ----------

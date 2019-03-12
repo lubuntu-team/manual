@@ -15,11 +15,11 @@ The :guilabel:`Mouse` tab provides settings for how fast the mouse moves scrolls
 
 If you wish to only have to click once to activate buttons normally requiring two clicks check the :guilabel:`Single click to activate items` checkbox. If you wish to swap left and right buttons on your mouse check the :guilabel:`Left handed` checkbox. Note that this also swaps the button on a touchpad. 
 
-The :guilabel:`cursor` tab on the left lets you change your cursor theme which is quite useful if you are say running virtual machines so the cursor does not look the same in the host and the guest. To change a theme scroll down to which theme you want under preview but you will have to logout and log back in again for this to fully take effect. 
+The :guilabel:`Cursor` tab on the left lets you change your cursor theme which is quite useful if you are say running virtual machines so the cursor does not look the same in the host and the guest. To change a theme scroll down to which theme you want under preview but you will have to logout and log back in again for this to fully take effect. 
 
 .. image:: input-cursor.png
 
-The :guilabel:`Keyboard` tab has settings for changing keyboard settings. If you want to change how quickly it takes to repeat a keyboard shortcut move the slider to the right on the :guilabel:`repeat delay` to take longer to repeat key presses or to the left to decrease the time it takes to repeat. The :guilabel:`repeat interval` is how quickly after the repeat delay the held down key will repeat itself which moving to the right will make it take longer to increase while to the left will make it take a short time to repeat itself. The :guilabel:`turn on numlock after login` checkbox will make it like numlock is set on login on your computer.    
+The :guilabel:`Keyboard` tab has settings for changing keyboard settings. If you want to change how quickly it takes to repeat a keyboard shortcut move the slider to the right on the :guilabel:`Repeat delay` to take longer to repeat key presses or to the left to decrease the time it takes to repeat. The :guilabel:`Repeat interval` is how quickly after the repeat delay the held down key will repeat itself which moving to the right will make it take longer to increase while to the left will make it take a short time to repeat itself. The :guilabel:`Turn on numlock after login` checkbox will make it like numlock is set on login on your computer.    
  
 .. image:: keyboard-settings-tab.png
 

@@ -22,7 +22,7 @@ The :guilabel:`Fade` tab manages fading windows opening or closing or opacity ch
 
 .. image:: compton_conf_fade.png
 
-To have your settings applied you will need to press the :guilabel:`apply` button. If you want to cancel your changes press the :guilabel:`cancel` button.
+To have your settings applied you will need to press the :guilabel:`Apply` button. If you want to cancel your changes press the :guilabel:`Cancel` button.
 
 How to Launch
 -------------

@@ -45,7 +45,7 @@ To make a margin on your desktop on which nothing is placed you can set pixel ma
 How to launch
 -------------
 
-To launch openbox settings from the menu :menuselection:`Preferences --> LXQt settings --> openbox settings`. From LXQt settings press the openbox settings button with the wrench and screwdriver on a computer window or run
+To launch openbox settings from the menu :menuselection:`Preferences --> LXQt settings --> Openbox Settings`. From LXQt settings press the Openbox Settings button with the wrench and screwdriver on a computer window or run
 
 
 .. code:: 

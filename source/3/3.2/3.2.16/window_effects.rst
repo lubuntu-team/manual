@@ -18,7 +18,7 @@ The :guilabel:`Opacity` tab is for transparency settings. Setting Opacity to 1.0
 
 .. image:: compton_conf_opacity.png
 
-The :guilabel:`Fade` tab manages fading windows opening or closing or opacity changes. There is a checkbox for :guilabel:`fade windows during opactity changes` so if the opacity changes it will smoothly fade. To have a slower  time between fade in miliseconds increase the :guilabel:`The time between steps in a fade in miliseconds`. With this settings windows will fade in and out when opened and closed unless you don't them to which you can check the :guilabel:`Avoid fade in out when windows opening/closing`.  
+The :guilabel:`Fade` tab manages fading windows opening or closing or opacity changes. There is a checkbox for :guilabel:`Fade windows during opactity changes` so if the opacity changes it will smoothly fade. To have a slower  time between fade in miliseconds increase :guilabel:`The time between steps in a fade in miliseconds`. With this settings windows will fade in and out when opened and closed unless you don't them to which you can check the :guilabel:`Avoid fade in out when windows opening/closing`.  
 
 .. image:: compton_conf_fade.png
 

@@ -33,15 +33,17 @@ To change many panel settings right click not on the main taskbar and click the 
 
 The :guilabel:`Panel` tab has settings for the color and position of the panel. To move the panel their is a drop down menu of position that can move it to the side of the screen you want. The :guilabel:`Alignment` drop down menu lets you set the alignment of the panel on your screen if you choose to move it or make it only a portion of the screen. The :guilabel:`Size` menu lets you increase or decrease the width of the panel. :guilabel:`Length` has two fields the one is either px or percent is for to change the length of the panel in pixels while  percent is a percent of the entire screen size that changes if you change resolution. The first is the number of pixels or percent of the screen you want the panel to cover. The :guilabel:`Icon size` makes the size of the icons bigger or smaller on the panel. 
 
-If you want to autohide the panel check the :guilabel:`Auto-hide` checkbox in panel settings. To show how long your panel will appear when it comes back after hiding in miliseconds.  
+If you want to autohide the panel check the :guilabel:`Auto-hide` checkbox in panel settings. To show how long your panel will appear when it comes back after hiding in miliseconds. 
+
+To change to a custom font color press the :guilabel:`color button` checkbox. Press the dropper button to bring up a widget to choose the custom color. The checkbox for :guilabel:`background color` sets a background color custom for the background of lxqt-panel and the :guilabel:`dropper` brings up how to select which color. To add an image to your panel background press the checkbox and select your image for the file in the dialog.
+
 
 .. image:: lxqt-panel-config.png 
 
-The :guilabel:`Widgets` lets you change the widgets or individual items on the panel and their configuration. To change to a custom font color press the :guilabel:`color button` checkbox. Press the dropper button to bring up a widget to choose the custom color. The checkbox for :guilabel:`background color` sets a background color custom for the background of lxqt-panel and the :guilabel:`dropper` brings up how to select which color. To add an image to your panel background press the checkbox and select your image for the file in the dialog.  
 
 The checkbox for :guilabel:`override icon theme` lets you choose a non system default icon theme for lxqt-panel. The dropdown then lets you see what that icon theme from the dropdown list. If you do not like your changes to the system you can press the reset button to reset changing to before trying to customize the panel. 
 
-To add a new widget click on the widget on the panel configuration screen and press the :guilabel:`+`  button and select the widget you want to add some of which are not on the panel by default. To move an applet down on the order of presentation press the down arrow while the up arrow moves the applet up on the order of presentation. To remove an applet you do not want you can press the :guilabel:`-` button. The gear button has the settings for certain but not all of the applets in the panel for example the application menu and task manager are customizeable but quick launch and show desktop do not.  
+The :guilabel:`Widgets` lets you change the widgets or individual items on the panel and their configuration. To add a new widget click on the widget on the panel configuration screen and press the :guilabel:`+`  button and select the widget you want to add some of which are not on the panel by default. To move an applet down on the order of presentation press the down arrow while the up arrow moves the applet up on the order of presentation. To remove an applet you do not want you can press the :guilabel:`-` button. The gear button has the settings for certain but not all of the applets in the panel for example the application menu and task manager are customizeable but quick launch and show desktop do not.  
 
 Shipped applets not enabled by default:
  - Cpu Monitor

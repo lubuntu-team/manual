@@ -10,12 +10,12 @@ The application menu allows you to browse and search through available programs;
 
 .. image:: menu_search.png
 
-The taskbar lists the windows you currently have open. To bring one of these windows to focus simply left click the windows on the task bar. If you have multiple of the same window left clicking will open the group, allowing you to select between the different windows. If you want to close a group of multiple windows you can right click the group and click close all. 
+The taskbar lists the windows you currently have open. To bring one of these windows to focus simply left click the windows on the task bar. If you have multiple of the same window left clicking will open the group, allowing you to select between the different windows. If you want to close a group of multiple windows you can right click the group and click :menuselection:`close all`. 
 
 .. image:: multiple_tasks.png
 
 
-On a single window to move it to a different desktop right click to desktop to move the desired desktop. The item to current desktop moves the window to your current virtual desktop. Right clicking move lets you drag the application around to the desired point on the desktop. The resize option from the same window lets you resize the window you right clicked on. Right click and then select maximize on a window to maximize it. Right clicking on window Restore will have a window back to its orginal size. If you right click minimize on the window will minimize your window. Right clicking roll up on a window will make the window only your titlebar. Right clicking to layer will allow you to have move a window always on top, normal, and always on bottom. Finally to close a window with right click on the taskbar and select close will close the window. If you middle click on an item in the taksbar you will close the window.   
+On a single window to move it to a different desktop right click to desktop to move the desired desktop. The item to current desktop moves the window to your current virtual desktop. Right clicking and selecting :guilabel:`Move` lets you drag the application around to the desired point on the desktop. The resize option from the same window lets you resize the window you right clicked on. Right click and then select maximize on a window to maximize it. Right clicking on window :menuselection:`Restore` will have a window back to its orginal size. If you right click :menuselection:`Minimize` on the window will minimize your window. Right clicking roll up on a window will make the window only your titlebar. Right clicking to layer will allow you to have move a window always on top, normal, and always on bottom. Finally to close a window with right click on the taskbar and select close will close the window. If you middle click on an item in the taksbar you will close the window.   
 
 .. image:: menu-right-click.png
 

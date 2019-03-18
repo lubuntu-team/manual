@@ -13,7 +13,7 @@ To see your memory useage in qps look at the bar that says :guilabel:`MEM`. The 
 
 To sort your processes by memory click on the mem tab. To have your processes sorted by CPU percentage press the button :guilabel:`CPU%` To have your processes sorted by CPU%.  To sort by the command line of each process you can press the command line. To sort by how much memory is used by each process click on the :guilabel:`Mem` tab. 
 
-To change your process view to each process gets its own line or linear select the :guilabel:`Linear` radio button in the upper left hand corner. To oranize each related process with a tree for parent and child processes press the :guilabel:`Tree` radio button.
+To change your process view to each process gets its own line or linear select the :guilabel:`Linear` radio button in the upper left hand corner. To oranize each related process with a tree for parent and child processes press the :guilabel:`Tree` radio button. To search for a particualr process enter a search term in the bar towards the cneter top of the user interface.
 
 To change the update period is to :menuselection:`Option --> Update Period`. To change more prefrences :menuselection:`Option --> Prefrences` and a prefrences window will pop up. To change the font is the drop down menu under :guilabel:`Appearance` and the drop down number is for the font size. To change how cpu useage is divided per your total number of CPU cores or a Single cpu press a radio button under :guilabel:`%CPU divided by`. 
 

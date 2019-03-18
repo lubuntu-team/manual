@@ -42,33 +42,40 @@
 | :construction_worker: | 3.1.4       |
 | :construction_worker: | 3.1.5       |
 | :construction_worker: | 3.1.6       |
-| :red_circle:          | 3.2         |
-| :red_circle:          | 3.2.1       |
-| :red_circle:          | 3.2.2       |
-| :red_circle:          | 3.2.3       |
-| :red_circle:          | 3.2.4       |
-| :red_circle:          | 3.2.5       |
-| :red_circle:          | 3.2.6       |
-| :red_circle:          | 3.2.7       |
-| :red_circle:          | 3.2.8       |
-| :red_circle:          | 3.2.9       |
-| :red_circle:          | 3.2.10      |
-| :red_circle:          | 3.2.11      |
-| :red_circle:          | 3.2.12      |
-| :red_circle:          | 3.2.13      |
-| :red_circle:          | 3.2.14      |
-| :red_circle:          | 3.2.15      |
-| :red_circle:          | 3.2.16      |
-| :red_circle:          | 3.2.17      |
+| :construction_worker: | 3.1.7       |
+| :white_checkmark:     | 3.1.8       |
+| :construction_worker: | 3.1.9       |
+| :white_checkmark:     | 3.2         |
+| :white_checkmark:     | 3.2.1       |
+| :white_checkmark:     | 3.2.2       |
+| :white_checkmark:     | 3.2.3       |
+| :white_checkmark:     | 3.2.4       |
+| :white_checkmark:     | 3.2.5       |
+| :white_checkmark:     | 3.2.6       |
+| :white_checkmark:     | 3.2.7       |
+| :white_checkmark:     | 3.2.8       |
+| :construction_worker: | 3.2.9       |
+| :white_checkmark:     | 3.2.10      |
+| :white_checkmark:     | 3.2.11      |
+| :white_checkmark:     | 3.2.12      |
+| :white_checkmark:     | 3.2.13      |
+| :white_checkmark:     | 3.2.14      |
+| :white_checkmark:     | 3.2.15      |
+| :white_checkmark:     | 3.2.16      |
+| :white_checkmark:     | 3.2.17      |
 | :red_circle:          | 3.2.18      |
-| :red_circle:          | 3.2.19      |
-| :red_circle:          | 3.2.20      |
-| :red_circle:          | 4.1         |
-| :red_circle:          | 4.2         |
-| :red_circle:          | 5.1         |
-| :red_circle:          | 5.2         |
-| :construction_worker: | 5.3         |
-| :red_circle:          | Appendix A  |
+| :white_checkmark:     | 3.2.19      |
+| :white_checkmark:     | 3.2.20      |
+| :white_checkmark:     | 4.1         |
+| :white_checkmark:     | 4.2         |
+| :construction_worker: | 4.3         |
+| :white_checkmark:     | 5.1         |
+| :white_checkmark:     | 5.2         |
+| :white_checkmark:     | 5.3         |
+| :white_checkmark:     | 5.4         |
+| :white_checkmark:     | 5.5         |
+| :construction_worker: | Appendix A  |
 | :red_circle:          | Appendix B  |
-| :red_circle:          | Appendix C  |
+| :white_checkmark:     | Appendix C  |
 | :construction_worker: | Appendix D  | 
+| :construction_worker: | Appendix E  |

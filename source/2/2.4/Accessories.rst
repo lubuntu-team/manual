@@ -12,5 +12,6 @@ This chapter documents accessories on your system and the one game 2048-qt.
   2.4.3/Kcalc
   2.4.4/pcmanfm-qt
   2.4.5/Qlipper
+  2.4.6/fcitx
   2.4.7/noblenote
   2.4.8/2048-qt

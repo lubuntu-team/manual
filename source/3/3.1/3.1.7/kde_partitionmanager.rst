@@ -14,7 +14,7 @@ Lubuntu ships with version 3.3.1 of partition manager.
 Useage
 ------
 
-To check the health of your hard drive or solid state drive on the :menuselection:`Device --> SMART status`. 
+To check the health of your hard drive or solid state drive on the :menuselection:`Device --> SMART Status` or by right clicking on the device in the side pane :menuselection:`Smart Status`. 
 
 You can see your disk useage for each partition graphically with the bars at the top with the shaded in part showing a bar graph as the percentage full of the partition. The Column :guilabel:`Size` shows the size of the entire system while the :guilabel:`Used` column shows the amount of space used on the drive. The :guilabel:`type` column lets you see which filesystem is on the parttion.  
 

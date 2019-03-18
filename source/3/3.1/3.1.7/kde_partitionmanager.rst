@@ -3,6 +3,10 @@ Chapter 3.1.7 KDE partition manager
 
 KDE partition manager creates partitions and deletes partitions on your hard drives and solid state drives.
 
+.. warning::
+
+ Deleting and creating new partitions can result in data loss so please back up your data before removing or creating partitions.
+
 Version
 -------
 Lubuntu ships with version 3.3.1 of partition manager.

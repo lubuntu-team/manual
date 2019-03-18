@@ -18,6 +18,8 @@ On the side pane to the left you can switch between each different drive on the 
 
 If you have say a new solid state drive that is not formatted you first need to put a partition table on it. A new partition data will get rid of all partitions on the disk which means no data will be visable anymore. Then you will need to create a partition on to store data. On unallocated space you can right click on the unalloacted space and new partition and select the filesystem you want. Then press the apply button to apply the changes to your partition. 
 
+If you have mulitple drives on your system :menuselection:`Device --> Select Current Device --> Desired Disk`. To view information on the current drive such as what type of partition table or Logical size and smart status :menuselection:`Device --> Properties`. If you do not really see all your devices or current status press :kbd:`F5` or :menuselection:`Tools --> Refresh Devices`.
+
 Screensaver
 -----------
 .. image:: kde_partitionmanager.png

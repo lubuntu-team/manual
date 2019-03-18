@@ -15,7 +15,7 @@ To sort your processes by memory click on the mem tab. To have your processes so
 
 To change the update period is to :menuselection:`Option --> Update Period`. To change your font :menuselection:`Option --> Prefrences` or put an appearance with the font and font size.
 
-To search for a particular process you can type your type into the search bar right above a particular process right above it. To terminate a process right click on it and select terminate or press :kbd:`delete`. To kill a process move the mouse over it right click and select kill or press :kbd:`Alt + K`.    
+To search for a particular process you can type your type into the search bar right above a particular process right above it. To terminate a process right click on it and select :menuslection:`Terminate` or press :kbd:`delete`. To kill a process move the mouse over it right click and select :menuselection:`Kill` or press :kbd:`Alt + K`.    
 
 Screenshot
 ----------

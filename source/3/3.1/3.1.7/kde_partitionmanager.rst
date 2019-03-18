@@ -18,7 +18,7 @@ On the side pane to the left you can switch between each different drive on the 
 
 To delete a parition left click on a partition to select it and right click and select :menuselection:`Delete`. To add a new partition in unallocated space right click on the   To view statiscal information on a paritition right click on that partition :menuselection:`Properites`.
 
-To change your paritoins you will need to apply your changes later press the :guilabel:`Apply` button or :menuselection:`Edit --> Apply`. To undo your your changes to your partitions press :kbd:`Control+Z`, the :guilabel:`Undo` button, or :menuselection:`Edit --> Undo`.
+To change your paritoins you will need to apply your changes later press the :guilabel:`Apply` button or :menuselection:`Edit --> Apply`. To undo your your changes to your partitions press :kbd:`Control+Z`, the :guilabel:`Undo` button, or :menuselection:`Edit --> Undo`. To clear your operations that have yet to been applied :menuselection:`Edit --> Clear`.
 
 If you have say a new solid state drive that is not formatted you first need to put a partition table on it. A new partition data will get rid of all partitions on the disk which means no data will be visable anymore. Then you will need to create a partition on to store data. On unallocated space you can right click on the unalloacted space and new partition and select the filesystem you want. Then press the apply button to apply the changes to your partition. 
 

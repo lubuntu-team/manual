@@ -20,7 +20,7 @@ You can see your disk useage for each partition graphically with the bars at the
 
 On the side pane to the left you can switch between each different drive on the left with the name of each device. 
 
-To delete a parition left click on a partition to select it press :kbd:`Delete`, :menuselection:`Partition --> Delete`,  or right click and select :menuselection:`Delete`. To add a new partition in unallocated space right click on the   To view statiscal information on a paritition select the partition :menuselection:`Partition --> Properties`  or right click on that partition :menuselection:`Properites`. To resize or move a partition press :kbd:`Control+R`, :menuselection:`Partition --> Resize/Move`, or right click on the partition and select :menuselection:
+To delete a parition left click on a partition to select it press :kbd:`Delete`, :menuselection:`Partition --> Delete`,  or right click and select :menuselection:`Delete`. To add a new partition in unallocated space right click on the   To view statiscal information on a paritition select the partition :menuselection:`Partition --> Properties`  or right click on that partition :menuselection:`Properites`. To resize or move a partition press :kbd:`Control+R`, :menuselection:`Partition --> Resize/Move`, or right click on the partition and select :menuselection:`Resize/Move`.
 
 To change your paritoins you will need to apply your changes later press the :guilabel:`Apply` button or :menuselection:`Edit --> Apply`. To undo your your changes to your partitions press :kbd:`Control+Z`, the :guilabel:`Undo` button, or :menuselection:`Edit --> Undo`. To clear your operations that have yet to been applied :menuselection:`Edit --> Clear`.
 

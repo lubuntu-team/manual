@@ -9,7 +9,7 @@ The documentation is powered by [Sphinx](http://www.sphinx-doc.org/en/stable/) a
 Run the following command to install the needed dependencies:
 
 ```
-sudo apt install python3-pip python3-sphinx texlive texlive-formats-extra arcanist && pip3 install sphinx_bootstrap_theme latexmk
+sudo apt install python3-pip python3-sphinx latexmk texlive texlive-formats-extra arcanist && pip3 install sphinx_bootstrap_theme 
 ```
 
 You can see the options for building the documentation by running `make help`. You can make the html version by running `make html`. You can make a pdf version of the lubuntu manual with `make latexpdf`. If you just want to check for warnings or errors building run `make dummy`.

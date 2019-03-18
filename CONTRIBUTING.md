@@ -16,6 +16,7 @@ Before starting, you need a few tools.
   - `python3-sphinx`
   - `texlive`
   - `texlive-formats-extra`
+  - `latexmk` 
  - The following packages from PyPI:
   - `sphinx_bootstrap_theme`
 

@@ -55,7 +55,7 @@ Contents
    20/foo_bar
 ```
 
-Then run `make clean && make html` and it should build successfully!
+Then run `make clean && make html && make latexpdf` in the root of the manual directory and it should build successfully!
 
 ## Making changes and seeking your changes to be pulled
 

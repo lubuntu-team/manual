@@ -42,3 +42,7 @@ To launch kde partition manager from the :menuselection:`System Tools --> KDE Pa
    
 from the command line. 
 
+
+Customizing
+-----------
+To toggle showing a statusbar that shows pending operations check/uncheck the :menuselection:`Settings --> Show Statusbar` checkbox in the menu. To toggle showing your devices side pane  check/uncheck the :menuselection:`Settings --> Panels Shown --> Devices`. 

@@ -45,4 +45,4 @@ from the command line.
 
 Customizing
 -----------
-To toggle showing a statusbar that shows pending operations check/uncheck the :menuselection:`Settings --> Show Statusbar` checkbox in the menu. To toggle showing your devices side pane  check/uncheck the :menuselection:`Settings --> Panels Shown --> Devices`. 
+To toggle showing a statusbar that shows pending operations check/uncheck the :menuselection:`Settings --> Show Statusbar` checkbox in the menu. To toggle showing your devices side pane  check/uncheck the :menuselection:`Settings --> Panels Shown --> Devices`. To toggle showing informatoin about the currently selected partition check/uncheck the :menuselection:`Settings --> Panels Shown --> Infromation` checkbox in the menu.  To toggle showing log output of check/uncheck the :menuselection:`Settings --> Panels Show --> Log Output` checkbox. 

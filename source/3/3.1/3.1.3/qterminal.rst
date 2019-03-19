@@ -45,13 +45,13 @@ Lubuntu ships with version 0.9.0 of qterminal.
 
 How to launch
 -------------
-To launch qterminal in a normal window go to the menu :menuselection:`System Tools --> qterminal` or run 
+To launch qterminal in a normal window go to the menu :menuselection:`System Tools --> QTerminal` or run 
 
 .. code:: 
 
    qterminal 
 
-from the command line. To launch a drop down version of Qterminal from the menu :menuselection:`System Tools --> qterminal drop down`  or run 
+from the command line. To launch a drop down version of Qterminal from the menu :menuselection:`System Tools --> QTerminal drop down`  or run 
 
 .. code:: 
 

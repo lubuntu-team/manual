@@ -34,7 +34,7 @@ Screensaver
 
 How to launch
 -------------
-To launch kde partition manager from the menu -> system tools -> KDE partition manager or run 
+To launch kde partition manager from the :menuselection:`System Tools --> KDE Partition Manager` or run 
 
 .. code:: 
 

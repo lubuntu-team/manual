@@ -37,7 +37,7 @@ To cancel your changes to your settings press the :guilabel:`Cancel` button. To 
 
 The :guilabel:`Extraction Settings` tab has options for extracting files. To open the destinatation folder after extraction check the :guilabel:`Open destination folder after extraction` checkbox. To close ARK after extraction check the :guilabel:`Close ARK after extraction` checkbox. To have ARK extract to a subfolder if the archive has more than one file or directoryy at the of the file check the :guilabel:`Extract to subfolder if the archive has more than one top-level entry`.
 
-The :guilabel:`Plugin Settings` tab has settings for each individual plugin. The :guilabel:`Name column` is the name of the plugin and the :guilabel:`Description` column is a descrption of the plugin. To toggle enabling disabling a plugin check or uncheck the chekbox next to the plugin name on the :guilabel:`Name` checkbox.  
+The :guilabel:`Plugin Settings` tab has settings for each individual plugin. The :guilabel:`Name column` is the name of the plugin and the :guilabel:`Description` column is a descrption of the plugin. To toggle enabling disabling a plugin check or uncheck the chekbox next to the plugin name in the :guilabel:`Name` coulumn.  
 
 To toggle preview for files larger than a certain size check/uncheck the :guilabel:`Disable preview for files larger than` checkbox. To change the size of the amount to be previewed change the field to the right of :guilabel:`Disable preview for files larger than` field.
 

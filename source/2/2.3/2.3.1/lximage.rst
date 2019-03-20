@@ -7,7 +7,7 @@ Useage
 ------
 To open a picture press :menuselection:`File --> Open File`, :kbd:`Control + O`, or press the button that looks like a opening folder. To open a directory full of images press :kbd:`Control+D` or :menuselection:`File --> Open Directory`. If you do not like the picture press :kbd:`Del` or :menuselection:`File --> Delete`. To open a new window of lximage press :kbd:`Control +N` or :menuselection:`File --> New Window`. To view the properties of your image by :menuselection:`File --> File Properties`. 
 
-If you want to upload a picture to share it online press :menuselection:`Edit --> Upload` and a new window will pop up with a drop down menu to show where to upload the picture to. To actually uplaod the file press :guilabel:`Start`.
+If you want to upload a picture to share it online press :menuselection:`Edit --> Upload` and a new window will pop up with a drop down menu to show where to upload the picture to. To actually uplaod the file press :guilabel:`Start`. The url of the image will then show up from after it is finished uploading. You can then copy the url by selecting the text pressing :kbd:`Control+C`.
 
 .. image:: lximage_upload.png
 

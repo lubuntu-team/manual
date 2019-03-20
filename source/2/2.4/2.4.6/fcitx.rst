@@ -6,7 +6,7 @@ fcitx config sets settings for fcitx.
 How to Launch
 -------------
 
-To launch fcitx config :mernuselection:`Acessories --> fcitx-qimpanel-configtool`.
+To launch fcitx config :menuselection:`Acessories --> fcitx-qimpanel-configtool`.
 
 .. code::
   

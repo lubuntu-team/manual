@@ -21,7 +21,7 @@ The :guilabel:`Windows retain a border when undecorated` checkbox has windows st
 .. image:: openbox-config.png
 
 
-The :guilabel:`Font` tab changes the font of your window titlebars you can select several different fonts for different conditions of the window. To change the style of the font you can under the style make the font inactive. For example if you have trouble telling which window you are in you can make the font italic for the titlebars of inactive windows to make it even more obvious.
+The :guilabel:`Font` tab changes the font of your window titlebars you can select several different fonts for different conditions of the window. To change the style of the font you can under the  :guilabel:`Inactive window title` field. For example if you have trouble telling which window you are in you can make the font italic for the titlebars of inactive windows to make it even more obvious.
 
 .. image:: obconf-font.png
 

@@ -15,6 +15,8 @@ The files you add to your project will now be shown at a pane towards the bottom
 
 To burn to an optical disc press :kbd:`Control+B` or :menuselection:`Project --> Burn`.
 
+To eject the disc from your drive press :menuselection:`Device --> Eject`. To view information on the disc you have inserted :menuselection:`Device --> Media Info`.
+
 Screenshot
 ----------
 .. image:: k3b.png

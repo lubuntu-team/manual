@@ -19,7 +19,7 @@ The files you add to your project will now be shown at a pane towards the bottom
 
 To burn to an optical disc press :kbd:`Control+B` or :menuselection:`Project --> Burn`.
 
-To eject the disc from your drive press :menuselection:`Device --> Eject`. To view information on the disc you have inserted :menuselection:`Device --> Media Info`.
+To eject the disc from your drive press :menuselection:`Device --> Eject`. To view information on the disc you have inserted :menuselection:`Device --> Media Info`. If you want to lower noise from the spinning of optical drives :menuselection:`Device --> Set Read Speed...` and set a lower number to make the disk spin slower in cd or dvd players for less noise.
 
 If you have a rewriteable disc you can open the dialog to erase the data from it from the :guilabel:`Format` button or :menuselection:`Tools --> Format/Erase rewritable disk...`. 
 

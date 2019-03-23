@@ -31,5 +31,5 @@ To launch pulse audio volume Control from the menu :menuselection:`Sound and vid
 
    pavucontrol-qt 
 
-from the command line. Another way to launch Pulse audoio volume control is to click on the volume applet in the panel and click the mixer button.
+from the command line. Another way to launch Pulse audoio volume control is to  left click on the volume applet in the panel and click the :guilabel:`Mixer` button.
 

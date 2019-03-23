@@ -13,7 +13,7 @@ To start a new data project to save documents and other files :menuselection:`Fi
 
 Another way to add files is to left click on your files in the center of the window. To swtich to a folder double click on them with the left mouse button on a folder. To go up a level press the button that is an upward pointed arrow button. To go back to a previous folder press the leftward pointed arrow button. To go forward to a folder you went back from press the rightward pointed arrow. Another way to switch folders is to click on the folder names on the side pane to the left. To add all files recursively to be added to a project left click to select it and press :kbd:`Shift + Enter` to copy all files in a folder or right click and select :menuselection:`Add to Project`. To reload all files press :kbd:`F5` or right click and select :menuselection:`Reload`. 
 
-To save your files from a project if you wish to burn it later press :kbd:`Control +S` or :menuselection:`File --> Save`.
+To save your files from a project if you wish to burn it later press :kbd:`Control +S` or :menuselection:`File --> Save`. To have all the files from a project removed :menuselection:`Project --> Clear Project`.
 
 The files you add to your project will now be shown at a pane towards the bottom of the screen. If you decide against adding a file after adding it you can select it by left clicking and pressing :kbd:`Delete` or right click and select :menuselection:`Remove`. To rename files to be burned to disc left click to select the file and press :kbd:`F2` or right click and select :kbd:`Rename`. 
 

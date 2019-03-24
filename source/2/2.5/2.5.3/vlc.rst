@@ -11,9 +11,9 @@ To pause playback of a file press the button that look like two verical lines or
 
 On the bottom right of vlc there is a bar that gets wider for volume. Click farther to the right to increase volume within vlc or press :kbd:`Up arrow` to increase volume or :kbd:`Down arrow` to decrease volume. Or hover the cursor over this bar and use the mousewheel to control volume. The button that looks like a speaker next to this toggles mute in vlc. Another way to mute the volume is to :menuselection:`Audio --> Mute`. 
 
-To make the same sound come out of both speakers go to :menuselection:`Audio --> Stereo mode --> Mono`. The sound to make a different left and right channel on each speaker will be :menuselection:`Audio --> Stereo Mode --> Stereo`. To make all sound come from the left channel :menuselection:`Audio --> Stereo Mode --> Left` and likewise for Right.  
-
 To see how long you have been watching the current piece of media counts up above the play pause button in a time. At the other side a number will show the length of the media you are playing and inbetween is a slider with the current time. Moving the slider to the left will rewind playback while moving it to the left will fast forward playback. When you mouseover the progress for playback it will show the time at that point and that will jump to that time when you left click. Another way to jump to a specific time is to press :kbd:`control +T` or :menuselection:`Playback --> Jump to Specific Time`. To move back 10 seconds in playback press :kbd:`Left arrow`. To jump forward 10 seconds in playback press :kbd:`Right arrow`.
+
+To make the same sound come out of both speakers go to :menuselection:`Audio --> Stereo mode --> Mono`. The sound to make a different left and right channel on each speaker will be :menuselection:`Audio --> Stereo Mode --> Stereo`. To make all sound come from the left channel :menuselection:`Audio --> Stereo Mode --> Left` and likewise for Right.  
 
 To open an equalizier press the button that looks like several physical slider swichtes, press :kbd:`Control+E` or :guilabel:`Tools --> Effects and filters` and use the :guilabel:`Audio effects` tab and :guilabel:`Equalizer` subtab. To enable the equalizier check the :guilabel:`Enable` checkbox. Then to increase or decrease the sound at each frequency up to increase the volcume at that frequency.  
 

@@ -25,8 +25,6 @@ If you want to save all of your packages on a text file you can :menuselection:`
 
 On the bottom of muon package manager there is a toolbar that states how many packages are available, installed, and upgradeable.
 
-To view and configure your shortcuts :menuselection:`Settings --> Configure Shortcuts` and a window to open shortcuts will appear. The column for :guilabel:`Action` says what the keyboard shortcut will do. The column  :guilabel:`Shortcut` will let you have a shortcut to apply changes. To add shortcut to something that does not have it press the small faint :menuselection:`-->` will bring a drop down menu and presss the button next to the word :guilabel:`Custom` and input :kbd:`Your shortcut here`.
-
 To hide the toolbar uncheck the :menuselection:`Settings --> Show Toolbar` checkbox.
 
 Screenshot
@@ -52,3 +50,6 @@ Customizing
 -----------
 
 To get to your prefrences for Muon package manager :menuselection:`Settings --> Configure Muon Package Manager`. The checkbox :guilabel:`Ask To confirm changes that affect other packages` brings up confirmation dialog when you will affect multiple packages. The checkbox :guilabel:`Treat reccomended packages as dependencies` will always install all recommended packages as depenencies and will automatically install one when you install a recommended package. To always install suggested packages as dependecines check the :guilabel:`Treat Suggested packages as dependencies`. To change the maximum number of package operations you can undo change the :guilabel:`Number of undo operations` field.
+
+To view and configure your shortcuts :menuselection:`Settings --> Configure Shortcuts` and a window to open shortcuts will appear. The column for :guilabel:`Action` says what the keyboard shortcut will do. The column  :guilabel:`Shortcut` will let you have a shortcut to apply changes. To add shortcut to something that does not have it press the small faint :menuselection:`-->` will bring a drop down menu and presss the button next to the word :guilabel:`Custom` and input :kbd:`Your shortcut here`.
+

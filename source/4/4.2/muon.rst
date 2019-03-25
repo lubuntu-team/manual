@@ -19,7 +19,7 @@ If you want to see your history of package updates and installed from the :menus
 
 If you remove some packages you may have packages that were dependencies that are no longer needed anymore you can check on this by clicking the divider on the left hand side by :menuselection:`By Status --> Installed(auto-removeable)` will show if you have packages that are now able to be removed without any problems that are no longer serving a purpose. Then select the :guilabel:`Mark for Removeal` button. If you just want to mark all packages for removal :menuselection:`Edit --> Remove Unesscary Packages`. Then of course you will need to press the :guilabel:`Apply Changes` button to apply changes. 
 
-To check for updates in muon press :kbd:`Control + R` or the gear button with an arrow or :menuselection:`Edit --> Check for Updates`.  
+To check for updates in muon press :kbd:`Control + R` or the gear button with an arrow or :menuselection:`Edit --> Check for Updates`. To actually update and install these upgrades fully press the :guilabel:`Full Upgrade` button or :menuselection:`Edit --> Full Upgrade` and then press the :guilabel:`Apply Changes` button. 
 
 If you want to save all of your packages on a text file you can :menuselection:`File --> Save Download Pakcage List`.
 

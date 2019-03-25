@@ -35,7 +35,7 @@ To view more advanced controls :menuselection:`View --> Advanced Controls`. To v
 
 To change the aspect ratio of a video :menuselection:`Video --> Aspect Ratio` and select the one you wish. To crop a video to only part of your screen :menuselection:`Video --> Crop` and select the aspect ratio you want to crop the video to. To take a screenshot of the currently playing media :menuselection:`Video --> Take Snapshot`. 
 
-
+If you are playing audio and want a visualization while listening to an audio file :menuselection:`Audio --> Visualizations` and choose the one you want.
 
 Screenshot
 ----------

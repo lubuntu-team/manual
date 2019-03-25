@@ -49,3 +49,5 @@ If you need to edit a text file from the command line the easiest editor include
    nano [file]
 
 where you replace [file] with the file you want to edit.
+
+If you want to stop something running in the terminal press :kbd:`Control +C`.

@@ -30,7 +30,7 @@ To go back to a previous page in firefox press the button pointing to the left o
 
 To have a list of all of your tabs press the downard pointing arrowhead button. To switch the view of your tabs if you have more than on the screen press the right ward pointed arrowhead to move the visible part of the tab bar to the right. To move the visible part of the tab bar to the left press the leftward pointed arrowhead. To open a new tab press the :guilabel:`+` button.
 
-To scroll down using the keyboard press :kbd:`Page Down`.
+To scroll down using the keyboard press :kbd:`Page Down`. To scroll up the page with the keybaord press :kbd:`Page Up`. To scroll all the way back up to the top press the :kbd:`Home` key. To move all the way to the bottom of the page press the :kbd:`End` key.
 
 To go to a specific url in the address bar you can type it in the the main bar in the middle. If you have a url in your clipboard you can paste it here or into the address bar right click :menuselection:`Paste & Go`. Or if you right click into the the clipboard and not immediately go to the page and type in a sub page right click :guilabel:`Paste` and then type to go a specific sub page of the same site and then press enter to go to the page. If you press :kbd:`F6` the cursor will select the address bar. 
 

@@ -36,6 +36,8 @@ To go to a specific url in the address bar you can type it in the the main bar i
 
 To bookmark a page press :kbd:`Control +D` or Press the button with three vertical lines and slanted one and then the submenu of bookmarks and bookmark this page. To access the bookmark again press that looks like three vertical lines and a slanted one and bookmarks and then select the bookmark you want.
 
+To copy text in firefox press :kbd:`Control +C`. To paste text into firefox press :kbd:`Control+ V`. To cut text in firefox press :kbd:`Control+X`.
+
 To view info on your webpage press :kbd:`Control+ I`.
 
 To zoom in if you find the text on a web page to small press :kbd:`control + +`. If you want to zoom out on the text or pictures press :kbd:`control + -`. To reset to the original zoom press :kbd:`control + 0`. To make firefox fullscreen press :kbd:`F11`. 
@@ -50,9 +52,8 @@ To tab on the left :guilabel:`Home` has settings for your home and opening of ne
 
 .. image:: prefrenceshome.png
 
-To manage your search settings use the :guilabel:`search` tab on prefrences. The radio button for :guilabel:`Search Bar` changes whether you want a seperate search bar or and integrated search bar for search and navigation. The :guilabel:`Default Search Engine` lets you change your default search engine. To toggle whether to search suggestions check/uncheck the :guilabel:`Provide search suggestions`.
+To manage your search settings use the :guilabel:`Search` tab on prefrences. The radio button for :guilabel:`Search Bar` changes whether you want a seperate search bar or and integrated search bar for search and navigation. The :guilabel:`Default Search Engine` lets you change your default search engine. To toggle whether to search suggestions check/uncheck the :guilabel:`Provide search suggestions`.
 
-To copy text in firefox press :kbd:`Control +C`. To paste text into firefox press :kbd:`Control+ V`. To cut text in firefox press :kbd:`Control+X`.
 
 Version
 ----------

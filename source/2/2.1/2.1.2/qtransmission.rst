@@ -46,4 +46,4 @@ from the terminal. The icon looks like a silver box outlined in red with a doubl
 
 Customizing
 -----------
-To open your prefrences for transimission :menuselection:`Edit --> Prefrences`. To limit upload speed check the :guilabel:`Upload` checkbox and select the limit of upload speed you want. To limit download speed check the :guilabel:`Download` checkbox and select the limit of download speed you want. To change the slower speed limits with the turtle button for uploading change the :guilabel:`Upload` field. 
+To open your prefrences for transimission :menuselection:`Edit --> Prefrences`. To limit upload speed check the :guilabel:`Upload` checkbox and select the limit of upload speed you want. To limit download speed check the :guilabel:`Download` checkbox and select the limit of download speed you want. To change the slower speed limits with the turtle button for uploading change the :guilabel:`Upload` field. To change the slower download speed change the :guilabel:`Downlaod` field.

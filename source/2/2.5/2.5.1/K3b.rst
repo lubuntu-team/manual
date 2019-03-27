@@ -42,4 +42,4 @@ from the command line.
 
 Customizing
 ------------
-To configure settings for K3b :menuselection:`Settings --> Configure K3b`. To ask to save projects on exit autmoatically check the :guilabel:`Ask to save projects on exit` checkbox. To view information about your devices use the :guilabel:`Devices` tab. 
+To configure settings for K3b :menuselection:`Settings --> Configure K3b`. To ask to save projects on exit autmoatically check the :guilabel:`Ask to save projects on exit` checkbox. To view information about your devices use the :guilabel:`Devices` tab. To show settings for :guilabel:`Notifications` has settings for notifications. The context you use are for choosing :guilabel:`Process successful`, :guilabel:`Process error`, :guilabel:`Track data not found`, :guilabel:`Waiting for medium`, :guilabel:`Mount/unmount failed`, :guilabel:`No problems found` , or :guilabel:`Busy`. To make a popup show up choose the :guilabel:`Show a message in popup` checkbox. 

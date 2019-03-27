@@ -43,3 +43,7 @@ To launch Transmission go to menu :menuselection:`Internet --> Qtransmission` bi
    transmission-qt 
 
 from the terminal. The icon looks like a silver box outlined in red with a double pointed vertical arrow. 
+
+Customizing
+-----------
+To open your prefrences for transimission :menuselection:`Edit --> Prefrences`. To limit upload speed check the :guilabel:`Upload` checkbox and select the limit of upload speed you want. To limit download speed check the :guilabel:`Download` checkbox and select the limit of download speed you want.

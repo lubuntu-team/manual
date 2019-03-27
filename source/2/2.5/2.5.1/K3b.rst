@@ -42,4 +42,4 @@ from the command line.
 
 Customizing
 ------------
-To configure settings for K3b :menuselection:`Settings --> Configure K3b`. To ask to save projects on exit autmoatically check the :guilabel:`Ask to save projects on exit` checkbox. 
+To configure settings for K3b :menuselection:`Settings --> Configure K3b`. To ask to save projects on exit autmoatically check the :guilabel:`Ask to save projects on exit` checkbox. To view information about your devices use the :guilabel:`Devices` tab. 

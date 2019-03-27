@@ -39,3 +39,7 @@ To launch K3b from the menu :menuselection:`sound and video --> K3b` or run
    K3b 
    
 from the command line.
+
+Customizing
+------------
+To configure settings for K3b :menuselection:`Settings --> Configure K3b`. To ask to save projects on exit autmoatically check the :guilabel:`Ask to save projects on exit` checkbox. 

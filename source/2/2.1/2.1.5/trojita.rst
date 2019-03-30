@@ -37,6 +37,9 @@ To manually check for new messages :menuselection:`Mailbox --> Check for new mes
 
 To launch an address book of saved contacts :menuselection:`IMAP --> Address Book`. To add a new message to contacts press the :guilabel:`Add` button. Once on the new contact doulbe click on the fields which are all optional. If you press the X button and have changes you will bring up a dialog to save the changes. 
 
+To change your view of trojita to view only one message at a time or the view of your inbox :menuselection:`View --> Layout --> One At Time` which is quite useful on small screens. To view you message in a three column format with your folders to the list of message in each folder in the center and then the message itself on the right :menuselection:`View --> Layout --> Wide`.
+
+
 How to launch
 --------------
 To launch trojita from the menu :menuselection:`Internet --> trojita` with the icon that looks like an envolope or run

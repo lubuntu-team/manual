@@ -25,7 +25,7 @@ To view your messages on trojita to see new messages you have recieved in your i
 
 Your different folders are on a sidebar on the left hand side of trojita. To switch to another folder such as sent mail to view your sent messages left click on the :guilabel:`Sent Mail` folder in this case. To switch to the drafts folder left click where it says :guilabel:`Drafts`.
 
-To move to the next unread message press the :kbd:`n` key or to move to the previous message press the :kbd:`p` key.
+To move to the next unread message press the :kbd:`n` key or to move to the previous message press the :kbd:`p` key. To manually toggle makring a message as read press the :kbd:`m` key.
 
 To reply to a message to just the person that sent it press :kbd:`Control + Shift +A` or :menuselection:`IMAP --> Private Reply`. To forward an email to someone else press :kbd:`Control +Shift+F` or :menuselection:`Imap --> Forward`.  
 

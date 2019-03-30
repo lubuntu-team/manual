@@ -8,6 +8,8 @@ Screenshot
 
 .. image:: transmission.png
 
+.. image:: transmissionmainwindow.png 
+
 Version
 -------
 

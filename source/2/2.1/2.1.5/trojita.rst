@@ -31,9 +31,11 @@ To reply to a message to just the person that sent it press :kbd:`Control + Shif
 
 .. image:: trojita.png
 
+In the center of the window there are several different columns that show you information about each different email you have recieved. The :guilabel:`Subject` line shows you a subject that should tell you what each message is about. The :guilabel:`From` column shows who is sending you this email. The :guilabel:`Date` Coloumn show when the email was sent to you. The :guilabel:`Size` column shows you how much space the email takes up on your account on the email server. To see if there is an attachment to a message a column has what looks like a paperclip and it has a paerclip in it if that email has an attachment.
+
 When writing a reply message a window will pop up to write your message in. To send the message press the :guilabel:`Send` button. If you change your mind about sending this message press the :guilabel:`Cancel`. 
 
-To manually check for new messages :menuselection:`Mailbox --> Check for new messages`. To hide read messages :menuselection:`View --> Hide read messages` and uncheck this to see read messages again. To view newest messages in trojita first :menuselection:`View --> Sorting --> Descending`. To switch back to your old view of oldest mmesage first :menuselection:`View --> Sorting --> Ascending`.
+To manually check for new messages :menuselection:`Mailbox --> Check for new messages`. To hide read messages :menuselection:`View --> Hide read messages` and uncheck this to see read messages again. To view newest messages in trojita first :menuselection:`View --> Sorting --> Descending`. To switch back to your old view of oldest mmesage first :menuselection:`View --> Sorting --> Ascending`. 
 
 To launch an address book of saved contacts :menuselection:`IMAP --> Address Book`. To add a new message to contacts press the :guilabel:`Add` button. Once on the new contact doulbe click on the fields which are all optional. If you press the X button and have changes you will bring up a dialog to save the changes. 
 

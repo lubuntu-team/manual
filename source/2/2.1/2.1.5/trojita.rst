@@ -39,6 +39,7 @@ To launch an address book of saved contacts :menuselection:`IMAP --> Address Boo
 
 To change your view of trojita to view only one message at a time or the view of your inbox :menuselection:`View --> Layout --> One At Time` which is quite useful on small screens. To view you message in a three column format with your folders to the list of message in each folder in the center and then the message itself on the right :menuselection:`View --> Layout --> Wide`. To return to your original view :menuselection:`View --> Layout --> Compact`.
 
+To take trojita into an offline mode where it will not try to access the internet :menuselection:`IMAP --> Network Access --> Offline`. To switch back to an mode where you have no worry about data caps or how much network traffic is used :menuselection:`IMAP --> Network Access --> Free Access`.
 
 How to launch
 --------------

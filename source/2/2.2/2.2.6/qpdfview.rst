@@ -59,7 +59,7 @@ To deal with settings on graphics press press on the :guilabel:`graphics` tab. T
  
 
 
-To change the interface settings click on the :guilabel:`Interface` tab.  If you want the tabs to be spread out press the spread tabs checkbox. The the :guilabel:`Tab position` changes where the tabbar on the window. The tab visibility can be set to as needed, always or never. The checkbox for :guilabel:`New tab next to current tab` opens new tabs next to the current one. The field for recently used lets you set the maximum number of files to keep around in recently used. The :guilabel:`Spread tabs` checkbox spreads the tabs to take up the whole tab bar and they get smaller the more tabs you open.   
+To change the interface settings click on the :guilabel:`Interface` tab.  If you want the tabs to be spread out press the spread tabs checkbox. The the :guilabel:`Tab position` changes where the tabbar on the window. The tab visibility can be set to as needed, always or never. The checkbox for :guilabel:`New tab next to current tab` opens new tabs next to the current one. The field for recently used lets you set the maximum number of files to keep around in recently used. The :guilabel:`Spread tabs` checkbox spreads the tabs to take up the whole tab bar and they get smaller the more tabs you open. To have qpdfview close when the last tab in qpdfview is closed check the :guilabel:`Exit after last tab` checkbox. To change the number of recently used pdf files in the menu change the number in :guilabel:`Recently used count` field. To change how many recently closed tabs of pdfs are shown change the :guilabel:`Recently closed count` field.
 
 .. image:: qpdfviewprefrences.png
 

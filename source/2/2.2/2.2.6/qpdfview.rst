@@ -51,7 +51,8 @@ Screenshot
 
 Customizing
 -----------
-To add your own settings to qpdfview you can get to a settings window with :menuselection:`Edit --> Settings`. The checkbox for open url allows you to turn on or off Opening URL within within qpdfview. The autorefresh checkbox relaods the pdf whenever the file changes which is useful if you are authoring pdf files. If you want to scroll once to go to an entire page check the :guilabel:`minimal scrolling` checkbox. To change the color of highlights tpye a hex number for a color or select one from the drop down menu by name. 
+To add your own settings to qpdfview you can get to a settings window with :menuselection:`Edit --> Settings`. The checkbox :guilabel:`Open URL` allows you to turn on or off Opening URLs or links within qpdfview. The :guilabel:`Auto-refresh` checkbox relaods the pdf whenever the file changes which is useful for authoring pdf files. To open the tabs you had open last time with qpdfview the next time you open the program check the :guilabel:`Restore tabs` checkbox. If you want to scroll once to change an entire page check the :guilabel:`Minimal scrolling` checkbox. To change the color of highlights tpye a hex number for a color or select one from the :guilabel:`Highlight Color` drop down menu. 
+
 
 If you want to reset these settings to the defaults is to press the :guilabel:`Defaults` button. If you just want defaults on the current tab you can press the :guilabel:`Defaults on current tab` button. If you want to return to viewing your pdf with the same settings press the :guilabel:`OK` button. If you wish to discard your changes press the :guilabel:`Cancel` button.     
 

@@ -51,7 +51,7 @@ If you want to change your line spacing of your document :menuselection:`Format 
 
 To add a list of bullet points press :kbd:`Shift +F12` or :menuselection:`Format --> Lists --> Bulleted Lists`. To start a numbered lists press :kbd:`F12` or :menuselection:`Format --> Lists --> Numbered List`. To move an item up in your list :menuselection:`Format --> Lists --> Move Up`. To move an item down in your list :menuselection:`Format --> Lists --> Move Down`. To demote a point to a subpoint :menuselection:`Format --> Lists --> Demote One Level`. To promote this point back up to its previous level :menuselection:`Format --> Lists --> Promote One Level`.
 
-To insert an image into your go to :menuselection:`Insert --> Image` to insert an image directly to your word processing document. To move your image around left click on it and drag the image around. To resize the image while keeping the same aspect ratio click on one of the blue boxes around the corner to resize the image.   
+To insert an image into your go to :menuselection:`Insert --> Image` to insert an image directly to your word processing document. To move your image around left click on it and drag the image around. To resize the image while keeping the same aspect ratio click on one of the blue boxes around the corner to resize the image.  To remove an image you decide you do not want in your document press the :kbd:`Delete` key. 
 
 To Insert a page number :menuselection:`Insert --> Field --> Page number`. To insert the current time into the document :menuselection:`Insert --> Field --> Time`. To insert the current date into the document :menuselection:`Insert --> Field --> Date`.  To insert the number of pages in the document :menuselection:`Insert --> Field --> Page count`.
 

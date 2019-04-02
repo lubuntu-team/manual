@@ -61,6 +61,8 @@ To insert a mathematical formula into your document you are process :menuselecti
 
 To select all text in the document press :kbd:`control + A` or :menuselection:`Edit --> Select All`. 
 
+To search for text in your document press :kbd:`Control +F` or :menuselection:`Edit --> Find` which pops up a toolbar on the bottom. To enter the text to search enter into the searchbar on the bottom. To go to the next result press the downward pointed arrow button. To go to the previous result press the upward pointing arrow button.
+
 To zoom for the entire page to be visible :menuselection:`View --> Zoom --> Entire Page`. To zoom so you can see the width of the page and everything is bigger :menuselection:`View --> Zoom ---> Page width`.  
 
 To have a view of the document with no margins shown like on a webpage :menuselection:`View --> Web` or To get back to the original view :menuselection:`View --> Menu`. To toggle a vertical scrollbar :menuselection:`View --> Scrollbars --> Vertical Scroll bar`. To have a horizontal scrollbar :menuselection:`View --> Scrollbars --> Horizontal Scroll bar`. 

@@ -12,13 +12,15 @@ Before starting, you need a few tools.
   - Ubuntu 16.04 LTS and onwards
  - The following packages from your Linux distribution's repository:
   - `git`
-  -  `arcansit`
+  - `pyhton3-pip`
+  - `arcanist`
   - `python3-sphinx`
   - `texlive`
   - `texlive-formats-extra`
-  - `latexmk` 
- - The following packages from PyPI:
-  - `sphinx_bootstrap_theme`
+  - `latexmk`
+  - `python3-sphinx-rtd-theme`
+ - The following package from PyPI
+  - `pip3 install sphinxcontrib-versioning`
 
 ## Getting the code
 

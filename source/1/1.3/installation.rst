@@ -29,14 +29,14 @@ The next screen will show you a map of the world where you can choose your locat
 Selecting Keyboard Layout
 -------------------------
 
-Next select your keyboard layout, you can check your keyboard matches the keyboard shown picture shown. At the bottom you can type to make sure your layout is correct. The keyboard model version lets you choose different layouts and the right column gets different variants. When you have selected your keyboard layout, move on to the next stage of the installation.
+Next select your keyboard layout, you can check your keyboard matches the keyboard shown picture shown. At the bottom you can type to make sure your layout is correct. The :guilabel:`Keyboard Model` menu lets you choose different layouts and the right column gets different variants. When you have selected your keyboard layout press the :guilabel:`Next` button to move on.
 
 .. image:: keyboard.png
 
 Setting up partitions
 ---------------------
 
-If all you want is Lubuntu on your machine, you can select the erase disk. This will format the disk and **delete all data on the disk**,  which is why having your data backed up before this point is extremely important. If you choose to do this you can continue on to user setup. 
+If all you want is Lubuntu on your machine, you can select the :guilabel:`Erase` disk button. This will format the disk and **delete all data on the disk**,  which is why having your data backed up before this point is extremely important. If you choose to do this you can continue on to user setup. 
 
 .. warning::
    Erasing your entire disk or partition may cause you to lose data so please backup beforehand.

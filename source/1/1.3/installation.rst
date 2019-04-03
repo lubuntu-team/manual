@@ -9,11 +9,11 @@ Once you have booted the Lubuntu image, you will be greeted by a screen with the
 
 .. image:: boot_installer.png
 
-Once you have booted into the live session, feel free to explore Lubuntu. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop "Install Lubuntu 18.10". 
+Once you have booted into the live session, feel free to explore Lubuntu and make sure all your hadware works. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop :guilabel:`Install Lubuntu 18.10`. 
 
 .. image:: live_session.png
 
-You will be taken to the Lubuntu installer Welcome screen. You can change the installer language in the drop down box. After selecting the language the next button will move you on to the next task.
+You will be taken to the Lubuntu installer Welcome screen. You can change the installer language in the :guilabel:`Language` drop down box. After selecting the language the guilabel:`Next` button will move you on to the next task.
 
 
 .. image:: welcome_installer.png

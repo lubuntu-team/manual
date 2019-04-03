@@ -42,7 +42,6 @@ has several guides on this:
 
 Booting the image
 -----------------
-With your media inserted, reboot your computer. Depending on your hardware configuration, it may boot into the image
-right away, or you might need to press a key at startup for boot options. This varies but looking for documentation specific to your hardware will likely provide the answer.
+With your media inserted, reboot your computer. Depending on your hardware configuration, it may boot into the image right away, or you might need to press a key at startup for boot options. This varies but looking for documentation specific to your hardware will likely provide the answer.
 
 **You have now booted the image. Please continue to Chapter 1.3.**

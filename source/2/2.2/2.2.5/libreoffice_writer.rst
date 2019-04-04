@@ -63,7 +63,7 @@ To select all text in the document press :kbd:`control + A` or :menuselection:`E
 
 To search for text in your document press :kbd:`Control +F` or :menuselection:`Edit --> Find` which pops up a toolbar on the bottom. To enter the text to search enter into the searchbar on the bottom. To go to the next result press the downward pointed arrow button. To go to the previous result press the upward pointing arrow button. To close out of finding text press red circle with the white x inside it. To not match case uncheck the :guilabel:`Match Case` checkbox. 
 
-To find and replace text press :kbd:`Control+ H` or :menuselection:`Edit --> Find & Replace`. To have what text you want to be find in the document to be replaced in the :guilabel:`Find` field. To have the end result of what you after replacing in the :guilabel:`Replace` field. To find and select all occurances of the string in the :guilabel:`Find` field click the :guilabel:`Find All` button.
+To find and replace text press :kbd:`Control+ H` or :menuselection:`Edit --> Find & Replace`. To have what text you want to be find in the document to be replaced in the :guilabel:`Find` field. To have the end result of what you after replacing in the :guilabel:`Replace` field. To find and select all occurances of the string in the :guilabel:`Find` field click the :guilabel:`Find All` button. To replace every occurance of the word of find press the :guilabel:`Replace All` button to change everything.
 
 To zoom for the entire page to be visible :menuselection:`View --> Zoom --> Entire Page`. To zoom so you can see the width of the page and everything is bigger :menuselection:`View --> Zoom ---> Page width`.  
 

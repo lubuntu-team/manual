@@ -52,7 +52,7 @@ The user setup section creates a user profile, consisting of your own name and t
 
 The Install
 -----------
-The Lubuntu installer provides some useful information while the installer is running. Once Lubuntu is installed you have a checkbox to reboot now after your Lubuntu is installed and is now finished.
+The Lubuntu installer provides some useful information while the installer is running. Once Lubuntu is installed you have a checkbox :guilabel:`Reboot now` after your Lubuntu is installed and is now finished.
 
 .. image:: installer_screen.png
 

@@ -10,7 +10,7 @@ The application menu allows you to browse and search through available programs;
 
 .. image:: menu_search.png
 
-The taskbar lists the windows you currently have open. To bring one of these windows to focus simply left click the windows on the task bar. If you have multiple of the same window left clicking will open the group, allowing you to select between the different windows. If you want to close a group of multiple windows you can right click the group and click :menuselection:`close all`. 
+The taskbar lists the windows you currently have open. To bring one of these windows to focus simply left click the windows on the task bar. If you have multiple of the same window left clicking will open the group, allowing you to select between the different windows. If you want to close a group of multiple windows you can right click the group and click :menuselection:`Close group`. 
 
 .. image:: multiple_tasks.png
 

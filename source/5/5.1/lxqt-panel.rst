@@ -77,6 +77,8 @@ To use your sensors widgets which you would have to add manually as shown above.
 
 To have a bar that shows CPU Load shows a bar graph with your CPU useage. To bring up settings for your CPU useage is right click on the cpu bar :menuselection:`Configure CPU Monitor`. The :guilabel:`Show text` checkbox shows a nubmer for cpu useage. The field for :guilabel:`Update interval` is how often to update your cpu useage. The :guilabel:`Bar orientation` says what side to start the bar graph. The :guilabel:`Bar width` is how wide to make the bar graph. If you want to reset your changes press the :guilabel:`Reset` button.
 
+The spacer widget puts a space on the panel to have a divider on your panel and space it out.
+
 The Color picker is shows what color something is on your screen usually useful for web developers. To get a color off the screen press the color dropper button. Then a numeric field to the right of the dropper will appear with the color in a numeric field to the right. 
 
 To customize the sensors right click on the panel :menuselection:`Configure "Sensors"`. The :guilabel:`Update interval(seconds)` field lets you choose how often in seconds to update the sensors. The :guilabel:`Temperature bar width` field shows how widw to make the bar for your sensors. The :guilabel:`Temperature scale` field lets you select Celsius or Farenheit for your sensors. The checkbox :guilabel:`Warning about high temperature` puts a warning if your temperture gets too high. If you want to reset your settings press the :guilabel:`Reset` button. 

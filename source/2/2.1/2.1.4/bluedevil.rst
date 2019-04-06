@@ -1,7 +1,7 @@
 Chapter 2.1.4 Bluedevil
 =======================
 
-bluedevil is the default application to manage bluetooth devices for lubuntu.
+Bluedevil is the default application to manage bluetooth devices for lubuntu.
 
 
 

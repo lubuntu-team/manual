@@ -45,7 +45,7 @@ To take trojita into an offline mode where it will not try to access the interne
 
 How to launch
 --------------
-To launch trojita from the menu :menuselection:`Internet --> trojita` with the icon that looks like an envolope or run
+To launch trojita from the menu :menuselection:`Internet --> Trojita` with the icon that looks like an envolope or run
 
 .. code::
 

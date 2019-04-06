@@ -38,7 +38,7 @@ If you want to deprioitize the speed of your torrents press the button on the bo
 How to launch
 -------------
 
-To launch Transmission go to menu :menuselection:`Internet --> Qtransmission` bittorent client or run 
+To launch Transmission go to menu :menuselection:`Internet --> Qtransmission Bittorent Client` or run 
 
 .. code:: 
  

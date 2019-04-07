@@ -62,7 +62,7 @@ To view your settings for subtitles anhd on screen display choose the :guilabel:
 
 To view your hotkey settings use the  :guilabel:`Hotkeys` tab. The column :guilabel:`Action` describes what your keyboard shortcut will do. The Column :guilabel:`Hotkey` is the keyboard shortcut to do what is said in the :guilabel:`Action` column. To change your keyboard shortcut doulbe click on the shortcut in the :guilabel:`Hotkey` column and press the keyboard combination you want to set it to. To change what scrolling verically does for use the :guilabel:`Mouse wheel vertical axis control` menu.
 
-To change how the user interface of VLC appears :menuselection:`Tools --> Customize Interface`. To select a profile that works as a default some ones for older versions of VLC choose the :guilabel:`Select profile:` drop down menu. To create a new profile press the button to the right press the paper with a sun on it. To move the main toolbar above the video check the :guilabel:`Above the video` checkbox.  
+To change how the user interface of VLC appears :menuselection:`Tools --> Customize Interface`. To select a profile that works as a default some ones for older versions of VLC choose the :guilabel:`Select profile:` drop down menu. To create a new profile press the button to the right press the paper with a sun on it. To move the main toolbar above the video check the :guilabel:`Above the video` checkbox. Below will be the lines of each toolbar for example :guialbel:`Line 2` for each line of toolbar. To see a summary of what each button does hover the mouse over it and a description will pop up.To move a button to the left or right left click and drag to the left and right the button to the desired position. 
 
 Version
 -------

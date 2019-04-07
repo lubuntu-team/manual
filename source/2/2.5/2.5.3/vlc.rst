@@ -66,6 +66,8 @@ To change how the user interface of VLC appears :menuselection:`Tools --> Custom
 
 To change the elements for the time toolbar use the :guilabel:`Time toolbar` tab. To move elements on the time toolbar left click on the element and drag it into place.
 
+To view plugins and extensions dialog window :menuselection:`Tools --> Plugins and Extensions`. 
+
 Version
 -------
 Lubuntu ships with version 3.0.4 of VLC.

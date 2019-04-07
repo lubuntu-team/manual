@@ -62,6 +62,8 @@ To view your settings for subtitles anhd on screen display choose the :guilabel:
 
 To view your hotkey settings use the  :guilabel:`Hotkeys` tab. The column :guilabel:`Action` describes what your keyboard shortcut will do. The Column :guilabel:`Hotkey` is the keyboard shortcut to do what is said in the :guilabel:`Action` column. To change your keyboard shortcut doulbe click on the shortcut in the :guilabel:`Hotkey` column and press the keyboard combination you want to set it to. To change what scrolling verically does for use the :guilabel:`Mouse wheel vertical axis control` menu.
 
+To change how the user interface of VLC appears :menuselection:`Tools --> Customize Interface`. To select a profile that works as a default some ones for older versions of VLC choose the :guilabel:`Select profile:` drop down menu. To move the main toolbar above the video check the :guilabel:`Above the video` checkbox. 
+
 Version
 -------
 Lubuntu ships with version 3.0.4 of VLC.

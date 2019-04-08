@@ -66,7 +66,7 @@ To change how the user interface of VLC appears :menuselection:`Tools --> Custom
 
 To change the elements for the time toolbar use the :guilabel:`Time toolbar` tab. To move elements on the time toolbar left click on the element and drag it into place.
 
-To view plugins and extensions dialog window :menuselection:`Tools --> Plugins and Extensions`. To view only plugins you have installed on your system check the :guilabel:`Only installed` checkbox. To view all addons click on the :guilabel:`All` tab of addons. To view only skins to view vlc differently press on the :guilabel:`Skins` tab. To view an extensions to add on click on the :guilabel:`Extensions` tab.
+To view plugins and extensions dialog window :menuselection:`Tools --> Plugins and Extensions`. To download more extensions press the :guilabel:`Find More Online` button. To view only plugins you have installed on your system check the :guilabel:`Only installed` checkbox. To view all addons click on the :guilabel:`All` tab of addons. To view only skins to view vlc differently press on the :guilabel:`Skins` tab. To view an extensions to add on click on the :guilabel:`Extensions` tab.
 
 Version
 -------

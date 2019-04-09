@@ -3,7 +3,7 @@ Chapter 2.2.4 Libreoffice Math
 
 Version
 -------
-Lubuntu ships with Version 6.1.1.2 of libreoffice math. 
+Lubuntu ships with Version 6.2.2.2 of libreoffice math. 
 
 Screenshot
 ----------

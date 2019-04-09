@@ -36,7 +36,7 @@ To insert a special character not on your keyboard :menuselection:`Insert --> Sp
 
 Version
 -------
-Lubuntu ships with version  6.1.1.2 of libreoffice Calc. 
+Lubuntu ships with version  6.2.2.2 of libreoffice Calc. 
 
 How to launch
 -------------

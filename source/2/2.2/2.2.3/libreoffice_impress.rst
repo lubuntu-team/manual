@@ -68,7 +68,7 @@ Screenshot
 
 Version
 -------
- Lubuntu ships with version 6.1.1.2 of libreoffice impress.
+ Lubuntu ships with version 6.2.2.2 of libreoffice impress.
 
 How To launch
 -------------

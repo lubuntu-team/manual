@@ -17,7 +17,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 0.7.0 of screenshot. 
+Lubuntu ships with version 0.14.1 of screenshot. 
 
 How to Launch
 -------------

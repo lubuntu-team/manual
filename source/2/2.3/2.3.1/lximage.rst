@@ -40,7 +40,7 @@ To change the background color in a window press the button next to :guilabel:`N
 
 Version
 -------
-Lubuntu ships with version 0.7.0 or lximage. 
+Lubuntu ships with version 0.14.1 or lximage. 
 
 How to launch
 -------------

@@ -13,7 +13,7 @@ In the top-right corner of a windows a few commands allow you basic controls of 
 
 .. image:: window_corner.png
 
-The window can be moved by by clicking on the title-bar and dragging the mouse.
+The window can be moved by by clicking on the title-bar and dragging the mouse. Windows can be minimized by middle clicking on the titlebar with the mouse.
 You can resize the window by grabbing the border (sides or corners which should be highlighted in blue) and dragging. 
 
 Right clicking on the title bar or left clicking on the icon in the top-left of the window brings the window management menu. Here you can:

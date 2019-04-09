@@ -27,6 +27,8 @@ Right clicking on the title bar or left clicking on the icon in the top-left of 
 -   Resize lets you use the change the size of a window.
 -   Close closes the window.
 
+.. image:: wm_menu.png
+
 Useful keyboard shortcuts
 -------------------------
 -   Closing a window :kbd:`Alt + F4`

@@ -30,7 +30,7 @@ The :guilabel:`Keyboard Layout` tab has settings to add a new keyboard layout. I
 How to launch
 -------------
 
-To launch Keyboard and Mouse use menu :menuselection:`Preferences --> LXQt settings --> keyboards and mouse`. In LXQt configuration center press the keyboard and mouse button and keyboard and mouse or from the command line run
+To launch Keyboard and Mouse use menu :menuselection:`Preferences --> LXQt settings --> Keyboard and mouse`. In LXQt configuration center press the keyboard and mouse button and keyboard and mouse or from the command line run
 
 
 .. code:: 

@@ -26,7 +26,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 5.13.5 of Discover.
+Lubuntu ships with version 5.15.4 of Discover.
 
 How to launch
 -------------

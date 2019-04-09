@@ -23,7 +23,7 @@ You can navigate the Software Sources using the tabs.
 
 Version
 -------
-Lubuntu ships with version 0.96.27 of software properties. 
+Lubuntu ships with version 0.97.9 of software properties. 
 
 Screenshot
 --------------

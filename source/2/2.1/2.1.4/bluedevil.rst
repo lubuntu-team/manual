@@ -7,7 +7,7 @@ Bluedevil is the default application to manage bluetooth devices for lubuntu.
 
 Version
 -------
-Lubuntu ships with version 5.13.5 of bluedevil. 
+Lubuntu ships with version 5.14.4 of bluedevil. 
 
 Pairing
 -------

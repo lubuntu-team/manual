@@ -3,9 +3,9 @@ Chapter 3.1.6 qps
 
 qps is the graphical task manager included with Lubuntu.
 
-Version
+iVersion
 -------
-Lubuntu ships with version 1.10.18 of qps. 
+Lubuntu ships with version 1.10.20 of qps. 
 
 Useage
 ------

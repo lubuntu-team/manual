@@ -5,7 +5,7 @@ Fcitx is the default input manager for Lubuntu and shows as a tray applet in lxq
 
 Version
 -------
- Lubuntu ships with version 1:4.2.9.6-4 of Fcitx. 
+ Lubuntu ships with version 1:4.2.9.6-5 of Fcitx. 
 
 Useage
 ------

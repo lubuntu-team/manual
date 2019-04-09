@@ -42,7 +42,7 @@ The :guilabel:`Dropdown` tab shows effects on the appearance for the drop down s
 
 Version
 -------
-Lubuntu ships with version 0.9.0 of qterminal.
+Lubuntu ships with version 0.14.1 of qterminal.
 
 
 How to launch

@@ -5,7 +5,7 @@ To configure your alternatives like your default web browser and more applicatio
 
 Version
 -------
-Lubuntu ships with version 1.0.1 of galternatives. 
+Lubuntu ships with version 1.0.3 of galternatives. 
 
 Useage
 ------

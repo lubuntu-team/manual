@@ -6,7 +6,7 @@ Desktop is an application to change the Desktop background and different setting
 
 Version
 -------
-Lubuntu ships with 0.13.0 of Desktop.
+Lubuntu ships with 0.14.1 of Desktop.
 
 Useage
 ------

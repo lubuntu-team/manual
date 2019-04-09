@@ -19,7 +19,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 0.13.0 of Date and time. 
+Lubuntu ships with version 0.14.1 of Date and time. 
 
 How to launch
 -------------

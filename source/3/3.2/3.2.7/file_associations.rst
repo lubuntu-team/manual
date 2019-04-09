@@ -6,7 +6,7 @@ File associations changes the default application when opening a file.
 
 Version
 -------
-Lubuntu ships with version 0.13.0 of file associations
+Lubuntu ships with version 0.14.1 of file associations
 
 Useage
 ------

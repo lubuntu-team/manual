@@ -6,7 +6,7 @@ Appearnce is a program that changes the theming of lxqt for a different visual l
 
 Version
 -------
-Lubuntu ships with version 0.13.0 of appearance. 
+Lubuntu ships with version 0.14.1 of appearance. 
 
 Useage
 ------

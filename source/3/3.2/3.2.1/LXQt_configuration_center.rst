@@ -11,9 +11,9 @@ Screenshot
 ----------
 .. image:: configuration_center.png
 
-Version
+Versioni
 -------
-Lubuntu ships with version 0.13.0 of LXQt configuration center.
+Lubuntu ships with version 0.14.1 of LXQt configuration center.
 
 How to Launch
 -------------

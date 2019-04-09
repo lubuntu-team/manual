@@ -5,7 +5,7 @@ Openbox settings changes configuration of openbox which is the default window ma
 
 Version
 -------
-Lubuntu ships with version 0.13.0-1 of openbox settings. 
+Lubuntu ships with version 0.14.1 of openbox settings. 
 
 Useage
 ------

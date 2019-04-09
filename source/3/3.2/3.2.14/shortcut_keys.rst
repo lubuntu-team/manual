@@ -8,7 +8,7 @@ Shortcut keys is a program that manages the global hotkeys or keyboard shortcuts
 
 Version
 -------
-Lubuntu ships with version 0.13.0 of shortcut keys.
+Lubuntu ships with version 0.14.1 of shortcut keys.
 
 Usage
 ------

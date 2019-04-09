@@ -26,7 +26,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 0.13.0 of session settings. 
+Lubuntu ships with version 0.14.1 of session settings. 
 
 
 How to launch

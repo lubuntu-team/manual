@@ -6,7 +6,7 @@ Window effects is a program to manage effects of the Compton X compositor.
 
 Version
 -------
-Lubuntu ships with version 0.4.0 of Window effects.
+Lubuntu ships with version 0.14.1 of Window effects.
 
 Useage
 ------

@@ -5,7 +5,7 @@ Keyboard and Mouse is a program to change the behavior of your keyboard and mous
 
 Version
 -------
-Lubuntu ships with version 0.13.0 of Keyboard and Mouse.
+Lubuntu ships with version 0.14.1 of Keyboard and Mouse.
 
 Useage
 ------

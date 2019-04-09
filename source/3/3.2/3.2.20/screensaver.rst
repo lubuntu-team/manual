@@ -19,7 +19,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 5.36 of Screensaver
+Lubuntu ships with version 5.42 of Screensaver
 
 How to launch
 -------------

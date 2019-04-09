@@ -6,7 +6,7 @@ Montior settings controls your monitor(s) resolution and refresh rate.
 
 Version
 -------
-Lubuntu ships with version 0.13.0 of monitor settings.
+Lubuntu ships with version 0.14.1 of monitor settings.
 
 Useage
 ------

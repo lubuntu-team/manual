@@ -5,7 +5,7 @@ Users and groups lets you manage user and group settings on your system.
 
 Version
 -------
-Lubuntu ships with version 0.13.0 of Users and Groups. 
+Lubuntu ships with version 0.14.1 of Users and Groups. 
 
 Usage
 ------

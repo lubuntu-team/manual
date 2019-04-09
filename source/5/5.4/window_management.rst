@@ -18,13 +18,14 @@ You can resize the window by grabbing the border (sides or corners which should 
 
 Right clicking on the title bar or left clicking on the icon in the top-left of the window brings the window management menu. Here you can:
 
--   Using Send to desktop, send the window to a virtual desktop of your choice
+-   Using Send to desktop, send the window to a virtual desktop of your choice or All Desktop
 -   Using Layer option allows you to set  whether this windows is always on top, etc. 
 -   If you want to move something to always show to bottom or you can move it back to normal. 
 -   The earlier mentioned Iconify, Maximize, Close, and Resize option are also available here.
 -   Roll up/down rolls the window into the title-bar.
 -   Decorate/Undecorate hides them title-bar.
--   Resize lets you use the change the size of a window. 
+-   Resize lets you use the change the size of a window.
+-   Close closes the window.
 
 Useful keyboard shortcuts
 -------------------------

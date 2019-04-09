@@ -62,7 +62,7 @@ To change your settings for :guilabel:`constants` of to get contsants constants 
 
 Version
 -------
-Lubuntu ships with version 18.04.3 of Kcalc.
+Lubuntu ships with version 18.12.3 of Kcalc.
 
 How to launch
 -------------

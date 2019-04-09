@@ -80,7 +80,7 @@ The :guilabel:`Advanced` tab shows integration with other programs and advanced 
 
 Version
 -------
-Lubuntu currently ships with 0.13.0 of pcmfanfm-qt. 
+Lubuntu currently ships with 0.14.1 of pcmfanfm-qt. 
 
 How to Launch
 -------------

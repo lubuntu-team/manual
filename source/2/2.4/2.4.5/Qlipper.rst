@@ -16,7 +16,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 5.1.1 of Qlipper. 
+Lubuntu ships with version 5.1.2 of Qlipper. 
 
 How to launch
 -------------

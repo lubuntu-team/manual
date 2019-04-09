@@ -27,7 +27,7 @@ To view how to open recent archives :menuselection:`Archive --> Open Recent`. To
 
 Version
 -------
-Lubuntu ships version 4:18.04.3 of ARK. 
+Lubuntu ships version 4:18.12.3 of ARK. 
 
 Customizing
 -----------

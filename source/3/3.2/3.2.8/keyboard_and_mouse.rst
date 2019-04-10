@@ -25,6 +25,8 @@ The :guilabel:`Keyboard` tab has settings for changing keyboard settings. If you
 
 The :guilabel:`Keyboard Layout` tab has settings to add a new keyboard layout. In the top center of the window is a listing of your current keyboard layout and any varaint applied to it. To add a keyboard layout press the :guilabel:`Add` button. To remove the keyboard layout left click on the keyboard and press the :guilabel:`Remove` button. To move a keyboard layout up or down press the :guilabel:`up` or :guilabel:`down` buttons. To change your keyboard model in choose your keyboard model in the :guilabel:`Keyboard model` drop down. 
 
+The :guilabel:`Mouse and Touchpad` tab has settings for touchpads. To select which device to change settings use the :guilabel:`Device` drop down menu. To change how fast your touchpad accelrates use the :guilabel:`Acceleration speed` field. To revese the scrolling direction check the :guilabel:`Natural Scrolling` checkbox. 
+
 .. image:: keyboardlayout.png
 
 How to launch

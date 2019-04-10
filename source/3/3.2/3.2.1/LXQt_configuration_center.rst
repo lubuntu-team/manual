@@ -11,7 +11,7 @@ Screenshot
 ----------
 .. image:: configuration_center.png
 
-Versioni
+Version
 -------
 Lubuntu ships with version 0.14.1 of LXQt configuration center.
 

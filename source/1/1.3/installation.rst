@@ -49,6 +49,8 @@ User Setup
 ----------
 The user setup section creates a user profile, consisting of your own name and the username you will use to log in. The next input field is the hostname of your computer. The final field is your password. Enter your password twice to make sure you have not mistyped it. Pressing the next button will give you a summary screen, showing you the settings before the install begins. Once you have checked the summary click the install button to begin the installation.
 
+.. image::  user_setup.png
+
 
 The Install
 -----------

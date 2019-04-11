@@ -49,7 +49,7 @@ Pcmanfm-Qt has different view modes which can be changed in the view menu. To se
 To reverse the order that pcmanfm-Qt sorts files :menuselection:`View --> Sorting --> Descending` or conversly to switch back :menuselection:`View --> Sorting -->Ascending.` To sort by file name :menuselection:`View --> Sorting --> By file name`. To sort by modification :menuselection:`View --> Sorting --> By modification time`. To sort by file size :menuselection:`View --> Sorting --> By file size`. To sort by file type :menuselection:`View --> Sorting --> By file type`. To sort by owner :menuselection:`View --> Sorting --> By Owner`. To seperate all folders first in sorting check the checkbox in :menuselection:`View --> Sorting --> Folder First`. To sort with case sensitive check the checkbox in :menuselection:`View --> Sorting --> Case sensitive`.  
 
 To change your path bar to buttons :menuselection:`View --> Pathbar --> Location` and to get 
-back to a pathbar you can type into :menuselection:`View --> Pathbar --> Path Buttons`. To toggle showing the menubar :kbd:`Control +M` or :menuselection:`View --> Toolbars --> Menubar` and uncheck the checkbox.  To get the menubar back press :kbd:`Control +M` again.
+back to a pathbar you can type into :menuselection:`View --> Pathbar --> Path Buttons`. To toggle showing the menubar :kbd:`Control +M` or :menuselection:`View --> Toolbars --> Menubar` and uncheck the checkbox.  To get the menubar back press :kbd:`Control +M` again. To toggle showing or hiding the permant filter bar press :kbd:`Control+B` or :menuselection:`View --> Toolbars --> Permanent filter bar`.
 
 .. image:: pathbar-location.png
 

@@ -8,7 +8,7 @@ PCManFM-Qt (PCMan File Manager) is a file manager application ported to Qt after
 Features:
  - tabs
  - bookmarks
- - places with removable media 
+ - places sidebar with removable media or directory tree
  - Ability to eject removable media and the ability to mount other filesystesms internally.
 
 Useage

@@ -28,6 +28,10 @@ To view the picture entirely at its original size press :menuselection:`View -->
 
 To view the picture as fullscreen press :kbd:`f11` or :menuselection:`View --> Fullscreen`. To have a slideshow of you pictures :menuselection:`View --> Slideshow`. Once you start the slideshow on the toolbar a play pause button will appear on the toolbar. 
 
+Annotations
+------------
+To edit your images with lximage there are several buttons on the right hand side of the toolbar. To draw and arrow press the button that looks like an arrow click once where you want the arrow to start and then drag the direction you want the arrow to point and click it where you want the arrowhead to be. To Draw a hollow rectangle left click on the button with a hollow rectangle and click and drag to the size of the rectangle you want.
+
 Screenshot
 ----------
 .. image:: LXImage.png

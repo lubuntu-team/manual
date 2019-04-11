@@ -13,7 +13,7 @@ If you want to upload a picture to share it online press :menuselection:`Edit --
 
 To use lximage use the arrow to the right to view the next file in the folder and the arrow to the left to view the previous folder. To open an entire directory :menuselection:`File --> Open Directory` or press :kbd:`Control +D`. To save the file as something press :kbd:`Control+Shift+S` or :menuselection:`File --> Save As`. To save  the file with the same file name press :kbd:`Control+S` or :menuselection:`File -->Save`.
 
-If you wish to print a picture after viewing it from the :menuselection:`File --> Pint` or press :kbd:`control+ p` to bring up a print dialog.
+If you wish to print a picture after viewing it from the :menuselection:`File --> Pint` or press :kbd:`control+ p` to bring up a print dialog. To exit the window with a keyboard shortcut press the :kbd:`Escape` key.
 
 
 To rotate an image to the right press the circular arrrow that points to the right, press :kbd:`R`, or go to :menuselection:`Edit --> Rotate Clockwise`. To rotate conterclockwise use the circular arrow pointing to the left, press :kbd:`L`, or :menuselection:`Edit -->Rotate Conterclockwise`. To zoom in on a picture press the icon with a magnifying glass with a + symobol on it, :menuselection:`View --> Zoom In`, or press :kbd:`control + +`. To zoom out press the button of a magnifying glass with a - symbol in it, :menuselection:`View --> Zoom Out` or press :kbd:`control + -`.    

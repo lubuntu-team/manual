@@ -18,7 +18,7 @@ If you wish to print a picture after viewing it from the :menuselection:`File --
 
 To rotate an image to the right press the circular arrrow that points to the right, press :kbd:`R`, or go to :menuselection:`Edit --> Rotate Clockwise`. To rotate conterclockwise use the circular arrow pointing to the left, press :kbd:`L`, or :menuselection:`Edit -->Rotate Conterclockwise`. To zoom in on a picture press the icon with a magnifying glass with a + symobol on it, :menuselection:`View --> Zoom In`, or press :kbd:`control + +`. To zoom out press the button of a magnifying glass with a - symbol in it, :menuselection:`View --> Zoom Out` or press :kbd:`control + -`.    
 
-To flip your image on the vertical axis :menuselection:`Edit --> Flip Vertically`. To flip your image on the horizontal axis :menuselection:`Edit --> Flip Horizonatally`. 
+To flip your image on the vertical axis press :kbd:`V` or :menuselection:`Edit --> Flip Vertically`. To flip your image on the horizontal axis press :kbd:`H` or :menuselection:`Edit --> Flip Horizonatally`. 
 
 To copy an image to the clipboard you can :menuselection:`Copy to Clipboard`. To paste an image to the clipboard :menuselection:`Paste from Clipboard`.  
 

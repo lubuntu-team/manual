@@ -15,7 +15,7 @@ Usage
 
 You can navigate the Software Sources using the tabs.
 
--   Ubuntu Software contains settings involving the downloading of software from Ubuntu repositories. Here you can disable proprietary software and select a download server among other things.
+The :guilabel:`Ubuntu Software` tab contains settings involving the downloading of software from Ubuntu repositories. Here you can disable proprietary software and select a download server among other things. To toggle enabling /disabling the proprietary drivers check/uncheck the :guilabel:`Proprietary drivers for devices(restricted)` checkbox. To toggle enabling/disabling other proprietary software check/uncheck the :guilabel:`Software restricted by copyright or legal issues(multiverse)` checkbox. To change the mirror or where you download 
 -   Other software allows you to add, remove or edit other software sources. Here you can manage remote repositories (PPAs) and CD-ROM repositories.
 -   Updates allows you set which software updates you would like to subscribe to, in this case Security, Recommended, Pre-released (unstable), and Unsupported updates. You can also set how frequently your system will automatically check for updates and what actions it should take, namely notify you, download (without notification), or install updates. You can also specify which releases you would like to be notified of, Normal Releases, Long term releases or Never.
 -   Authentication manages key files which ensure your downloads are not compromised, basically ensuring you are download from a reliable source and your download has not been intercepted.

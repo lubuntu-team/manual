@@ -22,6 +22,8 @@ The :guilabel:`Other software` tab allows you to add, remove or edit other softw
 -   Authentication manages key files which ensure your downloads are not compromised, basically ensuring you are download from a reliable source and your download has not been intercepted.
 -   Submitting statistical data will improve the Ubuntu experience allowing developers to know which software you are downloading anonymously. We urge you to enable this feature but it is disabled by default as Lubuntu has an "Opt-in" philosophy.
 
+To reset changes to software sources press the :guilabel:`Reset` button. When exiting the program and your sources change you will be asked to download new software sources and to do so press the :guilabel:`Reload` button. 
+
 Properitary Drivers
 -------------------
 To install propreitary drivers use the :guilabel:`Additional Drivers` tab. Then press the check box to use the :guilabel:`Using Driver Name` radio button to input the properitary driver for that checkbox. To not use proprietary drivers for something use the :guilabel:`Do not use the device` radio button. To apply theese changes you will need internet access and will need to press the :guilabel:`Apply Changes` button. To revert back to your previous changes use the :guilabel:`Revert` button. 

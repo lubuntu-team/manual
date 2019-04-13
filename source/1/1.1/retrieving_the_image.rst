@@ -1,22 +1,7 @@
 Chapter 1.1 Retrieving the image
 =================================
 
-Before you install Lubuntu, you need to retrieve the correct image. Lubuntu provides support for several different CPU types and architectures, with a new version every six months (supported for nine months), and every two years being a long term support release (supported for three years).
-
-Architectures
--------------
- - amd64 (commonly referred to as 64-bit)
- - i386 (commonly referred to as 32-bit)
-
--------------
-
-amd64
-~~~~~
-The amd64 image will work with most modern processors. The best way to determine if your computer has an amd64 or i386 processor is to boot the image. It's the only way that you will be able to know for sure what architecture your computer is. amd64 computers are backwards compatible with i386 images. You may want to use an i386 image instead if you have an amd64 processor with very low amounts of RAM.
-
-i386
-~~~~
-This is the original 32-bit architecture that will work best on computers with very low amounts of RAM and processing power.
+Before you install Lubuntu, you need to retrieve the correct image. Lubuntu provides supports AMD64 CPU types also known as 64 bit with a new version every six months (supported for nine months), and every two years being a long term support release (supported for three years). If you have a 32 bit processor we unfortaently had to drop support but 18.04 LTS is still supported until 2021 for 32 bit. 
 
 LTS vs. Regular Releases
 ------------------------

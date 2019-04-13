@@ -21,7 +21,6 @@ The :guilabel:`Other software` tab allows you to add, remove or edit other softw
 
 Updates allows you set which software updates you would like to subscribe to, in this case Security, Recommended, Pre-released (unstable), and Unsupported updates. You can also set how frequently your system will automatically check for updates and what actions it should take, namely notify you, download (without notification), or install updates. You can also specify which releases you would like to be notified of, Normal Releases, Long term releases or Never.
 
-
 The :guilabel:`Authentication` tab manages key files which ensure your downloads are not compromised, basically ensuring you are download from a reliable source and your download has not been intercepted. To remove a key you no longer want to have acess to your system press the :guilabel:`Remove` button. To only allow the default keys that ship with lubuntu press the :guilabel:`Restore Defaults` button.
 
 -   Submitting statistical data will improve the Ubuntu experience allowing developers to know which software you are downloading anonymously. We urge you to enable this feature but it is disabled by default as Lubuntu has an "Opt-in" philosophy.

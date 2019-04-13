@@ -13,6 +13,8 @@ Screenshot
 ----------
 .. image:: notifications.png 
 
+.. image:: notifications-advanced.png
+
 Version
 -------
 Lubuntu ships with version 0.14.1 of desktop notifications.

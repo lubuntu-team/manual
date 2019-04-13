@@ -19,9 +19,11 @@ The :guilabel:`Ubuntu Software` tab contains settings involving the downloading 
 
 The :guilabel:`Other software` tab allows you to add, remove or edit other software sources.  Here you can manage remote repositories (PPAs) and CD-ROM repositories.To enable/disable a software source click the checkbox to the left of its name. To remove software from the list left cick the :guilabel:`Remove` button. 
 
- Updates allows you set which software updates you would like to subscribe to, in this case Security, Recommended, Pre-released (unstable), and Unsupported updates. You can also set how frequently your system will automatically check for updates and what actions it should take, namely notify you, download (without notification), or install updates. You can also specify which releases you would like to be notified of, Normal Releases, Long term releases or Never.
+Updates allows you set which software updates you would like to subscribe to, in this case Security, Recommended, Pre-released (unstable), and Unsupported updates. You can also set how frequently your system will automatically check for updates and what actions it should take, namely notify you, download (without notification), or install updates. You can also specify which releases you would like to be notified of, Normal Releases, Long term releases or Never.
 
--  Authentication manages key files which ensure your downloads are not compromised, basically ensuring you are download from a reliable source and your download has not been intercepted.
+
+The :guilabel:`Authentication` tab manages key files which ensure your downloads are not compromised, basically ensuring you are download from a reliable source and your download has not been intercepted. To remove a key you no longer want to have acess to your system press the :guilabel:`Remove` button. To only allow the default keys that ship with lubuntu press the :guilabel:`Restore Defaults` button.
+
 -   Submitting statistical data will improve the Ubuntu experience allowing developers to know which software you are downloading anonymously. We urge you to enable this feature but it is disabled by default as Lubuntu has an "Opt-in" philosophy.
 
 To reset changes to software sources press the :guilabel:`Reset` button. When exiting the program and your sources change you will be asked to download new software sources and to do so press the :guilabel:`Reload` button. 

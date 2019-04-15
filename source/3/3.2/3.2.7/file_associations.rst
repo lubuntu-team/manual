@@ -20,7 +20,7 @@ Screenshot
 
 How to Launch
 -------------
-From the menu :menuselection:`Preferences --> LXQt settings --> file associations` or from the command line run
+From the menu :menuselection:`Preferences --> LXQt settings --> File Associations` or from the command line run
 
 .. code:: 
 

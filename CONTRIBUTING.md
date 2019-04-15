@@ -19,8 +19,7 @@ Before starting, you need a few tools.
   - `texlive-formats-extra`
   - `latexmk`
   - `python3-sphinx-rtd-theme`
- - The following code from git
-  - git clone https://github.com/sphinxcontrib-versioning-ng/sphinxcontrib-versioning
+ 
 
 ## Getting the code
 

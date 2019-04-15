@@ -14,3 +14,5 @@ To find out what version of softare you have you can view the `ubuntu packages w
    apt policy packagename
 
 even if it does not ship with lubuntu by default.
+
+If you want to boot an older kernel for troubleshooting use the advanced options for lubuntu at the grub bootloader screen if shown. If you need to get into this bootloader hold down :kbd:`shift` key at booting and then select the different kernel you want to boot into. To move down to Advanced options press :kbd:`Down Arrow`. To select the advanced options press the :kbd:`Right Arrow` key. 

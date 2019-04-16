@@ -36,4 +36,4 @@ To launch Power Management from the menu :menuselection:`Preferences --> LXQt se
 
     lxqt-config-powermanagement 
 
-from the command line. 
+from the command line. You can launch Power Management from the panel by right clicking on the battery icon and :menuselection:`Configure` button.

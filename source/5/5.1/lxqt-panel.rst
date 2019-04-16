@@ -21,10 +21,12 @@ On a single window to move it to a different desktop right click to desktop to m
 
 The removeable media applet will allow you to manage your remove flash drives and external hard drives and to unmount them without data loss on your system. To unmount such devices left click on the panel that looks like a disk and then click the eject button that is an upward pointing arrow. To view your docked notifications away from keyboard press the button that looks like an exclamation on a chat bubble. To clear these notifications left click the docked notifactions and press :menuselection:`Clear All`.
 
-In the system tray there there are multiple widgets. With the volume applet you can change the volume by using the mouse-wheel with the mouse over the speaker icon left click the speaker icon and drag the volume up and down and toggle mute with the button at the bottom or middle click on the volume applet.  To the far right is a clock, you can left click the clock to bring up a pop up calendar window.  
+In the system tray there there are multiple widgets. With the volume applet you can change the volume by using the mouse-wheel with the mouse over the speaker icon left click the speaker icon and drag the volume up and down and toggle mute with the button at the bottom or middle click on the volume applet.  To the far right is a clock, you can left click the clock to bring up a pop up calendar window.
 
 .. image:: system_tray.png
 
+If you are on a laptop the panel will also show the battery meter to show how much power you have remaining. To view your current charge level mouseover the battery meter and it will show if your battery is charging by mousing over.
+ 
 As mentioned before, the panel is highly configurable and you can customize it by right clicking at various places.
 
 Customizing

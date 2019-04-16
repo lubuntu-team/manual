@@ -10,7 +10,7 @@ To open a new tab go to the :menuselection:`File --> New Tab` or press :kbd:`con
 .. image:: qterminal.png
 
 
-If you get a url in your terminal you can right click :menuselection:`Copy Link Address` to copy the link. To open your link directly press :kbd:`Control + left click`. To zoom in on the terminal press :kbd:`Control + Shift + +` or right click and select :menuselection:`Zoom in`. To zoom out press :kbd:`Control + -` or right click :menuselection:`Zoom out`. To return to the original zoom press :kbd:`Control + 0` or right click :menuselection:`Zoom reset`. If you want qterminal to be fullscreen press :kbd:`F11` or :menuselection:`View --> Fullscreen` to make it fullscreen then :kbd:`F11` or :menuselection:`View --> fullscreen` again to make it back to its original size.
+If you get a url in your terminal you can right click :menuselection:`Copy Link Address` to copy the link. To open your link directly press :kbd:`Control + left click` or right click the link and select :menuselection:`Open Link`. To zoom in on the terminal press :kbd:`Control + Shift + +` or right click and select :menuselection:`Zoom in`. To zoom out press :kbd:`Control + -` or right click :menuselection:`Zoom out`. To return to the original zoom press :kbd:`Control + 0` or right click :menuselection:`Zoom reset`. If you want qterminal to be fullscreen press :kbd:`F11` or :menuselection:`View --> Fullscreen` to make it fullscreen then :kbd:`F11` or :menuselection:`View --> fullscreen` again to make it back to its original size.
 
 To split your terminal vertically into two terminals on top of each other :menuselection:`Actions --> Split Terminal Horizontal`. To have one  split terminal to the left and one to the right :menuselection:`Actions --> Split Terminal Vertically`. To collpase back to how your terminal back to how they were before :menuselection:`Actions --> Collapse Subterminal`. To switch between the two split terminals click on the terminal you want. To switch to a the lower split terminal press :kbd:`Alt + Down` or :menuselection:`Actions --> Bottom Subterminal`. To switch the the top subterminal press :kbd:`Alt + Up` or :menuselection:`Actions --> Top Subterminal`. To switch to the left subterminal press :kbd:`Alt +Left` or :menuselection:`Actions --> Left Subterminal`. To switch to the right subterminal press :kbd:`Alt +Right` or :menuselection:`Actions --> Right Subterminal`.
 
@@ -59,4 +59,4 @@ from the command line. To launch a drop down version of Qterminal from the menu 
 
    qterminal -d 
 
-from the command line.
+from the command line. You can also launch qterminal by pressing the keyboard shortcut :kbd:`Control+Alt+T`.

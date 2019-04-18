@@ -60,31 +60,13 @@ Once the software upgrade has completed, you want to restart your pc. This can b
     sudo reboot
 
 
-The next thing you want to do is do the release upgrade. do-release-upgrade is the command line tool for upgrading Lubuntu installations. To run it, you need root privileges, which, from the command line means prefixing the command with sudo. Upgrades to a new operating system version can sometimes cause problems, so **always backup your files beforehand**. Since Lubuntu 18.10 switches to LXQt from the previous LXDE releases, this upgrade is large and can cause problems. You need to remove the (now unsupported) LXDE packages which clutter your system after the install. Enter the following command into your terminal:
+The next thing you want to do is do the release upgrade. do-release-upgrade is the command line tool for upgrading Lubuntu installations. To run it, you need root privileges, which, from the command line means prefixing the command with sudo. Upgrades to a new operating system version can sometimes cause problems, so **always backup your files beforehand**. 
 
 .. code::
 
     sudo do-release-upgrade
 
-You may be prompted "No new release found", if so follow this step, else skip it.
+You may be prompted "No new release found", if so follow this step, else skip it. Go into software sources and change :guilabel:`Show new distrubtion releases` and select Normal releases.
 
-Since Lubuntu 18.04 was a long term support release, you will have to opt-in to install the regular releases. **It is important that you keep your software up-to-date in these releases as they are more featureful and get regular security updates.** In Software and Updates (Menu -> Preferences -> Software & Updates), on the Updates tab, Notify me of a new Ubuntu version and select **For any new version**. Enter your password to authenticate this choice. The software and updates manager edits the "/etc/update-manager/release-upgrades" file, and sets "Prompt=normal".
+After the installation, reboot into the new 19.04 system. 
 
-Now, update your software and run do-release-upgrade in a terminal, basically starting the process over.
-
-During the release upgrade, several changes will take place. You will be asked to select a display manager, the new default is Simple Desktop Display Manager (SDDM). This will happen in the middle of the install, so don't walk away until after you have done this. The upgrade will remove several more obsolete packages.
-
-After the installation, reboot into the new 18.10 system. You be greeted by a new login screen that is the SDDM display manager and a notification that this is now your first time running LXQt Power Management.
-
-Many of the old applications will not be removed. Newer and often times more featureful, Qt-based applications with the same functionality are installed during the upgrade. Having many unnecessary applications could bloat your system and isn't the true Lubuntu experience, so uninstalling them may be a good idea. The following command will remove unnecessary applications:
-
-
-.. code::
-
-    sudo apt purge leafpad file-roller galculator gpicview xpad xfburn simple-scan mtpaint pidgin sylpheed transmission-gtk abiword evince gnumeric audacious gnome-mpv guvcview pcmanfm gdebi lxterminal hardinfo lightdm lxpanel lxsession obconf gnome-software gnome-disk-utility system-config-printer-gnome lxhotkey-gtk synaptic update-manager lxpolkit lxtask lxshortcut blueman usb-creator-gtk evince-common
-
-To remove uneeded dependencies enter the following command:
-
-.. code::
-
-    sudo apt autoremove

@@ -7,21 +7,6 @@ We are proud to present the highly anticipated release of Lubuntu 18.10! This re
 There are two methods of upgrading Lubuntu releases. The first is using the update manager a graphical user interface. The second involves the command line and is useful for server upgrades. Unfortunately with main Ubuntu dropping 32-bit upgrades, 32-bit upgrades after Lubuntu 18.04 are not supported.
 
 
-18.10 to 19.04 
---------------
-
-The first step will be to ensure your system is up to date. This can be done by entering the following command into the terminal. If prompted, enter your password.
-
-.. code::
-
-    sudo apt update && sudo apt full-upgrade -y
-
-
-To upgrade from 18.10 run the command 
-
-.. code:: 
-
-   sudo do-release-upgrade
 
 
 Upgrading with GUI

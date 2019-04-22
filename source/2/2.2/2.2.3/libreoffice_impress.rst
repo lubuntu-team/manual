@@ -5,13 +5,13 @@ Libreoffice Impress is a program to present presentations.
 
 Features include:
  - in built themes
- - sepll check
+ - spell check
  - pdf export
  - images
 
 Useage
 ------
-When you open libreoffice impress you will get a dialog to select a templete with a preview select which one you want to use by left clicking and then click :guilabel:`open`. To add a title to a slide click where it says click to add title. 
+When you open libreoffice impress you will get a dialog to select a template with a preview select which one you want to use by left clicking and then click :guilabel:`open`. To add a title to a slide click where it says click to add title. 
 
 To open a previous presentation you have been working on press the button that looks like a folder with a piece of paper in it and navigate to the file you want and open it or :menuselection:`File --> Open`. To view your recently opened files press :menuselection:`File --> Recent Documents`. To save your presentation press the button that looks like a floppy disk or :menuselection:`File --> Save`. To save a new copy under a custom file name :menuselection:`File --> Save As`. To save a file as a pdf :menuselection:`File --> Export as PDF`.  
 
@@ -21,7 +21,7 @@ To change the layout of your slide :menuselection:`Slide --> Layout --> Your pre
 
 To apply a bold effects on your fonts select the text with the mouse and then press :kbd:`Control+ B` or :menuselection:`Format --> Text --> Bold`. To make text italic with first select it and then press :kbd:`Control + I` or :menuselection:`Format --> Text --> Italic`. To underline your text select it and then press :kbd:`Control+U` or :menuselection:`Format --> Text --> Underline`. 
 
-To increaase your font size press :kbd:`Control + ]` or :menuselection:`Format --> Text --> Increase Size`. To decrease your font size press :kbd:`Control + [` or :menuselection:`Format --> Text --> Decrease Size`. To make text superscript select it and press :kbd:`Shift + Control +P` or :menuselection:`Format --> Text --> Superscript`. To make text subscript select it and press :kbd:`Shift + Control + B` or :menuselection:`Format --> Text --> Subscript`.
+To increase your font size press :kbd:`Control + ]` or :menuselection:`Format --> Text --> Increase Size`. To decrease your font size press :kbd:`Control + [` or :menuselection:`Format --> Text --> Decrease Size`. To make text superscript select it and press :kbd:`Shift + Control +P` or :menuselection:`Format --> Text --> Superscript`. To make text subscript select it and press :kbd:`Shift + Control + B` or :menuselection:`Format --> Text --> Subscript`.
 
 To spell check your presentation press :kbd:`F7` or :menuselection:`Tools --> Spellcheck`. If you want to print your slides you can press :kbd:`Control + p` or :menuselection:`File --> Print`. To open up your printer settings :menuselection:`File --> Printer Settings`. 
 
@@ -33,7 +33,7 @@ To bring up a dialog to customize the character or your text :menuselection:`For
 
 .. image:: loformatcharacter.png
 
-To format the paragraphs and spacing of text :menuselection:`Format --> Paragraph`. The :guilabel:`Indents & Spacing` Tab has settings for inteting your text and the space between lines. To increase the indent right before the text starts increase the :guilabel:`Before text` field. To change the indentation after your text change the :guilabel:`After text` field. To have a different indent for your first line change the :guilabel:`First Line` filed. To change the amount of space above a paragraph change the :guilabel:`Above paragraph` field. To change the space below a paragraph change the :guilabel:`Below paragraph` field. To change the line spacing from this dialog window select the drop down menu :guilabel:`Line Spacing`. To reset your changes in this window press the :guilabel:`Reset` button. To not apply your changes press the :guilabel:`Cancel` button. To apply your changes and exit the window press the :guilabel:`Ok` button. To change settings on the alignment of text is on the :guilabel:`Alignment` tab. To choose which way you want your text aligned choose the :guilabel:`Left`, :guilabel:`Right`, :guilabel:`Center`, or :guilabel:`Justified`. To switch between left to right or right to lext text switch the :guilabel:`Text direction` menu.   
+To format the paragraphs and spacing of text :menuselection:`Format --> Paragraph`. The :guilabel:`Indents & Spacing` Tab has settings for indenting your text and the space between lines. To increase the indent right before the text starts increase the :guilabel:`Before text` field. To change the indentation after your text change the :guilabel:`After text` field. To have a different indent for your first line change the :guilabel:`First Line` filed. To change the amount of space above a paragraph change the :guilabel:`Above paragraph` field. To change the space below a paragraph change the :guilabel:`Below paragraph` field. To change the line spacing from this dialog window select the drop down menu :guilabel:`Line Spacing`. To reset your changes in this window press the :guilabel:`Reset` button. To not apply your changes press the :guilabel:`Cancel` button. To apply your changes and exit the window press the :guilabel:`Ok` button. To change settings on the alignment of text is on the :guilabel:`Alignment` tab. To choose which way you want your text aligned choose the :guilabel:`Left`, :guilabel:`Right`, :guilabel:`Center`, or :guilabel:`Justified`. To switch between left to right or right to left text switch the :guilabel:`Text direction` menu.   
 
 .. image:: loimpressparagraph.png
 
@@ -42,9 +42,9 @@ To toggle bulleted lists on your points :menuselection:`Format --> Lists --> Bul
 
 To change your line spacing on your presentation :menuselection:`Format --> Spacing --> Line spacing` and select the spacing you want. To increase your spacing between paragraphs :menuselection:`Format --> Spacing --> Increase Paragraph Spacing`. To decrease your spacing between paragraphs :menuselection:`Format --> Spacing --> Decrease Paragraph Spacing`. 
 
-To move settings with a box of text left click on the border of the box of text. To move the text box click and drag on the border. To resize both vertical and horizontal size together left click on the corner and resize the text box. To resize how tall the text box is click the box at the top or bottom and drag to the desired size. To resize the horizontal size only select the box on a veritcal size of the box.
+To move settings with a box of text left click on the border of the box of text. To move the text box click and drag on the border. To resize both vertical and horizontal size together left click on the corner and resize the text box. To resize how tall the text box is click the box at the top or bottom and drag to the desired size. To resize the horizontal size only select the box on a vertical size of the box.
 
-To search for text press :kbd:`Control + F` or :menuselection:`Edit --> Find` to search for text. To find and replaace text press :kbd:`Control + H` or :menuselection:`Edit --> Find and Replace`.
+To search for text press :kbd:`Control + F` or :menuselection:`Edit --> Find` to search for text. To find and replace text press :kbd:`Control + H` or :menuselection:`Edit --> Find and Replace`.
 
 To move a text box around you can left click on the text box and drag it to the desired position. To resize a text box click on the corner and drag to resize to the desired size.
 

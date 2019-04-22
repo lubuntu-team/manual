@@ -7,7 +7,7 @@ Useage
 ------
 To open a recently used file in libreoffice they are shown in the main part of the window. To open a program or to create a file from a file dialog are along the left hand column. 
 
-Libreoffice all of the different components have a window menu that lets you switch between a document in libreoffice writer and libreoffice calc. To do this go to :menuselection:`Window` and sleect the window that you want to switch to. 
+Libreoffice all of the different components have a window menu that lets you switch between a document in libreoffice writer and libreoffice calc. To do this go to :menuselection:`Window` and select the window that you want to switch to. 
 
 Libreoffice if you shutdown without saving your work libreoffice will automatically recover the document. If you do not want to recover a document press the :guilabel:`discard` button. If you want to automatically recover the document press the :guilabel:`start` button.
 

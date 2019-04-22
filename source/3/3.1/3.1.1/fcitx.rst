@@ -7,7 +7,7 @@ Version
 -------
  Lubuntu ships with version 1:4.2.9.6-5 of Fcitx. 
 
-Useage
+Usage
 ------
 To use a virtual keyboard right click on the tray icon in the system tray that looks like a keyboard and toggle virtual keyboard. 
 
@@ -22,7 +22,7 @@ Screenshot
 
 .. image:: fcitx.png
 
-How to launch
+Hoiw to launch
 -------------
 To launch the fcitx applet from the menu :menuselection:`System tools --> Fcitx` with icon with a penguin with a paintbrush. If you wish to run the applet from the command line run 
 

@@ -13,7 +13,7 @@ Lubuntu Ships with version 0.7-0 of trojita.
 
 Useage
 ------
-To use trojita you will need to input your account information. You will need to type in your name so people know what call you and the email address so trojita needs to know what address to get information from. The :guilabel:`Imap` tab haas settings for how to get messages to your machine. The :guilabel:`Encryption` method tells what kind of encrpytion to use when accessing your mail as needed for your mail provider. The :guilabel:`Server` field is where you input what server to get your email from. The :guilabel:`Port` tells trojita which network port to access the server on. The :guilabel:`Username` tells trojita which username to send to the email server.  
+To use trojita you will need to input your account information. You will need to type in your name so people know what call you and the email address so trojita needs to know what address to get information from. The :guilabel:`Imap` tab has settings for how to get messages to your machine. The :guilabel:`Encryption` method tells what kind of encryption to use when accessing your mail as needed for your mail provider. The :guilabel:`Server` field is where you input what server to get your email from. The :guilabel:`Port` tells trojita which network port to access the server on. The :guilabel:`Username` tells trojita which username to send to the email server.  
 
 After entering this in you will be asked to check the certificate for your server and will need to select the :guilabel:`yes` for the first time. If you did not insert your password to be stored on your computer a dialog box will popup and you will need to input it.
 
@@ -21,17 +21,17 @@ After you have set everything up a set of folders will appear on the left hand s
 
 To send an email to someone press :kbd:`Control +N` or :menuselection:`Imap --> Compose Mail --> New Message`. Then you will bring up a compose mail window. Type the email address of the person you want to type the address where it says :guilabel:`To`. Put the subject of your message in the :guilabel:`Subject` line. In the main part of the message called the body is where you will add most of your message. If you want to attach a file to your email press the button with the paperclip on it that says :guilabel:`Attach`. To send your message press the :guilabel:`Send` button. To save a draft of your message press the :guilabel:`Cancel` button and then press the :guilabel:`Save` button to actually save the draft. If you don't want to save a message press the :guilabel:`Cancel` button and then press the :guilabel:`Discard` button. To repopen a saved draft of a message :menuselection:`Imap --> Compose Mail --> Edit Draft...`.
 
-To view your messages on trojita to see new messages you have recieved in your inbox left click on the word :guilabel:`Inbox`. In the center of the window will show a list of all messages in your inbox. Unread messages will appear in bold. To view a message left click on the title and subject of the window and it will appear at the bottom. If you want to open this email in a popup window of its own double click the message title. If you recieve an email with an attachment a paperclip will appear on the message and click that to download the attachment or open it directly. To switch from text to html view click the :guilabel:`HTML` tab. To switch back to text click on the :guilabel:`Text` tab.
+To view your messages on trojita to see new messages you have received in your inbox left click on the word :guilabel:`Inbox`. In the center of the window will show a list of all messages in your inbox. Unread messages will appear in bold. To view a message left click on the title and subject of the window and it will appear at the bottom. If you want to open this email in a popup window of its own double click the message title. If you receive an email with an attachment a paperclip will appear on the message and click that to download the attachment or open it directly. To switch from text to html view click the :guilabel:`HTML` tab. To switch back to text click on the :guilabel:`Text` tab.
 
 Your different folders are on a sidebar on the left hand side of trojita. To switch to another folder such as sent mail to view your sent messages left click on the :guilabel:`Sent Mail` folder in this case. To switch to the drafts folder left click where it says :guilabel:`Drafts`.
 
-To move to the next unread message press the :kbd:`n` key or to move to the previous message press the :kbd:`p` key. To manually toggle makring a message as read press the :kbd:`m` key.
+To move to the next unread message press the :kbd:`n` key or to move to the previous message press the :kbd:`p` key. To manually toggle marking a message as read press the :kbd:`m` key.
 
 To reply to a message to just the person that sent it press :kbd:`Control + Shift +A` or :menuselection:`IMAP --> Private Reply`. To forward an email to someone else press :kbd:`Control +Shift+F` or :menuselection:`Imap --> Forward`.  
 
 .. image:: trojita.png
 
-In the center of the window there are several different columns that show you information about each different email you have recieved. The :guilabel:`Subject` line shows you a subject that should tell you what each message is about. The :guilabel:`From` column shows who is sending you this email. The :guilabel:`Date` Coloumn show when the email was sent to you. The :guilabel:`Size` column shows you how much space the email takes up on your account on the email server. To see if there is an attachment to a message a column has what looks like a paperclip and it has a paerclip in it if that email has an attachment.
+In the center of the window there are several different columns that show you information about each different email you have received. The :guilabel:`Subject` line shows you a subject that should tell you what each message is about. The :guilabel:`From` column shows who is sending you this email. The :guilabel:`Date` Column show when the email was sent to you. The :guilabel:`Size` column shows you how much space the email takes up on your account on the email server. To see if there is an attachment to a message a column has what looks like a paperclip and it has a paperclip in it if that email has an attachment.
 
 When writing a reply message a window will pop up to write your message in. To send the message press the :guilabel:`Send` button. If you change your mind about sending this message press the :guilabel:`Cancel`. 
 
@@ -45,7 +45,7 @@ To take trojita into an offline mode where it will not try to access the interne
 
 How to launch
 --------------
-To launch trojita from the menu :menuselection:`Internet --> Trojita` with the icon that looks like an envolope or run
+To launch trojita from the menu :menuselection:`Internet --> Trojita` with the icon that looks like an envelope or run
 
 .. code::
 

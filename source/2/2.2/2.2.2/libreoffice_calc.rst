@@ -9,17 +9,17 @@ To move between cells press the arrow keys. To enter data into cells type in the
 
 .. image:: libreoffice_calc.png
 
-To save your spreadsheet you need to press the button that looks like a floppy disk, press the keyboard shortcut or go to :menuselection:`file --> save`. To save with a different file name :menuselection:`File --> Save as`. To open a file press the button that looks like a brown folder and add selct the file you want from the dialog or :menuselection:`File --> Open`. To open a recent document :menuselection:`File --> Recent Documents`.
+To save your spreadsheet you need to press the button that looks like a floppy disk, press the keyboard shortcut or go to :menuselection:`file --> save`. To save with a different file name :menuselection:`File --> Save as`. To open a file press the button that looks like a brown folder and add select the file you want from the dialog or :menuselection:`File --> Open`. To open a recent document :menuselection:`File --> Recent Documents`.
 
-To copy data you can right click copy, press the button with two pieces of paper or press :kbd:`control + c`. To paste data press control :kbd:`control +v`, :menuselection:`edit -->  paste`, right click paste or press the botton that is a clipboard with a piece of paper on it. To cut text press :kbd:`control+x` or press the scissors button to cut text. If you want to paste your text unformatted press :kbd:`Control+Shift + Alt+V` or :menuselection:`Edit --> Paste Unformatted Text`.
+To copy data you can right click copy, press the button with two pieces of paper or press :kbd:`control + c`. To paste data press control :kbd:`control +v`, :menuselection:`edit -->  paste`, right click paste or press the button that is a clipboard with a piece of paper on it. To cut text press :kbd:`control+x` or press the scissors button to cut text. If you want to paste your text unformatted press :kbd:`Control+Shift + Alt+V` or :menuselection:`Edit --> Paste Unformatted Text`.
 
-To insert an image press :menuselection:`Insert --> Image`. To get to the dialog of how to insert a chart :menuselection:`Insert --> Chart`. The the first selection is to choose a column, bar, Pie, Area, Line, XY(Scatter), Bubble, Net, Stock, or Column and Line chart. To change the subtype of graph click the pciture of a chart that looks like the type you want.
+To insert an image press :menuselection:`Insert --> Image`. To get to the dialog of how to insert a chart :menuselection:`Insert --> Chart`. The first selection is to choose a column, bar, Pie, Area, Line, XY(Scatter), Bubble, Net, Stock, or Column and Line chart. To change the subtype of graph click the pciture of a chart that looks like the type you want.
 
 .. image:: chartwindow.png
 
-If you want to insert a new column to the left of a column right click on the letter for the column Insert column left. If you want the new column to the right is right click on the letter and insert column right. If you want to delete a column right click on the letter and delete column. To insert a row above the current row right click on the number and insert row above. To insert a row below the current row right click on the number and insert row below. To delte a row right click the number delete rows.  
+If you want to insert a new column to the left of a column right click on the letter for the column Insert column left. If you want the new column to the right is right click on the letter and insert column right. If you want to delete a column right click on the letter and delete column. To insert a row above the current row right click on the number and insert row above. To insert a row below the current row right click on the number and insert row below. To delete a row right click the number  and select :menuselection:`Delete rows`.  
 
-To change the size of a  row or colum of cells click in between the border of that particular row or column and drag with the mouse to give yourself room. 
+To change the size of a row or column of cells click in between the border of that particular row or column and drag with the mouse to give yourself room. 
 
 To sort your data like a bunch of names first select all the cells with the mouse :menuselection:`Data --> Sort Ascending`. If you want the reverse order to this you can have :menuselection:`Data --> Sort Descending`.  
 
@@ -38,7 +38,7 @@ Version
 -------
 Lubuntu ships with version  6.2.2.2 of libreoffice Calc. 
 
-How to launch
+How toi launch
 -------------
 To launch libreoffice calc in the menu go to :menuselection:`Office --> Libreoffice Calc` or run 
 

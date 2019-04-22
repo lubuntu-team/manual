@@ -3,7 +3,7 @@ Chapter 2.3.2 Screenshot
 
 Screenshot is a program to take screenshots.
 
-Useage
+Usage
 ------
 To use screenshot the whole screen takes a screenshot of your :guilabel:`Whole screen`, :guilabel:`Current Window Only` takes only the current window, and :guilabel:`Capture an area of the screen` lets you select an area interacetively. To start the interactive area left click and then drag the mouse in a rectangle to select the area you want to take a screenshot. There is also a :guilabel:`Delay` for the screenshot you can set like a timer for a camera in the bottom right corner of the screen. Using Delay can be useful to take pictures of menus if you are trying to capture them.
 

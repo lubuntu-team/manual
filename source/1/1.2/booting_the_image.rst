@@ -1,4 +1,4 @@
-Chapter 1.2 Booting the image
+Chapter 1.2 Booting the Image
 ==============================
 
 Now that you have the ISO file, you need to put the image on a media device and boot the image for installation.
@@ -15,7 +15,7 @@ downloaded:
  - a USB drive (2 GB or greater)
 
 
-Writing/burning the image
+Writing/burning the Image
 -------------------------
 Here are some common tools to burn images onto DVDs:
  - `Brasero <https://wiki.gnome.org/Apps/Brasero/>`_
@@ -40,7 +40,7 @@ has several guides on this:
  - `How to create a bootable USB stick on macOS <http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-mac-osx>`_
 
 
-Booting the image
+Booting the Image
 -----------------
 With your media inserted, reboot your computer. Depending on your hardware configuration, it may boot into the image right away, or you might need to press a key at startup for boot options. This varies but looking for documentation specific to your hardware will likely provide the answer.
 

@@ -8,7 +8,7 @@ Version
 -------
 Lubuntu ships with 0.14.1 of Desktop.
 
-Useage
+Usage
 ------
 To change the desktop background you can either type the path of the file you can type in Wallpaper image file or use the :guilabel:`Browse` to bring up a dialog to choose which the desktop. The drop down of :guilabel:`Wallpaper mode` lets you change how the image you select for a wallpaper changes. If you want an image to have multiple copies of a smaller image select tile image from the drop down. If you do not want an image and just a solid color select fill with background color only. To change the background color if you select that press the button to the right of :guilabel:`Select background color`. 
 
@@ -19,7 +19,7 @@ The box labeled :guilabel:`Select font` lets you choose which font and size info
 
 The tab :guilabel:`Slide Show` shows settings for slide show of changing your wallpaper automatically like a slide show. The checkbox :guilabel:`Enable Slide Show` enables the slide show that auto changes your wallpaper. The field :guilabel:`Wallpaper image folder` changes the path to find the different pictures for the slideshow or to find a folder press the :guilabel:`Browse` button.  To change how long it takes for the slideshow of the desktop background to change change the fields in :guilabel:`Interval` for changing how fast the slideshow changes. To randomize the order in which the pictures change check/uncheck the :guilabel:`Randomize the slide show` checkbox. 
 
-The tab :guilabel:`Advanced` has settings for automatic desktop icons or included or to show openbox menus on click the desktop. To show or hide any of the desktop icons check/ucheckbox for: :guilabel:`Home`, :guilabel:`Trash`, :guilabel:`Computer`, or :guilabel:`Network`. To show the openbox window manager menus by right clicking on the desktop check the :guilabel:`Show menus provided by window managers when desktop is clicked`.
+The tab :guilabel:`Advanced` has settings for automatic desktop icons or included or to show openbox menus on click the desktop. To show or hide any of the desktop icons check/uncheck the checkboxes for: :guilabel:`Home`, :guilabel:`Trash`, :guilabel:`Computer`, or :guilabel:`Network`. To show the openbox window manager menus by right clicking on the desktop check the :guilabel:`Show menus provided by window managers when desktop is clicked`.
 
 Screenshot
 ----------
@@ -27,7 +27,7 @@ Screenshot
 
 How to launch
 -------------
-To launch desktop from the menu :menuselection:`Preferences --> LXQt settings --> Desktop`. Or from LXQt configuration center press the desktop button to launch it or run
+To launch Desktop from the menu :menuselection:`Preferences --> LXQt settings --> Desktop`. Or from LXQt configuration center press the desktop button to launch it or run
 
 .. code:: 
 

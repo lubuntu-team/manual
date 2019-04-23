@@ -1,9 +1,9 @@
 Chapter 3.2.4 Date and Time
 ===========================
 
-Date and time is a program that lets you change your timezone toggle wheter to get the time automatically and change the date if you are not connected to a network.
+Date and time is a program that lets you change your timezone toggle whether to get the time automatically and change the date if you are not connected to a network.
 
-Useage
+Usage
 ------
  The tab for :guilabel:`Date and time` sets what time it is and settings for synchronize it via the network. If you want to toggle synchronizing the time of network check/uncheck  the :guilabel:`Enable network time synchronization(NTP)` check. To change the timezone of your computer left click the :guilabel:`Timezone` tab and select your time zone from the long list. The checkbox for :guilabel:`RTC is in local time` is for the real time clock on your motherboard being in local time rather than UTC.
 

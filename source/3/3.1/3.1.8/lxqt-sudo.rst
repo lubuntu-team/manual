@@ -1,9 +1,9 @@
 Chapter 3.1.8 LXQt sudo
 =======================
 
-LXQt-sudo is a way to launch graphical applications with adminsitrative privileges.
+LXQt-sudo is a way to launch graphical applications with administrative privileges.
 
-Useage
+Usage
 ------
 LXQt-sudo is used to open graphical programs as an administrator. 
 
@@ -11,7 +11,7 @@ LXQt-sudo is used to open graphical programs as an administrator.
 
  Modifying the wrong system configuration files with adminstrator privileges could make your system unable to boot or for you to be unable to login.
 
-To use lxqt-sudo is important to not change your config files as if you did with sudo. You will need adminstrative privileges to edit config files but make sure you know what you are doing. To actually use lXQt sudo you will need to type your password into the :guilabel:`Password` field and then press the :guilabel:`OK` button.
+To use lxqt-sudo is important to not change your config files as if you did with sudo. You will need administrative privileges to edit config files but make sure you know what you are doing. To actually use lXQt sudo you will need to type your password into the :guilabel:`Password` field and then press the :guilabel:`OK` button.
 
 Version
 -------

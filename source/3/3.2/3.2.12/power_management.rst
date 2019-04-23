@@ -3,12 +3,12 @@ Chapter 3.2.12 Power Management
 
 Power management manages what to do on laptop batteries when the power is low what happens when your lid to a laptop is closed and what to do when your computer is idle for long periods.
 
-Useage
+Usage
 ------
 LXQt power management watches your battery, laptop lid, and idleness on the screen. Each one of the checkbox is to battery laptop lid and idleness is a checkbox to enable or disable each.
 
 
-The :guilabel:`Battery` tab has settings for monitoring your battery power level and some settings. On a laptop power management should show a + with a ring around it represeneting your current battery charge on your laptop when it is charging with a full green circle meaning you are fully charged in the system tray. If your battery is discharging you will see a - sybmol at the center of the circle. If you hover the mouse cursor over this it will show the percent of charge as a percentage and whether the battery is charging or discharging. When your battery is fully charged it will turn into a black circle. 
+The :guilabel:`Battery` tab has settings for monitoring your battery power level and some settings. On a laptop power management should show a + with a ring around it representing your current battery charge on your laptop when it is charging with a full green circle meaning you are fully charged in the system tray. If your battery is discharging you will see a - symbol at the center of the circle. If you hover the mouse cursor over this it will show the percent of charge as a percentage and whether the battery is charging or discharging. When your battery is fully charged it will turn into a black circle. 
 
 The field :guilabel:`Enable Batter Watcher` Watches the battery on your system. The field :guilabel:`When Power is low then:` lets you choose what to do when your batter is low. The :guilabel:`Warning` field provides a duration to show a warning for low power. To change the level for low level of battery change the :guilabel:`Level is low at` field. The checkbox :guilabel:`Use icons from theme` changes the appearance of your battery to be the battery icon from your icon theme.                                                            
 

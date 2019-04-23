@@ -1,9 +1,9 @@
 Chapter 3.2.1 LXQt Configuration Center
 =======================================
 
-LXQt configuration center is an application with buttons that launches configuration options for lxqt the default desktop environment of Lubuntu. 
+LXQt configuration center is an application with buttons that launches configuration options for LXQt the default desktop environment of Lubuntu. 
 
-Useage
+Usage
 ------
 LXQt configuration center lets you launch many different applications in this chapter from a simple control center where you can double click on the icon for that program. To close one of the programs here you have launched you can close it by pressing :kbd:`Escape`. Another way to select programs is move the currently selected item with the arrow keys on your keyboard and you can launch a program by pressing :kbd:`Enter`.
 

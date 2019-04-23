@@ -1,16 +1,16 @@
 Chapter 3.2.2 Appearance
 ========================
 
-Appearnce is a program that changes the theming of lxqt for a different visual look.
+Appearance is a program that changes the theming of LXQt for a different visual look.
 
 
 Version
 -------
 Lubuntu ships with version 0.14.1 of appearance. 
 
-Useage
+Usage
 ------
-The tab :guilabel:`Widget Style` changes the way windows, buttons, and menus are drawn. To change the useage Qt widget will change the buttons and tooblbars look on lubuntu in Qt applications. Check the checkbox :guilabel:`Set GTk themes` settings will apply native themes to GTk applications. The field for :guilabel:`GTK 2 Theme` will select a theme for GTK2 applications. The :guilabel:`GTK 3 Theme` field sets the theme with GTK3 applications. The checkbox :guilabel:`Activate on single click` has makes things you normally need two clicks for one click.  
+The tab :guilabel:`Widget Style` changes the way windows, buttons, and menus are drawn. To change the usage Qt widget will change the buttons and tooblbars look on lubuntu in Qt applications. Check the checkbox :guilabel:`Set GTk themes` settings will apply native themes to GTk applications. The field for :guilabel:`GTK 2 Theme` will select a theme for GTK2 applications. The :guilabel:`GTK 3 Theme` field sets the theme with GTK3 applications. The checkbox :guilabel:`Activate on single click` has makes things you normally need two clicks for one click.  
 
 
  .. image:: appearance.png
@@ -26,14 +26,14 @@ The :guilabel:`Font` tab has settings for fonts. To change the font size that de
 
 .. image:: appearance-font.png
 
-The :guilabel:`Cursor` tab has one option to change cursor theme lets you change how the cursor looks with two themes installed by default but more available in the package repositories. To see a preview of the cursor theme it is above all the cursor theme on above the list of themes and moving the cursor turns it into that preivew one of cursor to see things spin for example. 
+The :guilabel:`Cursor` tab has one option to change cursor theme lets you change how the cursor looks with two themes installed by default but more available in the package repositories. To see a preview of the cursor theme it is above all the cursor theme on above the list of themes and moving the cursor turns it into that preview one of cursor to see things spin for example. 
 
 If you want to reset your changes you will need to click the :guilabel:`Reset` button to revert your changes to how they were before.
 
 
 How to launch
 -------------
-To launch appearnce in the menu :menuselection:`Preferences --> LXQt settings --> Appearance`. Another way is to press the Appearance button from LXQt configuration center or run
+To launch appearance in the menu :menuselection:`Preferences --> LXQt settings --> Appearance`. Another way is to press the Appearance button from LXQt configuration center or run
 
 .. code:: 
 

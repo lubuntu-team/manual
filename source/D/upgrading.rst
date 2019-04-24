@@ -2,7 +2,7 @@
 Appendix D Upgrading from previous releases
 ********************************************
 
-We are proud to present the highly anticipated release of Lubuntu 18.10! This release comes with many changes, which will probably be overshadowed by the move to the LXQt desktop environment. Naturally, an extremely large change like this can cause problems, so **we strongly recommend you back up your files**. Also, if your computer is one that runs on a battery (such as a laptop), please ensure that the power is connected, as it may take a while and unexpected power failures could be disasterous.
+We are proud to present the highly anticipated release of Lubuntu 18.10! This release comes with many changes, which will probably be overshadowed by the move to the LXQt desktop environment. Naturally, an extremely large change like this can cause problems, so **we strongly recommend you back up your files**. Also, if your computer is one that runs on a battery (such as a laptop), please ensure that the power is connected, as it may take a while and unexpected power failures could be disastrous.
 
 There are two methods of upgrading Lubuntu releases. The first is using the update manager a graphical user interface. The second involves the command line and is useful for server upgrades. Unfortunately with main Ubuntu dropping 32-bit upgrades, 32-bit upgrades after Lubuntu 18.04 are not supported.
 
@@ -22,7 +22,7 @@ First, ensure your system is up-to-date by starting Software Updater and perform
 Since 18.10 is not an LTS (Long Term Support) release, you may have to opt in for non LTS versions of Lubuntu.
     - Select the Updates -> Notify me of a new Ubuntu version -> For any new version, from Software and Updates.
     - Close the update manager, and you should be prompted to upgrade to the latest release.
-    - Alternatively, you can start a terminal (Ctrl + Alt + T) and type in the command
+    - Alternatively, you can start a terminal :kbd:`Ctorol + Alt + T` and type in the command
      
 .. code::
 

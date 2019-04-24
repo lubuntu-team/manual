@@ -11,7 +11,7 @@ Usage
 ------
 To use a virtual keyboard right click on the tray icon in the system tray that looks like a keyboard and toggle virtual keyboard. 
 
-To switch your keyboard method with the applet is to left click on the applet :menuselection:`Input Mehtod --> Desired keyboard layout`. 
+To switch your keyboard method with the applet is to left click on the applet :menuselection:`Input Method --> Desired keyboard layout`. 
 
 To bring up a configuration dialog for input method right click on the panel applet and :menuselection:`Configure current input method`. 
 
@@ -22,7 +22,7 @@ Screenshot
 
 .. image:: fcitx.png
 
-Hoiw to launch
+How to launch
 -------------
 To launch the fcitx applet from the menu :menuselection:`System tools --> Fcitx` with icon with a penguin with a paintbrush. If you wish to run the applet from the command line run 
 

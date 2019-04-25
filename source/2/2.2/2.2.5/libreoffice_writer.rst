@@ -57,6 +57,8 @@ To Insert a page number :menuselection:`Insert --> Field --> Page number`. To in
 
 To have a header shown at the top of each page :menuselection:`Insert --> Header and footer --> Header --> Default style`. To have a footer at the bottom of each page :menuselection:`Insert--> Header and footer --> Footer --> Deafault style`. To get back to writing the main part of the document left click on the body of the document.  
 
+To add a comment inline into the document press :kbd:`Control+Alt+C` or right click and select :menuselection:`Comment`. Type your comment in the yellow box to the right to leave a note on that comment. To leave a reply to this comment press the downward pointing arrow :menuselection:`Reply`.
+
 To insert a mathematical formula into your document you are process :menuselection:`Insert --> Object --> Formula` and a user interface similar to libreoffice math will appear allowing you to insert the formula.
 
 To select all text in the document press :kbd:`control + A` or :menuselection:`Edit --> Select All`. 

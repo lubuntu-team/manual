@@ -13,6 +13,8 @@ To save your spreadsheet you need to press the button that looks like a floppy d
 
 To copy data you can right click copy, press the button with two pieces of paper or press :kbd:`control + c`. To paste data press control :kbd:`control +v`, :menuselection:`edit -->  paste`, right click paste or press the button that is a clipboard with a piece of paper on it. To cut text press :kbd:`control+x` or press the scissors button to cut text. If you want to paste your text unformatted press :kbd:`Control+Shift + Alt+V` or :menuselection:`Edit --> Paste Unformatted Text`.
 
+To change to showing currency for the number press :kbd:`Control+Shift+4` or :menuselection:`Format --> Number Format --> Currency`. 
+
 To insert an image press :menuselection:`Insert --> Image`. To get to the dialog of how to insert a chart :menuselection:`Insert --> Chart`. The first selection is to choose a column, bar, Pie, Area, Line, XY(Scatter), Bubble, Net, Stock, or Column and Line chart. To change the subtype of graph click the pciture of a chart that looks like the type you want.
 
 .. image:: chartwindow.png
@@ -31,6 +33,7 @@ To zoom to view a full page on your spreadsheet in the menu :menuselection:`View
 To select all cells in your spreadsheet press :kbd:`Control+A`. To select an entire column press :kbd:`Control+Space` or :menuselection:`Edit --> Select --> Select Column`. To select an entire row press :kbd:`Shift +Space` or :menuselection:`Edit --> Select --> Select Row`.
 
 To createa a new spreadsheet in the same file press the button on the bottom that looks like a :guilabel:`+` or :menuselection:`Sheet --> Insert Sheet`. To switch between each sheet perss the button on each sheet at the bottom near the button to add a new sheet.
+
 
 To insert a special character not on your keyboard :menuselection:`Insert --> Special Character`. 
 

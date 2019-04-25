@@ -13,7 +13,7 @@ To save your spreadsheet you need to press the button that looks like a floppy d
 
 To copy data you can right click copy, press the button with two pieces of paper or press :kbd:`control + c`. To paste data press control :kbd:`control +v`, :menuselection:`edit -->  paste`, right click paste or press the button that is a clipboard with a piece of paper on it. To cut text press :kbd:`control+x` or press the scissors button to cut text. If you want to paste your text unformatted press :kbd:`Control+Shift + Alt+V` or :menuselection:`Edit --> Paste Unformatted Text`.
 
-To change to showing currency for the number press :kbd:`Control+Shift+4` or :menuselection:`Format --> Number Format --> Currency`. 
+To change to showing currency for the number press :kbd:`Control+Shift+4` or :menuselection:`Format --> Number Format --> Currency`. To change to percentage press :kbd:`Control+Shift+5` or :menuselection:`Format --> Number Format --> Percentage`. 
 
 To insert an image press :menuselection:`Insert --> Image`. To get to the dialog of how to insert a chart :menuselection:`Insert --> Chart`. The first selection is to choose a column, bar, Pie, Area, Line, XY(Scatter), Bubble, Net, Stock, or Column and Line chart. To change the subtype of graph click the pciture of a chart that looks like the type you want.
 

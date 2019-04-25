@@ -17,7 +17,7 @@ To open a previous presentation you have been working on press the button that l
 
 To type text into a presentation click in one of the boxes for your theme and type in the text with controls for the text on the right hand side. To insert a picture press the button with what looks like a photograph of a tree and select the file you want to insert or :menuselection:`Insert --> Image...`. To insert audio or video to your presentation :menuselection:`Insert --> Audio or video`.
 
-To change the layout of your slide :menuselection:`Slide --> Layout --> Your prefred layout`.
+To change the layout of your slide :menuselection:`Slide --> Layout --> Your prefred layout`. To set an image as the background of your slide :menuselection:`Slide --> Set Background Image`.
 
 To apply a bold effects on your fonts select the text with the mouse and then press :kbd:`Control+ B` or :menuselection:`Format --> Text --> Bold`. To make text italic with first select it and then press :kbd:`Control + I` or :menuselection:`Format --> Text --> Italic`. To underline your text select it and then press :kbd:`Control+U` or :menuselection:`Format --> Text --> Underline`. 
 

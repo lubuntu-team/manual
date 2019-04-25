@@ -9,7 +9,7 @@ To move between cells press the arrow keys. To enter data into cells type in the
 
 .. image:: libreoffice_calc.png
 
-To save your spreadsheet you need to press the button that looks like a floppy disk, press the keyboard shortcut or go to :menuselection:`file --> save`. To save with a different file name :menuselection:`File --> Save as`. To open a file press the button that looks like a brown folder and add select the file you want from the dialog or :menuselection:`File --> Open`. To open a recent document :menuselection:`File --> Recent Documents`.
+To save your spreadsheet you need to press the button that looks like a floppy disk, press the keyboard shortcut or go to :menuselection:`File --> Save`. To save with a different file name :menuselection:`File --> Save as`. To open a file press the button that looks like a brown folder and add select the file you want from the dialog or :menuselection:`File --> Open`. To open a recent document :menuselection:`File --> Recent Documents`.
 
 To copy data you can right click copy, press the button with two pieces of paper or press :kbd:`control + c`. To paste data press control :kbd:`control +v`, :menuselection:`edit -->  paste`, right click paste or press the button that is a clipboard with a piece of paper on it. To cut text press :kbd:`control+x` or press the scissors button to cut text. If you want to paste your text unformatted press :kbd:`Control+Shift + Alt+V` or :menuselection:`Edit --> Paste Unformatted Text`.
 

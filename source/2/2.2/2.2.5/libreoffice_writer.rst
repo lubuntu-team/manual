@@ -61,7 +61,7 @@ To add a comment inline into the document press :kbd:`Control+Alt+C` or right cl
 
 To insert a mathematical formula into your document you are process :menuselection:`Insert --> Object --> Formula` and a user interface similar to libreoffice math will appear allowing you to insert the formula.
 
-To select all text in the document press :kbd:`control + A` or :menuselection:`Edit --> Select All`. 
+To select all text in the document press :kbd:`control + A` or :menuselection:`Edit --> Select All`. To jump to a specific page press :kbd:`Control + G` or :menuselection:`Edit --> Go to Page` and a dialog will pop up. To enter a page number in the :guilabel:`Page` field and prclick :guilabel:`OK` to go to that page.
 
 To search for text in your document press :kbd:`Control +F` or :menuselection:`Edit --> Find` which pops up a toolbar on the bottom. To enter the text to search enter into the searchbar on the bottom. To go to the next result press the downward pointed arrow button. To go to the previous result press the upward pointing arrow button. To close out of finding text press red circle with the white x inside it. To not match case uncheck the :guilabel:`Match Case` checkbox. 
 

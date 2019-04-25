@@ -41,7 +41,7 @@ To do this the easiest way is the command line is to run for 64 bit lubuntu 19.0
 
  sha256sum lubuntu-19.04-desktop-amd64.iso 
 
-and then carefully check that the output matches e13b541ec4b33ce67ff4206db407250d7c5eb02c90f16a463e65aaa1ddc97f63 *lubuntu-19.04-desktop-amd64.iso
+and then carefully check that the output matches e13b541ec4b33ce67ff4206db407250d7c5eb02c90f16a463e65aaa1ddc97f63 \*lubuntu-19.04-desktop-amd64.iso
 
 Downloading the image via BitTorrent
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

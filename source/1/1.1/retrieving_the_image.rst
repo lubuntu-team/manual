@@ -27,7 +27,7 @@ An easy download page which lists the HTTP and BitTorrent downloads is available
 
 Below you can find more detailed notes on each download method.
 
-Downloading the image via iHTTP
+Downloading the image via HTTP
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 *We don't recommend using this method as it's often slower, more error prone, and less efficient than the other methods.*
 
@@ -43,7 +43,7 @@ To do this the easiest way is the command line is to run for 64 bit lubuntu 19.0
 
 and then carefully check that the output matches e13b541ec4b33ce67ff4206db407250d7c5eb02c90f16a463e65aaa1ddc97f63 *lubuntu-19.04-desktop-amd64.iso
 
-Downloading the image via BiitTorrent
+Downloading the image via BitTorrent
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Instead of downloading the image from one server, you can "torrent" the image, or download it from multiple sources instead of just one. This is often faster and saves the bandwidth of the Ubuntu cdimage servers. If you would like to learn more about BitTorrent, take a look at `the Wikipedia page on the subject <https://en.wikipedia.org/wiki/BitTorrent>`_.
 
@@ -54,7 +54,7 @@ The BitTorrent links can be found on our Downloads page or cdimage.ubuntu.com, b
 After you have downloaded the link you need, open it in your BitTorrent client. This will download the image. After this is done, we recommend that you leave your BitTorrent client open so you can seed this image for other people, which helps reduce bandwidth costs even further by decentralizing the download location for other users.
 
 
-Downloading the image via zsiync
+Downloading the image via zsync
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 zsync is a convenient application that will automatically verify the checksum of the image once downloaded. The Lubuntu team uses this to download daily images as it will seamlessly download the delta or difference since the last image was spun.
 

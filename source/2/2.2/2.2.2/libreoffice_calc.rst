@@ -15,6 +15,8 @@ To copy data you can right click copy, press the button with two pieces of paper
 
 To change to showing currency for the number press :kbd:`Control+Shift+4` or :menuselection:`Format --> Number Format --> Currency`. To change to percentage press :kbd:`Control+Shift+5` or :menuselection:`Format --> Number Format --> Percentage`. To switch back to a normal number press :kbd:`Control+Shift+1` or :menuselection:`Format --> Number Format --> Number`. 
 
+To view values highlighted in another color to see them easier press :kbd:`Control+F8` or :menuselection:`View --> Value Highlighting`.
+
 To insert an image press :menuselection:`Insert --> Image`. To get to the dialog of how to insert a chart :menuselection:`Insert --> Chart`. The first selection is to choose a column, bar, Pie, Area, Line, XY(Scatter), Bubble, Net, Stock, or Column and Line chart. To change the subtype of graph click the pciture of a chart that looks like the type you want.
 
 .. image:: chartwindow.png

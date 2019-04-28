@@ -62,6 +62,8 @@ To choose a smooth transition use the :guilabel:`Gradient` button. To choose a p
 
 To change to a geometric pattern for the background of your slide press the :guilabel:`Pattern` button. To select a preset pattern left click on a pattern under the :guilabel:`Pattern` heading. To preview your pattern view in under the text :guilabel:`Preview`. To change the foreground color of your pattern change the :guilabel:`Foreground Color` drop down menu. To change the background color of your pattern change the :guilabel:`Background Color` drop down menu. To customizie your pattern by a grid  left click on the grid under :guilabel:`Pattern Editor`. 
 
+To choose a series of lines as your background press the :guilabel:`Hatch` button. To change how far between each line change the :guilabel:`Spacing` field. 
+
 On the left there is a panel showing what slides you currently have in left side of the window. To insert a new slide right click on this panel on the left and select new slide or press :kbd:`Control + Enter`. To delete a slide on the left hand slide right click and select delete slide or :menuselection:`Slide --> Delete Slide`. To create another copy of a slide right click and then select duplicate slide. To change the type of slide  :menuselection:`Slide --> Layout --> Your choice of slide here` which has many different options. 
 
 To move a slide down :menuselection:`Slide --> Move --> Slide Down`. To move a slide up :menuselection:`Slide --> Move --> Slide Up`. To move a slide to the start :menuselection:`Slide --> Move --> Slide to start`. To move a slide to the end :menuselection:`Slide --> Move --> Slide to end`.

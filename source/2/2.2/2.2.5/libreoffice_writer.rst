@@ -53,8 +53,6 @@ If you want to change your line spacing of your document :menuselection:`Format 
 
 To add a list of bullet points press :kbd:`Shift +F12` or :menuselection:`Format --> Lists --> Bulleted Lists`. To start a numbered lists press :kbd:`F12` or :menuselection:`Format --> Lists --> Numbered List`. To move an item up in your list :menuselection:`Format --> Lists --> Move Up`. To move an item down in your list :menuselection:`Format --> Lists --> Move Down`. To demote a point to a subpoint :menuselection:`Format --> Lists --> Demote One Level`. To promote this point back up to its previous level :menuselection:`Format --> Lists --> Promote One Level`.
 
-
-
 To Insert a page number :menuselection:`Insert --> Field --> Page number`. To insert the current time into the document :menuselection:`Insert --> Field --> Time`. To insert the current date into the document :menuselection:`Insert --> Field --> Date`.  To insert the number of pages in the document :menuselection:`Insert --> Field --> Page count`.
 
 To have a header shown at the top of each page :menuselection:`Insert --> Header and footer --> Header --> Default style`. To have a footer at the bottom of each page :menuselection:`Insert--> Header and footer --> Footer --> Deafault style`. To get back to writing the main part of the document left click on the body of the document.  
@@ -94,7 +92,6 @@ To insert a table :menuselection:`Table --> Insert Table` and a talbe dialog win
 .. image:: table_insterting.png 
 
 To add a row above your current row :menuselection:`Table --> Insert --> Rows Above`. To add a row below the current row :menuselection:`Table --> Insert --> Rows Below`. To add a column before the current one :menuselection:`Table --> Insert --> Columns Before`. To add a column after the current one :menuselection:`Table --> Insert --> Columns After`. To add mulitple rows or columns :menuselection:`Table --> Insert --> Rows` or :menuselection:`Table --> Insert --> Column`. To switch how many of multiple rows or columns change the :guilabel:`Number` field. To switch to adding rows or columns above or below press the :guilabel:`Below Selection` button. To actually add the rows or columns press the :guilabel:`OK` button. To delete a row :menuselection:`Table --> Delete --> Rows`. To delete a column :menuselection:`Table --> Delete --> Columns`. To delete the whole table :menuselection:`Table --> Delete --> Table`.
-
 
 How to Launch
 -------------

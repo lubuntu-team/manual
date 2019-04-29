@@ -35,10 +35,6 @@ To make text superscript press the button with A and a smaller B located above i
 
 If you want text in a text box that can be moved with the mouse press the button that looks like a T with a box around it or :menuselection:`Insert --> Text box`. To insert a hyperlink press :kbd:`Control + K` or :menuselection:`Insert --> Hyperlink`. 
 
-To add multiple columns to your document :menuselection:`Format --> Columns`. To have multiple columns in the field that says :guilabel:`Columns` and set to the number of columns you want. When you are done with your settings press the :guilabel:`OK` button or if you decide you do not want to make changes to columns press the :guilabel:`Cancel` button.
-
-.. image:: columns.png
-
 To check the spelling of your document press the ABC button with a checkmark, from the :menuselection:`tools --> spelling` or press :kbd:`f7`. To view how your document looks before printing it :menuselection:`File --> Print preview` or :kbd:`Control +Shift +O`. To get back to editing your document press the same thing again or click the close preview button. After you are done writing your document you can press the button that looks like a printer to print, press :kbd:`control+ p` or :menuselection:`file --> print`. To change view or change your printer settings :menuselection:`File --> Printer settings`. To view your word count of how many words are currently in the document is with nothing selected at the bottom of the libreoffice writer window. If you select text with the mouse you can also see the word count of selection from the same spot.  
 
 To insert special symbols or characters press the button with the Ω symbol or from the menu :menuselection:`Insert --> Special character`. To insert a page break press :kbd:`control + enter` or from the menu :menuselection:`Insert --> Page Break`.  
@@ -72,6 +68,12 @@ To toggle your view of rulers press :kbd:`Control + Shift +R` or :menuselection:
 To bring up a window with properties of your document :menuselection:`File --> Properties`. The :guilabel:`General` tab shows metadata about the file including creation or modification time. The :guilabel:`Descrption` tab has fields to input title subject and keywords and lets you also put in comments. The :guilabel:`Title` is where you can optionally put the title on. The :guilabel:`Subject` is a field to input the subject of the document. The :guilabel:`Keywords` is to input keywords on the document. The :guilabel:`Comments` is where you can have comments about the document. To embed any fonts you have in the document click the :guilabel:`Font` tab and check the :guilabel:`Embed fonts in the document` checkbox. 
 
 To insert a watermark on the background of the page :menuselection:`Format --> Watermark`. To change what the watermark says input that into the :guilabel:`Text` field. To change the font of the watermark change the :guilabel:`Font` field. To change the angle from horizontal text use the :guilabel:`Angle` field in degrees. To change your how transparent the water mark is change the :guilabel:`Transparency` has 100 as entirely clear and 0 as entirely opaque. To change the color of the watermark use the :guilabel:`Color` drop down pop up menu.
+
+Columns
+-------
+To add multiple columns to your document :menuselection:`Format --> Columns`. To have multiple columns in the field that says :guilabel:`Columns` and set to the number of columns you want. When you are done with your settings press the :guilabel:`OK` button or if you decide you do not want to make changes to columns press the :guilabel:`Cancel` button.
+
+.. image:: columns.png
 
 Find And Replace
 ----------------

@@ -75,6 +75,8 @@ To add multiple columns to your document :menuselection:`Format --> Columns`. To
 
 .. image:: columns.png
 
+To add a column break to the next column press :kbd:`Control+Shift+Enter` or :menuselection:`Insert --> More Breaks --> More Column Breaks`.
+
 Find And Replace
 ----------------
 To search for text in your document press :kbd:`Control +F` or :menuselection:`Edit --> Find` which pops up a toolbar on the bottom. To enter the text to search enter into the searchbar on the bottom. To go to the next result press the downward pointed arrow button. To go to the previous result press the upward pointing arrow button. To close out of finding text press red circle with the white x inside it. To not match case uncheck the :guilabel:`Match Case` checkbox. 

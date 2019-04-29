@@ -71,7 +71,7 @@ To insert a watermark on the background of the page :menuselection:`Format --> W
 
 Columns
 -------
-To add multiple columns to your document :menuselection:`Format --> Columns`. To have multiple columns in the field that says :guilabel:`Columns` and set to the number of columns you want. When you are done with your settings press the :guilabel:`OK` button or if you decide you do not want to make changes to columns press the :guilabel:`Cancel` button.
+To add multiple columns to your document :menuselection:`Format --> Columns`. To have multiple columns in the field that says :guilabel:`Columns` and set to the number of columns you want. To change the spacing between the two columns change the :guilabel:`Spacing` field. To have a line to seperate your columns use the :guilabel:`Style` drop down menu to select the lines. When you are done with your settings press the :guilabel:`OK` button or if you decide you do not want to make changes to columns press the :guilabel:`Cancel` button.
 
 .. image:: columns.png
 

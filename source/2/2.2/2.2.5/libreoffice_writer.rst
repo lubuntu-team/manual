@@ -53,7 +53,6 @@ If you want to change your line spacing of your document :menuselection:`Format 
 
 To add a list of bullet points press :kbd:`Shift +F12` or :menuselection:`Format --> Lists --> Bulleted Lists`. To start a numbered lists press :kbd:`F12` or :menuselection:`Format --> Lists --> Numbered List`. To move an item up in your list :menuselection:`Format --> Lists --> Move Up`. To move an item down in your list :menuselection:`Format --> Lists --> Move Down`. To demote a point to a subpoint :menuselection:`Format --> Lists --> Demote One Level`. To promote this point back up to its previous level :menuselection:`Format --> Lists --> Promote One Level`.
 
-To insert an image into your go to :menuselection:`Insert --> Image` to insert an image directly to your word processing document. To move your image around left click on it and drag the image around. To resize the image while keeping the same aspect ratio click on one of the blue boxes around the corner to resize the image.  To remove an image you decide you do not want in your document press the :kbd:`Delete` key. To rotate an image to the right left click on it to select it and right click on the image :menuselection:`Rotate or Flip --> Rotate 90° Right`. To rotate an image to the left right click on the image :menuselection:`Rotate or Flip --> Rotate 90° Left`. To rotate an image to fix it appearing upside-down left click the image and right click :menuselection:`Rotate or Flip --> Rotate 180°`. To get an image back to its original position :menuselection:`Rotate or Flip --> Reset Rotation`.
 
 To insert a table :menuselection:`Table --> Insert Table` and a talbe dialog window will popup. To change the number of columns change the :guilabel:`Columns` field. To change the number of rows change the :guilabel:`Rows` field. To view a different styles for your table are under the :guilabel:`Style` menu and you can see a preview to the right of the menu. To input text into a part of the table simply left click over that part of the table. To move to another part of the table with the arrow key with the direction you want to go. 
 
@@ -88,6 +87,10 @@ To search for text in your document press :kbd:`Control +F` or :menuselection:`E
 .. image:: lowriter_findbar.png 
 
 To find and replace text press :kbd:`Control+ H` or :menuselection:`Edit --> Find & Replace`. To have what text you want to be find in the document to be replaced in the :guilabel:`Find` field. To have the end result of what you after replacing in the :guilabel:`Replace` field. To find and select all occurrences of the string in the :guilabel:`Find` field click the :guilabel:`Find All` button. To replace every occurrence of the word of find press the :guilabel:`Replace All` button to change everything.
+
+Images
+------
+To insert an image into your go to :menuselection:`Insert --> Image` to insert an image directly to your word processing document. To move your image around left click on it and drag the image around. To resize the image while keeping the same aspect ratio click on one of the blue boxes around the corner to resize the image.  To remove an image you decide you do not want in your document press the :kbd:`Delete` key. To rotate an image to the right left click on it to select it and right click on the image :menuselection:`Rotate or Flip --> Rotate 90° Right`. To rotate an image to the left right click on the image :menuselection:`Rotate or Flip --> Rotate 90° Left`. To rotate an image to fix it appearing upside-down left click the image and right click :menuselection:`Rotate or Flip --> Rotate 180°`. To get an image back to its original position :menuselection:`Rotate or Flip --> Reset Rotation`.
 
 How to Launch
 -------------

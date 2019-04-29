@@ -71,12 +71,6 @@ To insert a mathematical formula into your document you are process :menuselecti
 
 To select all text in the document press :kbd:`control + A` or :menuselection:`Edit --> Select All`. To jump to a specific page press :kbd:`Control + G` or :menuselection:`Edit --> Go to Page` and a dialog will pop up. To enter a page number in the :guilabel:`Page` field and prclick :guilabel:`OK` to go to that page.
 
-To search for text in your document press :kbd:`Control +F` or :menuselection:`Edit --> Find` which pops up a toolbar on the bottom. To enter the text to search enter into the searchbar on the bottom. To go to the next result press the downward pointed arrow button. To go to the previous result press the upward pointing arrow button. To close out of finding text press red circle with the white x inside it. To not match case uncheck the :guilabel:`Match Case` checkbox. 
-
-.. image:: lowriter_findbar.png 
-
-To find and replace text press :kbd:`Control+ H` or :menuselection:`Edit --> Find & Replace`. To have what text you want to be find in the document to be replaced in the :guilabel:`Find` field. To have the end result of what you after replacing in the :guilabel:`Replace` field. To find and select all occurrences of the string in the :guilabel:`Find` field click the :guilabel:`Find All` button. To replace every occurrence of the word of find press the :guilabel:`Replace All` button to change everything.
-
 To zoom for the entire page to be visible :menuselection:`View --> Zoom --> Entire Page`. To zoom so you can see the width of the page and everything is bigger :menuselection:`View --> Zoom ---> Page width`. To zoom to 100 percent zoom :menuselection:`View --> Zoom --> 100%`.
 
 To have a view of the document with no margins shown like on a webpage :menuselection:`View --> Web` or To get back to the original view :menuselection:`View --> Menu`. To toggle a vertical scrollbar :menuselection:`View --> Scrollbars --> Vertical Scroll bar`. To have a horizontal scrollbar :menuselection:`View --> Scrollbars --> Horizontal Scroll bar`. 
@@ -86,6 +80,14 @@ To toggle your view of rulers press :kbd:`Control + Shift +R` or :menuselection:
 To bring up a window with properties of your document :menuselection:`File --> Properties`. The :guilabel:`General` tab shows metadata about the file including creation or modification time. The :guilabel:`Descrption` tab has fields to input title subject and keywords and lets you also put in comments. The :guilabel:`Title` is where you can optionally put the title on. The :guilabel:`Subject` is a field to input the subject of the document. The :guilabel:`Keywords` is to input keywords on the document. The :guilabel:`Comments` is where you can have comments about the document. To embed any fonts you have in the document click the :guilabel:`Font` tab and check the :guilabel:`Embed fonts in the document` checkbox. 
 
 To insert a watermark on the background of the page :menuselection:`Format --> Watermark`. To change what the watermark says input that into the :guilabel:`Text` field. To change the font of the watermark change the :guilabel:`Font` field. To change the angle from horizontal text use the :guilabel:`Angle` field in degrees. To change your how transparent the water mark is change the :guilabel:`Transparency` has 100 as entirely clear and 0 as entirely opaque. To change the color of the watermark use the :guilabel:`Color` drop down pop up menu.
+
+Find And Replace
+----------------
+To search for text in your document press :kbd:`Control +F` or :menuselection:`Edit --> Find` which pops up a toolbar on the bottom. To enter the text to search enter into the searchbar on the bottom. To go to the next result press the downward pointed arrow button. To go to the previous result press the upward pointing arrow button. To close out of finding text press red circle with the white x inside it. To not match case uncheck the :guilabel:`Match Case` checkbox. 
+
+.. image:: lowriter_findbar.png 
+
+To find and replace text press :kbd:`Control+ H` or :menuselection:`Edit --> Find & Replace`. To have what text you want to be find in the document to be replaced in the :guilabel:`Find` field. To have the end result of what you after replacing in the :guilabel:`Replace` field. To find and select all occurrences of the string in the :guilabel:`Find` field click the :guilabel:`Find All` button. To replace every occurrence of the word of find press the :guilabel:`Replace All` button to change everything.
 
 How to Launch
 -------------

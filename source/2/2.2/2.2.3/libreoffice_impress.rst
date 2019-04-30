@@ -86,6 +86,8 @@ To start a slideshow press :kbd:`f5` or the button the looks like a tv with a tr
 
 To bring up custom settings for your settings :menuselection:`Slide Show --> Slide Show Settings`. To change the presentation to in a window press the :guilabel:`In a window` button. To have the slideshow or presentation repeat afterwards press the :guilabel:`Loop and repeat after:`. To change options on your presentation are under the :guilabel:`Options` heading. To toggle showing the mouse pointer check/uncheck the :guilabel:`Mouse pointer visible` checkbox. To toggle allowing animations check/uncheck the :guilabel:`Animations allowed` checkbox. To toggle chaning slides by clicking with the mouse check/uncheck the :guilabel:`Change slides by clicking on background` checkbox. To toggle the presentation always on top check/uncheck the :guilabel:`Presentation always on top` checkbox. 
   
+.. image:: slideshowprop.png
+
 
 Version
 -------

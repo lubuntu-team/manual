@@ -80,7 +80,7 @@ Slideshows/Presentations
 ------------------------
 To start a slideshow press :kbd:`f5` or the button the looks like a tv with a triangle on it or :menuselection:`Slide Show --> Start from First Slide.` To start a slideshow from the current slide press :kbd:`Shift + f5` or :menuselection:`Slide Show --> Start from current slide`. To exit the slideshow press :kbd:`escape`. To get to the next slide of the slideshow  left click or press the :kbd:`right arrow key`. to get to a previous slide in presentation mode press the :kbd:`left arrow key` or right click previous. To move back to your first slide press the :kbd:`Home` key. To move to your last slide press the :kbd:`End` key. 
 
-To bring up custom settings for your settings :menuselection:`Slide Show --> Slide Show Settings`. To change the presentation to in a window press the :guilabel:`In a window` button. To have the slideshow or presentation repeat afterwards press the :guilabel:`Loop and repeat after:` 
+To bring up custom settings for your settings :menuselection:`Slide Show --> Slide Show Settings`. To change the presentation to in a window press the :guilabel:`In a window` button. To have the slideshow or presentation repeat afterwards press the :guilabel:`Loop and repeat after:`. To change options on your presentation are under the :guilabel:`Options` heading. To toggle showing the mouse pointer check/uncheck the :guilabel:`Mouse pointer visible` checkbox. To toggle allowing animations check/uncheck the :guilabel:`Animations allowed` checkbox. 
   
 Screenshot
 ----------

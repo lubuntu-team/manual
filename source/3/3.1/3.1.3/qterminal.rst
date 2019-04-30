@@ -36,7 +36,7 @@ To apply these changes to see how they appear on QTerminal press the :guilabel:`
 
 The :guilabel:`Behavior` tab changes history, pasting, and different kinds of emulation. The button for :guilabel:`Unlimited history` will save an unlimited amount of history. The :guilabel:`History size (in lines)` lets you save only that many lines of history. The checkbox for :guilabel:`Confirm multiline paste` brings up a confirmation for pasting multiple lines. The checkbox :guilabel:`Trim trailing newlines in pasted text` removes excess newlines in pasting text from the end of what you paste. The :guilabel:`Ask for confirmation when closing` pops up a confirmation dialog when you close qterminal. The checkbox :guilabel:`Save position when closing` saves the position when closing qterminal. The :guilabel:`Open new terminals in current working directory` checkbox open new terminals in the last working directory you were on.
 
-
+.. image:: qterminal-pref-behavior.png
 
 The :guilabel:`Shortcuts` tab shows all the different shortcuts and how to change keyboard shortcuts. The :guilabel:`Shortcut` column shows what the keyboard shortcut does. The :guilabel:`Key` column is the keyboard shortcut to launch the shortcut. To change or add a keyboard shortcut double click under the :guilabel:`Key` column and then press the keyboard shortcut you want. To change how you sort your keyboard shortcuts left click on the column to sort in a different order.
 

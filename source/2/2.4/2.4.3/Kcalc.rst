@@ -44,6 +44,8 @@ Numerical System mode
 ---------------------
 The numerical system mode lets you change your numerical base instead of say the default base 10. To switch to a binary calculations click the :guilabel:`Bin` radio button. To switch the Octal or base 8 format click the :guilabel:`Oct` radio button. To switch to a hexadecimal format or base 16 format click the :guilabel:`Hexadecimal` radio button. For numbers greater than 10 for hexadecimal press the A-F buttons. When you are in number that are not part of a numerical base the button will get grayed out. To switch back to decimal or base 10 press the :guilabel:`Dec` radio button.   
 
+.. image::  kcalcnummode.png
+
 Statistic Mode
 ----------------
 To enter Statistic mode :menuselection:`Settings --> Statistic Mode`. To enter multiple entries of data press the :guilabel:`Dat` button to enter data. To show how many pieces of data you have entered press the :guilabel:`N`. To view the mean or average of all the data press the :guilabel:`Mea` button. To view the median of the data press the :guilabel:`Med` button. To clear the statistical memory press the :guilabel:`CSt` button. 

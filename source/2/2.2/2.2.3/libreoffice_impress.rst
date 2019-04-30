@@ -52,7 +52,6 @@ To move a text box around you can left click on the text box and drag it to the 
 To insert the number of your slide :menuselection:`Insert --> Slide Number`.
 
 
-
 To change the zoom of you presentation :menuselection:`View --> Zoom --> Zoom` to bring up a window to manage your zoom. If you just want to zoom to fit the page width :menuselection:`View --> Zoom --> Page Width`. To change your zoom to 100 percent :menuselection:`View --> Zoom --> 100%`. 
 
 To bring up a dialog for the properties of your slides controling background and shape with :menuselection:`Slide --> Properites`. To change the format for a different aspect ratio of projector or print format change the :guilabel:`Format` drop down menu. To select a custom width and height change the :guilabel:`Width` or :guilabel:`Height`. To switch to a portrait orientation press the :guilabel:`Portrait` button to the right of :guilabel:`Orientation`. To add margins to slides enter a margin in the :guilabel:`Left`, :guilabel:`Right`, :guilabel:`Top`, and :guilabel:`Bottom`. 
@@ -79,7 +78,9 @@ To insert an image click :menuselection:`Insert --> Image`. To drag your image t
 
 Slideshows/Presentations
 ------------------------
-To start a slideshow press :kbd:`f5` or the button the looks like a tv with a triangle on it or :menuselection:`Slideshow --> Start from First Slide.` To start a slideshow from the current slide press :kbd:`Shift + f5` or :menuselection:`Slideshow --> Start from current slide`. To exit the slideshow press :kbd:`escape`. To get to the next slide of the slideshow  left click or press the :kbd:`right arrow key`. to get to a previous slide in presentation mode press the :kbd:`left arrow key` or right click previous. To move back to your first slide press the :kbd:`Home` key. To move to your last slide press the :kbd:`End` key. 
+To start a slideshow press :kbd:`f5` or the button the looks like a tv with a triangle on it or :menuselection:`Slide Show --> Start from First Slide.` To start a slideshow from the current slide press :kbd:`Shift + f5` or :menuselection:`Slide Show --> Start from current slide`. To exit the slideshow press :kbd:`escape`. To get to the next slide of the slideshow  left click or press the :kbd:`right arrow key`. to get to a previous slide in presentation mode press the :kbd:`left arrow key` or right click previous. To move back to your first slide press the :kbd:`Home` key. To move to your last slide press the :kbd:`End` key. 
+
+To bring up custom settings for your settings :menuselection:`Slide Show --> Slide Show Settings`.
   
 Screenshot
 ----------

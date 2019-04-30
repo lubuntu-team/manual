@@ -54,11 +54,13 @@ To open configuration for kcalc press :kbd:`Control+Shift+ +` or :menuselection:
 
 To cancel and not apply your changes press the :guilabel:`Cancel` button along the bottom. To apply your changes and not exit from this window press the :guilabel:`Apply` button. To restore the settings to your defaults press the :guilabel:`Restore Defaults`. To apply your changes if any and close this window press the :guilabel:`OK` button. 
 
+.. image::  kcalcpref.png
+
 The :guilabel:`Font` tab has settings to change settings with your fonts. To choose the font for your buttons on your calculator :guilabel:`Button font` and press the :guilabel:`Choose` button to the font for the buttons on your calculator. To change the font for the display of the calculator. :guilabel:`Display font` will change how the and the :guilabel:`Choose` button 
 
 The :guilabel:`Colors` tab has the colors of your user interface. To change your foreground color will change how the display or the number in the interface is the color next to :guilabel:`Foreground` color area to select. To change the background color of your display choose a different color on :guilabel:`background` button. To change the background color of the function buttons press the button next to :guilabel:`Functions`. To a change the color of the function button press button next to :guilabel:`Statisical functions`. To change the background color for hexidecimal functions :guilabel:`Hexadecimals`. To change the backgrounds of the numbers buttons press the button next to  :guilabel:`Numbers`. To change the background of the memory keys press the button next to :guilabel:`memory`. To change the background of operations press the button next to :guilabel:`Operations`.
 
-To change your settings for :guilabel:`constants` of to get constants constants stored is in the constants tab. To input a constant you have in the field to the left is the name of the constant on the field to the left. The filed in the center is where you put the value of the constant. To select from predefined constants press on the :guilabel:`Predefined` to bring up a menu of predefined constants.
+To change your settings for :guilabel:`Constants` of to get constants constants stored is in the constants tab. To input a constant you have in the field to the left is the name of the constant on the field to the left. The filed in the center is where you put the value of the constant. To select from predefined constants press on the :guilabel:`Predefined` to bring up a menu of predefined constants.
 
 Version
 -------

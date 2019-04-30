@@ -48,7 +48,6 @@ To search for text press :kbd:`Control + F` or :menuselection:`Edit --> Find` to
 
 To move a text box around you can left click on the text box and drag it to the desired position. To resize a text box click on the corner and drag to resize to the desired size.
 
-To insert an image click :menuselection:`Insert --> Image`. To drag your image to where you want it left click and drag the mouse to where you want the image. To resize the image without distorting it click one of the boxes on the corner and resize to the size you wish. If you want to delete an image press :kbd:`Delete`. To replace an image right click the image and :menuselection:`Replace` will bring a file picker up to pick a new image. To crop an image right click on the image and select :menuselection:`Crop`. To save an image out of a presentation right click on the image and select :menuselection:`Save ...`.   
 
 To insert the number of your slide :menuselection:`Insert --> Slide Number`.
 
@@ -69,6 +68,10 @@ To choose a series of lines as your background press the :guilabel:`Hatch` butto
 To move a slide down :menuselection:`Slide --> Move --> Slide Down`. To move a slide up :menuselection:`Slide --> Move --> Slide Up`. To move a slide to the start :menuselection:`Slide --> Move --> Slide to start`. To move a slide to the end :menuselection:`Slide --> Move --> Slide to end`.
 
 To view your slides right next to each other :menuselection:`View --> Slide Sorter`. To rearange your slides click and hold a slide and drag the slide between the slides you want to move to. To switch to an outline view of just text :menuselection:`View --> Outline`. To switch to an outline :menuselection:`View --> Outline`. To switch back to your normal view :menuselection:`View --> Normal`. 
+
+Images
+------
+To insert an image click :menuselection:`Insert --> Image`. To drag your image to where you want it left click and drag the mouse to where you want the image. To resize the image without distorting it click one of the boxes on the corner and resize to the size you wish. If you want to delete an image press :kbd:`Delete`. To replace an image right click the image and :menuselection:`Replace` will bring a file picker up to pick a new image. To crop an image right click on the image and select :menuselection:`Crop`. To save an image out of a presentation right click on the image and select :menuselection:`Save ...`.   
 
 Slideshows/Presentations
 ------------------------

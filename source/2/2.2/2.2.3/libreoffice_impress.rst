@@ -70,6 +70,10 @@ To move a slide down :menuselection:`Slide --> Move --> Slide Down`. To move a s
 
 To view your slides right next to each other :menuselection:`View --> Slide Sorter`. To rearange your slides click and hold a slide and drag the slide between the slides you want to move to. To switch to an outline view of just text :menuselection:`View --> Outline`. To switch to an outline :menuselection:`View --> Outline`. To switch back to your normal view :menuselection:`View --> Normal`. 
 
+Screenshot
+----------
+.. image:: libreoffice_impress.png
+
 Images
 ------
 To insert an image click :menuselection:`Insert --> Image`. To drag your image to where you want it left click and drag the mouse to where you want the image. To resize the image without distorting it click one of the boxes on the corner and resize to the size you wish. If you want to delete an image press :kbd:`Delete`. To replace an image right click the image and :menuselection:`Replace` will bring a file picker up to pick a new image. To crop an image right click on the image and select :menuselection:`Crop`. To save an image out of a presentation right click on the image and select :menuselection:`Save ...`.  
@@ -82,9 +86,6 @@ To start a slideshow press :kbd:`f5` or the button the looks like a tv with a tr
 
 To bring up custom settings for your settings :menuselection:`Slide Show --> Slide Show Settings`. To change the presentation to in a window press the :guilabel:`In a window` button. To have the slideshow or presentation repeat afterwards press the :guilabel:`Loop and repeat after:`. To change options on your presentation are under the :guilabel:`Options` heading. To toggle showing the mouse pointer check/uncheck the :guilabel:`Mouse pointer visible` checkbox. To toggle allowing animations check/uncheck the :guilabel:`Animations allowed` checkbox. To toggle chaning slides by clicking with the mouse check/uncheck the :guilabel:`Change slides by clicking on background` checkbox. To toggle the presentation always on top check/uncheck the :guilabel:`Presentation always on top` checkbox. 
   
-Screenshot
-----------
-.. image:: libreoffice_impress.png
 
 Version
 -------

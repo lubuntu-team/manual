@@ -64,6 +64,8 @@ Searching for Files
 
 To search for files press :kbd:`f3` or :menuselection:`Tool --> find files`. To type part of name in the part where it says :guilabel:`File Name Patterns`. To make your search case insensitive check the :guilabel:`Case insensitive`. To toggle searching with regular expressions check/uncheck the :guilabel:`Use regular expression` checkbox. To add locations and places to search press the :guilabel:`Add` button and select the additional places to search. To remove an additional place to search press the :guilabel:`Remove` button. To toggle searching in Subdirectories check/uncheck the :guilabel:`Search in subdirectories`. To toggle searching for hidden files check/uncheck the :guilabel:`Search for hidden files`.
 
+.. image:: filesearch.png 
+
 To change what types of files you use choose the :guilabel:`File Type` tab. To choose to search for only certain file check/uncheck the files under the text :guilabel:`Only search for files of following types:` text. The options for which type of file include: Text files, Image files, Audio files, Video files, Documents, or Folders.
 
 The :guilabel:`Properties` tab has more settings based on information about the file also called metadata. To only show results on files larger than this file check the :guilabel:`Larger than` checkbox and then in the field to the right for size. To only show files smaller than this check the :guilabel:`Smaller than` checkbox and to the field to the right select the size smaller than that. To search for files modified before a date check the :guilabel:`Earlier than` checkbox and select the date to the right. To search for a file modified after a date check the :guilabel:`Later than` checkbox and input the date to the right.

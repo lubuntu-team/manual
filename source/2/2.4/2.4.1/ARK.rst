@@ -21,6 +21,9 @@ To open a file in a archive, open the archive, then double click the :menuselect
 
 To create an archive press :kbd:`Control +N` or :menuselection:`Archieve --> New` to bring up the create new archive dialog. Enter in the :guilabel:`Folder` you want to create this archive in the folder or press the folder button on the right to select where to create this archive. Type the :guilabel:`Filename` of the archive you want to name the file. To select which type of archive you get a drop down menu to select tar or zip archive with various different kinds of compression in the :guilabel:`Type` drop down menu. Some types of archives will allow to expand tunable settings of compression to change the compression with higher compression but will take more cpu usage to decompress. 
 
+.. image:: arknewarchive.png 
+
+
 To add a file to your archive :menuselection:`Archive --> Add Files` which brings up a file picker to choose how to add files. Once you add a file press the :guilabel:`Add` button to add a file. If you want to select multiple files to add at once you can hold down :kbd:`Control` and then left click on the files. 
 
 To view how to open recent archives :menuselection:`Archive --> Open Recent`. To clear the list of recent files :menuselection:`Archive --> Open Recent --> Clear List`. To find files in an archive press :kbd:`Control+F` or :menuselection:`Archieve --> Find`. To view the properties of your archive press :kbd:`Alt+ return` or :menuselection:`Archive --> Properties`. To test your archive press :kbd:`Alt +T` or :menuselection:`File --> Test Integrity`.   

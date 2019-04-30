@@ -20,7 +20,10 @@ To bring a search for the text displayed on your terminal press :kbd:`Control +S
 
 To clear you active terminal press :kbd:`Control + Shift +X` or :menuselection:`Actions --> Clear Active Terminal`. To hide window borders check the :menuselection:`View --> Hide Window borders`. 
 
-To use the drop down function of Qterminal once launched press :kbd:`F12` to have the terminal drop down or roll up. 
+To use the drop down function of Qterminal once launched press :kbd:`F12` to have the terminal drop down or roll up.
+
+.. image::  qterminal-drop.png
+
 
 Customizing
 -----------

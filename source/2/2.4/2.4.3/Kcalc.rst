@@ -48,6 +48,8 @@ Statistic Mode
 ----------------
 To enter Statistic mode :menuselection:`Settings --> Statistic Mode`. To enter multiple entries of data press the :guilabel:`Dat` button to enter data. To show how many pieces of data you have entered press the :guilabel:`N`. To view the mean or average of all the data press the :guilabel:`Mea` button. To view the median of the data press the :guilabel:`Med` button. To clear the statistical memory press the :guilabel:`CSt` button. 
 
+.. image:: kcalcstatistic.png
+
 Customizing
 -----------
 To open configuration for kcalc press :kbd:`Control+Shift+ +` or :menuselection:`Settings --> Configure Kcalc`. To change the maximum number of digits change the :guilabel:`Maximum number of digits` field. To have kcalc set decimal precision to only a certain number of places after the decimal place check the :guilabel:`Set decimal precision` checkbox and select the number of digits after the decimal place. If you ant to show the result in the window title check the :guilabel:`Show result in window title` checkbox. To have Kcalc group digits together check the :guilabel:`Group digits` checkbox. 

@@ -89,6 +89,8 @@ Images
 ------
 To insert an image into your go to :menuselection:`Insert --> Image` to insert an image directly to your word processing document. To move your image around left click on it and drag the image around. To resize the image while keeping the same aspect ratio click on one of the blue boxes around the corner to resize the image.  To remove an image you decide you do not want in your document press the :kbd:`Delete` key. To rotate an image to the right left click on it to select it and right click on the image :menuselection:`Rotate or Flip --> Rotate 90° Right`. To rotate an image to the left right click on the image :menuselection:`Rotate or Flip --> Rotate 90° Left`. To rotate an image to fix it appearing upside-down left click the image and right click :menuselection:`Rotate or Flip --> Rotate 180°`. To get an image back to its original position :menuselection:`Rotate or Flip --> Reset Rotation`.
 
+.. image::  lowriterimageexample.png
+
 Tables
 ------
 To insert a table :menuselection:`Table --> Insert Table` and a talbe dialog window will popup. To change the number of columns change the :guilabel:`Columns` field. To change the number of rows change the :guilabel:`Rows` field. To view a different styles for your table are under the :guilabel:`Style` menu and you can see a preview to the right of the menu. To input text into a part of the table simply left click over that part of the table. To move to another part of the table with the arrow key with the direction you want to go. 

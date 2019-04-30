@@ -65,6 +65,8 @@ To change to a geometric pattern for the background of your slide press the :gui
 
 To choose a series of lines as your background press the :guilabel:`Hatch` button. To change how far between each line change the :guilabel:`Spacing` field. To view what your background will look like it is under the :guilabel:`Preview` window. To rotate the lines change the :guilabel:`Angle` field or move the slider. To change the type of lines use the :guilabel:`Line type` drop down menu. To change the color of lines use the :guilabel:`Line Color` drop down menu. To choose a particular background color of your background check the :guilabel:`Background Color` checkbox. Then use the :guilabel:`Background Color` drop down menu to choose your background color.
 
+To have your slides be transparent use the :guilabel:`Transparency` tab. To change your slides to be transparent click the :guilabel:`Transparency` button and to the right to change how transparent to make it.
+
 To move a slide down :menuselection:`Slide --> Move --> Slide Down`. To move a slide up :menuselection:`Slide --> Move --> Slide Up`. To move a slide to the start :menuselection:`Slide --> Move --> Slide to start`. To move a slide to the end :menuselection:`Slide --> Move --> Slide to end`.
 
 To view your slides right next to each other :menuselection:`View --> Slide Sorter`. To rearange your slides click and hold a slide and drag the slide between the slides you want to move to. To switch to an outline view of just text :menuselection:`View --> Outline`. To switch to an outline :menuselection:`View --> Outline`. To switch back to your normal view :menuselection:`View --> Normal`. 

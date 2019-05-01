@@ -5,7 +5,7 @@ Pulse Audio volume control is the default volume mixer for Lubuntu.
 
 Usage
 ------
-The :guilabel:`Playback` tab of pulseaudio volume control gives you the ability to the control the output device, mute, or change the volume of each application. To change the Volume of each application on the playback slide the slider to the right for more volume or to the left for less volume. The button with an X over the speaker is a mute button and if it is a darker gray that application is currently muted and can't make any sound. The drop down menu has next to the word on shows the output source. This program also in software allows you to go over 100 percent if it is too quiet. 
+The :guilabel:`Playback` tab of pulseaudio volume control gives you the ability to the control the output device, mute, or change the volume of each application. To change the Volume of each application on the playback slide the slider to the right for more volume or to the left for less volume. The button with an X over the speaker is a mute button and if it is a darker gray that application is currently muted and can't make any sound. The drop down menu has next to the word on shows the output source. In the bottom right hand corner is a the current volume level. This program also in software allows you to go over 100 percent if it is too quiet. 
 
 .. image:: pavucontrol-playback.png
 

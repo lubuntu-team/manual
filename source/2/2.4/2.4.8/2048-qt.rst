@@ -1,4 +1,4 @@
-Chapter 2.4.8 2048-qt
+Chapter 2.4.8 2048-Qt
 =====================
 
 2048 is a fun simple lightweight game included by default.
@@ -19,7 +19,7 @@ Lubuntu ships with version 0.1.6 of 2048-Qt.
 
 How to launch
 -------------
-To launch 2048-qt go to the menu :menuselection:`games -> 2048-qt` or run 
+To launch 2048-qt go to the menu :menuselection:`Games -> 2048-Qt` or run 
 
 .. code::
    

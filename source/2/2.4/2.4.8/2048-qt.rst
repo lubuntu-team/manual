@@ -5,10 +5,10 @@ Chapter 2.4.8 2048-qt
 
 Usage
 ------
-To play 2048-qt you use the arrows keys to combine blocks with the same number on them without having no possible moves at which point the game is over. As you combine numbers your score increases by the sum of the new block(s) you make and is shown towards the upper right hand corner of the window. After each move a new block appears. Your :guilabel:`high score` is the best you have done at this game and is also shown towards the upper right hand corner. To the left of you high score is your :guilabel:`score` with the number of your current score.
+To play 2048-qt you use the arrows keys to combine blocks with the same number on them without having no possible moves at which point the game is over. As you combine numbers your score increases by the sum of the new block(s) you make and is shown towards the upper right hand corner of the window. After each move a new block appears. Your :guilabel:`BEST` is the best you have done at this game and is also shown towards the upper right hand corner. To the left of you high score is your :guilabel:`SCORE` with the number of your current score.
 
 If midway you want to restart to a new game press the :guilabel:`New Game` button on the right hand side or :menuselection:`File --> New Game`.  
-i
+
 Screenshot
 ----------
 .. image:: 2048-qt.png 

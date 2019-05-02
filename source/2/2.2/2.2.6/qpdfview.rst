@@ -26,7 +26,7 @@ To print your pdf press :kbd:`Control + P` or :menuselection:`File --> Print`. I
 
 To select text or an image from qpdfview press :kbd:`control+c` or :menuselection:`Edit --> Copy to clipboard`. Then the cursor will turn into a crosshair and you will be able to expand a box to select either text or an image and a menu to select copying the text, selecting the text, copying the image, or saving the image to file. Another way to copy text is to press :kbd:`Shift + Left Click`.  
 
-To save your pdf file is to :menuselection:`File --> Save` or you can press :kbd:`Control + s`. You can save the file with a different name with :menuselection:`File --> SAve as`. To save a copy of the document click :menuselection:`File --> Save a copy`.  
+To save your pdf file is to :menuselection:`File --> Save` or you can press :kbd:`Control + s`. You can save the file with a different name with :menuselection:`File --> Save as`. To save a copy of the document click :menuselection:`File --> Save a copy`.  
 
 qpdfview also includes some very useful docks. To view the outline dock, in the menu select :menuselection:`View --> Docks --> Outline (make sure the button is checked)` or press :kbd:`F6` on the keyboard. It should appear on the left hand side of the pdf with collapsible sections. This is useful in navigating large pdfs. To view properties of your pdf file press :kbd:`F7` or :menuselection:`View --> Docks --> Properties`. To see a thumbnail of each page :menuselection:`View --> Dock --> Thumbnails` or press :kbd:`f8` to view a thumbnail of each page of the pdf file. If you want to close one of these docks click the X button on the dock to close it. To view the fonts embedded in the pdf :menuselection:`View --> Fonts`. 
 

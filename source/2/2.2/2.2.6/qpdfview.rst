@@ -54,6 +54,8 @@ Customizing
 -----------
 To add your own settings to qpdfview you can get to a settings window with :menuselection:`Edit --> Settings`. The checkbox :guilabel:`Open URL` allows you to turn on or off Opening URLs or links within qpdfview. The :guilabel:`Auto-refresh` checkbox reloads the pdf whenever the file changes which is useful for authoring pdf files. To open the tabs you had open last time with qpdfview the next time you open the program check the :guilabel:`Restore tabs` checkbox. If you want to scroll once to change an entire page check the :guilabel:`Minimal scrolling` checkbox. To change the color of highlights tpye a hex number for a color or select one from the :guilabel:`Highlight Color` drop down menu. 
 
+.. image:: qpdfviewprefrences.png
+
 
 If you want to reset these settings to the defaults is to press the :guilabel:`Defaults` button. If you just want defaults on the current tab you can press the :guilabel:`Defaults on current tab` button. If you want to return to viewing your pdf with the same settings press the :guilabel:`OK` button. If you wish to discard your changes press the :guilabel:`Cancel` button.     
 
@@ -63,7 +65,6 @@ The :guilabel:`PDF` subtab of the graphics tab has settings for font and paper c
 
 To change the interface settings click on the :guilabel:`Interface` tab.  If you want the tabs to be spread out press the spread tabs checkbox. The :guilabel:`Tab position` changes where the tabbar on the window. The :guilabel:`Tab visibility` menu can be set to as needed, always or never which will show or hide the tabbar. The checkbox for :guilabel:`New tab next to current tab` opens new tabs next to the current one. The field for recently used lets you set the maximum number of files to keep around in recently used. The :guilabel:`Spread tabs` checkbox spreads the tabs to take up the whole tab bar and they get smaller the more tabs you open. To have qpdfview close when the last tab in qpdfview is closed check the :guilabel:`Exit after last tab` checkbox. To change the number of recently used pdf files in the menu change the number in :guilabel:`Recently used count` field. To change how many recently closed tabs of pdfs are shown change the :guilabel:`Recently closed count` field. 
 
-.. image:: qpdfviewprefrences.png
 
 The :guilabel:`Shortcuts` tab provides the ability to customize keyboard shortcuts. The :guilabel:`Action` column is what is keyboard shortcut does. The :guilabel:`Key seqeunce` column shows the keyboard shortcut. Double click in the key sequence column and type in your desired keyboard shortcut to change the keyboard shortcut.
 

@@ -60,6 +60,8 @@ To add your own settings to qpdfview you can get to a settings window with :menu
 If you want to reset these settings to the defaults is to press the :guilabel:`Defaults` button. If you just want defaults on the current tab you can press the :guilabel:`Defaults on current tab` button. If you want to return to viewing your pdf with the same settings press the :guilabel:`OK` button. If you wish to discard your changes press the :guilabel:`Cancel` button.     
 
 To deal with settings on graphics press press on the :guilabel:`Graphics` tab. The settings for paper color will has a drop down menu for previewing what it is like printing on colored paper. The checkbox :guilabel:`Prefetch` will preload pages not directly viewed by the pdf viewer not directly on the screen however this will use more resources. The drop down for :guilabel:`Cache size` will increase laoding speed but will use more resources. The :guilabel:`Prefetch` checkbox loads pages before you view them. The :guilabel:`Prefetch distance` tells you how many pages away from where you are to load. The field for :guilabel:`Presentation background color` sets the color of the background for presentations. The :guilabel:`Cache size` increases the size of the cache which will apply more system resorouces to run heavy pdfs like hundred of pages of full color artwork. 
+
+.. image:: qpdfview-graphics.png
  
 The :guilabel:`PDF` subtab of the graphics tab has settings for font and paper color for viewing pdf files. To antialias images check the :guilabel:`Antialiasing` checkbox. To antialias text check the :guilabel:`Text antialiasing` checkbox. To use font hinting to view text easier to view change the :guilabel:`Text hinting` menu to Reduced or full.   
 

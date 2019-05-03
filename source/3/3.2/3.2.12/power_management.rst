@@ -14,6 +14,8 @@ The field :guilabel:`Enable Batter Watcher` Watches the battery on your system. 
 
 The :guilabel:`Lid` tab manages settings for when you close your laptop lid. The lid watcher lets you choose to suspend or shut off your computer when the lid is closed on battery or on AC. The checkbox for :guilabel:`Enable Lid Watcher` enables actions to be taken when the laptop lid is closed and of course unchecking means it won't take any action. The :guilabel:`On battery` field changes what action to take when your laptop which each does it like it sounds like. The :guilabel:`On AC` is changes what action to take when your laptop lid is closed and it is plugged into power.  
 
+.. image::  lidwatcher.png
+
 The Checkbox :guilabel:`When using external monitor` Allows you to have different settings when your laptop for closing the lid if you are plugged in to an external monitor. The fields :guilabel:`On Battery` and :guilabel:`On AC` function as above just different settings when plugged into an external monitor. 
 
 The :guilabel:`Idle` tab manages what happens when you walk away from your keyboard. The :guilabel:`When idle then` you slect whether you want to do nothing, Lock Screen, Suspend, hibernate, Shutdown or turn off monitor. The :guilabel:`Idle time` fields tell you how long to wait when you are away before the idleness watcher takes the action you wish. 

@@ -16,3 +16,5 @@ To find out what version of software you have you can view the `ubuntu packages 
 even if it does not ship with lubuntu by default.
 
 If you want to boot an older kernel for troubleshooting use the advanced options for lubuntu at the grub bootloader screen if shown. If you need to get into this bootloader hold down :kbd:`shift` key at booting and then select the different kernel you want to boot into. To move down to Advanced options press :kbd:`Down Arrow`. To select the advanced options press the :kbd:`Right Arrow` or :kbd:`Enter` key. To go back up a level from a submenu of grub press the :kbd:`Escape` key. To add a boot option press the :kbd:`e` key and then type the boot parameter you want to add to the end of the line. The nomodeset will try to load things for graphic compatibility if for example you get a black screen without proprietary drivers.
+
+If you want more openbox customization than the openbox settings can provide you can look at the openbox wiki `openbox wiki <http://openbox.org/wiki/Help:Contents/>`_ . 

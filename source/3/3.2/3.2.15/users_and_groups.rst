@@ -23,8 +23,8 @@ The :guilabel:`Groups` tabs lets you see info on groups and change properties. T
 
    Changing user and group permissions without knowing what you are doing could break your system.
 
-Screenshot
-----------
+Screenshots
+-----------
 .. image:: users_and_groups.png
 
 .. image:: users_groups_gropustab.png

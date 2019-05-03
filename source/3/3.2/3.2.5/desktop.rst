@@ -24,6 +24,8 @@ The tab :guilabel:`Slide Show` shows settings for slide show of changing your wa
 
 The tab :guilabel:`Advanced` has settings for automatic desktop icons or included or to show openbox menus on click the desktop. To show or hide any of the desktop icons check/uncheck the checkboxes for: :guilabel:`Home`, :guilabel:`Trash`, :guilabel:`Computer`, or :guilabel:`Network`. To show the openbox window manager menus by right clicking on the desktop check the :guilabel:`Show menus provided by window managers when desktop is clicked`.
 
+.. image::   desktop-advanced.png
+
 Screenshot
 ----------
 .. image:: desktop.png

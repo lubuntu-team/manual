@@ -37,6 +37,8 @@ To view info on your media press :kbd:`Control + I` or click :menuselection:`Too
 
 If you want a minimal interface that hides menubar and toolbars press :kbd:`Control +H` or :menuselection:`View --> Minimal View`. To access the fucntionality of the menubar you can right click on where the video will play. To get back to the default view press :kbd:`Control+H` again or right click and then :menuselection:`View --> Minimal View`. 
 
+.. image:: vlc-minimal.png
+
 To view more advanced controls :menuselection:`View --> Advanced Controls`. To view to a status bar with what is playing and the speed with :menuselection:`View --> Status bar`. 
 
 To change the aspect ratio of a video :menuselection:`Video --> Aspect Ratio` and select the one you wish. To crop a video to only part of your screen :menuselection:`Video --> Crop` and select the aspect ratio you want to crop the video to. To take a screenshot of the currently playing media :menuselection:`Video --> Take Snapshot`. 

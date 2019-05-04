@@ -11,7 +11,7 @@ Lubuntu ships with version 5.14.4 of bluedevil.
 
 Pairing
 -------
-To launch bluedevil to pair with a device from the menu :menuselection:`Internet --> Bluedevil Wizard`. If bluetooth is disabled you will be asked to enable it. In the main part of the window will show detected bluetooth devices. Click on the device you wish to add and press :guilabel:`next`.  
+To launch bluedevil to pair with a device from the menu :menuselection:`Internet --> Bluedevil Wizard`. If bluetooth is disabled you will be asked to enable it. In the main part of the window will show detected bluetooth devices. To choose a device to pair with left click on it. Click on the device you wish to add and press :guilabel:`next`.  
 
 Sending files
 -------------

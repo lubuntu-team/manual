@@ -17,6 +17,8 @@ The :guilabel:`Autostart` tab has settings for what to autostart. The autostart 
 
 The tab for :guilabel:`Environment (Advanced)` has many effects for you environment variables for your session. The :guilabel:`Variable Name` provides the name of the environment variable. To change the value of a variable double click on the value under the :guilabel:`Value` column. To add a new environment variable press the :guilabel:`Add` button. Then at the bottom a dotted line will appear and double click to enter the Variable Name and the Value for the variable. To delete an environment variable press the :guilabel:`Delete` button. Several of these variables relate to hidpi support see `<https://forum.lxqt.org/t/detailed-guide-to-enable-high-dpi-scaling-on-lxqt/507/5>`_ .
 
+.. image:: lxqt-session-advanced.png
+
 If you want to undo changes you have done press the :guilabel:`Reset` button. 
 
 Screenshot

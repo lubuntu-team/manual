@@ -46,7 +46,7 @@ The :guilabel:`Plugin Settings` tab has settings for each individual plugin. The
 
 To toggle preview for files larger than a certain size check/uncheck the :guilabel:`Disable preview for files larger than` checkbox. To change the size of the amount to be previewed change the field to the right of :guilabel:`Disable preview for files larger than` field.
 
-To see your keyboard shortcuts for ARK :menuselection:`Settings --> Configure Shortcuts`. To see what each individual shortcut does is in the :guilabel:`Action` column. To see what each keyboard shortcut is :guilabel:`Shortcut` column. To see what your alternate shortcut for each action see the :guilabel:`Alternate` column.
+To see your keyboard shortcuts for ARK :menuselection:`Settings --> Configure Shortcuts`. To see what each individual shortcut does is in the :guilabel:`Action` column. To see what each keyboard shortcut is :guilabel:`Shortcut` column. To see what your alternate shortcut for each action see the :guilabel:`Alternate` column. To change to a custom keyboard shortcut left click on the item in the :guilabel:`Action` column and press the custom radio button. Then on the button to the right press and input the keyboard shortcut you desire.
 
 How to launch
 -------------

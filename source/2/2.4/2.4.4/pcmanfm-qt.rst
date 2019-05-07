@@ -57,7 +57,7 @@ back to a pathbar you can type into :menuselection:`View --> Pathbar --> Path Bu
 
 .. image:: pathbar-location.png
 
-pcmanfm-qt has options when right clicking has special options for dealing with archives such as tar or zip files. To extract the files in the current directory right click and select :menuslection:`Extract Here`. You can also extract to another location with right clicking and selecting :menuselection:`Extract to` and a dialog will pop up showing to where to extract the file. To select a file and compress it right click and select :menuselection:`Compress` will open up a dialog. To chose a file name for your new compressed archieve enter in the :guilabel:`Filename` field. To choose what type of archieve choose change the :guilabel:`Type` drop down menu.  
+pcmanfm-qt has options when right clicking has special options for dealing with archives such as tar or zip files. To extract the files in the current directory right click and select :menuslection:`Extract Here`. You can also extract to another location with right clicking and selecting :menuselection:`Extract to` and a dialog will pop up showing to where to extract the file. To select a file and compress it right click and select :menuselection:`Compress` will open up a dialog. To chose a file name for your new compressed archieve enter in the :guilabel:`Filename` field. To choose what type of archieve choose change the :guilabel:`Type` drop down menu.  To actually create the archieve press the :guilabel:`OK` button.
 
 Searching for Files
 -------------------

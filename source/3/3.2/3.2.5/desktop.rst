@@ -34,6 +34,6 @@ To launch Desktop from the menu :menuselection:`Preferences --> LXQt settings --
 
 .. code:: 
 
-   pcmanfm-qt --desktop-pref
+   pcmanfm-qt --desktop-pref=general
   
 from the command line. Another way to launch this is to right click on the desktop :menuselection:`Desktop Preferences`.

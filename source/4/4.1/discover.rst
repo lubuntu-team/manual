@@ -14,6 +14,8 @@ Discover allows you to update software using the Updates tab located on the bott
 
 To remove software use the :guilabel:`Installed` tab. You can browse your installed packages, search using the search bar (upper left corner), and the click the remove button to remove software by pressing the :guilabel:`Remove` button. If you have a program installed there will also be a :guilabel:`Launch` button will actually launch this program.
 
+.. image:: discover-installed.png
+
 In the upper right corner of discover you can have a :guilabel:`Sort` category to sort your search results by name, rating, size, or release date.  
 
 To get to your settings on what software to use install use the :guilabel:`Settings` tab. To remove a source such as a ppa click the hidden red :guilabel:`X` button on the right hand side of to remove it. To toggle enabling or disabling a software source check or uncheck the checkbox next to that software source.

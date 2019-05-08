@@ -90,7 +90,7 @@ Lubuntu ships with version 3.0.4 of VLC.
 
 How to launch
 -------------
-to launch vlc in the menu go to :menuselection:`Sound and video --> VLC media player` or run 
+to launch vlc in the menu go to :menuselection:`Sound & Video --> VLC media player` or run 
 
 .. code:: 
 

@@ -27,7 +27,7 @@ Lubuntu ships with version 0.4.0 Pulse Audio Volume Control.
 
 How to launch
 -------------
-To launch pulse audio volume Control from the menu :menuselection:`Sound and video --> Pulse Audio Volume control` or run 
+To launch pulse audio volume Control from the menu :menuselection:`Sound & Video --> Pulse Audio Volume Control` or run 
 
 .. code:: 
 

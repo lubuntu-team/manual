@@ -15,7 +15,7 @@ To launch bluedevil to pair with a device from the menu :menuselection:`Internet
 
 Sending files
 -------------
-To send a file to another device after pairing with the device :menuselection:`Internet --> Bluedevil Send file` to open the file sending dialog. Then select the device you want to send a file to. Press the button with the upward pointing arrow to to bring a dialog of which files to transfer.  
+To send a file to another device after pairing with the device :menuselection:`Internet --> Bluedevil Send File` to open the file sending dialog. Then select the device you want to send a file to. Press the button with the upward pointing arrow to to bring a dialog of which files to transfer.  
 
 Screenshot
 ----------

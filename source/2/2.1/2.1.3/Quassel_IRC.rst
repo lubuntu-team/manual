@@ -18,7 +18,7 @@ To chat on IRC you need to connect to a server and join a channel. This can be d
 
 To add the Lubuntu IRC chat network click :menuselection:`File --> Networks --> Configure_Networks`. To add a new network  :guilabel:`+Add`. To connect to a common public network :guilabel:`Use preset` dropdown, select :guilabel:`Lubuntu IRC` and then click :guilabel:`OK`.
 
-To join a channel simple type "/join 1" (where 1 is the channel name), right click the network and select join channel or use the join button. To leave a chanel right click on the channel name on the right hand side and select :menuselection:`Part` from the context menu. If you want to join the channel again after leaving it right click on the channel and select :menuselection:`Join`.
+To join a channel simple type "/join 1" (where 1 is the channel name), right click the network and select join channel or use the join button. To leave a chanel right click on the channel name on the right hand side and select :menuselection:`Part` from the context menu. If you want to join the channel again after leaving it right click on the channel and select :menuselection:`Join`. To have your chat be hidden until you rejoin it again right click on the channel and select :menuselection:`Hide Chats(s) Temporirarily`. To hide the chat forever right click on the channel and select :menuselection:`Hide Chats(s) Permananetly`.
 
 In Quasel if someone says your name you are said to be highlighted which in Quasel will make a sound and in a goldenrod color over the line of text with your name on it. The notification will also be shown on your desktop if you are in another window. 
 

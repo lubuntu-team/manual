@@ -24,7 +24,7 @@ In Quasel if someone says your name you are said to be highlighted which in Quas
 
 To use Sasl authentication to autologin to an account no matter which nickname you want to use :menuselection:`File --> Networks --> Configure networks` to bring up a network configuration dialog. Click on the autoidentify tab and press the checkbox for :guilabel:`Use SASL Authentication`. Enter your username on the IRC network in the :guilabel:`Account` text field. Input your password into the :guilabel:`Password` field so that you know how to auto identify. You can also autoidentify without  using sasl by clicking the Top checkbox. Nickserv is a sensible default for what the services is but it may be different on different servers and put your password in where you autoidentify. 
 
- 
+If you want to have settings for automatic reconnecting :menuselection:`File --> Network --> Configure network` and select the Connection tab. The checkbox for auto reconnect will automatically rejoin chats if you get disconnected. The wait filed shows how long to between the retries between each try. The checkbox for rejoin all channels after reconnecting lets you rejoin all of your channels without having to manual rejoin each. The number of retries is how many times to retry to connect before stopping. To have an unlimited number of retries click the unlimited number of checkboxes.     
 
 .. image:: quassel_irc.png
 
@@ -32,8 +32,6 @@ To ignore a really annoying user you can on the nicks bar on the right hand side
 
 To type a message to an entire channel type into the bar at the bottom and press enter. To complete typing someone's nickname press the :kbd:`Tab` key to complete their name. To paste text into the channel such as a link press :kbd:`Control + V` or right click paste. If you see a hyperlink in chat you can left click on the link to open in your webbrowser. Another is if you want to copy the link right click on it and :menuselection:`Copy Link Address`.   
 
-
-If you want to have settings for automatic reconnecting :menuselection:`File --> Network --> Configure network` and select the Connection tab. The checkbox for auto reconnect will automatically rejoin chats if you get disconnected. The wait filed shows how long to between the retries between each try. The checkbox for rejoin all channels after reconnecting lets you rejoin all of your channels without having to manual rejoin each. The number of retries is how many times to retry to connect before stopping. To have an unlimited number of retries click the unlimited number of checkboxes.    
 
 To add close the list of nicknames or channels press the X button. To reopen the view of nicks :menuselection:`View --> Nicks`. To close the list of all chats press the X button to close a list of all channel and private messages you are in. To reopen it press the :menuselection:`View --> Chat lists --> All chats`. 
 

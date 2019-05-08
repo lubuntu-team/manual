@@ -32,7 +32,7 @@ Screenshot
 
 How to Launch
 -------------
-To launch K3b from the menu :menuselection:`sound and video --> K3b` or run 
+To launch K3b from the menu :menuselection:`Sound & Video --> K3b` or run 
 
 .. code:: 
 

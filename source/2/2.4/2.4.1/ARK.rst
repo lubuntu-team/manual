@@ -48,6 +48,8 @@ To toggle preview for files larger than a certain size check/uncheck the :guilab
 
 To see your keyboard shortcuts for ARK :menuselection:`Settings --> Configure Shortcuts`. To see what each individual shortcut does is in the :guilabel:`Action` column. To see what each keyboard shortcut is :guilabel:`Shortcut` column. To see what your alternate shortcut for each action see the :guilabel:`Alternate` column. To change to a custom keyboard shortcut left click on the item in the :guilabel:`Action` column and press the custom radio button. Then on the button to the right press and input the keyboard shortcut you desire. To restore your keyboard shortcuts to the defaults press the :guilabel:`Defaults` button.
 
+.. image:: ark-shortcut-config.png
+
 How to launch
 -------------
 To launch ARK go to the menu :menuselection:`Accessories --> ARK` or run 

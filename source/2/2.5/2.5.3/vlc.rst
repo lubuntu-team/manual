@@ -82,7 +82,7 @@ To change the elements for the time toolbar use the :guilabel:`Time toolbar` tab
 
 To view plugins and extensions dialog window :menuselection:`Tools --> Plugins and Extensions`. To download more extensions press the :guilabel:`Find More Online` button. To view only plugins you have installed on your system check the :guilabel:`Only installed` checkbox. To view all addons click on the :guilabel:`All` tab of addons. To view only skins to view vlc differently press on the :guilabel:`Skins` tab. To view an extensions to add on click on the :guilabel:`Extensions` tab. 
 
-To show your Active extensions use the :guilabel:`Active Extensions tab`. To reload to see if there are any more press the :guilabel:`Reload extensions` button. To see more information on an extensions press the :guilabel:`More information` button.
+To show your Active extensions use the :guilabel:`Active Extensions tab`. To reload to see if there are any more press the :guilabel:`Reload extensions` button. To see more information on an extensions press the :guilabel:`More information` button. To change how many frames per second are on the substitles change use the :guilabel:`Subtitle spped` field. To change how long the subtitles stay on the screen change the :guilabel:`Subtitle duration factor` field.
 
 Version
 -------

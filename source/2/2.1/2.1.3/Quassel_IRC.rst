@@ -20,6 +20,8 @@ To add the Lubuntu IRC chat network click :menuselection:`File --> Networks --> 
 
 To join a channel simple type "/join 1" (where 1 is the channel name), right click the network and select join channel or use the join button. To leave a chanel right click on the channel name on the right hand side and select :menuselection:`Part` from the context menu. If you want to join the channel again after leaving it right click on the channel and select :menuselection:`Join`. To have your chat be hidden until you rejoin it again right click on the channel and select :menuselection:`Hide Chats(s) Temporirarily`. To hide the chat forever right click on the channel and select :menuselection:`Hide Chats(s) Permananetly`.
 
+To switch between multiple channels left lcick on the channels on the left hand side. You also can switch between multiple channels with :kbd:`Alt + up arrow` to move up or :kbd:`Alt + Down arrow` to move down. To go to the next active chat press :kbd:`Alt + Right` or to go to the previous active chat :kbd:`Alt + Left`. To jump to a hot chat press :kbd:`Meta +A`. 
+
 In Quasel if someone says your name you are said to be highlighted which in Quasel will make a sound and in a goldenrod color over the line of text with your name on it. The notification will also be shown on your desktop if you are in another window. 
 
 To use Sasl authentication to autologin to an account no matter which nickname you want to use :menuselection:`File --> Networks --> Configure networks` to bring up a network configuration dialog. Click on the autoidentify tab and press the checkbox for :guilabel:`Use SASL Authentication`. Enter your username on the IRC network in the :guilabel:`Account` text field. Input your password into the :guilabel:`Password` field so that you know how to auto identify. You can also autoidentify without  using sasl by clicking the Top checkbox. Nickserv is a sensible default for what the services is but it may be different on different servers and put your password in where you autoidentify. 
@@ -28,7 +30,7 @@ If you want to have settings for automatic reconnecting :menuselection:`File -->
 
 .. image:: quassel_irc.png
 
-To ignore a really annoying user you can on the nicks bar on the right hand side right click ignore and then select a user to ignore so you will not see what they type. If you realize you want to talk to them again Right click the same username and uncheck the checkbox for the ignore rule you created. You also can switch between multiple channels with :kbd:`Alt + up arrow` to move up or :kbd:`Alt + Down arrow` to move down. To go to the next active chat press :kbd:`Alt + Right` or to go to the previous active chat :kbd:`Alt + Left`. To jump to a hot chat press :kbd:`Meta +A`. 
+To ignore a really annoying user you can on the nicks bar on the right hand side right click ignore and then select a user to ignore so you will not see what they type. If you realize you want to talk to them again Right click the same username and uncheck the checkbox for the ignore rule you created.  
 
 To type a message to an entire channel type into the bar at the bottom and press enter. To complete typing someone's nickname press the :kbd:`Tab` key to complete their name. To paste text into the channel such as a link press :kbd:`Control + V` or right click paste. If you see a hyperlink in chat you can left click on the link to open in your webbrowser. Another is if you want to copy the link right click on it and :menuselection:`Copy Link Address`.   
 

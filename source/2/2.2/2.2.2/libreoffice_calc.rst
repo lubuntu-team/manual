@@ -21,7 +21,7 @@ To insert an image press :menuselection:`Insert --> Image`. To get to the dialog
 
 .. image:: chartwindow.png
 
-If you want to insert a new column to the left of a column right click on the letter for the column Insert column left. If you want the new column to the right is right click on the letter and insert column right. If you want to delete a column right click on the letter and delete column. To insert a row above the current row right click on the number and insert row above. To insert a row below the current row right click on the number and insert row below. To delete a row right click the number  and select :menuselection:`Delete rows`.  
+If you want to insert a new column to the left of a column right click on the letter for the column :menuselection:`Insert Column Before`. If you want the new column to the right is right click on the letter and :menuselection:`Insert Column After`. To insert a row above the current row right click on the number and :menuselection:`Insert Row Above`. To insert a row below the current row right click on the number and :menuselection:`Insert Row Below`. To delete a row or column right click the number  and select :menuselection:`Delete rows` or :menuselection:`Delete Column`.  
 
 To change the size of a row or column of cells click in between the border of that particular row or column and drag with the mouse to give yourself room. 
 

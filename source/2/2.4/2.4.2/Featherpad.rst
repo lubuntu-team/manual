@@ -32,6 +32,8 @@ To search your text file press :kbd:`Control + f` or :menuselection:`Search --> 
 
 To change what font you want select :menuselection:`Options --> Font` to change your font sizes. To change each font on the on the font level. To change the size type the size you or select it from the :guilabel:`Size` drop down menu. To select a font style simply use the :guilabel:`Font style` menu of italic or oblique. To add an underlined font check the :guilabel:`Underline` checkbox. To view a sample of your font :guilabel:`Sample` and will preview your text. The input a number of spaces equal to a tab press :kbd:`Control +Tab`.
 
+.. image:: featherpad-font.png
+
 To save a file with a different encoding use the :menuselection:`Options --> Encoding` submenu. To save with the current encoding :menuselection:`File --> Save with Encoding`.
 
 To make the text all lowercase press :kbd:`Control + Shift +L` or :menuselection:`Edit --> To Lowercase`. To make the text all uppercase press :kbd:`Control + Shift +U` or :menuselection:`Edit --> To Uppercase`. 

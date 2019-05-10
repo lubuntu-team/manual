@@ -64,6 +64,8 @@ The :guilabel:`Font` tab has settings to change settings with your fonts. To cho
 
 The :guilabel:`Colors` tab has the colors of your user interface. To change your foreground color will change how the display or the number in the interface is the color next to :guilabel:`Foreground` color area to select. To change the background color of your display choose a different color on :guilabel:`background` button. To change the background color of the function buttons press the button next to :guilabel:`Functions`. To a change the color of the function button press button next to :guilabel:`Statisical functions`. To change the background color for hexidecimal functions :guilabel:`Hexadecimals`. To change the backgrounds of the numbers buttons press the button next to  :guilabel:`Numbers`. To change the background of the memory keys press the button next to :guilabel:`memory`. To change the background of operations press the button next to :guilabel:`Operations`.
 
+.. image::  kcalc-colors.png
+
 To change your settings for :guilabel:`Constants` of to get constants constants stored is in the constants tab. To input a constant you have in the field to the left is the name of the constant on the field to the left. The filed in the center is where you put the value of the constant. To select from predefined constants press on the :guilabel:`Predefined` to bring up a menu of predefined constants.
 
 Version

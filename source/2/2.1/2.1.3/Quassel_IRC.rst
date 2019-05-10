@@ -62,6 +62,8 @@ The :guilabel:`Chat & Nick Lists` has settings for the lists of nickname lists. 
 
 The :guilabel:`Input widget` has settings for what you tab to type into chanels or private messages. The :guilabel:`Custom Font` checkbox has a thing to activate your own custom font for just input and press the :guilabel:`Choose` button to the font. To have per chat history check the :guilabel:`Enable per chat History` checkbox. The checkbox :guilabel:`Show nick selector` puts a widget in the lower left corner of the window to select different nicks. The checkbox :guilabel:`Show style buttons` shows buttons that style your text hidden in an arrow under an arrow. To enable line wrapping when you type a long line in the input box check the :guilabel:`Line Wrapping`  checkbox.
 
+To change how quassel displays the topic of each channel use the :guilabel:`Topic Widget` tab. To use a custom font for your topic press the :guilabel:`Custom font` checkbox and to choose a different font press the :guilabel:`Choose` button. To choose to resize to fit the topic check the :guilabel:`Resize dynamically to fit contents`. To only do this when you hove over the topic check the :guilabel:`On hover only` checkbox. 
+
 Version
 -------
 Lubuntu ships with version 1:0.13.1 of Quassel IRC.

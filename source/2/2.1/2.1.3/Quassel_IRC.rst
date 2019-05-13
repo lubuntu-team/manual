@@ -54,7 +54,7 @@ and still have quassel running in the system tray to bring it back up check the 
 
 The :guilabel:`Chat view` tab has settings for colors timestamps and hyperlinks. To chose a custom chat window font press the :guilabel:`Custom chat window font` checkbox and then press the :guilabel:`choose` button to choose a new font. To toggle if you want colored text press/unpress the :guilabel:`Allow colored text` checkbox. To toggle previews of hyperlinks in chat check/uncheck the :guilabel:`Show previews of webpages on URL hover`. To toggle setting marker line when switching chats check/uncheck the :guilabel:`Set marker line automatically when switching chats`. To toggle the set marker line automatically when Quassel losses focus check/uncheck :guilabel:`Set marker line automatically when Quassel loses focus` checkbox. 
 
-To change the Colors of your user interface on Quassel check the :guilabel:`Custom Colors` checkbox. Then there are many buttons for each different kind of message which you can press the buton that all bring up the 1specific color for that kind of message. 
+To change the Colors of your user interface on Quassel check the :guilabel:`Custom Colors` checkbox. Then there are many buttons for each different kind of message which you can press the buton that all bring up the specific color for that kind of message. 
 
 .. image:: quasselpref.png
 

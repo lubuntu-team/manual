@@ -28,15 +28,15 @@ Scientific calculator mode advanced functionality
 
 If you want even more functionality of Kcalc there is also scientific mode which is accessed from :menuselection:`Settings --> Scientific Mode` radio button. The button :guilabel:`1/x` takes takes 1 and divides it by the number currently on the calculator also known as taking the reciprocal. :guilabel:`x!` read x factorial will take the number X you entered and multiple each number going down to 1 for example 5! would multiply 5*4*3*2*1. 
 
-The x :superscript:`2` button will take a x*x and multiply it by itself or square x. The button with x :superscript:`y` will take x the number you have in will exponeniate x to the power of y. The x 10 :superscript:`y` will end up multiplying x by 10 to the power of y so for example to multiply 5 by 10 to the power of 3 entering in will give the answer of 5,000. If you want your own custom constant buttons check the checkbox for :menuselection:`Settings --> Constants Buttons`.
+The x :superscript:`2` button will take a x*x and multiply it by itself or square x. The button with x :superscript:`y` will take x the number you have in will exponentiate x to the power of y. The x 10 :superscript:`y` will end up multiplying x by 10 to the power of y so for example to multiply 5 by 10 to the power of 3 entering in will give the answer of 5,000. If you want your own custom constant buttons check the checkbox for :menuselection:`Settings --> Constants Buttons`.
 
-To change the unit that angles are measured in for triginometric units in Kcalc. Degrees take 360 to form a full circle while, 2Π radians form a full circle and 400 gradians form a full circle. The radio button for Deg is to select Degrees as the unit for angles, :guilabel:`Rad` selects radian as the unit of measurment of angles and :guilabel:`Grad` selects Gradians as the unit of measurement for angles. The :guilabel:`Sin` button takes what you have as the input and takes the trigonometric sine function of that value measured in the unit for angles you have selected. The :guilabel:`cos` button takes the cosine of the vlaue in the unit of angle you have selected. The :guilabel:`tan` button takes the tangent of the angle in the current units.
+To change the unit that angles are measured in for trigonometric units in Kcalc. Degrees take 360 to form a full circle while, 2Π radians form a full circle and 400 gradians form a full circle. The radio button for Deg is to select Degrees as the unit for angles, :guilabel:`Rad` selects radian as the unit of measurement of angles and :guilabel:`Grad` selects Gradians as the unit of measurement for angles. The :guilabel:`Sin` button takes what you have as the input and takes the trigonometric sine function of that value measured in the unit for angles you have selected. The :guilabel:`cos` button takes the cosine of the value in the unit of angle you have selected. The :guilabel:`tan` button takes the tangent of the angle in the current units.
 
-To have a log with the base of 10 type the number you want to take the log of then press the :guilabel:`Log` button. To take a log based off e type the number you want to take the logarythm of then press the :guilabel:`Ln` button.
+To have a log with the base of 10 type the number you want to take the log of then press the :guilabel:`Log` button. To take a log based off e type the number you want to take the logarithm of then press the :guilabel:`Ln` button.
 
 The Scientific mode also brings in a menu for many different predetermined comments under the :menuselection:`Constants`.
  
-To store a value in memory press the :guilabel:`M+` Button. To retirve a value from memory press the :guilabel:`MR` button. To clear a value from memory press the :guilabel:`MC` button.
+To store a value in memory press the :guilabel:`M+` Button. To retrieve a value from memory press the :guilabel:`MR` button. To clear a value from memory press the :guilabel:`MC` button.
 
 .. image:: kcalc-scientific.png
 

@@ -16,9 +16,9 @@ If you use a single monitor you can change your single monitor resolution on the
 
 If you want to rotate a monitor on the :guilabel:`Advanced` tab from the  menu labeled :guilabel:`Rotation` choose the way you want to rotate the monitor with inverted being upside down. Below you can also choose the refresh rate of monitor from the :guilabel:`Refresh rate` drop down menu to choose how fast your monitor refreshes.  
 
-To display info on your monitor click the :guilabel:`Info` tab and read that info. The fields explained will be the Name of the monitor the serial numberthe size of the display and the serial number.
+To display info on your monitor click the :guilabel:`Info` tab and read that info. The fields explained will be the Name of the monitor the serial number the size of the display and the serial number.
 
-To save your monitor settings press the :guilabel:`Save` button and a pop up will show that your have your settings OK for you and press :guilabel:`Yes`. To view your saved settings press the :guilabel:`Settings` button. Your saved settings are by default saved under the time and date. If you want to apply your saved settings press the settings button with the gear around the lightbulb. To choose your saved settings press the setting you want and the :guilabel:`Apply` button and your settings will be applied. To give your saved settings a meaningful name you can press the :guilabel:`Rename` button with a name for what you want and can remember what it is. If you want to delete these setting later press the :guilabel:`Delete` button.   
+To save your monitor settings press the :guilabel:`Save` button and a pop up will show that your have your settings OK for you and press :guilabel:`Yes`. To view your saved settings press the :guilabel:`Settings` button. Your saved settings are by default saved under the time and date. If you want to apply your saved settings press the settings button with the gear around the light bulb. To choose your saved settings press the setting you want and the :guilabel:`Apply` button and your settings will be applied. To give your saved settings a meaningful name you can press the :guilabel:`Rename` button with a name for what you want and can remember what it is. If you want to delete these setting later press the :guilabel:`Delete` button.   
 
 
 

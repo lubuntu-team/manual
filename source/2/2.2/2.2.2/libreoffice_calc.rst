@@ -1,7 +1,7 @@
 Chapter 2.2.2 Libreoffice Calc
 ==============================
 
-Libreoffice Calc is a spreadsheat program included by default in Lubuntu.
+Libreoffice Calc is a spreadsheet program included by default in Lubuntu.
 
 Usage
 ------
@@ -17,7 +17,7 @@ To change to showing currency for the number press :kbd:`Control+Shift+4` or :me
 
 To view values highlighted in another color to see them easier press :kbd:`Control+F8` or :menuselection:`View --> Value Highlighting`.
 
-To insert an image press :menuselection:`Insert --> Image`. To get to the dialog of how to insert a chart :menuselection:`Insert --> Chart`. The first selection is to choose a column, bar, Pie, Area, Line, XY(Scatter), Bubble, Net, Stock, or Column and Line chart. To change the subtype of graph click the pciture of a chart that looks like the type you want.
+To insert an image press :menuselection:`Insert --> Image`. To get to the dialog of how to insert a chart :menuselection:`Insert --> Chart`. The first selection is to choose a column, bar, Pie, Area, Line, XY(Scatter), Bubble, Net, Stock, or Column and Line chart. To change the subtype of graph click the picture of a chart that looks like the type you want.
 
 .. image:: chartwindow.png
 
@@ -34,7 +34,7 @@ To zoom to view a full page on your spreadsheet in the menu :menuselection:`View
 
 To select all cells in your spreadsheet press :kbd:`Control+A`. To select an entire column press :kbd:`Control+Space` or :menuselection:`Edit --> Select --> Select Column`. To select an entire row press :kbd:`Shift +Space` or :menuselection:`Edit --> Select --> Select Row`.
 
-To createa a new spreadsheet in the same file press the button on the bottom that looks like a :guilabel:`+` or :menuselection:`Sheet --> Insert Sheet`. To switch between each sheet perss the button on each sheet at the bottom near the button to add a new sheet.
+To create a new spreadsheet in the same file press the button on the bottom that looks like a :guilabel:`+` or :menuselection:`Sheet --> Insert Sheet`. To switch between each sheet press the button on each sheet at the bottom near the button to add a new sheet.
 
 
 To insert a special character not on your keyboard :menuselection:`Insert --> Special Character`. To select what character to insert left click in the center of the inserting character window. To actually insert the symbol press the :guilabel:`Insert` button.

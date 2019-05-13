@@ -20,7 +20,7 @@ The :guilabel:`Icons Theme` tab changes desktop icons on your computer and if yo
 
  .. image:: appearance-icon-theme.png
 
-The tab for :guilabel:`LXQt Theme` lets you change how the panel and notifictions appear. To change the theme left click on the theme name to change the theme. To the left of the theme name there is a small preview of the panel and the default button for the panel. The checkbox :guilabel:`Override user-defined wallpaper` changes your wallpaper to one that comes with the LXQt theme. 
+The tab for :guilabel:`LXQt Theme` lets you change how the panel and notifications appear. To change the theme left click on the theme name to change the theme. To the left of the theme name there is a small preview of the panel and the default button for the panel. The checkbox :guilabel:`Override user-defined wallpaper` changes your wallpaper to one that comes with the LXQt theme. 
 
 The :guilabel:`Font` tab has settings for fonts. To change the font size that desktop applications use choose the font tab and change the :guilabel:`Point size` and enter in the size you want or use the up and down arrows to increase or decrease font size respectively. To change the default font there is a drop down box for font name that you can type the font name you or select from the drop down menu. The checkbox for  :guilabel:`Use antialias fonts` and :guilabel:`Font hinting` for fonts lets you also set antialiased fonts which are enabled for easier screen viewing. The :guilabel:`Resolution(DPI)` sets the resolution or dots per inch of the screen.  
 

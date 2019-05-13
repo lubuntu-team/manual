@@ -11,7 +11,7 @@ Usage
 ------
 To preview what you want to scan press the :guilabel:`Preview` button and you can make sure the scan is in a good position. With this done you can press the :guilabel:`Scan` button to scan the document after this a dialog will show up asking you were to save what you are scanning. If you want to cancel your scan midway through the scan or preview click on the red octagon with a white inside x button to cancel the scan while the scan is in progress. Then a file save dialog will pop up and type the file name you want in the :guilabel:`File name` field and then press the :guilabel:`Save` button.
 
-If your scanner is not detected a you will get a device saying "Sorry no devices detected" whith having a button for :guilabel:`Reload devices list` to try and find your scanner again. If you want to cancel press the :guilabel:`Cancel` button. 
+If your scanner is not detected a you will get a device saying "Sorry no devices detected" while having a button for :guilabel:`Reload devices list` to try and find your scanner again. If you want to cancel press the :guilabel:`Cancel` button. 
 
 To change the dpi or dots per inch is the dpi drop down menu for :guilabel:`Scan resolution` but keep in mind the higher the number of dpi the better the picture quality but the longer it will take to scan. Changing the :guilabel:`Scan mode` allows you to select color to select color scanning or gray to only show your scan in gray and not use color ink if you would want to print it out again.  
 

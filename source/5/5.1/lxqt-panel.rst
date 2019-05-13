@@ -52,7 +52,7 @@ Shipped applets not enabled by default:
  - Color Picker
  - Panel Dom Tree
  - Sensors
- - System Statisitics
+ - System Statistics
  - Spacer
 
 .. image:: panel-config-widgets.png

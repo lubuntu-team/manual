@@ -17,6 +17,8 @@ Libreoffice if you shutdown without saving your work libreoffice will automatica
 
 from the command line to be able to launch libreoffice if it keeps crashing at startup.
 
+If you are about to close a document without saving it in libreoffice a dialog will popup asking :guilabel:`Save changes to document before closing?`. If you do not want to save what you were working on press the :guilabel:`Don't Save` button. To not quit libreoffice press the :guilabel:`Cancel` button. To Save the document to not lose your work press the :guilabel:`Save` button.
+
 Screenshot
 ----------
 .. image:: libreoffice.png

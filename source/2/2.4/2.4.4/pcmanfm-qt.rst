@@ -71,7 +71,7 @@ To search for files press :kbd:`f3` or :menuselection:`Tool --> find files`. To 
 
 .. image:: filesearch.png 
 
-To change what types of files you use choose the :guilabel:`File Type` tab. To choose to search for only certain file check/uncheck the files under the text :guilabel:`Only search for files of following types:` text. The options for which type of file include: Text files, Image files, Audio files, Video files, Documents, or Folders.
+To change what types of files you use choose the :guilabel:`File Type` tab. To choose to search for only certain file check/uncheck the files under the heading :guilabel:`Only search for files of following types:`. The options for which type of file include: Text files, Image files, Audio files, Video files, Documents, or Folders.
 
 The :guilabel:`Properties` tab has more settings based on information about the file also called metadata. To only show results on files larger than this file check the :guilabel:`Larger than` checkbox and then in the field to the right for size. To only show files smaller than this check the :guilabel:`Smaller than` checkbox and to the field to the right select the size smaller than that. To search for files modified before a date check the :guilabel:`Earlier than` checkbox and select the date to the right. To search for a file modified after a date check the :guilabel:`Later than` checkbox and input the date to the right.
 

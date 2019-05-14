@@ -36,7 +36,7 @@ To change what font you want select :menuselection:`Options --> Font` to change 
 
 To save a file with a different encoding use the :menuselection:`Options --> Encoding` submenu. To save with the current encoding :menuselection:`File --> Save with Encoding`.
 
-To make the text all lowercase first select it with the mouse press then :kbd:`Control + Shift +L` or :menuselection:`Edit --> To Lowercase`. To make the text all uppercase select it first then  press :kbd:`Control + Shift +U` or :menuselection:`Edit --> To Uppercase`. 
+To make the text all lowercase first select it with the mouse press then :kbd:`Control + Shift +L` or :menuselection:`Edit --> To Lowercase`. To make the text all uppercase select it first then  press :kbd:`Control + Shift +U` or :menuselection:`Edit --> To Uppercase`. To alphabetize your lines first select it then :menuselection:`Edit --> Sort Lines`. To sort the opposite way first select the lines then :menuselection:`Edit --> Sort Lines Reversely`. 
 
 To print a text :menuselection:`File --> Print` or press :kbd:`control + p`.  
 

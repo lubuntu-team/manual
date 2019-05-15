@@ -11,7 +11,7 @@ To search for a program, press :kbd:`Alt + F2` and start typing a command. The s
 
 Runner can also work as a calculator if you put for example :kbd:`2+2=` and you will get the answer. To add numbers together with the calculator enter the :kbd:`+` in the bar. To subtract numbers together with the calculator enter the :kbd:`-` in the bar. To multiply numbers enter :kbd:`*` into the bar. To divide numbers in runner enter :kbd:`/` into the bar. To exponentiate enter :kbd:`^` into the bar.
 
-You can also leave your session with lxqt-runner. To shut your computer all the way down press the button that looks like a downward pointing arrow and select :menuselection:`Shutdown`. To suspend your system press the downward pointing arrow and select :menuselection:`Suspend`.i To reboot your system press the downward pointing arrow and select :menuselection:`Reboot`. To logout of your system press the downward pointed arrow and select :menuselection:`Logout`. To lock your screen from the runner press the downward pointing arrow and select :menuselection:`Lock Screen`.
+You can also leave your session with lxqt-runner. To shut your computer all the way down press the button that looks like a downward pointing arrow and select :menuselection:`Shutdown`. To suspend your system press the downward pointing arrow and select :menuselection:`Suspend`. To reboot your system press the downward pointing arrow and select :menuselection:`Reboot`. To logout of your system press the downward pointed arrow and select :menuselection:`Logout`. To lock your screen from the runner press the downward pointing arrow and select :menuselection:`Lock Screen`.
 
 Configuration
 -------------

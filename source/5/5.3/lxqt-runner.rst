@@ -13,19 +13,16 @@ Runner can also work as a calculator if you put for example :kbd:`2+2=` and you 
 
 You can also leave your session with lxqt-runner. To shut your computer all the way down press the button that looks like a downward pointing arrow and select :menuselection:`Shutdown`. To suspend your system press the downward pointing arrow and select :menuselection:`Suspend`. To reboot your system press the downward pointing arrow and select :menuselection:`Reboot`. To logout of your system press the downward pointed arrow and select :menuselection:`Logout`. To lock your screen from the runner press the downward pointing arrow and select :menuselection:`Lock Screen`.
 
+Screenshot
+---------------
+.. image:: runner.png
+
 Configuration
 -------------
 
 Runner has a few configuration options. If you want to change the keyboard shortcut to launch programs, click the downward arrow on the right side of the search bar to open up the menu. Select the gear icon to configure, at the bottom there is a label that says shortcut and then a button that lists the current shortcut. Left click on the :guilabel:`Shortcut` button and a countdown will begin in which time you need to press the key or combination of keystrokes you want to launch lxqt-runner. In this screen there is a  checkbox for :guilabel:`Store/Show history`. If you want to show history first check the :guilabel:`Show history first` checkbox. To change how many results are shown when you show a result for runner change the :guilabel:`Show list with x item(s)` field. To change where the runner appears to the center change :guilabel:`Positioning` drop down menu to center of the screen. To reset your changes in this window press the :guilabel:`Reset` button. 
 
 .. image:: runner-config.png
-
-Screenshot
----------------
-
-
-.. image:: runner.png
-
 
 How to launch
 -------------

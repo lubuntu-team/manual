@@ -61,6 +61,8 @@ To configure options for your application menu right click on the menu configure
 
 To turn off searching in the menu uncheck the :guilabel:`Filter menu entries` and :guilabel:`Show matching entries checkbox`. Leave both of these checked to allow searching. To set the most number of search results in the menu change the :guilabel:`Maximum visible items` field. To change how wide each search result can be change the :guilabel:`Max. item width` field. To not hide what section of the menu everyone has :guilabel:`Hide menu entries while searching` checkbox. To not clear your search upon opening the menu again uncheck the :guilabel:`Clear search upon showing menu` checkbox.
 
+.. image:: menu-pref.png 
+
 To customize the desktop switcher right click on the desktop switcher :menuselection:`Configure Desktop Switcher` or press the :guilabel:`Gear` button. To change the number of rows on your desktop change the :guilabel:`Number of rows` field. To change how desktops are labeled change the :guilabel:`Desktop Labels` field. To change the name of each desktop enter a name under :guilabel:`Desktop Names`. 
 
 To move an item in quick launch to the right right click on the icon and select :menuselection:`Move right` on the menu. To move an item in quick launch to the left right click on the icon and select :menuselection:`Move left`. To remove an item from quicklaunch right click on the icon Remove from quicklaunch. To add an item to quick launch drag it down from the main menu.

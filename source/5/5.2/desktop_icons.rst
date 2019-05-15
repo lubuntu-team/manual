@@ -9,9 +9,14 @@ Adding and removing items from the desktop
 2.  You can also create shortcuts by dragging and dropping files and folders from the File manager onto the desktop.
 3. To rename a file on the desktop right click on the icon :menuselection:`Rename`.
 4. To open the properties of a file or icon on your desktop right click the icon :menuselection:`Properites`. 
+5. You can create files on your desktop by saving them in the desktop directory in your home folder.
 
 
 .. image:: desktop_entry.png
 
-To remove a desktop icon right click on the file and click :menuselection:`Move to Trash`.  
+To remove a desktop icon right click on the file and click :menuselection:`Move to Trash`. 
+
+Editing
+-------
+To edit a desktop entry including those on your menu you will need to open the .desktop entry in featherpad or the text editor of your choice. 
 

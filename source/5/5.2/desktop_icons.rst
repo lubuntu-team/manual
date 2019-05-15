@@ -18,5 +18,5 @@ To remove a desktop icon right click on the file and click :menuselection:`Move 
 
 Editing
 -------
-To edit a desktop entry including those on your menu you will need to open the .desktop entry in featherpad or the text editor of your choice. To launch a program with an option simply add that option to the line that starts with Exec=.
+To edit a desktop entry including those on your menu you will need to open the .desktop entry in featherpad or the text editor of your choice you can also on desktop icons right click on the icon and :menuselection:`Open With`. To launch a program with an option simply add that option to the line that starts with Exec=.
 

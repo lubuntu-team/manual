@@ -25,7 +25,7 @@ To check for updates in muon press :kbd:`Control + R` or the gear button with an
 
 If you want to save all of your packages on a text file you can :menuselection:`File --> Save Download Pakcage List`.
 
-On the bottom of muon package manager there is a toolbar that states how many packages are available, installed, and upgradeable.
+On the bottom of muon package manager there is a toolbar that states how many packages are :guilabel:`available`, :guilabel:`installed`, and :guilabel:`upgradeable`.
 
 To hide the toolbar uncheck the :menuselection:`Settings --> Show Toolbar` checkbox.
 

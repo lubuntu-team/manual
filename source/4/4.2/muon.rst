@@ -23,7 +23,8 @@ If you remove some packages you may have packages that were dependencies that ar
 
 To see what repository a package comes from on the left hand side use the :guilabel:`By Origin` filter on the left hand side. :guilabel:`Ubuntu` shows packages from the official ubuntu repositories.
 
-To check for updates in muon press :kbd:`Control + R` or the gear button with an arrow or :menuselection:`Edit --> Check for Updates`. To actually update and install these upgrades fully press the :guilabel:`Full Upgrade` button or :menuselection:`Edit --> Full Upgrade` and then press the :guilabel:`Apply Changes` button. 
+
+To check for updates in muon press :kbd:`Control + R` or the gear button with an arrow or :menuselection:`Edit --> Check for Updates`. To actually update and install these upgrades fully press the :guilabel:`Full Upgrade` button or :menuselection:`Edit --> Full Upgrade` and then press the :guilabel:`Apply Changes` button. After this a status bar towards the bottom will show how much total progress is on the upgrade.
 
 If you want to save all of your packages on a text file you can :menuselection:`File --> Save Package Download List`.
 

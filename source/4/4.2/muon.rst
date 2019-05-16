@@ -17,7 +17,7 @@ When you find your package you want to install on the bottom half of the screen 
 
 .. image::  lower-muon-screen.png
 
-If you want to see your history of package updates and installed from the :menuselection:`View --> History` or press :kbd:`control + h`. To search through your history enter what you want to search for in the :guilabel:`Search` bar. To the right to the search is a drop down menu to choose wheter to view :guilabel:`All changes`, :guilabel:`Installations`, :guilabel:`Updates`, or :guilabel:`Removals`. Under the :guilabel:`Date` field shows collapseable search results of the kind of packages you are looking for. 
+If you want to see your history of package updates and installed from the :menuselection:`View --> History` or press :kbd:`control + h`. To search through your history enter what you want to search for in the :guilabel:`Search` bar. To the right to the search is a drop down menu to choose wheter to view :guilabel:`All changes`, :guilabel:`Installations`, :guilabel:`Updates`, or :guilabel:`Removals`. Under the :guilabel:`Date` field shows collapseable search results of the kind of packages you are looking for. To collapse or uncollapse a the operation on a particular date press the :guilabel:`+` button to uncollapse an operation on a date. To collapse operations on a particular date is to press the :guilabel:`-` button.
 
  To view all installed packes on the left hand side of the window under filtered click the divider for :guilabel:`By status` and select :guilabel:`Installed`. Now in the upper main part of the window will be a window with a scrollbar to see all packages on your system. 
 

@@ -47,6 +47,8 @@ The checkbox for :guilabel:`Override icon theme` lets you choose a non system de
 
 The :guilabel:`Widgets` lets you change the widgets or individual items on the panel and their configuration. To add a new widget click on the widget on the panel configuration screen and press the :guilabel:`+`  button and select the widget you want to add some of which are not on the panel by default. To move an applet down on the order of presentation press the down arrow while the up arrow moves the applet up on the order of presentation. To remove an applet you do not want you can press the :guilabel:`-` button. The gear button has the settings for certain but not all of the applets in the panel for example the application menu and task manager are customizable but quick launch and show desktop do not.  
 
+.. image::  widget-add.png
+
 Shipped applets not enabled by default:
  - Cpu Monitor
  - Color Picker

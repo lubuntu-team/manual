@@ -23,6 +23,7 @@ If you remove some packages you may have packages that were dependencies that ar
 
 To see what repository a package comes from on the left hand side use the :guilabel:`By Origin` filter on the left hand side. :guilabel:`Ubuntu` shows packages from the official ubuntu repositories.
 
+To see what architecture a package uses use the :guilabel:`By Architecture` filter. To see all architectures use the :guilabel:`All` line. To see common packages see the :guilabel:`Common` for packages common to all architextures. To see 64 bit packages use the :guilabel:`64-bit` line. To see 32 bit packages use the :guilabel:`32-bit` line.  
 
 To check for updates in muon press :kbd:`Control + R` or the gear button with an arrow or :menuselection:`Edit --> Check for Updates`. To actually update and install these upgrades fully press the :guilabel:`Full Upgrade` button or :menuselection:`Edit --> Full Upgrade` and then press the :guilabel:`Apply Changes` button. After this a status bar towards the bottom will show how much total progress is on the upgrade.
 

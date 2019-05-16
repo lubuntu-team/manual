@@ -23,7 +23,7 @@ If you remove some packages you may have packages that were dependencies that ar
 
 To check for updates in muon press :kbd:`Control + R` or the gear button with an arrow or :menuselection:`Edit --> Check for Updates`. To actually update and install these upgrades fully press the :guilabel:`Full Upgrade` button or :menuselection:`Edit --> Full Upgrade` and then press the :guilabel:`Apply Changes` button. 
 
-If you want to save all of your packages on a text file you can :menuselection:`File --> Save Download Pakcage List`.
+If you want to save all of your packages on a text file you can :menuselection:`File --> Save Package Download List`.
 
 On the bottom of muon package manager there is a toolbar that states how many packages are :guilabel:`available`, :guilabel:`installed`, and :guilabel:`upgradeable`.
 

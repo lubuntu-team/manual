@@ -76,7 +76,6 @@ The :guilabel:`Shortcuts` tab provides the ability to customize keyboard shortcu
 .. image::   qpdfview-shortcuts.png
 
 
-
 Version
 -------
 Lubuntu ships with version 0.4.17 of qpdfview.

@@ -66,5 +66,8 @@ To get to your preferences for Muon package manager :menuselection:`Settings -->
 
 To change settings on your toolbar :menuselection:`Settings --> Configure Toolbars`. To remove an item from the current items on the toolbar press the button that is the leftward pointing arrow. To add an item to the toolbar press the button that is the rightward pointing arrow. To move an item up or down on the toolbar press the upward pointing arrow button. To move an item down press the downward pointing arrow button.
 
+.. image:: muon-toolbar.png
+ 
+
 To view and configure your shortcuts :menuselection:`Settings --> Configure Shortcuts` and a window to open shortcuts will appear. The column for :guilabel:`Action` says what the keyboard shortcut will do. The column  :guilabel:`Shortcut` will let you have a shortcut to apply changes. To add shortcut to something that does not have it press the small faint :menuselection:`-->` will bring a drop down menu and press the button next to the word :guilabel:`Custom` and input :kbd:`Your shortcut here`.
 

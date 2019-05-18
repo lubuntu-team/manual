@@ -26,7 +26,7 @@ To view the next picture on your image press the :kbd:`right arrow` or :kbd:`pag
 
 To view the picture entirely at its original size press :menuselection:`View --> Fit` or the button with a vertical and horizontal arrow and a folded over bottom right corner. To return your image to its original size press the magnifying button with 1:1 inside it or :menuselection:`View --> Original Size`. To show information about the settings on the camera :menuselection:`View --> Show EXIF Data`. 
 
-To view the picture as fullscreen press :kbd:`f11` or :menuselection:`View --> Fullscreen`. To have a slideshow of you pictures :menuselection:`View --> Slideshow`. Once you start the slideshow on the toolbar a play pause button will appear on the toolbar. 
+To view the picture as fullscreen press :kbd:`f11` or :menuselection:`View --> Fullscreen`. To have a slideshow of you pictures in your current folder :menuselection:`View --> Slideshow`. Once you start the slideshow on the toolbar a play pause button will appear on the toolbar. 
 
 Annotations
 ------------

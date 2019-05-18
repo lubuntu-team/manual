@@ -26,6 +26,8 @@ To view the next picture on your image press the :kbd:`right arrow` or :kbd:`pag
 
 To view thumbnails of the current directory you can toggle thumbnails by pressing :kbd:`T` or :menuselection:`View --> Show Thumbnails` and thumbnails will show at the bottom  with a scrollbar at the bottom of the window to view the whole folder. To open the thumbnail of a picture in a another program such as one to edit that picture right click :menuselection:`Open click` and select the program you want to edit with. To reaname an image after viewing it right click on the thumbnail select :menuselection:`Rename` and type the filename for the picture you want. To move a file to the trash can right click on it and select :menuselection:`Move to Trash`.
 
+.. image:: lximage-thumb.png
+
 To view the picture entirely at its original size press :menuselection:`View --> Fit` or the button with a vertical and horizontal arrow and a folded over bottom right corner. To return your image to its original size press the magnifying button with 1:1 inside it or :menuselection:`View --> Original Size`. To show information about the settings on the camera :menuselection:`View --> Show EXIF Data`. 
 
 To view the picture as fullscreen press :kbd:`f11` or :menuselection:`View --> Fullscreen`. To have a slideshow of you pictures in your current folder :menuselection:`View --> Slideshow`. Once you start the slideshow on the toolbar a play pause button will appear on the toolbar. 

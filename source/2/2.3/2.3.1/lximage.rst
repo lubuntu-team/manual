@@ -20,7 +20,7 @@ To rotate an image to the right press the circular arrow that points to the righ
 
 To flip your image on the vertical axis press :kbd:`V` or :menuselection:`Edit --> Flip Vertically`. To flip your image on the horizontal axis press :kbd:`H` or :menuselection:`Edit --> Flip Horizonatally`. 
 
-To copy an image to the clipboard you can :menuselection:`Copy to Clipboard`. To paste an image to the clipboard :menuselection:`Paste from Clipboard`.  
+To copy an image to the clipboard you can :menuselection:`Edit --> Copy to Clipboard`. To paste an image to the clipboard :menuselection:`Edit --> Paste from Clipboard`.  
 
 To view the next picture on your image press the :kbd:`right arrow` or :kbd:`page down` and conversly to view the previous image press the :kbd:`left arrow` or :kbd:`page up`. To view thumbnails of the current directory you can toggle thumbnails by pressing :kbd:`T` or :menuselection:`View --> Show Thumbnails` and thumbnails will show at the bottom  with a scrollbar at the bottom of the window to view the whole folder. You can also scroll between different pictures with the mousewheel as well. To jump to the first picture press :kbd:`home` or :menuselection:`Go --> First File`. To jump to the last picture press :kbd:`end` or :menuselection:`Go --> Last File`.   
 

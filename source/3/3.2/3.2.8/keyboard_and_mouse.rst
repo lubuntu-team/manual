@@ -13,7 +13,7 @@ The :guilabel:`Mouse` tab provides settings for how fast the mouse moves scrolls
 
 .. image:: keyboardandmouse.png
 
-If you wish to only have to tap once to perform a left click check the :guilabel:`Single click to activate items` checkbox. If you wish to swap left and right buttons on your mouse check the :guilabel:`Left handed` checkbox. Note that this also swaps the button on a touchpad. 
+If you wish to only have to tap once to perform a left click check the :guilabel:`Single click to activate items` checkbox. If you wish to swap left and right buttons on your mouse check the :guilabel:`Left handed` checkbox. Note that this also swaps the button on a touchpad. The :guilabel:`Wheel scroll lines` changes how many lines of text you scroll when you use the scrollwheel.
 
 The :guilabel:`Cursor` tab on the left lets you change your cursor theme which is quite useful if you are say running virtual machines so the cursor does not look the same in the host and the guest. To change a theme scroll down to which theme you want under preview but you will have to logout and log back in again for this to fully take effect. 
 

@@ -19,7 +19,7 @@ The :guilabel:`Cursor` tab on the left lets you change your cursor theme which i
 
 .. image:: input-cursor.png
 
-The :guilabel:`Keyboard` tab has settings for changing keyboard settings. If you want to change how quickly it takes to repeat a keyboard shortcut move the slider to the right on the :guilabel:`Repeat delay` to take longer to repeat key presses or to the left to decrease the time it takes to repeat. The :guilabel:`Repeat interval` is how quickly after the repeat delay the held down key will repeat itself which moving to the right will make it take longer to increase while to the left will make it take a short time to repeat itself. The :guilabel:`Turn on numlock after login` checkbox will make numlock automatically be on after you login.
+The :guilabel:`Keyboard` tab has settings for changing keyboard settings. If you want to change how quickly it takes to repeat a keyboard shortcut move the slider to the right on the :guilabel:`Repeat delay` to take longer to repeat key presses or to the left to decrease the time it takes to repeat. The :guilabel:`Repeat interval` is how quickly after the repeat delay the held down key will repeat itself which moving to the right will make it take longer to increase while to the left will make it take a short time to repeat itself. The :guilabel:`Turn on numlock after login` checkbox will make numlock automatically be on after you login. To test your keyboard settings type in the :guilabel:`Type in the following box to test your keyboard settings` text box.
  
 .. image:: keyboard-settings-tab.png
 

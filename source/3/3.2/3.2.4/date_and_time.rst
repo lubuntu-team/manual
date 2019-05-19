@@ -1,7 +1,7 @@
 Chapter 3.2.4 Date and Time
 ===========================
 
-Date and time is a program that lets you change your timezone toggle whether to get the time automatically and change the date if you are not connected to a network.
+Date and time is a program that lets you change your timezone toggle whether to get the time automatically and change the time and date manually if you are not connected to a network.
 
 Usage
 ------

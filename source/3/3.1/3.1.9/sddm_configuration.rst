@@ -20,4 +20,4 @@ To test your sddm configuration and make sure it is a valid one so you can log i
    
    sddm-greeter --test-mode
 
-To change the picture when you login simply copy the file to in your home folder with the name .face.icon . 
+To change the picture for your user when you login simply copy the file you want as your user picture to in your home folder with the name .face.icon . 

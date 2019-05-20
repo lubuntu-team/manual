@@ -19,3 +19,5 @@ To test your sddm configuration and make sure it is a valid one so you can log i
 .. code:: 
    
    sddm-greeter --test-mode
+
+To change the picture when you login simply copy the file to in your home folder with the name .face.icon . 

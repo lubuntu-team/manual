@@ -21,3 +21,11 @@ To test your sddm configuration and make sure it is a valid one so you can log i
    sddm-greeter --test-mode
 
 To change the picture for your user when you login simply copy the file you want as your user picture to in your home folder with the name .face.icon . 
+
+If you want to install other themes for sddm in muon or from the command line search for packages that start their name with sddm-theme. The theme will be stored in /usr/share/sddm/theme/. To test and see what this new theme looks like run
+
+.. code:: 
+
+sddm-greeter --test-mode --theme /path/to/theme
+
+from the command line.

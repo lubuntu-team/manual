@@ -26,6 +26,6 @@ If you want to install other themes for sddm in muon or from the command line se
 
 .. code:: 
 
-sddm-greeter --test-mode --theme /path/to/theme
+   sddm-greeter --test-mode --theme /path/to/theme
 
 from the command line.

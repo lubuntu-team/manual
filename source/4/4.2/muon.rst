@@ -19,10 +19,10 @@ When you find your package you want to install on the bottom half of the screen 
 
 If you want to see your history of package updates and installed from the :menuselection:`View --> History` or press :kbd:`control + h`. To search through your history enter what you want to search for in the :guilabel:`Search` bar. To the right to the search is a drop down menu to choose wheter to view :guilabel:`All changes`, :guilabel:`Installations`, :guilabel:`Updates`, or :guilabel:`Removals`. Under the :guilabel:`Date` field shows collapseable search results of the kind of packages you are looking for. To collapse or uncollapse a the operation on a particular date press the :guilabel:`+` button to uncollapse an operation on a date. To collapse operations on a particular date is to press the :guilabel:`-` button.
 
-.. image::   muon-history.png
+.. image:: muon-history.png
 
 
- To view all installed packes on the left hand side of the window under filtered click the divider for :guilabel:`By status` and select :guilabel:`Installed`. Now in the upper main part of the window will be a window with a scrollbar to see all packages on your system. 
+To view all installed packes on the left hand side of the window under filtered click the divider for :guilabel:`By status` and select :guilabel:`Installed`. Now in the upper main part of the window will be a window with a scrollbar to see all packages on your system. 
 
 If you remove some packages you may have packages that were dependencies that are no longer needed anymore you can check on this by clicking the divider on the left hand side by :menuselection:`By Status --> Installed(auto-removeable)` will show if you have packages that are now able to be removed without any problems that are no longer serving a purpose. Then select the :guilabel:`Mark for Removeal` button. If you just want to mark all packages for removal :menuselection:`Edit --> Remove Unesscary Packages`. Then of course you will need to press the :guilabel:`Apply Changes` button to apply changes. 
 

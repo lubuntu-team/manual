@@ -33,6 +33,8 @@ The :guilabel:`Move & Resize` tab lets you change settings for moving and resizi
 
 The :guilabel:`Mouse` tab use the focus follow mouse tab is if you move the mouse over the window it will automatically focus on that window. To automatically focus windows when the mouse cursor when the mouse pointer check the :guilabel:`Focus windows when the mouse pointer moves over them`. To change your focus to a new window check/uncheck the checkbox :guilabel:`Move focus under the mouse when switching desktops`. If you move a window with a keyboard shortcut and a different window is under it check the :guilabel:`Move focus under the mouse when the mouse is not moving` checkbox. The checkbox :guilabel:`Raise windows when the mouse pointer moves over them` moves the window up in the layers.  The :guilabel:`Double click on the titlebar` drop down of double clicking on the titlebar what option of to shade or maximize the window or custom actions which lubuntu has set to maximize. 
 
+.. image:: obconf-mouse.png
+
 On the :guilabel:`Desktops` tab to change number of desktops press the up arrow to add an additional desktop or the down arrow to reduce the number of virtual desktops. When switching desktops there is  a checkbox to show a notification and a field for how many milliseconds to show that notification for. If you want to rename a desktop double click on the desktop name and type the name of the desktop you want.
 
 .. image:: obconfdesktop.png

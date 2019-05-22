@@ -106,6 +106,9 @@ The tab :guilabel:`User Interface` changes how pcmanfm-qt appears in windows. To
  
 The tab :guilabel:`Thumbnail` tab has settings for thumbnails on files in pcmanfm-qt. To enable/disable thumbnails check/uncheck the :guilabel:`Show thumbnails of files` checkbox. If you want to only have thumbnails for local files not on another machine check  :guilabel:`Only show thumbnails for local files` checkbox. Unchecking the previous checkbox will result in a slower performance to get the thumbnails for the files. To put an upper limit on the file size for generating thumbnails which makes thumbnails change the :guilabel:`Do not generate thumbnails for image files execeeding the size` field. 
 
+.. image::  perferences-thumbnail.png
+
+
 The tab :guilabel:`Volume` manages flash drives other partitions on external disks and other external media. The :guilabel:`Auto Mount` section is settings for automatically mounting removable media. The :guilabel:`Mount mountable volumens automatically on program startup` mounts removable media when you start pcmanfm-qt. To automount removable media when you insert them into your computer check the :guilabel:`Mount removeable media automatically when they are inserted`. To show a menu for removable media when inserted check/uncheck the :guilabel:`Show available options for removable media when they are inserted`. To choose when you unmount a  removable volume you can choose to :guilabel:`Close tab containing removeable medium` or :guilabel:`Change folder in the tab to home folder`.    
 
 .. image::    prefrencesvolume.png

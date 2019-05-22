@@ -70,7 +70,7 @@ To change your settings for :guilabel:`Constants` of to get constants constants 
 
 .. image:: kcalc-constants.png
 
-To customize your shortcuts for KCalc :menuselection:`Settings --> Configure Settings`. To see what your shortcut does read the :guilabel:`Action` column. To see what keys to press the shortcut is in the :guilabel:`Shortcut` column. To see a second shortcut to see what activates this is in the :guilabel:`Alternate` column. To change your shortcuts press the :guilabel:`Custom` button and then left click on it and input the shortcut you want. To reset your shortcuts to default press the :guilabel:`Defaults` button. 
+To customize your shortcuts for KCalc :menuselection:`Settings --> Configure Settings`. To see what your shortcut does read the :guilabel:`Action` column. To see what keys to press the shortcut is in the :guilabel:`Shortcut` column. To see a second shortcut to see what activates this is in the :guilabel:`Alternate` column. To change your shortcuts press the :guilabel:`Custom` button and then left click on it and input the shortcut you want. To reset your shortcuts to default press the :guilabel:`Defaults` button. To not make your changes to the shortcuts you made press the :guilabel:`Cancel` button. To use your new shortcuts as a calculator press the :guilabel:`OK` button.
 
 Version
 -------

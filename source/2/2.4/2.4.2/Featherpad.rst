@@ -66,6 +66,7 @@ Lubuntu ships with version 0.9.3 of Featherpad.
 How to Launch
 -------------
 In the menu go to :menuselection:`Acessories --> Featherpad` or run 
+
 .. code::
 
    featherpad

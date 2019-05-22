@@ -68,6 +68,8 @@ The :guilabel:`Colors` tab has the colors of your user interface. To change your
 
 To change your settings for :guilabel:`Constants` of to get constants constants stored is in the constants tab. To input a constant you have in the field to the left is the name of the constant on the field to the left. The filed in the center is where you put the value of the constant. To select from predefined constants press on the :guilabel:`Predefined` to bring up a menu of predefined constants.
 
+.. image:: kcalc-constants.png
+
 Version
 -------
 Lubuntu ships with version 18.12.3 of Kcalc.

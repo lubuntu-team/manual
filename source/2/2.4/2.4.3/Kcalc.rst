@@ -70,6 +70,8 @@ To change your settings for :guilabel:`Constants` of to get constants constants 
 
 .. image:: kcalc-constants.png
 
+To customize your shortcuts for KCalc :menuselection:`Settings --> Configure Settings`. To see what your shortcut does read the :guilabel:`Action` column. To see what keys to press the shortcut is in the :guilabel:`Shortcut` column. To see a second shortcut to see what activates this is in the :guilabel:`Alternate` column.
+
 Version
 -------
 Lubuntu ships with version 18.12.3 of Kcalc.

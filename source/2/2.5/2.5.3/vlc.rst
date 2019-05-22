@@ -19,12 +19,6 @@ To move to the next item in a playlist press the button that has two arrows poin
 
 To make the same sound come out of both speakers go to :menuselection:`Audio --> Stereo mode --> Mono`. The sound to make a different left and right channel on each speaker will be :menuselection:`Audio --> Stereo Mode --> Stereo`. To make all sound come from the left channel :menuselection:`Audio --> Stereo Mode --> Left` and likewise for Right. To change what device audio from vlc come out :menuselection:`Audio --> Audio Device --> output device you want`. 
 
-To open an equalizier press the button that looks like several physical slider switches, press :kbd:`Control+E` or :guilabel:`Tools --> Effects and filters` and use the :guilabel:`Audio effects` tab and :guilabel:`Equalizer` subtab. To enable the equalizier check the :guilabel:`Enable` checkbox. Then to increase or decrease the sound at each frequency up to increase the volcume at that frequency. To select an equalizer preset use the :guilabel:`Preset` drop down menu. On the :guilabel:`Advanced` tab of audio effects there is a meter to adjust the pitch of the currently playing audio. To enable this effect check the :guilabel:`Enable` checkbox. To increase the pitch of the audio move the slider up. To decrase the pitch of the audio move the slider down.
-
-To change how the audio and video synchronize with the rest of the file use the :guilabel:`Synchronization` tab. To change the synchronization of your audio with the video change the :guilabel:`Audio track synchronization` field to get it to match with your video. To change the synoronization of subtitles use the :guilabel:`Subtitle track synchronization` field.
-
-To change how the video appears on your screen use the :guilabel:`Video Effects` tab. On the :guilabel:`Essential` sub tab for how your birgthness contrast and other things appear. To change your image press the :guilabel:`Image adjust` checkbox. To change the brightness use the :guilabel:`Brightness` slider with to the left being darker and to the right being lighter. However extreme values to the left or right are not that viewable. As such you may want to make small adjustments with the :kbd:`Left arrow` and :kbd:`Right arrow` keys. 
-
 To view a playlist of music or videos you can view press the button that is several horizontal lines and then a triangular play button on it or press :kbd:`Control + l`. This will bring up a whole view of your playlist. To return to your original view press :kbd:`Control + l`. To add more files to your playlist right click on the bottom of the playlist window and click add file to add an additional file. To play a particular file from a playlist double click on the file. To remove a file from a playlist right click on it and select :menuselection:`Remove Selected`. To remove all files from a playlist right click and select :menuselection:`Clear the playlist`.  
 
 To change the view of the playlist right click playlist view mode to the version of the playlist you like the look of the best. To switch to where to find your music left click the :guilabel:`My Music` on the left side pane. To switch to where you find your videos on the left side pane click the :guilabel:`My Videos` side pane. If you wish to save a current playlist to a file :menuselection:`Media --> Save Playlist to File` or press :kbd:`Control +Y`. To change how to sort your playlist right click on the playlist and select :menuselection:`Sort by` and select how you want to sort your checklist.
@@ -52,6 +46,15 @@ If you are playing audio and want a visualization while listening to an audio fi
 Screenshot
 ----------
 .. image:: vlc.png
+
+Effects and Filters
+--------------------
+To open an equalizier press the button that looks like several physical slider switches, press :kbd:`Control+E` or :guilabel:`Tools --> Effects and filters` and use the :guilabel:`Audio effects` tab and :guilabel:`Equalizer` subtab. To enable the equalizier check the :guilabel:`Enable` checkbox. Then to increase or decrease the sound at each frequency up to increase the volcume at that frequency. To select an equalizer preset use the :guilabel:`Preset` drop down menu. On the :guilabel:`Advanced` tab of audio effects there is a meter to adjust the pitch of the currently playing audio. To enable this effect check the :guilabel:`Enable` checkbox. To increase the pitch of the audio move the slider up. To decrase the pitch of the audio move the slider down.
+
+To change how the audio and video synchronize with the rest of the file use the :guilabel:`Synchronization` tab. To change the synchronization of your audio with the video change the :guilabel:`Audio track synchronization` field to get it to match with your video. To change the synoronization of subtitles use the :guilabel:`Subtitle track synchronization` field.
+
+To change how the video appears on your screen use the :guilabel:`Video Effects` tab. On the :guilabel:`Essential` sub tab for how your birgthness contrast and other things appear. To change your image press the :guilabel:`Image adjust` checkbox. To change the brightness use the :guilabel:`Brightness` slider with to the left being darker and to the right being lighter. However extreme values to the left or right are not that viewable. As such you may want to make small adjustments with the :kbd:`Left arrow` and :kbd:`Right arrow` keys. 
+
 
 Customizing
 -----------

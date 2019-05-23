@@ -34,4 +34,4 @@ from the command line. To set this new theme as your default theme for sddm see 
 
     sudo update-alternatives  --config sddm-ubuntu-theme 
 
-from the command line.
+from the command line. To add a new background for a particular theme copy that image into the theme folder as root. Then in your theme edit the file theme.conf as root and change the line background= with the path to your image.

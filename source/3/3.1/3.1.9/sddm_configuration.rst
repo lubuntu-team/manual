@@ -28,4 +28,10 @@ If you want to install other themes for sddm in muon or from the command line se
 
    sddm-greeter --test-mode --theme /path/to/theme
 
+from the command line. To set this new theme as your default theme for sddm see alternatives in chapter 3.2.17 and update the sddm-ubuntu-theme group of alternatives. From the command line to switch this setting you can run 
+
+.. code::
+
+    sudo update-alternatives  --config sddm-ubuntu-theme 
+
 from the command line.

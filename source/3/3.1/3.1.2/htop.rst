@@ -19,6 +19,8 @@ To change how your process are sorted press :kbd:`F6` which will bring up your o
 
 :kbd:`F2` brings about a customizable settings on htop. The :guilabel:`Meters` brings up meters like CPU average. The :guilabel:`Display Options` has option for different ways to display in htop. The :guilabel:`Colors` tab brings up different color schemes for htop.   
 
+.. image:: htop-setup.png
+
 Screenshot
 ----------
 

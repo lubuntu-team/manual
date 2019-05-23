@@ -13,6 +13,8 @@ After the bottom there is a green bar that says :guilabel:`PID` for the Process 
 
 To select the process below the currently selected one press :kbd:`Down Arrow` to select the process below. To select the process above the currently selected one press :kbd:`Up Arrow` to select the process above. To select the next group of processes on your screen press :kbd:`Page Down`. To select the previous group of process on your screen press :kbd:`Page up`. To choose the last process on your system press the :kbd:`End` key. To choose the first process press the :kbd:`Home` key.
 
+.. image:: htop.png
+
 You can press :kbd:`F1` or :kbd:`?`  to bring up a help dialog on htop. Pressing :kbd:`F3` or :kbd:`/` lets you search for a particular process. To reverse sort order press :kbd:`Shift +I`. Pressing :kbd:`F4` makes it so you can only see processes matching a certain pattern. To get out of the view of your search for a pattern press the :kbd:`Escape` key. Pressing :kbd:`F5` is what you press to view the processes in a tree. To get back to the default view press :kbd:`F5` again. Pressing :kbd:`F9` lets you kill a process with different signals to send to the process and 15 will terminate the process while 9 will Kill it. Lastly :kbd:`F10` will quit htop and return you to a terminal.
 
 To change how your process are sorted press :kbd:`F6` which will bring up your own menu to sort by by :guilabel:`PID`, :guilabel:`USER`, :guilabel:`Priority`, :guilabel:`NICE`, :guilabel:`M_Size`, :guilabel:`M_Resident`, :guilabel:`M_Share`, :guilabel:`State`, :guilabel:`Percent_CPU`, :guilabel:`Percent_Mem`, :guilabel:`Time`, or :guilabel:`Command`.  
@@ -21,11 +23,7 @@ To change how your process are sorted press :kbd:`F6` which will bring up your o
 
 .. image:: htop-setup.png
 
-Screenshot
-----------
 
- .. image:: htop.png
-   :width: 80%
 
 Version
 -------

@@ -15,7 +15,7 @@ To sort your processes by memory click on the mem tab. To have your processes so
 
 To change your process view to each process gets its own line or linear select the :guilabel:`Linear` radio button in the upper left hand corner. To oranize each related process with a tree for parent and child processes press the :guilabel:`Tree` radio button. To search for a particular process enter a search term in the bar towards the ceneter top of the user interface.
 
-To change the update period is to :menuselection:`Option --> Update Period`. To change more preferences :menuselection:`Option --> Prefrences` and a preferences window will pop up. To change the font is the drop down menu under :guilabel:`Appearance` and the drop down number is for the font size. To change how cpu usage is divided per your total number of CPU cores or a Single cpu press a radio button under :guilabel:`%CPU divided by`. 
+
 
 When you have qps open a tray icon will appear that shows a graph of cpu usage.
 
@@ -36,3 +36,7 @@ To launch qps go to the menu :menuselection:`System Tools --> qps` or run
    qps 
    
 from the command line. 
+
+Customizing
+------------
+To change the update period is to :menuselection:`Option --> Update Period`. To change more preferences :menuselection:`Option --> Prefrences` and a preferences window will pop up. To change the font is the drop down menu under :guilabel:`Appearance` and the drop down number is for the font size. To change how cpu usage is divided per your total number of CPU cores or a Single cpu press a radio button under :guilabel:`%CPU divided by`. 

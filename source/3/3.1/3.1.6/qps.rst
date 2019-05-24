@@ -15,13 +15,13 @@ To sort your processes by memory click on the mem tab. To have your processes so
 
 To change your process view to each process gets its own line or linear select the :guilabel:`Linear` radio button in the upper left hand corner. To oranize each related process with a tree for parent and child processes press the :guilabel:`Tree` radio button. To search for a particular process enter a search term in the bar towards the ceneter top of the user interface.
 
-
-
-When you have qps open a tray icon will appear that shows a graph of cpu usage.
+When you have qps open a tray icon will appear that shows a graph of cpu usage. If you right click :maneuselection:`Hide` to make qps not show in the taskbar. To bring qps back to the front off all windows right click on the tray icon :menuselection:`Show`.
 
 To search for a particular process you can type your type into the search bar right above a particular process right above it. To terminate a process right click on it and select :menuselection:`Terminate` or press :kbd:`delete`. To kill a process move the mouse over it right click and select :menuselection:`Kill` or press :kbd:`Alt + K`.    
 
 To toggle showing a graph with your overall system usage check/uncheck the :menuselection:`Otion --> Show Graph` checkbox in the menu. To toggle showing the bar with the option to search for processor or choose linear or tree view of processes check/uncheck :menuselection:`Option -->  Show Control bar` checkbox in the menu. To change the update period is to :menuselection:`Option --> Update Period`.
+
+
 
 Screenshot
 ----------

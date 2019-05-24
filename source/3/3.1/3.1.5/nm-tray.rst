@@ -12,6 +12,8 @@ To toggle notifications on connecting and disconnecting to networks right click 
 
 To view your own networking information right click the applet :menuselection:`Connection Information` which will pop up a window with information such as your ip address. On this window each interface will show the names of each network interface in a tab bar along the top. The field :guilabel:`Interface` Shows you the name of your network adapter to the system what type of connection it is. The label for :guilabel:`Driver` shows you what driver is in use for this network interface. The field :guilabel:`Speed` shows the speed supported by the connection. 
 
+.. image::  nm-tray-conninfo.png
+
 The section :guilabel:`IPV4` shows you information on your settings for networking using IPV4. The section :guilabel:`IP Address` shows you  your current ip address. The :guilabel:`DNS` fields show where your dns looks up the domain names of websites and finds them. 
 
 Screenshot

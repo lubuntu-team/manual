@@ -13,6 +13,7 @@ Features:
  - annotation and highlighting 
  - bookmarks
  - customizable keyboard shortcuts
+ - viewing postscript files
 
 Usage
 ------

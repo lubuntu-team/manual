@@ -18,7 +18,7 @@ To change to the next tab using the keyboard press :kbd:`Control + Page Down` or
 
 To bring a search for the text displayed on your terminal press :kbd:`Control +Shift +F` or :menuselection:`Actions --> Find...`. To close the search bar press :kbd:`Escape` or :kbd:`Control+Shift+F` again. To find what you need to search for in the :guilabel:`Find` search bar. To move to the next result press the rightward pointing arrow button. To move to the previous result is to press the leftward pointing arrow. To change to not to match case press the downward pointing arrow button uncheck the :guilabel:`Match Case` checkbox. To toggle highlighting all matches check/uncheck the :guilabel:`Highlight all matches` checkbox. To use a regular expression click the downard pointing arrow button and check the :guilabel:`Regular expression` checkbox. 
 
-To clear you active terminal press :kbd:`Control + Shift +X` or :menuselection:`Actions --> Clear Active Terminal`. To hide window borders check the :menuselection:`View --> Hide Window borders`. 
+To clear you active terminal press :kbd:`Control + Shift +X` or :menuselection:`Actions --> Clear Active Terminal`. To hide window borders check the :menuselection:`View --> Hide Window borders`. To toggle showing the entire menubar press :kbd:`Control+Shift+M` or right click on the :menuselection:`Toggle Menu` then do the same thing to get the menu back again.
 
 To use the drop down function of Qterminal once launched press :kbd:`F12` to have the terminal drop down or roll up.
 

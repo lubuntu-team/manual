@@ -85,3 +85,5 @@ You can create partition by clicking the :guilabel:`Create` button which will br
 .. image::  manpartition-create.png
 
 To go back on all your changes to the previous state press the :guilabel:`Revert All Changes` button. To change what device your computer will boot off of you will need to use the :guilabel:`Install boot loader on` drop down menu to select which disc to boot off of. 
+
+In the center of the manual partitioning window shows you what name of the partition is. What type of filesystem is displayed in the :guilabel:`File System` column.

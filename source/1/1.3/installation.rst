@@ -13,7 +13,7 @@ Once you have booted into the live session, feel free to explore Lubuntu and mak
 
 .. image:: live_session.png
 
-You will be taken to the Lubuntu installer Welcome screen. You can change the installer language in the :guilabel:`Language` drop down box. After selecting the language the guilabel:`Next` button will move you on to the next task.
+You will be taken to the Lubuntu installer Welcome screen. You can change the installer language in the :guilabel:`Language` drop down box. After selecting the language the :guilabel:`Next` button will move you on to the next task.
 
 
 .. image:: welcome_installer.png

@@ -2,7 +2,7 @@
 Appendix D Upgrading from previous releases
 ********************************************
 
-We are proud to present the highly anticipated release of Lubuntu 18.10! This release comes with many changes, which will probably be overshadowed by the move to the LXQt desktop environment. Naturally, an extremely large change like this can cause problems, so **we strongly recommend you back up your files**. Also, if your computer is one that runs on a battery (such as a laptop), please ensure that the power is connected, as it may take a while and unexpected power failures could be disastrous.
+With every release upgrade comes many changes across the entire landscape of packages. Naturally, an extremely large change like this can cause problems, so **we strongly recommend you back up your files**. Also, if your computer is one that runs on a battery (such as a laptop), please ensure that the power is connected, as it may take a while and unexpected power failures could be disastrous.
 
 There are two methods of upgrading Lubuntu releases. The first is using the update manager a graphical user interface. The second involves the command line and is useful for server upgrades. Unfortunately with main Ubuntu dropping 32-bit upgrades, 32-bit upgrades after Lubuntu 18.04 are not supported.
 
@@ -19,10 +19,10 @@ First, ensure your system is up-to-date by starting Software Updater and perform
 
 .. image:: 02_up-to-date.png
 
-Since 18.10 is not an LTS (Long Term Support) release, you may have to opt in for non LTS versions of Lubuntu.
+If you're not on a LTS (Long Term Support) release, you may have to opt in for non LTS versions of Lubuntu.
     - Select the Updates -> Notify me of a new Ubuntu version -> For any new version, from Software and Updates.
     - Close the update manager, and you should be prompted to upgrade to the latest release.
-    - Alternatively, you can start a terminal :kbd:`Ctorol + Alt + T` and type in the command
+    - Alternatively, you can start a terminal :kbd:`Ctrl + Alt + T` and type in the command
      
 .. code::
 
@@ -68,5 +68,4 @@ The next thing you want to do is do the release upgrade. do-release-upgrade is t
 
 You may be prompted "No new release found", if so follow this step, else skip it. Go into software sources and change :guilabel:`Show new distrubtion releases` and select Normal releases.
 
-After the installation, reboot into the new 19.04 system. 
-
+After the installation, reboot into the newly upgraded system. 

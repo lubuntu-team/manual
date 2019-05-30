@@ -23,7 +23,7 @@ To view a playlist of music or videos you can view press the button that is seve
 
 To change the view of the playlist right click playlist view mode to the version of the playlist you like the look of the best. To switch to where to find your music left click the :guilabel:`My Music` on the left side pane. To switch to where you find your videos on the left side pane click the :guilabel:`My Videos` side pane. If you wish to save a current playlist to a file :menuselection:`Media --> Save Playlist to File` or press :kbd:`Control +Y`. To change how to sort your playlist right click on the playlist and select :menuselection:`Sort by` and select how you want to sort your checklist.
 
-To change the view mode of the playlist to icons for each file :menuselection:`View --> Playlist View Mode --> Icons`. To have a detialed list showing your your playlist :menuselection:`View --> Playlist View Mode --> Detailed List`.
+To change the view mode of the playlist to icons for each file :menuselection:`View --> Playlist View Mode --> Icons`. To have a detialed list showing your your playlist :menuselection:`View --> Playlist View Mode --> Detailed List`. To have a simple list for your playlist view :menuselection:`View --> Playlist View Mode --> List`. To have your playlist viewed in a 3d picture with thumbnails :menuselection:`View --> Playlist View Mode --> PictureFlow`.
 
 .. image:: vlcplaylist.png 
 

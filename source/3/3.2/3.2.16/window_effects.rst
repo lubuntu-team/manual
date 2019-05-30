@@ -36,4 +36,4 @@ To launch window effects from the menu :menuselection:`Preferences --> LXQt Sett
 
    compton-conf 
   
-from the command line. From LXQt configuration center press the gear button with a c in it to launch Window Effects. Of course for this to have any effect the compton compositor needs to be running so see chapter 3.2.13 for how to autostart applications.  
+from the command line. From LXQt configuration center press the gear button with a c in it to launch Window Effects. Of course for this to have any effect the compton compositor needs to be running so see chapter 3.2.13 for how to autostart applications. To start the compton compositor but not everytime :menuselection:`Acessories --> compton` from the menu. 

@@ -15,6 +15,8 @@ Usage
 ------
 Along the top to create a new tab in pcmanfm-qt you can use the button with a file and a plus on it to open a new tab or press :kbd:`control +t`. The left pointing arrow button is a back button while the right pointing arrow button moves you forward in the directories that you have moved in the file manager. Another way to go back and forward is :kbd:`Alt + Left arrow` or :menuselection:`Go --> Go Back` and another way to go forward is :kbd:`Alt + Right Arrow` or :menuselection:`Go --> Go Forward`. The button for the arrow pointing upward is to go up one level in the directory tree to the so called parent directory. To rename your files right click on the file and click :menuselection:`Rename` or press :kbd:`f2`.  
 
+If you double click on a folder you change pcmanfm-qt to that folder. If you want to open a folder in a new tab right click on that tab and select :menuselection:`Open in New Tab`.
+
 To close a tab click on the red x button on the tab bar. To close a tab using the keyboard press :kbd:`Control +W` or from the menu :menuselection:`File --> Close Tab`. To close all tabs but the current one right click on the tab bar and :menuselection:`Close other tabs`. To close all tabs to the right of this tab :menuselection:`Close next tabs`. To close tabs to the left right click on the tab bar and select :menuselection:`Close previous tabs`.
 
 If you have installed multiuple programs that can open a file right click and slect :menuselection:`Open With --> Program you want to launch`. 

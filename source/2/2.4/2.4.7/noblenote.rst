@@ -17,6 +17,8 @@ To delete a note click on the note and press the button with a page X on it, pre
 
 To import notes from a file :menuselection:`File --> Import`.
 
+To search through your notes for a particular string enter what you want to search for in the search bar which says :guilabel:`Type to search for notes`.
+
 If you make a mistake typing and want to undo your changes press :kbd:`Control + z` or :menuselection:`Edit --> Undo`. If you wish to paste text into nobleNote press :kbd:`Control + v` or :menuselection:`Edit --> Paste`. To copy text from your note press :kbd:`Control+C` or right click and select :menuselection:`Copy`. To select all text in a note press :kbd:`Control +A`. 
 
 To change preferences of nobleNote press :kbd:`Control +P` or :menuselection:`Settings --> Configure`. To keep nobleNote in your system tray after you close nobleNote check/uncheck the :guilabel:`Close to tray` checkbox. If you want to change the font for editing notes change the :guilabel:`Note Editor default font` underneath has the font and font size. If you want to toggle showing notes in HTML format check/uncheck the :guilabel:`Convert notes to the HTML format`. If you want to toggle the menu entry to show source check/uncheck the :guilabel:`Show "Show source" menu entry`. To reverse the direction of scrolling in nobleNote check the :guilabel:`touch screen scrolling` checkbox.  

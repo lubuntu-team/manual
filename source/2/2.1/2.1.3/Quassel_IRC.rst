@@ -34,7 +34,7 @@ If you want to have settings for automatic reconnecting :menuselection:`File -->
 
 To ignore a really annoying user you can on the nicks bar on the right hand side right click ignore and then select a user to ignore so you will not see what they type. If you realize you want to talk to them again Right click the same username and uncheck the checkbox for the ignore rule you created.  
 
-To type a message to an entire channel type into the bar at the bottom and press enter. To complete typing someone's nickname press the :kbd:`Tab` key to complete their name. To paste text into the channel such as a link press :kbd:`Control + V` or right click paste. If you see a hyperlink in chat you can left click on the link to open in your webbrowser. Another is if you want to copy the link right click on it and :menuselection:`Copy Link Address`.   
+To type a message to an entire channel type into the bar at the bottom and press enter. To complete typing someone's nickname press the :kbd:`Tab` key to complete their name. To paste text into the channel such as a link press :kbd:`Control + V` or right click paste. If you see a hyperlink in chat you can left click on the link to open in your webbrowser or you can copy the link by right clicking on it and :menuselection:`Copy Link Address`.   
 
 
 To add close the list of nicknames or channels press the X button. To reopen the view of nicks :menuselection:`View --> Nicks`. To close the list of all chats press the X button to close a list of all channel and private messages you are in. To reopen it press the :menuselection:`View --> Chat lists --> All chats`. 

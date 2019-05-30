@@ -17,6 +17,7 @@ You can **Modify** a current keyboard shortcut by selecting the shortcut from th
 You can **Remove** a keyboard shortcut by selecting the shortcut from the keyboard table, and clicking the :guilabel:`Remove` button. To swap to shortcut keys you can select two shortcuts with :kbd:`Control+ Left Click` then left click on the :guilabel:`Swap` button.
 
 You can **Add** a new keyboard shortcut clicking the :guilabel:`Add` button. The shortcut field will be blank, click the :guilabel:`Shortcut` button to start the countdown, then press the **keyboard shortcut combination** you want to assign. Write a short description of what the keyboard shortcut does, for example "start drop down terminal", or "increases screen brightness" in the :guilabel:`Description` field. To make this execute a terminal command select the :guilabel:`command` radio button and enter the command.
+
 Screenshot
 ----------
 

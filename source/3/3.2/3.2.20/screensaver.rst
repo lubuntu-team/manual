@@ -9,7 +9,7 @@ The :guilabel:`Mode` drop down has 4 settings Disable turns off the screensaver,
 
 If you try to select a screensaver that is not installed it will not show on the right hand side of the window. To preview a screensaver as when it would be activated press the :guilabel:`Preview` button. To see more settings for each individual screensaver press the :guilabel:`Settings` button.
 
-If you want to kill the daemon :menuselection:`File --> Kill Daemon`. To restart the screensaver daemon :menuselection:`File --> Restart Daemon`. 
+If you want to kill the daemon :menuselection:`File --> Kill Daemon`. To restart the screensaver daemon :menuselection:`File --> Restart Daemon`. To make the screen blank :menuselection:`File --> Blank Screen Now`.
 
 If you try to open the screensaver settings without having the screensaver daemon running you will bring up a dialog if you want to launch it.
 

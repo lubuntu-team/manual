@@ -13,6 +13,8 @@ If you want to kill the daemon :menuselection:`File --> Kill Daemon`. To restart
 
 If you try to open the screensaver settings without having the screensaver daemon running you will bring up a dialog if you want to launch it.
 
+To change to get even more settings on your screensaver use the :guilabel:`Advanced` tab. To have your screen fade to black when blanking check the :guilabel:`Fade to Black when Blanking` checkbox. To have your screen fade back in from screen blanking check the :guilabel:`Fade from Black When Unblanking`. 
+
 Screenshot
 ----------
 .. image:: screensaver.png

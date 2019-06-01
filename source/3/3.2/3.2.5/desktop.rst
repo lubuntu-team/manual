@@ -27,6 +27,7 @@ The tab :guilabel:`Advanced` has settings for automatic desktop icons or include
 
 .. image::   desktop-advanced.png
 
+To quit Desktop press the :kbd:`Escape` key.
 
 How to launch
 -------------

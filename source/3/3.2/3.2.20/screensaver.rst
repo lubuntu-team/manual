@@ -7,7 +7,7 @@ Usage
 ------
 The :guilabel:`Mode` drop down has 4 settings Disable turns off the screensaver, :menuselection:`Blank Screen Only` just turns the screen itself off, :menuselection:`Only One Screen Saver` sets one screensaver, and :guilabel:`Random Screen Saver` selects a random screensaver. To set how long it takes your screen to go to the :menuselection:`Screensaver change the field that says :guilabel:`Blank After` to the number of minutes you want the system to be idle before starting the screensaver. If you have a random screensaver set you can change with the number of minutes it says with :guilabel:`Cycle After` for when the screensaver will change to another one. The checkbox for :guilabel:`Lock Screen After` takes the number of minutes to lock the screen and the number of minutes is how many minutes it takes to lock the screen.  
 
-If you try to select a screensaver that is not installed it will not show on the right hand side of the window. To preview a screensaver as when it would be activated press the :guilabel:`Preview` button. 
+If you try to select a screensaver that is not installed it will not show on the right hand side of the window. To preview a screensaver as when it would be activated press the :guilabel:`Preview` button. To see more settings for each individual screensaver press the :guilabel:`Settings` button.
 
 If you want to kill the daemon :menuselection:`File --> Kill Daemon`. To restart the screensaver daemon :menuselection:`File --> Restart Daemon`. 
 

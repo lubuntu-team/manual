@@ -33,4 +33,8 @@ To launch skanlite turn on your scanner and that it is connected to your compute
 
    skanlite 
    
-from the command line.  
+from the command line. 
+
+Customizing
+-----------
+To customize your settings for Skanlite press the :guilabel:`Settings` button. To choose where to save your scans enter the path in the :guilabel:`Save Location` field or press the button to the right. 

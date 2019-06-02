@@ -37,4 +37,4 @@ from the command line.
 
 Customizing
 -----------
-To customize your settings for Skanlite press the :guilabel:`Settings` button. To choose where to save your scans enter the path in the :guilabel:`Save Location` field or press the button to the right. 
+To customize your settings for Skanlite press the :guilabel:`Settings` button. To choose where to save your scans enter the path in the :guilabel:`Save Location` field or press the button to the right. To ask what to save what you are scanning change the :guilabel:`Save mode` menu :menuselection:`Open the save dialog for every image`. 

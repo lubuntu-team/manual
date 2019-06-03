@@ -99,6 +99,7 @@ Chapter 2.4 Acessories
 
 2.4.8 2048-Qt
 
+2.4.9 QtPass
 
 Chapter 2.5 Sound & Video
 -------------------------

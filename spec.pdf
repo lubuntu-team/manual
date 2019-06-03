@@ -52,7 +52,7 @@ endobj
 endobj
 8 0 obj
 <<
-/Author () /CreationDate (D:20190219111515+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190219111515+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20190603145825+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190603145825+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Lubuntu LXQt Manual Specification) /Trapped /False
 >>
 endobj
@@ -115,39 +115,39 @@ endobj
 endobj
 20 0 obj
 <<
-/Count 1 /Dest [ 5 0 R /XYZ 62.69291 501.0236 0 ] /First 21 0 R /Last 21 0 R /Next 22 0 R /Parent 9 0 R 
+/Count 1 /Dest [ 5 0 R /XYZ 62.69291 483.0236 0 ] /First 21 0 R /Last 21 0 R /Next 22 0 R /Parent 9 0 R 
   /Prev 19 0 R /Title (Chapter 2.5 Sound & Video)
 >>
 endobj
 21 0 obj
 <<
-/Dest [ 5 0 R /XYZ 62.69291 414.0236 0 ] /Parent 20 0 R /Title (Chapter 3 System Tools and Preferences)
+/Dest [ 5 0 R /XYZ 62.69291 396.0236 0 ] /Parent 20 0 R /Title (Chapter 3 System Tools and Preferences)
 >>
 endobj
 22 0 obj
 <<
-/Dest [ 5 0 R /XYZ 62.69291 384.0236 0 ] /Next 23 0 R /Parent 9 0 R /Prev 20 0 R /Title (Chapter 3.1 System Tools)
+/Dest [ 5 0 R /XYZ 62.69291 366.0236 0 ] /Next 23 0 R /Parent 9 0 R /Prev 20 0 R /Title (Chapter 3.1 System Tools)
 >>
 endobj
 23 0 obj
 <<
-/Count 3 /Dest [ 5 0 R /XYZ 62.69291 189.0236 0 ] /First 24 0 R /Last 26 0 R /Parent 9 0 R /Prev 22 0 R 
+/Count 3 /Dest [ 5 0 R /XYZ 62.69291 171.0236 0 ] /First 24 0 R /Last 26 0 R /Parent 9 0 R /Prev 22 0 R 
   /Title (Chapter 3.2 Preferences)
 >>
 endobj
 24 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 489.0236 0 ] /Next 25 0 R /Parent 23 0 R /Title (Chapter 4 Installing, Updating, and Removing  Software)
+/Dest [ 6 0 R /XYZ 62.69291 471.0236 0 ] /Next 25 0 R /Parent 23 0 R /Title (Chapter 4 Installing, Updating, and Removing  Software)
 >>
 endobj
 25 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 405.0236 0 ] /Next 26 0 R /Parent 23 0 R /Prev 24 0 R /Title (Chapter 5 Panel Desktop and Runner)
+/Dest [ 6 0 R /XYZ 62.69291 387.0236 0 ] /Next 26 0 R /Parent 23 0 R /Prev 24 0 R /Title (Chapter 5 Panel Desktop and Runner)
 >>
 endobj
 26 0 obj
 <<
-/Dest [ 6 0 R /XYZ 62.69291 285.0236 0 ] /Parent 23 0 R /Prev 25 0 R /Title (Appendicies)
+/Dest [ 6 0 R /XYZ 62.69291 267.0236 0 ] /Parent 23 0 R /Prev 25 0 R /Title (Appendicies)
 >>
 endobj
 27 0 obj
@@ -396,7 +396,7 @@ endstream
 endobj
 29 0 obj
 <<
-/Length 3810
+/Length 3809
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -490,146 +490,146 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2.4.8 2048-Qt) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 480.0236 cm
+1 0 0 1 62.69291 495.0236 cm
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Chapter 2.5 Sound & Video) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2.4.9 QtPass) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 462.0236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2.5.1 K3B) Tj T* ET
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Chapter 2.5 Sound & Video) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 444.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2.5.2 PulseAudio Volume Control) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2.5.1 K3B) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 426.0236 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2.5.2 PulseAudio Volume Control) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 408.0236 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2.5.3 VLC media player) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 396.0236 cm
+1 0 0 1 62.69291 378.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Chapter 3 System Tools and Preferences) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 363.0236 cm
-q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Chapter 3.1 System Tools) Tj T* ET
-Q
-Q
-q
 1 0 0 1 62.69291 345.0236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.1.1 Fcitx) Tj T* ET
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Chapter 3.1 System Tools) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 327.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.1.2 Htop) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.1.1 Fcitx) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 309.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.1.3 Qterminal) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.1.2 Htop) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 291.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.1.4 Startup Disk Creator) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.1.3 Qterminal) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 273.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.1.5 nm-tray) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.1.4 Startup Disk Creator) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 255.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.1.6 qps) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.1.5 nm-tray) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 237.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.1.7 KDE partition manager) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.1.6 qps) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 219.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.1.8 LxQt-sudo) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.1.7 KDE partition manager) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 201.0236 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.1.8 LxQt-sudo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 183.0236 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.1.9 SDDM Configuration) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 168.0236 cm
-q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Chapter 3.2 Preferences) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 150.0236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.1 LXQt configuration center) Tj T* ET
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Chapter 3.2 Preferences) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 132.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.2 Appearance) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.1 LXQt configuration center) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 114.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.3 Brightness) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.2 Appearance) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 96.02362 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.4 Date And Time) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.3 Brightness) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 78.02362 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.5 Desktop) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.4 Date And Time) Tj T* ET
 Q
 Q
  
@@ -637,7 +637,7 @@ endstream
 endobj
 30 0 obj
 <<
-/Length 4565
+/Length 4670
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -645,189 +645,196 @@ q
 1 0 0 1 62.69291 753.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.6 Desktop Notifications) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.5 Desktop) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 735.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.7 File Association) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.6 Desktop Notifications) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 717.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.8 Keyboard and Mouse) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.7 File Association) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 699.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.9 Locale) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.8 Keyboard and Mouse) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 681.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.10 Monitor Settings) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.9 Locale) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 663.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.11 Openbox Settings) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.10 Monitor Settings) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 645.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.12 Power Management) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.11 Openbox Settings) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 627.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.13 Session Settings) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.12 Power Management) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 609.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.14 Shortcut Keys) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.13 Session Settings) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 591.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.15 Users and Groups) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.14 Shortcut Keys) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 573.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.16 Window Effects) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.15 Users and Groups) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 555.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.17 Alternatives Configurator) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.16 Window Effects) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 537.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.18 ibus Preferences) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.17 Alternatives Configurator) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 519.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.19 Printers) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.18 ibus Preferences) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 501.0236 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.19 Printers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 483.0236 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.2.20 Screensaver) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 471.0236 cm
-q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Chapter 4 Installing, Updating, and Removing Software) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 453.0236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4.1 Discover) Tj T* ET
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Chapter 4 Installing, Updating, and Removing Software) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 435.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4.2 Muon Package Manager) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4.1 Discover) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 417.0236 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4.2 Muon Package Manager) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 399.0236 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4.3 Software Sources) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 387.0236 cm
-q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Chapter 5 Panel Desktop and Runner) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 369.0236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5.1 lxqt-panel) Tj T* ET
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Chapter 5 Panel Desktop and Runner) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 351.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5.2 Desktop Icons) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5.1 lxqt-panel) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 333.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5.3 lxqt-runner) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5.2 Desktop Icons) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 315.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5.4 window management) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5.3 lxqt-runner) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 297.0236 cm
 q
 0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5.4 window management) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 279.0236 cm
+q
+0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5.5 keyboard menu navigation) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 267.0236 cm
+1 0 0 1 62.69291 249.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Appendicies) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 255.0236 cm
+1 0 0 1 62.69291 237.0236 cm
 Q
 q
-1 0 0 1 62.69291 255.0236 cm
+1 0 0 1 62.69291 237.0236 cm
 Q
 q
-1 0 0 1 62.69291 243.0236 cm
+1 0 0 1 62.69291 225.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -848,10 +855,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 237.0236 cm
+1 0 0 1 62.69291 219.0236 cm
 Q
 q
-1 0 0 1 62.69291 225.0236 cm
+1 0 0 1 62.69291 207.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -872,10 +879,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 219.0236 cm
+1 0 0 1 62.69291 201.0236 cm
 Q
 q
-1 0 0 1 62.69291 207.0236 cm
+1 0 0 1 62.69291 189.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -896,10 +903,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 201.0236 cm
+1 0 0 1 62.69291 183.0236 cm
 Q
 q
-1 0 0 1 62.69291 189.0236 cm
+1 0 0 1 62.69291 171.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -920,10 +927,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 183.0236 cm
+1 0 0 1 62.69291 165.0236 cm
 Q
 q
-1 0 0 1 62.69291 171.0236 cm
+1 0 0 1 62.69291 153.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -944,7 +951,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 171.0236 cm
+1 0 0 1 62.69291 153.0236 cm
 Q
  
 endstream
@@ -1001,15 +1008,15 @@ xref
 0000003845 00000 n 
 0000003917 00000 n 
 0000007631 00000 n 
-0000011493 00000 n 
-0000016110 00000 n 
-0000016169 00000 n 
-0000016203 00000 n 
-0000016237 00000 n 
+0000011492 00000 n 
+0000016214 00000 n 
+0000016273 00000 n 
+0000016307 00000 n 
+0000016341 00000 n 
 trailer
 <<
 /ID 
-[<ef6146dc9120fcd8289a30c8cc13e69a><ef6146dc9120fcd8289a30c8cc13e69a>]
+[<17d1d987ef1bb058eb9d53c37224bb59><17d1d987ef1bb058eb9d53c37224bb59>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 8 0 R
@@ -1017,5 +1024,5 @@ trailer
 /Size 35
 >>
 startxref
-16271
+16375
 %%EOF

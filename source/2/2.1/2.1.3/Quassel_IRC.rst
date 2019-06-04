@@ -24,7 +24,7 @@ To switch between multiple channels left click on the channels on the left hand 
 
 In Quasel if someone says your name you are said to be highlighted which in Quasel will make a sound and in a goldenrod color over the line of text with your name on it. The notification will also be shown on your desktop if you are in another window. 
 
-If you want to enable automatically spell checking your input left click on the input bar and select :menuselection:`Auto Spell Check`. To change your languge for spellcheck right click in the input bar and select :menuselection:`Spell Checking language`.
+If you want to enable automatically spell checking your input left click on the input bar and select :menuselection:`Auto Spell Check`. To change your languge for spellcheck right click in the input bar and select :menuselection:`Spell Checking language`. If you make a mistake when typing in your input you can press :kbd:`Control+Z` or right click on the input bar and select :menuselection:`Undo`.
 
 To zoom in to get to your chat more right click and select :menuselection:`Zoom In`. To zoom out in quassel press :kbd:`Control+-` or right click and select :menuselection:`Zoom Out`. To go back to your original size right click quassel and select :menuselection:`Actual Size`.
 

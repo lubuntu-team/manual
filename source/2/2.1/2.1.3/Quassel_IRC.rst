@@ -24,7 +24,7 @@ To hide all people joining or leaving a chat right click on the channel list :me
 
 To switch between multiple channels left click on the channels on the left hand side. You also can switch between multiple channels with :kbd:`Alt + up arrow` to move up or :kbd:`Alt + Down arrow` to move down. To go to the next active chat press :kbd:`Alt + Right` or to go to the previous active chat :kbd:`Alt + Left`. To jump to a hot chat press :kbd:`Meta +A`. 
 
-In Quasel if someone says your name you are said to be highlighted which in Quasel will make a sound and in a goldenrod color over the line of text with your name on it. The notification will also be shown on your desktop if you are in another window. 
+In Quasel if someone says your name you are said to be highlighted which in Quasel will make a sound and in a goldenrod color over the line of text with your name on it. The notification will also be shown on your desktop if you are in another window. Also when it becomes midnight Quassel will tell you when midnight happens and it is the next day.
 
 If you want to enable automatically spell checking your input left click on the input bar and select :menuselection:`Auto Spell Check`. To change your languge for spellcheck right click in the input bar and select :menuselection:`Spell Checking language`. If you make a mistake when typing in your input you can press :kbd:`Control+Z` or right click on the input bar and select :menuselection:`Undo`. To redo tpying and action press :kbd:`Control+Shift+Z` or :menuselection:`Redo`. To clear the text you input right click the input bar and select :menuselection:`Clear`.
 

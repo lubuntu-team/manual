@@ -43,7 +43,7 @@ To type a message to an entire channel type into the bar at the bottom and press
 
 To add close the list of nicknames or channels press the X button or :menuselection:`View --> Nicks`. To reopen the view of nicks :menuselection:`View --> Nicks`. To close the list of all chats press the X button to close a list of all channel and private messages you are in. To reopen it press the :menuselection:`View --> Chat lists --> All chats`. 
 
-To make your chat full screen :menuselection:`View --> Full Screen Mode` or :kbd:`Control + Shift +F`. Press the keyboard shortcut or use the menu again to get out of fullscreen.
+To make your chat full screen :menuselection:`View --> Full Screen Mode` or :kbd:`Control + Shift +F`. Press the keyboard shortcut or use the menu again to get out of fullscreen. If you want to quit quassel press :kbd:`Control+Q`.
  
 To see all the nicknames of someone in a channel are located in a sidebar labeled :guilabel:`Nicks`. The lists of all channels you are in is labeled :guilabel:`All chats`. To switch between different channels left click on the channel name.
 
@@ -67,6 +67,8 @@ The :guilabel:`Input widget` has settings for what you tab to type into chanels 
 .. image::  quassel-input-widget.png
 
 To change how quassel displays the topic of each channel use the :guilabel:`Topic Widget` tab. To use a custom font for your topic press the :guilabel:`Custom font` checkbox and to choose a different font press the :guilabel:`Choose` button. To choose to resize to fit the topic check the :guilabel:`Resize dynamically to fit contents`. To only do this when you hove over the topic check the :guilabel:`On hover only` checkbox. 
+
+To view settings for spellcheck use the :guilabel:`Spell Checking` tab. To change the default language for you spell check use the :guilabel:`Default language` drop down menu. To toggle autodetecting language check the :guilabel:`Enable autodetection of language` checkbox.
 
 To have additional settings on highlights use the :guilabel:`Highlights` tab. To add other words or names to highlight you can press the :guilabel:`Add` button. To change what you want a name or word to be highlighted double click on the :guilabel:`Name` column. To toggle enabling being highlighted by the name check or uncheck the checkbox in the :guilabel:`Enabled` column. To make being highlighted case sensitive check the checkbox in the checkbox in the :guilabel:`CS` column. To use a regular expression for the rule to highlight check the checkbox in the :guilabel:`RegEx` column. To remove this highlight rule press the :guilabel:`Remove` button.
 

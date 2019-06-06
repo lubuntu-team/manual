@@ -40,5 +40,5 @@ from the command line. To add a new background for a particular theme copy that 
 
     sudo nano /usr/share/sddm/themes/lubuntu/theme.conf 
 
-
+However to copy the image file since this is not in your home system copying and saving a background to this folder will require root permissions as well.
 

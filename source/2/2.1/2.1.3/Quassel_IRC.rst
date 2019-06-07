@@ -80,7 +80,7 @@ To change your settings on your notifications :menuselection:`Settings --> Notif
 
 .. image:: notificationsettings.png  
 
-To change your shortcut :menuselection:`Settings --> Configure Shortcuts`. To see what shortcut does look at the :guilabel:`Action` column in the table. To see what keyboard shortcut to press see the :guilabel:`Shortcut` column.
+To change your shortcut :menuselection:`Settings --> Configure Shortcuts`. To see what shortcut does look at the :guilabel:`Action` column in the table. To see what keyboard shortcut to press see the :guilabel:`Shortcut` column. To set a second keyboard shortcut to do something use the :guilabel:`Alternate` column.  To switch to a custom keyboard shortcut left click on the action in the action column press the :guilabel:`Custom` and then press the button to the right and input your keyboard shortuct. 
 
 Version
 -------

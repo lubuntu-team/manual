@@ -80,6 +80,7 @@ To change your settings on your notifications :menuselection:`Settings --> Notif
 
 .. image:: notificationsettings.png  
 
+To change your shortcut :menuselection:`Settings --> Configure Shortcuts`. To see what shortcut does look at the :guilabel:`Action` column in the table. To see what keyboard shortcut to press see the :guilabel:`Shortcut` column.
 
 Version
 -------

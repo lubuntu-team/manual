@@ -89,6 +89,8 @@ To search for the actual content of the files you are searching for use the :gui
 
 The :guilabel:`Properties` tab has more settings based on information about the file also called metadata. To only show results on files larger than this file check the :guilabel:`Larger than` checkbox and then in the field to the right for size. To only show files smaller than this check the :guilabel:`Smaller than` checkbox and to the field to the right select the size smaller than that. To change the units for file size use the drop menu on the far right. To search for files modified before a date check the :guilabel:`Earlier than` checkbox and select the date to the right. To search for a file modified after a date check the :guilabel:`Later than` checkbox and input the date to the right.
 
+.. image::  find-files-prop.png
+
 Screenshot
 ----------
 .. image:: pcmanfm-qt.png 

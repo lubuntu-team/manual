@@ -19,7 +19,7 @@ The :guilabel:`Input devices` tab manager your sound inputs. To mute your microp
 
 .. image:: pavucontrol-input.png
 
-The :guilabel:`Configuration` tab has different sound profiles for each different output device. To change The profile for each device change the :guilabel:`Profile` drop down menu. 
+The :guilabel:`Configuration` tab has different sound profiles for each different output device. To change how sound comes out of your speakers or headphones  varying for example the number of speakers for each device change the :guilabel:`Profile` drop down menu. 
 
 Version
 -------

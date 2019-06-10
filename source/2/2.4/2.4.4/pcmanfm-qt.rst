@@ -119,7 +119,7 @@ The tab :guilabel:`Volume` manages flash drives other partitions on external dis
 
 .. image::    prefrencesvolume.png
 
-The :guilabel:`Advanced` tab shows integration with other programs and advanced settings. To change your default terminal emulator from pcmanfm-qt preferences drop down change the :guilabel:`Terminal emulator` drop down menu. To change your Archiver integration change the :guilabel:`Archiver integration` drop down.
+The :guilabel:`Advanced` tab shows integration with other programs and advanced settings. To change your default terminal emulator from pcmanfm-qt preferences drop down change the :guilabel:`Terminal emulator` drop down menu. To change what pcmanfm-qt uses to change users to open things as root type that in the :guilabel:`Switch user command` field. To change your Archiver integration change the :guilabel:`Archiver integration` drop down.
 
 Version
 -------

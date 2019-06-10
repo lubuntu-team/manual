@@ -62,6 +62,8 @@ To cancel and not apply your changes press the :guilabel:`Cancel` button along t
 
 The :guilabel:`Font` tab has settings to change settings with your fonts. To choose the font for your buttons on your calculator :guilabel:`Button font` and press the :guilabel:`Choose` button to the font for the buttons on your calculator. To change the font for the display of the calculator. :guilabel:`Display font` will change how the and the :guilabel:`Choose` button 
 
+.. image:: kcalc-font-screenshot.png
+
 The :guilabel:`Colors` tab has the colors of your user interface. To change your foreground color will change how the display or the number in the interface is the color next to :guilabel:`Foreground` color area to select. To change the background color of your display choose a different color on :guilabel:`background` button. To change the background color of the function buttons press the button next to :guilabel:`Functions`. To a change the color of the function button press button next to :guilabel:`Statisical functions`. To change the background color for hexidecimal functions :guilabel:`Hexadecimals`. To change the backgrounds of the numbers buttons press the button next to  :guilabel:`Numbers`. To change the background of the memory keys press the button next to :guilabel:`memory`. To change the background of operations press the button next to :guilabel:`Operations`.
 
 .. image::  kcalc-colors.png

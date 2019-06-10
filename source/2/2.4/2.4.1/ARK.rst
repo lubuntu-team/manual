@@ -36,6 +36,8 @@ Customizing
 -----------
 To access your preferences :menuselection:`Settings --> Configure Ark`. To show files in the associated program press the :guilabel:`Open file with associted application` radio button. To preview with internal previewer press the :guilabel:`Preview file with internal previewer` radio button. To have a warning when creating a zip file with AES encryption check the :guilabel:`Show a warning when creating zip files with AES encrpytion` checkbox. 
 
+.. image:: ark-general-pref.png 
+
 To cancel your changes to your settings press the :guilabel:`Cancel` button. To apply your changes and close the window press the :guilabel:`OK` button. To currently apply your settings press the :guilabel:`Apply` button.
 
 The :guilabel:`Extraction Settings` tab has options for extracting files. To open the destination folder after extraction check the :guilabel:`Open destination folder after extraction` checkbox. To close ARK after extraction check the :guilabel:`Close ARK after extraction` checkbox. To have ARK extract to a subfolder if the archive has more than one file or directory at the of the file check the :guilabel:`Extract to subfolder if the archive has more than one top-level entry`.

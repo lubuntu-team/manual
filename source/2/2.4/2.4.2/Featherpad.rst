@@ -59,6 +59,8 @@ To modify changes to your files from the preferences dialog on :guilabel:`Files`
 
 To view all keyboard shortcuts of featherpad switch to the :guilabel:`Shortcuts` tab. The :guilabel:`Action` column is what the shortcut does and the :guilabel:`Shortcut` column is the keyboard shortcut to change that shortcut. To change a shortcut double click on the shortcut column and press what you want the shortcut to become. If you changed a setting on a shortcut you can change it back to the default by pressing the :guilabel:`Default` button.  
 
+.. image:: featherpad-shortcuts.png
+
 Version
 -------
 Lubuntu ships with version 0.9.3 of Featherpad. 

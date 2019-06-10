@@ -19,6 +19,9 @@ To change a user's password select the user in the list then press the :guilabel
 
 The :guilabel:`Groups` tabs lets you see info on groups and change properties. The :guilabel:`Name` field shows the name of the group. The :guilabel:`Group ID` shows the numeric group id of the group in the name field. The :guilabel:`Members` show the members of the current group. 
 
+
+The :guilabel:`Advanced` tab has settings with a login shells and where your home directory is. To change which shell you use when you login via ssh or directly to a console change the :guilabel:`Login Shell` drop down menu.
+
 .. warning::
 
    Changing user and group permissions without knowing what you are doing could break your system.

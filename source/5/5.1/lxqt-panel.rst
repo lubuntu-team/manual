@@ -31,7 +31,7 @@ As mentioned before, the panel is highly configurable and you can customize it b
 
 Customizing
 -----------
-To change many panel settings right click not on the main taskbar and click the  gear button for panel settings.  
+To change many panel settings right click not on the main taskbar and select :menuselection:`Configure Panel`.  
 
 The :guilabel:`Panel` tab has settings for the color and position of the panel. To move the panel their is a drop down menu of position that can move it to the side of the screen you want. The :guilabel:`Alignment` drop down menu lets you set the alignment of the panel on your screen if you choose to move it or make it only a portion of the screen. The :guilabel:`Size` menu lets you increase or decrease the width of the panel. :guilabel:`Length` has two fields the one is either px or percent is for to change the length of the panel in pixels while  percent is a percent of the entire screen size that changes if you change resolution. The first is the number of pixels or percent of the screen you want the panel to cover. The :guilabel:`Icon size` makes the size of the icons bigger or smaller on the panel. 
 

@@ -91,6 +91,16 @@ The :guilabel:`Properties` tab has more settings based on information about the 
 
 .. image::  find-files-prop.png
 
+Custom Actions
+--------------
+To create custom actions you will need to create the folder that is not on your filesystem by default run this command
+
+.. code:: 
+
+    mkdir -p ~/.local/share/file-manager/actions
+
+or create this path by creating new directories in this file manager. Then you will need to make a desktop file to make your action.     
+
 Screenshot
 ----------
 .. image:: pcmanfm-qt.png 

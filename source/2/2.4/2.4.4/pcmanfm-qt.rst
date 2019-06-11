@@ -105,7 +105,13 @@ or create this path by creating new directories in this file manager. Then you w
 
    touch ~/.local/share/file-manager/actions/open_in_terminal.desktop
 
-to create the file. 
+to create the file. To edit thsi file run
+
+.. code:: 
+
+   featherpad ~/.local/share/file-manager/actions/open_in_terminal.desktop
+   
+from the command line to edit the file and paste in the following contents.
 
 Screenshot
 ----------

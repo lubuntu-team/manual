@@ -111,7 +111,19 @@ to create the file. To edit thsi file run
 
    featherpad ~/.local/share/file-manager/actions/open_in_terminal.desktop
    
-from the command line to edit the file and paste in the following contents.
+from the command line to edit the file and paste in the following contents
+
+.. code:: 
+
+   [Desktop Entry]
+   Type=Action
+   Name=Open in terminal
+   Icon=utilities-terminal
+   Profiles=profile-zero;
+
+   [X-Action-Profile profile-zero]
+   Exec=qterminal %f
+   Name=Default profile
 
 Screenshot
 ----------

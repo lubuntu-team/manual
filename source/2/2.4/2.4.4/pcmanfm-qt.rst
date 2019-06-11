@@ -99,7 +99,13 @@ To create custom actions you will need to create the folder that is not on your 
 
     mkdir -p ~/.local/share/file-manager/actions
 
-or create this path by creating new directories in this file manager. Then you will need to make a desktop file to make your action.     
+or create this path by creating new directories in this file manager. Then you will need to make a desktop file to make your action. To make for example an open in terminal  desktop run 
+
+.. code::
+
+   touch ~/.local/share/file-manager/actions/open_in_terminal.desktop
+
+to create the file. 
 
 Screenshot
 ----------

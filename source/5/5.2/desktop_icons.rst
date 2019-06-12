@@ -22,13 +22,19 @@ To edit a desktop entry including those on your menu you will need to open the .
 
 Creating
 --------
-To create your own desktop file you will need to have certain required fields in your file 
+To create your own desktop file you will need to have certain required key value pairs in your file 
 
 one thing you will need on the first line is 
 
 .. code::
 
    [desktop entry]
+   
+If you read to the next required key you will need is a type of each action
+
+.. code:: 
+
+   type=
    
 
 

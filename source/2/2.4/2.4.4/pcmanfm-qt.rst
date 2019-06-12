@@ -122,7 +122,7 @@ from the command line to edit the file and paste in the following contents
    Profiles=profile-zero;
 
    [X-Action-Profile profile-zero]
-   Exec=qterminal %f
+   Exec=qterminal -w %f
    Name=Default profile
 
 Screenshot

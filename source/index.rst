@@ -23,6 +23,7 @@ Contents
    4/Installing_Updating_and_Removing_Software
    5/Panel_Desktop_and_Runner
    A/tips_and_tricks
+   B/Contributing
    C/command_line
    D/upgrading
    E/live_session

@@ -42,6 +42,12 @@ The next required field for creating your own desktop file is a name key which y
 
    Name=
    
+If you want your desktop icon to run a program you will need a line that has 
+
+.. code:: 
+
+   Exec=
+   
 
    
 

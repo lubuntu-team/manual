@@ -155,6 +155,8 @@ The tab :guilabel:`Volume` manages flash drives other partitions on external dis
 
 The :guilabel:`Advanced` tab shows integration with other programs and advanced settings. To change your default terminal emulator from pcmanfm-qt preferences drop down change the :guilabel:`Terminal emulator` drop down menu. To change what pcmanfm-qt uses to change users to open things as root type that in the :guilabel:`Switch user command` field. To change your Archiver integration change the :guilabel:`Archiver integration` drop down.
 
+.. image:: pcmanfm-advanced-pref.png
+
 Version
 -------
 Lubuntu currently ships with 0.14.1 of pcmfanfm-qt. 

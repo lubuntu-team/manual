@@ -34,7 +34,15 @@ If you read to the next required key you will need is a type of each action
 
 .. code:: 
 
-   type=
+   Type=
+   
+The next required field for creating your own desktop file is a name key which you will need a line starting with
+
+.. code::
+
+   Name=
+   
+
    
 
 

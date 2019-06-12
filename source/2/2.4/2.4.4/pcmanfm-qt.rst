@@ -87,6 +87,8 @@ To change what types of files you use choose the :guilabel:`File Type` tab. To c
 
 To search for the actual content of the files you are searching for use the :guilabel:`Content` tab. To enter what you actually want to search for in your file in your :guilabel:`File contains` filed. To search for things not caring whether it is uppercase or lowercase letters check the :guilabel:`Case insensitive` checkbox. To choose to use a regualar expression to search for files check the :guilabel:`Use regualar expression` checkbox.
 
+.. image::   pcmanfm-content.png
+
 The :guilabel:`Properties` tab has more settings based on information about the file also called metadata. To only show results on files larger than this file check the :guilabel:`Larger than` checkbox and then in the field to the right for size. To only show files smaller than this check the :guilabel:`Smaller than` checkbox and to the field to the right select the size smaller than that. To change the units for file size use the drop menu on the far right. To search for files modified before a date check the :guilabel:`Earlier than` checkbox and select the date to the right. To search for a file modified after a date check the :guilabel:`Later than` checkbox and input the date to the right.
 
 .. image::  find-files-prop.png

@@ -81,7 +81,7 @@ The :guilabel:`Shortcuts` tab provides the ability to customize keyboard shortcu
 
 .. image::   qpdfview-shortcuts.png
 
-The :guilabel:`Modifiers` tab allows you to change settings with the mouse and certains keyboard shortcuts in combination with the mouse. To change what keyboard shortcut to hold down while you hold down your mousewheel to zoom use the :guilabel:`Zoom` drop down menu. 
+The :guilabel:`Modifiers` tab allows you to change settings with the mouse and certains keyboard shortcuts in combination with the mouse. To change what keyboard shortcut to hold down while you hold down your mousewheel to zoom use the :guilabel:`Zoom` drop down menu. To change what keyboard key to hold down before using the mousewheel use the :guilabel:`Rotate` key.
 
 Version
 -------

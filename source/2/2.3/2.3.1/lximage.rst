@@ -34,7 +34,7 @@ To view the picture as fullscreen press :kbd:`f11` or :menuselection:`View --> F
 
 Annotations
 ------------
-To edit your images with lximage there are several buttons on the right hand side of the toolbar. To draw and arrow press the button that looks like an arrow click once where you want the arrow to start and then drag the direction you want the arrow to point and click it where you want the arrowhead to be. To Draw a hollow rectangle left click on the button with a hollow rectangle and click and drag to the size of the rectangle you want. To draw a hollow circle annotation press the button that looks like a hollow circle. To draw numbers on your pictures press the :guilabel:`3` button. To remove selecting tool to draw annotations press the button with a circle with a slash through it.
+To edit your images with lximage there are several buttons on the right hand side of the toolbar. To draw and arrow press the button that looks like an arrow click once where you want the arrow to start and then drag the direction you want the arrow to point and click it where you want the arrowhead to be. To draw a hollow rectangle left click on the button with a hollow rectangle and click and drag to the size of the rectangle you want. To draw a hollow circle annotation press the button that looks like a hollow circle. To draw numbers on your pictures press the :guilabel:`3` button. To remove selecting tool to draw annotations press the button with a circle with a slash through it.
 
 Screenshot
 ----------

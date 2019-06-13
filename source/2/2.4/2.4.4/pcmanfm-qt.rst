@@ -107,7 +107,7 @@ or create this path by creating new directories in this file manager. Then you w
 
    touch ~/.local/share/file-manager/actions/open_in_terminal.desktop
 
-to create the file. To edit thsi file run
+to create the file. To edit this file run
 
 .. code:: 
 

@@ -21,7 +21,7 @@ To change the brightness of a scan slide the :guilabel:`Brightness` slider or in
 
 To select part of a scan you particularly want to save is to click over a preview of a scan and you will drag the selection with the mouse. To clear selections that can be automatically selected but canceled with a brown smudge with an x on it. If you want to zoom to your selection right click :guilabel:`Zoom to selection`. If you want to zoom to fit the whole entire page right click :guilabel:`Zoom to fit`. 
 
-To change to your specific options for your scanner use the :guilabewl:`Scanner Specific Options` tab.
+To change to your specific options for your scanner use the :guilabel:`Scanner Specific Options` tab.
 
 Screenshot
 ----------

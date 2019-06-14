@@ -35,6 +35,8 @@ To move a torrent down on where it appears on the screen and the queue :menusele
 
 If you do not want to prioritize the speed of your torrents press the button on the bottom of transmission that looks like a turtle. To change the ratio view on the bottom to your total changes :menuselection:`Globe button --> Total Transfer`. To view your upload/download ratio in the current session :menuselection:`Globe button --> Session Ratio`. To view your transfer from the current session only :menuselection:`Globe button --> Session Transfer`. 
 
+To open the file manager in the folder of your torrent press :kbd:`Control+E` or :menuselection:`Torrent --> Open Folder`.
+
 How to launch
 -------------
 

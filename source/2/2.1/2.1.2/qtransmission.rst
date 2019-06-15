@@ -68,3 +68,6 @@ To change your settings on how transmission interacts with the network use the :
 .. image::  qtransmission-network-pref.png
 
 To change things about your desktop interface use the :guilabel:`Desktop` tab of transmission. To show an icon for transmission in the system tray check the :guilabel:`Show Transmission icon in the notification area` checkbox. To start transmission started in the notification area :guilabel:`Start minimized in notification area` checkbox. To toggle showing a notification when new torrents are added check/uncheck the :guilabel:`Show a notificatoin when torrents are added` checkbox. To show a notification when torrents finish check/uncheck the :guilabel:`Show a notification when torrents finish` checkbox. To toggle playing a sound when the torrents finish check/uncheck the :guilabel:`Play a sound when torrents finish` checkbox.
+
+.. image::  qtransmission-desktop-pref.png
+

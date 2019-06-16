@@ -1,7 +1,7 @@
 Chapter 2.1 Internet Applications
 =================================
 
-This chapter documents how to use webbrowsers email clients and torrent clients. 
+This chapter documents how to use webbrowsers, email clients, and torrent clients. 
 
 .. toctree::
    :maxdepth: 2

@@ -103,6 +103,8 @@ The :guilabel:`Sensors` tab is for each individual sensors on processor. To enab
 
 To add a spacer to your panel add the spacers widget. It creates a blank space on your panel. To change how wide your spacer is change the :guilabel:`Space Width` field to the number of pixels you want the spacer to be wide. The setting for :guilabel:`Space type` selects a solid line, a dotted line, or invisible for how the spacer appears on the panel.
 
+.. image:: panel-spacer.png
+
 Version
 -------
 Lubuntu ships with version 0.13.0 of lxqt-panel.

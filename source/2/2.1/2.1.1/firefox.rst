@@ -73,3 +73,5 @@ from the terminal to run firefox. You can also from the command line have firefo
 .. code:: 
 
    firefox https://manual.lubuntu.me
+   
+You can also launch firefox from the quick launch by default by left clicking on it.

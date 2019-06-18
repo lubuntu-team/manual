@@ -63,6 +63,8 @@ The :guilabel:`Chat view` tab has settings for colors timestamps and hyperlinks.
 
 To change your colors of chat use the :guilabel:`Chat View Colors` tab. To change the Colors of your user interface on Quassel check the :guilabel:`Custom Colors` checkbox. Then there are many buttons for each different kind of message which you can press the buton that all bring up the specific color for that kind of message. 
 
+.. image:: chat-view-colors.png 
+
 The :guilabel:`Chat & Nick Lists` has settings for the lists of nickname lists. The :guilabel:`Custom font` checkbox lets you chose a custom font on the lists of nicks and the :guilabel:`Choose` button lets you choose the font you want. The :guilabel:`Display topic in tooltip` shows the channel topic in a tooltip if you move the mouse over it. If you want to be able to switch channels from the mouse wheel check the :guilabel:`Mouse wheel changes selected chat` checkbox. The checkbox :guilabel:`Use Custom Colors` enables the settings for different colors for the different channels. The buttons next to :guilabel:`Standard`, :guilabel:`Inactive`, :guilabel:`Highlight`, or :guilabel:`Other activity` all change what color the channel appears when you are in a list of channels. The :guilabel:`Custom Nick List colors` checkbox lets you change the color of nicks in the list. The :guilabel:`Online` button changes the color of nicks of online users. The :guilabel:`Away` button changes the color of nicks of Away users.  
 
 .. image::  quasel-chat-nick-list.png

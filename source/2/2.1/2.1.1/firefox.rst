@@ -28,6 +28,8 @@ To open a new tab in firefox press the plus button on the right of the tab bar o
 
 To go back to a previous page in firefox press the button pointing to the left or press :kbd:`Alt + Left arrow`. To open the page you were previously at in a new tab middle click the back button. To go forward to a page you have visited before but have now gone back from press the button with the arrow pointing to the right or :kbd:`Alt + Right arrow`. Middle click on the forward button to open the page you went back from in a new tab. To download a file directly to your local disk right click :menuselection:`Save Link As` file as and then you will get a dialog box to show where to save it. 
 
+To open a window with all of your downloads on it press :kbd:`Control+Shift+Y`.
+
 To have a list of all of your tabs press the downward pointing arrowhead button. To switch the view of your tabs if you have more than on the screen press the right ward pointed arrowhead to move the visible part of the tab bar to the right. To move the visible part of the tab bar to the left press the leftward pointed arrowhead. To open a new tab press the :guilabel:`+` button.
 
 To scroll down using the keyboard press :kbd:`Page Down`. To scroll up the page with the keyboard press :kbd:`Page Up`. To scroll all the way back up to the top press the :kbd:`Home` key. To move all the way to the bottom of the page press the :kbd:`End` key.

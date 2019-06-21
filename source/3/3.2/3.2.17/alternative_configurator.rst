@@ -9,7 +9,7 @@ Lubuntu ships with version 1.0.3 of galternatives.
 
 Usage
 ------
-To select the command to choose your alternatives for the default program for something such as your default text editor if you have multiple programs installed by left clicking what to be the alternative on the left sidebar. On the right side of the window will have a radio button to choose which editor you want to use. When you change your alternative you will input your password to authenticate to change your default application.
+To select the command to choose your alternatives for the default program for something such as your default text editor if you have multiple programs installed by left clicking what to be the alternative on the left sidebar under the column :guilabel:`Groups`. On the right side of the window will have a radio button to choose which editor you want to use. When you change your alternative you will input your password to authenticate to change your default application.
 
 To show a search for the different application groups press the button that looks like a magnifying glass.
 

@@ -25,7 +25,7 @@ The :guilabel:`Keyboard` tab has settings for changing keyboard settings. If you
  
 .. image:: keyboard-settings-tab.png
 
-The :guilabel:`Keyboard Layout` tab has settings to add a new keyboard layout. In the top center of the window is a listing of your current keyboard layout and any variant applied to it. To add a keyboard layout press the :guilabel:`Add` button. To remove the keyboard layout left click on the keyboard and press the :guilabel:`Remove` button. To move a keyboard layout up or down press the :guilabel:`up` or :guilabel:`down` buttons. To change your keyboard model in choose your keyboard model in the :guilabel:`Keyboard model` drop down. 
+The :guilabel:`Keyboard Layout` tab has settings to add a new keyboard layout. In the top center of the window is a listing of your current keyboard layout and any variant applied to it. To add a keyboard layout press the :guilabel:`Add` button. To remove the keyboard layout left click on the keyboard and press the :guilabel:`Remove` button. To move a keyboard layout up or down press the :guilabel:`Up` or :guilabel:`Down` buttons. To change your keyboard model in choose your keyboard model in the :guilabel:`Keyboard model` drop down. 
 
 .. image:: keyboardlayout.png
 

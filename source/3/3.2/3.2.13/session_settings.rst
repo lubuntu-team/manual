@@ -9,7 +9,7 @@ The :guilabel:`Basic Settings` tab lets you change with a window manager  and LX
 
 .. image:: sessionsettings-basic.png
 
-The checkbox for :guilabel:`Ask confirmation to leave session` gives you a simple yes no dialog to make sure you really want to leave so you do not lose your work uncheck it if you do not want this and find this dialog annoying. The :guilabel:`Lock screen before suspending or hibrenating` checkbox locks your screen before suspending and hibernating and is checked by default unchecking this will leave this so the screen is not unlocked after suspending or hibernating. To change how long to wait after locking the screen to delay or suspend change the :guilabel:`Suspend/hibernate after lock delay`field. 
+The checkbox for :guilabel:`Ask confirmation to leave session` gives you a simple yes no dialog to make sure you really want to leave so you do not lose your work uncheck it if you do not want this and find this dialog annoying. The :guilabel:`Lock screen before suspending or hibrenating` checkbox locks your screen before suspending and hibernating and is checked by default unchecking this will leave this so the screen is not unlocked after suspending or hibernating. To change how long to wait after locking the screen to delay or suspend change the :guilabel:`Suspend/hibernate after lock delay` field. 
 
 The :guilabel:`Default Applications` tab lets you change your default browser and terminal emulator. The drop down for :guilabel:`Terminal Emulator` lets you change the terminal emulator and the drop down for :guilabel:`Web Browser` lets you change your webbrowser.
 

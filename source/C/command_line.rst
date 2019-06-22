@@ -57,5 +57,5 @@ If you want just to see the contents of a file on standard output run
 .. code::
 
    cat [filename]
-   
+
 If you have a command and you don't want to type the whole thing out you can press the :kbd:`tab` key. 

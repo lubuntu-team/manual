@@ -3,7 +3,7 @@ Chapter 2.2.1 Libreoffice
 
 Libreoffice is an open source full office suite. In the menu there are shortcuts to different libreoffice applications and your recently used files. 
 
-Useage
+Usage
 ------
 To open a recently used file in libreoffice they are shown in the main part of the window. To open a program or to create a file from a file dialog are along the left hand column. 
 

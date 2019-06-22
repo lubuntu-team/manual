@@ -49,13 +49,13 @@ Screenshot
 
 Effects and Filters
 --------------------
-To open an equalizier press the button that looks like several physical slider switches, press :kbd:`Control+E` or :guilabel:`Tools --> Effects and filters` and use the :guilabel:`Audio effects` tab and :guilabel:`Equalizer` subtab. To enable the equalizier check the :guilabel:`Enable` checkbox. Then to increase or decrease the sound at each frequency up to increase the volcume at that frequency. To select an equalizer preset use the :guilabel:`Preset` drop down menu. On the :guilabel:`Advanced` tab of audio effects there is a meter to adjust the pitch of the currently playing audio. To enable this effect check the :guilabel:`Enable` checkbox. To increase the pitch of the audio move the slider up. To decrase the pitch of the audio move the slider down.
+To open an equalizier press the button that looks like several physical slider switches, press :kbd:`Control+E` or :guilabel:`Tools --> Effects and filters` and use the :guilabel:`Audio effects` tab and :guilabel:`Equalizer` subtab. To enable the equalizier check the :guilabel:`Enable` checkbox. Then to increase or decrease the sound at each frequency up to increase the volume at that frequency. To select an equalizer preset use the :guilabel:`Preset` drop down menu. On the :guilabel:`Advanced` tab of audio effects there is a meter to adjust the pitch of the currently playing audio. To enable this effect check the :guilabel:`Enable` checkbox. To increase the pitch of the audio move the slider up. To decrease the pitch of the audio move the slider down.
 
 .. image::  equlizer.png
 
 To change how the audio and video synchronize with the rest of the file use the :guilabel:`Synchronization` tab. To change the synchronization of your audio with the video change the :guilabel:`Audio track synchronization` field to get it to match with your video. To change the synoronization of subtitles use the :guilabel:`Subtitle track synchronization` field.
 
-To change how the video appears on your screen use the :guilabel:`Video Effects` tab. On the :guilabel:`Essential` sub tab for how your birgthness contrast and other things appear. To change your image press the :guilabel:`Image adjust` checkbox. To change the brightness use the :guilabel:`Brightness` slider with to the left being darker and to the right being lighter. However extreme values to the left or right are not that viewable. As such you may want to make small adjustments with the :kbd:`Left arrow` and :kbd:`Right arrow` keys. To change the color of the video use the :guilabel:`Hue` slider. To change the contrast use the :guilabel:`Contrast` slider with the left being lower contrast and the right being higher contrast. To change how saturated your colors are use the :guilabel:`Saturation` slider.
+To change how the video appears on your screen use the :guilabel:`Video Effects` tab. On the :guilabel:`Essential` sub tab for how your brightness contrast and other things appear. To change your image press the :guilabel:`Image adjust` checkbox. To change the brightness use the :guilabel:`Brightness` slider with to the left being darker and to the right being lighter. However extreme values to the left or right are not that viewable. As such you may want to make small adjustments with the :kbd:`Left arrow` and :kbd:`Right arrow` keys. To change the color of the video use the :guilabel:`Hue` slider. To change the contrast use the :guilabel:`Contrast` slider with the left being lower contrast and the right being higher contrast. To change how saturated your colors are use the :guilabel:`Saturation` slider.
 
 .. image:: vlc-essential-video-effects.png 
 
@@ -68,7 +68,7 @@ To view your preferences of VLC press :kbd:`control +P` or :menuselection:`Tools
 
 .. image::  vlcprefrences.png
 
-To cancel your changes in this window and close it press the :guilabel:`Cancel` button. To Reset your prefrences to press the :guilabel:`Reset Prefrences` button. To Save your prefrences and close the window press the :guilabel:`Save` button. 
+To cancel your changes in this window and close it press the :guilabel:`Cancel` button. To Reset your preferences to press the :guilabel:`Reset Prefrences` button. To Save your preferences and close the window press the :guilabel:`Save` button. 
 
 To manage your audio settings use the :guilabel:`Audio tab`. To disable audio entirely uncheck the :guilabel:`Enable audio` checkbox. To change the output of audio type change the :guilabel:`Output module` menu. To add a visualization of Audio change the :guilabel:`Visualization:` menu. To change replay gain mode change the :guilabel:`Replay gain mode` menu. To allow playing audio at different speeds without changing the pitch is to check the :guilabel:`Enable Time-stretching audio` checkbox.
 

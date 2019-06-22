@@ -12,7 +12,7 @@ Usage
 To see your memory usage in qps look at the bar that says :guilabel:`MEM`. The bar for :guilabel:`CPU` usage shows CPU usage with a bar graph with usage with a bar graph for cpu usage. The :guilabel:`Uptime` in the top bar shows how long your computer has been running. A blue bar showing file input output shows graph in blue. Above this there is a green graph that shows your CPU useage as a graph. To show when a program was started with the :guilabel:`START` column. To have a view of process ID of each process use the :guilabel:`PID` column. The column :guilabel:`Command Line` shows what command line starts the process. To show which user the process is running on is in the :guilabel:`USER` column. 
 
 To sort your processes by memory click on the mem tab. To have your processes sorted by CPU percentage press the button :guilabel:`CPU%` To have your processes sorted by CPU%.  To sort by the command line of each process you can press the command line. To sort by how much memory is used by each process click on the :guilabel:`Mem` tab. To only show processes by your user on the toolbar 
-drop down  and select :menuselection:`Your Processes`.
+drop down  and select :menuselection:`Your Processes`. To view only processes not run by the root user form the dop menu on lower toolbar select :menuselection:`Non-Root Processes`.
 
 To change your process view to each process gets its own line or linear select the :guilabel:`Linear` radio button in the upper left hand corner. To oranize each related process with a tree for parent and child processes press the :guilabel:`Tree` radio button. To search for a particular process enter a search term in the bar towards the ceneter top of the user interface.
 

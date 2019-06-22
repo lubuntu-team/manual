@@ -19,7 +19,7 @@ If you double click on a folder you change pcmanfm-qt to that folder. If you wan
 
 To close a tab click on the red x button on the tab bar. To close a tab using the keyboard press :kbd:`Control +W` or from the menu :menuselection:`File --> Close Tab`. To close all tabs but the current one right click on the tab bar and :menuselection:`Close other tabs`. To close all tabs to the right of this tab :menuselection:`Close next tabs`. To close tabs to the left right click on the tab bar and select :menuselection:`Close previous tabs`.
 
-If you have installed multiuple programs that can open a file right click and slect :menuselection:`Open With --> Program you want to launch`. 
+If you have installed multiple programs that can open a file right click and select :menuselection:`Open With --> Program you want to launch`. 
 
 To create a new empty text file press :kbd:`Control + Alt +N` or :menuselection:`File --> Create New --> Blank File` and type in the name of the file you want. To create a new folder or directory press :menuselection:`File --> Create New --> Folder` or press :kbd:`Control+ Shift +N` and input the new folder name. To delete your files from pcmanfm-qt will first put them in the trash so they are not gone forever. To move a file into the trash right click that file move to trash or press :kbd:`Delete`. To get a file out of the trash in places trash to get to your trash or :menuselection:`Go --> Trash`. To bring a file back from the trash right click :menuselection:`Restore`. To permanently delete all files from the trash can right click on :guilabel:`Trash` in the places sidebar :menuselection:`Empty Trash`. To go back to your home folder press :kbd:`Alt +Home` or :menuselection:`Go --> Home`. 
 
@@ -37,7 +37,7 @@ To select all files in a directory is to press :kbd:`Control+ A` or right click 
 
 .. image:: bulk-rename.png
 
-To connect to a remote server such as a NAS go to the :menuselection:`Go -->  Connect to server` and authenticate to your remote storage. If you want to plug in removeable storage you can open the storage on the left sidebar with devices. To switch to the removable media left click on the device in the side pane. This same applies to other internal filesystems on your computer. To eject removable media press the button on the left with a circled up arrow to eject.  On the side pane you can right click to open a place in a new tab by right clicking :menuselection:`Open in New Tab` for places and mounted drives. If you want to return to your home folder :menuselection:`Go --> Home` or press :kbd:`Alt + Home`.   
+To connect to a remote server such as a NAS go to the :menuselection:`Go -->  Connect to server` and authenticate to your remote storage. If you want to plug in removable storage you can open the storage on the left sidebar with devices. To switch to the removable media left click on the device in the side pane. This same applies to other internal filesystems on your computer. To eject removable media press the button on the left with a circled up arrow to eject.  On the side pane you can right click to open a place in a new tab by right clicking :menuselection:`Open in New Tab` for places and mounted drives. If you want to return to your home folder :menuselection:`Go --> Home` or press :kbd:`Alt + Home`.   
 
 pcmanfm-qt also supports transferring files to mobile devices plugged in with a usb cable. On the left hand side under devices the mobile device will appear. You may need on your device to allow it to transfer files. After you have done this You can see the files on mobile device and transfer files to them. To eject the mobile devices press the upward pointing arrow to unmount it.
 
@@ -170,7 +170,7 @@ Lubuntu currently ships with 0.14.1 of pcmfanfm-qt.
 
 How to Launch
 -------------
-To open PCManFM in your current directory (in terminal), execute 
+To open PCManFM-qt in your current directory (in terminal), execute 
 
 .. code::
 

@@ -5,7 +5,7 @@ Kcalc is a scientific calculator application.
 
 Features:
 
- - trignometric functions
+ - trigonometric functions
  - factorials
  - built in mathematical and scientific constants.
  - memory
@@ -54,7 +54,7 @@ To enter Statistic mode :menuselection:`Settings --> Statistic Mode`. To enter m
 
 Customizing
 -----------
-To open configuration for kcalc press :kbd:`Control+Shift+ +` or :menuselection:`Settings --> Configure Kcalc`. To change the maximum number of digits change the :guilabel:`Maximum number of digits` field. To have kcalc set decimal precision to only a certain number of places after the decimal place check the :guilabel:`Set decimal precision` checkbox and select the number of digits after the decimal place. If you ant to show the result in the window title check the :guilabel:`Show result in window title` checkbox. To have Kcalc group digits together check the :guilabel:`Group digits` checkbox. 
+To open configuration for Kcalc press :kbd:`Control+Shift+ +` or :menuselection:`Settings --> Configure Kcalc`. To change the maximum number of digits change the :guilabel:`Maximum number of digits` field. To have Kcalc set decimal precision to only a certain number of places after the decimal place check the :guilabel:`Set decimal precision` checkbox and select the number of digits after the decimal place. If you ant to show the result in the window title check the :guilabel:`Show result in window title` checkbox. To have Kcalc group digits together check the :guilabel:`Group digits` checkbox. 
 
 To cancel and not apply your changes press the :guilabel:`Cancel` button along the bottom. To apply your changes and not exit from this window press the :guilabel:`Apply` button. To restore the settings to your defaults press the :guilabel:`Restore Defaults`. To apply your changes if any and close this window press the :guilabel:`OK` button. 
 
@@ -82,10 +82,10 @@ Lubuntu ships with version 18.12.3 of Kcalc.
 
 How to launch
 -------------
-To launch kcalc go to :menuselection:`Accessories --> Kcalc` or run
+To launch Kcalc go to :menuselection:`Accessories --> Kcalc` or run
 
 .. code::
 
    kcalc 
  
-from the command line. The icon for kcalc looks like a box with a + sign a - sign a multiplication sign and an equals sign.
+from the command line. The icon for Kcalc looks like a box with a + sign a - sign a multiplication sign and an equals sign.

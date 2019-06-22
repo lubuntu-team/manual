@@ -40,7 +40,7 @@ from the command line.
 
 Customizing
 ------------
- To change more preferences :menuselection:`Option --> Prefrences` and a preferences window will pop up. To change the font is the drop down menu under :guilabel:`Appearance` and the drop down number is for the font size. To change how cpu usage is divided per your total number of CPU cores or a Single cpu press a radio button under :guilabel:`%CPU divided by`. 
+ To change more preferences :menuselection:`Options --> Prefrences` and a preferences window will pop up. To change the font is the drop down menu under :guilabel:`Appearance` and the drop down number is for the font size. To change how cpu usage is divided per your total number of CPU cores or a Single cpu press a radio button under :guilabel:`%CPU divided by`. 
 
 .. image::   qps-pref.png
 

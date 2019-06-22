@@ -39,7 +39,7 @@ When writing a reply message a window will pop up to write your message in. To s
 
 To manually check for new messages :menuselection:`Mailbox --> Check for new messages`. To hide read messages :menuselection:`View --> Hide read messages` and uncheck this to see read messages again. To view newest messages in trojita first :menuselection:`View --> Sorting --> Descending`. To switch back to your old view of oldest message first :menuselection:`View --> Sorting --> Ascending`. 
 
-To launch an address book of saved contacts :menuselection:`IMAP --> Address Book`. To add a new message to contacts press the :guilabel:`Add` button. Once on the new contact doulbe click on the fields which are all optional. If you press the X button and have changes you will bring up a dialog to save the changes. 
+To launch an address book of saved contacts :menuselection:`IMAP --> Address Book`. To add a new message to contacts press the :guilabel:`Add` button. Once on the new contact double click on the fields which are all optional. If you press the X button and have changes you will bring up a dialog to save the changes. 
 
 To change your view of trojita to view only one message at a time or the view of your inbox :menuselection:`View --> Layout --> One At Time` which is quite useful on small screens. To view you message in a three column format with your folders to the list of message in each folder in the center and then the message itself on the right :menuselection:`View --> Layout --> Wide`. To return to your original view :menuselection:`View --> Layout --> Compact`.
 

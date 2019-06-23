@@ -12,15 +12,15 @@ To open a new tab go to the :menuselection:`File --> New Tab` or press :kbd:`con
 
 If you get a url in your terminal you can right click :menuselection:`Copy Link Address` to copy the link. To open your link directly press :kbd:`Control + left click` or right click the link and select :menuselection:`Open Link`. To zoom in on the terminal press :kbd:`Control + Shift + +` or right click and select :menuselection:`Zoom in`. To zoom out press :kbd:`Control + -` or right click :menuselection:`Zoom out`. To return to the original zoom press :kbd:`Control + 0` or right click :menuselection:`Zoom reset`. If you want qterminal to be fullscreen press :kbd:`F11` or :menuselection:`View --> Fullscreen` to make it fullscreen then :kbd:`F11` or :menuselection:`View --> fullscreen` again to make it back to its original size.
 
-To split your terminal vertically into two terminals on top of each other :menuselection:`Actions --> Split Terminal Horizontal`. To have one  split terminal to the left and one to the right :menuselection:`Actions --> Split Terminal Vertically`. To collpase back to how your terminal back to how they were before :menuselection:`Actions --> Collapse Subterminal`. To switch between the two split terminals click on the terminal you want. To switch to a the lower split terminal press :kbd:`Alt + Down` or :menuselection:`Actions --> Bottom Subterminal`. To switch the the top subterminal press :kbd:`Alt + Up` or :menuselection:`Actions --> Top Subterminal`. To switch to the left subterminal press :kbd:`Alt +Left` or :menuselection:`Actions --> Left Subterminal`. To switch to the right subterminal press :kbd:`Alt +Right` or :menuselection:`Actions --> Right Subterminal`. To move to the tab you had before :menuselection:`Actions --> Previous Tab in History`. To move to the next tab before that :menuselection:`Actions --> Next Tab in History`.
+To split your terminal vertically into two terminals on top of each other :menuselection:`Actions --> Split Terminal Horizontal`. To have one  split terminal to the left and one to the right :menuselection:`Actions --> Split Terminal Vertically`. To collapse back to how your terminal back to how they were before :menuselection:`Actions --> Collapse Subterminal`. To switch between the two split terminals click on the terminal you want. To switch to the lower split terminal press :kbd:`Alt + Down` or :menuselection:`Actions --> Bottom Subterminal`. To switch the top subterminal press :kbd:`Alt + Up` or :menuselection:`Actions --> Top Subterminal`. To switch to the left subterminal press :kbd:`Alt +Left` or :menuselection:`Actions --> Left Subterminal`. To switch to the right subterminal press :kbd:`Alt +Right` or :menuselection:`Actions --> Right Subterminal`. To move to the tab you had before :menuselection:`Actions --> Previous Tab in History`. To move to the next tab before that :menuselection:`Actions --> Next Tab in History`.
 
-To change to the next tab using the keyboard press :kbd:`Control + Page Down` or :menuselection:`Actions --> Next tab`. To change to the previous tab using the keyobard press :kbd:`Control+ Page up` or :menuselection:`Actions --> Previous Tab`. To move to a tab to the right :menuselection:`Actions --> Move tab to the right`. To move a tab to the left :menuselection:`Actions --> Move tab to the left`.
+To change to the next tab using the keyboard press :kbd:`Control + Page Down` or :menuselection:`Actions --> Next tab`. To change to the previous tab using the keyboard press :kbd:`Control+ Page up` or :menuselection:`Actions --> Previous Tab`. To move to a tab to the right :menuselection:`Actions --> Move tab to the right`. To move a tab to the left :menuselection:`Actions --> Move tab to the left`.
 
 To bring a search for the text displayed on your terminal press :kbd:`Control +Shift +F` or :menuselection:`Actions --> Find...`. To close the search bar press :kbd:`Escape` or :kbd:`Control+Shift+F` again. To find what you need to search for in the :guilabel:`Find` search bar. To move to the next result press the rightward pointing arrow button. To move to the previous result is to press the leftward pointing arrow. To change to not to match case press the downward pointing arrow button uncheck the :guilabel:`Match Case` checkbox. To toggle highlighting all matches check/uncheck the :guilabel:`Highlight all matches` checkbox. To use a regular expression click the downard pointing arrow button and check the :guilabel:`Regular expression` checkbox. 
 
 To clear you active terminal press :kbd:`Control + Shift +X` or :menuselection:`Actions --> Clear Active Terminal`. To hide window borders check the :menuselection:`View --> Hide Window borders`. To toggle showing the entire menubar press :kbd:`Control+Shift+M` or right click on the :menuselection:`Toggle Menu` then do the same thing to get the menu back again.
 
-To use the drop down function of Qterminal once launched press :kbd:`F12` to have the terminal drop down or roll up.
+To use the drop down function of QTerminal once launched press :kbd:`F12` to have the terminal drop down or roll up.
 
 .. image::  qterminal-drop.png
 
@@ -56,16 +56,16 @@ Lubuntu ships with version 0.14.1 of QTerminal.
 
 How to launch
 -------------
-To launch qterminal in a normal window go to the menu :menuselection:`System Tools --> QTerminal` or run 
+To launch QTerminal in a normal window go to the menu :menuselection:`System Tools --> QTerminal` or run 
 
 .. code:: 
 
    qterminal 
 
-from the command line. To launch a drop down version of Qterminal from the menu :menuselection:`System Tools --> QTerminal drop down`  or run 
+from the command line. To launch a drop down version of QTerminal from the menu :menuselection:`System Tools --> QTerminal drop down`  or run 
 
 .. code:: 
 
    qterminal -d 
 
-from the command line. You can also launch qterminal by pressing the keyboard shortcut :kbd:`Control+Alt+T`.
+from the command line. You can also launch QTerminal by pressing the keyboard shortcut :kbd:`Control+Alt+T`.

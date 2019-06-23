@@ -15,7 +15,7 @@ A good example of when you would use a live session is if your computer turns on
 .. warning::
  In a live session anything you do not save to external media or a mounted drive specifically will be lost when you power off your machine.
 
-A live session will not save your things to disk but will not by default mess up your installed system. This is not the case if you mount your filesystems on your disk. 
+A live session will not save your things to disk but will not by default mess up your installed system. This is not the case if you mount your filesystems on your disk and save to that location. By default the live session uses UTC as the time by default.
 
 Screenshot
 ----------

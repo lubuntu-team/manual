@@ -24,7 +24,7 @@ Screenshot
 
 How to Launch
 -------------
-To launch lxqt-sudo from the command line to run featherpad with administrative privileges use 
+To launch lxqt-sudo from the command line to run Featherpad with administrative privileges use 
 
 .. code::
 
@@ -36,4 +36,4 @@ You can also run lxqt-sudo from the runner for example type in
 
    lxqt-sudo pcmanfm-qt 
 
-into the runner to do it this way without opening a terminal.
+into the runner to launch pcmanfm-qt with administrative privileges without opening a terminal.

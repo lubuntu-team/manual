@@ -1,4 +1,4 @@
-Chapter 3.1.7 KDE partition manager
+Chapter 3.1.7 KDE Partition Manager
 ===================================
 
 KDE partition manager creates partitions and deletes partitions on your hard drives and solid state drives.
@@ -34,7 +34,7 @@ Screenshot
 
 How to launch
 -------------
-To launch kde partition manager from the :menuselection:`System Tools --> KDE Partition Manager` or run 
+To launch KDE Partition Manager from the :menuselection:`System Tools --> KDE Partition Manager` or run 
 
 .. code:: 
 
@@ -46,3 +46,5 @@ from the command line.
 Customizing
 -----------
 To toggle showing a statusbar that shows pending operations check/uncheck the :menuselection:`Settings --> Show Statusbar` checkbox in the menu. To toggle showing your devices side pane check/uncheck the :menuselection:`Settings --> Panels Shown --> Devices`. To toggle showing information about the currently selected partition check/uncheck the :menuselection:`Settings --> Panels Shown --> Infromation` checkbox in the menu.  To toggle showing log output of check/uncheck the :menuselection:`Settings --> Panels Show --> Log Output` checkbox. 
+
+To customize settings for KDE Partition Manager press :kbd:`Control+Shift+,` or :menuselection:`Settings --> Configure KDE Partition Manager`. The :guilabel:`General` tab has settings for aligning partitions and defaults for partitions. To change where your sectors on your disc align to use the :guilabel:`Sector alignment` field.

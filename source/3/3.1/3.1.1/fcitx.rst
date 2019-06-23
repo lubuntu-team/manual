@@ -24,7 +24,7 @@ Screenshot
 
 How to launch
 -------------
-To launch the fcitx applet from the menu :menuselection:`System tools --> Fcitx` with icon with a penguin with a paintbrush. If you wish to run the applet from the command line run 
+To launch the fcitx applet from the menu :menuselection:`System Tools --> Fcitx` with icon with a penguin with a paintbrush. If you wish to run the applet from the command line run 
 
 .. code:: 
 

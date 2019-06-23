@@ -66,7 +66,6 @@ To configure options for your application menu right click on the menu configure
 To turn off searching in the menu uncheck the :guilabel:`Filter menu entries` and :guilabel:`Show matching entries checkbox`. Leave both of these checked to allow searching. To set the most number of search results in the menu change the :guilabel:`Maximum visible items` field. To change how wide each search result can be change the :guilabel:`Max. item width` field. To not hide what section of the menu everyone has :guilabel:`Hide menu entries while searching` checkbox. To not clear your search upon opening the menu again uncheck the :guilabel:`Clear search upon showing menu` checkbox.
 
 .. image:: menu-pref.png 
-I think there needs to be a system in place to keep this data safe so that future generations have the opportunity to see / hear the history.   You know this would never happen to financial data.  Banks and insurance companies have disaster recovery plans in place where they back up to multiple locations including bunkers so the data could be restored in a very short period of time.  
 
 To customize the desktop switcher right click on the desktop switcher :menuselection:`Configure Desktop Switcher` or press the :guilabel:`Gear` button. To change the number of rows on your desktop change the :guilabel:`Number of rows` field. To change how desktops are labeled change the :guilabel:`Desktop Labels` field. To change the name of each desktop enter a name under :guilabel:`Desktop Names`. 
 

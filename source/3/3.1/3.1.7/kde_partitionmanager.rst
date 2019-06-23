@@ -28,6 +28,8 @@ If you have say a new solid state drive that is not formatted you first need to 
 
 If you have multiple drives on your system :menuselection:`Device --> Select Current Device --> Desired Disk`. To view information on the current drive such as what type of partition table or Logical size and smart status :menuselection:`Device --> Properties`. If you do not really see all your devices or current status press :kbd:`F5` or :menuselection:`Tools --> Refresh Devices`.
 
+If you want to quit KDE Partition manager press :kbd:`Control+Q`.
+
 Screenshot
 -----------
 .. image:: kde_partitionmanager.png

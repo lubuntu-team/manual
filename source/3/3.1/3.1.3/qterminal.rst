@@ -49,6 +49,8 @@ The :guilabel:`Shortcuts` tab shows all the different shortcuts and how to chang
 
 The :guilabel:`Dropdown` tab shows effects on the appearance for the drop down settings of qterminal. The :guilabel:`Show on start` checkbox shows the drop down terminal if checked and if unchecked it will be hidden at the start. The :guilabel:`Height` field shows the height of the drop down terminal. The :guilabel:`Width` field shows how wide to make the dropdown terminal. The field :guilabel:`Shortcut` is the shortcut to bring down the drop down terminal and to change the shortcut type in a different key. 
 
+.. image:: qterminal-drop-pref.png
+
 The :guilabel:`Bookmark` tab has settings for a sidebar to quickly change directories in the terminal. To enable this sidebar check the :guilabel:`Enable bookmarks` checkbox.
 
 Version

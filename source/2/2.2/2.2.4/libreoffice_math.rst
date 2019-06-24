@@ -23,7 +23,7 @@ To change the fonts of your formulas :menuselection:`Format --> Fonts` which bri
 
 How to launch
 -------------
-To launch libreoffice math in the menu :menuselection:`office --> libreoffice math` or run 
+To launch libreoffice math in the menu :menuselection:`Office --> Libreoffice Math` or run 
 
 .. code:: 
 

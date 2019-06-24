@@ -43,6 +43,8 @@ To change the aspect ratio of a video :menuselection:`Video --> Aspect Ratio` an
 
 If you are playing audio and want a visualization while listening to an audio file :menuselection:`Audio --> Visualizations` and choose the one you want.
 
+Vlc will have an icon in the system tray when it is open and it looks like a traffic cone. If you right click on the tray icon you can select :menuselection:`Pause` to pause playback.
+
 Screenshot
 ----------
 .. image:: vlc.png

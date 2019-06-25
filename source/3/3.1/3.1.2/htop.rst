@@ -5,7 +5,7 @@ htop is an ncurses text interface task manager that can be controlled by the key
 
 Usage
 ------
-To view how much RAM is being used on your system is under :guilabel:`Mem` and then a [ number based on how many Gigabytes of memory. The :guilabel:`Swp` line lists how much swap is used. The numbers going down with a bar with a percentage next to them display usage on each of your cpu cores.
+To view how much RAM is being used on your system is under :guilabel:`Mem` and then a [ number based on how many Gigabytes of memory. The :guilabel:`Swp` line lists how much swap is used. The numbers going down with a bar with a percentage next to them display usage on each of your CPU cores.
 
 :guilabel:`Load average` shows your system load over the past one five and fifteen minute is why there are three numbers see `wikipedia load (computing) <https://en.wikipedia.org/wiki/Load_(computing)>`_ for more information. :guilabel:`Uptime` shows how long your computer has been booted.
 

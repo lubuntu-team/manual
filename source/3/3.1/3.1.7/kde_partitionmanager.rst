@@ -14,7 +14,7 @@ Lubuntu ships with version 3.3.1 of partition manager.
 Usage
 ------
 
-To check the health of your hard drive or solid state drive on the :menuselection:`Device --> SMART Status` or by right clicking on the device in the side pane :menuselection:`Smart Status`. 
+To check the health of your hard drive or solid state drive on the :menuselection:`Device --> SMART Status` or by right clicking on the device in the side pane :menuselection:`Smart Status`. The field :guilabel:`SMART status` shows the overall health of your drive or if it has detected any problems. The field :guilabel:`Model` shows the model number of your particular drive.
 
 .. image::  smart-status.png
 

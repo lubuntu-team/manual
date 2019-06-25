@@ -14,7 +14,7 @@ Lubuntu ships with version 3.3.1 of partition manager.
 Usage
 ------
 
-To check the health of your hard drive or solid state drive on the :menuselection:`Device --> SMART Status` or by right clicking on the device in the side pane :menuselection:`Smart Status`. The field :guilabel:`SMART status` shows the overall health of your drive or if it has detected any problems. The field :guilabel:`Model` shows the model number of your particular drive. The field :guilabel:`Temperture` shows the temperture of your drive but it is bad for it to be too hot. The field :guilabel:`Bad sectors` show how many sectors on your drive are no longer functioning. The field :guilabel:`Powered on for` shows how long your drive has been powered on. To see how many times your machine has rebooted with the drive look at the :guilabel:`Power cycles` field.
+To check the health of your hard drive or solid state drive on the :menuselection:`Device --> SMART Status` or by right clicking on the device in the side pane :menuselection:`Smart Status`. The field :guilabel:`SMART status` shows the overall health of your drive or if it has detected any problems. The field :guilabel:`Model` shows the model number of your particular drive. The field :guilabel:`Temperture` shows the temperture of your drive but it is bad for it to be too hot. The field :guilabel:`Bad sectors` show how many sectors on your drive are no longer functioning. The field :guilabel:`Powered on for` shows how long your drive has been powered on. To see how many times your machine has rebooted with the drive look at the :guilabel:`Power cycles` field. The :guilabel:`Self tests field` is for if the drive has completed its self tests.
 
 .. image::  smart-status.png
 

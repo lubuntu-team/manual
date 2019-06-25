@@ -16,6 +16,8 @@ To view your own networking information right click the applet :menuselection:`C
 
 The section :guilabel:`IPV4` shows you information on your settings for networking using IPV4. The section :guilabel:`IP Address` shows you  your current ip address. The :guilabel:`DNS` fields show where your dns looks up the domain names of websites and finds them. 
 
+The section :guilabel:`IPV6` shows information on your settings for networking using IPV6. The section :guilabel:`IP Address` shows you current IPV6 address.
+
 Screenshot
 ----------
 .. image:: nm-tray.png

@@ -52,7 +52,7 @@ The :guilabel:`Widgets` lets you change the widgets or individual items on the p
 .. image::  widget-add.png
 
 Shipped applets not enabled by default:
- - Cpu Monitor
+ - CPU Monitor
  - Color Picker
  - Panel Dom Tree
  - Sensors
@@ -91,7 +91,7 @@ Non-Default widgets
 -------------------
 To use your sensors widgets which you would have to add manually as shown above. A sensor bar will appear with as many sensors as on your panel. To view the temp as a number mouse over the sensor bar to see what your temperature is in a number. 
 
-To have a bar that shows CPU Load shows a bar graph with your CPU usage. To bring up settings for your CPU usage is right click on the cpu bar :menuselection:`Configure CPU Monitor`. The :guilabel:`Show text` checkbox shows a number for cpu usage. The field for :guilabel:`Update interval` is how often to update your cpu usage. The :guilabel:`Bar orientation` says what side to start the bar graph. The :guilabel:`Bar width` is how wide to make the bar graph. If you want to reset your changes press the :guilabel:`Reset` button.
+To have a bar that shows CPU Load shows a bar graph with your CPU usage. To bring up settings for your CPU usage is right click on the CPU bar :menuselection:`Configure CPU Monitor`. The :guilabel:`Show text` checkbox shows a number for CPU usage. The field for :guilabel:`Update interval` is how often to update your CPU usage. The :guilabel:`Bar orientation` says what side to start the bar graph. The :guilabel:`Bar width` is how wide to make the bar graph. If you want to reset your changes press the :guilabel:`Reset` button.
 
 The Color picker is shows what color something is on your screen usually useful for web developers. To get a color off the screen press the color dropper button and your mouse will turn into crosshair and then left click on what you want to take the color. Then a numeric field to the right of the dropper will appear with the color in a numeric field to the right. 
 

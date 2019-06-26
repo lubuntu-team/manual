@@ -30,6 +30,10 @@ To change your partitions you will need to apply your changes later press the :g
 
 If you have say a new solid state drive that is not formatted you first need to put a partition table on it. A new partition data will get rid of all partitions on the disk which means no data will be visible anymore. Then you will need to create a partition on to store data. On unallocated space you can right click on the unallocated space press the :guilabel:`New` button, :menuselection:`Partition --> New`, or press :kbd:`control+N`. A window will popup saying with what type of settings to create the partition with. To change what filesystem you want to create will show in the :guilabel:`File system:` drop down menu. To change what size of partition you want to create change the :guilabel:`Size:` field. To create free space before the partition change the :guilabel:`Free space before:` field. To change free space after the partition change the :guilabel:`Free space after` field. To actually create the partition press the :guilabel:`OK` button while to cancel press the :guilabel:`Cancel` button.
 
+To view information of a partition on your drive double click on it. 
+
+.. image:: kde-partition-partionstats.png
+
 If you have multiple drives on your system :menuselection:`Device --> Select Current Device --> Desired Disk`. To view information on the current drive such as what type of partition table or Logical size and smart status :menuselection:`Device --> Properties`. If you do not really see all your devices or current status press :kbd:`F5` or :menuselection:`Tools --> Refresh Devices`.
 
 If you want to quit KDE Partition manager press :kbd:`Control+Q`.

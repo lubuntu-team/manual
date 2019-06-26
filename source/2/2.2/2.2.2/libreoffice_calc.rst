@@ -39,6 +39,8 @@ To create a new spreadsheet in the same file press the button on the bottom that
 
 To insert a special character not on your keyboard :menuselection:`Insert --> Special Character`. To select what character to insert left click in the center of the inserting character window. To actually insert the symbol press the :guilabel:`Insert` button.
 
+To quit Libreoffice Calc press :kbd:`Control+Q`.
+
 Version
 -------
 Lubuntu ships with version  6.2.2.2 of libreoffice Calc. 

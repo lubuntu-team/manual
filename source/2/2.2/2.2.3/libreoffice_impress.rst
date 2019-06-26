@@ -11,7 +11,7 @@ Features include:
 
 Usage
 ------
-When you open libreoffice impress you will get a dialog to select a template with a preview select which one you want to use by left clicking and then click :guilabel:`open`. To add a title to a slide click where it says click to add title. 
+When you open libreoffice impress you will get a dialog to select a template with a preview select which one you want to use by left clicking and then click :guilabel:`Open`. To add a title to a slide click where it says click to add title. 
 
 .. image::    impress-theme-select.png
 

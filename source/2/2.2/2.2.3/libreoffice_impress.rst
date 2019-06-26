@@ -70,6 +70,8 @@ To choose a smooth transition use the :guilabel:`Gradient` button. To choose a p
 
 To change to a geometric pattern for the background of your slide press the :guilabel:`Pattern` button. To select a preset pattern left click on a pattern under the :guilabel:`Pattern` heading. To preview your pattern view in under the text :guilabel:`Preview`. To change the foreground color of your pattern change the :guilabel:`Foreground Color` drop down menu. To change the background color of your pattern change the :guilabel:`Background Color` drop down menu. To customize your pattern by a grid  left click on the grid under :guilabel:`Pattern Editor`. 
 
+.. image:: slide-properties-background-pattern.png
+
 To choose a series of lines as your background press the :guilabel:`Hatch` button. To change how far between each line change the :guilabel:`Spacing` field. To view what your background will look like it is under the :guilabel:`Preview` window. To rotate the lines change the :guilabel:`Angle` field or move the slider. To change the type of lines use the :guilabel:`Line type` drop down menu. To change the color of lines use the :guilabel:`Line Color` drop down menu. To choose a particular background color of your background check the :guilabel:`Background Color` checkbox. Then use the :guilabel:`Background Color` drop down menu to choose your background color.
 
 To have your slides be transparent use the :guilabel:`Transparency` tab. To change your slides to be transparent click the :guilabel:`Transparency` button and to the right to change how transparent to make it.

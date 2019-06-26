@@ -58,3 +58,5 @@ To customize settings for KDE Partition Manager press :kbd:`Control+Shift+,` or 
 .. image::  kde-partition-pref.png
 
 To change the different colors of filesystem as they appear use the :guilabel:`File System Colors` tab. To change the colors of each filesystem in the top bar and other things left click on the button next to the filesystem name. 
+
+.. image:: kde-partition-colors.png 

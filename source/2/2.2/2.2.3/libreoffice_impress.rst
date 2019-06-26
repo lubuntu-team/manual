@@ -80,6 +80,8 @@ To move a slide down :menuselection:`Slide --> Move --> Slide Down`. To move a s
 
 To view your slides right next to each other :menuselection:`View --> Slide Sorter`. To rearrange your slides click and hold a slide and drag the slide between the slides you want to move to. To switch to an outline view of just text :menuselection:`View --> Outline`. To switch to an outline :menuselection:`View --> Outline`. To switch back to your normal view :menuselection:`View --> Normal`. 
 
+To quit libreoffice impress press :kbd:`Control+Q`.
+
 Screenshot
 ----------
 .. image:: libreoffice_impress.png

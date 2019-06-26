@@ -21,6 +21,8 @@ The left hand side has many symbols you can use for say set relations and other 
 
 To change the fonts of your formulas :menuselection:`Format --> Fonts` which brings up a window for fonts for different contexts. To change your font size :menuselection:`Format --> Font sizes`. To bring up a menu to change your alignment :menuselection:`Format --> Alignment`.
 
+To quit Libreoffice Math press :kbd:`Control+Q`.
+
 How to launch
 -------------
 To launch libreoffice math in the menu :menuselection:`Office --> Libreoffice Math` or run 

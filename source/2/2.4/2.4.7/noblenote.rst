@@ -27,6 +27,8 @@ To toggle showing the toolbar press :kbd:`Control +Shift +T` or :menuselection:`
 
 To bring back up your note nobleNote will leave a notebook icon in the system tray on the lower right hand corner of the panel. To bring the notes backup after closing them left click on the tray icon. To fully close nobleNote right click on the tray icon :menuselection:`Quit`.
 
+To search a note for something type into the bar to find something in your note.
+
 Screenshot
 ----------
 .. image:: noblenote.png

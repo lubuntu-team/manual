@@ -29,7 +29,7 @@ To bring back up your note nobleNote will leave a notebook icon in the system tr
 
 To search a note for something type into the bar to find something in your note. To change your font first press the :guilabel:`>>` button and then select your font from the drop down on the left. To change your font size of your notes first press the :guilabel:`>>` button and then select your font size from the drop down to the right. 
 
-To make the text on your note bold press :kbd:`Control+B` or the **a** button. 
+To make the text on your note bold press :kbd:`Control+B` or the **a** button. To make your text on your note italic press :kbd:`Control+I` or the *a* button.
 
 Screenshot
 ----------

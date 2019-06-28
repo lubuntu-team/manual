@@ -21,7 +21,7 @@ To search through your notes for a particular string enter what you want to sear
 
 If you make a mistake typing and want to undo your changes press :kbd:`Control + z` or :menuselection:`Edit --> Undo`. If you wish to paste text into nobleNote press :kbd:`Control + v` or :menuselection:`Edit --> Paste`. To copy text from your note press :kbd:`Control+C` or right click and select :menuselection:`Copy`. To select all text in a note press :kbd:`Control +A`. 
 
-To change preferences of nobleNote press :kbd:`Control +P` or :menuselection:`Settings --> Configure`. To keep nobleNote in your system tray after you close nobleNote check/uncheck the :guilabel:`Close to tray` checkbox. If you want to change the font for editing notes change the :guilabel:`Note Editor default font` underneath has the font and font size. If you want to toggle showing notes in HTML format check/uncheck the :guilabel:`Convert notes to the HTML format`. If you want to toggle the menu entry to show source check/uncheck the :guilabel:`Show "Show source" menu entry`. To reverse the direction of scrolling in nobleNote check the :guilabel:`touch screen scrolling` checkbox.  
+
 
 To toggle showing the toolbar press :kbd:`Control +Shift +T` or :menuselection:`View --> Show toolbar`. 
 
@@ -29,7 +29,7 @@ To bring back up your note nobleNote will leave a notebook icon in the system tr
 
 To search a note for something type into the bar to find something in your note. To go to your next result press the :guilabel:`Find next` button. To find the previous result press the :guialbel:`Find previous` button. To change your font first press the :guilabel:`>>` button and then select your font from the drop down on the left. To change your font size of your notes first press the :guilabel:`>>` button and then select your font size from the drop down to the right. 
 
-To make the text on your note bold press :kbd:`Control+B` or the **a** button. To make your text on your note italic press :kbd:`Control+I` or the *a* button. To clear all formatting press the :gutilabel:`Aa` button. To insert a hyperlink press :kbd:`Control+K` or press the button looking like a globe.
+To make the text on your note bold press :kbd:`Control+B` or the **a** button. To make your text on your note italic press :kbd:`Control+I` or the *a* button. To clear all formatting press the :gutilabel:`Aa` button. To insert a hyperlink press :kbd:`Control+K` or press the button looking like a globe. To change your font color for your notes press left click the color square to the left.
 
 Screenshot
 ----------
@@ -46,3 +46,7 @@ To launch nobleNote go to the menu :menuselection:`Acessories --> nobleNote` or 
    noblenote 
    
 on the commandline.
+
+Customizing
+------------
+To change preferences of nobleNote press :kbd:`Control +P` or :menuselection:`Settings --> Configure`. To keep nobleNote in your system tray after you close nobleNote check/uncheck the :guilabel:`Close to tray` checkbox. If you want to change the font for editing notes change the :guilabel:`Note Editor default font` underneath has the font and font size. If you want to toggle showing notes in HTML format check/uncheck the :guilabel:`Convert notes to the HTML format`. If you want to toggle the menu entry to show source check/uncheck the :guilabel:`Show "Show source" menu entry`. To reverse the direction of scrolling in nobleNote check the :guilabel:`touch screen scrolling` checkbox.  

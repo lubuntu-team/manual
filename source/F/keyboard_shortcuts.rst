@@ -14,7 +14,7 @@ Global-keys (lxqt-globalkeysd) is a component of the LXQt environment. Global-ke
 
 Openbox keyboard shortcuts
 -------------------------------
-Openbox keyboard shortcuts is the second layer managing keyboard shortcuts. It is preferred for windows management like resizing.
+Openbox keyboard shortcuts is the second layer managing keyboard shortcuts. It is preferred for windows management like resizing. To change these settings see this link on the `openbox wiki bindings<http://openbox.org/wiki/Help:Bindings>`_
 
 .. note::   Global-keys will take preference over openbox bindings. If a key is used in Global-keys, it will not work in Openbox keyboard shortcuts. For example if the W(indows) key opens the LXQT application menu (equivilant of the windows start menu) in Global-keys, Openbox commands like window resizing (W + arrow keys) will not work correctly. Keep this in mind when using and editing keyboard shortcuts. 
 

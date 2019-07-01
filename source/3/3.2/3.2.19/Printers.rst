@@ -13,6 +13,8 @@ To add a new printer press the :guilabel:`Add` button or :menuselection:`Server 
 
 If you want to delete a printer :menuselection:`Printer --> Delete` after left clicking on the printer will delete the printer after you left click on it and you will be asked to confirm so you do not accidentally delete your printer.
 
+To close printers press :kbd:`Control+Q`.
+
 Screenshot
 ----------
 .. image:: printers.png

@@ -7,6 +7,8 @@ Usage
 ------
 To view your print queue right click on the printer and right click view print queue or with the printer selected press :kbd:`Control+F` or :menuselection:`Printer --> View Print Queue` and if a job is held you can restart it. To view the properties of printer or make changes with :menuselection:`Printer --> Properties`. 
 
+To add a new printer press the :guilabel:`Add` button or :menuselection:`Server --> New --> Printer`.
+
 If you want to delete a printer :menuselection:`Printer --> Delete` after left clicking on the printer will delete the printer after you left click on it and you will be asked to confirm so you do not accidentally delete your printer.
 
 Screenshot

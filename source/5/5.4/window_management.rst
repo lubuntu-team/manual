@@ -39,8 +39,4 @@ Virtual Desktop Switching
 -------------------------
 To switch to the next virtual desktop press :kbd:`Control +Alt + Right arrow`. To shift to the previous virtual desktop press :kbd:`Control+ Alt + Left Arrow`. To Do this with a combination of mouse wheel and keyboard :kbd:`Alt+ Mousewheel`.
 
-Screenshots
------------
-.. image:: snap_left_right.png
 
-.. image:: snap_up_down.png

@@ -6,8 +6,9 @@ With every release upgrade comes many changes across the entire landscape of pac
 
 There are two methods of upgrading Lubuntu releases. The first is using the update manager a graphical user interface. The second involves the command line and is useful for server upgrades. Unfortunately with main Ubuntu dropping 32-bit upgrades, 32-bit upgrades after Lubuntu 18.04 are not supported.
 
+.. note:: 
 
-
+  Upgrading will keep all of your files in your home folder and configuration files intact however this will mean some changes to default keybindings for example will still be the same as when you installed but will keep all of your customizations different from reinstalling from an iso again.
 
 Upgrading with GUI
 ------------------

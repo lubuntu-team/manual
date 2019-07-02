@@ -46,6 +46,8 @@ The :guilabel:`Extraction Settings` tab has options for extracting files. To ope
 
 The :guilabel:`Plugin Settings` tab has settings for each individual plugin. The :guilabel:`Name` column is the name of the plugin and the :guilabel:`Description` column is a description of the plugin. To toggle enabling  or disabling a plugin check or uncheck the checkbox next to the plugin name in the :guilabel:`Name` column.  
 
+.. image::  ark-plugin-settings.png
+
 To toggle preview for files larger than a certain size check/uncheck the :guilabel:`Disable preview for files larger than` checkbox. To change the size of the amount to be previewed change the field to the right of :guilabel:`Disable preview for files larger than` field.
 
 To see your keyboard shortcuts for ARK :menuselection:`Settings --> Configure Shortcuts`. To see what each individual shortcut does is in the :guilabel:`Action` column. To see what each keyboard shortcut is :guilabel:`Shortcut` column. To see what your alternate shortcut for each action see the :guilabel:`Alternate` column. To change to a custom keyboard shortcut left click on the item in the :guilabel:`Action` column and press the custom radio button. Then on the button to the right press and input the keyboard shortcut you desire. To restore your keyboard shortcuts to the defaults press the :guilabel:`Defaults` button.

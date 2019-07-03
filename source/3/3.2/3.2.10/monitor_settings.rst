@@ -35,7 +35,7 @@ With multiple monitors you can in the :guilabel:`Set position` tab you can drag 
 
 .. image:: multimonitor-fast.png
 
-The tabs towards the bottom are settings for each monitor.  This also has the same settings for this monitor as you would have for a single monitor.
+The tabs towards the bottom are settings for each monitor.  This also has the same settings for this monitor as you would have for a single monitor. Towards the bottom there is a drop down menu that and select :menuselection:`This is my primary Display` to make this your main monitor.
 
 How to launch
 -------------

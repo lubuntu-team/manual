@@ -27,7 +27,7 @@ GoTo third Desktop            W-F3
 
 GoTo fourth Desktop           W-F4
 
-ToggleShowDesktop             W-d
+ToggleShowDesktop             C-A-D
 
 ============================= ========================
 
@@ -69,6 +69,8 @@ DirectionalCycleWindows       W-S-Down
 
 ============================= ========================
 
+
+============================= ========================
 
 **Keybindings to toggle fullscreen**
 

@@ -29,9 +29,11 @@ Multimonitor
 ------------
 With multiple monitors you can in the :guilabel:`Set position` tab you can drag the different screen around drag the two monitors around. The checkbox for :guilabel:`Keep monitor attached` pulls the monitors pixels adjacent to each other. To see which screen is which you will be labeled by their name which commonly is which port on your computer the monitor is connected to.
 
+.. image:: multimonitor_settings.png
+
 The :guilabel:`Fast options` selection :menuselection:`Extended view` sets you to set extended showing different things on different monitors. Selecting a :menuselection:`unified view` on the :guilabel:`Fast Options` shows the same thing on both screens. :guilabel:`First only` shows up the first screen while second only shows only the second. The tabs towards the bottom are settings for each monitor.  
 
-.. image:: multimonitor_settings.png
+
 
 
 How to launch

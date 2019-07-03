@@ -35,7 +35,7 @@ With multiple monitors you can in the :guilabel:`Set position` tab you can drag 
 
 .. image:: multimonitor-fast.png
 
-The tabs towards the bottom are settings for each monitor.  This also has the same settings for this monitor as you would have for a single monitor. Towards the bottom there is a drop down menu that and select :menuselection:`This is my primary Display` to make this your main monitor.
+The tabs towards the bottom are settings for each monitor.  This also has the same settings for this monitor as you would have for a single monitor. Towards the bottom there is a drop down menu that and select :menuselection:`This is my primary Display` to make this your main monitor. If you select :menuselection:`This screen extends another display` this monitor will be a secondary monitor that shows something different than what the primary display shows. After selecting to extending another display two boxes will show up for where to place the second monitor.The box that shows a number and says :guilabel:`(x)` is a box that lets you show how many pixels to move this display horizontally. The box that shows a number and says :guilabel:`(y)` is a box that shows how many pixels to move the display vertically.
 
 How to launch
 -------------

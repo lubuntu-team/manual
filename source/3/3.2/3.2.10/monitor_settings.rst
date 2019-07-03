@@ -27,7 +27,7 @@ To save your monitor settings press the :guilabel:`Save` button and a pop up wil
 
 Multimonitor
 ------------
-With multiple monitors you can in the set position tab you can drag the different screen around drag the two monitors around. The checkbox for :guilabel:`keep monitor attached` pulls the monitors pixels adjacent to each other. The fast menu :guilabel:`extended view` sets you to set extended showing different things on different monitors. Selecting a :guilabel:`unified` view shows the same thing on both screens. :guilabel:`First only` shows up the first screen while second only shows only the second. The tabs towards the bottom are settings for each monitor.  
+With multiple monitors you can in the set position tab you can drag the different screen around drag the two monitors around. The checkbox for :guilabel:`keep monitor attached` pulls the monitors pixels adjacent to each other. The :guilabel:`fast options` selection :menuselection:`extended view` sets you to set extended showing different things on different monitors. Selecting a :menuselection:`unified view` on the :guilabel:`Fast Options` shows the same thing on both screens. :guilabel:`First only` shows up the first screen while second only shows only the second. The tabs towards the bottom are settings for each monitor.  
 
 .. image:: multimonitor_settings.png
 

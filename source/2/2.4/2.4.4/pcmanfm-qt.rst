@@ -9,7 +9,8 @@ Features:
  - tabs
  - bookmarks
  - places sidebar with removable media or directory tree
- - Ability to eject removable media and the ability to mount other filesystesms internally.
+ - Ability to eject removable media
+ - Ability to mount other filesystesms internally.
 
 Usage
 ------

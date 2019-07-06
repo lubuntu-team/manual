@@ -85,7 +85,7 @@ To change the settings on your clock right click on the clock and then configure
 
 .. image::  clock-custom.png 
 
-To show the date on the clock check the :guilabel:`Date` checkbox.
+To show the date on the clock check the :guilabel:`Date` checkbox. To change where the date appears on the clock change the :guilabel:`Position` drop down menu.
 
 To add a second panel right click on the panel and :menuselection:`Add New Panel` and a new panel will be created with the dialog to customize your second panel. To remove a panel right click on the panel and select :menuselection:`Remove Panel` and you will be asked if you really want to do this as it can't be undone.
 

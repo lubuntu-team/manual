@@ -81,13 +81,13 @@ To change the look of your taskbar in the same window as above the appearance se
 
 The settings for removable media is able to be opened up is right click the applet :menuselection:`Configure "Removable media"` you can select :menuselection:`Show info`, :menuselection:`Popup menu`, or :menuselection:`Do nothing`. If you want to reset the setting for this press the :guilabel:`Reset` button.
 
-To change the settings on your clock right click on the clock and then configure world clock. The format drop down menu allows you to change how the clock shows. To select a short format allows you to have a preselected short format which shows a 12 hour format and am just telling you what time it is. Selecting long from the menu will show you the time with seconds and the time zone. To have a customizable clock message select custom and then checkboxes to show seconds, pad the hours with zeros or to use a 12 hour format. The :guilabel:`Time zone` checkbox will show your your time zone. The :guilabel:`Position` drop down  says where to put the time zone on the clock. The :guilabel:`Format` field changes how the time zone is displayed on your clock.     
+To change the settings on your clock right click on the clock and then configure world clock. The format drop down menu allows you to change how the clock shows. To select a short format allows you to have a preselected short format which shows a 12 hour format and am just telling you what time it is. Selecting long from the menu will show you the time with seconds and the time zone. To have a customizable clock message select custom and then checkboxes to show seconds, pad the hours with zeros or to use a 12 hour format. The :guilabel:`Time zone` checkbox will show your your time zone. The :guilabel:`Position` drop down  says where to put the time zone on the clock. The :guilabel:`Format` field changes how the time zone is displayed on your clock.  To change how the date appears change the :guilabel:`Format` field.  
 
 .. image::  clock-custom.png 
 
 To show the date on the clock check the :guilabel:`Date` checkbox. To change where the date appears on the clock change the :guilabel:`Position` drop down menu.
 
-To add a second panel right click on the panel and :menuselection:`Add New Panel` and a new panel will be created with the dialog to customize your second panel. To remove a panel right click on the panel and select :menuselection:`Remove Panel` and you will be asked if you really want to do this as it can't be undone.
+To add a second panel right click on the panel and :menuselection:`Add New Panel` and a new panel will be created with the dialog to customize your second panel. To remove a panel right click on the panel and select :menuselection:`Remove Panel` and you will be asked if you really want to do this as it can't be undone. 
 
 Non-Default widgets
 -------------------

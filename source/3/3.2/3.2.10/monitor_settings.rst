@@ -31,7 +31,7 @@ With multiple monitors you can in the :guilabel:`Set position` tab you can drag 
 
 .. image:: multimonitor_settings.png
 
- The :guilabel:`Fast Menu` tab has ways to quickly turn on or off different monitors. The :guilabel:`Fast options` selection :menuselection:`Extended view` sets you to set extended showing different things on different monitors. Selecting a :menuselection:`Unified view` on the :guilabel:`Fast Options` shows the same thing on both screens. :guilabel:`Only first` shows up the first screen while  :menuselection:`Only second` shows only the second. 
+The :guilabel:`Fast Menu` tab has ways to quickly turn on or off different monitors. The :guilabel:`Fast options` selection :menuselection:`Extended view` sets you to set extended showing different things on different monitors. Selecting a :menuselection:`Unified view` on the :guilabel:`Fast Options` shows the same thing on both screens. :guilabel:`Only first` shows up the first screen while  :menuselection:`Only second` shows only the second. 
 
 .. image:: multimonitor-fast.png
 

@@ -7,7 +7,7 @@ Usage
 ------
 To move between cells press the arrow keys. To enter data into cells type in the keyboard. To select cells left click and drag to select the cells you want. To sum data from cells in the cell where you want the sum is to press the button that looks like Σ character and then drag the mouse over the cells you want to add. To sort your cells in descending order press the button with bullet points and an arrow going down. To sort in ascending order press the button with bullet points and an arrow pointing upwards.   
 
-.. image:: libreoffice_calc.png
+.. image:: calc-save.png
 
 To save your spreadsheet you need to press the button that looks like a floppy disk, press the keyboard shortcut or go to :menuselection:`File --> Save`. To save with a different file name :menuselection:`File --> Save as`. To open a file press the button that looks like a brown folder and add select the file you want from the dialog or :menuselection:`File --> Open`. To open a recent document :menuselection:`File --> Recent Documents`.
 
@@ -31,6 +31,7 @@ To undo a selection press :kbd:`control +z` or press the button with the arrow l
 
 To zoom to view a full page on your spreadsheet in the menu :menuselection:`View --> Zoom --> Entire Page`. To view the whole width of your page on the menu :menuselection:`View --> Zoom --> Page Width`.   
 
+.. image:: libreoffice_calc.png
 
 To select all cells in your spreadsheet press :kbd:`Control+A`. To select an entire column press :kbd:`Control+Space` or :menuselection:`Edit --> Select --> Select Column`. To select an entire row press :kbd:`Shift +Space` or :menuselection:`Edit --> Select --> Select Row`.
 

@@ -17,7 +17,7 @@ If you’re nothing more than a user, you can help out with the following withou
 
  - `support <https://lubuntu.me/links/>`_ (thanks to all the people that pipe up in IRC, the mailing list, and here!)
  - `documentation <https://phab.lubuntu.me/source/manual/>`_
- - testing
+ - `testing <https://phab.lubuntu.me/w/testing/>`_
  - bug triage
 
 *And we could always use help with art/graphic design!*

@@ -25,7 +25,7 @@ If you’re nothing more than a user, you can help out with the following withou
 No strings attached
 -------------------
 
-Contributions can be done on an extended basis (making becoming a Lubuntu Member 3 easy) or can be little bits here and there. You can come and go as you like. You can work only on one issue you feel particularly strongly about, or you can get involved over a wide scope.
+Contributions can be done on an extended basis (making becoming a Lubuntu Member easy) or can be little bits here and there. You can come and go as you like. You can work only on one issue you feel particularly strongly about, or you can get involved over a wide scope.
 
 Free training
 -------------

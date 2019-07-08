@@ -16,7 +16,7 @@ You have the skills necessary
 If you’re nothing more than a user, you can help out with the following without really knowing much more than you already do:
 
  - `support<https://lubuntu.me/links/>`_ (thanks to all the people that pipe up in IRC, the mailing list, and here!)
- - documentation
+ - `documentation<https://phab.lubuntu.me/source/manual/>`_
  - testing
  - bug triage
 

@@ -43,6 +43,14 @@ If all you want is Lubuntu on your machine, you can select the :guilabel:`Erase 
 
 .. image:: partitioning.png 
 
+If you have had  a previous linux install and want to put the entire disk or just replace an entire partition you will need to unmount them. In this case running  
+
+.. code:: 
+
+   sudo swapoff -a
+  
+will unmount them and any partitions with data mounted can be unmounted through pcmanfm-qt.
+
 If you wish to perform advance partitioning please refer the Advanced partitioning section.
 
 User Setup
@@ -57,16 +65,6 @@ The Install
 The Lubuntu installer provides some useful information while the installer is running. Once Lubuntu is installed you have a checkbox :guilabel:`Reboot now` after your Lubuntu is installed and is now finished.
 
 .. image:: installer_screen.png
-
-Advanced partitioning 
------------------------
-If you have had  a previous linux install and want to put the entire disk or just replace an entire partition you will need to unmount them. In this case running  
-
-.. code:: 
-
-   sudo swapoff -a
-  
-will unmount them and any partitions with data mounted can be unmounted through pcmanfm-qt.
 
 Manual partitioning
 -----------------------

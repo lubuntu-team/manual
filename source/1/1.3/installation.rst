@@ -44,7 +44,7 @@ If all you want is Lubuntu on your machine, you can select the :guilabel:`Erase 
 .. image:: partitioning.png 
 
 
-.. info:: 
+.. note:: 
    If you have had  a previous linux install and want to put the entire disk or just replace an entire partition you will need to unmount them. In this case running  
 
 .. code:: 

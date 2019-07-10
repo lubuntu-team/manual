@@ -43,7 +43,7 @@ To copy text in firefox press :kbd:`Control +C`. To paste text into firefox pres
 
 To view info on your webpage press :kbd:`Control+ I`.
 
-To zoom in if you find the text on a web page to small press :kbd:`control + +`. If you want to zoom out on the text or pictures press :kbd:`control + -`. To reset to the original zoom press :kbd:`control + 0`. To make firefox fullscreen press :kbd:`F11` to leave fullscreen simply press :kbd:`F11` again. 
+To zoom in if you find the text on a web page to small press :kbd:`control + +`. If you want to zoom out on the text or pictures press :kbd:`control + -`. To reset to the original zoom press :kbd:`control + 0`. To make firefox fullscreen press :kbd:`F11` to leave fullscreen simply press :kbd:`F11` again. You can also type your zoom into firefox from the hamburger menu :menuselection:`Zoom` field and press the :guilabel:`+` and :guilabel:`-`.
 
 To print a webpage such as directions you can click the button with horizontal bars and select :menuselection:`Print` from the menu. You can also print by pressing :kbd:`Control+P`. 
 

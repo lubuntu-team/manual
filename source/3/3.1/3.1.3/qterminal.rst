@@ -26,7 +26,7 @@ To use the drop down function of QTerminal once launched press :kbd:`F12` to hav
 
 .. image::  qterminal-drop.png
 
-To rename a tab press :kbd:`Alt+Shift+S` or right click on the tab bar and select :menuselection:`Rename session`.
+To rename a tab press :kbd:`Alt+Shift+S` or right click on the tab bar and select :menuselection:`Rename session` and then press the :guilabel:`OK` button in the popup.
 
 Customizing
 -----------

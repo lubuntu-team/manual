@@ -26,6 +26,8 @@ If you have multiple copies of the same file open in Featherpad it will be open 
 
 If you want to close all tabs to the left right click on the tab bar :menuselection:`Close Previous Tabs`. To close all tabs to the right right click on the tab bar :menuselection:`Close Next Tabs`. To only leave open the tab you right clicked on right click and select :menuselection:`Close other tabs`. To copy the path to the file you have open right click on the tab bar and select :menuselection:`Copy File Path`. To copy the file name right click on the tab bar and select :menuselection:`Copy File Name`.
 
+.. image:: featherpad-tab-context.png
+
 If you make a mistake and want to undo it press :kbd:`control + z`, :menuselection:`Edit --> Undo`, or press the button that looks like a curved arrow pointing towards the left. To redo a change you have undone press the button with a curved arrow pointing towards the right, :menuselection:`Edit --> Redo`, or press :kbd:`Control +Shift +Z`. 
 
 To select all text in the text file press :kbd:`Control +A` or :menuselection:`Edit --> Select All`. To copy text from featherpad press :kbd:`Control +C` or :menuselection:`Edit --> Copy`. To paste text press :kbd:`Control+ V` or :menuselection:`Edit --> Paste`. To Cut text press :kbd:`Control+X` or :menuselection:`Edit --> Cut`. If you have text selected you can delete it by pressing :kbd:`Delete` or :menuselection:`Edit --> Delete`.  To paste  in the date and time press :kbd:`Control + Shift +V` or :menuselection:`Edit --> Paste Date and Time`. To go to the end of the current line in the editor press the :kbd:`End` key. To move to the start of the current line press the :kbd:`Home` key.

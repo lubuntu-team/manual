@@ -21,6 +21,8 @@ The :guilabel:`Input devices` tab manager your sound inputs. To mute your microp
 
 The :guilabel:`Configuration` tab has different sound profiles for each different output device. To change how sound comes out of your speakers or headphones  varying for example the number of speakers for each device change the :guilabel:`Profile` drop down menu. To enable or disable an audio output press the checkbox to the left of :guilabel:`Profile`. 
 
+.. image:: pavucontrol-config.png
+
 Version
 -------
 Lubuntu ships with version 0.4.0 Pulse Audio Volume Control. 

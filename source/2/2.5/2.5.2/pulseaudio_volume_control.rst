@@ -15,7 +15,7 @@ The :guilabel:`Output devices` tab shows different output for different sounds. 
 
 .. image:: pavucontrol-qt.png
 
-The :guilabel:`Input devices` tab manager your sound inputs. To mute your microphone in pulseaudio toggle the button that looks like a speaker. To adjust input volume slide the slider to the right to increase volume or to the left to decrease volume. To select which input such as line in or microphone for your device is in the :guilabel:`Port` drop down but this menu is hidden if you do not have inputs. To change left and right channels seperately press the lock button. To change your volume on each channel drag to the left for more volume or to the right for less volume. To mute your input press the button to the left on the right hand side.
+The :guilabel:`Input devices` tab manager your sound inputs. To mute your microphone in pulseaudio toggle the button that looks like a speaker. To adjust input volume slide the slider to the right to increase volume or to the left to decrease volume. To select which input such as line in or microphone for your device is in the :guilabel:`Port` drop down but this menu is hidden if you do not have inputs. To change left and right channels seperately press the lock button. To change your volume on each channel drag to the left for more volume or to the right for less volume. To get back to one volume slider press the lock button again. To mute your input press the button to the left on the right hand side.
 
 .. image:: pavucontrol-input.png
 

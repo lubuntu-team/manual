@@ -18,7 +18,7 @@ If you want to find an iso image if it is not shown press the :guilabel:`Other` 
 
 .. image::  statup-disk-creator.png
 
-To actually create the disk press the :guilabel:`Make Startup Disk` button. A dialog will appear asking if you want to write the disk image and all data will be lost to make the disk press the :guilabel:`Yes` button. Another dialog box will show up asking for your to enter your password to make sure it is you making this disk and then the image will be written with a progress bar.
+To actually create the disk press the :guilabel:`Make Startup Disk` button. A dialog will appear asking if you want to write the disk image and all data will be lost to make the disk press the :guilabel:`Yes` button. Another dialog box will show up asking for your to enter your password to make sure it is you making this disk and then the image will be written with a progress bar. Once done you will get a dialog saying :guilabel:`The installation is complete` and an :guilabel:`OK` button.
 
 How to Launch
 -------------

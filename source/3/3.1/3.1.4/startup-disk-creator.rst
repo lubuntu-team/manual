@@ -7,6 +7,10 @@ Version
 -------
 Lubuntu ships version 0.3.5 of Startup Disk Creator.
 
+Usage
+------
+To see what USB devices you can make into startup disks are listed under the :guilabel:`Disk to use` heading on the screen.
+
 
 How to Launch
 -------------

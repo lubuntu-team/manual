@@ -18,6 +18,8 @@ If you want to find an iso image if it is not shown press the :guilabel:`Other` 
 
 .. image::  statup-disk-creator.png
 
+To actually create the disk press the :guilabel:`Make Startup Disk` button.
+
 How to Launch
 -------------
 To launch startup disc creator :menuselection:`System Tools --> Startup disk creator` or run 

@@ -16,6 +16,8 @@ To see what USB devices you can make into startup disks are listed under the :gu
 
 If you want to find an iso image if it is not shown press the :guilabel:`Other` button and a file dialog to open the location will show up. To open the iso left click on the iso and press the :guilabel:`Open` button.
 
+.. image::  statup-disk-creator.png
+
 How to Launch
 -------------
 To launch startup disc creator :menuselection:`System Tools --> Startup disk creator` or run 

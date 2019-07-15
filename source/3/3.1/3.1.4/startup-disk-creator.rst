@@ -11,6 +11,9 @@ Usage
 ------
 To see what USB devices you can make into startup disks are listed under the :guilabel:`Disk to use` heading on the screen.
 
+.. warning:: 
+  The processs of creating a startup disk to boot off deletes all data on the disk but only shows usb devices if you hard usb hard drives or flash drives with data you want to keep it is recoommended to unplug  these devices so there is no way of accidentaly deleting data you care about.
+
 
 How to Launch
 -------------

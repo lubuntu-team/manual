@@ -36,7 +36,7 @@ Writing images to USB drives from macOS or Windows is beyond the scope of this b
 has several guides on this:
 
 
- - `How to create a bootable USB stick on Windows <http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows>`_
+ - `How to create a bootable USB stick on Windows <https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows>`_
  - `How to create a bootable USB stick on macOS <http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-mac-osx>`_
 
 

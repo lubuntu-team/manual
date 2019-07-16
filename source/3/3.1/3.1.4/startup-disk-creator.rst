@@ -14,6 +14,8 @@ To see what USB devices you can make into startup disks are listed under the :gu
 .. warning:: 
   The processs of creating a startup disk to boot off deletes all data on the disk but only shows usb devices if you hard usb hard drives or flash drives with data you want to keep it is recoommended to unplug  these devices so there is no way of accidentaly deleting data you care about.
 
+.. image::   startup-iso-open.png
+
 If you want to find an iso image if it is not shown press the :guilabel:`Other` button and a file dialog to open the location will show up. To open the iso left click on the iso and press the :guilabel:`Open` button.
 
 .. image::  statup-disk-creator.png

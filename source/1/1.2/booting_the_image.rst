@@ -7,8 +7,7 @@ Now that you have the ISO file, you need to put the image on a media device and 
 
 Choosing the media
 ------------------
-In order to boot the image, you need to put it somewhere. You have two choices, depending on which image you
-downloaded:
+In order to boot the image, you need to put it somewhere. You have two choices either
 
 
  - a DVD
@@ -36,7 +35,7 @@ For writing images to USB drives on Linux, we recommend `mkusb <https://help.ubu
 Writing images to USB drives from macOS or Windows is beyond the scope of this book, but the Ubuntu website also
 has several guides on this:
 
-.
+
  - `How to create a bootable USB stick on Windows <http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows>`_
  - `How to create a bootable USB stick on macOS <http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-mac-osx>`_
 

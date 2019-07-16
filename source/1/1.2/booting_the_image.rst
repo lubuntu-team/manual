@@ -26,7 +26,7 @@ Unfortunately, burning images to USB or DVDs on macOs or Windows is beyond the s
 on this topic, and we recommend you read them if you plan on doing this.
 
 Guides from the Ubuntu website:
- - `How to burn a DVD on Ubuntu <http://www.ubuntu.com/download/desktop/burn-a-dvd-on-ubuntu>`_
+ - `How to burn a DVD on Ubuntu <https://tutorials.ubuntu.com/tutorial/tutorial-burn-a-dvd-on-ubuntu>`_
  - `How to burn a DVD on Windows <https://tutorials.ubuntu.com/tutorial/tutorial-burn-a-dvd-on-windows>`_
  - `How to burn a DVD on macOS <https://tutorials.ubuntu.com/tutorial/tutorial-burn-a-dvd-on-macos>`_
 

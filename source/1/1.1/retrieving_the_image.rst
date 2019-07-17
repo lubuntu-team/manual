@@ -71,5 +71,11 @@ Otherwise, there is a snap application you can download of zsync which should fu
 .. code:: 
 
   sudo snap install zsync
+  
+ To actually download the image over zysnc for 19.04 run 
+ 
+.. code::
+
+   zsync http://cdimage.ubuntu.com/lubuntu/releases/disco/release/lubuntu-19.04-desktop-amd64.iso.zsync   
 
 **You have now downloaded the image successfully. Please continue to Chapter 1.2.**

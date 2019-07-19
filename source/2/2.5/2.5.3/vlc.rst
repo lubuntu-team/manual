@@ -86,6 +86,8 @@ To view your settings for subtitles and on screen display choose the :guilabel:`
 
 To change settings with codecs choose the :guilabel:`Input/codecs` tab. To change your settings for hardware-accelerated decoding use the :guilabel:`Hardware-accelerated decoding` which you can choose a specific kind of decoding. To change your default optical device the drop down menu next to :guilabel:`Default optical device` to change your default optical device. To change your caching policy depending on your network latency use the :guilabel:`Default caching policy` drop down menu.
 
+.. image::   vlc-input-codecs.png
+
 To view your hotkey settings use the  :guilabel:`Hotkeys` tab. The column :guilabel:`Action` describes what your keyboard shortcut will do. The Column :guilabel:`Hotkey` is the keyboard shortcut to do what is said in the :guilabel:`Action` column. To change your keyboard shortcut double click on the shortcut in the :guilabel:`Hotkey` column and press the keyboard combination you want to set it to. To change what scrolling vertically does for use the :guilabel:`Mouse wheel vertical axis control` menu.
 
 .. image:: vlc-pref-hotkeys.png

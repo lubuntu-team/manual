@@ -88,7 +88,7 @@ To change settings with codecs choose the :guilabel:`Input/codecs` tab. To chang
 
 .. image::   vlc-input-codecs.png
 
-To view your hotkey settings use the  :guilabel:`Hotkeys` tab. The column :guilabel:`Action` describes what your keyboard shortcut will do. The Column :guilabel:`Hotkey` is the keyboard shortcut to do what is said in the :guilabel:`Action` column. To change your keyboard shortcut double click on the shortcut in the :guilabel:`Hotkey` column and press the keyboard combination you want to set it to. To change what scrolling vertically does for use the :guilabel:`Mouse wheel vertical axis control` menu.
+To view your hotkey settings use the  :guilabel:`Hotkeys` tab. The column :guilabel:`Action` describes what your keyboard shortcut will do. The Column :guilabel:`Hotkey` is the keyboard shortcut to do what is said in the :guilabel:`Action` column. To change your keyboard shortcut double click on the shortcut in the :guilabel:`Hotkey` column and press the keyboard combination you want to set it to. To change what scrolling vertically does for use the :guilabel:`Mouse wheel vertical axis control` menu. To search for a hotkey for a particular option enter it in the :guilabel:`Search` field.
 
 .. image:: vlc-pref-hotkeys.png
 

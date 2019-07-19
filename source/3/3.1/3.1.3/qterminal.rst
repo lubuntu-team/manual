@@ -1,7 +1,7 @@
 Chapter 3.1.3 QTerminal
 =======================
 
-QTerminal is the default terminal of Lubuntu that also has a drop down version.
+QTerminal is the default terminal of Lubuntu that also has a drop down version. If you want to learn more about the actual commands you run in the terminal see `Appendix C <https://manual.lubuntu.me/C/command_line.html>`_
 
 Usage
 ------

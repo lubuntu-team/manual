@@ -29,7 +29,7 @@ To change the view mode of the playlist to icons for each file :menuselection:`V
 
 To loop the current playlist over and over press the button with an arrow pointing to the right and then another arrow below it pointing to the left. To randomize your playlist press the button with two crossing arrows on it.
 
-To speed up playback faster than normal press the :kbd:`+` key or use :menuselection:`Playback --> Speed --> Faster`. To slow down playback slower than normal press the :kbd:`-` key :menuselection:`Playback --> Speed --> Slower`. If you want to reset your speed to normal :menuselection:`Playback --> Speed --> Normal speed`. If you want to have vlc end at the end of the playlist click the checkbox :menuselection:`Media --> Quit at end of playlist`. 
+To speed up playback faster than normal press the :kbd:`+` key or use :menuselection:`Playback --> Speed --> Faster`. To slow down playback slower than normal press the :kbd:`-` key :menuselection:`Playback --> Speed --> Slower`. If you want to reset your speed to normal :menuselection:`Playback --> Speed --> Normal speed`. If you want to have vlc end at the end of the playlist click the checkbox :menuselection:`Media --> Quit at end of playlist`. If you want to quit VLC press :kbd:`Control+Q`.
 
 To view info on your media press :kbd:`Control + I` or click :menuselection:`Tools --> Media info`.
 

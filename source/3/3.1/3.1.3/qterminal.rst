@@ -31,8 +31,9 @@ To rename a tab press :kbd:`Alt+Shift+S` or right click on the tab bar and selec
 Customizing
 -----------
 
-To change your preferences go to :menuselection:`File --> Preferences` or right click the terminal and :menuselection:`Preferences`. To change your font press the :guilabel:`Change` button next to the :guilabel:`font` label.
+To change your preferences go to :menuselection:`File --> Preferences` or right click the terminal and :menuselection:`Preferences`. To change your font press the :guilabel:`Change` button next to the :guilabel:`font` label and a dialog will show up. To change the font size enter it in the :guilabel:`Size` field.
 
+.. image:: qterminal-font.png
 
 
  The :guilabel:`Color scheme` field lets you say change how different colored things in the terminal colors appear. The :guilabel:`Widget style` lets you overwrite the system widget style with something other than system default. The :guilabel:`Scrollbar position` lets you move the scrollbar to the left or right or remove it entirely. The :guilabel:`Tabs position` moves the bar to that part of the window of qterminal. The :guilabel:`Keyboard cursor shape` changes the shape of the cursor between block cursor a large block, underline cursor a small underline, or  IBeamCursor which is quite small like a | character. 

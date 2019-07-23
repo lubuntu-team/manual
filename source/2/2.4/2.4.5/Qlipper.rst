@@ -6,8 +6,7 @@ Qlipper is a clipboard manager that is included by default on Lubuntu.
 Usage
 ------
 
-Qlipper is  a clipboard manager automatically started in the system tray. To view your clipboard history left click on the icon that looks like a clipboard or press :kbd:`Control+Alt+v`. To make your item from your history the selected one left click on the item of your history in the menu.
-
+Qlipper is  a clipboard manager automatically started in the system tray. To view your clipboard history left click on the icon that looks like a clipboard or press :kbd:`Control+Alt+v`. To make your item from your history the selected one left click on the item of your history in the menu. If you temprarily wnat your clipboard history not to be saved or shown you can close qlipper by right clicking on the clipboard icon and selecting :menuselection:`Quit`.
 Screenshot
 -----------
 .. image:: qlipper.png

@@ -45,15 +45,13 @@ If all you want is Lubuntu on your machine, you can select the :guilabel:`Erase 
 
 
 .. note:: 
-   If you have had  a previous linux install and want to put the entire disk or just replace an entire partition you will need to unmount them. In this case running  
+   If you have had  a previous linux install and want to put the entire disk or just replace an entire partition you will need to unmount them. 
 
 .. code:: 
 
    sudo swapoff -a
   
-will unmount them and any partitions with data mounted can be unmounted through pcmanfm-qt.
-
-If you wish to perform advance partitioning please refer the Advanced partitioning section.
+will unmount them and any partitions with data mounted can be unmounted through pcmanfm-qt. This will not work if you have data partition mounted 
 
 User Setup
 ----------

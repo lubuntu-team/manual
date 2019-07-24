@@ -49,6 +49,3 @@ If you want your desktop icon to run a program you will need a line that has
    Exec=
    
 
-   
-
-

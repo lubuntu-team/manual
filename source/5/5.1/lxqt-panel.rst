@@ -11,11 +11,9 @@ The application menu allows you to browse and search through available programs;
 
 The quick launch bar allows you to conveniently launch your file manager (PCManFM) and web browser (Firefox) by left clicking on the program. If you right click on the icons in quick launch on something like firefox will have items for each program. To add a program to quick launch open the menu and find it there and drag it down onto the panel. To remove an item from quick launch right click on the icon and select :menuselection:`Remove from quicklaunch`. To show your desktop press the show desktop button between the quick launch and the taskbar. 
 
-
 The taskbar lists the windows you currently have open. To bring one of these windows to focus simply left click the windows on the task bar. If you have multiple of the same window left clicking will open the group, allowing you to select between the different windows by left clicking. If you want to close a group of multiple windows you can right click the group and click :menuselection:`Close group`. To see a list of all the windows in a group mouseover the group of windows on the taskbar.
 
 .. image:: multiple_tasks.png
-
 
 On a single window to move it to a different desktop right click to desktop to move the desired desktop. The item to current desktop moves the window to your current virtual desktop. Right clicking and selecting :guilabel:`Move` lets you drag the application around to the desired point on the desktop. The resize option from the same window lets you resize the window you right clicked on. Right click and select :menuselection:`Maximize` on a window to maximize it. Right clicking on window :menuselection:`Restore` will have a window back to its original size. If you right click :menuselection:`Minimize` on the window will minimize your window. Right clicking :menuselection:`Roll up` on a window will make the window only your titlebar. Right clicking :menuselection:`Layer` will allow you to have move a window :menuselection:`Always on top`, :menuselection:`Normal`, and :menuselection:`Always on bottom`. Finally to close a window with right click on the taskbar and select :menuselection:`Close` will close the window. If you middle click on an item in the taskbar you will close the window. To move items around on the taskbar into a particular order left click on them and drag them to the desired position. To minimize a different window from the task bar you can minimize by moving the mousewheel down.  
 
@@ -45,9 +43,7 @@ If you want to autohide the panel check the :guilabel:`Auto-hide` checkbox in pa
 
 To change to a custom font color press the :guilabel:`color button` checkbox. Press the dropper button to bring up a widget to choose the custom color. The checkbox for :guilabel:`background color` sets a background color custom for the background of lxqt-panel and the :guilabel:`dropper` brings up how to select which color. To add an image to your panel background press the checkbox and select your image for the file in the dialog.
 
-
 .. image:: lxqt-panel-config.png 
-
 
 The checkbox for :guilabel:`Override icon theme` lets you choose a non system default icon theme for lxqt-panel. The dropdown  :guilabel:`Icon theme for panels` lets you see what that icon theme from the dropdown list. If you do not like your changes to the system you can press the :guilabel:`Reset` button to reset changing to before trying to customize the panel. 
 
@@ -96,7 +92,6 @@ To change the settings on your clock right click on the clock and then configure
 To show the date on the clock check the :guilabel:`Date` checkbox. To change where the date appears on the clock change the :guilabel:`Position` drop down menu.To further customize your panel select :menuselection:`Custom` from the :guilabel:`Format` drop down. To show the year press the :guilabel:`Show year` checkbox. To show what day of the week it is check the :guilabel:`Show day of week` checkbox. To make the day two digits check the :guilabel:`Pad day with zero` checkbox. To not abbreviate the months and days of week check the :guilabel:`Long month and day of week names` checkbox. To reset your changes to the time and date press the :guilabel:`Reset` button.
 
 To add a second panel right click on the panel and :menuselection:`Add New Panel` and a new panel will be created with the dialog to customize your second panel. To remove a panel right click on the panel and select :menuselection:`Remove Panel` and you will be asked if you really want to do this as it can't be undone. 
-
 Non-Default widgets
 -------------------
 To use your sensors widgets which you would have to add manually as shown above. A sensor bar will appear with as many sensors as on your panel. To view the temp as a number mouse over the sensor bar to see what your temperature is in a number. 

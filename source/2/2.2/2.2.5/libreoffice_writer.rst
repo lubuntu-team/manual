@@ -32,7 +32,7 @@ To change alignment from this window use the :guilabel:`Alignment` tab. To chang
 
 .. image:: lowriter_paragraph.png
 
-To change what how the text deals with page breaks and paragraphs use the :guilabel:`Text Flow` tab. To automatically use hyphens check the :guilabel:`Automatically` checkbox. To change how many characters to leave before the hyphen change the :guilabel:`Characters at line end` field. To change how many character after the hyphen on the next line change the :guilabel:`Characters at line begin`.
+To change what how the text deals with page breaks and paragraphs use the :guilabel:`Text Flow` tab. To automatically use hyphens check the :guilabel:`Automatically` checkbox. To change how many characters to leave before the hyphen change the :guilabel:`Characters at line end` field. To change how many character after the hyphen on the next line change the :guilabel:`Characters at line begin`. To set a maximum number or hyphens change the :guilabel:`Maximum number of consecutive hyphens` field.
 
 To change font color press the button that has a T with a drop on it and a red underline this will bring down several different colors you can change your text to a color you want. You can also change your font color through the :menuselection:`Format --> Character` window.
 

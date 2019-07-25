@@ -32,6 +32,8 @@ To change alignment from this window use the :guilabel:`Alignment` tab. To chang
 
 .. image:: lowriter_paragraph.png
 
+To change what how the text deals with page breaks and paragraphs use the :guilabel:`Text Flow` tab. To automatically use hyphens check the :guilabel:`Automatically` checkbox.
+
 To change font color press the button that has a T with a drop on it and a red underline this will bring down several different colors you can change your text to a color you want. You can also change your font color through the :menuselection:`Format --> Character` window.
 
 To make text superscript press the button with A and a smaller B located above it as if it in superscript. To make text subscript press the button that is an A with a smaller B located slightly below it. 

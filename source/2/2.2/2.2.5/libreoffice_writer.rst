@@ -76,6 +76,8 @@ To bring up a window with properties of your document :menuselection:`File --> P
 
 To insert a watermark on the background of the page :menuselection:`Format --> Watermark`. To change what the watermark says input that into the :guilabel:`Text` field. To change the font of the watermark change the :guilabel:`Font` field. To change the angle from horizontal text use the :guilabel:`Angle` field in degrees. To change your how transparent the water mark is change the :guilabel:`Transparency` has 100 as entirely clear and 0 as entirely opaque. To change the color of the watermark use the :guilabel:`Color` drop down pop up menu.
 
+.. image:: lowriter_watermark.png
+
 To leave libreoffice writer press :kbd:`Control+Q`.
 
 Columns

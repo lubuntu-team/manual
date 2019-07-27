@@ -17,7 +17,7 @@ Next you will be asked if your pin matches on your device to pair it. If the pin
 
 Sending files
 -------------
-To send a file to another device after pairing with the device :menuselection:`Internet --> Bluedevil Send File` to open the file sending dialog. Then select the device you want to send a file to. Press the button with the upward pointing arrow to to bring a dialog of which files to transfer.  To choose which device to sent a file select the device under :guilabel:`Select a device from the list`.
+To send a file to another device after pairing with the device :menuselection:`Internet --> Bluedevil Send File` to open the file sending dialog. Then select the device you want to send a file to. Press the button with the upward pointing arrow to to bring a dialog of which files to transfer. To coose the file navigate to the path and select the :guilabel:`Open` button. To choose which device to sent a file select the device under :guilabel:`Select a device from the list`.
 
 .. image:: bluedevil-sendfile.png
 

@@ -36,7 +36,9 @@ To change what how the text deals with page breaks and paragraphs use the :guila
 
 .. image:: text-flow.png
 
-To undo your changes on the paragraph window press the :guilabel:`Reset` button. 
+To undo your changes on the paragraph window press the :guilabel:`Reset` button.
+
+To quickly set a title for your your document :menuselection:`Styles --> Title`. 
 
 To change font color press the button that has a T with a drop on it and a red underline this will bring down several different colors you can change your text to a color you want. You can also change your font color through the :menuselection:`Format --> Character` window.
 

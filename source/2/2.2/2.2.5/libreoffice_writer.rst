@@ -38,7 +38,7 @@ To change what how the text deals with page breaks and paragraphs use the :guila
 
 To undo your changes on the paragraph window press the :guilabel:`Reset` button.
 
-To quickly set a title for your your document :menuselection:`Styles --> Title`. To choose a quick subtitle for your document :menuselection:`Styles --> Subtitle`. To get back to your original normal style press :kbd:`Control+0` or :menuselection:`Styles --> Text Body`. 
+To quickly set a title for your your document :menuselection:`Styles --> Title`. To choose a quick subtitle for your document :menuselection:`Styles --> Subtitle`. To choose to style something as a heading press :kbd:`Control+1` or :menuselection:`Styles --> Heading 1`. To get back to your original normal style press :kbd:`Control+0` or :menuselection:`Styles --> Text Body`. 
 
 To change font color press the button that has a T with a drop on it and a red underline this will bring down several different colors you can change your text to a color you want. You can also change your font color through the :menuselection:`Format --> Character` window.
 

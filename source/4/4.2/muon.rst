@@ -22,7 +22,7 @@ If you want to see your history of package updates and installed from the :menus
 .. image:: muon-history.png
 
 
-To view all installed packes on the left hand side of the window under filtered click the divider for :guilabel:`By status` and select :guilabel:`Installed`. Now in the upper main part of the window will be a window with a scrollbar to see all packages on your system. From the :guilabel:`By Status` divider select :guilabel:`Upgradeable` to see which packages can be upgraded.
+To view all installed packes on the left hand side of the window under filtered click the divider for :guilabel:`By status` and select :guilabel:`Installed`. Now in the upper main part of the window will be a window with a scrollbar to see all packages on your system. To show only files that are not installed from the :guilabel:`By Status` divider select :guilabel:`Not Installed`. From the :guilabel:`By Status` divider select :guilabel:`Upgradeable` to see which packages can be upgraded.
 
 If you remove some packages you may have packages that were dependencies that are no longer needed anymore you can check on this by clicking the divider on the left hand side by :menuselection:`By Status --> Installed(auto-removeable)` will show if you have packages that are now able to be removed without any problems that are no longer serving a purpose. Then select the :guilabel:`Mark for Removal` button. If you just want to mark all packages for removal :menuselection:`Edit --> Remove Unesscary Packages`. Then of course you will need to press the :guilabel:`Apply Changes` button to apply changes. 
 

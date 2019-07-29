@@ -13,7 +13,7 @@ The :guilabel:`Package` shows the package name and a short description of the pa
 
 To select the next package left click on the list of packages press the :kbd:`Down Arrow` key to move to the next selected package. To select the previous package left click on the list of packages above press the :kbd:`Up Arrow`.  
 
-When you find your package you want to install on the bottom half of the screen there is a bar of tabs. The :guilabel:`Details` tab has a description of the package you are currently selected. The :guilabel:`Technical Details` will show you where the package comes from what category it is and what the installed size would be and what size it takes to download the package. The :guilabel:`Depenedncies` tab shows you what other packages are needed by the package you wish to install. To view the changes of a package the :guilabel:`Changes List` and scroll down to view them. 
+When you find your package you want to install on the bottom half of the screen there is a bar of tabs. The :guilabel:`Details` tab has a description of the package you are currently selected. The :guilabel:`Technical Details` will show you where the package comes from what category it is and what the installed size would be and what size it takes to download the package. The :guilabel:`Depenedncies` tab shows you what other packages are needed by the package you wish to install. To view the changes of a package the :guilabel:`Changes List` and scroll down to view them. IF you have installed a package you can see all files installed by that package in the :guilabel:`Installed Files` tab.
 
 .. image::  lower-muon-screen.png
 

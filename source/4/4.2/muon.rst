@@ -21,7 +21,7 @@ If you want to see your history of package updates and installed from the :menus
 
 .. image:: muon-history.png
 
-On the left hand side of Muon Package Manager there is a :guilabel:`By Category` divider. In this there are many different categories like :guilabel:`Graphics` and :guilabel:`Games and Amusement`. For example the graphics tab will have image editing or creating vector graphcs in the :guilabel:`Graphics` category.
+On the left hand side of Muon Package Manager there is a :guilabel:`By Category` divider. In this there are many different categories like :guilabel:`Graphics` and :guilabel:`Games and Amusement`. For example the graphics tab will have image editing or creating vector graphcs in the :guilabel:`Graphics` category. To go back to seeing all packages select :guilabel:`All` under the :guilbael:`By Category` divider.
 
 To view all installed packes on the left hand side of the window under filtered click the divider for :guilabel:`By Status` and select :guilabel:`Installed`. Now in the upper main part of the window will be a window with a scrollbar to see all packages on your system. To show only files that are not installed from the :guilabel:`By Status` divider select :guilabel:`Not Installed`. From the :guilabel:`By Status` divider select :guilabel:`Upgradeable` to see which packages can be upgraded. To see only packages that are broken the filter for :guilabel:`By Status` and select :guilabel:`Broken`. To view which packages that are not isntalled on your system but still have configuration file from the :guilabel:`By Status` divider select :guilabel:`Residual Configuration`. To view packages installed as a dependency and know can be removed from :guilabel:`By Status` and select :guilabel:`Install(auto-removable)`.
 

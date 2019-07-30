@@ -19,7 +19,7 @@ To change where LXQt saves the default user directories left click on the :guila
 
 .. image::  user-directories-tab.png 
 
-The :guilabel:`Autostart` tab has settings for what to autostart. The autostart applications lets you choose which applications to autostart like managers for print queues. All of these are check-boxes to start various programs. You can start a program at startup by adding it here. Click the :guilabel:`Add` button, give the process a name e.g. "Terminal drop down" and type in the appropriate terminal command e.g. "terminal -d" where it says :guilabel:`Command`. To change a keyboard shortcut press the :guilabel:`Edit` button. To remove a setting for autostart left click on the autostart press the :guilabel:`Delete` button. 
+The :guilabel:`Autostart` tab has settings for what to autostart. The autostart applications lets you choose which applications to autostart like managers for print queues. All of these are check-boxes to start various programs. You can start a program at startup by adding it here. Click the :guilabel:`Add` button, give the process a name e.g. "Terminal drop down" and type in the appropriate terminal command e.g. "qterminal -d" where it says :guilabel:`Command`. To change a keyboard shortcut press the :guilabel:`Edit` button. To remove a setting for autostart left click on the autostart press the :guilabel:`Delete` button. 
 
 .. image:: session_settings.png
 

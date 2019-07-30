@@ -39,7 +39,7 @@ To see what architecture a package uses use the :guilabel:`By Architecture` filt
 
 To check for updates in muon press :kbd:`Control + R` or the gear button with an arrow or :menuselection:`Edit --> Check for Updates`. To actually update and install these upgrades fully press the :guilabel:`Full Upgrade` button or :menuselection:`Edit --> Full Upgrade` and then press the :guilabel:`Apply Changes` button. After this a status bar towards the bottom will show how much total progress is on the upgrade. To have an upgrade where packages are not removed press the upwarding point arrow button or :menuselection:`Edit --> Cautious Upgrade`.
 
-If you want to save all of your packages on a text file you can :menuselection:`File --> Save Package Download List`. If you want to quit muon press :kbd:`Control+Q`.
+If you want to save all of your packages on a text file you can :menuselection:`File --> Save Package Download List`. If you want to load these packages from a file such as if you get a new laptop :menuselection:`File --> Download Packages From List`.  If you want to quit muon press :kbd:`Control+Q`.
 
 On the bottom of muon package manager there is a toolbar that states how many packages are :guilabel:`available`, :guilabel:`installed`, and :guilabel:`upgradeable`.
 

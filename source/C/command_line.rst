@@ -65,3 +65,11 @@ If you want a command to run if the first completes run
 .. code::
 
    command 1 && command 2
+   
+One of the most powerful uses of the command line is called a pipe which allows you to take the output of one command and pipe it to a second to this for example 
+
+.. code:: 
+
+   lspci |less
+   
+

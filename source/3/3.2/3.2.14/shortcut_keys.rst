@@ -20,8 +20,8 @@ You can **Add** a new keyboard shortcut clicking the :guilabel:`Add` button. The
 
 To close shortcut keys press the :kbd:`Escape` key.
 
-Screenshot
-----------
+Screenshots
+-----------
 
 .. image:: shortcut_keys.png
 

@@ -49,7 +49,7 @@ To change your view of trojita to view only one message at a time or the view of
 
 To take trojita into an offline mode where it will not try to access the internet :menuselection:`IMAP --> Network Access --> Offline`. To switch back to an mode where you have no worry about data caps or how much network traffic is used :menuselection:`IMAP --> Network Access --> Free Access`. To throttle the amount of data used from trojita to not use up a data cap :menuselection:`IMAP --> Network Access --> Expensive Connection`.
 
-If you want to quit trojita press :kbd:`Control+Q`.
+If you want to quit trojita press :kbd:`Control+Q`. In the bottom right there is a system tray icon on the panel. 
 
 How to launch
 --------------

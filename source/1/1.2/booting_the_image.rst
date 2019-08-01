@@ -30,7 +30,7 @@ Guides from the Ubuntu website:
  - `How to burn a DVD on Windows <https://tutorials.ubuntu.com/tutorial/tutorial-burn-a-dvd-on-windows>`_
  - `How to burn a DVD on macOS <https://tutorials.ubuntu.com/tutorial/tutorial-burn-a-dvd-on-macos>`_
 
-For writing images to USB drives on Linux, we recommend `mkusb <https://help.ubuntu.com/community/mkusb>`_, a tool developed by a Lubuntu team member.
+For writing images to USB drives on Linux, we recommend `mkusb <https://help.ubuntu.com/community/mkusb>`_ a tool developed by a Lubuntu team member, or the usb creator shipped with lubuntu `Startup Disk Creator <https://manual.lubuntu.me/3/3.1/3.1.4/startup-disk-creator.html>`_ .
 
 Writing images to USB drives from macOS or Windows is beyond the scope of this book, but the Ubuntu website also
 has several guides on this:

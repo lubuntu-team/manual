@@ -77,7 +77,7 @@ To insert a mathematical formula into your document you are process :menuselecti
 
 To select all text in the document press :kbd:`control + A` or :menuselection:`Edit --> Select All`. To jump to a specific page press :kbd:`Control + G` or :menuselection:`Edit --> Go to Page` and a dialog will pop up. To enter a page number in the :guilabel:`Page` field and click :guilabel:`OK` to go to that page.
 
-To zoom for the entire page to be visible :menuselection:`View --> Zoom --> Entire Page`. To zoom so you can see the width of the page and everything is bigger :menuselection:`View --> Zoom --> Page width`. To zoom to 100 percent zoom :menuselection:`View --> Zoom --> 100%`.
+To zoom for the entire page to be visible :menuselection:`View --> Zoom --> Entire Page`. To zoom so you can see the width of the page and everything is bigger :menuselection:`View --> Zoom --> Page Width`. To zoom to 100 percent zoom :menuselection:`View --> Zoom --> 100%`.
 
 To have a view of the document with no margins shown like on a webpage :menuselection:`View --> Web` or To get back to the original view :menuselection:`View --> Menu`. To toggle a vertical scrollbar :menuselection:`View --> Scrollbars --> Vertical Scroll bar`. To have a horizontal scrollbar :menuselection:`View --> Scrollbars --> Horizontal Scroll bar`. 
 

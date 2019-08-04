@@ -21,7 +21,7 @@ If you want to see your history of package updates and installed from the :menus
 
 .. image:: muon-history.png
 
-On the left hand side of Muon Package Manager there is a :guilabel:`By Category` divider. In this there are many different categories like :guilabel:`Graphics` and :guilabel:`Games and Amusement`. For example the graphics tab will have image editing or creating vector graphcs in the :guilabel:`Graphics` category. To go back to seeing all packages select :guilabel:`All` under the :guilbael:`By Category` divider.
+On the left hand side of Muon Package Manager there is a :guilabel:`By Category` divider. In this there are many different categories like :guilabel:`Graphics` and :guilabel:`Games and Amusement`. For example the graphics tab will have image editing or creating vector graphcs in the :guilabel:`Graphics` category. To go back to seeing all packages select :guilabel:`All` under the :guilabel:`By Category` divider.
 
 .. image:: by-category.png
 

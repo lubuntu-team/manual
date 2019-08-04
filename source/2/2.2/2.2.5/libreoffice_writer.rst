@@ -38,7 +38,6 @@ To change what how the text deals with page breaks and paragraphs use the :guila
 
 To undo your changes on the paragraph window press the :guilabel:`Reset` button.
 
-To quickly set a title for your your document :menuselection:`Styles --> Title`. To choose a quick subtitle for your document :menuselection:`Styles --> Subtitle`. To choose to style something as a heading press :kbd:`Control+1` or :menuselection:`Styles --> Heading 1`. To choose a style of a subheading press :kbd:`Control+2` or :menuselection:`Styles --> Heading 2`. To choose an even lower level heading press :kbd:`Control+F3` or :menuselection:`Styles --> Heading 3`. To quickly switch to a bulleted list :menuselection:`Styles --> Bulleted List`. To switch to a numbered list :menuselection:`Styles --> Numbered List`. To have a list styled with uppercase letters :menuselection:`Styles --> Alphabet Uppercase List`. To switch to a list with lowercase letters choose :menuselection:`Styles --> Alphabet Lowercase List`. To get a list with uppercase roman numerals select :menuselection:`Styles --> Roman Uppercase List`. To make a list with lowercase roman numerals select :menuselection:`Styles --> Roman Lowercase List`. To get back to your original normal style press :kbd:`Control+0` or :menuselection:`Styles --> Text Body`. 
 
 To change font color press the button that has a T with a drop on it and a red underline this will bring down several different colors you can change your text to a color you want. You can also change your font color through the :menuselection:`Format --> Character` window.
 
@@ -108,6 +107,11 @@ To search for text in your document press :kbd:`Control +F` or :menuselection:`E
 .. image:: lowriter_findbar.png 
 
 To find and replace text press :kbd:`Control+ H` or :menuselection:`Edit --> Find & Replace`. To have what text you want to be find in the document to be replaced in the :guilabel:`Find` field. To have the end result of what you after replacing in the :guilabel:`Replace` field. To find and select all occurrences of the string in the :guilabel:`Find` field click the :guilabel:`Find All` button. To replace every occurrence of the word of find press the :guilabel:`Replace All` button to change everything.
+
+Styles
+------
+To quickly set a title for your your document :menuselection:`Styles --> Title`. To choose a quick subtitle for your document :menuselection:`Styles --> Subtitle`. To choose to style something as a heading press :kbd:`Control+1` or :menuselection:`Styles --> Heading 1`. To choose a style of a subheading press :kbd:`Control+2` or :menuselection:`Styles --> Heading 2`. To choose an even lower level heading press :kbd:`Control+F3` or :menuselection:`Styles --> Heading 3`. To quickly switch to a bulleted list :menuselection:`Styles --> Bulleted List`. To switch to a numbered list :menuselection:`Styles --> Numbered List`. To have a list styled with uppercase letters :menuselection:`Styles --> Alphabet Uppercase List`. To switch to a list with lowercase letters choose :menuselection:`Styles --> Alphabet Lowercase List`. To get a list with uppercase roman numerals select :menuselection:`Styles --> Roman Uppercase List`. To make a list with lowercase roman numerals select :menuselection:`Styles --> Roman Lowercase List`. To get back to your original normal style press :kbd:`Control+0` or :menuselection:`Styles --> Text Body`. 
+
 
 Images
 ------

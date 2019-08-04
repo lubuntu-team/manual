@@ -139,3 +139,13 @@ Decrease backlight brightness C-F10
 Increase backlight brightness C-F11
 
 ============================= ========================
+
+**Keybindings fo Volume**
+
+============================= ========================
+
+Decrease Volume               XF86VolumeLower
+
+Increase Volume               XF86VolumeRaise
+
+============================= =========================

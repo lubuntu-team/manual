@@ -148,4 +148,6 @@ Decrease Volume               XF86VolumeLower
 
 Increase Volume               XF86VolumeRaise
 
+Mute Volume                   XF86AudioMute
+
 ============================= =========================

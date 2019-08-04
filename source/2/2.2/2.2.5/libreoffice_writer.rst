@@ -64,8 +64,6 @@ To center your text is press the button with the horizontal lines centered or :m
 
 If you want to change your line spacing of your document :menuselection:`Format --> Spacing --> Line spacing: 2` for double spacing or :menuselection:`Format --> Spacing --> Line spacing: 1.5` for one and a half line spacing. To change back to single line spacing of your document :menuselection:`Format --> Spacing --> Line Spacing: 1`. 
 
-To add a list of bullet points press :kbd:`Shift +F12` or :menuselection:`Format --> Lists --> Bulleted Lists`. To start a numbered lists press :kbd:`F12` or :menuselection:`Format --> Lists --> Numbered List`. To move an item up in your list :menuselection:`Format --> Lists --> Move Up`. To move an item down in your list :menuselection:`Format --> Lists --> Move Down`. To demote a point to a subpoint :menuselection:`Format --> Lists --> Demote One Level`. To promote this point back up to its previous level :menuselection:`Format --> Lists --> Promote One Level`.
-
 To Insert a page number :menuselection:`Insert --> Field --> Page number`. To insert the current time into the document :menuselection:`Insert --> Field --> Time`. To insert the current date into the document :menuselection:`Insert --> Field --> Date`.  To insert the number of pages in the document :menuselection:`Insert --> Field --> Page count`.
 
 To have a header shown at the top of each page :menuselection:`Insert --> Header and footer --> Header --> Default style`. To have a footer at the bottom of each page :menuselection:`Insert--> Header and footer --> Footer --> Deafault style`. To get back to writing the main part of the document left click on the body of the document.  
@@ -99,6 +97,10 @@ To add multiple columns to your document :menuselection:`Format --> Columns`. To
 .. image:: columns.png
 
 To add a column break to the next column press :kbd:`Control+Shift+Enter` or :menuselection:`Insert --> More Breaks --> More Column Breaks`.
+
+Lists
+-----
+To add a list of bullet points press :kbd:`Shift +F12` or :menuselection:`Format --> Lists --> Bulleted Lists`. To start a numbered lists press :kbd:`F12` or :menuselection:`Format --> Lists --> Numbered List`. To move an item up in your list :menuselection:`Format --> Lists --> Move Up`. To move an item down in your list :menuselection:`Format --> Lists --> Move Down`. To demote a point to a subpoint :menuselection:`Format --> Lists --> Demote One Level`. To promote this point back up to its previous level :menuselection:`Format --> Lists --> Promote One Level`.
 
 Find And Replace
 ----------------

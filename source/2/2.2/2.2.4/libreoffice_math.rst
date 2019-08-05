@@ -12,7 +12,6 @@ Screenshot
 Usage
 ------
 To save your formula you have written in libreoffice math press :kbd:`Control +S` or :menuselection:`File --> Save`. To open a file press :kbd:`Control +O` or :menuselection:`File --> Open`.  To print your formula press :kbd:`Control +P` or :menuselection:`File --> Print`. To view your printer settings :menuselection:`File --> Printer settings`. To save a file as a different name press :kbd:`Control+Shift+S` or :menuselection:`File --> Save As`. To view your recent files :menuselection:`File --> Recent Documents`. 
- math-save.png
 
 .. image:: math-save.png
 

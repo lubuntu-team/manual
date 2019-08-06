@@ -18,7 +18,7 @@ The window can be moved by by clicking on the title-bar and dragging the mouse o
 Right clicking on the title bar or left clicking on the icon in the top-left of the window brings the window management menu. Here you can:
 
 -   Using :menuselection:`Send to desktop`, send the window to a virtual desktop of your choice or All Desktop
--   Using :menuselection:`Layer` option allows you to set  whether this windows is always on top, etc. 
+-   Using :menuselection:`Layer` option allows you to set  whether this windows the layer to :menuselection:`Always on top`, etc. 
 -   If you want to move something to always show to bottom or you can move it back to normal. 
 -   The earlier mentioned :menuselection:`Iconify`, :menuselection:`Maximize`, and :menuselection:`Close`  options are also available here.
 -   :menuselection:`Roll up/down` rolls the window into the title-bar.

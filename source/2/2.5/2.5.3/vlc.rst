@@ -11,7 +11,7 @@ To open media stored locally on your system click media open :menuselection:`Med
 
 .. image:: vlc-networkopen.png
 
-To pause playback of a file press the button that look like two vertical lines or :menuselection:`Playback --> Pause`. To resume playback press the right playback button. To toggle fullscreen press the button which has the four corners of the screen or :menuselection:`Video --> Fullscreen` to make it fullscreen and the four screens to have it back into windowed mode. To have vlc always on top :menuselection:`View --> Always on top` and check the checkbox in the menu and use the menu the same way again to make it back to how it was before. 
+To pause playback of a file press the button that look like two vertical lines or :menuselection:`Playback --> Pause`. To resume playback press the right playback button. To toggle fullscreen press the button which has the four corners of the screen or :menuselection:`Video --> Fullscreen` to make it fullscreen and the four corners to have it back into windowed mode. To have vlc always on top :menuselection:`View --> Always on top` and check the checkbox in the menu and use the menu the same way again to make it back to how it was before. 
 
 On the bottom right of vlc there is a bar that gets wider for volume. Click farther to the right to increase volume within vlc or press :kbd:`Up arrow` to increase volume or :kbd:`Down arrow` to decrease volume. Or hover the cursor over this bar and use the mousewheel to control volume. The button that looks like a speaker next to this toggles mute in vlc. Another way to mute the volume is to :menuselection:`Audio --> Mute`. 
 

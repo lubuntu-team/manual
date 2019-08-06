@@ -29,7 +29,7 @@ To view all installed packes on the left hand side of the window under filtered 
 
 .. image:: by-status.png
 
-To see which packages come from whcih source select either :guilabel:`By Status` and then select :guilabel:`Installed` or :guilabel:`All` to select all or installed packages. Then select :guilabel:`By Origin` and the name of any ppa will show which packages come from. To go back to seeing all packages select :guilabel:`All` on the sidebar under both :Guilabel:`.
+To see which packages come from whcih source select either :guilabel:`By Status` and then select :guilabel:`Installed` or :guilabel:`All` to select all or installed packages. Then select :guilabel:`By Origin` and the name of any ppa will show which packages come from. To go back to seeing all packages select :guilabel:`All` on the sidebar under both :Guilabel:`By Status` and :guilabel:`By Origin`.
 
 If you remove some packages you may have packages that were dependencies that are no longer needed anymore you can check on this by clicking the divider on the left hand side by :menuselection:`By Status --> Installed(auto-removeable)` will show if you have packages that are now able to be removed without any problems that are no longer serving a purpose. Then select the :guilabel:`Mark for Removal` button. If you just want to mark all packages for removal :menuselection:`Edit --> Remove Unesscary Packages`. Then of course you will need to press the :guilabel:`Apply Changes` button to apply changes. 
 

@@ -23,7 +23,6 @@ Right clicking on the title bar or left clicking on the icon in the top-left of 
 -   The earlier mentioned :menuselection:`Iconify`, :menuselection:`Maximize`, and :menuselection:`Close`  options are also available here.
 -   :menuselection:`Roll up/down` rolls the window into the title-bar.
 -   :menuselection:`Un/Decorate` hides them title-bar.
--   :menuselection:`Resize` lets you use the change the size of a window.
 
 .. image:: wm_menu.png
 

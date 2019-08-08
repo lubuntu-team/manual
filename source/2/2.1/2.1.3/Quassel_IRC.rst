@@ -59,11 +59,11 @@ To change your preferences for quassel press :kbd:`F7` or :menuselection:`Settin
 
 .. image:: quassel-pref-interface.png
 
-The :guilabel:`Chat View` tab has settings for colors timestamps and hyperlinks. To toggle showing brackets around everyone's nicknames check the :guilabel:`Show brackets around sender names`. To chose a custom chat window font press the :guilabel:`Custom chat window font` checkbox and then press the :guilabel:`Choose` button to choose a new font. To toggle if you want colored text press/unpress the :guilabel:`Allow colored text` checkbox.  To toggle previews of hyperlinks in chat check/uncheck the :guilabel:`Show previews of webpages on URL hover`. To toggle setting marker line when switching chats check/uncheck the :guilabel:`Set marker line automatically when switching chats`. To toggle the set marker line automatically when you switch windows check/uncheck  the :guilabel:`Set marker line automatically when Quassel loses focus` checkbox. 
+The :guilabel:`Chat View` tab has settings for colors timestamps and hyperlinks. To toggle showing brackets around everyone's nicknames check the :guilabel:`Show brackets around sender names`. To chose a custom chat window font press the :guilabel:`Custom chat window font` checkbox and then press the :guilabel:`Choose` button to choose a new font.   To toggle previews of hyperlinks in chat check/uncheck the :guilabel:`Show previews of webpages on URL hover`. To toggle setting marker line when switching chats check/uncheck the :guilabel:`Set marker line automatically when switching chats`. To toggle the set marker line automatically when you switch windows check/uncheck  the :guilabel:`Set marker line automatically when Quassel loses focus` checkbox. 
 
 .. image:: quasselpref.png
 
-To change your colors of chat use the :guilabel:`Chat View Colors` tab. To change the Colors of your user interface on Quassel check the :guilabel:`Custom Colors` checkbox. Then there are many buttons for each different kind of message which you can press the buton that all bring up the specific color for that kind of message. 
+To change your colors of chat use the :guilabel:`Chat View Colors` tab. To toggle if you want colored text press/unpress the :guilabel:`Allow colored text` checkbox. To change the Colors of your user interface on Quassel check the :guilabel:`Custom Colors` checkbox. Then there are many buttons for each different kind of message which you can press the buton that all bring up the specific color for that kind of message. 
 
 .. image:: chat-view-colors.png 
 

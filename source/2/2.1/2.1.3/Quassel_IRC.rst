@@ -22,6 +22,8 @@ To join a channel simple type "/join 1" (where 1 is the channel name), right cli
 
 To hide all people joining or leaving a chat right click on the channel list :menuselection:`Hide Events --> Joins/Parts/Quits`. To only hide people joining right click on the list of channel list :menuselection:`Hide Events --> Joins`. To hide people parting the channel right click on the channel list :menuselection:`Hide Events --> Parts`. To hide people quitting the channel right click on the channel list :menuselection:`Hide Events --> Quits`. To hide people changing their nickname :menuselection:`Hide Events --> Name Changes`. To hide when someone changes the topic of a channel :menuselection:`Hide Events --> Topic Changes`. To hide people changing the mode of a channel right click on the list of channels :menuselection:`Hide Events --> Mode Changes`. To hide when Quassel tells you it is tomorrow right click on the list of channels :menuselection:`Events --> Day Changes`. However while hiding these may result in less busy traffic it can leave you trying to communicate with people no longer on irc.	 
 
+.. image:: channel-list-context.png
+
 To state you are taking an action in irc you can type :kbd:`/me` at the start of you typing to have say \*nick will say you are taking an action.
 
 To leave all servers and disconnect press the :guilabel:`Disconnect` button in the top toolbar. If you have multiple servers configured to disconnect from one press the downward pointed arrow and select the server you want to disconnect from. To connect to the servers again press the :guilabel:`Connect` button. To connect to a specific server press the downward pointing arrow and select the server you want to connect to. 

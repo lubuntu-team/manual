@@ -55,7 +55,7 @@ To see all the nicknames of someone in a channel are located in a sidebar labele
 
 Customizing
 -----------
-To change your preferences for quassel press :kbd:`F7` or :menuselection:`Settings --> Configure Quassel`. To choose a language for your chat change the :guilabel:`Language` drop down menu. To change the client style for the widget of quassel choose a widget style from the :guilabel:`Widget style` drop down menu. To toggle showing tray icon check/uncheck the :guilabel:`Show system tray icon` checkbox. If you want to be able to close the quassel window and still have quassel running in the system tray to bring it back up check the :guilabel:`Hide to tray on close button`. To change which icon theme you use for quassel use the :guilabel:`Fallback icon theme` drop down menu and to have it replace your system icon theme press the :guilabel:`Override system theme`.
+To change your preferences for quassel press :kbd:`F7` or :menuselection:`Settings --> Configure Quassel`. To choose a language for your chat change the :guilabel:`Language` drop down menu. To change the client style for the widget of quassel choose a widget style from the :guilabel:`Widget style` drop down menu.  To change which icon theme you use for quassel use the :guilabel:`Fallback icon theme` drop down menu and to have it replace your system icon theme press the :guilabel:`Override system theme`.To toggle showing tray icon check/uncheck the :guilabel:`Show system tray icon` checkbox. If you want to be able to close the quassel window and still have quassel running in the system tray to bring it back up check the :guilabel:`Hide to tray on close button`.
 
 .. image:: quassel-pref-interface.png
 

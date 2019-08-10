@@ -81,7 +81,9 @@ The :guilabel:`PDF` subtab of the graphics tab has settings for font and paper c
 
 .. image:: Graphic_PDF_subtab.png
 
-The :guilabel:`PS` subtab manages how Postcript files appear on the screen. To change how many bits are used for antialiasing graphics change the :guilabel:`Graphics antialias bits` field. To change the number of bits of text antialiasing change :guilabel:`Text antialiasing bits` field. 
+The :guilabel:`PS` subtab manages how Postcript files appear on the screen. To change how many bits are used for antialiasing graphics change the :guilabel:`Graphics antialias bits` field. To change the number of bits of text antialiasing change :guilabel:`Text antialiasing bits` field.
+
+.. image::  graphics-postscript.png
 
 To change the interface settings click on the :guilabel:`Interface` tab.  If you want the tabs to be spread out press the spread tabs checkbox. The :guilabel:`Tab position` changes where the tabbar on the window. The :guilabel:`Tab visibility` menu can be set to as needed, always or never which will show or hide the tabbar. The checkbox for :guilabel:`New tab next to current tab` opens new tabs next to the current one. The field for recently used lets you set the maximum number of files to keep around in recently used. The :guilabel:`Spread tabs` checkbox spreads the tabs to take up the whole tab bar and they get smaller the more tabs you open. To have qpdfview close when the last tab in qpdfview is closed check the :guilabel:`Exit after last tab` checkbox. To change the number of recently used pdf files in the menu change the number in :guilabel:`Recently used count` field. To change how many recently closed tabs of pdfs are shown change the :guilabel:`Recently closed count` field. 
 

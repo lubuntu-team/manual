@@ -76,5 +76,5 @@ To change settings on your toolbar :menuselection:`Settings --> Configure Toolba
 .. image:: muon-toolbar.png
  
 To view and configure your shortcuts :menuselection:`Settings --> Configure Shortcuts` and a window to open shortcuts will appear. The column for :guilabel:`Action` says what the keyboard shortcut will do. The column  :guilabel:`Shortcut` will let you have a shortcut to apply changes. To add shortcut to something that does not have it press the small faint :menuselection:`-->` will bring a drop down menu and press the button next to the word :guilabel:`Custom` and input :kbd:`Your shortcut here`. 
-.. image:: muon-shortcuts.png 
 
+.. image:: muon-shortcuts.png 

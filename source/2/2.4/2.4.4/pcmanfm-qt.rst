@@ -18,7 +18,7 @@ Along the top to create a new tab in pcmanfm-qt you can use the button with a fi
 
 If you double click on a folder you change pcmanfm-qt to that folder. If you want to open a folder in a new tab right click on that tab and select :menuselection:`Open in New Tab`. To open a folder in your terminal right click it and select :menuselection:`Open in terminal`. To open a folder in a new window right click it and select :menuselection:`Open in New Window`. 
 
-To close a tab click on the :guilabel:`x` button on the tab bar. To close a tab using the keyboard press :kbd:`Control +W` or from the menu :menuselection:`File --> Close Tab`. To close all tabs but the current one right click on the tab bar and :menuselection:`Close other tabs`. To close all tabs to the right of this tab :menuselection:`Close next tabs`. To close tabs to the left right click on the tab bar and select :menuselection:`Close previous tabs`.
+To close a tab click on the :guilabel:`x` button on the tab bar, press:kbd:`Control +W`, or from the menu :menuselection:`File --> Close Tab`. To close all tabs but the current one right click on the tab bar and :menuselection:`Close other tabs`. To close all tabs to the right of this tab :menuselection:`Close next tabs`. To close tabs to the left right click on the tab bar and select :menuselection:`Close previous tabs`.
 
 .. image:: pcmanfm-tab-context.png
 

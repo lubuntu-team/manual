@@ -30,6 +30,8 @@ To go back to a previous page in firefox press the button pointing to the left o
 
 To open a window with all of your downloads on it press :kbd:`Control+Shift+Y`. To open pcmanfm-qt in the folder where you downloaded things right click and select on the download and select :menuselection:`Open Contatining Folder`. To get a link for someone else to download something right click on the downloaded content right click and select :menuselection:`Copy Download Link`.
 
+.. image:: firefox-downloads.png
+
 
 To have a list of all of your tabs press the downward pointing arrowhead button. To switch the view of your tabs if you have more than on the screen press the right ward pointed arrowhead to move the visible part of the tab bar to the right. To move the visible part of the tab bar to the left press the leftward pointed arrowhead. To open a new tab press the :guilabel:`+` button.
 

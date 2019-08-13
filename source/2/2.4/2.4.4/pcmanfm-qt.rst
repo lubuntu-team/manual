@@ -87,7 +87,7 @@ pcmanfm-qt has options when right clicking has special options for dealing with 
 Searching for Files
 -------------------
 
-To search for files press :kbd:`f3` or :menuselection:`Tool --> find files`. To type part of name in the part where it says :guilabel:`File Name Patterns`. To make your search case insensitive check the :guilabel:`Case insensitive`. To toggle searching with regular expressions check/uncheck the :guilabel:`Use regular expression` checkbox. To add locations and places to search press the :guilabel:`Add` button and select the additional places to search. To remove an additional place to search press the :guilabel:`Remove` button. To toggle searching in Subdirectories check/uncheck the :guilabel:`Search in subdirectories`. To toggle searching for hidden files check/uncheck the :guilabel:`Search for hidden files`.
+To search for files press :kbd:`f3` or :menuselection:`Tool --> Find Files`. To type part of name in the part where it says :guilabel:`File Name Patterns`. To make your search case insensitive check the :guilabel:`Case insensitive`. To toggle searching with regular expressions check/uncheck the :guilabel:`Use regular expression` checkbox. To add locations and places to search press the :guilabel:`Add` button and select the additional places to search. To remove an additional place to search press the :guilabel:`Remove` button. To toggle searching in Subdirectories check/uncheck the :guilabel:`Search in subdirectories`. To toggle searching for hidden files check/uncheck the :guilabel:`Search for hidden files`.
 
 .. image:: filesearch.png 
 

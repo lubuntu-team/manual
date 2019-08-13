@@ -40,7 +40,9 @@ To select all files in a directory is to press :kbd:`Control+ A` or right click 
 
 .. image:: bulk-rename.png
 
-To connect to a remote server such as a NAS go to the :menuselection:`Go -->  Connect to server` and authenticate to your remote storage. If you want to plug in removable storage you can open the storage on the left sidebar with devices. To switch to the removable media left click on the device in the side pane. This same applies to other internal filesystems on your computer. To eject removable media press the button on the left with a circled up arrow to eject.  On the side pane you can right click to open a place in a new tab by right clicking :menuselection:`Open in New Tab` for places and mounted drives. If you want to return to your home folder :menuselection:`Go --> Home` or press :kbd:`Alt + Home`.   
+To connect to a remote server such as a NAS go to the :menuselection:`Go -->  Connect to server` and authenticate to your remote storage. If you want to plug in removable storage you can open the storage on the left sidebar with devices. To switch to the removable media left click on the device in the side pane. This same applies to other internal filesystems on your computer. To eject removable media press the button on the left with a circled up arrow to eject.  On the side pane you can right click to open a place in a new tab by right clicking :menuselection:`Open in New Tab` for places and mounted drives. If you want to return to your home folder :menuselection:`Go --> Home` or press :kbd:`Alt + Home`.
+
+.. image::  pcmanfm-qt-connect-server.png 
 
 pcmanfm-qt also supports transferring files to mobile devices plugged in with a usb cable. On the left hand side under devices the mobile device will appear. You may need on your device to allow it to transfer files. After you have done this You can see the files on mobile device and transfer files to them. To eject the mobile devices press the upward pointing arrow to unmount it.
 

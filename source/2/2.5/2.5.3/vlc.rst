@@ -53,7 +53,7 @@ Screenshot
 
 Effects and Filters
 --------------------
-To open an equalizier press the button that looks like several physical slider switches, press :kbd:`Control+E` or :guilabel:`Tools --> Effects and filters` and use the :guilabel:`Audio effects` tab and :guilabel:`Equalizer` subtab. To enable the equalizier check the :guilabel:`Enable` checkbox. Then to increase or decrease the sound at each frequency up to increase the volume at that frequency. To select an equalizer preset use the :guilabel:`Preset` drop down menu. On the :guilabel:`Advanced` tab of audio effects there is a meter to adjust the pitch of the currently playing audio. To enable this effect check the :guilabel:`Enable` checkbox. To increase the pitch of the audio move the slider up. To decrease the pitch of the audio move the slider down.
+To open an equalizier press the button that looks like several physical slider switches, press :kbd:`Control+E` or :menuselection:`Tools --> Effects and Filters` and use the :guilabel:`Audio effects` tab and :guilabel:`Equalizer` subtab. To enable the equalizier check the :guilabel:`Enable` checkbox. Then to increase or decrease the sound at each frequency up to increase the volume at that frequency. To select an equalizer preset use the :guilabel:`Preset` drop down menu. On the :guilabel:`Advanced` tab of audio effects there is a meter to adjust the pitch of the currently playing audio. To enable this effect check the :guilabel:`Enable` checkbox. To increase the pitch of the audio move the slider up. To decrease the pitch of the audio move the slider down.
 
 .. image::  equlizer.png
 

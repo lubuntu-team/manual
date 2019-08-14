@@ -57,6 +57,8 @@ To open an equalizier press the button that looks like several physical slider s
 
 .. image::  equlizer.png
 
+To change so that there is not as much difference between quiet and loud which makes everything seem louder use the :guilabel:`Compressor` tab. 
+
 To change how the audio and video synchronize with the rest of the file use the :guilabel:`Synchronization` tab. To change the synchronization of your audio with the video change the :guilabel:`Audio track synchronization` field to get it to match with your video. To change the synchronization of subtitles use the :guilabel:`Subtitle track synchronization` field. To change how many frames per second your subtitles change at change the :guilabel:`Subtitle speed` field to change how many frames per second on your subtitle.
 
 .. image:: vlc-synchronization.png

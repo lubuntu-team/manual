@@ -71,6 +71,7 @@ To change how the video appears on your screen use the :guilabel:`Video Effects`
 
 To crop pixels off the margins use the :guilabel:`Crop` subtab. To take a number of pixels off the top use the :guilabel:`Top` field. To take pixels off the left of the screen of the video use the :guilabel:`Left` field. To take pixels off the right side of the screen use the :guilabel:`Right` field. To take pixels off the bottom use the :guilabel:`Bottom` field. To have your top and bottom take the same number of pixels taken off the top and bottom check the :guilabel:`Synchronize top and bottom` checkbox. To take the same number of pixels off your left and right hand side check the :guilabel:`Synchornize left and right` checkbox.
 
+.. image:: vlc-crop.png
 
 Customizing
 -----------

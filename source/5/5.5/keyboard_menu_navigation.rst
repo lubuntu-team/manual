@@ -5,4 +5,4 @@ Lubuntu 18.10 allows you to move through the menus of with only the keyboard ins
 
 Once you have the menu opened you can use the up and down arrow keys to move up and down in a menu. If the menu has :menuselection:`-->` to the right you can press :kbd:`Right arrow` to expand into a submenu. To move back up a level from the menu press :kbd:`Left arrow`. If you want to exit the menu press :kbd:`escape`. To move to adjacent menu to the left press :kbd:`Alt + left arrow`. To move to an adjacent menu to the right press :kbd:`Alt + right arrow`. To activate an item on your menu press :kbd:`Enter`. 
 
-If there is not a submenu available you can use :kbd:`Alt + Right arrow` to move to the next menu to the right.          
+If there is not a submenu available you can use :kbd:`Right arrow` to move to the next menu to the right. If you are at the highest level of a menu press :kbd:`Left arrow`.         

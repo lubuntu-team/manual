@@ -33,7 +33,7 @@ To open a window with all of your downloads on it press :kbd:`Control+Shift+Y`. 
 .. image:: firefox-downloads.png
 
 
-To have a list of all of your tabs press the downward pointing arrowhead button however this only appears if you have more tabs than fit on your screen normally. To switch the view of your tabs if you have more than on the screen press the right ward pointed arrowhead to move the visible part of the tab bar to the right. To move the visible part of the tab bar to the left press the leftward pointed arrowhead. To open a new tab press the :guilabel:`+` button.
+To have a list of all of your tabs press the downward pointing arrowhead button however this only appears if you have more tabs than fit on your screen normally. To switch the view of your tabs if you have more than on the screen press the right ward pointed arrowhead to move the visible part of the tab bar to the right. To move the visible part of the tab bar to the left press the leftward pointed arrowhead. To open a new tab press the :guilabel:`+` button. To search through all your tabs you can click on the doward pointed arrow and select :menuselection:`Search Tabs`. 
 
 To scroll down using the keyboard press :kbd:`Page Down`. To scroll up the page with the keyboard press :kbd:`Page Up`. To scroll all the way back up to the top press the :kbd:`Home` key. To move all the way to the bottom of the page press the :kbd:`End` key.
 

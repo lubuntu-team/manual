@@ -21,8 +21,6 @@ To search through your notes for a particular string enter what you want to sear
 
 If you make a mistake typing and want to undo your changes press :kbd:`Control + z` or :menuselection:`Edit --> Undo`. If you wish to paste text into nobleNote press :kbd:`Control + v` or :menuselection:`Edit --> Paste`. To copy text from your note press :kbd:`Control+C` or right click and select :menuselection:`Copy`. To select all text in a note press :kbd:`Control +A`. 
 
-
-
 To toggle showing the toolbar press :kbd:`Control +Shift +T` or :menuselection:`View --> Show toolbar`. 
 
 To bring back up your note nobleNote will leave a notebook icon in the system tray on the lower right hand corner of the panel. To bring the notes backup after closing them left click on the tray icon. To fully close nobleNote right click on the tray icon :menuselection:`Quit` or press :kbd:`Control+Q`.

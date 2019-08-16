@@ -67,7 +67,7 @@ The :guilabel:`Chat View` tab has settings for colors timestamps and hyperlinks.
 
 .. image:: quasselpref.png
 
-To change your colors of chat use the :guilabel:`Chat View Colors` tab. To toggle if you want colored text press/unpress the :guilabel:`Allow colored text` checkbox. To change the Colors of your user interface on Quassel check the :guilabel:`Custom Colors` checkbox. Then there are many buttons for each different kind of message which you can press the buton that all bring up the specific color for that kind of message. To change the colors of nicknames for different people sending messages check the :guilabel:`Use Sending Coloring` checkbox.
+To change your colors of chat use the :guilabel:`Chat View Colors` tab. To toggle if you want colored text press/unpress the :guilabel:`Allow colored text` checkbox. To change the Colors of your user interface on Quassel check the :guilabel:`Custom Colors` checkbox. Then there are many buttons for each different kind of message which you can press the buton that all bring up the specific color for that kind of message. To change the colors of nicknames for different people sending messages check the :guilabel:`Use Sender Coloring` checkbox.
 
 .. image:: chat-view-colors.png 
 

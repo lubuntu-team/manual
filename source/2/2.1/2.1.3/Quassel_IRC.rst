@@ -26,7 +26,7 @@ To hide all people joining or leaving a chat right click on the channel list :me
 
 If you want to disconnet from a particular server if you have connected to it right click on the server name and select :menuselection:`Disconnect`. IF you are disconnected from a server and want to connect to it right click on it and select :menuselection:`Connect`. To collpase a servers list of channels you can left click on the arrow next to the server name and click it again to uncollapse the list of channels. To change your settings for a server right click on a server name and select :menuselection:`Configure`.
 
-To toggle showing checkboxes in front of each chat right click on a server or channel and check the checkbox for :menuselection:`Show/Hide Chats` to bring a gaint list of checkboxes. To hide a chat this way uncheck the checkbox in front of that channel or query.
+To toggle showing checkboxes in front of each chat right click on a server or channel and check the checkbox for :menuselection:`Show/Hide Chats` to bring a gaint list of checkboxes. To hide a chat this way uncheck the checkbox in front of that channel or query. To go back and actually hide some chats right click on the channel or server and unchceck :menuselection:`Show/Hide Chats`.
 
 To state you are taking an action in irc you can type :kbd:`/me` at the start of you typing to have say \*nick will say you are taking an action.
 

@@ -19,6 +19,7 @@ The first step will be to ensure your system is up to date. This can be done by 
 
     sudo apt update && sudo apt full-upgrade -y
 
+.. image:: terminal_upgrade.png
 
 Once the software upgrade has completed, you want to restart your pc. This can be done in a number of ways, however the following command is the simplest.
 

@@ -67,6 +67,6 @@ The next thing you want to do is do the release upgrade. do-release-upgrade is t
 
     sudo do-release-upgrade
 
-You may be prompted "No new release found", if so follow this step, else skip it. Go into software sources and change :guilabel:`Show new distrubtion releases` and select Normal releases.
+You may be prompted "No new release found", if so follow this step, else skip it. Go into software sources by :menuselection:`Prefrences --> Software Sources` and change :guilabel:`Show new distrubtion releases` and select :menuselection:`Normal Releases`.
 
 After the installation, reboot into the newly upgraded system. 

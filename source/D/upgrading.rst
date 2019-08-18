@@ -14,7 +14,7 @@ Upgrading with GUI
 ------------------
 
 First, ensure your system is up-to-date by starting Software Updater and performing system updates:
-    - This can be done by clicking the Menu (Alt + F1) :menuselection:`System Tools --> Software Updater`.
+    - This can be done by clicking the Menu  :menuselection:`System Tools --> Software Updater`.
     - When prompted, click :guilabel:`Install Now`.
     - After the install is completed you may be prompted to reboot. If not, reboot manually.
 

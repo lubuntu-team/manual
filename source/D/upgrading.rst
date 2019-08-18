@@ -10,40 +10,6 @@ There are two methods of upgrading Lubuntu releases. The first is using the upda
 
   Upgrading will keep all of your files in your home folder and configuration files intact however this will mean some changes to default keybindings for example will still be the same as when you installed but will keep all of your customizations different from reinstalling from an iso again.
 
-Upgrading with GUI
-------------------
-
-First, ensure your system is up-to-date by starting Software Updater and performing system updates:
-    - This can be done by clicking the Menu  :menuselection:`System Tools --> Software Updater`.
-    - When prompted, click :guilabel:`Install Now`.
-    - After the install is completed you may be prompted to reboot. If not, reboot manually.
-
-.. image:: 02_up-to-date.png
-
-If you're not on a LTS (Long Term Support) release, you may have to opt in for non LTS versions of Lubuntu.
-    - Select the Updates -> Notify me of a new Ubuntu version -> For any new version, from Software and Updates.
-    - Close the update manager, and you should be prompted to upgrade to the latest release.
-    - Alternatively, you can start a terminal :kbd:`Ctrl + Alt + T` and type in the command
-     
-.. code::
-
-   update-manager -d
-   
-   
-The -d flag is referring to the fact that it's moving to an unsupported release (if you are on the LTS track, this is accurate).
-
-.. image:: 03_development_release.png
-
-Next, you will want to upgrade to the new release.
-    - After rebooting, start the update manager.
-    - This can be done by clicking the Menu (Alt + F1) -> Preferences -> Software and Updates.
-    - You should be prompted to upgrade. Click upgrade.
-    - Read the release notes. **This is important, in case there is information you need to know.**
-    - Once the upgrade has completed, restart your machine.
-
-.. image:: 04_release_available.png
-.. image:: 05_release_notes.png
-
 
 Upgrading with command line
 ---------------------------

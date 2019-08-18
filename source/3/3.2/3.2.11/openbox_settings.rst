@@ -43,6 +43,8 @@ On the :guilabel:`Desktops` tab to change number of desktops press the up arrow 
 
 To make a margin on your desktop on which nothing is placed you can set pixel margins on each side with the :guilabel:`Margins` tab. The fields :guilabel:`Left`, :guilabel:`Top`, :guilabel:`Right`, or :guilabel:`Bottom` each have a field for each number of pixels as a margin. To close openbox settings press the :kbd:`Escape` key. 
 
+.. image:: obconf-margins.png
+
 How to launch
 -------------
 

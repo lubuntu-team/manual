@@ -4,7 +4,7 @@ Appendix D Upgrading from previous releases
 
 With every release upgrade comes many changes across the entire landscape of packages. Naturally, an extremely large change like this can cause problems, so **we strongly recommend you back up your files**. Also, if your computer is one that runs on a battery (such as a laptop), please ensure that the power is connected, as it may take a while and unexpected power failures could be disastrous.
 
-There are two methods of upgrading Lubuntu releases. The first is using the update manager a graphical user interface. The second involves the command line and is useful for server upgrades. Unfortunately with main Ubuntu dropping 32-bit upgrades, 32-bit upgrades after Lubuntu 18.04 are not supported.
+ This way of upgrading involves the command line and is also useful for server upgrades. Unfortunately with main Ubuntu and Lubuntu dropping 32-bit upgrades, 32-bit upgrades after Lubuntu 18.04 are not supported.
 
 .. note:: 
 

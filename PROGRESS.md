@@ -79,3 +79,4 @@
 | :white_checkmark:     | Appendix C  |
 | :construction_worker: | Appendix D  | 
 | :construction_worker: | Appendix E  |
+| :white_checkmark:     | Appendix F  |

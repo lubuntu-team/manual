@@ -1,6 +1,6 @@
 Chapter 5.1 LXQt Panel
 ======================
-LXQt Panel is the bar situated at the bottom of your screen by default. The panel contains an application menu, a desktop switcher, a quick-launch bar, a taskbar, a system tray containing applets, and a clock. The panel is highly configurable with a number of settings and plugins.
+LXQt Panel is the bar situated at the bottom of your screen by default. The panel contains an application menu, a desktop switcher, a quicklaunch bar, a taskbar, a system tray containing applets, and a clock. The panel is highly configurable with a number of settings and plugins.
 
 Usage
 ------

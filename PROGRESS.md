@@ -31,7 +31,7 @@
 | :white_checkmark:     | 2.4.7       |
 | :white_checkmark:     | 2.4.8       |
 | :white_checkmark:     | 2.5         |
-| :construction_worker: | 2.5.1       |
+| :white_checkmark:     | 2.5.1       |
 | :white_checkmark:     | 2.5.2       |
 | :white_checkmark:     | 2.5.3       |
 | :white_checkmark:     | 3           |
@@ -54,7 +54,7 @@
 | :white_checkmark:     | 3.2.6       |
 | :white_checkmark:     | 3.2.7       |
 | :white_checkmark:     | 3.2.8       |
-| :construction_worker: | 3.2.9       |
+| :white_checkmark:     | 3.2.9       |
 | :white_checkmark:     | 3.2.10      |
 | :white_checkmark:     | 3.2.11      |
 | :white_checkmark:     | 3.2.12      |
@@ -75,7 +75,7 @@
 | :white_checkmark:     | 5.4         |
 | :white_checkmark:     | 5.5         |
 | :construction_worker: | Appendix A  |
-| :red_circle:          | Appendix B  |
+| :white_checkmark:     | Appendix B  |
 | :white_checkmark:     | Appendix C  |
 | :construction_worker: | Appendix D  | 
 | :construction_worker: | Appendix E  |

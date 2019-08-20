@@ -30,6 +30,8 @@ In the system tray there there are multiple widgets. With the volume applet you 
 .. image:: calendar-widget.png
 
 If you are on a laptop the panel will also show the battery meter to show how much power you have remaining. To view your current charge level mouseover the battery meter and it will show if your battery is charging by mousing over. To view information about your battery left click the battery icon. The field :guilabel:`Energy Full Design` shows how much power your battery held when it was brand new. The field :guilabel:`Energy Full` shows the current full charge of your battery in your current health.The :guilabel:`Energy Now` shows how much power is in your battery. The :guilabel:`Technology` field shows what kind of battery you have.
+
+.. image:: panel-battery.png
  
 As mentioned before, the panel is highly configurable and you can customize it by right clicking at various places. If you do not want to mess up your panel right click on the panel and select :menuselection:`Lock This Panel` and do the same again to unlock your panel. 
 

@@ -96,8 +96,6 @@ To add a second panel right click on the panel and :menuselection:`Add New Panel
 Non-Default widgets
 -------------------
 
-To use your sensors widgets which you would have to add manually as shown above. A sensor bar will appear with as many sensors as on your panel. To view the temp as a number mouse over the sensor bar to see what your temperature is in a number. 
-
 To have a bar that shows CPU Load shows a bar graph with your CPU usage. To bring up settings for your CPU usage is right click on the CPU bar :menuselection:`Configure CPU Monitor`. The :guilabel:`Show text` checkbox shows a number for CPU usage. The field for :guilabel:`Update interval` is how often to update your CPU usage. The :guilabel:`Bar orientation` says what side to start the bar graph. The :guilabel:`Bar width` is how wide to make the bar graph. If you want to reset your changes press the :guilabel:`Reset` button.
 
 .. image::  CPU-load-settings.png
@@ -105,6 +103,8 @@ To have a bar that shows CPU Load shows a bar graph with your CPU usage. To brin
 The Color picker is shows what color something is on your screen usually useful for web developers. To get a color off the screen press the color dropper button and your mouse will turn into crosshair and then left click on what you want to take the color. Then a numeric field to the right of the dropper will appear with the color in a numeric field to the right. 
 
 .. image::   spacer-color-picker.png
+
+To use your sensors widgets which you would have to add manually as shown above. A sensor bar will appear with as many sensors as on your panel. To view the temp as a number mouse over the sensor bar to see what your temperature is in a number. 
 
 To customize the sensors right click on the sensors applet :menuselection:`Configure "Sensors"`. The :guilabel:`Update interval(seconds)` field lets you choose how often in seconds to update the sensors. The :guilabel:`Temperature bar width` field shows how wide to make the bar for your sensors. The :guilabel:`Temperature scale` field lets you select :guilabel:`Celsius` or :guilabel:`Fahrenheit` for your sensors. The checkbox :guilabel:`Warning about high temperature` puts a warning if your temperature gets too high. The :guilabel:`Crit` field shows the temperture your CPU should not reach. If you want to reset your settings press the :guilabel:`Reset` button. 
 

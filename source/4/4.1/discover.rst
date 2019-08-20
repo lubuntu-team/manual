@@ -8,9 +8,7 @@ Discover allows you to search for applications by using the search box. Clicking
 
 On the top bar there is a a back button that is is a leftward pointed arrow to move back. There is a rightward pointed arrow to go forward in your history.
 
-To view user reviews of a program click on the text :guilabel:`Show All Reviews`. To exit the user reviews press :kbd:`Escape` or click outside the areas of reviews. 
-
-Below the reviews there is information on the package. 
+To view user reviews of a program click on the text :guilabel:`Show All Reviews`. To exit the user reviews press :kbd:`Escape` or click outside the areas of reviews. Below the reviews there is information on the package such as the version and liscense. 
 
 To search for programs in discover type in the search bar in the upper left or press :kbd:`Control + F`. To view featured applications press the blue rectangle on the top left hand corner. 
 

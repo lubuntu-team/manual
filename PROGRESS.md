@@ -68,7 +68,7 @@
 | :white_checkmark:     | 3.2.20      |
 | :white_checkmark:     | 4.1         |
 | :white_checkmark:     | 4.2         |
-| :construction_worker: | 4.3         |
+| :white_checkmark:     | 4.3         |
 | :white_checkmark:     | 5.1         |
 | :white_checkmark:     | 5.2         |
 | :white_checkmark:     | 5.3         |

@@ -50,12 +50,7 @@ Screenshot
 How to Launch
 -------------
 
-In Muon Package Manager :menuselection:`Settings --> Configure Software Sources`. Directly from the menu you can :menuselection:`Prefrences --> Software Sources`.
-
-
-In Discover Software Center :menuselection:`Settings --> Ubuntu (Default) --> Settings (Gear icon) --> Software Sources`.
-
-command line:   
+ To launch software properties from the menu you can :menuselection:`Prefrences --> Software Sources`. In Muon Package Manager :menuselection:`Settings --> Configure Software Sources`. In Discover Software Center :menuselection:`Settings --> Ubuntu (Default) --> Settings (Gear icon) --> Software Sources`. From the command line run 
 
 .. code:: 
 

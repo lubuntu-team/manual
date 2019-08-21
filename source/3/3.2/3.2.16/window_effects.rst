@@ -20,8 +20,6 @@ The :guilabel:`Opacity` tab is for transparency settings. Setting Opacity to 1.0
 
 The :guilabel:`Fade` tab manages fading windows opening or closing or opacity changes. There is a checkbox for :guilabel:`Fade windows during opactity changes` so if the opacity changes it will smoothly fade. To have a slower time between fade in milliseconds increase :guilabel:`The time between steps in a fade in miliseconds`. With this settings windows will fade in and out when opened and closed unless you don't them to which you can check the :guilabel:`Avoid fade in out when windows opening/closing`.  
 
-
-
 .. image:: compton_conf_fade.png
 
 The :guilabel:`Other` tab has settings for changing the backend of how compton renders things. The :guilabel:`Rendering backend` changes what compton uses to render the window effects. To switch to hardware accelerated rendering of the compton backend press the :guilabel:`GLX(OpenGL)` button. To change back to the default rendering press the :guilabel:`X Render` button.

@@ -14,7 +14,7 @@ The :guilabel:`Shadow` tab manages how compton draws shadows. To toggle enable c
 
 .. image:: window_effects.png
 
-The :guilabel:`Opacity` tab is for transparency settings. Setting Opacity to 1.00 makes it opaque while 0 makes it entirely clear. Menus, inactive windows, active windows titlebars and borders all can have their opacity changed independently. The :guilabel:`Blur background of transparent windows` blurs the background of transparent windows. To not change how far a window blurs on window transparency check the :guilabel:`Do not let blur radius adjust based on window opactiy`.
+The :guilabel:`Opacity` tab is for transparency settings. Setting Opacity to 1.00 makes it opaque while 0 makes it entirely clear. Menus, inactive windows, active windows, and titlebars and borders all can have their opacity changed independently. The :guilabel:`Blur background of transparent windows` blurs the background of transparent windows. To not change how far a window blurs on window transparency check the :guilabel:`Do not let blur radius adjust based on window opactiy`.
 
 .. image:: compton_conf_opacity.png
 

@@ -27,7 +27,7 @@ To save your monitor settings press the :guilabel:`Save` button and a pop up wil
 
 Multimonitor
 ------------
-With multiple monitors you can in the :guilabel:`Set position` tab you can drag the different screen around drag the two monitors around. The checkbox for :guilabel:`Keep monitor attached` pulls the monitors pixels adjacent to each other. To see which screen is which you will be labeled by their name which commonly is which port on your computer the monitor is connected to.
+With multiple monitors you can in the :guilabel:`Set position` tab you can drag the different screen around drag the two monitors around. The checkbox for :guilabel:`Keep monitor attached` pulls the monitors pixels adjacent to each other. To see which screen is which you will be labeled by their name which commonly is which port it is connected to your computer with.
 
 .. image:: multimonitor_settings.png
 

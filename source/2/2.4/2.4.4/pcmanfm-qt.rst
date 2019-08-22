@@ -6,9 +6,9 @@ Description
 PCManFM-Qt (PCMan File Manager) is a file manager application ported to Qt after the original developed by Hong Jen Yee from Taiwan which is meant to be a replacement for Nautilus, Konqueror and Thunar. 
 
 Features:
- - tabs
- - bookmarks
- - places sidebar with removable media or directory tree
+ - Tabs
+ - Bookmarks
+ - Places sidebar with removable media or directory tree
  - Ability to eject removable media
  - Ability to mount other filesystesms internally.
 

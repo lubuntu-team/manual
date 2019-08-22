@@ -17,6 +17,8 @@ To select the process below the currently selected one press :kbd:`Down Arrow` t
 
 You can press :kbd:`F1` or :kbd:`?`  to bring up a help dialog on htop. Pressing :kbd:`F3` or :kbd:`/` lets you search for a particular process. To reverse sort order press :kbd:`Shift +I`. Pressing :kbd:`F4` makes it so you can only see processes matching a certain pattern. To get out of the view of your search for a pattern press the :kbd:`Escape` key. Pressing :kbd:`F5` is what you press to view the processes in a tree. To get back to the default view press :kbd:`F5` again. Pressing :kbd:`F9` lets you kill a process with different signals to send to the process and 15 will terminate the process while 9 will Kill it. Lastly :kbd:`F10` will quit htop and return you to a terminal.
 
+.. image:: htop-filter.png
+
 To change how your process are sorted press :kbd:`F6` which will bring up your own menu to sort by by :guilabel:`PID`, :guilabel:`USER`, :guilabel:`Priority`, :guilabel:`NICE`, :guilabel:`M_Size`, :guilabel:`M_Resident`, :guilabel:`M_Share`, :guilabel:`State`, :guilabel:`Percent_CPU`, :guilabel:`Percent_Mem`, :guilabel:`Time`, or :guilabel:`Command`.  
 
 :kbd:`F2` brings about a customizable settings on htop. The :guilabel:`Meters` brings up meters like CPU average. The :guilabel:`Display Options` has option for different ways to display in htop. The :guilabel:`Colors` tab brings up different color schemes for htop.   

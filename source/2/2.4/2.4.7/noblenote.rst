@@ -3,9 +3,7 @@ Chapter 2.4.7 nobleNote
 
 nobleNote is an application to make a note on your desktop.
 
-Version
--------
-Lubuntu ships with version 1.0.8 of nobleNote.
+
 
 Usage
 ------
@@ -34,6 +32,10 @@ Screenshot
 .. image:: noblenote.png
 
 .. image:: noblenote-note.png
+
+Version
+-------
+Lubuntu ships with version 1.0.8 of nobleNote.
 
 How to launch
 -------------

@@ -7,10 +7,6 @@ KDE partition manager creates partitions and deletes partitions on your hard dri
 
  Deleting and creating new partitions can result in data loss so please back up your data before removing or creating partitions.
 
-Version
--------
-Lubuntu ships with version 3.3.1 of partition manager.
-
 Usage
 ------
 
@@ -42,6 +38,10 @@ Screenshot
 -----------
 .. image:: kde_partitionmanager.png
 
+Version
+-------
+Lubuntu ships with version 3.3.1 of partition manager.
+
 How to launch
 -------------
 To launch KDE Partition Manager from the :menuselection:`System Tools --> KDE Partition Manager` or run 
@@ -51,7 +51,6 @@ To launch KDE Partition Manager from the :menuselection:`System Tools --> KDE Pa
    partitionmanager 
    
 from the command line. 
-
 
 Customizing
 -----------

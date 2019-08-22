@@ -3,10 +3,6 @@ Chapter 2.5.1 K3b
 
 K3b is the default CD or DVD burning software on Lubuntu. 
 
-Version
--------
-Lubuntu ships with version 18.04.3 of K3b.
-
 Usage
 ------
 To start a new data project to save documents and other files :menuselection:`File --> New Project --> New Data Project`. To add files to a project :menuselection:`Add Files...`. After doing this a dialog to open files will open up. To select multiple files to add at this time press :kbd:`Control+ Left click` on the files. To start an audio CD but this will not allow general files but will be played in a CD player as audio with :menuselection:`File --> New Project --> New Audio CD Project`. To create a new video DVD that goes in a DVD player :menuselection:`File --> New Project --> New Video DVD Project`.
@@ -25,6 +21,10 @@ If you have a rewriteable disc you can open the dialog to erase the data from it
 
 
 If you want to Rip a cd or copy its contents to your computer :menuselection:`Tools --> Rip Audio CD`. Then the files will be selected and a button for :guilabel:`Start Ripping` will appear. To change what kind of file to save your files copied to your computer is under the :guilabel:`Filetype` drop down menu. To toggle whether to create a playlist based on the different tracks on the CD check/uncheck the :guilabel:`Create m3u playlist` for all the files on the disc. To choose where to save your files press the :guilabel:`Target Folder` or press the upward pointing arrow to bring a dialog box to choose where to save the file. To actually rip the media press the :guilabel:`Start ripping` button. 
+
+Version
+-------
+Lubuntu ships with version 18.04.3 of K3b.
 
 Screenshot
 ----------

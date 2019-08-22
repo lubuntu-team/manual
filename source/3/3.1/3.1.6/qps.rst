@@ -3,8 +3,6 @@ Chapter 3.1.6 qps
 
 qps is the graphical task manager included with Lubuntu. It is useful to close non-responsive programs.
 
-
-
 Usage
 ------
 To see your memory usage in qps look at the bar that says :guilabel:`MEM`. The bar for :guilabel:`CPU` usage shows CPU usage with a bar graph with usage with a bar graph for CPU usage. The :guilabel:`Uptime` in the top bar shows how long your computer has been running. A blue bar showing file input output shows graph in blue. Above this there is a green graph that shows your CPU usage as a graph. To show when a program was started with the :guilabel:`START` column. To have a view of process ID of each process use the :guilabel:`PID` column. The column :guilabel:`Command Line` shows what command line starts the process. To show which user the process is running on is in the :guilabel:`USER` column. 

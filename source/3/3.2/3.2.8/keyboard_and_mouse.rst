@@ -3,10 +3,6 @@ Chapter 3.2.8 Keyboard and Mouse
 
 Keyboard and Mouse is a program to change the behavior of your keyboard and mouse.
 
-Version
--------
-Lubuntu ships with version 0.14.1 of Keyboard and Mouse.
-
 Usage
 ------
 The :guilabel:`Mouse` tab provides settings for how fast the mouse moves scrolls and double clicks. To increase the sensitivity of the mouse drag the slider for :guilabel:`Sensitivity` towards the right or conversely to decrease sensitivity drag the slider towards less sensitivity. To increase acceleration of the mouse drag the :guilabel:`Acceleration` slider to the right for more acceleration and to make the mouse accelerate slower drag it to the left. The settings should apply immediately so make sure the mouse moves how you want it.
@@ -33,6 +29,9 @@ The :guilabel:`Mouse and Touchpad` tab has settings for touchpads. To select whi
 
 .. image:: lxqt-input-touchpad.png
 
+Version
+-------
+Lubuntu ships with version 0.14.1 of Keyboard and Mouse.
 
 How to launch
 -------------

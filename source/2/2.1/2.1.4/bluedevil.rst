@@ -3,12 +3,6 @@ Chapter 2.1.4 Bluedevil
 
 Bluedevil is the default application to manage bluetooth devices for lubuntu.
 
-
-
-Version
--------
-Lubuntu ships with version 5.14.4 of bluedevil. 
-
 Pairing
 -------
 To launch bluedevil to pair with a device from the menu :menuselection:`Internet --> Bluedevil Wizard`. If bluetooth is disabled you will be asked to enable it. In the main part of the window will show detected bluetooth devices under the heading :guilabel:`Select a device`. To choose a device to pair with left click on it. Click on the device you wish to add and press :guilabel:`Next`.  
@@ -21,6 +15,10 @@ To send a file to another device after pairing with the device :menuselection:`I
 
 .. image:: bluedevil-sendfile.png
 
+Version
+-------
+Lubuntu ships with version 5.14.4 of bluedevil.
+ 
 Screenshot
 ----------
 

@@ -4,11 +4,11 @@ Chapter 2.2.5 Libreoffice Writer
 Libreoffice Writer is a word processing application that is the default on Lubuntu.
 
 Features:
- - no ribbon
- - one button pdf export
- - many file formats to output
- - spellcheck
- - wordcount
+ - No ribbon
+ - One button pdf export
+ - Many file formats to output
+ - Spellcheck
+ - Wordcount
  
 Version
 -------

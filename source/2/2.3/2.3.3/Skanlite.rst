@@ -3,10 +3,6 @@ Chapter 2.3.3 Skanlite
 
 Skanlite is a scanning application. 
 
-Version
--------
-Lubuntu ships with version 2.1.0 of skanlite. 
-
 Usage
 ------
 To preview what you want to scan press the :guilabel:`Preview` button and you can make sure the scan is in a good position. With this done you can press the :guilabel:`Scan` button to scan the document after this a dialog will show up asking you were to save what you are scanning. If you want to cancel your scan midway through the scan or preview click on the red octagon with a white inside x button to cancel the scan while the scan is in progress. Then a file save dialog will pop up and type the file name you want in the :guilabel:`File name` field and then press the :guilabel:`Save` button.
@@ -22,6 +18,10 @@ To change the brightness of a scan slide the :guilabel:`Brightness` slider or in
 To select part of a scan you particularly want to save is to click over a preview of a scan and you will drag the selection with the mouse. To clear selections that can be automatically selected but canceled with a brown smudge with an x on it. If you want to zoom to your selection right click :guilabel:`Zoom to selection`. If you want to zoom to fit the whole entire page right click :guilabel:`Zoom to fit`. 
 
 To change to your specific options for your scanner use the :guilabel:`Scanner Specific Options` tab.
+
+Version
+-------
+Lubuntu ships with version 2.1.0 of skanlite. 
 
 Screenshot
 ----------

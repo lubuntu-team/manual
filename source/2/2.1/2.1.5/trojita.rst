@@ -7,10 +7,6 @@ Trojita is the default IMAP email client of Lubuntu.
 
   Trojita does not do POP3 so you cannot access your email that way with trojita.
 
-Version
--------
-Lubuntu Ships with version 0.7-0 of trojita.
-
 Usage
 ------
 To use trojita you will need to input your account information. You will need to type in your name so people know what call you and the email address so trojita needs to know what address to get information from. The :guilabel:`Imap` tab has settings for how to get messages to your machine. The :guilabel:`Encryption` method tells what kind of encryption to use when accessing your mail as needed for your mail provider. The :guilabel:`Server` field is where you input what server to get your email from. The :guilabel:`Port` tells trojita which network port to access the server on. The :guilabel:`Username` tells trojita which username to send to the email server.  
@@ -50,6 +46,10 @@ To change your view of trojita to view only one message at a time or the view of
 To take trojita into an offline mode where it will not try to access the internet :menuselection:`IMAP --> Network Access --> Offline` however you will need to switch it back to expensive access or free access to send or receive emails again. To switch back to an mode where you have no worry about data caps or how much network traffic is used :menuselection:`IMAP --> Network Access --> Free Access`. To throttle the amount of data used from trojita to not use up a data cap :menuselection:`IMAP --> Network Access --> Expensive Connection`. 
 
 If you want to quit trojita press :kbd:`Control+Q` or from the system tray right click there and select :menuselection:`Quit`. In the bottom right there is a system tray icon on the panel. When you recieve a new message the system tray icon will become blue and have the number of unread messages on it.
+
+Version
+-------
+Lubuntu Ships with version 0.7-0 of trojita.
 
 How to launch
 --------------

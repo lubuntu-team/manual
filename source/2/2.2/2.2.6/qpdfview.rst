@@ -4,16 +4,16 @@ Chapter 2.2.6 qpdfview
 qpdfview is the default pdf viewer for Lubuntu.
 
 Features:
- - tabs
- - presentation mode
- - zoom to entire page/ page width
- - rotating pages
- - outline, properties, thumbnail, and bookmark docks
- - printing support
- - annotation and highlighting 
- - bookmarks
- - customizable keyboard shortcuts
- - viewing postscript files
+ - Tabs
+ - Presentation mode
+ - Zoom to entire page/ page width
+ - Rotating pages
+ - Outline, properties, thumbnail, and bookmark docks
+ - Printing support
+ - Annotation and highlighting 
+ - Bookmarks
+ - Customizable keyboard shortcuts
+ - Viewing postscript files
 
 Usage
 ------

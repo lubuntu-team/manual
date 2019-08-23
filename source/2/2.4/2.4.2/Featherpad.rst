@@ -4,13 +4,13 @@ Chapter 2.4.2 Featherpad
 Featherpad is a lightweight text editor.
 
 It supports:
- - tabs
- - syntax highlighting
- - autoindent
- - autobracket
- - line numbers
- - search with find/replace
- - undo and redo
+ - Tabs
+ - Syntax highlighting
+ - Autoindent
+ - Autobracket
+ - Line numbers
+ - Search with find/replace
+ - Undo and redo
 
 Usage
 ------

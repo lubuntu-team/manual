@@ -5,11 +5,11 @@ Kcalc is a scientific calculator application.
 
 Features:
 
- - trigonometric functions
- - factorials
- - built in mathematical and scientific constants.
- - memory
- - copy and paste
+ - Trigonometric functions
+ - Factorials
+ - Built in mathematical and scientific constants.
+ - Memory
+ - Copy and paste
 
 Usage
 ------

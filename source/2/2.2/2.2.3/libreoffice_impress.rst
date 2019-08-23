@@ -4,10 +4,10 @@ Chapter 2.2.3 Libreoffice Impress
 Libreoffice Impress is a program to present presentations. 
 
 Features include:
- - in built themes
- - spell check
- - pdf export
- - images
+ - Built in themes
+ - Spell check
+ - Pdf export
+ - Images
 
 Usage
 ------

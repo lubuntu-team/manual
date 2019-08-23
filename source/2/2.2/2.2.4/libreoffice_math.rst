@@ -1,10 +1,6 @@
 Chapter 2.2.4 Libreoffice Math
 ==============================
 
-Version
--------
-Lubuntu ships with Version 6.2.2.2 of libreoffice math. 
-
 Screenshot
 ----------
 .. image:: libreoffice_math.png
@@ -24,6 +20,10 @@ The left hand side has many symbols you can use for say set relations and other 
 To change the fonts of your formulas :menuselection:`Format --> Fonts` which brings up a window for fonts for different contexts. To change your font size :menuselection:`Format --> Font sizes`. To bring up a menu to change your alignment :menuselection:`Format --> Alignment`.
 
 To quit Libreoffice Math press :kbd:`Control+Q`.
+
+Version
+-------
+Lubuntu ships with Version 6.2.2.2 of libreoffice math. 
 
 How to launch
 -------------

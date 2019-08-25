@@ -1,13 +1,13 @@
 Chapter 2.3.1 lximage
 =====================
 
-Lximage is the default image viewer for lubuntu. 
+Lximage is the default image viewer for Lubuntu. 
 
 Usage
 ------
 To open a picture press :menuselection:`File --> Open File`, :kbd:`Control + O`, or press the button that looks like a opening folder. To open a directory full of images press :kbd:`Control+D` or :menuselection:`File --> Open Directory`. If you do not like the picture press :kbd:`Del` or :menuselection:`File --> Delete`. To open a new window of lximage press :kbd:`Control +N` or :menuselection:`File --> New Window`. To view the properties of your image by :menuselection:`File --> File Properties`. To view your recently viewed pictures :menuselection:`File --> Recently Opened Files`. To reload your file after you save it again press :kbd:`Control +R` or :menuselection:`File --> Reload file`.
 
-If you want to upload a picture to share it online press :menuselection:`Edit --> Upload` and a new window will pop up with a drop down menu to show where to upload the picture to. To actually upload the file press :guilabel:`Start`. The url of the image will then show up from after it is finished uploading. You can then copy the url by selecting the text pressing :kbd:`Control+C`.
+If you want to upload a picture to share it online press :menuselection:`Edit --> Upload` and a new window will pop up with a drop down menu to show where to upload the picture to. To actually upload the file press :guilabel:`Start`. The URL of the image will then show up from after it is finished uploading. You can then copy the URL by selecting the text pressing :kbd:`Control+C`.
 
 .. image:: lximage_upload.png
 
@@ -15,15 +15,15 @@ To use lximage use the arrow to the right to view the next file in the folder an
 
 If you wish to print a picture after viewing it from the :menuselection:`File --> Pint` or press :kbd:`control+ p` to bring up a print dialog. To exit the window with a keyboard shortcut press the :kbd:`Escape` key.
 
-To rotate an image to the right press the circular arrow that points to the right, press :kbd:`R`, or go to :menuselection:`Edit --> Rotate Clockwise`. To rotate counterclockwise use the circular arrow pointing to the left, press :kbd:`L`, or :menuselection:`Edit -->Rotate Conterclockwise`. To zoom in on a picture press the icon with a magnifying glass with a + symbol on it, :menuselection:`View --> Zoom In`, or press :kbd:`control + +`. To zoom out press the button of a magnifying glass with a - symbol in it, :menuselection:`View --> Zoom Out` or press :kbd:`control + -`.    
+To rotate an image to the right press the circular arrow that points to the right, press :kbd:`R`, or go to :menuselection:`Edit --> Rotate Clockwise`. To rotate counterclockwise use the circular arrow pointing to the left, press :kbd:`L`, or :menuselection:`Edit -->Rotate Counterclockwise`. To zoom in on a picture press the icon with a magnifying glass with a + symbol on it, :menuselection:`View --> Zoom In`, or press :kbd:`control + +`. To zoom out press the button of a magnifying glass with a - symbol in it, :menuselection:`View --> Zoom Out` or press :kbd:`control + -`.    
 
-To flip your image on the vertical axis press :kbd:`V` or :menuselection:`Edit --> Flip Vertically`. To flip your image on the horizontal axis press :kbd:`H` or :menuselection:`Edit --> Flip Horizonatally`. 
+To flip your image on the vertical axis press :kbd:`V` or :menuselection:`Edit --> Flip Vertically`. To flip your image on the horizontal axis press :kbd:`H` or :menuselection:`Edit --> Flip Horizontally`. 
 
 To copy an image to the clipboard you can :menuselection:`Edit --> Copy to Clipboard`. To paste an image to the clipboard :menuselection:`Edit --> Paste from Clipboard`.  
 
-To view the next picture on your image press the :kbd:`right arrow` or :kbd:`page down` and conversly to view the previous image press the :kbd:`left arrow` or :kbd:`page up`.  You can also scroll between different pictures with the mousewheel as well. To jump to the first picture press :kbd:`home` or :menuselection:`Go --> First File`. To jump to the last picture press :kbd:`end` or :menuselection:`Go --> Last File`.   
+To view the next picture on your image press the :kbd:`right arrow` or :kbd:`page down` and conversely to view the previous image press the :kbd:`left arrow` or :kbd:`page up`.  You can also scroll between different pictures with the mousewheel as well. To jump to the first picture press :kbd:`home` or :menuselection:`Go --> First File`. To jump to the last picture press :kbd:`end` or :menuselection:`Go --> Last File`.   
 
-To view thumbnails of the current directory you can toggle thumbnails by pressing :kbd:`T` or :menuselection:`View --> Show Thumbnails` and thumbnails will show at the bottom  with a scrollbar at the bottom of the window to view the whole folder. To open the thumbnail of a picture in a another program such as one to edit that picture right click :menuselection:`Open click` and select the program you want to edit with. To reaname an image after viewing it right click on the thumbnail select :menuselection:`Rename` and type the filename for the picture you want. To move a file to the trash can right click on it and select :menuselection:`Move to Trash`.
+To view thumbnails of the current directory you can toggle thumbnails by pressing :kbd:`T` or :menuselection:`View --> Show Thumbnails` and thumbnails will show at the bottom  with a scrollbar at the bottom of the window to view the whole folder. To open the thumbnail of a picture in a another program such as one to edit that picture right click :menuselection:`Open click` and select the program you want to edit with. To rename an image after viewing it right click on the thumbnail select :menuselection:`Rename` and type the filename for the picture you want. To move a file to the trash can right click on it and select :menuselection:`Move to Trash`.
 
 .. image:: lximage-thumb.png
 

@@ -23,7 +23,7 @@ There are several ways to download the Lubuntu image:
 
 You can also download the image via Jigdo but we will not cover that in this manual.
 
-An easy download page which lists the HTTP and BitTorrent downloads is available `on the Lubuntu website's Downloads page <https://lubuntu.me/downloads/>`_, however for zsync downloads, you need to visit `cdimage.ubuntu.com <http://cdimage.ubuntu.com/lubuntu/>`_, which has the files listed.
+An easy download page which lists the HTTP and BitTorrent downloads is available `on the Lubuntu website's Downloads page <https://Lubuntu.me/downloads/>`_, however for zsync downloads, you need to visit `cdimage.ubuntu.com <http://cdimage.ubuntu.com/lubuntu/>`_, which has the files listed.
 
 Below you can find more detailed notes on each download method.
 
@@ -35,7 +35,7 @@ After you download the image, you **must** verify it, as this is the most common
 
 .. warning:: Downloading via HTTP and not verifying the image can lead to hours of frustration with even the developers quite confused what is happening with your system. With just one bit of the image flipped it will cause massive frustration and a failed install. 
 
-To do this the easiest way is the command line is to run for 64 bit lubuntu 19.04
+To do this the easiest way is the command line is to run for 64 bit Lubuntu 19.04
 
 .. code:: 
 

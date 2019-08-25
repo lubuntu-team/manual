@@ -1,7 +1,7 @@
-Chapter 2.2.2 Libreoffice Calc
+Chapter 2.2.2 LibreOffice Calc
 ==============================
 
-Libreoffice Calc is a spreadsheet program included by default in Lubuntu.
+LibreOffice Calc is a spreadsheet program included by default in Lubuntu.
 
 Usage
 ------
@@ -40,15 +40,15 @@ To create a new spreadsheet in the same file press the button on the bottom that
 
 To insert a special character not on your keyboard :menuselection:`Insert --> Special Character`. To select what character to insert left click in the center of the inserting character window. To actually insert the symbol press the :guilabel:`Insert` button.
 
-To quit Libreoffice Calc press :kbd:`Control+Q`.
+To quit LibreOffice Calc press :kbd:`Control+Q`.
 
 Version
 -------
-Lubuntu ships with version  6.2.2.2 of libreoffice Calc. 
+Lubuntu ships with version  6.2.2.2 of LibreOffice Calc. 
 
 How to launch
 -------------
-To launch libreoffice calc from the menu go to :menuselection:`Office --> Libreoffice Calc` or run 
+To launch LibreOffice Calc from the menu go to :menuselection:`Office --> LibreOffice Calc` or run 
 
 .. code::
 

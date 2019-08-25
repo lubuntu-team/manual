@@ -1,7 +1,7 @@
-Chapter 2.2.3 Libreoffice Impress
+Chapter 2.2.3 LibreOffice Impress
 =================================
 
-Libreoffice Impress is a program to present presentations. 
+LibreOffice Impress is a program to present presentations. 
 
 Features include:
  - Built in themes
@@ -11,7 +11,7 @@ Features include:
 
 Usage
 ------
-When you open libreoffice impress you will get a dialog to select a template with a preview select which one you want to use by left clicking and then click :guilabel:`Open`. If you want to search for a theme type into the :guilabel:`Search` towards the upper left. To not show this window at the start uncheck the :guilabel:`Show this dialog at startup` checkbox. To add a title to a slide click where it says click to add title. 
+When you open LibreOffice impress you will get a dialog to select a template with a preview select which one you want to use by left clicking and then click :guilabel:`Open`. If you want to search for a theme type into the :guilabel:`Search` towards the upper left. To not show this window at the start uncheck the :guilabel:`Show this dialog at startup` checkbox. To add a title to a slide click where it says click to add title. 
 
 .. image::    impress-theme-select.png
 
@@ -21,7 +21,7 @@ To open a previous presentation you have been working on press the button that l
 
 To type text into a presentation click in one of the boxes for your theme and type in the text with controls for the text on the right hand side. To insert a picture press the button with what looks like a photograph of a tree and select the file you want to insert or :menuselection:`Insert --> Image...`. To insert audio or video to your presentation :menuselection:`Insert --> Audio or video`.
 
-To change the layout of your slide :menuselection:`Slide --> Layout --> Your prefred layout`. To set an image as the background of your slide :menuselection:`Slide --> Set Background Image`.
+To change the layout of your slide :menuselection:`Slide --> Layout --> Your preferred layout`. To set an image as the background of your slide :menuselection:`Slide --> Set Background Image`.
 
 To apply a bold effects on your fonts select the text with the mouse and then press :kbd:`Control+ B` or :menuselection:`Format --> Text --> Bold`. To make text italic with first select it and then press :kbd:`Control + I` or :menuselection:`Format --> Text --> Italic`. To underline your text select it and then press :kbd:`Control+U` or :menuselection:`Format --> Text --> Underline`. 
 
@@ -37,7 +37,7 @@ To bring up a dialog to customize the character or your text :menuselection:`For
 
 .. image:: loformatcharacter.png
 
-To format the paragraphs and spacing of text :menuselection:`Format --> Paragraph`. The :guilabel:`Indents & Spacing` Tab has settings for indenting your text and the space between lines. To increase the indent right before the text starts increase the :guilabel:`Before text` field. To change the indentation after your text change the :guilabel:`After text` field. To have a different indent for your first line change the :guilabel:`First Line` filed. To change the amount of space above a paragraph change the :guilabel:`Above paragraph` field. To change the space below a paragraph change the :guilabel:`Below paragraph` field. To change the line spacing from this dialog window select the drop down menu :guilabel:`Line Spacing`. To reset your changes in this window press the :guilabel:`Reset` button. To not apply your changes press the :guilabel:`Cancel` button. To apply your changes and exit the window press the :guilabel:`Ok` button. To change settings on the alignment of text is on the :guilabel:`Alignment` tab. To choose which way you want your text aligned choose the :guilabel:`Left`, :guilabel:`Right`, :guilabel:`Center`, or :guilabel:`Justified`. To switch between left to right or right to left text switch the :guilabel:`Text direction` menu.   
+To format the paragraphs and spacing of text :menuselection:`Format --> Paragraph`. The :guilabel:`Indents & Spacing` Tab has settings for indenting your text and the space between lines. To increase the indent right before the text starts increase the :guilabel:`Before text` field. To change the indentation after your text change the :guilabel:`After text` field. To have a different indent for your first line change the :guilabel:`First Line` filed. To change the amount of space above a paragraph change the :guilabel:`Above paragraph` field. To change the space below a paragraph change the :guilabel:`Below paragraph` field. To change the line spacing from this dialog window select the drop down menu :guilabel:`Line Spacing`. To reset your changes in this window press the :guilabel:`Reset` button. To not apply your changes press the :guilabel:`Cancel` button. To apply your changes and exit the window press the :guilabel:`OK` button. To change settings on the alignment of text is on the :guilabel:`Alignment` tab. To choose which way you want your text aligned choose the :guilabel:`Left`, :guilabel:`Right`, :guilabel:`Center`, or :guilabel:`Justified`. To switch between left to right or right to left text switch the :guilabel:`Text direction` menu.   
 
 .. image:: loimpressparagraph.png
 
@@ -58,15 +58,15 @@ To insert the number of your slide :menuselection:`Insert --> Slide Number`.
 
 To change the zoom of you presentation :menuselection:`View --> Zoom --> Zoom` to bring up a window to manage your zoom. If you just want to zoom to fit the page width :menuselection:`View --> Zoom --> Page Width`. To change your zoom to 100 percent :menuselection:`View --> Zoom --> 100%`. 
 
-To bring up a dialog for the properties of your slides controlling background and shape with :menuselection:`Slide --> Properites`. To change the format for a different aspect ratio of projector or print format change the :guilabel:`Format` drop down menu. To select a custom width and height change the :guilabel:`Width` or :guilabel:`Height`. To switch to a portrait orientation press the :guilabel:`Portrait` button to the right of :guilabel:`Orientation`. To add margins to slides enter a margin in the :guilabel:`Left`, :guilabel:`Right`, :guilabel:`Top`, and :guilabel:`Bottom`. 
+To bring up a dialog for the properties of your slides controlling background and shape with :menuselection:`Slide --> Properties`. To change the format for a different aspect ratio of projector or print format change the :guilabel:`Format` drop down menu. To select a custom width and height change the :guilabel:`Width` or :guilabel:`Height`. To switch to a portrait orientation press the :guilabel:`Portrait` button to the right of :guilabel:`Orientation`. To add margins to slides enter a margin in the :guilabel:`Left`, :guilabel:`Right`, :guilabel:`Top`, and :guilabel:`Bottom`. 
 
 .. image::  slide-properties.png
 
-To change and choose a custom background use the :guilabel:`Background` tab. To choose a solid color background for your slide press the :guilabel:`Color` button. To choose a different backgound color choose a color below the :guilabel:`Color` heading. To change to a different color pallet change the :guilabel:`Pallete` drop down menu. To see what your current background color of the slide is shown under the :guilabel:`Active` label. To see what color you want to change is under :guilabel:`New` as a preview of the new background color. To the individual red, green, and blue of your colors change the :guilabel:`R`. :guilabel:`G`, and :guilabel:`B` fields respectively. To change the hexadecimal code for the color change the :guilabel:`Hex` field.  To actually change the color press the :guilabel:`OK` button. To cancel your change of background use the :guilabel:`Cancel` button. 
+To change and choose a custom background use the :guilabel:`Background` tab. To choose a solid color background for your slide press the :guilabel:`Color` button. To choose a different background color choose a color below the :guilabel:`Color` heading. To change to a different color pallet change the :guilabel:`Palette` drop down menu. To see what your current background color of the slide is shown under the :guilabel:`Active` label. To see what color you want to change is under :guilabel:`New` as a preview of the new background color. To the individual red, green, and blue of your colors change the :guilabel:`R`. :guilabel:`G`, and :guilabel:`B` fields respectively. To change the hexadecimal code for the color change the :guilabel:`Hex` field.  To actually change the color press the :guilabel:`OK` button. To cancel your change of background use the :guilabel:`Cancel` button. 
 
 .. image::  impress-background-color.png
 
-To choose a smooth transition use the :guilabel:`Gradient` button. To choose a preset gradient left click on the gradient on :guilabel:`Gradient` menu. To change the type of gradient use the :guilabel:`Type` and select it from the drop down menu. To see a picture of your background it is under the :guilabel:`Preview` text. To switch to manuully changing the number of steps in the gradient uncheck :guilabel:`Automatic` checkbox and then change the :guilabel:`Increment` field. To change the center of the graident change the two fields for :guilabel:`Center(X/Y)` to change the X and Y coordinates of the center. To rotate the  gradient use the :guilabel:`Angle` field. To change your first color of your gradient change the :guilabel:`From Color` drop down menu. To change the second color of the gradient change the :guilabel:`To Color` drop down menu. To change the opacity of either color change the field that is a :guilabel:`Percent` for changing opacity. To change where the color starts change the :guilabel:`Border` field. To choose a bitmap image as your background use the :guilabel:`Bitmap` tab. The :guilabel:`Bitmap` to the left shows you the bitmap pictures you can choose. The :guilabel:`Preview` shows you what your background will look like. To change what the bitmap does if it does not fit perfectly use :guilabel:`Style` drop menu. To scale as a percent of the image press the :guilabel:`Scale` checkbox. To change the where to start the bitmap change the :guilabel:`Position` drop down menu.
+To choose a smooth transition use the :guilabel:`Gradient` button. To choose a preset gradient left click on the gradient on :guilabel:`Gradient` menu. To change the type of gradient use the :guilabel:`Type` and select it from the drop down menu. To see a picture of your background it is under the :guilabel:`Preview` text. To switch to manually changing the number of steps in the gradient uncheck :guilabel:`Automatic` checkbox and then change the :guilabel:`Increment` field. To change the center of the gradient change the two fields for :guilabel:`Center(X/Y)` to change the X and Y coordinates of the center. To rotate the  gradient use the :guilabel:`Angle` field. To change your first color of your gradient change the :guilabel:`From Color` drop down menu. To change the second color of the gradient change the :guilabel:`To Color` drop down menu. To change the opacity of either color change the field that is a :guilabel:`Percent` for changing opacity. To change where the color starts change the :guilabel:`Border` field. To choose a bitmap image as your background use the :guilabel:`Bitmap` tab. The :guilabel:`Bitmap` to the left shows you the bitmap pictures you can choose. The :guilabel:`Preview` shows you what your background will look like. To change what the bitmap does if it does not fit perfectly use :guilabel:`Style` drop menu. To scale as a percent of the image press the :guilabel:`Scale` checkbox. To change the where to start the bitmap change the :guilabel:`Position` drop down menu.
 
 .. image::  impress-background-gradient.png
 
@@ -82,7 +82,7 @@ To move a slide down :menuselection:`Slide --> Move --> Slide Down`. To move a s
 
 To view your slides right next to each other :menuselection:`View --> Slide Sorter`. To rearrange your slides click and hold a slide and drag the slide between the slides you want to move to. To switch to an outline view of just text :menuselection:`View --> Outline`. To switch to an outline :menuselection:`View --> Outline`. To switch back to your normal view :menuselection:`View --> Normal`. 
 
-To quit libreoffice impress press :kbd:`Control+Q`.
+To quit LibreOffice impress press :kbd:`Control+Q`.
 
 Screenshot
 ----------
@@ -96,20 +96,20 @@ To insert an image click :menuselection:`Insert --> Image`. To drag your image t
 
 Slideshows/Presentations
 ------------------------
-To start a slideshow press :kbd:`f5` or the button the looks like a tv with a triangle on it or :menuselection:`Slide Show --> Start from First Slide.` To start a slideshow from the current slide press :kbd:`Shift + f5` or :menuselection:`Slide Show --> Start from current slide`. To exit the slideshow press :kbd:`escape`. To get to the next slide of the slideshow  left click or press the :kbd:`right arrow key`. to get to a previous slide in presentation mode press the :kbd:`left arrow key` or right click previous. To move back to your first slide press the :kbd:`Home` key. To move to your last slide press the :kbd:`End` key. 
+To start a slideshow press :kbd:`f5` or the button the looks like a TV with a triangle on it or :menuselection:`Slide Show --> Start from First Slide.` To start a slideshow from the current slide press :kbd:`Shift + f5` or :menuselection:`Slide Show --> Start from current slide`. To exit the slideshow press :kbd:`escape`. To get to the next slide of the slideshow  left click or press the :kbd:`right arrow key`. to get to a previous slide in presentation mode press the :kbd:`left arrow key` or right click previous. To move back to your first slide press the :kbd:`Home` key. To move to your last slide press the :kbd:`End` key. 
 
-To bring up custom settings for your settings :menuselection:`Slide Show --> Slide Show Settings`. To change the presentation to in a window press the :guilabel:`In a window` button. To have the slideshow or presentation repeat afterwards press the :guilabel:`Loop and repeat after:`. To change options on your presentation are under the :guilabel:`Options` heading. To toggle showing the mouse pointer check/uncheck the :guilabel:`Mouse pointer visible` checkbox. To toggle allowing animations check/uncheck the :guilabel:`Animations allowed` checkbox. To toggle chaning slides by clicking with the mouse check/uncheck the :guilabel:`Change slides by clicking on background` checkbox. To toggle the presentation always on top check/uncheck the :guilabel:`Presentation always on top` checkbox. 
+To bring up custom settings for your settings :menuselection:`Slide Show --> Slide Show Settings`. To change the presentation to in a window press the :guilabel:`In a window` button. To have the slideshow or presentation repeat afterwards press the :guilabel:`Loop and repeat after:`. To change options on your presentation are under the :guilabel:`Options` heading. To toggle showing the mouse pointer check/uncheck the :guilabel:`Mouse pointer visible` checkbox. To toggle allowing animations check/uncheck the :guilabel:`Animations allowed` checkbox. To toggle changing slides by clicking with the mouse check/uncheck the :guilabel:`Change slides by clicking on background` checkbox. To toggle the presentation always on top check/uncheck the :guilabel:`Presentation always on top` checkbox. 
   
 .. image:: slideshowprop.png
 
 
 Version
 -------
- Lubuntu ships with version 6.2.2.2 of libreoffice impress.
+ Lubuntu ships with version 6.2.2.2 of LibreOffice impress.
 
 How To launch
 -------------
-To launch go to the menu :menuselection:`Office --> Libreoffice Impress` or run  
+To launch go to the menu :menuselection:`Office --> LibreOffice Impress` or run  
 
 .. code:: 
 

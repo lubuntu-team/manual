@@ -7,7 +7,7 @@ Usage
 ------
 To view how much RAM is being used on your system is under :guilabel:`Mem` and then a [ number based on how many Gigabytes of memory. The :guilabel:`Swp` line lists how much swap is used. The numbers going down with a bar with a percentage next to them display usage on each of your CPU cores.
 
-:guilabel:`Load average` shows your system load over the past one five and fifteen minute is why there are three numbers see `wikipedia load (computing) <https://en.wikipedia.org/wiki/Load_(computing)>`_ for more information. :guilabel:`Uptime` shows how long your computer has been booted.
+:guilabel:`Load average` shows your system load over the past one five and fifteen minute is why there are three numbers see `Wikipedia load (computing) <https://en.wikipedia.org/wiki/Load_(computing)>`_ for more information. :guilabel:`Uptime` shows how long your computer has been booted.
 
 After the bottom there is a green bar that says :guilabel:`PID` for the Process ID of a user, The user the process responds to, :guilabel:`RES` is how much RAM the process is currently using. :guilabel:`CPU%` shows how much as a percent of CPU time the process is using, mem% is a percent of the RAM your process is using. :guilabel:`Time` shows how long the process has been running. :guilabel:`Command` shows the command line command of the process. To view any cut off part of the :guilabel:`Command` field press the :kbd:`Right Arrow` to view the cut off area of the window. To move your window back to where it was press  the :kbd:`Left Arrow` key.   
 

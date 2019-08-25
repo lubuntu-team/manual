@@ -39,7 +39,7 @@ Lubuntu ships with version 1.0.8 of nobleNote.
 
 How to launch
 -------------
-To launch nobleNote go to the menu :menuselection:`Acessories --> nobleNote` or run 
+To launch nobleNote go to the menu :menuselection:`Accessories --> nobleNote` or run 
 
 .. code:: 
    

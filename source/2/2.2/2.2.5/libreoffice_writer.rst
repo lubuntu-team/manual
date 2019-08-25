@@ -1,7 +1,7 @@
-Chapter 2.2.5 Libreoffice Writer
+Chapter 2.2.5 LibreOffice Writer
 ================================
 
-Libreoffice Writer is a word processing application that is the default on Lubuntu.
+LibreOffice Writer is a word processing application that is the default on Lubuntu.
 
 Features:
  - No ribbon
@@ -12,11 +12,11 @@ Features:
  
 Version
 -------
-Lubuntu ships with libreoffice writer 6.2.2.2
+Lubuntu ships with LibreOffice writer 6.2.2.2
 
 Usage
 ------
-To use libreoffice writer type what you wish to type into the main part of the window. If you wish to save your data press the icon that looks like a floppy disk or press :kbd:`control + s`. To open a previously saved document press the button that looks like a folder or press :kbd:`control + o`. To load or save a file from the menu :menuselection:`File --> Open` to open a file or :menuselection:`File --> Save`. To save your file as a new file name :menuselection:`File --> Save As`. To view your recent documents :menuselection:`File --> Recent Documents`. To have save your file as a pdf press the button that is a sheet of paper with curved red lines on it or go :menuselection:`File --> Export` and select the file type as pdf. To export as a PDF file :menuselection:`File --> Export AS --> Export as PDF`. This same export menu will let you save in formats for other programs for compatibility with microsoft word.
+To use LibreOffice writer type what you wish to type into the main part of the window. If you wish to save your data press the icon that looks like a floppy disk or press :kbd:`control + s`. To open a previously saved document press the button that looks like a folder or press :kbd:`control + o`. To load or save a file from the menu :menuselection:`File --> Open` to open a file or :menuselection:`File --> Save`. To save your file as a new file name :menuselection:`File --> Save As`. To view your recent documents :menuselection:`File --> Recent Documents`. To have save your file as a pdf press the button that is a sheet of paper with curved red lines on it or go :menuselection:`File --> Export` and select the file type as pdf. To export as a PDF file :menuselection:`File --> Export AS --> Export as PDF`. This same export menu will let you save in formats for other programs for compatibility with Microsoft word.
 
 .. image::     writer-save.png
 
@@ -32,7 +32,7 @@ To change alignment from this window use the :guilabel:`Alignment` tab. To chang
 
 .. image:: lowriter_paragraph.png
 
-To change what how the text deals with page breaks and paragraphs use the :guilabel:`Text Flow` tab. To automatically use hyphens check the :guilabel:`Automatically` checkbox. To change how many characters to leave before the hyphen change the :guilabel:`Characters at line end` field. To change how many character after the hyphen on the next line change the :guilabel:`Characters at line begin`. To set a maximum number or hyphens change the :guilabel:`Maximum number of consecutive hyphens` field. To toggle not putting a short bit of text at the bottom of a page or column check the :guilabel:`Orphan control` checkbox. To change how many lines to not allow to be seperated change the :guilabel:`lines` feild to the right of :guilabel:`Orphan control`. To stop a few lines of text alone at the top check the :guilabel:`Widow control` checkbox. To change how many lines you of text to change the :guilabel:`Lines` field to the right of :guilabel:`Widow control`. If you do not want orphan or widow control check the :guilabel:`Do not split paragraph` checkbox.
+To change what how the text deals with page breaks and paragraphs use the :guilabel:`Text Flow` tab. To automatically use hyphens check the :guilabel:`Automatically` checkbox. To change how many characters to leave before the hyphen change the :guilabel:`Characters at line end` field. To change how many character after the hyphen on the next line change the :guilabel:`Characters at line begin`. To set a maximum number or hyphens change the :guilabel:`Maximum number of consecutive hyphens` field. To toggle not putting a short bit of text at the bottom of a page or column check the :guilabel:`Orphan control` checkbox. To change how many lines to not allow to be separated change the :guilabel:`lines` field to the right of :guilabel:`Orphan control`. To stop a few lines of text alone at the top check the :guilabel:`Widow control` checkbox. To change how many lines you of text to change the :guilabel:`Lines` field to the right of :guilabel:`Widow control`. If you do not want orphan or widow control check the :guilabel:`Do not split paragraph` checkbox.
 
 .. image:: text-flow.png
 
@@ -50,7 +50,7 @@ If you want text in a text box that can be moved with the mouse press the button
 To check the spelling of your document press the ABC button with a checkmark, from the :menuselection:`Tools --> Spelling` or press :kbd:`f7`. When you have the spellcheck window open to change what language you are checking the spelling for change the :guilabel:`Text language` field. When you have what spell check thing is a typo it will be highlighted in red with context of where that appears in your document. If you think this is not an error just for this time press the :guilabel:`Ignore Once` button. To not change this at every time this occurs in the document press the :guilabel:`Ignore All` button. If what you wrote is correct and never want it marked wrong again press the :guilabel:`Add to Dictionary` button. Below what spellcheck thinks is an error will show :guilabel:`Suggestions` on what you it thinks it should correct. To select a different suggestions left click on it to select that suggestion. To replace what spellcheck thinks is an error with the suggestion press the :guilabel:`Correct` button. To replace the supposed error with the suggestion in the entire document press the :guilabel:`Correct All` button. To have this error be autocorrected press the :guilabel:`Always Correct` button. 
 
 
-To view how your document looks before printing it :menuselection:`File --> Print preview` or :kbd:`Control +Shift +O`. To get back to editing your document press the same thing again or click the close preview button. After you are done writing your document you can press the button that looks like a printer to print, press :kbd:`control+ p` or :menuselection:`File --> Print`. To change view or change your printer settings :menuselection:`File --> Printer settings`. To view your word count of how many words are currently in the document is with nothing selected at the bottom of the libreoffice writer window. If you select text with the mouse you can also see the word count of selection from the same spot.  
+To view how your document looks before printing it :menuselection:`File --> Print preview` or :kbd:`Control +Shift +O`. To get back to editing your document press the same thing again or click the close preview button. After you are done writing your document you can press the button that looks like a printer to print, press :kbd:`control+ p` or :menuselection:`File --> Print`. To change view or change your printer settings :menuselection:`File --> Printer settings`. To view your word count of how many words are currently in the document is with nothing selected at the bottom of the LibreOffice writer window. If you select text with the mouse you can also see the word count of selection from the same spot.  
 
 .. image::  lowriter-print.png
 
@@ -66,11 +66,11 @@ If you want to change your line spacing of your document :menuselection:`Format 
 
 To Insert a page number :menuselection:`Insert --> Field --> Page number`. To insert the current time into the document :menuselection:`Insert --> Field --> Time`. To insert the current date into the document :menuselection:`Insert --> Field --> Date`.  To insert the number of pages in the document :menuselection:`Insert --> Field --> Page count`.
 
-To have a header shown at the top of each page :menuselection:`Insert --> Header and footer --> Header --> Default style`. To have a footer at the bottom of each page :menuselection:`Insert--> Header and footer --> Footer --> Deafault style`. To get back to writing the main part of the document left click on the body of the document.  
+To have a header shown at the top of each page :menuselection:`Insert --> Header and footer --> Header --> Default style`. To have a footer at the bottom of each page :menuselection:`Insert--> Header and footer --> Footer --> Default style`. To get back to writing the main part of the document left click on the body of the document.  
 
 To add a comment inline into the document press :kbd:`Control+Alt+C` or right click and select :menuselection:`Comment`. Type your comment in the yellow box to the right to leave a note on that comment. To leave a reply to this comment press the downward pointing arrow :menuselection:`Reply`.
 
-To insert a mathematical formula into your document you are process :menuselection:`Insert --> Object --> Formula` and a user interface similar to libreoffice math will appear allowing you to insert the formula.
+To insert a mathematical formula into your document you are process :menuselection:`Insert --> Object --> Formula` and a user interface similar to LibreOffice math will appear allowing you to insert the formula.
 
 To select all text in the document press :kbd:`control + A` or :menuselection:`Edit --> Select All`. To jump to a specific page press :kbd:`Control + G` or :menuselection:`Edit --> Go to Page` and a dialog will pop up. To enter a page number in the :guilabel:`Page` field and click :guilabel:`OK` to go to that page.
 
@@ -80,7 +80,7 @@ To have a view of the document with no margins shown like on a webpage :menusele
 
 To toggle your view of rulers press :kbd:`Control + Shift +R` or :menuselection:`View --> Rulers --> Rulers`.  
 
-To bring up a window with properties of your document :menuselection:`File --> Properties`. The :guilabel:`General` tab shows metadata about the file including creation or modification time. The :guilabel:`Descrption` tab has fields to input title subject and keywords and lets you also put in comments. The :guilabel:`Title` is where you can optionally put the title on. The :guilabel:`Subject` is a field to input the subject of the document. The :guilabel:`Keywords` is to input keywords on the document. The :guilabel:`Comments` is where you can have comments about the document. To embed any fonts you have in the document click the :guilabel:`Font` tab and check the :guilabel:`Embed fonts in the document` checkbox. 
+To bring up a window with properties of your document :menuselection:`File --> Properties`. The :guilabel:`General` tab shows metadata about the file including creation or modification time. The :guilabel:`Description` tab has fields to input title subject and keywords and lets you also put in comments. The :guilabel:`Title` is where you can optionally put the title on. The :guilabel:`Subject` is a field to input the subject of the document. The :guilabel:`Keywords` is to input keywords on the document. The :guilabel:`Comments` is where you can have comments about the document. To embed any fonts you have in the document click the :guilabel:`Font` tab and check the :guilabel:`Embed fonts in the document` checkbox. 
 
 .. image:: lowriter-doc-properties.png 
 
@@ -88,11 +88,11 @@ To insert a watermark on the background of the page :menuselection:`Format --> W
 
 .. image:: lowriter_watermark.png
 
-To leave libreoffice writer press :kbd:`Control+Q`.
+To leave LibreOffice writer press :kbd:`Control+Q`.
 
 Columns
 -------
-To add multiple columns to your document :menuselection:`Format --> Columns`. To have multiple columns in the field that says :guilabel:`Columns` and set to the number of columns you want. To change the spacing between the two columns change the :guilabel:`Spacing` field. To have a line to seperate your columns use the :guilabel:`Style` drop down menu to select the lines. To change the color of your lines change the :guilabel:`Color` drop down menu. When you are done with your settings press the :guilabel:`OK` button or if you decide you do not want to make changes to columns press the :guilabel:`Cancel` button.
+To add multiple columns to your document :menuselection:`Format --> Columns`. To have multiple columns in the field that says :guilabel:`Columns` and set to the number of columns you want. To change the spacing between the two columns change the :guilabel:`Spacing` field. To have a line to separate your columns use the :guilabel:`Style` drop down menu to select the lines. To change the color of your lines change the :guilabel:`Color` drop down menu. When you are done with your settings press the :guilabel:`OK` button or if you decide you do not want to make changes to columns press the :guilabel:`Cancel` button.
 
 .. image:: columns.png
 
@@ -131,7 +131,7 @@ To add a row above your current row :menuselection:`Table --> Insert --> Rows Ab
 
 How to Launch
 -------------
-To launch go to menu :menuselection:`Office --> Libreoffice Writer` or run 
+To launch go to menu :menuselection:`Office --> LibreOffice Writer` or run 
 
 .. code:: 
 

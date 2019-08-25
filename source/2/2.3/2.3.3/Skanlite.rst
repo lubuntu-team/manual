@@ -21,7 +21,7 @@ To change to your specific options for your scanner use the :guilabel:`Scanner S
 
 Version
 -------
-Lubuntu ships with version 2.1.0 of skanlite. 
+Lubuntu ships with version 2.1.0 of Skanlite. 
 
 Screenshot
 ----------
@@ -29,7 +29,7 @@ Screenshot
 
 How to launch
 -------------
-To launch skanlite turn on your scanner and that it is connected to your computer. To launch the application go to the menu :menuselection:`Graphics --> Skanlite` or run 
+To launch Skanlite turn on your scanner and that it is connected to your computer. To launch the application go to the menu :menuselection:`Graphics --> Skanlite` or run 
 
 .. code:: 
 

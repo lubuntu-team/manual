@@ -36,7 +36,7 @@ To select text or an image from qpdfview press :kbd:`control+c` or :menuselectio
 
 To save your pdf file is to :menuselection:`File --> Save` or you can press :kbd:`Control + s`. You can save the file with a different name with :menuselection:`File --> Save as`. To save a copy of the document click :menuselection:`File --> Save a copy`. If you want to quit qpdfview press :kbd:`Control+Q`.  
 
-qpdfview also includes some very useful docks. To view the outline dock, in the menu select :menuselection:`View --> Docks --> Outline (make sure the button is checked)` or press :kbd:`F6` on the keyboard. It should appear on the left hand side of the pdf with collapsible sections and to expand or collaspe each section left click on the :menuselection:`-->`. To go to a particular part of the outline double click on that part of the outline. To see the entire outline right click on the outline and select :menuselection:`Expand all`. To have your outline back to the original state right click on it and select :menuselection:`Collapse all`. This is useful in navigating large pdfs. 
+qpdfview also includes some very useful docks. To view the outline dock, in the menu select :menuselection:`View --> Docks --> Outline (make sure the button is checked)` or press :kbd:`F6` on the keyboard. It should appear on the left hand side of the pdf with collapsible sections and to expand or collapse each section left click on the :menuselection:`-->`. To go to a particular part of the outline double click on that part of the outline. To see the entire outline right click on the outline and select :menuselection:`Expand all`. To have your outline back to the original state right click on it and select :menuselection:`Collapse all`. This is useful in navigating large pdfs. 
 
 .. image:: qpdfview-outline.png
 
@@ -50,7 +50,7 @@ To search through your pdf file you can press :kbd:`control + f` or from the men
 
 .. image:: qpdfview-search-bar.png
 
-To make qpdfview fullscreen you can press :kbd:`f11` or :menuselection:`View -->Fullscreen` . To enter presentation mode you can press :kbd:`f12` or :menuselection:`View --> Presentation` which makes the content of the pdf take up the fullscreen and gives you no menubars or toolbars. To exit presentation mode you can press :kbd:`f12` again. To advance to the next page in the presentation press the :kbd:`spacebar` or the :kbd:`right arrow`. To go back a page in presentation press the :kbd:`left arrow`. To exit the presentation press :kbd:`escape`. To go to the first page of the presentation press the :kbd:`Home` key. To go to the last page of the presetnation press the :kbd:`End` key.
+To make qpdfview fullscreen you can press :kbd:`f11` or :menuselection:`View -->Fullscreen` . To enter presentation mode you can press :kbd:`f12` or :menuselection:`View --> Presentation` which makes the content of the pdf take up the fullscreen and gives you no menubars or toolbars. To exit presentation mode you can press :kbd:`f12` again. To advance to the next page in the presentation press the :kbd:`spacebar` or the :kbd:`right arrow`. To go back a page in presentation press the :kbd:`left arrow`. To exit the presentation press :kbd:`escape`. To go to the first page of the presentation press the :kbd:`Home` key. To go to the last page of the presentation press the :kbd:`End` key.
 
 To make an annotation press :kbd:`Control +A` or :menuselection:`Edit --> Add annotation`. To view the annotation you have made or edit it again press click on what looks like a sticky note with a pin in it. To remove your annotation right click on the annotation and click :menuselection:`Remove annotation`. If you just want to highlight something right click on the text and select :menuselection:`add highlight` text.
 
@@ -66,14 +66,14 @@ Screenshot
 
 Customizing
 -----------
-To add your own settings to qpdfview you can get to a settings window with :menuselection:`Edit --> Settings`. The checkbox :guilabel:`Open URL` allows you to turn on or off Opening URLs or links within qpdfview. The :guilabel:`Auto-refresh` checkbox reloads the pdf whenever the file changes which is useful for authoring pdf files. To have qpdfview keep track of recently check the :guilabel:`Track recently used` checkbox. To keep track of recently closed documents check the :guilabel:`Keep recenlty closed` checkbox. To open the tabs you had open last time with qpdfview the next time you open the program check the :guilabel:`Restore tabs` checkbox. To change what screen you use for presentations change the :guilabel:`Presentation Screen` field to the number of the screen you want to use. To change the page in the main view in addition with the presentation check the :guilabel:`Synchronize presentation` checkbox. To have your outline dock follow where you currently are in the pdf check the :guilabel:`Syncrhonize outline view` checkbox. If you want to scroll once to change an entire page check the :guilabel:`Minimal scrolling` checkbox. To change the color of highlights type a hex number for a color or select one from the :guilabel:`Highlight Color` drop down menu.
+To add your own settings to qpdfview you can get to a settings window with :menuselection:`Edit --> Settings`. The checkbox :guilabel:`Open URL` allows you to turn on or off Opening URLs or links within qpdfview. The :guilabel:`Auto-refresh` checkbox reloads the pdf whenever the file changes which is useful for authoring pdf files. To have qpdfview keep track of recently check the :guilabel:`Track recently used` checkbox. To keep track of recently closed documents check the :guilabel:`Keep recently closed` checkbox. To open the tabs you had open last time with qpdfview the next time you open the program check the :guilabel:`Restore tabs` checkbox. To change what screen you use for presentations change the :guilabel:`Presentation Screen` field to the number of the screen you want to use. To change the page in the main view in addition with the presentation check the :guilabel:`Synchronize presentation` checkbox. To have your outline dock follow where you currently are in the pdf check the :guilabel:`Synchronize outline view` checkbox. If you want to scroll once to change an entire page check the :guilabel:`Minimal scrolling` checkbox. To change the color of highlights type a hex number for a color or select one from the :guilabel:`Highlight Color` drop down menu.
 
 .. image:: qpdfviewprefrences.png
 
 
 If you want to reset these settings to the defaults is to press the :guilabel:`Defaults` button. If you just want defaults on the current tab you can press the :guilabel:`Defaults on current tab` button. If you want to return to viewing your pdf with the same settings press the :guilabel:`OK` button. If you wish to discard your changes press the :guilabel:`Cancel` button.     
 
-To deal with settings on graphics press press on the :guilabel:`Graphics` tab. The settings for paper color will has a drop down menu for previewing what it is like printing on colored paper. The checkbox :guilabel:`Prefetch` will preload pages not directly viewed by the pdf viewer not directly on the screen however this will use more resources. The drop down for :guilabel:`Cache size` will increase laoding speed but will use more resources. The :guilabel:`Prefetch` checkbox loads pages before you view them. The :guilabel:`Prefetch distance` tells you how many pages away from where you are to load. The field for :guilabel:`Presentation background color` sets the color of the background for presentations. The :guilabel:`Cache size` increases the size of the cache which will apply more system resources to run heavy pdfs like hundred of pages of full color artwork. 
+To deal with settings on graphics press press on the :guilabel:`Graphics` tab. The settings for paper color will has a drop down menu for previewing what it is like printing on colored paper. The checkbox :guilabel:`Prefetch` will preload pages not directly viewed by the pdf viewer not directly on the screen however this will use more resources. The drop down for :guilabel:`Cache size` will increase loading speed but will use more resources. The :guilabel:`Prefetch` checkbox loads pages before you view them. The :guilabel:`Prefetch distance` tells you how many pages away from where you are to load. The field for :guilabel:`Presentation background color` sets the color of the background for presentations. The :guilabel:`Cache size` increases the size of the cache which will apply more system resources to run heavy pdfs like hundred of pages of full color artwork. 
 
 .. image:: qpdfview-graphics.png
  
@@ -81,7 +81,7 @@ The :guilabel:`PDF` subtab of the graphics tab has settings for font and paper c
 
 .. image:: Graphic_PDF_subtab.png
 
-The :guilabel:`PS` subtab manages how Postcript files appear on the screen. To change how many bits are used for antialiasing graphics change the :guilabel:`Graphics antialias bits` field. To change the number of bits of text antialiasing change :guilabel:`Text antialiasing bits` field.
+The :guilabel:`PS` subtab manages how Postscript files appear on the screen. To change how many bits are used for antialiasing graphics change the :guilabel:`Graphics antialias bits` field. To change the number of bits of text antialiasing change :guilabel:`Text antialiasing bits` field.
 
 .. image::  graphics-postscript.png
 
@@ -89,7 +89,7 @@ To change the interface settings click on the :guilabel:`Interface` tab.  If you
 
 .. image:: qpdfview-interface.png
 
-The :guilabel:`Shortcuts` tab provides the ability to customize keyboard shortcuts. The :guilabel:`Action` column is what is keyboard shortcut does. The :guilabel:`Key seqeunce` column shows the keyboard shortcut. Double click in the key sequence column and type in your desired keyboard shortcut to change the keyboard shortcut.
+The :guilabel:`Shortcuts` tab provides the ability to customize keyboard shortcuts. The :guilabel:`Action` column is what is keyboard shortcut does. The :guilabel:`Key sequence` column shows the keyboard shortcut. Double click in the key sequence column and type in your desired keyboard shortcut to change the keyboard shortcut.
 
 .. image::   qpdfview-shortcuts.png
 

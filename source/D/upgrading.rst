@@ -21,7 +21,7 @@ The first step will be to ensure your system is up to date. This can be done by 
 
 .. image:: terminal_upgrade.png
 
-Once the software upgrade has completed, you want to restart your pc. This can be done in a number of ways however, the following command is the simplest.
+Once the software upgrade has completed, you want to restart your PC. This can be done in a number of ways however, the following command is the simplest.
 
 .. code::
 
@@ -34,6 +34,6 @@ The next thing you want to do is do the release upgrade. do-release-upgrade is t
 
     sudo do-release-upgrade
 
-You may be prompted "No new release found", if so follow this step, else skip it. Go into software sources by :menuselection:`Prefrences --> Software Sources` and on the :guilabel:`Updates` tab change :guilabel:`Show new distrubtion releases` and select :menuselection:`Normal Releases`.
+You may be prompted "No new release found", if so follow this step, else skip it. Go into software sources by :menuselection:`Preferences --> Software Sources` and on the :guilabel:`Updates` tab change :guilabel:`Show new distribution releases` and select :menuselection:`Normal Releases`.
 
-After the installation, reboot into the newly upgraded system and log in and enjoy your upgraded release of lubuntu. 
+After the installation, reboot into the newly upgraded system and log in and enjoy your upgraded release of Lubuntu. 

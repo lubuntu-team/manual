@@ -6,7 +6,7 @@ Welcome to the Lubuntu Manual! This is the official reference book for using Lub
 What is Lubuntu?
 ----------------
 
-The project’s goal is to provide a lightweight yet functional Linux distribution based on a rock-solid Ubuntu base. Lubuntu provides a simple but modern and powerful graphical user interface, and comes with a wide variety of applications so you can browse, email, chat, play, and be productive. Lubuntu was formerly a distribution for low-end hardware, but `we have recently refocused <https://lubuntu.me/taking-a-new-direction/>`_.
+The project’s goal is to provide a lightweight yet functional Linux distribution based on a rock-solid Ubuntu base. Lubuntu provides a simple but modern and powerful graphical user interface, and comes with a wide variety of applications so you can browse, email, chat, play, and be productive. Lubuntu was formerly a distribution for low-end hardware, but `we have recently refocused <https://Lubuntu.me/taking-a-new-direction/>`_.
 
 Members of the team take care of LXQt and other packages that are part of Lubuntu in the Ubuntu archive, as well as the LXDE packages in the LTS releases of Lubuntu. Lubuntu received official recognition as a formal member of the Ubuntu family beginning with Lubuntu 11.10.
 

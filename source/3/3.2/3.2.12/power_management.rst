@@ -20,7 +20,7 @@ The :guilabel:`Lid` tab manages settings for when you close your laptop lid. The
 
 The Checkbox :guilabel:`When using external monitor` Allows you to have different settings when your laptop for closing the lid if you are plugged in to an external monitor. The fields :guilabel:`On Battery` and :guilabel:`On AC` function as above just different settings when plugged into an external monitor. 
 
-The :guilabel:`Idle` tab manages what happens when you walk away from your keyboard. The :guilabel:`When idle then` you slect whether you want to do nothing, Lock Screen, Suspend, hibernate, Shutdown or turn off monitor. The :guilabel:`Idle time` fields tell you how long to wait when you are away before the idleness watcher takes the action you wish. 
+The :guilabel:`Idle` tab manages what happens when you walk away from your keyboard. The :guilabel:`When idle then` you select whether you want to do nothing, Lock Screen, Suspend, hibernate, Shutdown or turn off monitor. The :guilabel:`Idle time` fields tell you how long to wait when you are away before the idleness watcher takes the action you wish. 
 
 To reset your changes if you decide not to use them press the :guilabel:`Reset` button. To close power management press the :kbd:`Escape` key.
 

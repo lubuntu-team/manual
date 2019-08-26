@@ -10,7 +10,7 @@ Lubuntu ships with version 0.14.1 of appearance.
 
 Usage
 ------
-The tab :guilabel:`Widget Style` changes the way windows, buttons, and menus are drawn. To change the usage Qt widget will change the buttons and tooblbars look on lubuntu in Qt applications. Check the checkbox :guilabel:`Set GTk themes` settings will apply native themes to GTk applications. The field for :guilabel:`GTK 2 Theme` will select a theme for GTK2 applications. The :guilabel:`GTK 3 Theme` field sets the theme with GTK3 applications. The checkbox :guilabel:`Activate on single click` has makes things you normally need two clicks for one click.  
+The tab :guilabel:`Widget Style` changes the way windows, buttons, and menus are drawn. To change the usage Qt widget will change the buttons and tooblbars look on Lubuntu in Qt applications. Check the checkbox :guilabel:`Set GTk themes` settings will apply native themes to GTk applications. The field for :guilabel:`GTK 2 Theme` will select a theme for GTK2 applications. The :guilabel:`GTK 3 Theme` field sets the theme with GTK3 applications. The checkbox :guilabel:`Activate on single click` has makes things you normally need two clicks for one click.  
 
  .. image:: appearance.png
 

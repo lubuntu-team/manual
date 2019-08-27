@@ -76,7 +76,7 @@ Chapter 2.3 Graphics Applications
 
 2.3.1 LXimage
 
-2.3.2 Screeenshot
+2.3.2 ScreenGrab
 
 2.3.3 Skanlite
 

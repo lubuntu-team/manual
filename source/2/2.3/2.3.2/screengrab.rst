@@ -1,5 +1,5 @@
-Chapter 2.3.2 Screengrab
+Chapter 2.3.2 ScreenGrab
 ========================
 
-Screengrab is the default screenshot tool for Lubuntu 19.10 or later
+ScreenGrab is the default screenshot tool for Lubuntu 19.10 or later.
 

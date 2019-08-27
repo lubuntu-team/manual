@@ -3,6 +3,10 @@ Chapter 2.3.2 ScreenGrab
 
 ScreenGrab is the default screenshot tool for Lubuntu 19.10 or later.
 
+Usage
+-----
+To take a new screenshot press the button with a pice of paper with a :guilabel:`+` on it. After doing this a preview will appear in the center of the window. If you want to save this screenshot press the save downward pointing arrow.
+
 Version
 -------
 Lubuntu ships with version 1.101 of ScreenGrab.

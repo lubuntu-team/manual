@@ -216,3 +216,5 @@ C. Command Line
 D. Upgrading from previous releases.
 
 E. Live session
+
+F. Shortcut Keys

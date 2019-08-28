@@ -7,7 +7,7 @@ Usage
 -----
 To take a new screenshot press the button with a pice of paper with a :guilabel:`+` on it or press :kbd:`Control+N`. After doing this a preview will appear in the center of the window. If you want to save this screenshot press the save downward pointing arrow or press :kbd:`Control+S`. To copy your screenshot to a clipboard press the button with two pieces of paper or press :kbd:`Control+C`. To edit your screenshot in an image editor :menuselection:`Edit in` and select the program you want to use to edit. To quit ScreenGrab press :kbd:`Escape`.
 
-To change what mode to select what are of the screen to take a screenshot from change the :guilabel:`Type` drop down menu. 
+To change what mode to select what are of the screen to take a screenshot from change the :guilabel:`Type` drop down menu. To change how long to delay before taking the screenshot change the :guilabel:`Delay` field.
 
 Version
 -------

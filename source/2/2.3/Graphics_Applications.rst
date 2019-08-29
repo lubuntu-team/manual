@@ -8,5 +8,5 @@ This chapters documents programs with viewing pictures, taking screenshots, and 
   :titlesonly:
 
   2.3.1/lximage
-  2.3.2/screenshot
+  2.3.2/screengrab
   2.3.3/Skanlite

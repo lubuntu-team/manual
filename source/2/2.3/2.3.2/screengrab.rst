@@ -9,6 +9,10 @@ To take a new screenshot press the button with a pice of paper with a :guilabel:
 
 To change what mode to select what are of the screen to take a screenshot from change the :guilabel:`Type` drop down menu. To change how long to delay before taking the screenshot change the :guilabel:`Delay` field. To inlcude the mouse pointer in your screenshot check the :guilabel:`Include mouse pointer` checkbox.
 
+Screenshot
+----------
+.. image:: screengrab.png
+
 Version
 -------
 Lubuntu ships with version 1.101 of ScreenGrab.

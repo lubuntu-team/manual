@@ -24,3 +24,7 @@ To launch ScreenGrab :menuselection:`Graphics --> ScreenGrab` or from the comman
 .. code::
 
    screengrab  
+
+Customizing
+-----------
+To change your settings on ScreenGrab press the gear button or press :kbd:`Control +P`. The :guilabel:`Main` tab has settings for how to your screenshot. To change where ScreenGrab saves files by default change the :guilabel:`Default save directory` field or press :guilabel:`Browse` button to pop up a dialog to choose where to save.

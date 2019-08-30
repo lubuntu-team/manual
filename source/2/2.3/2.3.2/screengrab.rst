@@ -33,4 +33,6 @@ To change your settings on ScreenGrab press the gear button or press :kbd:`Contr
 
 To restore your options to default press the :guilabel:`Restore Defaults` button. To cancel making changes press the :guilabel:`Cancel` button. To save your changes press the :guilabel:`Save button`.
 
+To change your settings on multiple windows and automattically saving use the :guilabel:`Advanced` tab. To automatically insert a time and date in the file name check the :guilabel:`Isert current date and time in file name` checkbox. To change how this date appears enter the date in the :guilabel:`Template` field.
+
 

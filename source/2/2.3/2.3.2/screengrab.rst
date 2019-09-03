@@ -37,5 +37,5 @@ To change your settings on multiple windows and automattically saving use the :g
 
 .. image:: ScreenGrab-advanced.png
 
-
+To changes with how ScreenGrab shows in the system tray use the :guilabel:`System tray` tab. To toggle showing screengrab in the system tray check/uncheck the :guilabel:`Show ScreenGrab in the system tray` checkbox.
 

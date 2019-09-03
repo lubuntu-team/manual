@@ -3,8 +3,6 @@ Chapter 2.4.7 nobleNote
 
 nobleNote is an application to make a note on your desktop.
 
-
-
 Usage
 ------
 To start a new note right click on the right hand column new note or :menuselection:`Edit --> New note`. Then enter a title for this note. To open a note double click on that note from the right hand column which will open a new window with your note in it. To input text in the note type in the main body of this window after clicking on it. To rename your not to something else press :kbd:`Control+Shift+R` or :menuselection:`Edit --> Rename note`.  

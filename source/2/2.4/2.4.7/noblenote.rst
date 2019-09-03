@@ -33,7 +33,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 1.0.8 of nobleNote.
+Lubuntu ships with version 1.2.0 of nobleNote.
 
 How to launch
 -------------

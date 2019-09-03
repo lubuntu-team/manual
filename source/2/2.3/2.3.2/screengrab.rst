@@ -35,4 +35,7 @@ To restore your options to default press the :guilabel:`Restore Defaults` button
 
 To change your settings on multiple windows and automattically saving use the :guilabel:`Advanced` tab. To automatically insert a time and date in the file name check the :guilabel:`Isert current date and time in file name` checkbox. To change how this date appears enter the date in the :guilabel:`Template` field. To automatically save each screenshot check the :guilabel:`Autosave screenshot` checkbox. To save the first screenshot check the :guilabel:`Save first screenshot` checkbox. To allow more than one screengrab window check the :guilabel:`Allow multiple instances of ScreenGrab` checkbox.
 
+.. image:: ScreenGrab-advanced.png
+
+
 

@@ -41,4 +41,4 @@ To changes with how ScreenGrab shows in the system tray use the :guilabel:`Syste
 
 .. image:: ScreenGrab-systray.png
 
-To change what your keyboard shortcuts ScreenGrab uses select the :guilabel:`Shortcuts` tab. To see what each shortcut does is on the :guilabel:`Action` column.
+To change what your keyboard shortcuts ScreenGrab uses select the :guilabel:`Shortcuts` tab. To see what each shortcut does is on the :guilabel:`Action` column. To see what key to press get have the action happen is listed in the :guilabel:`Shortcut` column.

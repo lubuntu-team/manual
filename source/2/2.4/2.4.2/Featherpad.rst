@@ -49,7 +49,7 @@ To print a text :menuselection:`File --> Print` or press :kbd:`control + p`. To 
 .. image:: featherpad.png
   :width: 80% 
 
-To open a spell check window press :kbd:`F2` or :menuselection:`Edit --> Check Spelling`. If the spell check does not find a what you typed that spellcheck does not recognize will be shown from :guilabel:`Unknown word` followed by what is typed. If this is correct press the :guilabel:`Add To Dictionary` button to never have to deal with spellcheck marking this wrong again.
+To open a spell check window press :kbd:`F2` or :menuselection:`Edit --> Check Spelling`. If the spell check does not find a what you typed that spellcheck does not recognize will be shown from :guilabel:`Unknown word` followed by what is typed. If this is correct press the :guilabel:`Add To Dictionary` button to never have to deal with spellcheck marking this wrong again. To see what is wanted as a replacment for a typo see :guilabel:`Replace with` for the first suggestion and beneath this is a list of things to replace with.
 
 Customizing
 ------------

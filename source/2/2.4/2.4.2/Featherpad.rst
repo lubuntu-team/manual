@@ -49,6 +49,8 @@ To print a text :menuselection:`File --> Print` or press :kbd:`control + p`. To 
 .. image:: featherpad.png
   :width: 80% 
 
+To open a spell check window press :kbd:`F2` or :menuselection:`Edit --> Check Spelling`.
+
 Customizing
 ------------
 To view the preferences for featherpad press :kbd:`control +Shift +P` or :menuselection:`Options --> Preferences`. To change settings on the featherpad window itself are on the :guilabel:`Window` tab. To have featherpad be the same size as when you last closed it check the :guilabel:`Remember window size on Closing` checkbox. To start with the side-pane on Featherpad check the :guilabel:`Start with side-pane mode`. To toggle Featherpad using its own icons rather than your icon theme check/uncheck the :guilabel:`Use own icons` checkbox.  To hide the toolbar you can press the :guilabel:`do not show toolbar` checkbox. To not show the menubar by default check the :guilabel:`Do not show menubar` checkbox. The :guilabel:`Tab position` moves where the tab around on the screen. To hide the tabbar with only one tab check the :guilabel:`Do not show a single tab` checkbox. To have the searchbar hidden by default check the :guilabel:`Hide search bar by default` checkbox. To have the window close after closing the last tab check the :guilabel:`Close window on closing its last tab`. To have featherpad open a new window when you are on a different virtual desktop check the :guilabel:`Always open in separate windows` checkbox. The checkbox :guilabel:`Native file dialog` uses the systems file dialog to integrate with the system.

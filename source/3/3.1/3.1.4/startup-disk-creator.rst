@@ -24,7 +24,7 @@ Lubuntu ships version 0.3.7 of Startup Disk Creator.
 
 How to Launch
 -------------
-To launch startup disc creator :menuselection:`System Tools --> Startup disk creator` or run 
+To launch startup disc creator :menuselection:`System Tools --> Startup Disk Creator` or run 
 
 .. code::
 

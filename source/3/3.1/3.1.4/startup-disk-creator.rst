@@ -20,7 +20,7 @@ To actually create the disk press the :guilabel:`Make Startup Disk` button. A di
 
 Version
 -------
-Lubuntu ships version 0.3.5 of Startup Disk Creator.
+Lubuntu ships version 0.3.7 of Startup Disk Creator.
 
 How to Launch
 -------------

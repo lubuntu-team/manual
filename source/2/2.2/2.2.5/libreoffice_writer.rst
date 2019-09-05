@@ -12,7 +12,7 @@ Features:
  
 Version
 -------
-Lubuntu ships with LibreOffice writer 6.2.2.2
+Lubuntu ships with LibreOffice writer 6.3.0.4
 
 Usage
 ------

@@ -10,9 +10,6 @@ Features:
  - Spellcheck
  - Wordcount
  
-Version
--------
-Lubuntu ships with LibreOffice writer 6.3.0.4
 
 Usage
 ------
@@ -128,6 +125,10 @@ To insert a table :menuselection:`Table --> Insert Table` and a table dialog win
 .. image:: table_insterting.png 
 
 To add a row above your current row :menuselection:`Table --> Insert --> Rows Above`. To add a row below the current row :menuselection:`Table --> Insert --> Rows Below`. To add a column before the current one :menuselection:`Table --> Insert --> Columns Before`. To add a column after the current one :menuselection:`Table --> Insert --> Columns After`. To add multiple rows or columns :menuselection:`Table --> Insert --> Rows` or :menuselection:`Table --> Insert --> Column`. To switch how many of multiple rows or columns change the :guilabel:`Number` field. To switch to adding rows or columns above or below press the :guilabel:`Below Selection` button. To actually add the rows or columns press the :guilabel:`OK` button. To delete a row :menuselection:`Table --> Delete --> Rows`. To delete a column :menuselection:`Table --> Delete --> Columns`. To delete the whole table :menuselection:`Table --> Delete --> Table`.
+
+Version
+-------
+Lubuntu ships with LibreOffice writer 6.3.0.4
 
 How to Launch
 -------------

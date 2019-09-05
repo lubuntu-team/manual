@@ -15,7 +15,7 @@ Discover allows you to update software using the Updates tab located on the bott
 
 .. image:: update-authentication.png
 
-To remove software use the :guilabel:`Installed` tab or press :kbd:`Alt +I`. You can browse your installed packages, search using the search bar (upper left corner), and the click the remove button to remove software by pressing the :guilabel:`Remove` button. If you have a program installed there will also be a :guilabel:`Launch` button will actually launch this program.
+To remove software use the :guilabel:`Installed` tab or press :kbd:`Alt +I`. You can browse your installed packages, search using the search bar (upper left corner), and the click the remove button to remove software by pressing the :guilabel:`Remove` button. To view more details on the program left click on it. If you have a program installed there will also be a :guilabel:`Launch` button will actually launch this program.
 
 .. image:: discover-installed.png
 

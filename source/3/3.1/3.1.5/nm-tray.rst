@@ -24,7 +24,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 0.4.1 of nm-tray.
+Lubuntu ships with version 0.4.2 of nm-tray.
 
 How to launch
 -------------

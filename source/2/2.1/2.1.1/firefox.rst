@@ -65,7 +65,7 @@ To manage your search settings use the :guilabel:`Search` tab on preferences. Th
 
 Version
 ----------
-Lubuntu currently ships with the latest version of Firefox, Firefox Quantum.
+Lubuntu currently ships with the latest version of Firefox, Firefox 68.
 
 How to launch
 ----------------

@@ -78,7 +78,7 @@ To customize your shortcuts for KCalc :menuselection:`Settings --> Configure Set
 
 Version
 -------
-Lubuntu ships with version 18.12.3 of Kcalc.
+Lubuntu ships with version 19.04.3 of Kcalc.
 
 How to launch
 -------------

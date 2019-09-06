@@ -17,7 +17,7 @@ To send a file to another device after pairing with the device :menuselection:`I
 
 Version
 -------
-Lubuntu ships with version 5.14.4 of Bluedevil.
+Lubuntu ships with version 5.16.5 of Bluedevil.
  
 Screenshot
 ----------

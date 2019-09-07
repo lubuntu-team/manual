@@ -50,6 +50,8 @@ To move settings with a box of text left click on the border of the box of text.
 
 To search for text press :kbd:`Control + F` or :menuselection:`Edit --> Find` to search for text. To find and replace text press :kbd:`Control + H` or :menuselection:`Edit --> Find and Replace`.
 
+.. image:: 
+
 To move a text box around you can left click on the text box and drag it to the desired position. To resize a text box click on the corner and drag to resize to the desired size.
 
 

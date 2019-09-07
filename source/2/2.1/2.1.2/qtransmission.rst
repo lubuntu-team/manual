@@ -3,8 +3,8 @@ Chapter 2.1.2 Transmission
 
 Transmission is a bit-torrent client.
 
-Screenshot
-----------
+Screenshots
+-----------
 
 .. image:: transmission.png
 

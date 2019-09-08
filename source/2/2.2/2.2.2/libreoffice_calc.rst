@@ -19,7 +19,7 @@ To view values highlighted in another color to see them easier press :kbd:`Contr
 
 To view a long list of functions to use :menuselection:`View --> Function List`. To select different functions left click on the function name in the column. To insert a function press the :guilabel:`fx` button. To sort by different categories of functions use the drop down menu to the right of the :guilabel:`fx` button. To close this function sidebar press the :guilabel:`x` button.
 
-To see a gallery of stock images for your spreadsheet :menuselection:`View --> Gallery`.
+To see a gallery of stock images for your spreadsheet :menuselection:`View --> Gallery`. To get a list of different categories of images beneath :guilabel:`Galleries` and left click to select your image.
 
 To style part of your spreadsheet to bring lots of attention to a cell :menuselection:`Styles --> Accent 1`. To bring slightly less attention to a cell :menuselection:`Styles --> Accent 2`. To bring even less attention to a cell :menuselection:`Styles --> Accent 3`. To style a cell like a heading :menuselection:`Styles --> Heading 1`. To have a slightly smaller heading :menuselection:`Styles -->  Heading 2`. To switch back to your original style :menuselection:`Styles --> Default`.
 

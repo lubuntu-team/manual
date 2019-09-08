@@ -17,7 +17,7 @@ To change to showing currency for the number press :kbd:`Control+Shift+4` or :me
 
 To view values highlighted in another color to see them easier press :kbd:`Control+F8` or :menuselection:`View --> Value Highlighting`.
 
-To view a long list of functions to use :menuselection:`View --> Function List`. To select different functions left click on the function name in the column. To insert a function press the :guilabel:`fx` button.
+To view a long list of functions to use :menuselection:`View --> Function List`. To select different functions left click on the function name in the column. To insert a function press the :guilabel:`fx` button. To sort by different categories of functions use the drop down menu to the right of the :guilabel:`fx` button.
 
 To insert an image press :menuselection:`Insert --> Image`. To get to the dialog of how to insert a chart :menuselection:`Insert --> Chart`. The first selection is to choose a column, bar, Pie, Area, Line, XY(Scatter), Bubble, Net, Stock, or Column and Line chart. To change the subtype of graph click the picture of a chart that looks like the type you want.
 

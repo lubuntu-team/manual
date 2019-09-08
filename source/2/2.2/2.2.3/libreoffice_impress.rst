@@ -92,7 +92,7 @@ Screenshot
 
 Images
 ------
-To insert an image click :menuselection:`Insert --> Image`. To drag your image to where you want it left click and drag the mouse to where you want the image. To resize the image without distorting it click one of the boxes on the corner and resize to the size you wish. To move the image vertically which will distort it left click on the top or bottom boxes to resize the image vertically. If you want to delete an image press :kbd:`Delete`. To replace an image right click the image and :menuselection:`Replace` will bring a file picker up to pick a new image. To crop an image right click on the image and select :menuselection:`Crop`. To save an image out of a presentation right click on the image and select :menuselection:`Save ...`.  
+To insert an image click :menuselection:`Insert --> Image`. To drag your image to where you want it left click and drag the mouse to where you want the image. To resize the image without distorting it click one of the boxes on the corner and resize to the size you wish. To move the image vertically which will distort it left click on the top or bottom boxes to resize the image vertically. To strech your image horizontally to make it fit left click on the boxes on the left or right hand side to strech your side. If you want to delete an image press :kbd:`Delete`. To replace an image right click the image and :menuselection:`Replace` will bring a file picker up to pick a new image. To crop an image right click on the image and select :menuselection:`Crop`. To save an image out of a presentation right click on the image and select :menuselection:`Save ...`.  
 
 .. image:: loimpressscreenshot.png 
 

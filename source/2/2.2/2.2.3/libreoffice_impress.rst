@@ -42,7 +42,7 @@ To format the paragraphs and spacing of text :menuselection:`Format --> Paragrap
 .. image:: loimpressparagraph.png
 
 
-To toggle bulleted lists on your points :menuselection:`Format --> Lists --> Bulleted List`. To toggle a numbered list for your points :menuselection:`Format --> Lists --> Numbered Lists`.
+To toggle bulleted lists on your points :menuselection:`Format --> Lists --> Bulleted List`. To toggle a numbered list for your points :menuselection:`Format --> Lists --> Numbered Lists`. To move an item up in list :menuselection:`Format --> Lists --> Move Up` or press :kbd:`Shift + Alt + Up`.
 
 To change your line spacing on your presentation :menuselection:`Format --> Spacing --> Line spacing` and select the spacing you want. To increase your spacing between paragraphs :menuselection:`Format --> Spacing --> Increase Paragraph Spacing`. To decrease your spacing between paragraphs :menuselection:`Format --> Spacing --> Decrease Paragraph Spacing`. 
 

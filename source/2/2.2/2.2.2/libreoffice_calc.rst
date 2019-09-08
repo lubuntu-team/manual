@@ -29,7 +29,7 @@ To sort your data like a bunch of names first select all the cells with the mous
 
 To undo a selection press :kbd:`control +z` or press the button with the arrow looping around and pointing to the left. To redo an operation press :kbd:`Control +y` or the number looping to the right and exiting to the left.  
 
-To zoom to view a full page on your spreadsheet in the menu :menuselection:`View --> Zoom --> Entire Page`. To view the whole width of your page on the menu :menuselection:`View --> Zoom --> Page Width`.   
+To zoom to view a full page on your spreadsheet in the menu :menuselection:`View --> Zoom --> Entire Page`. To view the whole width of your page on the menu :menuselection:`View --> Zoom --> Page Width`. To zoom to a particular percentage :menuselection:`View --> Zoom` and select the percentage you want.  
 
 .. image:: libreoffice_calc.png
 

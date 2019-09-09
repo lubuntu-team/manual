@@ -98,6 +98,8 @@ To rotate your image in libreoffice impress right click on the picture :menusele
 
 .. image:: loimpressscreenshot.png 
 
+To send your picture to the back like if you want to put text in front of it :menuselection:`Arrange --> Send to Back`.
+
 Slideshows/Presentations
 ------------------------
 To start a slideshow press :kbd:`f5` or the button the looks like a TV with a triangle on it or :menuselection:`Slide Show --> Start from First Slide.` To start a slideshow from the current slide press :kbd:`Shift + f5` or :menuselection:`Slide Show --> Start from current slide`. To exit the slideshow press :kbd:`escape`. To get to the next slide of the slideshow  left click or press the :kbd:`right arrow key`. to get to a previous slide in presentation mode press the :kbd:`left arrow key` or right click previous. To move back to your first slide press the :kbd:`Home` key. To move to your last slide press the :kbd:`End` key. 

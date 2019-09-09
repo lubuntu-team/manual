@@ -98,7 +98,7 @@ To rotate your image in libreoffice impress right click on the picture :menusele
 
 .. image:: loimpressscreenshot.png 
 
-To send your picture to the back like if you want to put text in front of it :menuselection:`Arrange --> Send to Back`. To send your picture to the front right click on it and :menuselection:`Arrange --> Bring to Front`. To send an image behind one layer behind the other :menuselection:`Arrange --> Send Backward`.
+To send your picture to the back like if you want to put text in front of it :menuselection:`Arrange --> Send to Back`. To send your picture to the front right click on it and :menuselection:`Arrange --> Bring to Front`. To send an image behind one layer behind the other :menuselection:`Arrange --> Send Backward`. To bring an image forward one layer right click the image :menuselection:`Arrange --> Bring Forward`.
 
 Slideshows/Presentations
 ------------------------

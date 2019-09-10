@@ -6,7 +6,7 @@ Occasionally you may need to change the setting of you software sources. This co
 -   Changing update settings like update frequency, notification of new releases,
 -   Adding or removing sources such as PPAs
 -   Changing download server
--   Etc,
+-   Installing properitary drivers
 
 Usage
 ------

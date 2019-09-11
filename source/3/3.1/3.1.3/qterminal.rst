@@ -9,7 +9,6 @@ To open a new tab go to the :menuselection:`File --> New Tab` or press :kbd:`con
 
 .. image:: qterminal.png
 
-
 If you get a url in your terminal you can right click :menuselection:`Copy Link Address` to copy the link. To open your link directly press :kbd:`Control + left click` or right click the link and select :menuselection:`Open Link`. To zoom in on the terminal press :kbd:`Control + Shift + +` or right click and select :menuselection:`Zoom in`. To zoom out press :kbd:`Control + -` or right click :menuselection:`Zoom out`. To return to the original zoom press :kbd:`Control + 0` or right click :menuselection:`Zoom reset`. If you want qterminal to be fullscreen press :kbd:`F11` or :menuselection:`View --> Fullscreen` to make it fullscreen then :kbd:`F11` or :menuselection:`View --> Fullscreen` again to make it back to its original size.
 
 To scroll upward in qterminal scroll upwards with the mousewheel and you can see the results of previous commands you have run. To scroll downward scroll downward on the mouswheel. To go all the way back to the bottom start typing and it will focus on the bottom.
@@ -35,7 +34,6 @@ To change your preferences go to :menuselection:`File --> Preferences` or right 
 
 .. image:: qterminal-font.png
 
-
 The :guilabel:`Color scheme` field lets you say change how different colored things in the terminal colors appear. The :guilabel:`Widget style` lets you overwrite the system widget style with something other than system default. The :guilabel:`Scrollbar position` lets you move the scrollbar to the left or right or remove it entirely. The :guilabel:`Tabs position` moves the bar to that part of the window of qterminal. The :guilabel:`Cursor shape` changes the shape of the cursor between block cursor a large block, underline cursor a small underline, or  IBeamCursor which is quite small like a | character. 
 
 
@@ -44,7 +42,6 @@ To toggle showing the menubar check/uncheck the :guilabel:`Show the menu bar` ch
 .. image:: qterminalprefrences.png 
 
 The field :guilabel:`Application transparency` gives you the percent transparent for the full application transparency. The field :guilabel:`Terminal transparency` is how transparent to make the terminal. Note you will need to enable the compton compositor for this function properly. To select a background image for your terminal press the :guilabel:`Select` button next to :guilabel:`Background image:`. The field :guilabel:`Start with preset` lets you choose how many terminal splits to have when you start up QTerminal.To have a margin on the left side of the terminal set the :guilabel:`Terminal margin` will show the marginal in the terminal in pixels.
-
 
 To apply these changes to see how they appear on QTerminal press the :guilabel:`Apply` button. If you like your new customized terminal layout press the :guilabel:`OK` button or if you wish to cancel your changes press the :guilabel:`Cancel` button. 
 

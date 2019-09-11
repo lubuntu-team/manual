@@ -16,7 +16,7 @@ Below is having a list of the raw values of smart on the drive some of which can
 
 .. image::  smart-status.png
 
-You can see your disk usage for each partition graphically with the bars at the top with the shaded in part showing a bar graph as the percentage full of the partition and you can select each partition by left clicking on that section of the bar graph. The Column :guilabel:`Size` shows the size of the entire system while the :guilabel:`Used` column shows the amount of space used on the drive. The :guilabel:`Type` column lets you see which filesystem is on the partition.
+You can see your disk usage for each partition graphically with the bars at the top with the shaded in part showing a bar graph as the percentage full of the partition and you can select each partition by left clicking on that section of the bar graph. The Column :guilabel:`Size` shows the size of the entire system while the :guilabel:`Used` column shows the amount of space used on the drive. The :guilabel:`Type` column lets you see which filesystem is on the partition. The :guilabel:`Mount Point` column shows where that partition is mounted.
 
 On the side pane to the left you can switch between each different drive on the left with the name of each device. Another way to switch which device you are managing partitions on use :menuselection:`Device --> Select Current Device`.
 

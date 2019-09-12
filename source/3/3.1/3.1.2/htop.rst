@@ -25,8 +25,6 @@ To change how your process are sorted press :kbd:`F6` which will bring up your o
 
 .. image:: htop-setup.png
 
-
-
 Version
 -------
 Lubuntu ships with version 2.2.0 of htop. 
@@ -40,5 +38,3 @@ To launch htop from the menu :menuselection:`System Tools --> Htop` with the Ico
    htop 
 
 from the command line. 
-
-

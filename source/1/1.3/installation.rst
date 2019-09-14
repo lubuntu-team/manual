@@ -9,7 +9,7 @@ Once you have booted the Lubuntu image, you will be greeted by a screen with the
 
 .. image:: boot_installer.png
 
-Once you have booted into the live session, feel free to explore Lubuntu and make sure all your hardware works. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop :guilabel:`Install Lubuntu 19.04`. 
+Once you have booted into the live session, feel free to explore Lubuntu and make sure all your hardware works. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop :guilabel:`Install Lubuntu 19.10`. 
 
 .. image:: live_session.png
 

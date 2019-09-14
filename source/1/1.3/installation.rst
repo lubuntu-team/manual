@@ -53,6 +53,8 @@ If all you want is Lubuntu on your machine, you can select the :guilabel:`Erase 
   
 will unmount them and any swap partitions. This will not work if you have data partition mounted open pcmanfm-qt and press the upward pointed arrow on the :guilabel:`Places` sidebar to unmount all data partitions. 
 
+To move back to Selecting your keyboard layout press the :guilabel:`Back` button. To move to the setting up users press the :guilabel:`Next` button.
+
 User Setup
 ----------
 The user setup section creates a user profile, consisting of your own name and the username you will use to log in. The next input field is the hostname of your computer. The final field is your password. Enter your password twice to make sure you have not mistyped it. Pressing the next button will give you a summary screen, showing you the settings before the install begins. Once you have checked the summary click the :guilabel:`Next` button to begin the installation.

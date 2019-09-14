@@ -9,7 +9,7 @@ The application menu allows you to browse and search through available programs;
 
 .. image:: menu_search.png
 
-The quick launch bar allows you to conveniently launch your file manager (PCManFM) and web browser (Firefox) by left clicking on the program. If you right click on the icons in quick launch on something like firefox will have items for each program. To add a program to quick launch open the menu and find it there and drag it down onto the panel. To remove an item from quick launch right click on the icon and select :menuselection:`Remove from quicklaunch`. To show your desktop press the show desktop button between the quick launch and the taskbar. 
+The quick launch bar allows you to conveniently launch your file manager (PCManFM) and web browser (Firefox) by left clicking on the program. If you right click on the icons in quick launch on something like Firefox will have items for each program. To add a program to quick launch open the menu and find it there and drag it down onto the panel. To remove an item from quick launch right click on the icon and select :menuselection:`Remove from quicklaunch`. To show your desktop press the show desktop button between the quick launch and the taskbar. 
 
 The taskbar lists the windows you currently have open. To bring one of these windows to focus simply left click the windows on the task bar. If you have multiple of the same window left clicking will open the group, allowing you to select between the different windows by left clicking. If you want to close a group of multiple windows you can right click the group and click :menuselection:`Close group`. To see a list of all the windows in a group mouseover the group of windows on the taskbar.
 
@@ -108,7 +108,7 @@ The Color picker is shows what color something is on your screen usually useful 
 
 To use your sensors widgets which you would have to add manually as shown above. A sensor bar will appear with as many sensors as on your panel. To view the temp as a number mouse over the sensor bar to see what your temperature is in a number. 
 
-To customize the sensors right click on the sensors applet :menuselection:`Configure "Sensors"`. The :guilabel:`Update interval(seconds)` field lets you choose how often in seconds to update the sensors. The :guilabel:`Temperature bar width` field shows how wide to make the bar for your sensors. The :guilabel:`Temperature scale` field lets you select :guilabel:`Celsius` or :guilabel:`Fahrenheit` for your sensors. The checkbox :guilabel:`Warning about high temperature` puts a warning if your temperature gets too high. The :guilabel:`Crit` field shows the temperture your CPU should not reach. If you want to reset your settings press the :guilabel:`Reset` button. 
+To customize the sensors right click on the sensors applet :menuselection:`Configure "Sensors"`. The :guilabel:`Update interval(seconds)` field lets you choose how often in seconds to update the sensors. The :guilabel:`Temperature bar width` field shows how wide to make the bar for your sensors. The :guilabel:`Temperature scale` field lets you select :guilabel:`Celsius` or :guilabel:`Fahrenheit` for your sensors. The checkbox :guilabel:`Warning about high temperature` puts a warning if your temperature gets too high. The :guilabel:`Crit` field shows the temperature your CPU should not reach. If you want to reset your settings press the :guilabel:`Reset` button. 
 
 .. image:: sensors-config.png
 

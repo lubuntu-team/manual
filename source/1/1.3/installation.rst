@@ -66,7 +66,7 @@ After pressing the :guilabel:`Install` button a dialog will pop up to confirm in
 
 The Install
 -----------
-The Lubuntu installer provides some useful information while the installer is running. Once Lubuntu is installed you have a checkbox :guilabel:`Reboot now` after your Lubuntu is installed and is now finished.
+The Lubuntu installer provides some useful information while the installer is running. On the bottom of the window is a progress bar. Once Lubuntu is installed you have a checkbox :guilabel:`Reboot now` after your Lubuntu is installed and is now finished.
 
 .. image:: installer_screen.png
 

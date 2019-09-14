@@ -36,7 +36,7 @@ Next select your keyboard layout, you can check your keyboard matches the keyboa
 Setting up partitions
 ---------------------
 
-If all you want is Lubuntu on your machine, you can select the :guilabel:`Erase disk` button. This will format the disk and **delete all data on the disk**,  which is why having your data backed up before this point is extremely important. If you choose to do this you can continue on to user setup. To change the storage device use the :guilabel:`Select Storage device` drop down menu. 
+If all you want is Lubuntu on your machine, you can select the :guilabel:`Erase disk` button. This will format the disk and **delete all data on the disk**,  which is why having your data backed up before this point is extremely important. If you choose to do this you can continue on to user setup. To change the storage device use the :guilabel:`Select Storage device` drop down menu. If you want to encrypt your drive press the :guilabel:`Encrypt system` checkbox and then you will need to enter the encryption passphrase twice make sure you have it typed in correctly. It is strongly advised to write down this passphrase and keep it somewhere safe.
 
 .. warning::
    Erasing your entire disk or partition may cause you to lose data so please backup beforehand.

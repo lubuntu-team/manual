@@ -6,7 +6,7 @@ Usage
 ------
 Discover allows you to search for applications by using the :guilabel:`Search` box. To search for programs in discover type in the search bar in the upper left or press :kbd:`Control + F`. To view featured applications press the house button in the top left hand corner. Clicking on a program will give you a description of it. When installing or removing software, you will be prompted for your password. You can also browse through different categories on the left clicking on the different categories. To move back from a category or search press the :guilabel:`Back` button which functions similar to the back button in a web browser. In the results after selecting your program you are looking at you can select a screenshot and get a bigger view of the screenshot click on the screenshot. To exit from the screenshot press :kbd:`Escape` or click not on the screenshot.
 
-On the top bar there is a a back button that is is a leftward pointed arrow to move back. There is a rightward pointed arrow to go forward in your history.
+Press the leftward pointed arrow button to moves back in your history. Press the rightward pointed arrow to move forward in your history.
 
 To view user reviews of a program click on the text :guilabel:`Show All Reviews`. To exit the user reviews press :kbd:`Escape` or click outside the areas of reviews. Below the reviews there is information on the package such as the :guilabel:`Version` and :guilabel:`Liscense`. 
 

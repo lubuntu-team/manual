@@ -1,6 +1,6 @@
 Chapter 4.1 Discover Software Center
 ==========================================
-Discover allows you to install and remove programs and utilities. It has a simplistic interface making it easy to navigate and use. Discover however only shows GUI application packages so if you are looking for command line packages please use Muon Package Manager instead.
+Discover allows you to install and remove programs and utilities. It has a simplistic interface making it easy to navigate and use. However, Discover only shows GUI application packages so if you are looking for command line packages please use Muon Package Manager instead.
 
 Usage
 ------

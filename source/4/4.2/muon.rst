@@ -1,7 +1,7 @@
 Chapter 4.2 Muon Package Manager
 ================================
 
-Muon package manager is an alternative GUI for installing and updating updating packages. 
+Muon package manager is an alternative GUI for installing and updating packages. 
 
 Usage
 ------

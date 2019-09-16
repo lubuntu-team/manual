@@ -1,7 +1,7 @@
 Chapter 4.3 Managing Software Sources
 ============================================
 
-Occasionally you may need to change the setting of you software sources. This could involve: 
+Occasionally you may need to change the setting of your software sources. This could involve: 
 
 -   Changing update settings like update frequency, notification of new releases,
 -   Adding or removing sources such as PPAs

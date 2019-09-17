@@ -19,7 +19,7 @@ To view an info on a particular user press the :guilabel:`Properties` or double 
 
 .. image:: users-groups-gerneral-prop.png 
 
-The tab :guilabel:`Groups` under properties has checkboxes for each group you are in or which checkbox or each group you are not in. To add or remove a user from a group check or uncheck the checkbox.
+The tab :guilabel:`Groups` under properties has checkboxes for each group you are in or which checkbox or each group you are not in. To add or remove a user from a group check or uncheck the checkbox for the group you want to add or remove a user from.
 
 .. image::  users-groups-group-prop.png
 

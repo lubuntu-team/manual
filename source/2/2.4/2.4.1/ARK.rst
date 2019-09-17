@@ -1,7 +1,7 @@
 Chapter 2.4.1 ARK
 =================
 
-ARK is a file archive utility. It can be used to view, compress, put multiple files in the same archive,  and decompress files.
+ARK is a file archive utility. It can be used to view, compress, combine multiple files into one archive, and decompress files.
 
 Supported file formats include:
 

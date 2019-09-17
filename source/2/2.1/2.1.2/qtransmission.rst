@@ -21,7 +21,7 @@ The button with two :guilabel:`||` circled is a pause button that can pause all 
 
 To remove a torrent from the list of torrent files right click on it or :kbd:`Delete` and click remove. To delete the files and remove the torrent from the list right click Delete files and remove or press :kbd:`Shift +Delete`.
 
-If you want have a move compact view :menuselection:`View --> Compact View` or press :kbd:`Alt + C`. 
+If you want have a move compact view :menuselection:`View --> Compact View` or press :kbd:`Alt + C`. To switch back out from compact view press the same thing again.
 
 To bring a up a properties dialog window press :kbd:`Alt +Enter` or :menuselection:`Torrent --> Properties`. To show how much of the file you have on that torrent is under the :guilabel:`Have` row which shows both the size and the percentage of the file. The :guilabel:`Location` row shows you where the file is saved on your system. The :guilabel:`State` row shows what the torrent is currently doing. The :guilabel:`Peers` tab shows you what other peers that also have the torrent open. The :guilabel:`Tracker` tab shows information of where the torrent is being tracked.
 

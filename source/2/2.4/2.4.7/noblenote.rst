@@ -1,7 +1,7 @@
 Chapter 2.4.7 nobleNote
 =======================
 
-nobleNote is an application to make a note on your desktop.
+nobleNote is the deafult application to take a notes on Lubuntu.
 
 Usage
 ------

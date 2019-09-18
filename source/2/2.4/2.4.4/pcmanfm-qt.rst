@@ -3,7 +3,7 @@ Chapter 2.4.4: PCManFM-Qt
 
 Description
 ------------
-PCManFM-Qt (PCMan File Manager) is a file manager application ported to Qt after the original developed by Hong Jen Yee from Taiwan which is meant to be a replacement for Nautilus, Konqueror and Thunar. 
+PCManFM-Qt (PCMan File Manager) is the default file manager for Lubuntu ported to Qt after the original developed by Hong Jen Yee from Taiwan which is meant to be a replacement for Nautilus, Konqueror and Thunar. 
 
 Features:
  - Tabs

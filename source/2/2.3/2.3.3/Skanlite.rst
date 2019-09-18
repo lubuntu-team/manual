@@ -1,7 +1,7 @@
 Chapter 2.3.3 Skanlite
 ======================
 
-Skanlite is a scanning application. 
+Skanlite is the default scanning application for Lubuntu. 
 
 Usage
 ------

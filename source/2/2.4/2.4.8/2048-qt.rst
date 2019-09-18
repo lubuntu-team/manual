@@ -1,7 +1,7 @@
 Chapter 2.4.8 2048-Qt
 =====================
 
-2048 is a fun simple lightweight game included by default.
+2048 is a fun simple lightweight game included in Lubuntu by default.
 
 Usage
 ------

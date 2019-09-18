@@ -1,7 +1,7 @@
 Chapter 2.2.1 LibreOffice
 =========================
 
-LibreOffice is an open source full office suite. In the menu there are shortcuts to different LibreOffice applications and your recently used files. 
+LibreOffice is the default open source full office suite for Lubuntu. In the menu there are shortcuts to different LibreOffice applications and your recently used files. 
 
 Usage
 ------

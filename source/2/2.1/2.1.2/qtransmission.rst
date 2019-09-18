@@ -21,7 +21,7 @@ The button with two :guilabel:`||` circled is a pause button that can pause all 
 
 To remove a torrent from the list of torrent files right click on it or :kbd:`Delete` and click remove. To delete the files and remove the torrent from the list right click Delete files and remove or press :kbd:`Shift +Delete`.
 
-To filter which torrents are shown on your list use the :guilabel:`Show` drop down menu. To only show active torrents from the :guilabel:`Show` drop down select :menuselection:`Active`. To only show torrents that are downloading from the :guilabel:`Show` menu select :menuselection:`Downloading`.
+To filter which torrents are shown on your list use the :guilabel:`Show` drop down menu. To only show active torrents from the :guilabel:`Show` drop down select :menuselection:`Active`. To only show torrents that are downloading from the :guilabel:`Show` menu select :menuselection:`Downloading`. To only show seeding torrents from the :guilabel:`Show` drop down select :menuselection:`Seeding`.
 
 If you want have a move compact view :menuselection:`View --> Compact View` or press :kbd:`Alt + C`. To switch back out from compact view press the same thing again.
 

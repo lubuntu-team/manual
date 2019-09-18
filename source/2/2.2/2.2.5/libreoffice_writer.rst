@@ -129,7 +129,7 @@ To add a row above your current row :menuselection:`Table --> Insert --> Rows Ab
 
 Version
 -------
-Lubuntu ships with LibreOffice writer 6.3.0.4
+Lubuntu ships with LibreOffice writer 6.3.1.2
 
 How to Launch
 -------------

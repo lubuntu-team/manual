@@ -1,7 +1,7 @@
 Chapter 2.4.5 Qlipper
 =====================
 
-Qlipper is a clipboard manager that is included by default on Lubuntu.
+Qlipper is the default clipboard manager for Lubuntu.
 
 Usage
 ------

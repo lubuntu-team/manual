@@ -29,7 +29,7 @@ To bring a up a properties dialog window press :kbd:`Alt +Enter` or :menuselecti
 
 .. image:: transmission-prop.png
 
-The :guilabel:`Peers` tab shows you what other peers that also have the torrent open. The :guilabel:`Tracker` tab shows information of where the torrent is being tracked.
+The :guilabel:`Peers` tab shows you what other peers that also have the torrent open. The :guilabel:`Tracker` tab shows information of where the torrent is being tracked. The :guilabel:`Files` tab shows what files this torrent has downloaded.
 
 To sort your torrents by activity :menuselection:`View --> Sort by Activity`. To sort your torrents by age :menuselection:`View --> Sort by Age`. To sort your torrents by name :menuselection:`View --> Sort by Name`. To sort your torrents by Progress :menuselection:`View --> Sort by Progress`.  To sort your torrents by Queue :menuselection:`View --> Sort by Queue`. To sort your torrents by ratio uploaded to downloaded :menuselection:`View --> Sort by ratio`. To sort your torrents by size :menuselection:`View --> Sort by Size`. To sort your torrents by State :menuselection:`View --> Sort by State`. To sort your torrents by time to finish downloading :menuselection:`View --> Sort by time left`. To reverse the sort order :menuselection:`View --> Reverse sort order`.
 

@@ -1,7 +1,7 @@
 Chapter 2.2.3 LibreOffice Impress
 =================================
 
-LibreOffice Impress is a program to present presentations. 
+LibreOffice Impress is the program to present presentations on Lubuntu. 
 
 Features include:
  - Built in themes

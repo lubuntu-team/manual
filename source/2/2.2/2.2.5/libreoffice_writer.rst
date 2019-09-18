@@ -1,7 +1,7 @@
 Chapter 2.2.5 LibreOffice Writer
 ================================
 
-LibreOffice Writer is a word processing application that is the default on Lubuntu.
+LibreOffice Writer is the default word processing application on Lubuntu.
 
 Features:
  - No ribbon

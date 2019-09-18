@@ -1,7 +1,7 @@
 Chapter 3.1.5 nm-tray
 =====================
 
-nm-tray is the applet to manage network connections. 
+nm-tray is the default applet to manage network connections on Lubuntu. 
 
 Usage
 ------

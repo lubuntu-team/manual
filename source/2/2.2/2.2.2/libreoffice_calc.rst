@@ -1,7 +1,7 @@
 Chapter 2.2.2 LibreOffice Calc
 ==============================
 
-LibreOffice Calc is a spreadsheet program included by default in Lubuntu.
+LibreOffice Calc is the default spreadsheet program for Lubuntu.
 
 Usage
 ------

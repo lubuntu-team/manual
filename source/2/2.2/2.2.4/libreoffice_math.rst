@@ -1,6 +1,8 @@
 Chapter 2.2.4 LibreOffice Math
 ==============================
 
+LibreOffice Math is the default application for typesetting equations on Lubuntu.
+
 Screenshot
 ----------
 .. image:: libreoffice_math.png

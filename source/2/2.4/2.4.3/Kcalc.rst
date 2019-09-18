@@ -1,7 +1,7 @@
 Chapter 2.4.3 Kcalc
 ===================
 
-Kcalc is a scientific calculator application.
+Kcalc is the default scientific calculator application for Lubuntu.
 
 Features:
 

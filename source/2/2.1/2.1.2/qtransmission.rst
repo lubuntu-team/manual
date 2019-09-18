@@ -1,7 +1,7 @@
 Chapter 2.1.2 Transmission
 ===========================
 
-Transmission is a bit-torrent client.
+Transmission is Lubuntu's default bit-torrent client.
 
 Screenshots
 -----------

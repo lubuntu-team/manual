@@ -1,7 +1,7 @@
 Chapter 3.2.1 LXQt Configuration Center
 =======================================
 
-LXQt configuration center is an application with buttons that launches configuration options for LXQt the default desktop environment of Lubuntu. 
+LXQt configuration center is the default "control center" application with buttons that launches configuration options for LXQt the default desktop environment of Lubuntu. 
 
 Usage
 ------

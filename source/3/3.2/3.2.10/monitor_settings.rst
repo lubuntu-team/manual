@@ -4,10 +4,6 @@ Chapter 3.2.10 Monitor Settings
 Monitor settings controls your monitor(s) resolution, refresh rate, and saves settings.
 
 
-Version
--------
-Lubuntu ships with version 0.14.1 of monitor settings.
-
 Usage
 ------
 If you use a single monitor you can change your single monitor resolution on the right hand size and select your resolution. When you change your resolution you will be asked to confirm to make sure you don't make a choice that makes it harder to use your computer. 
@@ -39,6 +35,10 @@ The :guilabel:`Fast Menu` tab has ways to quickly turn on or off different monit
 The tabs towards the bottom are settings for each monitor.  This also has the same settings for this monitor as you would have for a single monitor with a few additions. To turn each display on or off toggle the :guilabel:`Enable this display` checkbox. Towards the bottom there is a drop down menu that and select :menuselection:`This is my primary Display` to make this your main monitor. If you select :menuselection:`This screen extends another display` this monitor will be a secondary monitor that shows something different than what the primary display shows. After selecting to extending another display two boxes will show up for where to place the second monitor.The box that shows a number and says :guilabel:`(x)` is a box that lets you show how many pixels to move this display horizontally. The box that shows a number and says :guilabel:`(y)` is a box that shows how many pixels to move the display vertically.
 
 .. image:: multimonitor-extended.png
+
+Version
+-------
+Lubuntu ships with version 0.14.1 of monitor settings.
 
 How to launch
 -------------

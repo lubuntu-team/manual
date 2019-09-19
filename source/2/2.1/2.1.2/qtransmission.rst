@@ -25,7 +25,7 @@ To filter which torrents are shown on your list use the :guilabel:`Show` drop do
 
 If you want have a move compact view :menuselection:`View --> Compact View` or press :kbd:`Alt + C`. To switch back out from compact view press the same thing again.
 
-To bring a up a properties dialog window press :kbd:`Alt +Enter` or :menuselection:`Torrent --> Properties`. To show how much of the file you have on that torrent is under the :guilabel:`Have` row which shows both the size and the percentage of the file. The :guilabel:`Uploaded` row shows how much of the torrent you have uploaded to other peers. The :guilabel:`State` row shows what the torrent is currently doing. The :guilabel:`Location` row shows you where the file is saved on your system. The :guilabel:`Origin` row shows when you first downloaded this torrent. 
+To bring a up a properties dialog window press :kbd:`Alt +Enter` or :menuselection:`Torrent --> Properties`. To show how much of the file you have on that torrent is under the :guilabel:`Have` row which shows both the size and the percentage of the file. The :guilabel:`Uploaded` row shows how much of the torrent you have uploaded to other peers. The :guilabel:`State` row shows what the torrent is currently doing. The :guilabel:`Location` row shows you where the file is saved on your system. The :guilabel:`Size` row shows how much space the torrent takes when downloaded. The :guilabel:`Origin` row shows when you first downloaded this torrent. 
 
 .. image:: transmission-prop.png
 

@@ -3,9 +3,6 @@ Chapter 3.2.11 Openbox Settings
 
 Openbox settings changes configuration of openbox which is the default window manager of Lubuntu 18.10.
 
-Version
--------
-Lubuntu ships with version 0.14.1 of openbox settings. 
 
 Usage
 ------
@@ -44,6 +41,10 @@ On the :guilabel:`Desktops` tab to change number of desktops press the up arrow 
 To make a margin on your desktop on which nothing is placed you can set pixel margins on each side with the :guilabel:`Margins` tab. The fields :guilabel:`Left`, :guilabel:`Top`, :guilabel:`Right`, or :guilabel:`Bottom` each have a field for each number of pixels as a margin. To close openbox settings press the :kbd:`Escape` key. 
 
 .. image:: obconf-margins.png
+
+Version
+-------
+Lubuntu ships with version 0.14.1 of openbox settings. 
 
 How to launch
 -------------

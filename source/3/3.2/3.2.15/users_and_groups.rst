@@ -3,10 +3,6 @@ Chapter 3.2.15 Users and Groups
 
 Users and groups lets you manage user and group settings on your system. 
 
-Version
--------
-Lubuntu ships with version 0.14.1 of Users and Groups. 
-
 Usage
 ------
 The :guilabel:`Users` tab lets you manage Users. To create a new user account press the :guilabel:`Add` button. You will need to select the groups you want the user to be in under the :guilabel:`Groups` tab. Once the user information and groups are set press the :guilabel:`OK` button. Then you will be prompted to enter an administrative password. Next you will be prompted to enter the new password for the user. To change the users permission click account type and enter your password and select desktop user to not give permission to change the system or admin to change system settings. 
@@ -34,6 +30,12 @@ The :guilabel:`Groups` tabs lets you see info on groups and change properties. T
 .. warning::
 
    Changing user and group permissions without knowing what you are doing could break your system.
+
+
+Version
+-------
+Lubuntu ships with version 0.14.1 of Users and Groups. 
+
 
 How to launch
 -------------

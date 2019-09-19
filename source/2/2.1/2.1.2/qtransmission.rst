@@ -33,6 +33,8 @@ The :guilabel:`Peers` tab shows you what other peers that also have the torrent 
 
 The :guilabel:`Files` tab shows what files this torrent has downloaded. To see the name of the file is in the :guilabel:`File` column. To see the size of the file look in the :guilabel:`Size` column. To see how much of your file is downloaded as a percentage in the :guilabel:`Progress` column. To see the priority of the torrent see the :guilabel:`Priority` column.
 
+.. image:: transmission-prop-file.png
+
 To sort your torrents by activity :menuselection:`View --> Sort by Activity`. To sort your torrents by age :menuselection:`View --> Sort by Age`. To sort your torrents by name :menuselection:`View --> Sort by Name`. To sort your torrents by Progress :menuselection:`View --> Sort by Progress`.  To sort your torrents by Queue :menuselection:`View --> Sort by Queue`. To sort your torrents by ratio uploaded to downloaded :menuselection:`View --> Sort by ratio`. To sort your torrents by size :menuselection:`View --> Sort by Size`. To sort your torrents by State :menuselection:`View --> Sort by State`. To sort your torrents by time to finish downloading :menuselection:`View --> Sort by time left`. To reverse the sort order :menuselection:`View --> Reverse sort order`.
 
 To move a torrent down on where it appears on the screen and the queue :menuselection:`Torrent --> Queue --> Move Down`. To move a torrent up in the queue :menuselection:`Torrent --> Queue --> Move Up`. To Move a torrent file to the top :menuselection:`Torrent --> Queue --> Move to Top`. To move a torrent file to the bottom :menuselection:`Torrent --> Queue --> Move to Bottom`.

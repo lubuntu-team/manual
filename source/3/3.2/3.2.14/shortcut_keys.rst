@@ -6,9 +6,6 @@ Shortcut keys is a program that manages the global hotkeys or keyboard shortcuts
 .. note::
     The keyboard shortcuts are also managed by Openbox. Refer to Appendix F for more detail.
 
-Version
--------
-Lubuntu ships with version 0.14.1 of shortcut keys.
 
 Usage
 ------
@@ -26,6 +23,11 @@ Screenshots
 .. image:: shortcut_keys.png
 
 .. image:: add_key_ex.png
+
+Version
+-------
+Lubuntu ships with version 0.14.1 of shortcut keys.
+
 
 How to launch
 -------------

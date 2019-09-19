@@ -1,4 +1,4 @@
-Chapter 2.4.4: PCManFM-Qt
+Chapter 2.4.4 PCManFM-Qt
 =========================
 
 Description

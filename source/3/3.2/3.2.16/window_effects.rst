@@ -27,7 +27,6 @@ Version
 -------
 Lubuntu ships with version 0.14.1 of Window effects.
 
-
 How to Launch
 -------------
 To launch window effects from the menu :menuselection:`Preferences --> LXQt Settings --> Window effects` or run

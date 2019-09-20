@@ -29,7 +29,7 @@ To bring a up a properties dialog window press :kbd:`Alt +Enter` or :menuselecti
 
 .. image:: transmission-prop.png
 
-The :guilabel:`Peers` tab shows you what other peers that also have the torrent open. To see how much you are getting from a particular peer see the :guilabel:`Up` column. To add your column showing how much you are downloading from a peer read the :guilabel:`Down` column. To see the address of your peers and read the :menuselection:`Address` column. The :guilabel:`Tracker` tab shows information of where the torrent is being tracked. 
+The :guilabel:`Peers` tab shows you what other peers that also have the torrent open. To see how much you are getting from a particular peer see the :guilabel:`Up` column. To add your column showing how much you are downloading from a peer read the :guilabel:`Down` column. To see the address of your peers and read the :menuselection:`Address` column. To see what client other peers are using the :guilabel:`Client` column. The :guilabel:`Tracker` tab shows information of where the torrent is being tracked. 
 
 The :guilabel:`Files` tab shows what files this torrent has downloaded. To see the name of the file is in the :guilabel:`File` column. To see the size of the file look in the :guilabel:`Size` column. To see how much of your file is downloaded as a percentage in the :guilabel:`Progress` column. To see the priority of the torrent see the :guilabel:`Priority` column.
 

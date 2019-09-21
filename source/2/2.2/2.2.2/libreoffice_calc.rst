@@ -25,7 +25,7 @@ To style part of your spreadsheet to bring lots of attention to a cell :menusele
 
 To insert an image press :menuselection:`Insert --> Image`. To select an image to change how it appears in your spreadsheet left click on it. To resizing your image while keeping the same aspect ratio click on the box on the corner of your image. To strech or shrink an image horizontally left click on the boxes on the left or right hand side and then release when in the giant position. To strech on shrink your image vertically click on the box on the top or bottom and drag to your desired position.
 
-To get to the dialog of how to insert a chart :menuselection:`Insert --> Chart`. The first selection is to choose a :guilabel:`Column`, :guilabel:`Bar`, :guilabel:`Pie`, :guilabel:`Area`, :guilabel:`Line`, :guilabel:`XY(Scatter)`, :guilabel:`Bubble`, :guilabel:`Net`, :guilabel:`Stock`, or  :guilabel:`Column and Line` chart. To change the subtype of graph click the picture of a chart that looks like the type you want.
+To get to the dialog of how to insert a chart :menuselection:`Insert --> Chart`. The first selection is to choose a :guilabel:`Column`, :guilabel:`Bar`, :guilabel:`Pie`, :guilabel:`Area`, :guilabel:`Line`, :guilabel:`XY(Scatter)`, :guilabel:`Bubble`, :guilabel:`Net`, :guilabel:`Stock`, or  :guilabel:`Column and Line` chart. To change the subtype of graph click the picture of a chart that looks like the type you want. To switch to the next step of making a graph press the :guilabel:`Next` button.
 
 .. image:: chartwindow.png
 

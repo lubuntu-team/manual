@@ -29,7 +29,7 @@ To get to the dialog of how to insert a chart :menuselection:`Insert --> Chart`.
 
 .. image:: chartwindow.png
 
-The :guilabel:`Data Range` tab controls what data will be in the chart and how present it. To switch to basing the bottom axis of your chart on rows of data press the :guilabel:`Data series in rows` button.
+The :guilabel:`Data Range` tab controls what data will be in the chart and how present it. To switch to basing the bottom axis of your chart on rows of data press the :guilabel:`Data series in rows` button. To choose to switch your bottom axis of your chart on columns press the :guilabel:`Data series in columns` button.
 
 If you want to insert a new column to the left of a column right click on the letter for the column :menuselection:`Insert Column Before`. If you want the new column to the right is right click on the letter and :menuselection:`Insert Column After`. To insert a row above the current row right click on the number and :menuselection:`Insert Row Above`. To insert a row below the current row right click on the number and :menuselection:`Insert Row Below`. To delete a row or column right click the number  and select :menuselection:`Delete rows` or :menuselection:`Delete Column`.  
 

@@ -29,7 +29,7 @@ To get to the dialog of how to insert a chart :menuselection:`Insert --> Chart`.
 
 .. image:: chartwindow.png
 
-The :guilabel:`Data Range` tab controls what data will be in the chart and how present it. To switch to basing the bottom axis of your chart on rows of data press the :guilabel:`Data series in rows` button. To choose to switch your bottom axis of your chart on columns press the :guilabel:`Data series in columns` button. To use the first row as a label on each item on the chart check the :guilabel:`First row as label`. To input a custom title on the first column of your chart check the :guilabel:`First column as Label` checkbox.
+The :guilabel:`Data Range` tab controls what data will be in the chart and how present it. To switch to basing the bottom axis of your chart on rows of data press the :guilabel:`Data series in rows` button. To choose to switch your bottom axis of your chart on columns press the :guilabel:`Data series in columns` button. To use the first row as a label on each item on the chart check the :guilabel:`First row as label` checkbox. To input a custom title on the first column of your chart check the :guilabel:`First column as Label` checkbox.
 
 .. image:: chart-data-range.png
 

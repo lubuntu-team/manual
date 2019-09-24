@@ -33,7 +33,7 @@ The :guilabel:`Data Range` tab controls what data will be in the chart and how p
 
 .. image:: chart-data-range.png
 
-The :guilabel:`Chart Elements` tab controls labels and displaying legends on your chart.
+The :guilabel:`Chart Elements` tab controls labels and displaying legends on your chart. To add a title to your chart type your tilte in the :guilabel:`Title` field.
 
 If you want to insert a new column to the left of a column right click on the letter for the column :menuselection:`Insert Column Before`. If you want the new column to the right is right click on the letter and :menuselection:`Insert Column After`. To insert a row above the current row right click on the number and :menuselection:`Insert Row Above`. To insert a row below the current row right click on the number and :menuselection:`Insert Row Below`. To delete a row or column right click the number  and select :menuselection:`Delete rows` or :menuselection:`Delete Column`.  
 

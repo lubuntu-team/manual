@@ -25,17 +25,6 @@ To style part of your spreadsheet to bring lots of attention to a cell :menusele
 
 To insert an image press :menuselection:`Insert --> Image`. To select an image to change how it appears in your spreadsheet left click on it. To resizing your image while keeping the same aspect ratio click on the box on the corner of your image. To strech or shrink an image horizontally left click on the boxes on the left or right hand side and then release when in the giant position. To strech on shrink your image vertically click on the box on the top or bottom and drag to your desired position.
 
-To get to the dialog of how to insert a chart :menuselection:`Insert --> Chart`. The first selection is to choose a :guilabel:`Column`, :guilabel:`Bar`, :guilabel:`Pie`, :guilabel:`Area`, :guilabel:`Line`, :guilabel:`XY(Scatter)`, :guilabel:`Bubble`, :guilabel:`Net`, :guilabel:`Stock`, or  :guilabel:`Column and Line` chart. To change the subtype of graph click the picture of a chart that looks like the type you want. To switch to the next step of making a graph press the :guilabel:`Next` button.
-
-.. image:: chartwindow.png
-
-The :guilabel:`Data Range` tab controls what data will be in the chart and how present it. To switch to basing the bottom axis of your chart on rows of data press the :guilabel:`Data series in rows` button. To choose to switch your bottom axis of your chart on columns press the :guilabel:`Data series in columns` button. To use the first row as a label on each item on the chart check the :guilabel:`First row as label` checkbox. To input a custom title on the first column of your chart check the :guilabel:`First column as Label` checkbox.
-
-.. image:: chart-data-range.png
-
-The :guilabel:`Chart Elements` tab controls labels and displaying legends on your chart. To add a title to your chart type your tilte in the :guilabel:`Title` field. To add a subtitle to your chart type it in the :guilabel:`Subtitle` field. To add a label to your horizontal axis type your label in the :guilabel:`X axis` field. To label your vertical axis type your label in the :guilabel:`Y axis` field. To have a veritcal grid lines on your chart check the :guilabel:`X axis` checkbox. To have horizontal lines on your grid check the :guilabel:`Y axis` checkbox. To toggle displaying a legend on your graph check the :guilabel:`Display legend` checkbox. To move the legend to the left hand side press the :guilabel:`Left` button. To move the legend to the right hand side press the :guilabel:`Right` button. To move the legend to the top of the chart press the :guilabel:`Top` button. To move the legend to the bottom of the chart press the :guilabel:`Bottom` button.
-
-.. image:: chart-elements.png
 
 If you want to insert a new column to the left of a column right click on the letter for the column :menuselection:`Insert Column Before`. If you want the new column to the right is right click on the letter and :menuselection:`Insert Column After`. To insert a row above the current row right click on the number and :menuselection:`Insert Row Above`. To insert a row below the current row right click on the number and :menuselection:`Insert Row Below`. To delete a row or column right click the number  and select :menuselection:`Delete rows` or :menuselection:`Delete Column`.  
 
@@ -57,6 +46,20 @@ To create a new spreadsheet in the same file press the button on the bottom that
 To insert a special character not on your keyboard :menuselection:`Insert --> Special Character`. To select what character to insert left click in the center of the inserting character window. To actually insert the symbol press the :guilabel:`Insert` button.
 
 To quit LibreOffice Calc press :kbd:`Control+Q`.
+
+Charts
+------
+To get to the dialog of how to insert a chart :menuselection:`Insert --> Chart`. The first selection is to choose a :guilabel:`Column`, :guilabel:`Bar`, :guilabel:`Pie`, :guilabel:`Area`, :guilabel:`Line`, :guilabel:`XY(Scatter)`, :guilabel:`Bubble`, :guilabel:`Net`, :guilabel:`Stock`, or  :guilabel:`Column and Line` chart. To change the subtype of graph click the picture of a chart that looks like the type you want. To switch to the next step of making a graph press the :guilabel:`Next` button.
+
+.. image:: chartwindow.png
+
+The :guilabel:`Data Range` tab controls what data will be in the chart and how present it. To switch to basing the bottom axis of your chart on rows of data press the :guilabel:`Data series in rows` button. To choose to switch your bottom axis of your chart on columns press the :guilabel:`Data series in columns` button. To use the first row as a label on each item on the chart check the :guilabel:`First row as label` checkbox. To input a custom title on the first column of your chart check the :guilabel:`First column as Label` checkbox.
+
+.. image:: chart-data-range.png
+
+The :guilabel:`Chart Elements` tab controls labels and displaying legends on your chart. To add a title to your chart type your tilte in the :guilabel:`Title` field. To add a subtitle to your chart type it in the :guilabel:`Subtitle` field. To add a label to your horizontal axis type your label in the :guilabel:`X axis` field. To label your vertical axis type your label in the :guilabel:`Y axis` field. To have a veritcal grid lines on your chart check the :guilabel:`X axis` checkbox. To have horizontal lines on your grid check the :guilabel:`Y axis` checkbox. To toggle displaying a legend on your graph check the :guilabel:`Display legend` checkbox. To move the legend to the left hand side press the :guilabel:`Left` button. To move the legend to the right hand side press the :guilabel:`Right` button. To move the legend to the top of the chart press the :guilabel:`Top` button. To move the legend to the bottom of the chart press the :guilabel:`Bottom` button.
+
+.. image:: chart-elements.png
 
 Version
 -------

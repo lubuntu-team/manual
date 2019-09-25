@@ -43,7 +43,7 @@ To toggle showing the menubar check/uncheck the :guilabel:`Show the menu bar` ch
 
 .. image:: qterminalprefrences.png 
 
-The field :guilabel:`Application transparency` gives you the percent transparent for the full application transparency. The field :guilabel:`Terminal transparency` is how transparent to make the terminal. Note you will need to enable the compton compositor for this function properly. To select a background image for your terminal press the :guilabel:`Select` button next to :guilabel:`Background image:`. The field :guilabel:`Start with preset` lets you choose how many terminal splits to have when you start up QTerminal.To have a margin on the left side of the terminal set the :guilabel:`Terminal margin` will show the marginal in the terminal in pixels.
+The field :guilabel:`Application transparency` gives you the percent transparent for the full application transparency. The field :guilabel:`Terminal transparency` is how transparent to make the terminal. Note you will need to enable the compton compositor for this function properly. To select a background image for your terminal press the :guilabel:`Select` button next to :guilabel:`Background image`. The field :guilabel:`Start with preset` lets you choose how many terminal splits to have when you start up QTerminal.To have a margin on the left side of the terminal set the :guilabel:`Terminal margin` will show the marginal in the terminal in pixels.
 
 To apply these changes to see how they appear on QTerminal press the :guilabel:`Apply` button. If you like your new customized terminal layout press the :guilabel:`OK` button or if you wish to cancel your changes press the :guilabel:`Cancel` button. 
 

@@ -23,9 +23,11 @@ The removable media applet will allow you to manage your remove flash drives and
 
 .. image:: system_tray.png
 
-In the system tray there there are multiple widgets. With the volume applet you can change the volume by using the mouse-wheel with the mouse over the speaker icon or left click the speaker icon and drag the volume up and down and toggle mute with the button at the bottom of the volume meter or middle click on the volume applet.  To the far right is a clock, you can left click the clock to bring up a pop up calendar window. To go to the next month on the calendar press the rightward pointing arrow. To go the previous month on the calendar press the leftward pointing arrow. Another way to change months on the calendar is to use the mousewheel. To change the month on a calendar to list all months in the year left click on the month and then select the month you want from your menu. To change the year on your claendar left click on the year in the clanedar and then use the up and down arrows or the mouse wheel to select the year.
+In the system tray there there are multiple widgets. With the volume applet you can change the volume by using the mouse-wheel with the mouse over the speaker icon or left click the speaker icon and drag the volume up and down and toggle mute with the button at the bottom of the volume meter or middle click on the volume applet. 
 
 .. image:: volume-widget.png
+
+To the far right is a clock, you can left click the clock to bring up a pop up calendar window. To go to the next month on the calendar press the rightward pointing arrow. To go the previous month on the calendar press the leftward pointing arrow. Another way to change months on the calendar is to use the mousewheel. To change the month on a calendar to list all months in the year left click on the month and then select the month you want from your menu. To change the year on your claendar left click on the year in the clanedar and then use the up and down arrows or the mouse wheel to select the year.
 
 .. image:: calendar-widget.png
 

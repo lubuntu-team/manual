@@ -134,9 +134,9 @@ Open pcmanfm-qt               XF86MyComputer
 
 Toggle turn off monitor       C-F7
 
-Decrease backlight brightness C-F10
+Decrease backlight brightness C-S-F6
 
-Increase backlight brightness C-F11
+Increase backlight brightness C-S-F7
 
 ============================= ========================
 

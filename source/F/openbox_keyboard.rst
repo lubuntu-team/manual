@@ -114,7 +114,7 @@ Open qterminal                 C-A-T
 
 Launch firefox                XF86WWW
 
-Open terminal                 XF86Terminal
+Open qterminal                XF86Terminal
 
 ============================= ========================
 

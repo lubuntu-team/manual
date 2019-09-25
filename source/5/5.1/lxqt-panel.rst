@@ -35,7 +35,7 @@ If you are on a laptop the panel will also show the battery meter to show how mu
 
 .. image:: panel-battery.png
  
-As mentioned before, the panel is highly configurable and you can customize it by right clicking at various places. If you do not want to mess up your panel right click on the panel and select :menuselection:`Lock This Panel` and do the same again to unlock your panel. 
+As mentioned below, the panel is highly configurable and you can customize it by right clicking at various places. If you do not want to mess up your panel right click on the panel and select :menuselection:`Lock This Panel` and do the same again to unlock your panel. 
 
 Customizing
 -----------

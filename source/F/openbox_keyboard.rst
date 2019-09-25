@@ -19,13 +19,13 @@ SendToDesktop                 S-A-Up
 
 SendToDesktop                 S-A-Down
 
-GoTo first Desktop            C-F1
+GoTo first Desktop            W-F1
 
-GoTo second Desktop           C-F2
+GoTo second Desktop           W-F2
 
-GoTo third Desktop            C-F3
+GoTo third Desktop            W-F3
 
-GoTo fourth Desktop           C-F4
+GoTo fourth Desktop           W-F4
 
 ToggleShowDesktop             C-A-D
 

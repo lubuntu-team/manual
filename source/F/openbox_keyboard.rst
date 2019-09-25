@@ -110,11 +110,9 @@ Open qterminal                 C-A-T
 
 ============================= ========================
 
-**Keybinding for terminal button**
-
 ============================= ========================
 
-Execute                       XF86WWW
+Launch firefox                XF86WWW
 
 Open terminal                 XF86Terminal
 

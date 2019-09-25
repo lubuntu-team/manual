@@ -27,7 +27,7 @@ GoTo third Desktop            W-F3
 
 GoTo fourth Desktop           W-F4
 
-ToggleShowDesktop             C-A-D
+ToggleShowDesktop             W-D
 
 ============================= ========================
 

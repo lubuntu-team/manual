@@ -9,7 +9,7 @@ To take a new screenshot press the button with a piece of paper with a :guilabel
 
 To change what mode to select what are of the screen to take a screenshot from change the :guilabel:`Type` drop down menu. The options in the :guilabel:`Type` menu are :menuselection:`Full screen` to take a picture of everything on all of your screens. From the :guilabel:`Type` menu select :menuselection:`Window` to select your last window. To change how long to delay before taking the screenshot change the :guilabel:`Delay` field. To include the mouse pointer in your screenshot check the :guilabel:`Include mouse pointer` checkbox.
 
-If you have the system tray enabled screengrab can do many things by right clicking it. To show ScreenGrab this way left click on the tray icon or right click the tray icon and select :menuselection:`Show`. To have ScreenGrab take a new screenshot from the system tray right click on the tray icon and select :menuselection:`New`.
+If you have the system tray enabled ScreenGrab can do many things by right clicking it. To show ScreenGrab this way left click on the tray icon or right click the tray icon and select :menuselection:`Show`. To have ScreenGrab take a new screenshot from the system tray right click on the tray icon and select :menuselection:`New`.
 
 Screenshot
 ----------

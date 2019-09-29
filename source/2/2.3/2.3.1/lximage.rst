@@ -1,17 +1,17 @@
-Chapter 2.3.1 LXimage
+Chapter 2.3.1 LXImage
 =====================
 
-LXimage is the default image viewer for Lubuntu. 
+LXImage is the default image viewer for Lubuntu. 
 
 Usage
 ------
-To open a picture press :menuselection:`File --> Open File`, :kbd:`Control + O`, or press the button that looks like a opening folder. To open a directory full of images press :kbd:`Control+D` or :menuselection:`File --> Open Directory`. If you do not like the picture press :kbd:`Del` or :menuselection:`File --> Delete`. To open a new window of lximage press :kbd:`Control +N` or :menuselection:`File --> New Window`. To view the properties of your image by :menuselection:`File --> File Properties`. To view your recently viewed pictures :menuselection:`File --> Recently Opened Files`. To reload your file after you save it again press :kbd:`Control +R` or :menuselection:`File --> Reload file`.
+To open a picture press :menuselection:`File --> Open File`, :kbd:`Control + O`, or press the button that looks like a opening folder. To open a directory full of images press :kbd:`Control+D` or :menuselection:`File --> Open Directory`. If you do not like the picture press :kbd:`Del` or :menuselection:`File --> Delete`. To open a new window of LXImage press :kbd:`Control +N` or :menuselection:`File --> New Window`. To view the properties of your image by :menuselection:`File --> File Properties`. To view your recently viewed pictures :menuselection:`File --> Recently Opened Files`. To reload your file after you save it again press :kbd:`Control +R` or :menuselection:`File --> Reload file`.
 
 If you want to upload a picture to share it online press :menuselection:`Edit --> Upload` and a new window will pop up with a drop down menu to show where to upload the picture to. To actually upload the file press :guilabel:`Start`. The URL of the image will then show up from after it is finished uploading. You can then copy the URL by selecting the text pressing :kbd:`Control+C`.
 
 .. image:: lximage_upload.png
 
-To use lximage use the arrow to the right to view the next file in the folder and the arrow to the left to view the previous folder. To open an entire directory :menuselection:`File --> Open Directory` or press :kbd:`Control +D`. To save the file as something press :kbd:`Control+Shift+S` or :menuselection:`File --> Save As`. To save  the file with the same file name press :kbd:`Control+S` or :menuselection:`File -->Save`.
+To use LXImage use the arrow to the right to view the next file in the folder and the arrow to the left to view the previous folder. To open an entire directory :menuselection:`File --> Open Directory` or press :kbd:`Control +D`. To save the file as something press :kbd:`Control+Shift+S` or :menuselection:`File --> Save As`. To save  the file with the same file name press :kbd:`Control+S` or :menuselection:`File -->Save`.
 
 If you wish to print a picture after viewing it from the :menuselection:`File --> Pint` or press :kbd:`control+ p` to bring up a print dialog. To exit the window with a keyboard shortcut press the :kbd:`Escape` key.
 
@@ -33,7 +33,7 @@ To view the picture as fullscreen press :kbd:`f11` or :menuselection:`View --> F
 
 Annotations
 ------------
-To edit your images with lximage there are several buttons on the right hand side of the toolbar. To draw and arrow press the button that looks like an arrow click once where you want the arrow to start and then drag the direction you want the arrow to point and click it where you want the arrowhead to be. To draw a hollow rectangle left click on the button with a hollow rectangle and click and drag to the size of the rectangle you want. To draw a hollow circle annotation press the button that looks like a hollow circle. To draw numbers on your pictures press the :guilabel:`3` button. To stop drawing annotations press the button with a circle with a slash through it.
+To edit your images with LXImage there are several buttons on the right hand side of the toolbar. To draw and arrow press the button that looks like an arrow click once where you want the arrow to start and then drag the direction you want the arrow to point and click it where you want the arrowhead to be. To draw a hollow rectangle left click on the button with a hollow rectangle and click and drag to the size of the rectangle you want. To draw a hollow circle annotation press the button that looks like a hollow circle. To draw numbers on your pictures press the :guilabel:`3` button. To stop drawing annotations press the button with a circle with a slash through it.
 
 Screenshot
 ----------
@@ -47,14 +47,14 @@ To change the background color in a window press the button next to :guilabel:`N
 
 Version
 -------
-Lubuntu ships with version 0.14.1 or lximage. 
+Lubuntu ships with version 0.14.1 or LXImage. 
 
 How to launch
 -------------
-To launch lximage from the menu :menuselection:`Graphics --> LXimage` or run
+To launch LXImage from the menu :menuselection:`Graphics --> LXimage` or run
 
 .. code:: 
 
    lximage-qt 
 
-from the command line. The icon for lximage-qt is an orange landscape scene of a sunset. 
+from the command line. The icon for LXImage is an orange landscape scene of a sunset. 

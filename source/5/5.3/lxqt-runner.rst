@@ -3,7 +3,6 @@ Chapter 5.3 Runner
 
 Runner allows you to search for and launch applications and commands in the LXQt environment. It is a quick and convenient way of finding what you're looking for.
 
-
 Usage
 ------
 

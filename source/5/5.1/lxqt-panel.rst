@@ -87,6 +87,8 @@ To change the look of your taskbar in the same window as above the appearance se
 
 The settings for removable media is able to be opened up is right click the applet :menuselection:`Configure "Removable media"` you can select :menuselection:`Show info`, :menuselection:`Popup menu`, or :menuselection:`Do nothing`. If you want to reset the setting for this press the :guilabel:`Reset` button. 
 
+.. image:: removalble-media-settings.png
+
 To configure the volume applet right click on the volume applet and select :menuselection:`Configure "Volume Control"`. To change which audio output to have the applet control change the dropdown at the bottom of the :guilabel:`Device to control` box.  To toggle muting on middle clicking check the :guilabel:`Mute on middle click` checkbox. To toggle having to click to bring up the volume applet check the :guilabel:`Show on mouse click` checkbox. To allow your volume in software to be over 100 percent check the :guilabel:`Allow volume beyond 100%` checkbox. To always show notification on volume changes check the :guilabel:`Always notify about volume changes` checkbox. To change how sensitive your volume meter is change the :guilabel:`Volume adjust step`. To change what you use as your mixer type the command in the :guilabel:`External Mixer` field.
 
 .. image::   volume-app-pref.png

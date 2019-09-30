@@ -128,7 +128,7 @@ To add a spacer to your panel add the spacer widget. It creates a blank space on
 
 Version
 -------
-Lubuntu ships with version 0.13.0 of lxqt-panel.
+Lubuntu ships with version 0.14.1 of lxqt-panel.
 
 How to launch
 -------------

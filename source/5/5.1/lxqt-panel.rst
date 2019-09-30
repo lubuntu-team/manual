@@ -118,7 +118,6 @@ To customize the sensors right click on the sensors applet :menuselection:`Confi
 
 .. image:: sensors-config.png
 
-
 The :guilabel:`Sensors` tab provides settings for each individual sensor on your processor. To enable/disable which sensor press to the :guilabel:`Enabled` checkbox for each sensor. The :guilabel:`Label` shows a label for each sensor. The :guilabel:`Color` column shows the color for the bar to appear in the panel and you can bring up a dialog to change color by left clicking on the button. To switch to a different chip to set the sensors for change the :guilabel:`Detected chips` menu. 
 
 .. image::   sensors-applet.png

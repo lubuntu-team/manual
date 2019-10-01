@@ -17,7 +17,7 @@ To view or change the properties of printer or make changes with :menuselection:
 
 .. image::  prop-settings.png
 
-To change what your printer changes on errors or is enabled and banners use the :guilabel:`Policies` tab. To disable the printer uncheck the :guilabel:`Enabled` checkbox. To have the printer not accept jobs uncheck the :guilabel:`Accepting jobs` checkbox. To not share your printer uncheck the :guilabel:`Shared` checkbox. To change what to do when your printer encounters an error change the :guilabel:`Error Policy` drop down menu. To have a banner before you start priinging use the :guilabel:`Starting Banner` drop down. To have a banner ending what you print use the :guilabel:`Ending Banner` drop down.
+To change what your printer changes on errors or is enabled and banners use the :guilabel:`Policies` tab. To disable the printer uncheck the :guilabel:`Enabled` checkbox. To have the printer not accept jobs uncheck the :guilabel:`Accepting jobs` checkbox. To not share your printer uncheck the :guilabel:`Shared` checkbox. To change what to do when your printer encounters an error change the :guilabel:`Error Policy` drop down menu. To have a banner before you start printing use the :guilabel:`Starting Banner` drop down. To have a banner ending what you print use the :guilabel:`Ending Banner` drop down.
 
 .. image:: prop-policies.png
 

@@ -17,6 +17,8 @@ To view or change the properties of printer or make changes with :menuselection:
 
 .. image::  prop-settings.png
 
+To change what your printer changes on errors or is enabled and banners use the :guilabel:`Policies` tab.
+
 If you want to change which users can use this printer use the :guilabel:`Acess Control` tab. To add a user to not be allowed to print type there name in the bar and press the :guilabel:`Add` button. To remove a user from this list left click on the username and click the :guilabel:`Delete` button. To switch to only allowing users on the list to print press the :guilabel:`Deny printing for everyone except these users` button. To switch back to banning users from printing press the :guilabel:`Allow printing for everyone except these users` checkbox.
 
 .. image:: prop-access-control.png

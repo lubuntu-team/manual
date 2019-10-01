@@ -15,6 +15,8 @@ If you want to delete a printer :menuselection:`Printer --> Delete` after left c
 
 To view or change the properties of printer or make changes with :menuselection:`Printer --> Properties`. To see settings on the printer has use the :guilabel:`Settings` tab. To change how to describe and name your :guilabel:`Description` field. To change where the location of this printer is change the :guilabel:`Location` field. To choose a different driver to use for your printer press the :guilabel:`Change` button to the rigght of :guilabel:`Make and Model`. To print a test page press the :guilabel:`Print Test Page` button.
 
+If you want to change which users can use this printer use the :guilabel:`Acess Control` tab. To add a user to not be allowed to print type there name in the bar and press the :guilabel:`Add` button.
+
 To close printers press :kbd:`Control+Q`.
 
 Screenshot

@@ -25,6 +25,8 @@ If you want to change which users can use this printer use the :guilabel:`Acess 
 
 .. image:: prop-access-control.png
 
+To choose settings specific to your printer use the :guilabel:`Printer Options` tab.
+
 To close printers press :kbd:`Control+Q`.
 
 Screenshot

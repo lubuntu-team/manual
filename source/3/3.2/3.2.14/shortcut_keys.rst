@@ -1,7 +1,7 @@
 Chapter 3.2.14 Shortcut keys
 ============================
 
-Shortcut keys is a program that manages the global hotkeys or keyboard shortcuts for Lubuntu.
+Shortcut keys is the program that manages the global hotkeys or keyboard shortcuts for Lubuntu.
 
 .. note::
     The keyboard shortcuts are also managed by Openbox. Refer to Appendix F for more detail.

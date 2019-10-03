@@ -6,7 +6,6 @@ Shortcut keys is the program that manages the global hotkeys or keyboard shortcu
 .. note::
     The keyboard shortcuts are also managed by Openbox. Refer to Appendix F for more detail.
 
-
 Usage
 ------
 You can **Modify** a current keyboard shortcut by selecting the shortcut from the keyboard table, clicking the :guilabel:`Modify` button, then clicking on the shortcut button. A countdown will begin during which you should push the **keyboard shortcut combination** you want.  
@@ -27,7 +26,6 @@ Screenshots
 Version
 -------
 Lubuntu ships with version 0.14.1 of shortcut keys.
-
 
 How to launch
 -------------

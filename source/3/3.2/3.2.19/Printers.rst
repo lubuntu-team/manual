@@ -27,6 +27,8 @@ If you want to change which users can use this printer use the :guilabel:`Acess 
 
 To choose settings specific to your printer use the :guilabel:`Printer Options` tab. To choose your paper size use the :guilabel:`Media Size` drop down. To print color as gray check the :guilabel:`Print Color as Gray` checkbox.
 
+.. image:: prop-printer-option.png
+
 To close printers press :kbd:`Control+Q`.
 
 Screenshot

@@ -19,7 +19,7 @@ The :guilabel:`Fade` tab manages fading windows opening or closing or opacity ch
 
 The :guilabel:`Other` tab has settings for changing the backend of how compton renders things. The :guilabel:`Rendering backend` changes what compton uses to render the window effects. To switch to hardware accelerated rendering of the compton backend press the :guilabel:`GLX(OpenGL)` button. To change back to the default rendering press the :guilabel:`X Render` button.
 
-To have your settings applied you will need to press the :guilabel:`Apply` button. If you want to cancel your changes press the :guilabel:`Cancel` button or if you want to close press the :kbd:`Escape` key.
+To have your settings applied you will need to press the :guilabel:`Apply` button. If you want to cancel your changes press the :guilabel:`Cancel` button. If you want to close Window Effects press the :kbd:`Escape` key.
 
 Version
 -------

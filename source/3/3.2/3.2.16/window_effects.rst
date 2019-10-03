@@ -3,8 +3,6 @@ Chapter 3.2.16 Window Effects
 
 Window effects is a program to manage effects of the Compton X compositor. 
 
-
-
 Usage
 ------
 The :guilabel:`Shadow` tab manages how compton draws shadows. To toggle enable client side shadows press the Enable client side shadows checkbox. The checkbox for Avoid drawing shadows on dock/panel windows will stop drawing shadows on the panel. The :guilabel:`Color of shadow` lets you change the color of shadows from windows. The field for :guilabel:`The blur radius for shadows` changes how big to blur the shadows. :guilabel:`The left offset for shadows` is how far to move the shadows to the left with a larger number makes the shadow appear farther to the right. :guilabel:`The top offset for shadows` the larger the number farther down the shadow appears below the window. :guilabel:`The translucency for shadows` is how opaque or clear to make the shadows 1 is opaque shadows and 0 is clear. The :guilabel:`Crop shadows of maximized windows from extended displays` checkbox does not have shadows across multimonitor layouts on other monitors from windows on another.  

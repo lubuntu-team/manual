@@ -31,11 +31,9 @@ The :guilabel:`Groups` tabs lets you see info on groups and change properties. T
 
    Changing user and group permissions without knowing what you are doing could break your system.
 
-
 Version
 -------
 Lubuntu ships with version 0.14.1 of Users and Groups. 
-
 
 How to launch
 -------------
@@ -45,4 +43,4 @@ To launch Users and groups from the menu :menuselection:`Preferences --> LXQt se
 
    lxqt-admin-user 
    
-from the command line.  
+from the command line.

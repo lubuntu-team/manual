@@ -29,11 +29,9 @@ The tab for :guilabel:`Environment (Advanced)` has many effects for you environm
 
 If you want to undo changes you have done press the :guilabel:`Reset` button. To close session settings press the :kbd:`Escape` key.
 
-
 Version
 -------
 Lubuntu ships with version 0.14.1 of session settings. 
-
 
 How to launch
 -------------

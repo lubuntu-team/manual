@@ -3,7 +3,6 @@ Chapter 3.2.10 Monitor Settings
 
 Monitor settings controls your monitor(s) resolution, refresh rate, and saves monitor settings.
 
-
 Usage
 ------
 If you use a single monitor you can change your single monitor resolution on the right hand size and select your resolution. When you change your resolution you will be asked to confirm to make sure you don't make a choice that makes it harder to use your computer. 

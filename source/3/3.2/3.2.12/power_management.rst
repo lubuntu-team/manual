@@ -7,7 +7,6 @@ Usage
 ------
 LXQt power management watches your battery, laptop lid, and idleness on the screen. Each of the checkboxes for battery, laptop lid, or idleness watchers are checkboxes to enable or disable each.
 
-
 The :guilabel:`Battery` tab has settings for monitoring your battery power level and some settings. On a laptop power management should show a :guilabel:`+` with a ring around it representing your current battery charge on your laptop when it is charging with a full green circle meaning you are fully charged in the system tray. If your battery is discharging you will see a :guilabel:`-` symbol at the center of the circle. If you hover the mouse cursor over this it will show the percent of charge as a percentage and whether the battery is charging or discharging. When your battery is fully charged it will turn into a black circle. 
 
 .. image:: lxqt-power-battery.png
@@ -22,7 +21,7 @@ The Checkbox :guilabel:`When using external monitor` Allows you to have differen
 
 The :guilabel:`Idle` tab manages what happens when you walk away from your keyboard. The :guilabel:`When idle then` you select whether you want to do nothing, Lock Screen, Suspend, hibernate, Shutdown or turn off monitor. The :guilabel:`Idle time` fields tell you how long to wait when you are away before the idleness watcher takes the action you wish. 
 
-To reset your changes if you decide not to use them press the :guilabel:`Reset` button. To close power management press the :kbd:`Escape` key.
+To reset your changes press the :guilabel:`Reset` button. To close power management press the :kbd:`Escape` key.
 
 Screenshot
 ----------

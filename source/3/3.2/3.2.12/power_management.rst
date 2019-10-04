@@ -5,7 +5,7 @@ Power management manages what to do on laptop batteries when the power is low wh
 
 Usage
 ------
-LXQt power management watches your battery, laptop lid, and idleness on the screen. Each one of the checkbox is to battery laptop lid and idleness is a checkbox to enable or disable each.
+LXQt power management watches your battery, laptop lid, and idleness on the screen. Each of the checkboxes for battery, laptop lid, or idleness watchers are checkboxes to enable or disable each.
 
 
 The :guilabel:`Battery` tab has settings for monitoring your battery power level and some settings. On a laptop power management should show a :guilabel:`+` with a ring around it representing your current battery charge on your laptop when it is charging with a full green circle meaning you are fully charged in the system tray. If your battery is discharging you will see a :guilabel:`-` symbol at the center of the circle. If you hover the mouse cursor over this it will show the percent of charge as a percentage and whether the battery is charging or discharging. When your battery is fully charged it will turn into a black circle. 

@@ -1,7 +1,7 @@
 Chapter 3.2.11 Openbox Settings
 ===============================
 
-Openbox settings changes configuration of openbox which is the default window manager of Lubuntu 18.10.
+Openbox settings changes configuration of openbox the default window manager of Lubuntu.
 
 Usage
 ------

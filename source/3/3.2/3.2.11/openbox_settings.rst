@@ -3,7 +3,6 @@ Chapter 3.2.11 Openbox Settings
 
 Openbox settings changes configuration of openbox which is the default window manager of Lubuntu 18.10.
 
-
 Usage
 ------
 The :guilabel:`Theme` tab changes the titlebars and menus provided by the window manager. To change the theme of the titlebar select the theme on the archive on the and see how it looks by left clicking on the theme name. The new titlebars will immediately appear and you will see it on that window. If you want to check what menus to close windows will look like click on the icon on the left of the titlebar.
@@ -14,9 +13,7 @@ The :guilabel:`Appearance` tab lets you change where the buttons are so for is y
 
 The :guilabel:`Windows retain a border when undecorated` checkbox has windows still have a border if you choose to decorate them. The :guilabel:`Animate iconify and restore` checkbox runs a simple animation when you iconify(minimize) a window or restore it. 
 
-
 .. image:: openbox-config.png
-
 
 The :guilabel:`Font` tab changes the font of your window titlebars you can select several different fonts for different conditions of the window. To change the style of the font you can under the  :guilabel:`Inactive window title` field. For example if you have trouble telling which window you are in you can make the font italic for the titlebars of inactive windows to make it even more obvious. Other fonts you can change are :guilabel:`Active Window title`, :guilabel:`Menu header`, :guilabel:`Menu Item`, :guilabel:`Active On-screen display`, or :guilabel:`Inactive On-screen display`.
 
@@ -50,7 +47,6 @@ How to launch
 -------------
 
 To launch openbox settings from the menu :menuselection:`Preferences --> LXQt settings --> Openbox Settings`. From LXQt settings press the Openbox Settings button with the wrench and screwdriver on a computer window or run
-
 
 .. code:: 
 

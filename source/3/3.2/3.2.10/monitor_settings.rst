@@ -42,7 +42,7 @@ Lubuntu ships with version 0.14.1 of monitor settings.
 How to launch
 -------------
 
-To launch monitor settings from the menu :menuselection:`Preferences --> LXQt settings --> Monitor settings`. From lxqt-configuration-center press the button for monitor settings that looks like a desktop monitor or run
+To launch monitor settings from the menu :menuselection:`Preferences --> LXQt settings --> Monitor settings`. From LXQt Configuration Center press the button for monitor settings that looks like a desktop monitor or run
 
 .. code::
 

@@ -1,7 +1,7 @@
 Chapter 3.2.10 Monitor Settings
 ===============================
 
-Monitor settings controls your monitor(s) resolution, refresh rate, and saves settings.
+Monitor settings controls your monitor(s) resolution, refresh rate, and saves monitor settings.
 
 
 Usage

@@ -1,7 +1,7 @@
 Chapter 3.2.13 Session Settings
 ===============================
 
-Session Settings is a way to change what happens when log into Lubuntu. Here you can manage applications and services at startup.
+Session Settings is the way to change what happens when log into Lubuntu. Here you can manage default applications and services at startup.
 
 Usage
 ------

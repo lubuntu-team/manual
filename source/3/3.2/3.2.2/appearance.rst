@@ -3,10 +3,6 @@ Chapter 3.2.2 Appearance
 
 Appearance is the default program that changes the theming of LXQt for a different visual look.
 
-Version
--------
-Lubuntu ships with version 0.14.1 of appearance. 
-
 Usage
 ------
 The tab :guilabel:`Widget Style` changes the way windows, buttons, and menus are drawn. To change the usage Qt widget will change the buttons and tooblbars look on Lubuntu in Qt applications. Check the checkbox :guilabel:`Set GTk themes` settings will apply native themes to GTk applications. The field for :guilabel:`GTK 2 Theme` will select a theme for GTK2 applications. The :guilabel:`GTK 3 Theme` field sets the theme with GTK3 applications. The checkbox :guilabel:`Activate on single click` has makes things you normally need two clicks for one click.  
@@ -30,6 +26,10 @@ The :guilabel:`Cursor` tab has one option to change cursor theme lets you change
 .. image:: appearance-cursor.png
 
 If you want to reset your changes you will need to click the :guilabel:`Reset` button to revert your changes to how they were before. To actually quit by the keyboard press the :kbd:`Escape` key.
+
+Version
+-------
+Lubuntu ships with version 0.14.1 of appearance. 
 
 How to launch
 -------------

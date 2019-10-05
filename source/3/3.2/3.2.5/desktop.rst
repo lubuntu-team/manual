@@ -31,7 +31,7 @@ To quit Desktop press the :kbd:`Escape` key.
 
 How to launch
 -------------
-To launch Desktop from the menu :menuselection:`Preferences --> LXQt settings --> Desktop`. Or from LXQt configuration center press the desktop button to launch it or run
+To launch Desktop from the menu :menuselection:`Preferences --> LXQt settings --> Desktop`. Or from LXQt Configuration Center press the desktop button to launch it or run
 
 .. code:: 
 

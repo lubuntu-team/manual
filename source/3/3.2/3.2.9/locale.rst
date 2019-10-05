@@ -25,4 +25,4 @@ To launch locale from the menu :menuselection:`Preferences --> LXQt settings -->
 
    lxqt-config-locale 
    
-from the command line. In LXQt configuration center press the locale button that looks like a flag. 
+from the command line. In LXQt Configuration Center press the locale button that looks like a flag. 

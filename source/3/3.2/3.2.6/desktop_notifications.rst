@@ -19,7 +19,6 @@ Version
 -------
 Lubuntu ships with version 0.14.1 of desktop notifications.
 
-
 How to launch
 -------------
 To launch Desktop notifications from the menu :menuselection:`Preferences --> LXQt settings --> Desktop Notifications`. In LXQt Configuration Center press the Desktop Notification button which looks like a giant !. You can also launch Desktop Notifications from left clicking on the docked notifications and :menuselection:`Options`. To launch the Desktop Notifications from the command line run

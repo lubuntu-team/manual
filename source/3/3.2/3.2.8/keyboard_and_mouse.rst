@@ -36,7 +36,7 @@ Lubuntu ships with version 0.14.1 of Keyboard and Mouse.
 How to launch
 -------------
 
-To launch Keyboard and Mouse use menu :menuselection:`Preferences --> LXQt settings --> Keyboard and Mouse`. In LXQt configuration center press the keyboard and mouse button or from the command line run
+To launch Keyboard and Mouse use menu :menuselection:`Preferences --> LXQt settings --> Keyboard and Mouse`. In LXQt Configuration Center press the keyboard and mouse button or from the command line run
 
 
 .. code:: 

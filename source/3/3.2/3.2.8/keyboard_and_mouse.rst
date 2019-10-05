@@ -1,7 +1,7 @@
 Chapter 3.2.8 Keyboard and Mouse
 ================================
 
-Keyboard and Mouse is a program to change the behavior of your keyboard and mouse.
+Keyboard and Mouse is the program to change the behavior of your keyboard and mouse.
 
 Usage
 ------

@@ -19,7 +19,7 @@ Lubuntu ships with version 0.14.1 of Locale.
 
 How to Launch
 -------------
-To launch locale in the menu :menuselection:`Preferences --> LXQt settings --> Locale` or run
+To launch locale from the menu :menuselection:`Preferences --> LXQt settings --> Locale` or run
 
 .. code:: 
 

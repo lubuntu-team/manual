@@ -1,7 +1,7 @@
 Chapter 3.2.2 Appearance
 ========================
 
-Appearance is a program that changes the theming of LXQt for a different visual look.
+Appearance is the default program that changes the theming of LXQt for a different visual look.
 
 
 Version

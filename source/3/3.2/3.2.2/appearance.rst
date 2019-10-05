@@ -3,7 +3,6 @@ Chapter 3.2.2 Appearance
 
 Appearance is the default program that changes the theming of LXQt for a different visual look.
 
-
 Version
 -------
 Lubuntu ships with version 0.14.1 of appearance. 
@@ -31,7 +30,6 @@ The :guilabel:`Cursor` tab has one option to change cursor theme lets you change
 .. image:: appearance-cursor.png
 
 If you want to reset your changes you will need to click the :guilabel:`Reset` button to revert your changes to how they were before. To actually quit by the keyboard press the :kbd:`Escape` key.
-
 
 How to launch
 -------------

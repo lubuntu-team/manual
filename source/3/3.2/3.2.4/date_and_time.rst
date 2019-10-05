@@ -9,7 +9,7 @@ The tab for :guilabel:`Date and time` sets what time it is and settings for sync
 
 If you do not wish to synchronize your clock via network time protocol uncheck the :guilabel:`Enable network time synchronization (NTP)` checkbox. Once NTP is disabled you want to be able to change your time locally you will be able to change your time by typing your time in the correct time in the :guilabel:`Time` field or using the up and down arrows.
 
-To cancel your changes to in date and time press the :guilabel:`Cancel` button. To close Date and Time press the :kbd:`Escape` key.
+To cancel your changes to in Date and Time press the :guilabel:`Cancel` button. To close Date and Time press the :kbd:`Escape` key.
 
 Screenshot
 ----------

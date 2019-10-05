@@ -4,9 +4,6 @@ Chapter 3.2.5 Desktop
 
 Desktop is an application to change the Desktop background and different settings even including slideshows. 
 
-Version
--------
-Lubuntu ships with 0.14.1 of Desktop.
 
 Usage
 ------
@@ -28,6 +25,10 @@ The tab :guilabel:`Advanced` has settings for automatic desktop icons or include
 .. image::   desktop-advanced.png
 
 To quit Desktop press the :kbd:`Escape` key.
+
+Version
+-------
+Lubuntu ships with 0.14.1 of Desktop.
 
 How to launch
 -------------

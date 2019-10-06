@@ -1,7 +1,7 @@
 Chapter 3.2 Preferences
 =======================
 
-This chapter sets up the many preferences included within lubuntu for themeing and customization. Be aware that this will make your system look different than the screenshots in this manual.
+This chapter sets up the many preferences included within Lubuntu for themeing and customization. Be aware that this will make your system look different than the screenshots in this manual.
 
 .. toctree::
   :maxdepth: 2

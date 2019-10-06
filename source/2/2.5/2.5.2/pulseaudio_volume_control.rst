@@ -1,7 +1,7 @@
 Chapter 2.5.2 PulseAudio Volume Control
 ========================================
 
-Pulse Audio volume control is the default volume mixer for Lubuntu.
+PulseAudio Volume Control is the default volume mixer for Lubuntu.
 
 Usage
 ------

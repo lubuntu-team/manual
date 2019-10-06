@@ -25,15 +25,15 @@ The :guilabel:`Configuration` tab has different sound profiles for each differen
 
 Version
 -------
-Lubuntu ships with version 0.4.0 Pulse Audio Volume Control. 
+Lubuntu ships with version 0.4.0 PulseAudio Volume Control. 
 
 How to launch
 -------------
-To launch pulse audio volume Control from the menu :menuselection:`Sound & Video --> Pulse Audio Volume Control` or run 
+To launch PulseAudio Volume Control from the menu :menuselection:`Sound & Video --> PulseAudio Volume Control` or run 
 
 .. code:: 
 
    pavucontrol-qt 
 
-from the command line. Another way to launch Pulse Audio Volume Control is to  left click on the volume applet in the panel and click the :guilabel:`Mixer` button.
+from the command line. Another way to launch PulseAudio Volume Control is to  left click on the volume applet in the panel and click the :guilabel:`Mixer` button.
 

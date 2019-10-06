@@ -28,7 +28,6 @@ Screenshot
 
 .. image:: discover_screen.png
 
-
 Version
 -------
 Lubuntu ships with version 5.16.4 of Discover.

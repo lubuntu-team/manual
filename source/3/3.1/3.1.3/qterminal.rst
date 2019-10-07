@@ -66,7 +66,7 @@ Version
 Lubuntu ships with version 0.14.1 of QTerminal.
 
 
-How to launch
+How to Launch
 -------------
 To launch QTerminal in a normal window go to the menu :menuselection:`System Tools --> QTerminal` or run 
 

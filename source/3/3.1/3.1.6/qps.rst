@@ -26,7 +26,7 @@ Screenshot
 ----------
 .. image:: qps.png
 
-How to launch
+How to Launch
 -------------
 To launch qps go to the menu :menuselection:`System Tools --> qps` or run 
 

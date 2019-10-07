@@ -30,7 +30,7 @@ Lubuntu ships with version 0.4.2 of nm-tray.
 
 How to launch
 -------------
-nm-tray should automatically launch in the system tray to and looks like either a plug with a cable plugged in if you have an ethernet connection. If you do not have nm-tray and want to start it just once from the command line run 
+nm-tray should automatically launch in the system tray to and looks like either a plug with a cable plugged in if you have an ethernet connection. If you do not have nm-tray running and want to start it just once from the command line run 
 
 .. code::
 

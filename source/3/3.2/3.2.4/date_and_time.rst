@@ -21,9 +21,9 @@ Version
 -------
 Lubuntu ships with version 0.14.1 of Date and time. 
 
-How to launch
+How to Launch
 -------------
-To launch date and time from the menu :menuselection:`Preferences --> LXQt settings --> Date and Time`. From LXQt Configuration Center under the system settings header at the bottom press the Date and Time button or from the command line run
+To launch Date and Time from the menu :menuselection:`Preferences --> LXQt settings --> Date and Time`. From LXQt Configuration Center under the system settings header at the bottom press the Date and Time button or from the command line run
 
 .. code:: 
 

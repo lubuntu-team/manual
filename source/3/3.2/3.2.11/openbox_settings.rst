@@ -1,7 +1,7 @@
 Chapter 3.2.11 Openbox Settings
 ===============================
 
-Openbox settings changes configuration of openbox the default window manager of Lubuntu.
+Openbox Settings changes configuration of openbox the default window manager of Lubuntu.
 
 Usage
 ------
@@ -43,10 +43,10 @@ Version
 -------
 Lubuntu ships with version 0.14.1 of openbox settings. 
 
-How to launch
+How to Launch
 -------------
 
-To launch openbox settings from the menu :menuselection:`Preferences --> LXQt settings --> Openbox Settings`. From LXQt settings press the Openbox Settings button with the wrench and screwdriver on a computer window or run
+To launch Openbox Settings from the menu :menuselection:`Preferences --> LXQt settings --> Openbox Settings`. From LXQt settings press the Openbox Settings button with the wrench and screwdriver on a computer window or run
 
 .. code:: 
 

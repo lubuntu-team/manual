@@ -27,7 +27,7 @@ Version
 -------
 Lubuntu ships with Version 6.3.1.2 of LibreOffice math. 
 
-How to launch
+How to Launch
 -------------
 To launch LibreOffice math in the menu :menuselection:`Office --> LibreOffice Math` or run 
 

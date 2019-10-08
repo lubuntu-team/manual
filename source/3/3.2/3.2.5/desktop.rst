@@ -28,7 +28,7 @@ Version
 -------
 Lubuntu ships with 0.14.1 of Desktop.
 
-How to launch
+How to Launch
 -------------
 To launch Desktop from the menu :menuselection:`Preferences --> LXQt settings --> Desktop`. Or from LXQt Configuration Center press the desktop button to launch it or run
 

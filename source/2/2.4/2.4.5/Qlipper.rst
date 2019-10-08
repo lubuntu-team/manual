@@ -24,7 +24,7 @@ Version
 -------
 Lubuntu ships with version 5.1.2 of Qlipper. 
 
-How to launch
+How to Launch
 -------------
 By default Qlipper should autostart and should be on the bottom right of your panel. If you need to get it running and it is not go to the menu :menuselection:`Accessories --> Qlipper`.
 To launch it from the command line run 

@@ -48,7 +48,7 @@ Version
 
 Lubuntu ships with version 2.94 of Transmission.
 
-How to launch
+How to Launch
 -------------
 
 To launch Transmission go to menu :menuselection:`Internet --> Qtransmission Bittorent Client` or run 

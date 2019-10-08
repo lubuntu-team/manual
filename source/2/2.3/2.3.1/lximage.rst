@@ -49,7 +49,7 @@ Version
 -------
 Lubuntu ships with version 0.14.1 or LXImage. 
 
-How to launch
+How to Launch
 -------------
 To launch LXImage from the menu :menuselection:`Graphics --> LXimage` or run
 

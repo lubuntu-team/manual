@@ -80,7 +80,7 @@ Version
 -------
 Lubuntu ships with version 19.04.3 of Kcalc.
 
-How to launch
+How to Launch
 -------------
 To launch Kcalc go to :menuselection:`Accessories --> Kcalc` or run
 

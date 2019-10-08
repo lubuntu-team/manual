@@ -32,7 +32,7 @@ Version
 -------
 Lubuntu ships with version 5.16.4 of Discover.
 
-How to launch
+How to Launch
 -------------
 To launch Discover from the menu :menuselection:`System Tools --> Discover` or run 
 

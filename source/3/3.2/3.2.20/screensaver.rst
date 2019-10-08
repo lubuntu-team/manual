@@ -25,9 +25,9 @@ Version
 -------
 Lubuntu ships with version 5.42 of Screensaver
 
-How to launch
+How to Launch
 -------------
-To launch screensaver from the menu :menuselection:`Preferences --> Screensaver` or run
+To launch Screensaver from the menu :menuselection:`Preferences --> Screensaver` or run
 
 .. code:: 
 

@@ -27,7 +27,7 @@ Screenshot
 ----------
 .. image:: skanlite.png
 
-How to launch
+How to Launch
 -------------
 To launch Skanlite turn on your scanner and that it is connected to your computer. To launch the application go to the menu :menuselection:`Graphics --> Skanlite` or run 
 

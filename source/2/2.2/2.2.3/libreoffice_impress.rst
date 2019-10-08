@@ -113,7 +113,7 @@ Version
 -------
  Lubuntu ships with version 6.3.1.2 of LibreOffice impress.
 
-How To launch
+How To Launch
 -------------
 To launch go to the menu :menuselection:`Office --> LibreOffice Impress` or run  
 

@@ -51,7 +51,7 @@ Version
 -------
 Lubuntu Ships with version 0.7-0 of Trojita.
 
-How to launch
+How to Launch
 --------------
 To launch Trojita from the menu :menuselection:`Internet --> Trojita` with the icon that looks like an envelope or run
 

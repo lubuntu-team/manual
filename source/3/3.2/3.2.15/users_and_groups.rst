@@ -35,9 +35,9 @@ Version
 -------
 Lubuntu ships with version 0.14.1 of Users and Groups. 
 
-How to launch
+How to Launch
 -------------
-To launch Users and groups from the menu :menuselection:`Preferences --> LXQt settings --> Users and Groups`. From LXQt configuration center under system settings press the button that looks like two people. Or you can run
+To launch Users and Groups from the menu :menuselection:`Preferences --> LXQt settings --> Users and Groups`. From LXQt configuration center under system settings press the button that looks like two people. Or you can run
 
 .. code:: 
 

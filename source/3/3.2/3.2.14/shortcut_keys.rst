@@ -1,7 +1,7 @@
-Chapter 3.2.14 Shortcut keys
+Chapter 3.2.14 Shortcut Keys
 ============================
 
-Shortcut keys is the program that manages the global hotkeys or keyboard shortcuts for Lubuntu.
+Shortcut Keys is the program that manages the global hotkeys or keyboard shortcuts for Lubuntu.
 
 .. note::
     The keyboard shortcuts are also managed by Openbox. Refer to Appendix F for more detail.
@@ -27,9 +27,9 @@ Version
 -------
 Lubuntu ships with version 0.14.1 of shortcut keys.
 
-How to launch
+How to Launch
 -------------
-To launch shortcut keys from the menu :menuselection:`Preferences --> LXQt settings --> Shortcut Keys`. From LXQt configuration center use shortcut keys button which looks like 6 keyboard keys or from the command line run
+To launch Shortcut Keys from the menu :menuselection:`Preferences --> LXQt settings --> Shortcut Keys`. From LXQt configuration center use shortcut keys button which looks like 6 keyboard keys or from the command line run
 
 .. code:: 
 

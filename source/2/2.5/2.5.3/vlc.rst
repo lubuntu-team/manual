@@ -117,7 +117,7 @@ Version
 -------
 Lubuntu ships with version 3.0.8 of VLC.
 
-How to launch
+How to Launch
 -------------
 to launch VLC in the menu go to :menuselection:`Sound & Video --> VLC media player` or run 
 

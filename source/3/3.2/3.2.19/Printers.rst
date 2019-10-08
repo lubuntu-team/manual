@@ -39,9 +39,9 @@ Version
 -------
 Lubuntu ships with version 1.5.11 of printers.
 
-How to launch
+How to Launch
 -------------
-To launch printers from the menu :menuselection:`Preferences --> Printers` or run
+To launch Printers from the menu :menuselection:`Preferences --> Printers` or run
 
 .. code:: 
 

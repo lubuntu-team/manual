@@ -29,7 +29,7 @@ Version
 -------
 Lubuntu ships with version 6.3.1.2 of LibreOffice.
 
-How to launch
+How to Launch
 -------------
 From the menu :menuselection:`Office --> LibreOffice` to launch LibreOffice or run 
 

@@ -54,7 +54,7 @@ To see your keyboard shortcuts for ARK :menuselection:`Settings --> Configure Sh
 
 .. image:: ark-shortcut-config.png
 
-How to launch
+How to Launch
 -------------
 To launch ARK go to the menu :menuselection:`Accessories --> ARK` or run 
 

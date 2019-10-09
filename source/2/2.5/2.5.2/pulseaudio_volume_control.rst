@@ -27,7 +27,7 @@ Version
 -------
 Lubuntu ships with version 0.4.0 PulseAudio Volume Control. 
 
-How to launch
+How to Launch
 -------------
 To launch PulseAudio Volume Control from the menu :menuselection:`Sound & Video --> PulseAudio Volume Control` or run 
 

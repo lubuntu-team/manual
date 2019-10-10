@@ -23,7 +23,6 @@ To create an archive press :kbd:`Control +N` or :menuselection:`Archive --> New`
 
 .. image:: arknewarchive.png 
 
-
 To add a file to your archive :menuselection:`Archive --> Add Files` which brings up a file picker to choose how to add files. Once you add a file press the :guilabel:`Add` button to add a file. If you want to select multiple files to add at once you can hold down :kbd:`Control` and then left click on the files. 
 
 To view how to open recent archives :menuselection:`Archive --> Open Recent`. To clear the list of recent files :menuselection:`Archive --> Open Recent --> Clear List`. To find files in an archive press :kbd:`Control+F` or :menuselection:`Archive --> Find`. To view the properties of your archive press :kbd:`Alt+ return` or :menuselection:`Archive --> Properties`. To test your archive press :kbd:`Alt +T` or :menuselection:`File --> Test Integrity`.   
@@ -63,5 +62,4 @@ To launch ARK go to the menu :menuselection:`Accessories --> ARK` or run
    ark
    
 on the command line. The icon for ARK looks like a green box with a zipper. 
-
 

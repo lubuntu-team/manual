@@ -27,6 +27,8 @@ To add a file to your archive :menuselection:`Archive --> Add Files` which bring
 
 To view recent archives :menuselection:`Archive --> Open Recent`. To clear the list of recent files :menuselection:`Archive --> Open Recent --> Clear List`. To search for files in an archive press :kbd:`Control+F` or :menuselection:`Archive --> Find`. To view the properties of your archive press :kbd:`Alt+ return` or :menuselection:`Archive --> Properties`. To test your archive press :kbd:`Alt +T` or :menuselection:`File --> Test Integrity`.   
 
+.. image:: ark-prop.png
+
 Version
 -------
 Lubuntu ships version 4:18.12.3 of ARK. 

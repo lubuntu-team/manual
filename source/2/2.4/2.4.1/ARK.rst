@@ -27,7 +27,7 @@ To add a file to your archive :menuselection:`Archive --> Add Files` which bring
 
 To view recent archives :menuselection:`Archive --> Open Recent`. To clear the list of recent files :menuselection:`Archive --> Open Recent --> Clear List`. To search for files in an archive press :kbd:`Control+F` or :menuselection:`Archive --> Find`. To test your archive press :kbd:`Alt +T` or :menuselection:`File --> Test Integrity`.   
 
- To view the properties of your archive press :kbd:`Alt+ return` or :menuselection:`Archive --> Properties`. To see the namme of the archive opened read the :guilabel:`Archive Name` field. To see what kind of archive you have read the :guilabel:`Archive type` field. To see the mime-type of your archive read the :guilabel:`Mime-type` field.
+ To view the properties of your archive press :kbd:`Alt+ return` or :menuselection:`Archive --> Properties`. To see the namme of the archive opened read the :guilabel:`Archive Name` field. To see what kind of archive you have read the :guilabel:`Archive type` field. To see the mime-type of your archive read the :guilabel:`Mime-type` field. To see how the archive is compress read the :guilabel:`Compression method(s)` field.
 
 .. image:: ark-prop.png
 

@@ -59,6 +59,8 @@ To see your keyboard shortcuts for ARK :menuselection:`Settings --> Configure Sh
 
 To switch the language of ARK :menuselection:`Help --> Switch Application Language`. To change the main language change the :guilabel:`Primary language` drop down field. To then change to this language press the :guilabel:`OK` button.
 
+.. image:: ark-language.png
+
 How to Launch
 -------------
 To launch ARK go to the menu :menuselection:`Accessories --> ARK` or run 

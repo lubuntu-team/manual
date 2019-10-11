@@ -57,6 +57,8 @@ To see your keyboard shortcuts for ARK :menuselection:`Settings --> Configure Sh
 
 .. image:: ark-shortcut-config.png
 
+To switch the language of ARK :menuselection:`Help --> Switch Application Language`.
+
 How to Launch
 -------------
 To launch ARK go to the menu :menuselection:`Accessories --> ARK` or run 

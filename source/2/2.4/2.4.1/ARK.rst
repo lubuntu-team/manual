@@ -57,7 +57,7 @@ To see your keyboard shortcuts for ARK :menuselection:`Settings --> Configure Sh
 
 .. image:: ark-shortcut-config.png
 
-To switch the language of ARK :menuselection:`Help --> Switch Application Language`.
+To switch the language of ARK :menuselection:`Help --> Switch Application Language`. To change the main language change the :guilabel:`Primary language` drop down field.
 
 How to Launch
 -------------

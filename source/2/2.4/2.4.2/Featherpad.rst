@@ -22,7 +22,7 @@ To open a new tab and empty text file press the button with a piece of paper wit
 
 .. image:: featherpad-sidebar.png
 
-If you have multiple copies of the same file open in Featherpad it will be open read only and shown in yellow. If you want to edit the file even though you have it open you will need to press :kbd:`Control+Shift+E`, :menuselection:`Edit --> Edit`, or press the button that looks like a pencil to actually edit the file. You should be careful as the file may not have the contents you expect when editing it in two tabs.
+If you have multiple copies of the same file open in Featherpad it will be open read only and shown in yellow. If you want to edit the file even though you have it open you will need to press :kbd:`Control+Shift+E`, :menuselection:`Edit --> Edit`, or press the button that looks like a pencil to actually edit the file. You should be careful as the file may not have the contents you expect when editing it in two tabs or editors.
 
 If you want to close all tabs to the left right click on the tab bar :menuselection:`Close Previous Tabs`. To close all tabs to the right right click on the tab bar :menuselection:`Close Next Tabs`. To only leave open the tab you right clicked on right click and select :menuselection:`Close other tabs`. To copy the path to the file you have open right click on the tab bar and select :menuselection:`Copy File Path`. To copy the file name right click on the tab bar and select :menuselection:`Copy File Name`.
 

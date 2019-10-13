@@ -46,7 +46,7 @@ To make the text all lowercase first select it with the mouse press then :kbd:`C
 
 To print a text :menuselection:`File --> Print` or press :kbd:`control + p`. To change which printer you use have use the :guilabel:`Name` field. To get more options for printing press the :guilabel:`Options` button. To change how many copies to print change the number in the :guilabel:`Copies` field. To print on a certain range of pages use the :guilabel:`Pages From` field to choose a range of pages.
 
-To run an executable script press :kbd:`Control+E`.
+To run an executable script press :kbd:`Control+E`. To quit Featherpad press :kbd:`Control+Q`.
 
 .. image:: featherpad.png
   :width: 80% 

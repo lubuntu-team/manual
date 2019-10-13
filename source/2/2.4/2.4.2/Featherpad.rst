@@ -36,7 +36,7 @@ To search your text file press :kbd:`Control + f` or :menuselection:`Search --> 
 
 .. image:: featherpad-find-replace.png 
 
-To change what font you want select :menuselection:`Options --> Font` to change your font sizes. To change each font on the on the font level. To change the size type the size you or select it from the :guilabel:`Size` drop down menu. To select a font style simply use the :guilabel:`Font style` menu of italic or oblique. To add an underlined font check the :guilabel:`Underline` checkbox. To view a sample of your font :guilabel:`Sample` and will preview your text. The input a number of spaces equal to a tab press :kbd:`Control +Tab`. To see what the font looks like look  in the box under :guilabel:`Sample`.
+To change what font you want select :menuselection:`Options --> Font` to change your font sizes. To change each font on the on the font level. To change the size type the size you or select it from the :guilabel:`Size` drop down menu. To select a font style simply use the :guilabel:`Font style` menu of italic or oblique. To add an underlined font check the :guilabel:`Underline` checkbox. To view a sample of your font :guilabel:`Sample` and will preview your text. To input a number of spaces equal to a tab press :kbd:`Control +Tab`. To see what the font looks like look  in the box under :guilabel:`Sample`.
 
 .. image:: featherpad-font.png
 

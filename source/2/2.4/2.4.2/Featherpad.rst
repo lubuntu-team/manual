@@ -28,7 +28,7 @@ If you want to close all tabs to the left right click on the tab bar :menuselect
 
 .. image:: featherpad-tab-context.png
 
-If you make a mistake and want to undo it press :kbd:`control + z`, :menuselection:`Edit --> Undo`, or press the button that looks like a curved arrow pointing towards the left. To redo a change you have undone press the button with a curved arrow pointing towards the right, :menuselection:`Edit --> Redo`, or press :kbd:`Control +Shift +Z`. 
+If you make a mistake and want to undo it press :kbd:`control + z`, :menuselection:`Edit --> Undo`, or press the button that looks like a curved arrow pointing towards the left. To redo a change you have undone press the button with a curved arrow pointing towards the right, :menuselection:`Edit --> Redo`, or press :kbd:`Control +Shift +Z`. To input a number of spaces equal to a tab press :kbd:`Control +Tab`.
 
 To select all text in the text file press :kbd:`Control +A`, right click :menuselection:`Select All`,  or :menuselection:`Edit --> Select All`. To copy text from Featherpad press :kbd:`Control +C` or :menuselection:`Edit --> Copy`. To paste text press :kbd:`Control+ V` or :menuselection:`Edit --> Paste`. To Cut text press :kbd:`Control+X` or :menuselection:`Edit --> Cut`. If you have text selected you can delete it by pressing :kbd:`Delete` or :menuselection:`Edit --> Delete`.  To paste  in the date and time press :kbd:`Control + Shift +V` or :menuselection:`Edit --> Paste Date and Time`. To go to the end of the current line in the editor press the :kbd:`End` key. To move to the start of the current line press the :kbd:`Home` key.
 
@@ -36,7 +36,7 @@ To search your text file press :kbd:`Control + f` or :menuselection:`Search --> 
 
 .. image:: featherpad-find-replace.png 
 
-To change what font you want select :menuselection:`Options --> Font` to change your font sizes. To change each font on the on the font level. To change the size type the size you or select it from the :guilabel:`Size` drop down menu. To select a font style simply use the :guilabel:`Font style` menu of italic or oblique. To add an underlined font check the :guilabel:`Underline` checkbox. To view a sample of your font :guilabel:`Sample` and will preview your text. To input a number of spaces equal to a tab press :kbd:`Control +Tab`. To see what the font looks like look  in the box under :guilabel:`Sample`.
+To change what font you want select :menuselection:`Options --> Font` to change your font sizes. To change each font on the on the font level. To change the size type the size you or select it from the :guilabel:`Size` drop down menu. To select a font style simply use the :guilabel:`Font style` menu of italic or oblique. To add an underlined font check the :guilabel:`Underline` checkbox. To view a sample of your font :guilabel:`Sample` and will preview your text. To see what the font looks like look  in the box under :guilabel:`Sample`.
 
 .. image:: featherpad-font.png
 

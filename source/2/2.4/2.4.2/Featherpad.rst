@@ -1,7 +1,7 @@
 Chapter 2.4.2 Featherpad
 ========================
 
-Featherpad is a lightweight text editor.
+Featherpad is Lubuntu's default lightweight text editor.
 
 It supports:
  - Tabs

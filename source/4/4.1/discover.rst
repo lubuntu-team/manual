@@ -8,7 +8,7 @@ Discover allows you to search for applications by using the :guilabel:`Search` b
 
 Press the leftward pointed arrow button to moves back in your history. Press the rightward pointed arrow to move forward in your history.
 
-To view user reviews of a program click on the text :guilabel:`Show All Reviews`. To exit the user reviews press :kbd:`Escape` or click outside the areas of reviews. Below the reviews there is information on the package such as the :guilabel:`Version` and :guilabel:`Liscense`. 
+To view user reviews of a program click on the text :guilabel:`Show All Reviews`. To exit the user reviews press :kbd:`Escape` or click outside the areas of reviews. Below the reviews there is information on the package such as the :guilabel:`Version` and :guilabel:`License`. 
 
 
 Discover allows you to update software using the Updates tab located on the bottom of the left column. You can click the :guilabel:`Check for Updates` button to check for updates manually. If you have updates that need to be installed Update with a gear and will be highlighted in orange and the number of updates that are available. When you select updates to install and have updates towards the upper left shows you the number of packages to update and the size of the download in parenthesis. To finally update press the :guilabel:`Update All` button or press :kbd:`Alt+U` to install all updates and then you will need to enter your password and press the :guilabel:`OK` button to make sure you are the one installing these updates. 

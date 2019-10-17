@@ -1,7 +1,6 @@
 Chapter 3.2.5 Desktop
 =====================
 
-
 Desktop is an application to change the Desktop background and different settings even including slideshows. 
 
 Usage

@@ -35,13 +35,13 @@ After you download the image, you **must** verify it, as this is the most common
 
 .. warning:: Downloading via HTTP and not verifying the image can lead to hours of frustration with even the developers quite confused what is happening with your system. With just one bit of the image flipped it will cause massive frustration and a failed install. 
 
-To do this the easiest way is the command line is to run for 64 bit Lubuntu 19.04
+To verify the image, run this from the command line:
 
 .. code:: 
 
- sha256sum lubuntu-19.04-desktop-amd64.iso 
+ sha256sum lubuntu-19.10-desktop-amd64.iso 
 
-and then carefully check that the output matches e13b541ec4b33ce67ff4206db407250d7c5eb02c90f16a463e65aaa1ddc97f63 \*lubuntu-19.04-desktop-amd64.iso
+and then carefully check that the output matches 761c4603f689b1a109d67bde3f2ca0bcc750ce973ac8c1a8e98ca188bbc3e760 \*lubuntu-19.10-desktop-amd64.iso
 
 Downloading the image via BitTorrent
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -72,10 +72,10 @@ Otherwise, there is a snap application you can download of zsync which should fu
 
   sudo snap install zsync
   
-To actually download the image over zysnc for 19.04 run
+To download the image using zsync for 19.10, run
  
 .. code::
 
-   zsync http://cdimage.ubuntu.com/lubuntu/releases/disco/release/lubuntu-19.04-desktop-amd64.iso.zsync   
+   zsync http://cdimage.ubuntu.com/lubuntu/releases/eoan/release/lubuntu-19.10-desktop-amd64.iso.zsync   
 
 **You have now downloaded the image successfully. Please continue to Chapter 1.2.**

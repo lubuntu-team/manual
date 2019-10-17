@@ -13,7 +13,7 @@ To add a new printer press the :guilabel:`Add` button or :menuselection:`Server 
 
 If you want to delete a printer :menuselection:`Printer --> Delete` after left clicking on the printer will delete the printer after you left click on it and you will be asked to confirm so you do not accidentally delete your printer. If you have multiple printers and want to set one as default right click on the printer and select :menuselection:`Set As Default`.
 
-To view or change the properties of printer or make changes with :menuselection:`Printer --> Properties`. To see settings on the printer has use the :guilabel:`Settings` tab. To change how to describe and name your :guilabel:`Description` field. To change where the location of this printer is change the :guilabel:`Location` field. To choose a different driver to use for your printer press the :guilabel:`Change` button to the rigght of :guilabel:`Make and Model`. To print a test page press the :guilabel:`Print Test Page` button.
+To view or change the properties of printer or make changes with :menuselection:`Printer --> Properties`. To see settings on the printer has use the :guilabel:`Settings` tab. To change how to describe and name your :guilabel:`Description` field. To change where the location of this printer is change the :guilabel:`Location` field. To choose a different driver to use for your printer press the :guilabel:`Change` button to the right of :guilabel:`Make and Model`. To print a test page press the :guilabel:`Print Test Page` button.
 
 .. image::  prop-settings.png
 
@@ -21,7 +21,7 @@ To change what your printer changes on errors or is enabled and banners use the 
 
 .. image:: prop-policies.png
 
-If you want to change which users can use this printer use the :guilabel:`Acess Control` tab. To add a user to not be allowed to print type there name in the bar and press the :guilabel:`Add` button. To remove a user from this list left click on the username and click the :guilabel:`Delete` button. To switch to only allowing users on the list to print press the :guilabel:`Deny printing for everyone except these users` button. To switch back to banning users from printing press the :guilabel:`Allow printing for everyone except these users` checkbox.
+If you want to change which users can use this printer use the :guilabel:`Access Control` tab. To add a user to not be allowed to print type there name in the bar and press the :guilabel:`Add` button. To remove a user from this list left click on the username and click the :guilabel:`Delete` button. To switch to only allowing users on the list to print press the :guilabel:`Deny printing for everyone except these users` button. To switch back to banning users from printing press the :guilabel:`Allow printing for everyone except these users` checkbox.
 
 .. image:: prop-access-control.png
 

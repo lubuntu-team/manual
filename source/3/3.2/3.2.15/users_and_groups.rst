@@ -1,7 +1,7 @@
 Chapter 3.2.15 Users and Groups
 ===============================
 
-Users and groups lets you manage user and group settings on your system. 
+Users and Groups lets you manage user and group settings on your system. 
 
 Usage
 ------

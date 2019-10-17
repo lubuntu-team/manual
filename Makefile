@@ -54,9 +54,9 @@ serverbuild:
 	#rm -rf ../webroot/pl/
 	#mv ../webroot/pl.tmp/ ../webroot/pl/
 
-	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) /srv/webroot/$(git rev-parse --abbrev-ref HEAD).tmp/
-	rm -rf /srv/webroot/$(git rev-parse --abbrev-ref HEAD)/
-	mv /srv/webroot/$(git rev-parse --abbrev-ref HEAD).tmp/ /srv/webroot/$(git rev-parse --abbrev-ref HEAD)/
+	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) /srv/webroot/$(shell git rev-parse --abbrev-ref HEAD).tmp/
+	rm -rf /srv/webroot/$(shell git rev-parse --abbrev-ref HEAD)/
+	mv /srv/webroot/$(shell git rev-parse --abbrev-ref HEAD).tmp/ /srv/webroot/$(shell git rev-parse --abbrev-ref HEAD)/
 
 .PHONY: clean
 clean:

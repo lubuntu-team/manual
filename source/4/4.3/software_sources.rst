@@ -6,7 +6,7 @@ Occasionally you may need to change the setting of your software sources. This c
 -   Changing update settings like update frequency, notification of new releases,
 -   Adding or removing sources such as PPAs
 -   Changing download server
--   Installing properitary drivers
+-   Installing proprietary drivers
 
 Usage
 ------
@@ -54,4 +54,4 @@ How to Launch
 
     lxqt-sudo software-properties-qt
 
-tags:ppa, software, download, sources, release, update, discover, muon, security, 
+tags:PPA, software, download, sources, release, update, discover, muon, security, 

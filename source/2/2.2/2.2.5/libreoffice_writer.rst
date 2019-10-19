@@ -5,14 +5,14 @@ LibreOffice Writer is the default word processing application on Lubuntu.
 
 Features:
  - No ribbon
- - One button pdf export
+ - One button PDF export
  - Many file formats to output
  - Spellcheck
  - Wordcount
 
 Usage
 ------
-To use LibreOffice writer type what you wish to type into the main part of the window. If you wish to save your data press the icon that looks like a floppy disk or press :kbd:`control + s`. To open a previously saved document press the button that looks like a folder or press :kbd:`control + o`. To load or save a file from the menu :menuselection:`File --> Open` to open a file or :menuselection:`File --> Save`. To save your file as a new file name :menuselection:`File --> Save As`. To view your recent documents :menuselection:`File --> Recent Documents`. To have save your file as a pdf press the button that is a sheet of paper with curved red lines on it or go :menuselection:`File --> Export` and select the file type as pdf. To export as a PDF file :menuselection:`File --> Export AS --> Export as PDF`. This same export menu will let you save in formats for other programs for compatibility with Microsoft word.
+To use LibreOffice writer type what you wish to type into the main part of the window. If you wish to save your data press the icon that looks like a floppy disk or press :kbd:`control + s`. To open a previously saved document press the button that looks like a folder or press :kbd:`control + o`. To load or save a file from the menu :menuselection:`File --> Open` to open a file or :menuselection:`File --> Save`. To save your file as a new file name :menuselection:`File --> Save As`. To view your recent documents :menuselection:`File --> Recent Documents`. To have save your file as a PDF press the button that is a sheet of paper with curved red lines on it or go :menuselection:`File --> Export` and select the file type as PDF. To export as a PDF file :menuselection:`File --> Export AS --> Export as PDF`. This same export menu will let you save in formats for other programs for compatibility with Microsoft word.
 
 .. image::     writer-save.png
 
@@ -130,7 +130,7 @@ To bring up a window with properties of your document :menuselection:`File --> P
 
 .. image:: lowriter-doc-properties.png 
 
-The :guilabel:`Description` tab has fields to input title subject and keywords and lets you also put in comments. The :guilabel:`Title` is where you can optionally put the title on. The :guilabel:`Subject` is a field to input the subject of the document. The :guilabel:`Keywords` is to input keywords on the document. The :guilabel:`Comments` is where you can have comments about the document. The :guilabel:`Font` tab has settings for embeded fonts to make sure they always display properly. To embed any fonts you check the :guilabel:`Embed fonts in the document` checkbox. To only embed the fonts needed to see the document check the :guilabel:`Only embed fonts that are used in documents` checkbox. To chose to embed fonts with a latin script check the :guilabel:`Latin fonts` checkbox. To embed Asian fonts check the :guilabel:`Asian fonts` checkbox. To embed complex fonts check the :guilabel:`Complex fonts` checkbox.
+The :guilabel:`Description` tab has fields to input title subject and keywords and lets you also put in comments. The :guilabel:`Title` is where you can optionally put the title on. The :guilabel:`Subject` is a field to input the subject of the document. The :guilabel:`Keywords` is to input keywords on the document. The :guilabel:`Comments` is where you can have comments about the document. The :guilabel:`Font` tab has settings for embedded fonts to make sure they always display properly. To embed any fonts you check the :guilabel:`Embed fonts in the document` checkbox. To only embed the fonts needed to see the document check the :guilabel:`Only embed fonts that are used in documents` checkbox. To chose to embed fonts with a Latin script check the :guilabel:`Latin fonts` checkbox. To embed Asian fonts check the :guilabel:`Asian fonts` checkbox. To embed complex fonts check the :guilabel:`Complex fonts` checkbox.
  
 To see statistics on your document use the :guilabel:`Statistics` tab. To see how many pages are in your document look at the :guilabel:`Pages` row. To see how many tables are in a document see the :guilabel:`Tables` row. To see how many images are in your document read the :guilabel:`Images` row.
 

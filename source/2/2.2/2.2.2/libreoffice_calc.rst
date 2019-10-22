@@ -47,7 +47,7 @@ To insert a special character not on your keyboard :menuselection:`Insert --> Sp
 
 .. image:: calc-specialcharacter.png
 
-To insert a hyperlink in Libreoffice-calc :menuselection:`Insert --> Hyperlink` or press :kbd:`Control+K`. To actually type the address in the :guilabel:`URL` field.
+To insert a hyperlink in Libreoffice-calc :menuselection:`Insert --> Hyperlink` or press :kbd:`Control+K`. To actually type the address in the :guilabel:`URL` field. To switch to a button for the hyperlink use the :guilabel:`Form` button. To switch back to text use the :guilabel:`Form` drop down and select :guilabel:`Text`.
 
 To quit LibreOffice Calc press :kbd:`Control+Q`.
 

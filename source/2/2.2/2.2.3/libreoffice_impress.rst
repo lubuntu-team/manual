@@ -54,9 +54,7 @@ To search for text press :kbd:`Control + F` or :menuselection:`Edit --> Find` to
 
 To move a text box around you can left click on the text box and drag it to the desired position. To resize a text box click on the corner and drag to resize to the desired size.
 
-
 To insert the number of your slide :menuselection:`Insert --> Slide Number`.
-
 
 To change the zoom of you presentation :menuselection:`View --> Zoom --> Zoom` to bring up a window to manage your zoom. If you just want to zoom to fit the page width :menuselection:`View --> Zoom --> Page Width`. To change your zoom to 100 percent :menuselection:`View --> Zoom --> 100%`. 
 
@@ -107,7 +105,6 @@ To start a slideshow press :kbd:`f5` or the button the looks like a TV with a tr
 To bring up custom settings for your settings :menuselection:`Slide Show --> Slide Show Settings`. To change the presentation to in a window press the :guilabel:`In a window` button. To have the slideshow or presentation repeat afterwards press the :guilabel:`Loop and repeat after:`. To change options on your presentation are under the :guilabel:`Options` heading. To toggle showing the mouse pointer check/uncheck the :guilabel:`Mouse pointer visible` checkbox. To toggle allowing animations check/uncheck the :guilabel:`Animations allowed` checkbox. To toggle changing slides by clicking with the mouse check/uncheck the :guilabel:`Change slides by clicking on background` checkbox. To toggle the presentation always on top check/uncheck the :guilabel:`Presentation always on top` checkbox. 
   
 .. image:: slideshowprop.png
-
 
 Version
 -------

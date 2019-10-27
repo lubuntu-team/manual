@@ -43,7 +43,7 @@ If you want to save all of your packages on a text file you can :menuselection:`
 
 On the bottom of Muon package manager there is a toolbar that states how many packages are :guilabel:`available`, :guilabel:`installed`, and :guilabel:`upgradeable`.
 
-To hide the toolbar uncheck the :menuselection:`Settings --> Show Toolbar` checkbox.
+To hide the toolbar uncheck the :menuselection:`Settings --> Show Toolbar` checkbox. Check the :menuselection:`Settings --> Show Toolbar` again to get your checkbox back.
 
 Screenshot
 ----------

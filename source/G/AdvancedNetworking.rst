@@ -9,8 +9,13 @@ VPN
 
 To configure a VPN the best way to do it is with  in the Menu under :menuselection:`Preferences --> Advanced Network Confiruation`. That will open network-manager-gnome you will need also to install the correaponding packages. In case of pptp those will be network-manager-pptp and network-manager-pptp-gnome. The you can follow the confiruation instruction for each VPN type.
 After the creation, it will appear as a new connection in nm-tray. One thing to consider is that nm-tray does not support password asking, so either you save the password FOR ALL USERS or you will need to connect diffently. 
-One of the  option is throug terminal with typing "nmcli con up id <VPN_name> --ask" changing <VPN_name> with the actual VPN connection name.
-The other option is to use nm-applet, the "simil" to nm-tray from network-manager.gnome. You can run it from the terminal typing
+One of the  option is through terminal with typing
+
+.. code:: 
+
+  nmcli con up id <VPN_name> --ask changing <VPN_name>  
+
+with the actual VPN connection name. The other option is to use nm-applet, the "simil" to nm-tray from network-manager.gnome. You can run it from the terminal typing
 
 .. code::
 

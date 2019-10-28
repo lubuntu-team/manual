@@ -37,11 +37,11 @@ To see what repository a package comes from on the left hand side use the :guila
 
 To see what architecture a package uses use the :guilabel:`By Architecture` filter. To see all architectures use the :guilabel:`All` line. To see common packages see the :guilabel:`Common` for packages common to all architectures. To see 64 bit packages use the :guilabel:`64-bit` line. To see 32 bit packages use the :guilabel:`32-bit` line.  
 
-To check for updates in muon press :kbd:`Control + R` or the gear button with an arrow or :menuselection:`Edit --> Check for Updates`. To actually update and install these upgrades fully press the :guilabel:`Full Upgrade` button or :menuselection:`Edit --> Full Upgrade` and then press the :guilabel:`Apply Changes` button. After this a status bar towards the bottom will show how much total progress is on the upgrade. To have an upgrade where packages are not removed press the upward point arrow button or :menuselection:`Edit --> Cautious Upgrade`.
+To check for updates in Muon press :kbd:`Control + R` or the gear button with an arrow or :menuselection:`Edit --> Check for Updates`. To actually update and install these upgrades fully press the :guilabel:`Full Upgrade` button or :menuselection:`Edit --> Full Upgrade` and then press the :guilabel:`Apply Changes` button. After this a status bar towards the bottom will show how much total progress is on the upgrade. To have an upgrade where packages are not removed press the upward point arrow button or :menuselection:`Edit --> Cautious Upgrade`.
 
-If you want to save all of your packages on a text file you can :menuselection:`File --> Save Package Download List`. If you want to load these packages from a file such as if you get a new laptop :menuselection:`File --> Download Packages From List`.  If you want to quit muon press :kbd:`Control+Q`.
+If you want to save all of your packages on a text file you can :menuselection:`File --> Save Package Download List`. If you want to load these packages from a file such as if you get a new laptop :menuselection:`File --> Download Packages From List`.  If you want to quit Muon press :kbd:`Control+Q`.
 
-On the bottom of muon package manager there is a toolbar that states how many packages are :guilabel:`available`, :guilabel:`installed`, and :guilabel:`upgradeable`.
+On the bottom of Muon package manager there is a toolbar that states how many packages are :guilabel:`available`, :guilabel:`installed`, and :guilabel:`upgradeable`.
 
 To hide the toolbar uncheck the :menuselection:`Settings --> Show Toolbar` checkbox.
 
@@ -51,11 +51,11 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 4:5.8.0 of muon package manager. 
+Lubuntu ships with version 4:5.8.0 of Muon Package Manager. 
 
 How to Launch
 -------------
-To launch muon package manager from the menu :menuselection:`System Tools --> Muon Package Manager` or run 
+To launch Muon Package Manager from the menu :menuselection:`System Tools --> Muon Package Manager` or run 
 
 .. code:: 
 

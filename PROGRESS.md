@@ -9,7 +9,7 @@
 | :white_checkmark:     | 2.1.2       |
 | :white_checkmark:     | 2.1.3       |
 | :construction_worker: | 2.1.4       |
-| :construction_worker: | 2.1.5       |
+| :white_checkmark:     | 2.1.5       |
 | :white_checkmark:     | 2.2         |
 | :white_checkmark:     | 2.2.1       |
 | :white_checkmark:     | 2.2.2       |

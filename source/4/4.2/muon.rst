@@ -63,7 +63,6 @@ To launch Muon Package Manager from the menu :menuselection:`System Tools --> Mu
 
 from the command line. 
 
-
 Customizing
 -----------
 

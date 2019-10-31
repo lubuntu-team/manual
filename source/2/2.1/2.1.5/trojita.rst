@@ -17,7 +17,9 @@ To use Trojita you will need to input your account information. You will need to
 
 After entering this in you will be asked to check the certificate for your server and will need to select the :guilabel:`yes` for the first time. If you did not insert your password to be stored on your computer a dialog box will popup and you will need to input it.
 
-After you have set everything up a set of folders will appear on the left hand side. 
+After you have set everything up a set of folders will appear on the left hand side.
+
+To change how long Trojita stores messages in offline mode from the settings  from :menuselection:`IMAP --> Settings` and use the :guilabel:`Offline` tab. To not store messages offfline select the :guilabel:`Don't use cache` button. 
 
 To send an email to someone press :kbd:`Control +N` or :menuselection:`IMAP --> Compose Mail --> New Message`. Then you will bring up a compose mail window. Type the email address of the person you want to type the address where it says :guilabel:`To`. Put the subject of your message in the :guilabel:`Subject` line. In the main part of the message called the body is where you will add most of your message. If you want to attach a file to your email press the button with the paperclip on it that says :guilabel:`Attach`. To send your message press the :guilabel:`Send` button. To save a draft of your message press the :guilabel:`Cancel` button and then press the :guilabel:`Save` button to actually save the draft. If you don't want to save a message press the :guilabel:`Cancel` button and then press the :guilabel:`Discard` button. To reopen a saved draft of a message :menuselection:`IMAP --> Compose Mail --> Edit Draft...`.
 

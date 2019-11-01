@@ -125,5 +125,5 @@ to launch VLC in the menu go to :menuselection:`Sound & Video --> VLC media play
 
    vlc 
    
-from the command line.
+from the command line. The icon for VLC looks like a traffic cone.
 

@@ -52,7 +52,7 @@ To launch KDE Partition Manager from the :menuselection:`System Tools --> KDE Pa
 
    partitionmanager 
    
-from the command line. 
+from the command line. The icon for KDE Partition Manager is a red hard drive.
 
 Customizing
 -----------

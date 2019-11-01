@@ -79,4 +79,4 @@ To launch LibreOffice Calc from the menu go to :menuselection:`Office --> LibreO
 
    localc 
    
-from the command line. 
+from the command line. The icon for LibreOffice Calc is a paper with a green icon with a spreadsheet on it. 

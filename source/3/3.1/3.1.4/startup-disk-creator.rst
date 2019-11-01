@@ -30,4 +30,4 @@ To launch startup disc creator :menuselection:`System Tools --> Startup Disk Cre
 
   usb-creator-kde
 
-from the command line.
+from the command line. The icon for Startup Disck Creator is a green circle with a white downward pointed arrow.

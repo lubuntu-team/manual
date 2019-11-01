@@ -35,4 +35,4 @@ To launch LibreOffice math in the menu :menuselection:`Office --> LibreOffice Ma
 
    lomath 
    
-from the command line. 
+from the command line. The  icon for LibreOffice Math looks like a piece of paper with the math symbol for square root of x. 

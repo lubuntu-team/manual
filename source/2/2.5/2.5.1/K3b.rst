@@ -37,7 +37,7 @@ To launch K3b from the menu :menuselection:`Sound & Video --> K3b` or run
 
    k3b 
    
-from the command line.
+from the command line. The icon for K3b looks like a red disc with a white flame on top.
 
 Customizing
 ------------

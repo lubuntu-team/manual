@@ -112,7 +112,7 @@ Version
 
 How To Launch
 -------------
-To launch go to the menu :menuselection:`Office --> LibreOffice Impress` or run  
+To launch LibreOffice Impress go to the menu :menuselection:`Office --> LibreOffice Impress` or run  
 
 .. code:: 
 

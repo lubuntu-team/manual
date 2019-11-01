@@ -109,4 +109,4 @@ To launch qpdfview go to the Menu :menuselection:`Office --> qpdfview` or run
 
    qpdfview 
 
-from the command line.
+from the command line. The icon for qpdfview looks like an eye with a blue background.

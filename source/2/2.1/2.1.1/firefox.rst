@@ -80,4 +80,4 @@ from the terminal to run Firefox. You can also from the command line have Firefo
 
    firefox https://manual.lubuntu.me
    
-You can also launch Firefox from the quick launch by default by left clicking on it. 
+You can also launch Firefox from the quick launch by default by left clicking on it. The icon for firefox looks like a globe with a red fox circling around it.

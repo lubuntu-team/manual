@@ -105,7 +105,7 @@ Lubuntu ships with version 1:0.13.1 of Quassel IRC.
 
 How to Launch
 -------------
-In the menu go to :menuselection:`Internet --> Quassel` IRC or type 
+To launch Quassel from the menu go to :menuselection:`Internet --> Quassel IRC` or type 
 
 .. code:: 
 

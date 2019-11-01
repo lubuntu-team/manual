@@ -37,4 +37,4 @@ From the menu :menuselection:`Office --> LibreOffice` to launch LibreOffice or r
 
    libreoffice 
    
-from the command line. 
+from the command line. The icon for LibreOffice is a white piece of paper with a folded right hand corner.

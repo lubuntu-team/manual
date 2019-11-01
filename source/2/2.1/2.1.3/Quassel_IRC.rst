@@ -111,4 +111,4 @@ To launch Quassel from the menu go to :menuselection:`Internet --> Quassel IRC` 
 
  quassel 
  
-in the terminal.
+in the terminal. The icon for Quassel looks like a blue circle with a white crescent on it.

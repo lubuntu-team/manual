@@ -146,4 +146,4 @@ To launch go to menu :menuselection:`Office --> LibreOffice Writer` or run
 
    lowriter 
    
-from the command line.
+from the command line. The icon for LibreOffice Writer looks like a piece of paper with several lines of writing.

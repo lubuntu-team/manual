@@ -80,4 +80,4 @@ from the command line. To launch a drop down version of QTerminal from the menu 
 
    qterminal -d 
 
-from the command line. You can also launch QTerminal by pressing the keyboard shortcut :kbd:`Control+Alt+T`.
+from the command line. You can also launch QTerminal by pressing the keyboard shortcut :kbd:`Control+Alt+T`. The icon for QTerminal looks like a black background with a command line prompt on it.

@@ -35,7 +35,7 @@ To launch Skanlite turn on your scanner and that it is connected to your compute
 
    skanlite 
    
-from the command line. 
+from the command line. The icon for Skanlite looks like a scanner bed with a bar of light coming across as if doing a scan.
 
 Customizing
 -----------

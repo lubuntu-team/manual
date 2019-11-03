@@ -31,11 +31,11 @@ If you want to undo changes you have done press the :guilabel:`Reset` button. To
 
 Version
 -------
-Lubuntu ships with version 0.14.1 of session settings. 
+Lubuntu ships with version 0.14.1 of Session Settings. 
 
 How to Launch
 -------------
-To launch Session Settings from the menu :menuselection:`Preferences --> LXQt settings --> Session Settings`. The icon for Session Settings looks like a gear with a white circle on top. To run session settings from the command line run 
+To launch Session Settings from the menu :menuselection:`Preferences --> LXQt settings --> Session Settings`. The icon for Session Settings looks like a gear with a white circle on top. To run Session Settings from the command line run 
 
 .. code:: 
 

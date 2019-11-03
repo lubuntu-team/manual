@@ -25,11 +25,11 @@ Screenshots
 
 Version
 -------
-Lubuntu ships with version 0.14.1 of shortcut keys.
+Lubuntu ships with version 0.14.1 of Shortcut Keys.
 
 How to Launch
 -------------
-To launch Shortcut Keys from the menu :menuselection:`Preferences --> LXQt settings --> Shortcut Keys`. The icon for shortcut keys button which looks like a keyboard. To launch Shortcut Keys from the command line run
+To launch Shortcut Keys from the menu :menuselection:`Preferences --> LXQt settings --> Shortcut Keys`. The icon for Shortcut Keys button which looks like a keyboard. To launch Shortcut Keys from the command line run
 
 .. code:: 
 

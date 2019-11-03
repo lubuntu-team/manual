@@ -29,5 +29,5 @@ To launch Brightness from the menu :menuselection:`Preferences --> LXQt settings
 
    lxqt-config-brightness 
    
-from the commandline.
+from the commandline. The icon for Brightness looks like a half moon with a gear in the background.
 

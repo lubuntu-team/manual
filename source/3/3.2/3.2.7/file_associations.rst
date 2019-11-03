@@ -26,4 +26,6 @@ From the menu :menuselection:`Preferences --> LXQt settings --> File Association
 .. code:: 
 
    lxqt-config-file-associations 
+   
+The icon for File Associations is a gear with a white circle on top.
 

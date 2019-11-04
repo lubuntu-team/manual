@@ -53,5 +53,7 @@ How to Launch
 .. code:: 
 
     lxqt-sudo software-properties-qt
+    
+The icon for Software Sources looks like a blue circle with a white downward pointing arrow.
 
 tags:PPA, software, download, sources, release, update, discover, muon, security, 

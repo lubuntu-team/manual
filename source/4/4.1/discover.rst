@@ -40,5 +40,5 @@ To launch Discover from the menu :menuselection:`System Tools --> Discover` or r
 
    plasma-discover 
    
-from the command line.
+from the command line. The icon for Discover looks like a blue circle with a white downward pointing arrow.
 

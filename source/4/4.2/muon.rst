@@ -61,7 +61,7 @@ To launch Muon Package Manager from the menu :menuselection:`System Tools --> Mu
 
     muon 
 
-from the command line. 
+from the command line. The icon for Muon Package Manager is a tan box with a downward pointing black arrow.
 
 Customizing
 -----------

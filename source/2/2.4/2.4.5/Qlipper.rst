@@ -31,3 +31,4 @@ To launch it from the command line run
 
    qlipper
 
+The icon for qlipper looks like a white piece of paper with a few lines of writing in different columns.

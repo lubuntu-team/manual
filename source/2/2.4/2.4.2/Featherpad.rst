@@ -97,4 +97,4 @@ In the menu go to :menuselection:`Accessories --> Featherpad` or run
 
    featherpad
 
-from the command line. The icon for Featherpad looks like a pad of paper with a feather on it.  
+from the command line. The icon for Featherpad looks like a pad of paper with a blue feather on it.  

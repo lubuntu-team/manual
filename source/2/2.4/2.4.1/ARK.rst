@@ -37,7 +37,7 @@ Lubuntu ships version 4:18.12.3 of ARK.
 
 Customizing
 -----------
-To access your preferences :menuselection:`Settings --> Configure Ark`. To show files in the associated program press the :guilabel:`Open file with associated application` radio button. To preview with internal previewer press the :guilabel:`Preview file with internal previewer` radio button. To have a warning when creating a zip file with AES encryption check the :guilabel:`Show a warning when creating zip files with AES encryption` checkbox. 
+To access your preferences :menuselection:`Settings --> Configure Ark`. To see settings with preview and when to show warnings use the :guilabel:`General Settings` tab. To show files in the associated program press the :guilabel:`Open file with associated application` radio button. To preview with internal previewer press the :guilabel:`Preview file with internal previewer` radio button. To have a warning when creating a zip file with AES encryption check the :guilabel:`Show a warning when creating zip files with AES encryption` checkbox. 
 
 .. image:: ark-general-pref.png 
 

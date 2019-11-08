@@ -188,6 +188,8 @@ Chapter 4 Installing, Updating, and Removing  Software
 
 4.3 Software Sources
 
+4.4 Lubuntu Update Notifier
+
 ----------------------------------
 Chapter 5 Panel Desktop and Runner
 ----------------------------------

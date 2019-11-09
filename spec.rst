@@ -208,7 +208,6 @@ Chapter 5 Panel Desktop and Runner
 Appendicies
 -----------
 
-
 A. Tips and tricks
 
 B. Contributing

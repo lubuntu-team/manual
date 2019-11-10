@@ -70,7 +70,7 @@ To get to your preferences for Muon package manager :menuselection:`Settings -->
 
 .. image::  muon-pref.png
 
-To change settings on your toolbar :menuselection:`Settings --> Configure Toolbars`. To remove an item from the current items on the toolbar press the button that is the leftward pointing arrow. To add an item to the toolbar press the button that is the rightward pointing arrow. To move an item up or down on the toolbar press the upward pointing arrow button. If you want to change the icon for things you have in your toolbar press the :guilabel:`Change Icon` button. To change what the toolbar says press the :guilabel:`Change Text` button and type what you want in the toolbar in the pop up menu.
+To change settings on your toolbar :menuselection:`Settings --> Configure Toolbars`. To remove an item from the current items on the toolbar press the button that is the leftward pointing arrow. To add an item to the toolbar press the button that is the rightward pointing arrow. To move an item up or down on the toolbar press the upward pointing arrow button. If you want to change the icon for things you have in your toolbar press the :guilabel:`Change Icon` button. To change what the toolbar says press the :guilabel:`Change Text` button and type what you want in the toolbar in the pop up menu. To set your toolbars back to the default press the :guilabel:`Defaults` button.
 
 .. image:: muon-toolbar.png
  

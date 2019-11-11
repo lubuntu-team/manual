@@ -15,7 +15,7 @@ The box labeled :guilabel:`Select font` lets you choose which font and size info
 
 .. image:: desktop-font.png
 
-The tab :guilabel:`Slide Show` shows settings for slide show of changing your wallpaper automatically like a slide show. The checkbox :guilabel:`Enable Slide Show` enables the slide show that auto changes your wallpaper. The field :guilabel:`Wallpaper image folder` changes the path to find the different pictures for the slideshow or to find a folder press the :guilabel:`Browse` button.  To change how long it takes for the slideshow of the desktop background to change change the fields in :guilabel:`Interval` for changing how fast the slideshow changes. To randomize the order in which the pictures change check/uncheck the :guilabel:`Randomize the slide show` checkbox. 
+The tab :guilabel:`Slide Show` shows settings for slide show of changing your wallpaper automatically like a slide show. The checkbox :guilabel:`Enable Slide Show` enables the slide show that auto changes your wallpaper. The field :guilabel:`Wallpaper image folder` changes the path to find the different pictures for the slideshow or to find a folder press the :guilabel:`Browse` button.  To change how long it takes for the slideshow of the desktop background to change change the fields in :guilabel:`Interval` for changing how fast the slideshow changes. To randomize the order in which the pictures change check the :guilabel:`Randomize the slide show` checkbox. 
 
 .. image::  slideshow-desktop.png
 

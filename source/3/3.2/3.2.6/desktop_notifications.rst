@@ -1,7 +1,7 @@
 Chapter 3.2.6 Desktop Notifications
 ===================================
 
-Desktop notifications are the settings for your desktop notifications such as when someone mentions your name on internet relay chat or the first time you run to configure your power management settings.
+Desktop Notifications are the settings for your desktop notifications such as when someone mentions your name on internet relay chat or the first time you run to configure your power management settings.
 
 Usage
 ------
@@ -17,7 +17,7 @@ Screenshots
 
 Version
 -------
-Lubuntu ships with version 0.14.1 of desktop notifications.
+Lubuntu ships with version 0.14.1 of Desktop Notifications.
 
 How to Launch
 -------------

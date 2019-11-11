@@ -1,7 +1,7 @@
 Chapter 3.2.6 Desktop Notifications
 ===================================
 
-Desktop Notifications are the settings for your desktop notifications such as when someone mentions your name on internet relay chat or the first time you run to configure your power management settings.
+Desktop Notifications is the program with settings for your desktop notifications such as when someone mentions your name on internet relay chat or the first time you run to configure your power management settings.
 
 Usage
 ------

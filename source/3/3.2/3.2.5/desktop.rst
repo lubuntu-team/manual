@@ -11,7 +11,7 @@ The drop down menu for :guilabel:`Icon size` lets you choose a different size of
 
 .. image:: desktop.png
 
-The box labeled :guilabel:`Select font` lets you choose which font and size information from a dialog box. On the left is the :guilabel:`Font` for which font to select on on the bottom or type the name on top. The middle lets you choose the :guilabel:`Font style` of the font on your desktop. On the far right is a choice for the :guilabel:`Size` of your font which you can select from the menu. To have your text of your font underlined check the :guilabel:`Underline` checkbox. To change what languages your fonts can support choose your language in the :guilabel:`Writing System` drop down menu. 
+The box labeled :guilabel:`Select font` lets you choose which font and size information from a dialog box. On the left is the :guilabel:`Font` for which font to select on on the bottom or type the name on top. The middle lets you choose the :guilabel:`Font style` of the font on your desktop. On the far right is a choice for the :guilabel:`Size` of your font which you can select from the menu. To have your text of your font underlined check the :guilabel:`Underline` checkbox. To change what languages your fonts can support choose your language in the :guilabel:`Writing System` drop down menu. To preview how the text will appear look in the :guilabel:`Sample` box.
 
 .. image:: desktop-font.png
 

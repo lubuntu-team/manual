@@ -1,6 +1,6 @@
 # Lubuntu Manual Source Code
 
-This is the Lubuntu Manual source code. The concept was derived from [the Kubuntu Manual](https://github.com/ahoneybun/kubuntu-manual). The master branch of this data is now on LXQt for Lubuntu 18.10+ and if you want code for earlier versions it is on the LXDE branch. 
+This is the Lubuntu Manual source code. The concept was derived from [the Kubuntu Manual](https://github.com/ahoneybun/kubuntu-manual). The master branch of this data is now on LXQt for Lubuntu 18.10+ and if you want code for earlier versions it is on the LXDE branch. For each relase of a distro go to the numerical number of that release such as 19.10.
 
 ## How it works
 
@@ -19,6 +19,8 @@ You can see the options for building the documentation by running `make help`. Y
 To contribute to the Lubuntu Manual, you can either create a request on Launchpad, or send patch mail to [lubuntu-devel@lists.ubuntu.com](mailto:lubuntu-devel@lists.ubuntu.com) and prefix the subject with `[Lubuntu Manual Pull Request]`.
 
 If you really want to learn more about sphinx to help Lyn Perrine found this pycon video helpful [Carol_Willing-Practical_Sphinx] (https://www.youtube.com/watch?v=0ROZRNZkPS8)
+
+If you want short help on how to format things see StyleGuide.rst in this directory.
 
 ## License
 

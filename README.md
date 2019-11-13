@@ -1,6 +1,6 @@
 # Lubuntu Manual Source Code
 
-This is the Lubuntu Manual source code. The concept was derived from [the Kubuntu Manual](https://github.com/ahoneybun/kubuntu-manual). The master branch of this data is now on LXQt for Lubuntu 18.10+ and if you want code for earlier versions it is on the LXDE branch. For each relase of a distro go to the numerical number of that release such as 19.10.
+This is the Lubuntu Manual source code. The concept was derived from [the Kubuntu Manual](https://github.com/ahoneybun/kubuntu-manual). The master branch of this data is now on LXQt for Lubuntu 18.10+ and if you want code for earlier versions it is on the LXDE branch. For each relase of a distro go to the numerical number of that release such as 19.10. To see what is currently in master [manual master branch](https://manual.lubuntu.me/master/) and to see the current stable version look at [stable manual branch](https://manual.lubuntu.me/stable/)
 
 ## How it works
 

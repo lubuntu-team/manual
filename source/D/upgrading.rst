@@ -10,7 +10,6 @@ This way of upgrading involves the command line and is also useful for server up
 
   Upgrading will keep all of your files in your home folder and configuration files intact however this will mean some changes to default keybindings for example will still be the same as when you installed but will keep all of your customizations different from reinstalling from an iso again.
 
-
 Upgrading with command line
 ---------------------------
 The first step will be to ensure your system is up to date. This can be done by entering the following command into the terminal. If prompted, enter your password.
@@ -26,7 +25,6 @@ Once the software upgrade has completed, you want to restart your PC. This can b
 .. code::
 
     sudo reboot
-
 
 The next thing you want to do is do the release upgrade. do-release-upgrade is the command line tool for upgrading Lubuntu installations. To run it, you need root privileges, which, from the command line means prefixing the command with sudo. Upgrades to a new operating system version can sometimes cause problems; so **always backup your files beforehand**. 
 

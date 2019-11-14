@@ -25,7 +25,7 @@ If you want to change which users can use this printer use the :guilabel:`Access
 
 .. image:: prop-access-control.png
 
-To choose settings specific to your printer use the :guilabel:`Printer Options` tab. To choose your paper size use the :guilabel:`Media Size` drop down. To print color as gray check the :guilabel:`Print Color as Gray` checkbox.
+To choose settings specific to your printer use the :guilabel:`Printer Options` tab. To choose your paper size use the :guilabel:`Media Size` drop down. To have your printer collate select :menuselection:`On` from the :guilabel:`Collate` drop down menu. To print color as gray check the :guilabel:`Print Color as Gray` checkbox. 
 
 .. image:: prop-printer-option.png
 

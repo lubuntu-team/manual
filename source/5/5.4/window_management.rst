@@ -40,4 +40,3 @@ To switch to the next virtual desktop press :kbd:`Control +Alt + Right arrow`. T
 Moving windows between monitors
 -------------------------------
 If you have extended multiple monitor setup with multimle windows you can move a window to the monitor by dragging the window through the titlebar past the edge of the monitor towards the monitor you want to move it to. Also you can say make a video take up one monitor and making the video fullscreen takes one whole montior while you can do anything else you want with your second monitor.
-

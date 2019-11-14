@@ -1,7 +1,7 @@
 Chapter 3.2.19 Printers
 =======================
 
-Printers allows you to configure your printer and show your print queue.
+Printers allows you to configure your printer(s) and show your print queue.
 
 Usage
 ------

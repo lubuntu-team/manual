@@ -5,7 +5,7 @@ Printers allows you to configure your printer(s) and show your print queue.
 
 Usage
 ------
-To view your print queue right click on the printer and right click view print queue or with the printer selected press :kbd:`Control+F` or :menuselection:`Printer --> View Print Queue` and if a job is held you can restart it. 
+To view your print queue right click on the printer and right click view print queue, with the printer selected press :kbd:`Control+F`, or :menuselection:`Printer --> View Print Queue` and if a job is held you can restart it. 
 
 To add a new printer press the :guilabel:`Add` button or :menuselection:`Server --> New --> Printer`. A dialog will popup showing where you can connect the printer. Then look for your printer in the sidebar on the left hand side. Left click on the name of your printer and press the :guilabel:`Forward` button. To change the name of your printer type it in the :guilabel:`Printer Name` field. To change the description of your printer type in the :guilabel:`Description` field. To have a location for the printer type in the :guilabel:`Location` field. To move to the next step press the :guilabel:`Forward` button. After this a dialog will pop up asking if you want to print a test page. 
 

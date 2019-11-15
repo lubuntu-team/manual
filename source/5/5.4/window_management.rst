@@ -31,7 +31,8 @@ Useful keyboard shortcuts
 -   Closing a window :kbd:`Alt + F4`
 -   Switching through windows :kbd:`Hold Alt + hit Tab`
 -   To switch between tabs in the reverse direction :kbd:`Hold Alt + Shift+Tab`
--   Show desktop with :kbd:`Control + Alt + D`.  
+-   Show desktop with :kbd:`Control + Alt + D`. 
+-   To open the normally on the left hand top corner press :kbd:`Alt+Space`. 
 
 Virtual Desktop Switching
 -------------------------

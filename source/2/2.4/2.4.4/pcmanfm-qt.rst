@@ -50,7 +50,6 @@ At the bottom of the window is a filter bar that lets you show files only matchi
 
 On the very bottom of the PCManFM-Qt window when you have nothing selected it shows :guilabel:`X item(s) (y hidden)` showing how many items are in the current folder. To the right of this shows :guilabel:`Free space` showing how much free space you have. The :guilabel:`(Total)` shows the full size of the storage medium this is on. When you select one file on this bottom bar it will show the file name you have selected and the type of file it is. If you select multiple files the bottom bar to the left will show :guilabel:`X item(s) selected` where X is the number of files you have selected and how much disk space they take up.
 
-
 To see hidden files press :kbd:`control +h`, right click :menuselection:`show hidden`, or go to  :menuselection:`View --> Show hidden`. Press the same thing again to hide hidden files again. To open a terminal in your current folder press :kbd:`f4`  or :menuselection:`Tool --> Open Terminal` from the menu.
 
 To view the properties of a file or folder right click on it and select properties from the menu, :menuselection:`File --> File Properties` or press :kbd:`Alt +Enter`. To view a dialog that shows folder properties :menuselection:`File --> Folder Properties`. The :guilabel:`General` tab will show you the size of the file, where the file is, and when it was last modified or accessed. To change what program a file opens with use the :guilabel:`Open With` drop down menu and select the program to open the file.
@@ -60,7 +59,6 @@ To view the properties of a file or folder right click on it and select properti
 The :guilabel:`Permissions` tab will show you who owns the file which if you can't change it will be grayed out and who has permission to read modify and execute the file. To change permission of files the :guilabel:`Owner`, :guilabel:`Group`, or :guilabel:`Other` drop down menu will allow you to choose whether you can read, read and write, or forbidden. To make something executable such as a script you wrote check the :guilabel:`Make the file executable` checkbox. At the bottom of the window is a bar graph showing disk usage of the partition the file exists on. If you use folder properties on the top left hand corner click on the folder icon and a file dialog will open to choose the new icon with the path of the current icon theme. Left click on the icon you want and then press the :guilabel:`Choose` button.
 
 .. image::  file-prop-perms.png
-
 
 Pcmanfm-qt can actually launch other applications in places Applications or :menuselection:`Go --> Applications` and then gets all the tasks in the main menu of lxqt-panel. To view what files are on your desktop :menuselection:`Go --> Desktop` or on the places sidebar press the desktop item on the left.
 

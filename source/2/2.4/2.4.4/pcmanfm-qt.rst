@@ -86,7 +86,7 @@ pcmanfm-qt has options when right clicking has special options for dealing with 
 
 .. image:: pcmanfm-compress.png
 
-To quit pcmanfm-qt press :kbd:`Control+Q`.
+To quit PCManFM-Qt press :kbd:`Control+Q`.
 
 Searching for Files
 -------------------

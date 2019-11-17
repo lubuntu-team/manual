@@ -99,7 +99,7 @@ To change what types of files you use choose the :guilabel:`File Type` tab. To c
 
 .. image::   search-file-type.png
 
-To search for the actual content of the files you are searching for use the :guilabel:`Content` tab. To enter what you actually want to search for in your file in your :guilabel:`File contains` filed. To search for things not caring whether it is uppercase or lowercase letters check the :guilabel:`Case insensitive` checkbox. To choose to use a regular expression to search for files check the :guilabel:`Use regular expression` checkbox.
+To search for the actual content of the files you are searching for use the :guilabel:`Content` tab. To enter what you actually want to search for in your file in your :guilabel:`File contains` filed. To search for things not caring whether it is uppercase or lowercase letters check the :guilabel:`Case insensitive` checkbox. To search with a regular expression check the :guilabel:`Use regular expression` checkbox.
 
 .. image::   pcmanfm-content.png
 

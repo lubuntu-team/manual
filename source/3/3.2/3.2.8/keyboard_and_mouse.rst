@@ -5,7 +5,7 @@ Keyboard and Mouse is the program to change the behavior of your keyboard and mo
 
 Usage
 ------
-The :guilabel:`Mouse` tab provides settings for how fast the mouse moves scrolls and double clicks. To increase the sensitivity of the mouse drag the slider for :guilabel:`Sensitivity` towards the right or conversely to decrease sensitivity drag the slider towards less sensitivity. To increase acceleration of the mouse drag the :guilabel:`Acceleration` slider to the right for more acceleration and to make the mouse accelerate slower drag it to the left. The settings should apply immediately so make sure the mouse moves how you want it.
+The :guilabel:`Mouse` tab provides settings for how fast the mouse moves, scrolls, and double clicks. To increase the sensitivity of the mouse drag the slider for :guilabel:`Sensitivity` towards the right or conversely to decrease sensitivity drag the slider towards less sensitivity. To increase acceleration of the mouse drag the :guilabel:`Acceleration` slider to the right for more acceleration and to make the mouse accelerate slower drag it to the left. The settings should apply immediately so make sure the mouse moves how you want it.
 
 If you do not like the new settings press the :guilabel:`Reset` button to go back to your previous settings. If you want to close Keyboard and Mouse press :kbd:`Escape` key.
 

@@ -1,7 +1,7 @@
 Chapter 3.2.10 Monitor Settings
 ===============================
 
-Monitor settings controls your monitor(s) resolution, refresh rate, and saves monitor settings.
+Monitor Settings controls your monitor(s) resolution, refresh rate, and saves monitor settings.
 
 Usage
 ------
@@ -37,7 +37,7 @@ The tabs towards the bottom are settings for each monitor.  This also has the sa
 
 Version
 -------
-Lubuntu ships with version 0.14.1 of monitor settings.
+Lubuntu ships with version 0.14.1 of Monitor Settings.
 
 How to Launch
 -------------

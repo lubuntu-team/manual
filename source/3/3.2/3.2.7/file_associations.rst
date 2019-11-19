@@ -9,7 +9,7 @@ To search for which file extension you want to change to open in another program
 
 .. image:: application_chooser.png
 
-To reset your changes press the :guilabel:`Reset` button if you don't want to keep your buttons. Once you are happy with your choices press the :guilabel:`Close` button or press :kbd:`Escape` key. 
+To reset your changes press the :guilabel:`Reset` button if you don't want to keep your buttons. Once you are happy with your choices press the :guilabel:`Close` button or press the :kbd:`Escape` key. 
 
 Screenshot
 ----------

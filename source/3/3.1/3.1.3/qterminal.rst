@@ -38,7 +38,6 @@ To change your preferences go to :menuselection:`File --> Preferences` or right 
 
 The :guilabel:`Color scheme` field lets you say change how different colored things in the terminal colors appear. The :guilabel:`Widget style` lets you overwrite the system widget style with something other than system default. The :guilabel:`Scrollbar position` lets you move the scrollbar to the left or right or remove it entirely. The :guilabel:`Tabs position` moves the bar to that part of the window of qterminal. The :guilabel:`Cursor shape` changes the shape of the cursor between block cursor a large block, underline cursor a small underline, or  IBeamCursor which is quite small like a | character. 
 
-
 To toggle showing the menubar check/uncheck the :guilabel:`Show the menu bar` checkbox. The checkbox :guilabel:`Hide tab bar with only one tab` hides the tab bar when you only have one tab. The checkbox :guilabel:`Fixed tab width` limits how wide a tab would be how be and the filed next to it is how wide to limit the width of tabs. The :guilabel:`Show a border around the current terminal` shows a border around the terminal. To disable having the x button to close each tab uncheck the :guilabel:`Close button on each tab` checkbox. The checkbox :guilabel:`Show terminal size on resize` toggles showing the terminal size on resizing the window. To have support for languages with both right to left and left to right text check the :guilabel:`Enable bi-directional text support`. 
 
 .. image:: qterminalprefrences.png 
@@ -64,7 +63,6 @@ The :guilabel:`Bookmark` tab has settings for a sidebar to quickly change direct
 Version
 -------
 Lubuntu ships with version 0.14.1 of QTerminal.
-
 
 How to Launch
 -------------

@@ -1,7 +1,7 @@
 Chapter 3.1.2 htop
 ==================
 
-htop is an ncurses text interface task manager that can be controlled by the keyboard. htop can also close unresponsive programs by killing the process.
+htop is an ncurses text interface task manager that can be controlled by the keyboard. htop also closes unresponsive programs by killing the process.
 
 Usage
 ------

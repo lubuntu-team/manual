@@ -1,7 +1,7 @@
 Chapter 3.2.17 Alternatives configurator
 ========================================
 
-To configure your alternatives like your default web browser and more applications. 
+Alternative Configuartor configures your alternatives like your default web browser and more applications. 
 
 Usage
 ------

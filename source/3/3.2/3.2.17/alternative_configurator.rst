@@ -1,4 +1,4 @@
-Chapter 3.2.17 Alternatives configurator
+Chapter 3.2.17 Alternatives Configurator
 ========================================
 
 Alternative Configuartor configures your alternatives like your default web browser and more applications. 

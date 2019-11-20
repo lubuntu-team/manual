@@ -1,7 +1,7 @@
 Chapter 3.1.4 Startup Disk Creator
 ==================================
 
-Startup Disk creator is the default graphical utility for creating bootable USB media on Lubuntu.
+Startup Disk Creator is the default graphical utility for creating bootable USB media on Lubuntu.
 
 Usage
 ------

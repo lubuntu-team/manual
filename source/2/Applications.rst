@@ -2,7 +2,7 @@
 Chapter 2 Applications
 ***********************
 
-This chapter will document the applications in Lubuntu. 
+This chapter documents the applications in Lubuntu. 
 
 .. toctree:: 
   :maxdepth: 2

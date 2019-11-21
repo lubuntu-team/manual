@@ -15,7 +15,7 @@ To use lxqt-sudo is important to not change your config files as if you did with
 
 Version
 -------
-Lubuntu ships with 0.14.1 of lxqt-sudo. 
+Lubuntu ships with 0.14.1 of lXQt-sudo. 
 
 Screenshot
 ----------
@@ -24,16 +24,16 @@ Screenshot
 
 How to Launch
 -------------
-To launch lxqt-sudo from the command line to run Featherpad with administrative privileges use 
+To launch LXQt-sudo from the command line to run Featherpad with administrative privileges use 
 
 .. code::
 
    lxqt-sudo featherpad
 
-You can also run lxqt-sudo from the runner for example type in
+You can also run LXQt-sudo from the runner for example type in
 
 .. code:: 
 
    lxqt-sudo pcmanfm-qt 
 
-into the runner to launch pcmanfm-qt with administrative privileges without opening a terminal.
+into the runner to launch PCManFM-Qt with administrative privileges without opening a terminal.

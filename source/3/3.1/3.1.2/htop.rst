@@ -15,7 +15,7 @@ To select the process below the currently selected one press :kbd:`Down Arrow` t
 
 .. image:: htop.png
 
-You can press :kbd:`F1` or :kbd:`?`  to bring up a help dialog on htop. Pressing :kbd:`F3` or :kbd:`/` lets you search for a particular process. To reverse sort order press :kbd:`Shift +I`. Pressing :kbd:`F4` makes it so you can only see processes matching a certain pattern. To get out of the view of your search for a pattern press the :kbd:`Escape` key. Pressing :kbd:`F5` is what you press to view the processes in a tree. To get back to the default view press :kbd:`F5` again. Pressing :kbd:`F9` lets you kill a process with different signals to send to the process and 15 will terminate the process while 9 will Kill it. Lastly :kbd:`F10` will quit htop and return you to a terminal.
+You can press :kbd:`F1` or :kbd:`?`  to bring up a help dialog on htop. Pressing :kbd:`F3` or :kbd:`/` lets you search for a particular process. To reverse sort order press :kbd:`Shift +I`. Pressing :kbd:`F4` makes it so you can only see processes matching a certain pattern. To get out of the view of your search for a pattern press the :kbd:`Escape` key. Pressing :kbd:`F5` is what you press to view the processes in a tree. To get back to the default view press :kbd:`F5` again. Pressing :kbd:`F9` lets you kill a process with different signals to send to the process and 15 will terminate the process while 9 will Kill it. Lastly pressing :kbd:`F10` or :kbd:`q` will quit htop and return you to a terminal.
 
 .. image:: htop-filter.png
 

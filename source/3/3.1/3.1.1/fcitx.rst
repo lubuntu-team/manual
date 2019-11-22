@@ -5,7 +5,7 @@ Fcitx is the default input manager for Lubuntu and shows as a tray applet in lxq
 
 Usage
 ------
-To use a virtual keyboard right click on the tray icon in the system tray that looks like a keyboard and Toggle Virtual Keyboard. 
+To use a virtual keyboard right click on the tray icon in the system tray that looks like a keyboard and select :menuselection:`Toggle Virtual Keyboard`. 
 
 To switch your keyboard method with the applet is to left click on the applet :menuselection:`Input Method --> Desired keyboard layout`. 
 

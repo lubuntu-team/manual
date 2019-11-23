@@ -21,7 +21,7 @@ You can press :kbd:`F1` or :kbd:`?`  to bring up a help dialog on htop. Pressing
 
 To change how your process are sorted press :kbd:`F6` which will bring up your own menu to sort by by :guilabel:`PID`, :guilabel:`USER`, :guilabel:`Priority`, :guilabel:`NICE`, :guilabel:`M_Size`, :guilabel:`M_Resident`, :guilabel:`M_Share`, :guilabel:`State`, :guilabel:`Percent_CPU`, :guilabel:`Percent_Mem`, :guilabel:`Time`, or :guilabel:`Command`.  
 
-:kbd:`F2` brings about a customizable settings on htop. The :guilabel:`Meters` brings up meters like CPU average. The :guilabel:`Display Options` has option for different ways to display in htop. The :guilabel:`Colors` tab brings up different color schemes for htop.   
+:kbd:`F2` brings about a customizable settings on htop. The :guilabel:`Meters` brings up meters like CPU average. The :guilabel:`Display Options` has option for different ways to display in htop. The :guilabel:`Colors` tab brings up different color schemes for htop. To select a different color scheme press the :kbd:`Up arrow` or :kbd:`Down arrow` keys.  
 
 .. image:: htop-setup.png
 

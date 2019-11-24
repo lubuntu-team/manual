@@ -7,8 +7,8 @@ nm-tray has the benefit of being Qt instead of GTK (use already loaded libraries
 VPN
 ---
 
-To configure a VPN the best way to do it is with  in the Menu under :menuselection:`Preferences --> Advanced Network Confiruation`. That will open network-manager-gnome you will need also to install the correaponding packages. In case of pptp those will be network-manager-pptp and network-manager-pptp-gnome. The you can follow the confiruation instruction for each VPN type.
-After the creation, it will appear as a new connection in nm-tray. One thing to consider is that nm-tray does not support password asking, so either you save the password FOR ALL USERS or you will need to connect diffently. 
+To configure a VPN the best way to do it is with  in the Menu under :menuselection:`Preferences --> Advanced Network Configuration`. That will open network-manager-gnome you will need also to install the corresponding packages. In case of pptp those will be network-manager-pptp and network-manager-pptp-gnome. The you can follow the configuration instruction for each VPN type.
+After the creation, it will appear as a new connection in nm-tray. One thing to consider is that nm-tray does not support password asking, so either you save the password FOR ALL USERS or you will need to connect differently. 
 One of the  option is through terminal with typing
 
 .. code:: 
@@ -21,7 +21,7 @@ with the actual VPN connection name. The other option is to use nm-applet, the "
 
   nm-applet 
   
-and you will end up with 2 connection indicators in the tray. The you can connect to the vpn with nm-applet and after the connection is established, you can close nm-applet and the connection will still be present.
+and you will end up with 2 connection indicators in the tray. The you can connect to the VPN with nm-applet and after the connection is established, you can close nm-applet and the connection will still be present.
 
 Changing nm-tray for nm-applet
 -------------------------------

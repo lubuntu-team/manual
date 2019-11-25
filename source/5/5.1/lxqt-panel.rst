@@ -60,7 +60,7 @@ The :guilabel:`Widgets` lets you change the widgets or individual items on the p
 Shipped applets not enabled by default:
  - CPU Monitor
  - Color Picker
- - Panel Dom Tree
+ - Panel DOM Tree
  - Sensors
  - System Statistics
  - Spacer

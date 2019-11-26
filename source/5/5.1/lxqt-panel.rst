@@ -85,7 +85,7 @@ To change options for your task manager or taskbar open the panel configuration 
 
 To change the look of your taskbar in the same window as above the appearance section the :guilabel:`Button style` menu will change whether to show only the icon or the icon only for only the icons. To show window and the text label of the program  :menuselection:`Icon and text`. :menuselection:`Icons only` will work best with a panel aligned to the left or right side of your screen. To have only the text on your taskbar and no icons select :menuselection:`Only text`. To change the maximum width of a button change the :guilabel:`Maximum button width` which is measured in pixels to how wide on maximum a button could be. To change how high a button will be when a panel is vertical change the :guilabel:`Maximum button height` field. To reset your changes to this window press the :guilabel:`Reset` button.
 
-The settings for removable media is able to be opened up is right click the applet :menuselection:`Configure "Removable media"` you can select :menuselection:`Show info`, :menuselection:`Popup menu`, or :menuselection:`Do nothing`. If you want to reset the setting for this press the :guilabel:`Reset` button. 
+The settings for removable media is able to be opened up is right click the applet :menuselection:`Configure "Removable media"`  from :guilabel:`When a device is connected` you can select and :menuselection:`Show info`, :menuselection:`Popup menu`, or :menuselection:`Do nothing`. If you want to reset the setting for this press the :guilabel:`Reset` button. 
 
 .. image:: removalble-media-settings.png
 

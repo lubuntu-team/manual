@@ -11,6 +11,7 @@ It supports:
  - Line numbers
  - Search with find/replace
  - Undo and redo
+ - Spellcheck
 
 Usage
 ------

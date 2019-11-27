@@ -47,7 +47,7 @@ The :guilabel:`Panel` tab has settings for the color and position of the panel. 
 
 If you want to autohide the panel check the :guilabel:`Auto-hide` checkbox in panel settings. To change how long the animation takes to show or hide the panel change the :guilabel:`Animation duration` field. To show how long your panel will appear when it comes back after hiding in milliseconds change the :guilabel:`Show with delay` field. To show a very thin bit of the panel visible when autohidden check the :guilabel:`Visible thin margin for hidden panel` checkbox. To have the space for the panel not be used for anything else check the :guilabel:`Reserve space on display` checkbox.
 
-To change to a custom font color press the :guilabel:`color button` checkbox. Press the dropper button to bring up a widget to choose the custom color. The checkbox for :guilabel:`Background color` sets a background color custom for the background of lxqt-panel and the :guilabel:`dropper` brings up how to select which color. To add an image to your panel background press the checkbox and select your image for the file in the dialog.
+To change to a custom font color press the :guilabel:`Font color` checkbox. Press the dropper button to bring up a widget to choose the custom color. The checkbox for :guilabel:`Background color` sets a background color custom for the background of lxqt-panel and the :guilabel:`dropper` brings up how to select which color. To add an image to your panel background press the checkbox and select your image for the file in the dialog.
 
 .. image:: lxqt-panel-config.png 
 

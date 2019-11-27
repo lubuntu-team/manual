@@ -122,7 +122,7 @@ The :guilabel:`Sensors` tab provides settings for each individual sensor on your
 
 .. image::   sensors-applet.png
 
-To add a spacer to your panel add the spacer widget. It creates a blank space on your panel which can seperate different items. To change how wide your spacer is change the :guilabel:`Space Width` field to the number of pixels you want the spacer to be wide. The setting for :guilabel:`Space type` selects :menuselection:`lined`,  :menuselection:`dotted`, or :menuselection:`invisible` for changing the spacers appearance.
+To add a spacer to your panel add the spacer widget. It creates a blank space on your panel which can separate different items. To change how wide your spacer is change the :guilabel:`Space Width` field to the number of pixels you want the spacer to be wide. The setting for :guilabel:`Space type` selects :menuselection:`lined`,  :menuselection:`dotted`, or :menuselection:`invisible` for changing the spacers appearance.
 
 .. image:: panel-spacer.png
 

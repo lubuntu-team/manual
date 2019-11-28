@@ -42,5 +42,5 @@ To launch Keyboard and Mouse use menu :menuselection:`Preferences --> LXQt setti
 
    lxqt-config-input
    
-The icon for Keyboard and Mouse is a keyboard.
+The icon for Keyboard and Mouse is a black keyboard.
 

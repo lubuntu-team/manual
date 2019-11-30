@@ -40,7 +40,7 @@ qpdfview also includes some very useful docks. To view the outline dock, in the 
 
 .. image:: qpdfview-outline.png
 
-To view properties of your PDF file press :kbd:`F7` or :menuselection:`View --> Docks --> Properties`. To see a thumbnail of each page :menuselection:`View --> Dock --> Thumbnails` or press :kbd:`f8` to view a thumbnail of each page of the PDF file. If you want to close one of these docks click the X button on the dock to close it. To detach a dock to its own floating window press the diamond button to detach it. To get the dock back to where it was press the diamond button again. To view the fonts embedded in the PDF :menuselection:`View --> Fonts`. 
+To view properties of your PDF file press :kbd:`F7` or :menuselection:`View --> Docks --> Properties`. To see a thumbnail of each page :menuselection:`View --> Dock --> Thumbnails` or press :kbd:`F8` to view a thumbnail of each page of the PDF file. If you want to close one of these docks click the X button on the dock to close it. To detach a dock to its own floating window press the diamond button to detach it. To get the dock back to where it was press the diamond button again. To view the fonts embedded in the PDF :menuselection:`View --> Fonts`. 
 
 .. image::  properties-dock.png
 

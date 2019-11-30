@@ -118,4 +118,4 @@ To launch LibreOffice Impress go to the menu :menuselection:`Office --> LibreOff
 
    loimpress 
 
-from the command line. The icon for Libreoffice Impress looks like a piece of paper with a red icon and a chart with bullet points on it.
+from the command line. The icon for LibreOffice Impress looks like a piece of paper with a red icon and a chart with bullet points on it.

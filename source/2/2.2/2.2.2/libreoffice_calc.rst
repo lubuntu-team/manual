@@ -42,7 +42,6 @@ To select all cells in your spreadsheet press :kbd:`Control+A`. To select an ent
 
 To create a new spreadsheet in the same file press the button on the bottom that looks like a :guilabel:`+` or :menuselection:`Sheet --> Insert Sheet`. To switch between each sheet press the button on each sheet at the bottom near the button to add a new sheet.
 
-
 To insert a special character not on your keyboard :menuselection:`Insert --> Special Character`. To select what character to insert left click in the center of the inserting character window. To actually insert the symbol press the :guilabel:`Insert` button.
 
 .. image:: calc-specialcharacter.png

@@ -5,7 +5,7 @@ LibreOffice Calc is the default spreadsheet program for Lubuntu.
 
 Usage
 ------
-To move between cells press the arrow keys. To enter data into cells type in the keyboard. To select cells left click and drag to select the cells you want. To sum data from cells in the cell where you want the sum is to press the button that looks like Σ character and then drag the mouse over the cells you want to add. To sort your cells in descending order press the button with bullet points and an arrow going down. To sort in ascending order press the button with bullet points and an arrow pointing upwards.   
+To move between cells press the arrow keys. To enter data into cells type in the keyboard. To select cells left click and drag to select the cells you want. To sum data from cells in the cell where you want the sum is to press the button that looks like :guilabel:`Σ` character and then drag the mouse over the cells you want to add. To sort your cells in descending order press the button with bullet points and an arrow going down. To sort in ascending order press the button with bullet points and an arrow pointing upwards.   
 
 .. image:: calc-save.png
 

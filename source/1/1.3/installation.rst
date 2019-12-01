@@ -51,7 +51,7 @@ If all you want is Lubuntu on your machine, you can select the :guilabel:`Erase 
 
    sudo swapoff -a
   
-will unmount them and any swap partitions. This will not work if you have data partition mounted open pcmanfm-qt and press the upward pointed arrow on the :guilabel:`Places` sidebar to unmount all data partitions. 
+will unmount them and any swap partitions. This will not work if you have data partition mounted open PCManFM-Qt and press the upward pointed arrow on the :guilabel:`Places` sidebar to unmount all data partitions. 
 
 To move back to Selecting your keyboard layout press the :guilabel:`Back` button. To move to the setting up users press the :guilabel:`Next` button.
 

@@ -11,7 +11,7 @@ If you want to upload a picture to share it online press :menuselection:`Edit --
 
 .. image:: lximage_upload.png
 
-To use LXImage use the arrow to the right to view the next file in the folder and the arrow to the left to view the previous folder. To open an entire directory :menuselection:`File --> Open Directory` or press :kbd:`Control +D`. To save the file as something press :kbd:`Control+Shift+S` or :menuselection:`File --> Save As`. To save  the file with the same file name press :kbd:`Control+S` or :menuselection:`File -->Save`.
+To use LXImage use the arrow to the right to view the next file in the folder and the arrow to the left to view the previous folder. To open an entire directory :menuselection:`File --> Open Directory` or press :kbd:`Control +D`. To save the file as something press :kbd:`Control+Shift+S`,  the downward pointed arrow with an I on it, or :menuselection:`File --> Save As`. To save  the file with the same file name press :kbd:`Control+S` or :menuselection:`File -->Save`.
 
 If you wish to print a picture after viewing it from the :menuselection:`File --> Pint` or press :kbd:`control+ p` to bring up a print dialog. To exit the window with a keyboard shortcut press the :kbd:`Escape` key.
 

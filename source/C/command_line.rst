@@ -10,7 +10,7 @@ An exhaustive tutorial on the command line is a bit beyond the scope of the manu
    
    man df
 
-This will show you the user manual for the df command containing and explanation of the command and other useful information. For example is the -h option gives a human readable output. If the manual is way to long you can press the :kbd:`/` key and type in what you want to search for.
+This will show you the user manual for the df command containing and explanation of the command and other useful information. For example is the -h option gives a human readable output. If the manual is way too long you can press the :kbd:`/` key and type in what you want to search for.
 
 .. code::
   

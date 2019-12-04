@@ -1,7 +1,7 @@
 Chapter 5.4 Window Management
 =============================
 
-Window are the area which contains the graphical user interface that we interact with programs. In Lubuntu these windows can typically be opened, closed, resized and minimized. Underneath Lubuntu uses Openbox as default a window manager. 
+Window are the area which contains the graphical user interface that we interact with programs. In Lubuntu these windows can typically be opened, closed, resized and minimized. Underneath Lubuntu uses Openbox as default a window manager.
 
 Using the mouse
 ---------------

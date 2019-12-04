@@ -56,7 +56,7 @@ If you want just to see the contents of a file on standard output run
 
    cat [filename]
 
-If you have a command and you don't want to type the whole thing out you can press the :kbd:`tab` key. If this does not work press :kbd:`tab` again and see the list of available commands to run.
+If you have a command and you don't want to type the whole thing out you can press the :kbd:`tab` key. If this does not work press :kbd:`tab` again and see the list of available commands to run. This process is called tab completion.
 
 If you want a command to run if the first completes run 
 

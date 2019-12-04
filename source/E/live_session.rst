@@ -2,7 +2,7 @@
 Appendix E Live Session
 ************************
 
-It is possible to use Lubuntu without installing it. In a live session your computer is running off a bootable media (USB or DVD). The session can also be used to install Lubuntu.
+It is possible to use Lubuntu without installing it. In a live session your computer is running off a bootable media (USB or DVD). The live session can also be used to install Lubuntu.
 
 Reasons for using live session:
  -  Hardware testing and trouble shooting.

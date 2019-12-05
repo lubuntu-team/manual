@@ -3,6 +3,9 @@ Chapter 4.4 Update Notifier
 
 Update Notifier is a simple program to upgrade your system.
 
+Usage
+-----
+To apply an upgrade for the press the :guilabel:`Upgrade` button. This will bring up a prompt for Update Notifer with lxqt-sudo for you to authentacate applying updates.
 
 Version
 -------

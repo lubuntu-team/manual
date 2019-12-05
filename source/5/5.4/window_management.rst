@@ -22,7 +22,7 @@ Right clicking on the title bar or left clicking on the icon in the top-left of 
 -   If you want to move something Always on bottom or Always on top you can move it back to :menuselection:`Normal`. 
 -   The earlier mentioned :menuselection:`Iconify`, :menuselection:`Maximize`, and :menuselection:`Close`  options are also available here.
 -   :menuselection:`Roll up/down` rolls the window into the title-bar.
--   :menuselection:`Un/Decorate` hides them title-bar.
+-   :menuselection:`Un/Decorate` hides them title-bar. If you want to get decorations back press :kbd:`Alt+Space` and then select :menuselection:`Decorate` from the menu.
 
 .. image:: wm_menu.png
 

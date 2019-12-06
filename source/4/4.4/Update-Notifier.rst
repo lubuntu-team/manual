@@ -9,7 +9,7 @@ To apply an upgrade for the press the :guilabel:`Upgrade` button. This will brin
 
 Version
 -------
-Lubuntu ships version 0.1 of Update Notifier
+Lubuntu ships version 0.1 of Update Notifier.
 
 How to Launch
 -------------

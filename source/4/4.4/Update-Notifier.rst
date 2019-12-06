@@ -19,3 +19,4 @@ To launch Update Notifer :menuselection:`Prefrences --> Apply Full Upgrade` or f
 
     lubuntu-upgrader
 
+The icon for Update Notifier looks like a yellow circle with two circular arrows above it.

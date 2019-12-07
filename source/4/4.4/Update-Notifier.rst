@@ -7,6 +7,8 @@ Usage
 -----
 To apply an upgrade for the press the :guilabel:`Upgrade` button. This will bring up a prompt for Update Notifer with lxqt-sudo for you to authentacate applying updates. Press the :guilabel:`OK` button after entering your password. Once the update is done press the :guilabel:`Close` button.
 
+If you have a to restart after an update the window will say :guilabel:`Restart Required`.
+
 Version
 -------
 Lubuntu ships version 0.1 of Update Notifier.

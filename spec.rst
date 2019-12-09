@@ -63,15 +63,15 @@ Chapter 2.1 Internet Applications
 Chapter 2.2 Office applications
 -------------------------------
 
- 2.2.1 Libreoffice Calc
+ 2.2.1 LibreOffice Calc
 
- 2.2.2 Libreoffice Draw
+ 2.2.2 LibreOffice Draw
 
- 2.2.3 Libreoffice Impress
+ 2.2.3 LibreOffice Impress
 
- 2.2.4 Libreoffice Math
+ 2.2.4 LibreOffice Math
 
- 2.2.5 Libreoffice Writer
+ 2.2.5 LibreOffice Writer
 
  2.2.6 qpdfview
 
@@ -93,13 +93,13 @@ Chapter 2.4 Acessories
 
 2.4.3 Kcalc
 
-2.4.4 Pcmanfm-Qt
+2.4.4 PCManFM-Qt
 
 2.4.5 Qlipper
 
 2.4.6 fcitx
 
-2.4.7 Noblenote
+2.4.7 nobleNote
 
 2.4.8 2048-Qt
 

@@ -39,6 +39,10 @@ Complete installation
 
 Different Installation Options
 
+Chapter 1.4 Welcome
+-------------------
+Welcome
+
 ----------------------
 Chapter 2 Applications
 ----------------------

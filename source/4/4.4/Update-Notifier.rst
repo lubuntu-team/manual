@@ -5,7 +5,7 @@ Update Notifier is a simple program to upgrade your system.
 
 Usage
 -----
-To apply an upgrade for the press the :guilabel:`Upgrade` button. This will bring up a prompt for Update Notifer with lxqt-sudo for you to authentacate applying updates. Press the :guilabel:`OK` button after entering your password. Once the update is done press the :guilabel:`Close` button.
+To apply an upgrade for the press the :guilabel:`Upgrade` button. This will bring up a prompt for Update Notifier with lxqt-sudo for you to authenticate applying updates. Press the :guilabel:`OK` button after entering your password. Once the update is done press the :guilabel:`Close` button.
 
 If you have a to restart after an update the window will say :guilabel:`Restart Required`.
 
@@ -15,7 +15,7 @@ Lubuntu ships version 0.1 of Update Notifier.
 
 How to Launch
 -------------
-To launch Update Notifer :menuselection:`Prefrences --> Apply Full Upgrade` or from the command line run
+To launch Update Notifier :menuselection:`Preferences --> Apply Full Upgrade` or from the command line run
 
 .. code::
 

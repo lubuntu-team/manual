@@ -11,7 +11,7 @@ To use brightness click on the dial towards the right window of the window. To m
 
 If you have multiple displays and want to change the brightness of each monitor individually it will be shown with the name of the monitor will be shown on the left and a dial on the right hand side for each monitor.
 
-If you do not want to confirmation uncheck the :guilabel:`Require confirmation after settings change` checkbox. To close brightness press the :kbd:`Escape` key.
+If you do not want to confirmation uncheck the :guilabel:`Require confirmation after settings change` checkbox. To close Brightness press the :kbd:`Escape` key.
 
 Screenshot
 ----------

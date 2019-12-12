@@ -33,7 +33,7 @@ Lubuntu ships with version 0.14.1 of appearance.
 
 How to Launch
 -------------
-To launch Appearance in the menu :menuselection:`Preferences --> LXQt settings --> Appearance`. Another way is to press the Appearance button from LXQt configuration center or run
+To launch Appearance in the menu :menuselection:`Preferences --> LXQt settings --> Appearance`. Another way to launch Appearance is to press the Appearance button from LXQt configuration center or run
 
 .. code:: 
 

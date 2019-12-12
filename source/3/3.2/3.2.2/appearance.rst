@@ -39,4 +39,4 @@ To launch Appearance in the menu :menuselection:`Preferences --> LXQt settings -
 
     lxqt-config-appearance 
     
-from the command line. The icon of Appearance looks like a screenshot of a monitor with a window on it.
+from the command line. The icon for Appearance looks like a screenshot of a monitor with a window on it.

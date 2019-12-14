@@ -27,7 +27,7 @@ The tab for :guilabel:`Environment (Advanced)` has many effects for you environm
 
 .. image:: lxqt-session-advanced.png
 
-If you want to undo changes you have done press the :guilabel:`Reset` button. To close session settings press the :kbd:`Escape` key.
+If you want to undo changes you have done press the :guilabel:`Reset` button. To close session settings press the :kbd:`Escape` key or press the :guilabel:`Close` button.
 
 Version
 -------

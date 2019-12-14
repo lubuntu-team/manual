@@ -25,7 +25,7 @@ The :guilabel:`Cursor` tab has one option to change cursor theme lets you change
 
 .. image:: appearance-cursor.png
 
-If you want to reset your changes you will need to click the :guilabel:`Reset` button to revert your changes to how they were before. To actually quit by the keyboard press the :kbd:`Escape` key.
+If you want to reset your changes you will need to click the :guilabel:`Reset` button to revert your changes to how they were before. To actually quit by the keyboard press the :kbd:`Escape` key or press the :guilabel:`Close` button.
 
 Version
 -------

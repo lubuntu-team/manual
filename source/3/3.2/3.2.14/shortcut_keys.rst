@@ -14,7 +14,7 @@ You can **Remove** a keyboard shortcut by selecting the shortcut from the keyboa
 
 You can **Add** a new keyboard shortcut clicking the :guilabel:`Add` button. The shortcut field will be blank, click the :guilabel:`Shortcut` button to start the countdown, then press the **keyboard shortcut combination** you want to assign. Write a short description of what the keyboard shortcut does, for example "start drop down terminal", or "increases screen brightness" in the :guilabel:`Description` field. To make this execute a terminal command select the :guilabel:`command` radio button and enter the command.
 
-To close shortcut keys press the :kbd:`Escape` key or press the :guilabel:`Close` button.
+To close Shortcut Keys press the :kbd:`Escape` key or press the :guilabel:`Close` button.
 
 Screenshots
 -----------

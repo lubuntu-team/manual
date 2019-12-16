@@ -1,7 +1,7 @@
 Chapter 3.2.16 Window Effects
 =============================
 
-Window Effects is the default program in Lubuntu to manage effects of the Compton X compositor. 
+Window Effects is the default program in Lubuntu to manage effects of the Compton X11 compositor. 
 
 Usage
 ------

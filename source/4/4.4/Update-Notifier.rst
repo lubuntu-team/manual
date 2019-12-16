@@ -9,6 +9,11 @@ To apply an upgrade for the press the :guilabel:`Upgrade` button. This will brin
 
 If you have a to restart after an update the window will say :guilabel:`Restart Required`.
 
+Screenshot
+----------
+
+.. image::  upgrade-notifer.png
+
 Version
 -------
 Lubuntu ships version 0.1 of Update Notifier.

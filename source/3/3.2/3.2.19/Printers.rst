@@ -37,7 +37,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 1.5.11 of printers.
+Lubuntu ships with version 1.5.11 of Printers.
 
 How to Launch
 -------------

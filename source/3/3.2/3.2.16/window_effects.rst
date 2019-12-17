@@ -23,7 +23,7 @@ To have your settings applied you will need to press the :guilabel:`Apply` butto
 
 Version
 -------
-Lubuntu ships with version 0.14.1 of Window effects.
+Lubuntu ships with version 0.14.1 of Window Effects.
 
 How to Launch
 -------------

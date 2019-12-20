@@ -1,7 +1,7 @@
 Chapter 3.2.5 Desktop
 =====================
 
-Desktop is an application to change the Desktop background and appearance of icons and even desktop slideshows. 
+Desktop is an application to change the desktop background, the appearance of icons, and even desktop slideshows. 
 
 Usage
 ------

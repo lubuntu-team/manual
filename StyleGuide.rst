@@ -9,4 +9,4 @@ Style Guide
 
 - Use :kbd:`Shortcut` for keyboard shortcuts and buttons you press.
 
-- Use the dast for bullet pointed lists usually at the beinning of rlists of features.
+- Use the - for bullet pointed lists usually at the beinning of lists of features.

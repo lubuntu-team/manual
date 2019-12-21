@@ -1,7 +1,7 @@
 Style Guide
 ===========
 
-- Program names use the same capilization you use in the main menu.
+- Program names use the same capitalization you use in the main menu.
 
 - Use code directives for input into the command line.
 
@@ -9,4 +9,4 @@ Style Guide
 
 - Use :kbd:`Shortcut` for keyboard shortcuts and buttons you press.
 
-- Use the - for bullet pointed lists usually at the beinning of lists of features.
+- Use the - for bullet pointed lists usually at the beginning of lists of features.

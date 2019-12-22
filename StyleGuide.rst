@@ -20,3 +20,5 @@ have - put under them for a section about a program.
 
 
 - Keep screenshots near the text that describes them 
+
+- Start each program or section being underlines with = 

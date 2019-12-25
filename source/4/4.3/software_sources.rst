@@ -56,4 +56,4 @@ How to Launch
     
 The icon for Software Sources looks like a blue circle with a white downward pointing arrow.
 
-tags:PPA, software, download, sources, release, update, discover, muon, security, 
+tags:PPA, software, download, sources, release, update, Discover, Muon, security, 

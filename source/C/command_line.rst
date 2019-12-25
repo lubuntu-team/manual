@@ -38,7 +38,7 @@ To change to another directory an important command is
 
 where [dir] is the directory you want to switch to. Another thing that is useful is you can append .. after cd to make it go up one level.
 
-There is also the command line for managing and installing packages which is beyond the scope of this appendix but please see `apt package management <https://help.ubuntu.com/lts/serverguide/apt.html>`_  for how to insert and remove packages from the command line. 
+There is also the command line for managing and installing packages which is beyond the scope of this appendix but please see `apt package management <https://help.ubuntu.com/lts/serverguide/apt.html>`_ for how to insert and remove packages from the command line. 
 
 If you need to edit a text file from the command line the easiest editor included is nano so to edit a file from the command line if you broke something run 
 

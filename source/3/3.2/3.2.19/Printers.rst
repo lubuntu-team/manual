@@ -29,7 +29,7 @@ To choose settings specific to your printer use the :guilabel:`Printer Options` 
 
 .. image:: prop-printer-option.png
 
-To close printers press :kbd:`Control+Q`.
+To close Printers press :kbd:`Control+Q`.
 
 Screenshot
 ----------

@@ -18,7 +18,7 @@ Style Guide
 Sections
 --------
 
-- have - put under them for a section about a program.
+- Have - put under them for a section about a program.
 
 - Keep screenshots near the text that describes them 
 

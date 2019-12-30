@@ -47,5 +47,5 @@ To launch Printers from the menu :menuselection:`Preferences --> Printers` or ru
 
    system-config-printer 
    
-from the command line. 
+from the command line. The icon for Printers looks like a printer.
 

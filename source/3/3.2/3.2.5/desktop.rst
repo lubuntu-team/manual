@@ -15,11 +15,11 @@ The box labeled :guilabel:`Select font` lets you choose which font and size info
 
 .. image:: desktop-font.png
 
-The tab :guilabel:`Slide Show` shows settings for slide show of changing your wallpaper automatically like a slide show. The checkbox :guilabel:`Enable Slide Show` enables the slide show that auto changes your wallpaper. The field :guilabel:`Wallpaper image folder` changes the path to find the different pictures for the slideshow or to find a folder press the :guilabel:`Browse` button.  To change how long it takes for the slideshow of the desktop background to change change the fields in :guilabel:`Interval` for changing how fast the slideshow changes. To randomize the order in which the pictures change check the :guilabel:`Randomize the slide show` checkbox. 
+The :guilabel:`Slide Show` tab shows settings for slide show of changing your wallpaper automatically like a slide show. The checkbox :guilabel:`Enable Slide Show` enables the slide show that auto changes your wallpaper. The field :guilabel:`Wallpaper image folder` changes the path to find the different pictures for the slideshow or to find a folder press the :guilabel:`Browse` button.  To change how long it takes for the slideshow of the desktop background to change change the fields in :guilabel:`Interval` for changing how fast the slideshow changes. To randomize the order in which the pictures change check the :guilabel:`Randomize the slide show` checkbox. 
 
 .. image::  slideshow-desktop.png
 
-The tab :guilabel:`Advanced` has settings for automatic desktop icons or included or to show openbox menus on click the desktop. To show or hide any of the desktop icons check/uncheck the checkboxes for: :guilabel:`Home`, :guilabel:`Trash`, :guilabel:`Computer`, or :guilabel:`Network`. To show the openbox window manager menus by right clicking on the desktop check the :guilabel:`Show menus provided by window managers when desktop is clicked`.
+The :guilabel:`Advanced` tab has settings for automatic desktop icons or included or to show openbox menus on click the desktop. To show or hide any of the desktop icons check/uncheck the checkboxes for: :guilabel:`Home`, :guilabel:`Trash`, :guilabel:`Computer`, or :guilabel:`Network`. To show the openbox window manager menus by right clicking on the desktop check the :guilabel:`Show menus provided by window managers when desktop is clicked`.
 
 .. image::   desktop-advanced.png
 

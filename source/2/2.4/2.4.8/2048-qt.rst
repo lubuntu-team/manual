@@ -25,4 +25,4 @@ To launch 2048-Qt go to the menu :menuselection:`Games -> 2048-Qt` or run
    
    2048-qt 
  
-from the command line. The icon looks like a green square with 2048 in white text.
+from the command line. The icon for 2048-Qt looks like a green square with 2048 in white text.

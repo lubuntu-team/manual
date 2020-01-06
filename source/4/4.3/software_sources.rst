@@ -39,7 +39,7 @@ To launch this part of the program directly :menuselection:`Preferences --> Addi
 
 Version
 -------
-Lubuntu ships with version 0.97.9 of software properties. 
+Lubuntu ships with version 0.97.9 of Software Sources. 
 
 Screenshot
 --------------

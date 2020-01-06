@@ -26,6 +26,8 @@ To launch ScreenGrab :menuselection:`Graphics --> ScreenGrab` or from the comman
 .. code::
 
    screengrab  
+   
+The icon for ScreenGrab looks like a teal camera shutter with a white layer on top.
 
 Customizing
 -----------

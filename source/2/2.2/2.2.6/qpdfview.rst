@@ -89,7 +89,7 @@ To change the interface settings click on the :guilabel:`Interface` tab.  If you
 
 .. image:: qpdfview-interface.png
 
-The :guilabel:`Shortcuts` tab provides the ability to customize keyboard shortcuts. The :guilabel:`Action` column is what is keyboard shortcut does. The :guilabel:`Key sequence` column shows the keyboard shortcut. Double click in the key sequence column and type in your desired keyboard shortcut to change the keyboard shortcut.
+The :guilabel:`Shortcuts` tab provides the ability to customize keyboard shortcuts. The :guilabel:`Action` column is what each keyboard shortcut does. The :guilabel:`Key sequence` column shows the keyboard shortcut. Double click in the key sequence column and type in your desired keyboard shortcut to change the keyboard shortcut.
 
 .. image::   qpdfview-shortcuts.png
 

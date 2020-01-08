@@ -5,7 +5,7 @@ Brightness is the default tool to control your screen brightness. If you are usi
 
 Usage
 ------
-To use brightness click on the dial towards the right window of the window. To make the screen dimmer use the :kbd:`left arrow` key or click on the dial and drag the dial towards the left. If you want to make the screen more bright press the :kbd:`right arrow` key or drag the dial towards the right. The name of your display(s) will be on a dial on the center. After doing this you will be asked to confirm the current brightness is OK while needing to select :guilabel:`Yes`. If you do not respond it will revert the old brightness which is useful because if you made your screen illegible it will revert to the old settings. 
+To use brightness click on the dial towards the right window of the window. To make the screen dimmer use the :kbd:`left arrow` key or click on the dial and dragnight the dial towards the left. If you want to make the screen more bright press the :kbd:`right arrow` key or drag the dial towards the right. The name of your display(s) will be on a dial on the center. After doing this you will be asked to confirm the current brightness is OK while needing to select :guilabel:`Yes`. If you do not respond it will revert the old brightness which is useful because if you made your screen illegible it will revert to the old settings.
 
 .. image:: brightness-confirmation.png
 

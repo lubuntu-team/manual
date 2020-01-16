@@ -41,7 +41,7 @@ If you want a minimal interface that hides menubar and toolbars press :kbd:`Cont
 
 .. image:: vlc-minimal.png
 
-To view more advanced controls :menuselection:`View --> Advanced Controls`. To view to a status bar with what is playing and the speed with :menuselection:`View --> Status bar`. 
+To view more advanced controls :menuselection:`View --> Advanced Controls`. To record part of something in vlc press the :guilabel:`red circle` button to start recording and once it turns gray to stop recording. To view to a status bar with what is playing and the speed with :menuselection:`View --> Status bar`. 
 
 To change the aspect ratio of a video :menuselection:`Video --> Aspect Ratio` and select the one you wish. To crop a video to only part of your screen :menuselection:`Video --> Crop` and select the aspect ratio you want to crop the video to. To take a screenshot of the currently playing media :menuselection:`Video --> Take Snapshot`. 
 

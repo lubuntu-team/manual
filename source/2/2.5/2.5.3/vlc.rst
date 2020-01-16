@@ -43,7 +43,7 @@ If you want a minimal interface that hides menubar and toolbars press :kbd:`Cont
 
 To view more advanced controls :menuselection:`View --> Advanced Controls`. To record part of something in vlc press the :guilabel:`red circle` button to start recording and once it turns gray to stop recording.
 
-To view to a status bar with what is playing and the speed with :menuselection:`View --> Status bar`. On the status bar the title of the currently playing file is on the left hand side. 
+To view to a status bar with what is playing and the speed with :menuselection:`View --> Status bar`. On the status bar the title of the currently playing file is on the left hand side. To view your current playback speed is towards the right hand side and to change it left click on the playback speed and drag to the desired speed.
 
 To change the aspect ratio of a video :menuselection:`Video --> Aspect Ratio` and select the one you wish. To crop a video to only part of your screen :menuselection:`Video --> Crop` and select the aspect ratio you want to crop the video to. To take a screenshot of the currently playing media :menuselection:`Video --> Take Snapshot`. 
 

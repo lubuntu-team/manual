@@ -16,7 +16,7 @@ If you want to find an iso image if it is not shown press the :guilabel:`Other` 
 
 .. image::  statup-disk-creator.png
 
-To see what startup isos have been added are in columns for the top of the startup disk. To see the image or drive path to the file look at the :guilabel:`CD-Drive/Image` column. To see what version of an operating system vieww the :guilabel:`OS Version` column.
+To see what startup isos have been added are in columns for the top of the startup disk. To see the image or drive path to the file look at the :guilabel:`CD-Drive/Image` column. To see what version of an operating system vieww the :guilabel:`OS Version` column. To see how big your image size actually is view the :guilabel:`Size` column. 
 
 To actually create the disk press the :guilabel:`Make Startup Disk` button. A dialog will appear asking if you want to write the disk image and all data will be lost to make the disk press the :guilabel:`Yes` button. Another dialog box will show up asking for your to enter your password to make sure it is you making this disk and then the image will be written with a progress bar. Once done you will get a dialog saying :guilabel:`The installation is complete` and an :guilabel:`OK` button.
 

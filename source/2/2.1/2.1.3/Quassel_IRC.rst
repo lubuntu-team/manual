@@ -12,7 +12,7 @@ Features:
 
 Usage
 ------
-To chat on IRC you need to connect to a server and join a channel. This can be done with the join button or by typing "/join [channel]". To send a query or private message directly to someone type "/query" username or right click on the user list and select start query. If you wish to view older messages just scroll up with the mousewheel or the scrollbar to the right. Scroll down to view newer messages.
+To chat on IRC you need to connect to a server and join a channel. This can be done with the join button or by typing "/join [channel]". To send a query or private message directly to someone type "/query" username or right click on the user list and select start query. After starting a query you can get back to this conversation by viewing the user with a human shaped icon on the left with your channel list to continue the conversation later. If you wish to view older messages just scroll up with the mousewheel or the scrollbar to the right. Scroll down to view newer messages.
 
 .. image:: quasselwizard.png
 

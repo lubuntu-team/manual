@@ -18,13 +18,13 @@ To search for a particular process you can type your type into the search bar ri
 
 To toggle showing a graph with your overall system usage check/uncheck the :menuselection:`Otion --> Show Graph` checkbox in the menu. To toggle showing the bar with the option to search for processor or choose linear or tree view of processes check/uncheck :menuselection:`Option -->  Show Control bar` checkbox in the menu. To change the update period is to :menuselection:`Option --> Update Period`. Then input your update period in the :guilabel:`New Update Period` field.
 
-Version
--------
-Lubuntu ships with version 1.10.20 of qps. 
-
 Screenshot
 ----------
 .. image:: qps.png
+
+Version
+-------
+Lubuntu ships with version 1.10.20 of qps. 
 
 How to Launch
 -------------

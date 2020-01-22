@@ -56,7 +56,7 @@ To launch Transmission go to menu :menuselection:`Internet --> Qtransmission Bit
  
    transmission-qt 
 
-from the terminal. The icon looks like a silver box outlined in red with a double pointed vertical arrow. 
+from the terminal. The icon looks like a silver colored gear selection lever in a car. 
 
 Customizing
 -----------

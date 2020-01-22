@@ -19,7 +19,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 0.14.1 of Date and time. The icon for Date and Time looks like a watch face.
+Lubuntu ships with version 0.14.1 of Date and Time. The icon for Date and Time looks like a watch face.
 
 How to Launch
 -------------

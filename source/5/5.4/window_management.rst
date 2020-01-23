@@ -13,7 +13,7 @@ In the top-right corner of a window three buttons allow you basic controls of th
 
 .. image:: window_corner.png
 
-In the top center is a title of your window.
+In the top center is the title of your window.
 
 The window can be moved by by clicking on the title-bar and dragging the mouse or from the menu on the titlebar select :menuselection:`Move`. Windows can be minimized by middle clicking on the titlebar with the mouse. You can resize the window by grabbing the border (sides or corners which should be highlighted in blue) and dragging or from the menu on the titlebar select :menuselection:`Resize`. 
 

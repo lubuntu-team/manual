@@ -49,7 +49,7 @@ Instead of downloading the image from one server, you can "torrent" the image, o
 
 In order to torrent the file, you need a BitTorrent client. We recommend `Transmission <https://transmissionbt.com/>`_, an Open Source BitTorrent client. Since Transmission only provides clients for Linux and macOS, we recommend `qbittorrent <https://www.qbittorrent.org/download.php>`_ for Windows users.
 
-The BitTorrent links can be found on our Downloads page or cdimage.ubuntu.com, both linked above.
+The BitTorrent links can be found on our Downloads page or `cdimage.ubuntu.com`_ , both linked above.
 
 After you have downloaded the link you need, open it in your BitTorrent client. This will download the image. After this is done, we recommend that you leave your BitTorrent client open so you can seed this image for other people, which helps reduce bandwidth costs even further by decentralizing the download location for other users.
 

@@ -72,7 +72,7 @@ Otherwise, there is a snap application you can download of zsync which should fu
 
   sudo snap install zsync
   
-To download the image using zsync for 19.10, run
+To download the image using zsync run
  
 .. code::
 

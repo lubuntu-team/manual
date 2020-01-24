@@ -12,6 +12,8 @@ drop down  and select :menuselection:`Your Processes`. To view only processes no
 
 To change your process view to each process gets its own line or linear select the :guilabel:`Linear` radio button in the upper left hand corner. To organize each related process with a tree for parent and child processes press the :guilabel:`Tree` radio button. To search for a particular process enter a search term in the bar towards the center top of the user interface.
 
+At the bottom of the window :guilabel:`Process count` to see how many process are running on your system.
+
 When you have qps open a tray icon will appear that shows a graph of cpu usage. If you right click :menuselection:`Hide` to make qps not show in the taskbar. To bring qps back to the front off all windows right click on the tray icon :menuselection:`Show`. To quit qps press :kbd:`Alt +Q` or right click the tray icon and select :menuselection:`Quit`.
 
 To search for a particular process you can type your type into the search bar right above a particular process right above it. To terminate a process right click on it and select :menuselection:`Terminate` or press :kbd:`delete`. To kill a process move the mouse over it right click and select :menuselection:`Kill` or press :kbd:`Alt + K`.    

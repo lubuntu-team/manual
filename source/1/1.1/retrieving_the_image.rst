@@ -60,7 +60,7 @@ zsync is a convenient application that will automatically verify the checksum of
 
 In order to use zsync, you need to install it. Since this is a Linux-only client, you can get it from your distribution's package repository.
 
-If you are running Debian or Ubuntu (or a distribution based off of either), run the following command in a terminal:
+If you are running Debian, Ubuntu, or a distribution based off of either, run the following command in a terminal:
 
 .. code:: 
 

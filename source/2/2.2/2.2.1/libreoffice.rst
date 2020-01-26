@@ -5,7 +5,7 @@ LibreOffice is the default open source full office suite for Lubuntu. In the men
 
 Usage
 ------
-To open a recently used file in LibreOffice they are shown in the main part of the window. To open a program or to create a file from a file dialog are along the left hand column under the :guilabel:`Create` header. 
+To open a recently used file in LibreOffice they are shown in the main part of the window. To open a program or to create a file from a file dialog are along the left hand column under the :guilabel:`Create` header. To open a particular file press the :guilabel:`Open File` button.
 
 LibreOffice all of the different components have a window menu that lets you switch between a document in LibreOffice writer and LibreOffice calc. To do this go to :menuselection:`Window` and select the window that you want to switch to. 
 
@@ -21,7 +21,7 @@ from the command line to be able to launch LibreOffice if it keeps crashing at s
 
 If you are about to close a document without saving it in LibreOffice a dialog will popup asking :guilabel:`Save changes to document before closing?`. If you do not want to save what you were working on press the :guilabel:`Don't Save` button. To not quit LibreOffice press the :guilabel:`Cancel` button. To Save the document to not lose your work press the :guilabel:`Save` button.
 
-To open a particular file press the :guilabel:`Open File` button.
+
 
 Screenshot
 ----------

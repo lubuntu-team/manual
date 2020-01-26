@@ -21,6 +21,8 @@ from the command line to be able to launch LibreOffice if it keeps crashing at s
 
 If you are about to close a document without saving it in LibreOffice a dialog will popup asking :guilabel:`Save changes to document before closing?`. If you do not want to save what you were working on press the :guilabel:`Don't Save` button. To not quit LibreOffice press the :guilabel:`Cancel` button. To Save the document to not lose your work press the :guilabel:`Save` button.
 
+To open a particular file press the :guilabel:`Open File` button.
+
 Screenshot
 ----------
 .. image:: libreoffice.png

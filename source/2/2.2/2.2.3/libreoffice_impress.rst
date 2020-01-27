@@ -27,7 +27,7 @@ To apply a bold effects on your fonts select the text with the mouse and then pr
 
 To increase your font size press :kbd:`Control + ]` or :menuselection:`Format --> Text --> Increase Size`. To decrease your font size press :kbd:`Control + [` or :menuselection:`Format --> Text --> Decrease Size`. To make text superscript select it and press :kbd:`Shift + Control +P` or :menuselection:`Format --> Text --> Superscript`. To make text subscript select it and press :kbd:`Shift + Control + B` or :menuselection:`Format --> Text --> Subscript`.
 
-To spell check your presentation press :kbd:`F7` or :menuselection:`Tools --> Spellcheck`. If you want to print your slides you can press :kbd:`Control + p` or :menuselection:`File --> Print`. To open up your printer settings :menuselection:`File --> Printer Settings`. I dialog button will pop up with different settings for your printer. 
+To spell check your presentation press :kbd:`F7` or :menuselection:`Tools --> Spellcheck`. If you want to print your slides you can press :kbd:`Control + p` or :menuselection:`File --> Print`. To open up your printer settings :menuselection:`File --> Printer Settings`. I dialog button will pop up with different settings for your printer. To chose which printer to print to use the :guilabel:`Printer` drop down menu.
 
 If you want to paste text into a slideshow press :kbd:`Control + V` or :menuselection:`Edit --> Paste`. To copy text select it first and then press :kbd:`Control + C` or :menuselection:`Edit --> Copy`. To cut text select it first and the press :kbd:`Control +X` or :menuselection:`Edit --> Cut`. To paste text without formatting pres :kbd:`Control +Shift + Alt +V` or :menuselection:`Edit --> Paste Unformatted Text`. 
 

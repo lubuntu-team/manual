@@ -11,7 +11,7 @@ To show a search for the different application groups press the button that look
 
 Version
 -------
-Lubuntu ships with version 1.0.3 of galternatives. 
+Lubuntu ships with version 1.0.3 of Alternatives Configurator.
 
 Screenshot
 ----------

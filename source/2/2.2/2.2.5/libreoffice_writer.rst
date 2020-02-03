@@ -47,7 +47,7 @@ To check the spelling of your document press the ABC button with a checkmark, fr
 
 .. image:: lowriter-spellcheck.png
 
-To view how your document looks before printing it :menuselection:`File --> Print preview` or :kbd:`Control +Shift +O`. To get back to editing your document press the same thing again or click the close preview button. After you are done writing your document you can press the button that looks like a printer to print, press :kbd:`control+ p` or :menuselection:`File --> Print`. To select which printer to use use the :guilabel:`Printer` drop down menu. To choose which pages to print there are buttons under :guilabel:`Range and Copies` heading. To change how many copies you are printing change the :guilabel:`Number of copies` field.
+To view how your document looks before printing it :menuselection:`File --> Print preview` or :kbd:`Control +Shift +O`. To get back to editing your document press the same thing again or click the close preview button. After you are done writing your document you can press the button that looks like a printer to print, press :kbd:`control+ p` or :menuselection:`File --> Print`. To select which printer to use use the :guilabel:`Printer` drop down menu. To choose which pages to print there are buttons under :guilabel:`Range and Copies` heading. To change how many copies you are printing change the :guilabel:`Number of copies` field. To print in reverse order check the :guilabel:`Print in reverse order` checkbox.
 
 .. image::  lowriter-print.png
 

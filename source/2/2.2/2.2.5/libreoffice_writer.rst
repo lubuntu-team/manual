@@ -53,8 +53,6 @@ To view how your document looks before printing it :menuselection:`File --> Prin
 
 To change view or change your printer settings :menuselection:`File --> Printer settings`. To view your word count of how many words are currently in the document is with nothing selected at the bottom of the LibreOffice writer window. If you select text with the mouse you can also see the word count of selection from the same spot.  
 
-
-
 To insert special symbols or characters press the button with the Ω symbol or from the menu :menuselection:`Insert --> Special character`. To insert a page break press :kbd:`control + enter` or from the menu :menuselection:`Insert --> Page Break`.  
 
 .. image:: specialcharacters.png

@@ -25,7 +25,7 @@ The removable media applet will allow you to manage your remove flash drives and
 
 .. image:: system_tray.png
 
-In the system tray there there are multiple widgets. With the volume applet you can change the volume by using the mouse-wheel with the mouse over the speaker icon or left click the speaker icon and drag the volume up and down. To mute the volume with the button at the bottom of the volume meter or middle click on the volume applet. 
+In the system tray there there are multiple widgets. With the volume applet you can change the volume by using the mouse-wheel with the mouse over the speaker icon or left click the speaker icon and drag the volume up and down. To mute the volume with the button at the bottom of the volume meter or middle click on the volume applet. To close the volume applet press the :kbd:`Escape` key.
 
 .. image:: volume-widget.png
 

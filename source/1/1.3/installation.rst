@@ -5,7 +5,7 @@ This is a guide to through the installation process of Lubuntu.
 Starting the installer
 ----------------------
 
-Once you have booted the Lubuntu image, you will be greeted by a screen with the following options: Start Lubuntu, Start Lubuntu (safe graphics), Check disk for defects, Test RAM, and Boot from first hard disk. To start the install select :guilabel:`Start Lubuntu`, you will now be booting into a live session. If Lubuntu has trouble with your graphics card you can start the live session with :menuselection:`Start Lubuntu(safe graphics)`. The :guilabel:`Check disk for defects` option offers a way to check integrity of the disk image once it is burned to the media please use this if you have problems installing it could be bad media. The :guilabel:`Test Memory` options test to make sure your RAM works on your computer. 
+Once you have booted the Lubuntu image, you will be greeted by a screen with the following options: Start Lubuntu, Start Lubuntu (safe graphics), Check disk for defects, Test RAM, and Boot from first hard disk. To start the install select :menuselection:`Start Lubuntu`, you will now be booting into a live session. If Lubuntu has trouble with your graphics card you can start the live session with :menuselection:`Start Lubuntu(safe graphics)`. The :menuselection:`Check disk for defects` option offers a way to check integrity of the disk image once it is burned to the media please use this if you have problems installing it could be bad media. The :menuselection:`Test Memory` options test to make sure your RAM works on your computer. 
 
 .. image:: boot_installer.png
 

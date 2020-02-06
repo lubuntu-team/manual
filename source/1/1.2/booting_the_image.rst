@@ -9,10 +9,8 @@ Choosing the media
 ------------------
 In order to boot the image, you need to put it somewhere. You have two choices either
 
-
  - a DVD
  - a USB drive (2 GB or greater)
-
 
 Writing/burning the Image
 -------------------------
@@ -35,10 +33,8 @@ For writing images to USB drives on Linux, we recommend `mkusb <https://help.ubu
 Writing images to USB drives from macOS or Windows is beyond the scope of this book, but the Ubuntu website also
 has several guides on this:
 
-
  - `How to create a bootable USB stick on Windows <https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows>`_
  - `How to create a bootable USB stick on macOS <https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-macos>`_
-
 
 Booting the Image
 -----------------

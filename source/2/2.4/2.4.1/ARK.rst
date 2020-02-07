@@ -33,7 +33,7 @@ To view recent archives :menuselection:`Archive --> Open Recent`. To clear the l
 
 Version
 -------
-Lubuntu ships version 4:18.12.3 of ARK. 
+Lubuntu ships version 4:19.12.2 of ARK. 
 
 Customizing
 -----------

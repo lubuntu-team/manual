@@ -31,7 +31,7 @@ The icon for ScreenGrab looks like a teal camera shutter with a white layer on t
 
 Customizing
 -----------
-To change your settings on ScreenGrab press the :guilabel:`gear` button or press :kbd:`Control +P`. The :guilabel:`Main` tab has settings for how to your screenshot. To change where ScreenGrab saves files by default change the :guilabel:`Default save directory` field or press :guilabel:`Browse` button to pop up a dialog to choose where to save. To change the default file name for your screenshots change the :guilabel:`Name` field. To change what format to save as by default change the :guilabel:`Format` drop down menu. To choose to copy the file name to the clipboard change the :guilabel:`Copy file name to the clipboard when saving` menu.
+To change your settings on ScreenGrab press the :guilabel:`gear` button or press :kbd:`Control +P`. The :guilabel:`Main` tab has settings for how to your screenshot. To change where ScreenGrab saves files by default change the :guilabel:`Default save directory` field or press :guilabel:`Browse` button to pop up a dialog to choose where to save. To change the default file name for your screenshots change the :guilabel:`Name` field. To change what format to save as by default change the :guilabel:`Format` drop down menu. To choose to copy the file name to the clipboard change the :guilabel:`Copy file name to the clipboard when saving` menu. If you are saving a jpg image you can change the image quality with the :guilabel:`Image quality` slider.
 
 .. image:: ScreenGrab-Main.png
 

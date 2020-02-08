@@ -37,7 +37,7 @@ To change your settings on ScreenGrab press the :guilabel:`gear` button or press
 
 To restore your options to default press the :guilabel:`Restore Defaults` button. To cancel making changes press the :guilabel:`Cancel` button. To save your changes press the :guilabel:`Save button`.
 
-To change your settings on multiple windows and automatically saving use the :guilabel:`Advanced` tab. To automatically insert a time and date in the file name check the :guilabel:`Insert current date and time in file name` checkbox. To change how this date appears enter the date in the :guilabel:`Template` field that only shows if you insert the date and time. To automatically save each screenshot check the :guilabel:`Autosave screenshot` checkbox. To save the first screenshot check the :guilabel:`Save first screenshot` checkbox. To allow more than one ScreenGrab window check the :guilabel:`Allow multiple instances of ScreenGrab` checkbox.
+To change your settings on multiple windows and automatically saving use the :guilabel:`Advanced` tab. To automatically insert a time and date in the file name check the :guilabel:`Insert current date and time in file name` checkbox. To change how this date appears enter the date in the :guilabel:`Template` field that only shows if you insert the date and time. To automatically save each screenshot check the :guilabel:`Autosave screenshot` checkbox. To save the first screenshot check the :guilabel:`Save first screenshot` checkbox that only shows if you are saving the first screenshot. To allow more than one ScreenGrab window check the :guilabel:`Allow multiple instances of ScreenGrab` checkbox.
 
 .. image:: ScreenGrab-advanced.png
 

@@ -19,9 +19,9 @@ To do simple arithmetic click the numbers and then press the sign for addition, 
 
 To make a number negative press the button that looks like a :guilabel:`+/-`. To insert decimals press the decimal point button which looks like a :guilabel:`.` when you get to the part which is less than a whole number. To clear input from Kcalc Press the button with a :guilabel:`C` on it. To group operations so they happen together use the parenthesis to make things grouped together for example 2*(2+3) would give the result of 10 because it would add 2 and 3 and then multiply by two. You can also press the :guilabel:`(` or :guilabel:`)` buttons to make parathesis to change the order of operations.
 
-To copy and answer out of Kcalc press :kbd:`control + c` or :menuselection:`Edit --> Copy` from the menu. To paste a number into Kcalc you can press :kbd:`control + v` or :menuselection:`Edit --> Paste` from the menu. To cut the text from Kcalc press :kbd:`control +x` or :menuselection:`Edit --> Cut` from the menu.
-
 To undo an operation press :kbd:`Control+Z` or :menuselection:`Edit --> Undo`. To redo an operation press :kbd:`Control+Shift+Z` or :menuselection:`Edit --> Redo`. 
+
+To copy and answer out of Kcalc press :kbd:`control + c` or :menuselection:`Edit --> Copy` from the menu. To paste a number into Kcalc you can press :kbd:`control + v` or :menuselection:`Edit --> Paste` from the menu. To cut the text from Kcalc press :kbd:`control +x` or :menuselection:`Edit --> Cut` from the menu.
 
 Scientific calculator mode advanced functionality
 -------------------------------------------------

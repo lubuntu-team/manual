@@ -13,7 +13,7 @@ Features:
 
 Usage
 ------
-To do simple arithmetic click the numbers and then press the sign for addition, multiplication, subtraction,  or division. You can also type in the numbers and press :guilabel:`+` for addition, :guilabel:`-` for subtraction, :guilabel:`x` for multiplication and the division symbol for division. To view the answer press the button that is an :guilabel:`=`. To view a summary of each button you can mouse over to get a verbal description of the button.
+To do simple arithmetic click the numbers or type them on your keyboard and then press the sign for addition, multiplication, subtraction,  or division. You can also type in the numbers and press :guilabel:`+` for addition, :guilabel:`-` for subtraction, :guilabel:`x` for multiplication and the division symbol for division. To view the answer press the button that is an :guilabel:`=`. To view a summary of each button you can mouse over to get a verbal description of the button.
  
 .. image:: Kcalc.png
 

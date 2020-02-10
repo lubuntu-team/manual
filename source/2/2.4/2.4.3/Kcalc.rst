@@ -26,7 +26,7 @@ To copy and answer out of Kcalc press :kbd:`control + c` or :menuselection:`Edit
 Scientific calculator mode advanced functionality
 -------------------------------------------------
 
-If you want even more functionality of Kcalc there is also scientific mode which is accessed from :menuselection:`Settings --> Scientific Mode` radio button. The button :guilabel:`1/x` takes takes 1 and divides it by the number currently on the calculator also known as taking the reciprocal. :guilabel:`x!` read x factorial will take the number X you entered and multiple each number going down to 1 for example 5! would multiply 5*4*3*2*1. 
+If you want even more functionality of Kcalc there is also scientific mode which is accessed from :menuselection:`Settings --> Science Mode` radio button. The button :guilabel:`1/x` takes takes 1 and divides it by the number currently on the calculator also known as taking the reciprocal. :guilabel:`x!` read x factorial will take the number X you entered and multiple each number going down to 1 for example 5! would multiply 5*4*3*2*1. 
 
 The x :superscript:`2` button will take a x*x and multiply it by itself or square x. The button with x :superscript:`y` will take x the number you have in will exponentiate x to the power of y. The x 10 :superscript:`y` will end up multiplying x by 10 to the power of y so for example to multiply 5 by 10 to the power of 3 entering in will give the answer of 5,000. If you want your own custom constants buttons check the checkbox for :menuselection:`Settings --> Constants Buttons`.
 

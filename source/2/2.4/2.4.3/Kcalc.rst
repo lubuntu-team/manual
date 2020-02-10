@@ -17,7 +17,7 @@ To do simple arithmetic click the numbers or type them on your keyboard and then
  
 .. image:: Kcalc.png
 
-To make a number negative press the button that looks like a :guilabel:`+/-`. To insert decimals press the decimal point button which looks like a :guilabel:`.` when you get to the part which is less than a whole number. To clear input from Kcalc Press the button with a :guilabel:`C` on it. To group operations so they happen together use the parenthesis to make things grouped together for example 2*(2+3) would give the result of 10 because it would add 2 and 3 and then multiply by two. You can also press the :guilabel:`(` or :guilabel:`)` buttons to make parathesis to change the order of operations.
+To make a number negative press the button that looks like a :guilabel:`+/-`. To insert decimals press the decimal point button which looks like a :guilabel:`.` when you get to the part which is less than a whole number. To clear input from Kcalc before the last operator press the button with a :guilabel:`C` on it. To group operations so they happen together use the parenthesis to make things grouped together for example 2*(2+3) would give the result of 10 because it would add 2 and 3 and then multiply by two. You can also press the :guilabel:`(` or :guilabel:`)` buttons to make parathesis to change the order of operations.
 
 To undo an operation press :kbd:`Control+Z` or :menuselection:`Edit --> Undo`. To redo an operation press :kbd:`Control+Shift+Z` or :menuselection:`Edit --> Redo`. 
 

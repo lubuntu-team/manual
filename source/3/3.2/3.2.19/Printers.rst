@@ -29,6 +29,8 @@ To choose settings specific to your printer use the :guilabel:`Printer Options` 
 
 .. image:: prop-printer-option.png
 
+To see what options each jobs has for each printer use the :guilabel:`Job Options` tab.
+
 To close Printers press :kbd:`Control+Q`.
 
 Screenshot

@@ -29,7 +29,7 @@ To choose settings specific to your printer use the :guilabel:`Printer Options` 
 
 .. image:: prop-printer-option.png
 
-To see what options each jobs has for each printer use the :guilabel:`Job Options` tab.
+To see what options each jobs has for each printer use the :guilabel:`Job Options` tab. To change how many copies to have by default :guilabel:`Copies` field. 
 
 To close Printers press :kbd:`Control+Q`.
 

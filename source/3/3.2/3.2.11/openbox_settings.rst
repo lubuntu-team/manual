@@ -5,7 +5,7 @@ Openbox Settings changes configuration of openbox the default window manager of 
 
 Usage
 ------
-The :guilabel:`Theme` tab changes the titlebars and menus provided by the window manager. To change the theme of the titlebar left click on the theme name. The new titlebars will immediately appear and you will see it on that window. If you want to check what menus to close windows will look like click on the icon on the left of the titlebar.
+The :guilabel:`Theme` tab changes the titlebars and menus provided by the window manager. To change the theme of the titlebar left click on the theme name. The new titlebars will immediately appear and you will see it on that window. If you want to check what menus to manage windows will look like click on the icon on the left of the titlebar.
 
 .. image:: obconf-titlebar.png
 

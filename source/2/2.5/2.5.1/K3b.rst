@@ -46,5 +46,3 @@ To configure settings for K3b :menuselection:`Settings --> Configure K3b`. To as
 To have settings of different plugins for K3b use the :guilabel:`Plugin` tab. To toggle enabling a plugin press the :guilabel:`checkbox` to the left of the plugin name. The name and a description of the plugin are in the center column.
 
 To cancel you changes to your settings of K3b press the :guilabel:`Cancel` button. To apply your changes and leave the window open press the :guilabel:`Apply` button. To apply changes and close the window press the :guilabel:`OK` button. To restore settings to defaults press the :guilabel:`Restore Defaults` button.
-
-

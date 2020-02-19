@@ -41,7 +41,7 @@ To make a margin on your desktop on which nothing is placed you can set pixel ma
 
 Version
 -------
-Lubuntu ships with version 0.14.1 of openbox settings. 
+Lubuntu ships with version 0.14.1 of Openbox Settings. 
 
 How to Launch
 -------------

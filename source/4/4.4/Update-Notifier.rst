@@ -20,7 +20,7 @@ Lubuntu ships with version 0.1 of Update Notifier.
 
 How to Launch
 -------------
-To launch Update Notifier :menuselection:`Preferences --> Apply Full Upgrade` or from the command line run
+To launch Update Notifier :menuselection:`Preferences --> Apply Full Upgrade`, press the :guilabel:`Apply Full Upgrade` from LXQt Configuration Center, or from the command line run
 
 .. code::
 

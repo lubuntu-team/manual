@@ -46,7 +46,7 @@ Lubuntu ships with version 0.14.1 of Openbox Settings.
 How to Launch
 -------------
 
-To launch Openbox Settings from the menu :menuselection:`Preferences --> LXQt settings --> Openbox Settings`. From LXQt settings press the Openbox Settings button with the wrench and screwdriver on a computer window or run
+To launch Openbox Settings from the menu :menuselection:`Preferences --> LXQt settings --> Openbox Settings`. From LXQt settings press the Openbox Settings button with two computer windows or run
 
 .. code:: 
 

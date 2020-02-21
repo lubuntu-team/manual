@@ -1,7 +1,7 @@
 Chapter 2.3.1 LXImage
 =====================
 
-LXImage is the default image viewer for Lubuntu. 
+LXImage is the default image viewer for Lubuntu.
 
 Usage
 ------

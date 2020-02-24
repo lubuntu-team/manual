@@ -20,7 +20,7 @@ To search for a particular process you can type your type into the search bar ri
 
 To view more detials on this process right click on the process and select :menuselection:`View details`. To view what files the process has open use the :guilabel:`Files` tab. To view what environment varibles the process select the :guilabel:`Enviorment` tab.
 
-To toggle showing a graph with your overall system usage check/uncheck the :menuselection:`Option --> Show Graph` checkbox in the menu. To toggle showing the bar with the option to search for processor or choose linear or tree view of processes check/uncheck :menuselection:`Option -->  Show Control bar` checkbox in the menu. To change the update period is to :menuselection:`Option --> Update Period`. Then input your update period in the :guilabel:`New Update Period` field.
+To toggle showing a graph with your overall system usage check/uncheck the :menuselection:`Option --> Show Graph` checkbox in the menu. To toggle showing the bar with the option to search for processor or choose linear or tree view of processes check/uncheck :menuselection:`Option -->  Show Control Bar` checkbox in the menu. To change the update period is to :menuselection:`Option --> Update Period`. Then input your update period in the :guilabel:`New Update Period` field.
 
 Screenshot
 ----------

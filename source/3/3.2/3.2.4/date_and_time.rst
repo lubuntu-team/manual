@@ -21,7 +21,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 0.14.1 of Date and Time. The icon for Date and Time looks like a watch face.
+Lubuntu ships with version 0.14.1 of Date and Time.
 
 How to Launch
 -------------
@@ -30,3 +30,5 @@ To launch Date and Time from the menu :menuselection:`Preferences --> LXQt setti
 .. code:: 
 
     lxqt-admin-time
+    
+The icon for Date and Time looks like a watch face.

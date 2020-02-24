@@ -42,7 +42,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 3.3.1 of partition manager.
+Lubuntu ships with version 4.1.0 of partition manager.
 
 How to launch
 -------------

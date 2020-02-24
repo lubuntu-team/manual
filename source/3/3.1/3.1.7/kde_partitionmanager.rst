@@ -28,7 +28,7 @@ If you have say a new solid state drive that is not formatted you first need to 
 
 To change a mount point of a drive internally for your machine to have it start mounted access to it always :menuselection:`Partition --> Edit Mount Point` or :menuselection:`Edit Mount Point`. This will popup a new window to choose the path where to mount this partition enter it in the :guilabel:`Path` field. Below there are many :guilabel:`Options` for how to mount things. To actually cause this to be mounted press the :guilabel:`OK` button. To cancel mounting this partition press the :guilabel:`Cancel` button. Once this happens you will get a dialog asking if you really want to do this as it changes the file in etc/fstab. To really go through with changing this press the :guilabel:`Save changes` button. To not save these changes press the :guilabel:`Cancel` button. After you have done this you can right click on this drive and select :guilabel:`Mount` to mount it immediately. Once saved in /etc/fstab your drive will be saved and mounted at this point every time. However if you want to edit a mount point you will need to unmount the partition first and you can do this from right clicking and selecting :guilabel:`Unmount`.
 
-To view information of a partition on your drive double click on it. On the top a bar code on the top shows how full the partition is. To see what kind of file system it is in the :guilabel:`File system` field. To see a label on your filesystem look at the :guilabel:`Label` field. To see where that partition is mounted is in the :guilabel:`Mount point` field. To see what partition type you use in the :guilabel:`Partition type` field. To see the size of the partition is in the :guilabel:`Size` field. To see the available size read the :guilabel:`Avialalbe` field. To see how much is used of your partition see the :guilabel:`Used` label.
+To view information of a partition on your drive double click on it. On the top a bar code on the top shows how full the partition is. To see what kind of file system it is in the :guilabel:`File system` field. To see a label on your filesystem look at the :guilabel:`Label` field. To see where that partition is mounted is in the :guilabel:`Mount point` field. To see what partition type you use in the :guilabel:`Partition type` field. To see the size of the partition is in the :guilabel:`Size` field. To see the available size read the :guilabel:`Available` field. To see how much is used of your partition see the :guilabel:`Used` label.
 
 .. image:: kde-partition-partionstats.png
 
@@ -66,4 +66,4 @@ To change the different colors of filesystem as they appear use the :guilabel:`F
 
 .. image:: kde-partition-colors.png 
 
-The :guilabel:`Advanced` tab allows even more settings on Kde Partition Manager.
+The :guilabel:`Advanced` tab allows even more settings on Kde Partition Manager. To change what prefred unit to dispaly space as by default change the :guilabel:`Prefered unit` drop down menu.

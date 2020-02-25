@@ -72,7 +72,7 @@ If you want to run an executable script from pcmanfm double click and then click
 
 .. image::   execute_file.png
 
-PCManFM-Qt has different view modes which can be changed in the view menu. To select a view that has bigger thumbnails to view pictures before deciding to open them :menuselection:`View --> View --> Thumbnail View`. If you want to view lists of move data about something like the file size the time it is modified select detailed list view by :menuselection:`View --> View --> Detailed list view`. If you really want to have see as many files in a small area use the compact view or :menuselection:`View --> View --> Compact View`. To return to the original view of PCManFM-qt is to :menuselection:`View --> View --> Icon View`.  
+PCManFM-Qt has different view modes which can be changed in the view menu. To select a view that has bigger thumbnails to view pictures before deciding to open them :menuselection:`View --> View --> Thumbnail View`. If you want to view lists of move data about something like the file size the time it is modified select detailed list view by :menuselection:`View --> View --> Detailed list view`. If you really want to have see as many files in a small area use the compact view or :menuselection:`View --> View --> Compact View`. To return to the original view of PCManFM-Qt is to :menuselection:`View --> View --> Icon View`.  
 
 .. image::  detailed-list.png
 

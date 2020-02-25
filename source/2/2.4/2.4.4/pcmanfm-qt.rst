@@ -68,7 +68,7 @@ To bring up a dialog to edit bookmarks :menuselection:`Bookmarks --> Edit bookma
 
 .. image:: edit-bookmarks.png 
 
-If you want to run an executable script from pcmanfm double click and then click :guilabel:`Execute` on the execute file dialog window. If you wish to edit the script you can press the :guilabel:`Open` button. To cancel and not do anything press the :guilabel:`Cancel` button. If you plan on executing this file a lot you can right click on the file and then select :menuselection:`Trust this executable` to not have this dialog popup.
+If you want to run an executable script from PCManfm-Qt double click and then click :guilabel:`Execute` on the execute file dialog window. If you wish to edit the script you can press the :guilabel:`Open` button. To cancel and not do anything press the :guilabel:`Cancel` button. If you plan on executing this file a lot you can right click on the file and then select :menuselection:`Trust this executable` to not have this dialog popup.
 
 .. image::   execute_file.png
 

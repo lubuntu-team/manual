@@ -1,7 +1,7 @@
-Chapter 2.4.3 Kcalc
+Chapter 2.4.3 KCalc
 ===================
 
-Kcalc is the default scientific calculator application for Lubuntu.
+KCalc is the default scientific calculator application for Lubuntu.
 
 Features:
 
@@ -17,22 +17,22 @@ To do simple arithmetic click the numbers or type them on your keyboard and then
  
 .. image:: Kcalc.png
 
-To make a number negative press the button that looks like a :guilabel:`+/-`. To insert decimals press the decimal point button which looks like a :guilabel:`.` when you get to the part which is less than a whole number. To clear input from Kcalc before the last operator press the button with a :guilabel:`C` on it. To clear all input from Kcalc press the :guilabel:`AC` button. To group operations so they happen together use the parenthesis to make things grouped together for example 2*(2+3) would give the result of 10 because it would add 2 and 3 and then multiply by two. You can also press the :guilabel:`(` or :guilabel:`)` buttons to make parathesis to change the order of operations.
+To make a number negative press the button that looks like a :guilabel:`+/-`. To insert decimals press the decimal point button which looks like a :guilabel:`.` when you get to the part which is less than a whole number. To clear input from KCalc before the last operator press the button with a :guilabel:`C` on it. To clear all input from KCalc press the :guilabel:`AC` button. To group operations so they happen together use the parenthesis to make things grouped together for example 2*(2+3) would give the result of 10 because it would add 2 and 3 and then multiply by two. You can also press the :guilabel:`(` or :guilabel:`)` buttons to make parathesis to change the order of operations.
 
 To undo an operation press :kbd:`Control+Z` or :menuselection:`Edit --> Undo`. To redo an operation press :kbd:`Control+Shift+Z` or :menuselection:`Edit --> Redo`. 
 
-To copy and answer out of Kcalc press :kbd:`control + c` or :menuselection:`Edit --> Copy` from the menu. To paste a number into Kcalc you can press :kbd:`control + v` or :menuselection:`Edit --> Paste` from the menu. To cut the text from Kcalc press :kbd:`control +x` or :menuselection:`Edit --> Cut` from the menu.
+To copy and answer out of KCalc press :kbd:`control + c` or :menuselection:`Edit --> Copy` from the menu. To paste a number into KCalc you can press :kbd:`control + v` or :menuselection:`Edit --> Paste` from the menu. To cut the text from KCalc press :kbd:`control +x` or :menuselection:`Edit --> Cut` from the menu.
 
 Scientific calculator mode advanced functionality
 -------------------------------------------------
 
-If you want even more functionality of Kcalc there is also scientific mode which is accessed from :menuselection:`Settings --> Science Mode` radio button. The button :guilabel:`1/x` takes takes 1 and divides it by the number currently on the calculator also known as taking the reciprocal. :guilabel:`x!` read x factorial will take the number X you entered and multiple each number going down to 1 for example 5! would multiply 5*4*3*2*1. 
+If you want even more functionality of KCalc there is also scientific mode which is accessed from :menuselection:`Settings --> Science Mode` radio button. The button :guilabel:`1/x` takes takes 1 and divides it by the number currently on the calculator also known as taking the reciprocal. :guilabel:`x!` read x factorial will take the number X you entered and multiple each number going down to 1 for example 5! would multiply 5*4*3*2*1. 
 
 The x :superscript:`2` button will take a x*x and multiply it by itself or square x. The button with x :superscript:`y` will take x the number you have in will exponentiate x to the power of y. The x :superscript:`3` button will cube the result or raise it to the third power. The x 10 :superscript:`y` will end up multiplying x by 10 to the power of y so for example to multiply 5 by 10 to the power of 3 entering in will give the answer of 5,000.
 
-To change the unit that angles are measured in for trigonometric units in Kcalc. Degrees take 360 to form a full circle while, 2Π radians form a full circle and 400 gradians form a full circle. The radio button for Deg is to select Degrees as the unit for angles, :guilabel:`Rad` selects radian as the unit of measurement of angles and :guilabel:`Grad` selects Gradians as the unit of measurement for angles. The :guilabel:`Sin` button takes what you have as the input and takes the trigonometric sine function of that value measured in the unit for angles you have selected. The :guilabel:`Cos` button takes the cosine of the value in the unit of angle you have selected. The :guilabel:`Tan` button takes the tangent of the angle in the current units.
+To change the unit that angles are measured in for trigonometric units in KCalc. Degrees take 360 to form a full circle while, 2Π radians form a full circle and 400 gradians form a full circle. The radio button for Deg is to select Degrees as the unit for angles, :guilabel:`Rad` selects radian as the unit of measurement of angles and :guilabel:`Grad` selects Gradians as the unit of measurement for angles. The :guilabel:`Sin` button takes what you have as the input and takes the trigonometric sine function of that value measured in the unit for angles you have selected. The :guilabel:`Cos` button takes the cosine of the value in the unit of angle you have selected. The :guilabel:`Tan` button takes the tangent of the angle in the current units.
 
-If you make a mistake entering a long input into Kcalc press the button that looks like a leftward pointing arrow button.
+If you make a mistake entering a long input into KCalc press the button that looks like a leftward pointing arrow button.
 
 To have a log with the base of 10 type the number you want to take the log of then press the :guilabel:`Log` button. To take a log based off e, the natural logarithm, type the number you want to take the logarithm of then press the :guilabel:`Ln` button.
 
@@ -80,7 +80,7 @@ To customize your shortcuts for KCalc :menuselection:`Settings --> Configure Set
 
 Version
 -------
-Lubuntu ships with version 19.12.2 of Kcalc.
+Lubuntu ships with version 19.12.2 of KCalc.
 
 How to Launch
 -------------
@@ -90,4 +90,4 @@ To launch Kcalc go to :menuselection:`Accessories --> Kcalc` or run
 
    kcalc
  
-from the command line. The icon for Kcalc looks like a box with a + sign a - sign a multiplication sign and an equals sign.
+from the command line. The icon for KCalc looks like a box with a + sign a - sign a multiplication sign and an equals sign.

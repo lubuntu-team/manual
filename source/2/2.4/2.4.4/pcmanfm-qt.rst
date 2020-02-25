@@ -175,11 +175,11 @@ The :guilabel:`Advanced` tab shows integration with other programs and advanced 
 
 Version
 -------
-Lubuntu currently ships with 0.14.1 of pcmanfm-qt. 
+Lubuntu currently ships with 0.14.1 of PCManFM-Qt. 
 
 How to Launch
 -------------
-To open PCManFM-qt in your current directory (in terminal), execute 
+To open PCManFM-Qt in your current directory (in terminal), execute 
 
 .. code::
 

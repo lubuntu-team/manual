@@ -42,7 +42,7 @@ from the command line. The icon for qps looks like a green graph with a black ba
 
 Customizing
 ------------
-To change more preferences :menuselection:`Options --> Prefrences` and a preferences window will pop up. To change the font is the drop down menu under :guilabel:`Appearance` and the drop down number is for the font size. To change how CPU usage is divided per your total number of CPU cores or a Single CPU press a radio button under :guilabel:`%CPU divided by`. 
+To change more preferences :menuselection:`Options --> Prefrences` and a preferences window will pop up. To have qps not exit when you close qps uncheck the :guilabel:`Exit on closing` checkbox. To change the font is the drop down menu under :guilabel:`Appearance` and the drop down number is for the font size. To change how CPU usage is divided per your total number of CPU cores or a Single CPU press a radio button under :guilabel:`%CPU divided by`. 
 
 .. image::   qps-pref.png
 

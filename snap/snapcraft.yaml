@@ -14,4 +14,4 @@ parts:
     build-packages: [python3-pip, python3-sphinx, latexmk, texlive, texlive-formats-extra, arcanist, python3-sphinx-rtd-theme, python3-sphinx-bootstrap-theme]   
     plugin: make
     make-parameters: [html]
-    artifacts: [build/html/*]
+    artifacts: [build/html/]

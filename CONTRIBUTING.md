@@ -56,7 +56,7 @@ Contents
    20/foo_bar
 ```
 
-Then run `make clean && make html && make latexpdf` in the root of the manual directory and it should build successfully!
+Then run `make clean && make html && make latexpdf` in the root of the manual directory and it should build successfully with zero wanrings!
 
 ## Getting mulitple Versions to Work
 To change into the file for the code you cloned from git of sphinxconfig-versioning and run ``` cd sphinxcontrib-versioning && sudo python3 setup.py install```

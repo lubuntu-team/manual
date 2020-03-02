@@ -1,7 +1,7 @@
 Chapter 3.2.12 Power Management
 ===============================
 
-Power Management manages what to do on laptop batteries when the power is low what happens when your lid to a laptop is closed and what to do when your computer is idle for long periods.
+Power Management manages low charge in your laptop battery, actions for laptop lid being closed, and what to do when your computer is idle for long periods.
 
 Usage
 ------

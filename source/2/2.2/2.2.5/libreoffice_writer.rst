@@ -136,7 +136,7 @@ To see statistics on your document use the :guilabel:`Statistics` tab. To see ho
 
 Version
 -------
-Lubuntu ships with LibreOffice writer 6.3.1.2
+Lubuntu ships with LibreOffice writer 6.4.0.0
 
 How to Launch
 -------------

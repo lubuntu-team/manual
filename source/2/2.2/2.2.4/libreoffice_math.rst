@@ -25,7 +25,7 @@ To quit LibreOffice Math press :kbd:`Control+Q`.
 
 Version
 -------
-Lubuntu ships with Version 6.3.1.2 of LibreOffice math. 
+Lubuntu ships with Version 6.4.0.0 of LibreOffice math. 
 
 How to Launch
 -------------

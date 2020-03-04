@@ -1,1 +1,3 @@
+
+Name=Lubuntu Manual
 Exec=firefox file::////snap/lubuntu-manual/x1/build/html

@@ -1,3 +1,4 @@
-
+Type=Link
 Name=Lubuntu Manual
 Exec=firefox file::////snap/lubuntu-manual/x1/build/html
+Url=file:///snap/lubuntu-manual/current/build/html

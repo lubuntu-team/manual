@@ -15,6 +15,8 @@ To launch Bluedevil to pair with a device from the menu :menuselection:`Internet
 
 Next you will be asked if your pin matches on your device to pair it. If the pin matches press the :guilabel:`Matches` button. If the the pin does not match press the :guilabel:`Does not match` button.
 
+.. image:: bluedevilwizard.png
+
 Sending files
 -------------
 To send a file to another device after pairing with the device :menuselection:`Internet --> Bluedevil Send File` or from the command line run 
@@ -31,7 +33,6 @@ Version
 -------
 Lubuntu ships with version 5.16.5 of Bluedevil.
  
-Screenshot
-----------
 
-.. image:: bluedevilwizard.png
+
+

@@ -4,7 +4,7 @@ Chapter 2.1.3 Quassel IRC
 Quassel IRC is Lubuntu's default modern, cross-platform, distributed chat client. Quassel aims to bring a pleasurable, comfortable chatting experience to all major platforms (including Linux®, Windows®, and MacOS® as well as Android smartphones), making communication with your peers not only convenient, but also ubiquitous available. 
 
 Features:
- - Remember Channels, servers, and queries
+ - Remember Channels, Servers, and Queries
  - SASL authentication
  - Notifications, including sounds
  - Aliases

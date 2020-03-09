@@ -5,7 +5,7 @@ Trojita is the default IMAP email client of Lubuntu.
 
 .. note::
 
-  Trojita does not do POP3 so you cannot access your email that way with Trojita.
+  Trojita does not do POP3 so you cannot access your email by that method with Trojita.
 
 Usage
 ------

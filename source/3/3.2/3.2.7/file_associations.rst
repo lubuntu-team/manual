@@ -1,7 +1,7 @@
 Chapter 3.2.7 File Associations
 ===============================
 
-File Associations changes the default application when opening a file.  
+File Associations changes the default application to open a file.
 
 Usage
 ------

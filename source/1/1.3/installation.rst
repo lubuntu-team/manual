@@ -45,13 +45,12 @@ If all you want is Lubuntu on your machine, you can select the :guilabel:`Erase 
 
 
 .. note:: 
-   If you have had  a previous Linux install and want to put the entire disk or just replace an entire partition you will need to unmount them. 
-
+   If you had a previous Linux install with swap you will need to unmount the swap. To do this run 
 .. code:: 
 
    sudo swapoff -a
   
-will unmount them and any swap partitions. This will not work if you have data partition mounted open PCManFM-Qt and press the upward pointed arrow on the :guilabel:`Places` sidebar to unmount all data partitions. 
+which will unmount them and any swap partitions. This will not work if you have data partition mounted open PCManFM-Qt and press the upward pointed arrow on the :guilabel:`Places` sidebar to unmount all data partitions. 
 
 To move back to Selecting your keyboard layout press the :guilabel:`Back` button. To move to the setting up users press the :guilabel:`Next` button.
 

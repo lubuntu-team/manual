@@ -14,6 +14,8 @@ Usage
 ------
 To chat on IRC you need to connect to a server and join a channel. This can be done with the join button or by typing "/join [channel]". To send a query or private message directly to someone type "/query" username or right click on the user list and select start query. After starting a query you can get back to this conversation by viewing the user with a human shaped icon on the left with your channel list to continue the conversation later. If you wish to view older messages just scroll up with the mousewheel or the scrollbar to the right. Scroll down to view newer messages.
 
+To see all the nicknames of someone in a channel are located in a sidebar labeled :guilabel:`Nicks`. The lists of all channels you are in is labeled :guilabel:`All chats`. To switch between different channels left click on the channel name.
+
 .. image:: quasselwizard.png
 
 To add the Lubuntu IRC chat network click :menuselection:`File --> Networks --> Configure_Networks`. To add a new network  :guilabel:`+Add`. To connect to a common public network :guilabel:`Use preset` dropdown, select :guilabel:`Lubuntu IRC` and then click :guilabel:`OK`.
@@ -54,7 +56,6 @@ To close the list of nicknames or channels press the X button or :menuselection:
 
 To make your chat full screen :menuselection:`View --> Full Screen Mode` or :kbd:`Control + Shift +F`. Press the keyboard shortcut or use the menu again to get out of fullscreen. If you want to quit Quassel press :kbd:`Control+Q` or right click on the system tray and select :menuselection:`Quit`.
  
-To see all the nicknames of someone in a channel are located in a sidebar labeled :guilabel:`Nicks`. The lists of all channels you are in is labeled :guilabel:`All chats`. To switch between different channels left click on the channel name.
 
 Customizing
 -----------

@@ -25,6 +25,8 @@ To close a tab click on the :guilabel:`x` button on the tab bar, press :kbd:`Con
 If you have installed multiple programs that can open a file right click and select :menuselection:`Open With --> Program you want to launch`. 
 
 To create a new empty text file press :kbd:`Control + Alt +N` or :menuselection:`File --> Create New --> Blank File` and type in the name of the file you want. To create a new folder or directory press :menuselection:`File --> Create New --> Folder` or press :kbd:`Control+ Shift +N` and input the new folder name. To delete your files from PCManFM-Qt will first put them in the trash so they are not gone forever. To move a file into the trash right click that file move to trash or press :kbd:`Delete`. To get a file out of the trash in places trash to get to your trash or :menuselection:`Go --> Trash`. To bring a file back from the trash right click :menuselection:`Restore`. To permanently delete all files from the trash can right click on :guilabel:`Trash` in the places sidebar :menuselection:`Empty Trash`. To go back to your home folder press :kbd:`Alt +Home` or :menuselection:`Go --> Home`. 
+ 
+.. image:: pcmanfm-qt.png 
 
 To view a directory tree on your side pane select :menuselection:`Directory tree` from the menu above the side pane. To expand into a folder press the :guilabel:`+` to expand the files and the :guilabel:`-` button to collapse the folder. To switch to a folder left click on the folder name. To have open a directory in a new tab right click on it and select :menuselection:`Open in new tab`. To open a folder from the directory tree in a terminal right click :menuselection:`Open in terminal`. To switch to back to places from the menu above the side pane select :menuselection:`Places`. 
 
@@ -140,10 +142,6 @@ from the command line to edit the file and paste in the following contents
    [X-Action-Profile profile-zero]
    Exec=qterminal -w %f
    Name=Default profile
-
-Screenshot
-----------
-.. image:: pcmanfm-qt.png 
 
 
 Customizing

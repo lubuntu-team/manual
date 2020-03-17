@@ -17,6 +17,7 @@ parts:
     artifacts: [build/html/]
 apps:
  lubuntu-manual:
- command: xdg-open /snap/lubuntu-manual/x2/build/html/index.html
+    command: xdg-open /snap/lubuntu-manual/x2/build/html/index.html
 
   
+ 

@@ -31,7 +31,7 @@ to open the file sending dialog. Then select the device you want to send a file 
 
 Version
 -------
-Lubuntu ships with version 5.16.5 of Bluedevil.
+Lubuntu ships with version 5.18.3 of Bluedevil.
  
 
 

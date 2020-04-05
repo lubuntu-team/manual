@@ -24,4 +24,4 @@ To launch LXQt Configuration Center from the menu :menuselection:`Preferences --
 
    lxqt-config 
    
-from the command line. The icon for LXQt Configuration Center is two interlocked gears.
+from the command line. The icon for LXQt Configuration Center is a lightbulb with a gear in the background.

@@ -63,7 +63,7 @@ To manage your search settings use the :guilabel:`Search` tab on preferences. Th
 
 Version
 ----------
-Lubuntu currently ships with the latest version of Firefox, Firefox 74.
+Lubuntu currently ships with the latest version of Firefox, Firefox 75.
 
 How to Launch
 ----------------

@@ -6,18 +6,18 @@ description: |
   This snap contains the Manual for Lubuntu which includes all of the default program as well as documentation for LXQt. See https://lubuntu.me for more info.
 
 grade: devel # must be 'stable' to release into candidate/stable channels
-confinement: strict # use 'strict' once you have the right plugs and slots
+confinement: classic # use 'strict' once you have the right plugs and slots
 
 parts:
   my-part:
     source: https://phab.lubuntu.me/source/manual.git
-    build-packages: [python3-pip, python3-sphinx, latexmk, python3-sphinx-rtd-theme, python3-sphinx-bootstrap-theme]   
+    build-packages: [python3-pip, python3-sphinx, python3-sphinx-rtd-theme, python3-sphinx-bootstrap-theme]   
     plugin: make
     make-parameters: [html]
     artifacts: [build/html/]
 apps:
  lubuntu-manual:
-    command: xdg-open /snap/lubuntu-manual/current/build/html/index.html
+    command: /usr/bin/xdg-open /snap/lubuntu-manual/current/build/html/index.html
 
   
  

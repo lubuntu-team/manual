@@ -15,7 +15,7 @@ LibreOffice if you shutdown without saving your work LibreOffice will automatica
 
    libreoffice --norestore
 
-from the command line to be able to launch LibreOffice if it keeps crashing at startup.
+from the command line to stop crashes at document recovery.
 
 .. image:: loffice-restore.png
 

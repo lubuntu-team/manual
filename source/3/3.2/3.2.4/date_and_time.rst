@@ -13,8 +13,8 @@ If you do not wish to synchronize your clock via network time protocol uncheck t
 
 To cancel your changes in Date and Time press the :guilabel:`Cancel` button. To close Date and Time press the :kbd:`Escape` key.
 
-Screenshot
-----------
+Screenshots
+-----------
 .. image:: date_and_time.png 
 
 .. image:: datetimetime.png

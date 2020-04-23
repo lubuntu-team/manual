@@ -39,9 +39,10 @@ To verify the image, run this from the command line:
 
 .. code:: 
 
- sha256sum lubuntu-19.10-desktop-amd64.iso
+ sha256sum lubuntu-20.04-desktop-amd64.iso
 
-and then carefully check that the output matches 761c4603f689b1a109d67bde3f2ca0bcc750ce973ac8c1a8e98ca188bbc3e760 \*lubuntu-19.10-desktop-amd64.iso
+and then carefully check that the output matches cc18a581d2e4d86f3f29ef44c12a0c42b54cde93db9fc5f7c3f10db1aff3fa9a *lubuntu-20.04-desktop-amd64.iso
+
 
 Downloading the image via BitTorrent
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -6,7 +6,7 @@ LibreOffice Impress is the program to present presentations on Lubuntu.
 Features include:
  - Built in themes
  - Spell check
- - Pdf export
+ - PDF export
  - Images
 
 Usage
@@ -15,7 +15,7 @@ When you open LibreOffice impress you will get a dialog to select a template wit
 
 .. image::    impress-theme-select.png
 
-To open a previous presentation you have been working on press the button that looks like a folder with a piece of paper in it and navigate to the file you want and open it or :menuselection:`File --> Open`. To view your recently opened files press :menuselection:`File --> Recent Documents`. To save your presentation press the button that looks like a floppy disk or :menuselection:`File --> Save`. To save a new copy under a custom file name :menuselection:`File --> Save As`. To save a file as a pdf :menuselection:`File --> Export as PDF`.  
+To open a previous presentation you have been working on press the button that looks like a folder with a piece of paper in it and navigate to the file you want and open it or :menuselection:`File --> Open`. To view your recently opened files press :menuselection:`File --> Recent Documents`. To save your presentation press the button that looks like a floppy disk or :menuselection:`File --> Save`. To save a new copy under a custom file name :menuselection:`File --> Save As`. To save a file as a PDF :menuselection:`File --> Export as PDF`.  
 
 .. image::  impress-save.png
 
@@ -92,9 +92,9 @@ Screenshot
 
 Images
 ------
-To insert an image click :menuselection:`Insert --> Image`. To drag your image to where you want it left click and drag the mouse to where you want the image. To resize the image without distorting it click one of the boxes on the corner and resize to the size you wish. To move the image vertically which will distort it left click on the top or bottom boxes to resize the image vertically. To strech your image horizontally to make it fit left click on the boxes on the left or right hand side to strech your side. If you want to delete an image press :kbd:`Delete`. To replace an image right click the image and :menuselection:`Replace` will bring a file picker up to pick a new image. To crop an image right click on the image and select :menuselection:`Crop`. To save an image out of a presentation right click on the image and select :menuselection:`Save ...`.  
+To insert an image click :menuselection:`Insert --> Image`. To drag your image to where you want it left click and drag the mouse to where you want the image. To resize the image without distorting it click one of the boxes on the corner and resize to the size you wish. To move the image vertically which will distort it left click on the top or bottom boxes to resize the image vertically. To stretch your image horizontally to make it fit left click on the boxes on the left or right hand side to stretch your side. If you want to delete an image press :kbd:`Delete`. To replace an image right click the image and :menuselection:`Replace` will bring a file picker up to pick a new image. To crop an image right click on the image and select :menuselection:`Crop`. To save an image out of a presentation right click on the image and select :menuselection:`Save ...`.  
 
-To rotate your image in libreoffice impress right click on the picture :menuselection:`Rotate or Flip --> Rotate`. To rotate the image on the screen horizontally left click on the corner and drag the image to orientation you want. To leave the corners on the opposite side in the same place and move left click on the orange cirlce on the opposite side and rotate the image that way dragging to the desired position. To change the center of where you rotate click and drag the orange dot in the center. To flip your image vertically right click on the image and select :menuselection:`Rotate or Flip --> Vertically`. To flip your image horizontally right click on the image and select :menuselection:`Rotate or Flip --> Horizontally`.
+To rotate your image in LibreOffice impress right click on the picture :menuselection:`Rotate or Flip --> Rotate`. To rotate the image on the screen horizontally left click on the corner and drag the image to orientation you want. To leave the corners on the opposite side in the same place and move left click on the orange circle on the opposite side and rotate the image that way dragging to the desired position. To change the center of where you rotate click and drag the orange dot in the center. To flip your image vertically right click on the image and select :menuselection:`Rotate or Flip --> Vertically`. To flip your image horizontally right click on the image and select :menuselection:`Rotate or Flip --> Horizontally`.
 
 .. image:: loimpressscreenshot.png 
 

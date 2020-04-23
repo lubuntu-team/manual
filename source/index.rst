@@ -28,6 +28,7 @@ Contents
    D/upgrading
    E/live_session
    F/keyboard_shortcuts
+   G/AdvancedNetworking
 
 Contact Us
 ----------

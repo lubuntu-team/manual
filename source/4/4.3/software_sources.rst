@@ -6,7 +6,7 @@ Occasionally you may need to change the setting of your software sources. This c
 -   Changing update settings like update frequency, notification of new releases,
 -   Adding or removing sources such as PPAs
 -   Changing download server
--   Installing properitary drivers
+-   Installing proprietary drivers
 
 Usage
 ------
@@ -17,7 +17,7 @@ The :guilabel:`Ubuntu Software` tab contains settings involving the downloading 
 
 .. image::   ubuntu_software-tab.png
 
-The :guilabel:`Other software` tab allows you to add, remove or edit other software sources.  Here you can manage remote repositories (PPAs) and CD-ROM repositories.To enable/disable a software source click the checkbox to the left of its name. To remove software from the list left click the :guilabel:`Remove` button. To add a third party source of software to your system press the :guilabel:`Add` button.
+The :guilabel:`Other software` tab allows you to add, remove, or edit other software sources.  Here you can manage remote repositories (PPAs) and CD-ROM repositories.To enable/disable a software source click the checkbox to the left of its name. To remove software from the list left click the :guilabel:`Remove` button. To add a third party source of software to your system press the :guilabel:`Add` button.
 
 .. image::  other-software-sources.png
 
@@ -54,4 +54,4 @@ How to Launch
 
     lxqt-sudo software-properties-qt
 
-tags:ppa, software, download, sources, release, update, discover, muon, security, 
+tags:PPA, software, download, sources, release, update, discover, muon, security, 

@@ -29,7 +29,7 @@ In the system tray there there are multiple widgets. With the volume applet you 
 
 .. image:: volume-widget.png
 
-To the far right is a clock, you can left click the clock to bring up a pop up calendar window. To go to the next month on the calendar press the rightward pointing arrow. To go the previous month on the calendar press the leftward pointing arrow. Another way to change months on the calendar is to use the mousewheel. To change the month on a calendar to list all months in the year left click on the month and then select the month you want from your menu. To change the year on your calendar left click on the year in the calnedar and then use the up and down arrows or the mouse wheel to select the year.
+To the far right is a clock, you can left click the clock to bring up a pop up calendar window. To go to the next month on the calendar press the rightward pointing arrow. To go the previous month on the calendar press the leftward pointing arrow. Another way to change months on the calendar is to use the mousewheel. To change the month on a calendar to list all months in the year left click on the month and then select the month you want from your menu. To change the year on your calendar left click on the year in the calendar and then use the up and down arrows or the mouse wheel to select the year.
 
 .. image:: calendar-widget.png
 

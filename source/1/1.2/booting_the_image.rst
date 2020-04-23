@@ -22,7 +22,7 @@ Here are some common tools to burn images onto DVDs:
  - Windows Disc Image Burner
  - InfraRecorder
 
-Unfortunately, burning images to USB or DVDs on macOs or Windows is beyond the scope of this manual. The Ubuntu website has several guides
+Unfortunately, burning images to USB or DVDs on macOS or Windows is beyond the scope of this manual. The Ubuntu website has several guides
 on this topic, and we recommend you read them if you plan on doing this.
 
 Guides from the Ubuntu website:

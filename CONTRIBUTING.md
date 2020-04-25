@@ -12,7 +12,7 @@ Before starting, you need a few tools.
   - Ubuntu 16.04 LTS and onwards
  - The following packages from your Linux distribution's repository:
   - `git`
-  - `pyhton3-pip`
+  - `python3-pip`
   - `arcanist`
   - `python3-sphinx`
   - `texlive`
@@ -25,7 +25,7 @@ Before starting, you need a few tools.
 
 To clone the repository, you can run this command:
 ```
-git clone ssh://git@phab.lubuntu.me:2222/source/lubuntu-manual.git
+git clone ssh://git@phab.lubuntu.me/source/manual.git
 ```
 but to do this you must have your ssh key on phabricator. 
 ## Adding a file to the manual

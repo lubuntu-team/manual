@@ -1,11 +1,11 @@
 Chapter 1.3 Installation
 ========================
-This is a guide to through the installation process of Lubuntu.
+This is a guide through the installation process of Lubuntu.
 
 Starting the installer
 ----------------------
 
-Once you have booted the Lubuntu image, you will be greeted by a screen with the following options: :menuselection:`Start Lubuntu`, :menuselection:`Start Lubuntu (safe graphics)`, :menuselection:`Check disk for defects`, :menuselection:`Test memory`, and :menuselection:`Boot from first hard disk`. To start the install select :menuselection:`Start Lubuntu`, you will now be booting into a live session. If Lubuntu has trouble with your graphics card you can start the live session with :menuselection:`Start Lubuntu(safe graphics)`. The :menuselection:`Check disk for defects` option offers a way to check integrity of the disk image once it is burned to the media please use this if you have problems installing it could be bad media. The :menuselection:`Test memory` options test to make sure your RAM works on your computer. To switch your keyboard layout on the live session press :kbd:`F3` and select your keyboard layout. To bring back up the language selection press :kbd:`F2`.
+Once you have booted the Lubuntu image, you will be greeted by a screen with the following options: :menuselection:`Start Lubuntu`, :menuselection:`Start Lubuntu (safe graphics)`, :menuselection:`Check disk for defects`, :menuselection:`Test memory`, and :menuselection:`Boot from first hard disk`. To start the install select :menuselection:`Start Lubuntu`, you will now be booting into a live session. If Lubuntu has trouble with your graphics card you can start the live session with :menuselection:`Start Lubuntu(safe graphics)`. The :menuselection:`Check disk for defects` option offers a way to check integrity of the disk-image once it is burned onto the install media (USB or DVD). Please use this if you have problems installing as it could be bad media. The :menuselection:`Test memory` option tests to make sure your RAM works on your computer. To switch your keyboard layout on the live session press :kbd:`F3` and select your keyboard layout. To bring back up the language selection press :kbd:`F2`.
 
 .. image:: boot_installer.png
 
@@ -71,7 +71,7 @@ The Lubuntu installer provides some useful information while the installer is ru
 Manual partitioning
 -----------------------
 
-If you wish to manual set up partitions, as an advanced option you will have to choose which file-system you want. A file-system controls how your files are accessed at lower levels on the disk. If you are booting your computer in UEFI mode a more modern firmware compared to BIOS you will need to create an EFI system partition see  `efi system partition Wikipedia <https://en.wikipedia.org/wiki/EFI_System_partition>`_ for more detail to create this partition you will need a FAT32 file-system with the ESP flag with to be mounted at /boot/efi/ under the mount point. You will also need a root (/) file-system, several file-systems included for Lubuntu are Ext4, XFS, and Btrfs. 
+If you wish to manual set up partitions, as an advanced option you will have to choose which file-system you want. A file-system controls how your files are accessed at lower levels on the disk. If you are booting your computer in UEFI mode a more modern firmware compared to BIOS you will need to create an EFI system partition (see `efi system partition Wikipedia <https://en.wikipedia.org/wiki/EFI_System_partition>`_ for more detail). To create this partition you will need a FAT32 file-system with the ESP flag to be mounted at /boot/efi/ under the mount point. You will also need a root (/) file-system, several file-systems included for Lubuntu are Ext4, XFS, and Btrfs. 
 
 .. image:: manpartitioning.png
 

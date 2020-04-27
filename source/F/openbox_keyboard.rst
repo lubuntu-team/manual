@@ -37,7 +37,7 @@ ToggleShowDesktop             W-D
 
 Close                         A-F4
 
-Lower                         A-Escape
+Lower (minimise)           A-Escape
 
 ShowMenu                      A-space
 
@@ -79,7 +79,7 @@ ToggleFullscreen              F11
 
 ============================= ========================
 
-Pcmanfm                       C-A-e
+Pcmanfm                       W-e
 
 ============================= ========================
 

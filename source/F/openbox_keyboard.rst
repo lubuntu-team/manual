@@ -87,8 +87,6 @@ Pcmanfm                       W-e
 
 Launch lxqt-runer             W-r
 
-Launch lxqt-runner            A-F2
-
 ============================= ========================
 
 **Launch task manager on Ctrl + Alt + Del**

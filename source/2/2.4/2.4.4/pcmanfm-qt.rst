@@ -154,7 +154,7 @@ The :guilabel:`Display` tab allows you to change icon sizes, displaying file siz
 
 .. image:: pcmanfm-qt-display-tab.png 
 
-The tab :guilabel:`User Interface` changes how PCManFM-Qt appears in windows. To toggle always showing the tabbar even when you have only one tab check/uncheck the :guilabel:`Always show the tab bar` checkbox. The checkbox :guilabel:`Fullwidth tab bar` makes the tab bar take the full width of the window including over the side pane. To toggle showing the x on each tab to close each tab check/uncheck the :guilabel:`Show 'Close' buttons on tabs` checkbox. To have PCManFM-Qt open the window in the same size as the last time you closed the window by checking/unchecking the :guilabel:`Remember the size of the last closed window` checkbox. If you have the :guilabel:`Remember the size of the last closed window` checkbox unchecked you can change the :guilabel:`Default width of new Window` filed or :guilabel:`Default height of new windows` fields.
+The :guilabel:`User Interface` tab changes how the PCManFM-Qt window appears. To toggle always showing the tabbar even when you have only one tab check/uncheck the :guilabel:`Always show the tab bar` checkbox. To toggle showing the x on each tab to close each tab check/uncheck the :guilabel:`Show 'Close' buttons on tabs` checkbox. To have PCManFM-Qt open the window in the same size as the last time you closed the window by checking/unchecking the :guilabel:`Remember the size of the last closed window` checkbox. If you have the :guilabel:`Remember the size of the last closed window` checkbox unchecked you can change the :guilabel:`Default width of new Window` or :guilabel:`Default height of new windows` fields.
 
 .. image:: pcmanfm-qt-user-interface.png 
  

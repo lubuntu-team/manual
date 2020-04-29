@@ -2,7 +2,7 @@
 Chapter 3 System Tools and Preferences
 ***************************************
 
-This chapter documents tools to manage your system, to change preferences, and themeing Lubuntu.
+This chapter documents tools to manage your system, change preferences, and themeing Lubuntu.
 
 .. toctree::
    :maxdepth: 2

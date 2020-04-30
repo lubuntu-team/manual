@@ -177,7 +177,7 @@ Lubuntu currently ships with 0.14.1 of PCManFM-Qt.
 
 How to Launch
 -------------
-To open PCManFM-Qt in your current directory (in terminal), execute 
+To open PCManFM-Qt in your current directory (in terminal), execute in the command line
 
 .. code::
 

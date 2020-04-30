@@ -28,7 +28,7 @@ To create a new empty text file press :kbd:`Control + Alt +N` or :menuselection:
  
 .. image:: pcmanfm-qt.png 
 
-To view a directory tree on your side pane select :menuselection:`Directory tree` from the menu above the side pane. To expand into a folder press the :guilabel:`+` to expand the files and the :guilabel:`-` button to collapse the folder. To switch to a folder left click on the folder name. To have open a directory in a new tab right click on it and select :menuselection:`Open in new tab`. To open a folder from the directory tree in a terminal right click :menuselection:`Open in terminal`. To switch to back to places from the menu above the side pane select :menuselection:`Places`. 
+To view a directory tree on your side pane select :menuselection:`Directory Tree` from the menu above the side pane. To expand into a folder press the :guilabel:`>` to expand the files and the :guilabel:`˅` button to collapse the folder. To switch to a folder left click on the folder name. To have open a directory in a new tab right click on it and select :menuselection:`Open in new tab`. To open a folder from the directory tree in a terminal right click :menuselection:`Open in terminal`. To switch to back to places from the menu above the side pane select :menuselection:`Places` at the top of the side pane. 
 
 .. image:: directorytreesidepane.png
 

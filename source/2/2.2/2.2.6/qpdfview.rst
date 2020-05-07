@@ -30,7 +30,7 @@ To print your PDF press :kbd:`Control + P` or :menuselection:`File --> Print`. T
 .. image::  qpdfview-print.png
 
 
-If you are printing the PDF in black and white you can however  toggle previewing  the file in black and white by pressing :kbd:`Control + U` or :menuselection:`View --> Convert to grayscale`. To invert the colors of your PDF press :kbd:`Control +I` or :menuselection:`View --> Invert Colors`. To trim the margins off your PDF file press :kbd:`control +Shift +U` or :menuselection:`View --> Trim margins`. If you want to turn off any of the alternate colors or trimmed margins off press or use the menu in the same thing again. 
+If you are printing the PDF in black and white you can however  toggle previewing  the file in black and white by pressing :kbd:`Control + U` or :menuselection:`View --> Convert to grayscale`. To invert the colors of your PDF press :kbd:`Control +I` or :menuselection:`View --> Invert Colors`. To trim the margins off your PDF file press :kbd:`control +Shift +U` or :menuselection:`View --> Trim margins`. If you want to turn off changed colors or trimmed margins off press or use the menu in the same thing again. 
 
 To select text or an image from qpdfview press :kbd:`control+c` or :menuselection:`Edit --> Copy to clipboard`. Then the cursor will turn into a crosshair and you will be able to expand a box to select either text or an image and a menu to select copying the text, selecting the text, copying the image, or saving the image to file. Another way to copy text is to press :kbd:`Shift + Left Click`.  
 

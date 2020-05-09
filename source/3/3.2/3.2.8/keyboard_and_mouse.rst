@@ -5,13 +5,13 @@ Keyboard and Mouse is the program to change the behavior of your keyboard, mouse
 
 Usage
 ------
-The :guilabel:`Mouse` tab provides settings for how fast the mouse moves, scrolls, and double clicks. To increase acceleration of the mouse drag the :guilabel:`Acceleration` slider to the right for more acceleration and to make the mouse accelerate slower drag it to the left. To increase the sensitivity of the mouse drag the slider for :guilabel:`Sensitivity` towards the right or conversely to decrease sensitivity drag the :guilabel:`Sensitivity` slider towards less sensitivity. The settings should apply immediately so make sure the mouse moves how you want it.
+The :guilabel:`Mouse` tab provides settings for how fast the mouse moves, scrolls, and double clicks. To increaqse acceleration of the mouse drag the :guilabel:`Acceleration` slider to the right for more acceleration and to make the mouse accelerate slower drag it to the left. To increase the sensitivity of the mouse drag the slider for :guilabel:`Sensitivity` towards the right or conversely to decrease sensitivity drag the :guilabel:`Sensitivity` slider towards less sensitivity. The settings should apply immediately so make sure the mouse moves how you want it.
 
-If you do not like the new settings press the :guilabel:`Reset` button to go back to your previous settings. If you want to close Keyboard and Mouse press the :kbd:`Escape` key or press the :guilabel:`Close` button.
+The :guilabel:`Wheel scroll lines` field changes how many lines of text you scroll when you use the scrollwheel. If you wish to only have to tap once to perform a left click check the :guilabel:`Single click to activate items` checkbox. If you wish to swap left and right buttons on your mouse check the :guilabel:`Left handed` checkbox. Note that this also swaps the buttons on a touchpad. 
 
 .. image:: keyboardandmouse.png
 
-The :guilabel:`Wheel scroll lines` field changes how many lines of text you scroll when you use the scrollwheel. If you wish to only have to tap once to perform a left click check the :guilabel:`Single click to activate items` checkbox. If you wish to swap left and right buttons on your mouse check the :guilabel:`Left handed` checkbox. Note that this also swaps the buttons on a touchpad. 
+If you do not like the new settings press the :guilabel:`Reset` button to go back to your previous settings. If you want to close Keyboard and Mouse press the :kbd:`Escape` key or press the :guilabel:`Close` button.
 
 The :guilabel:`Cursor` tab on the left lets you change your cursor theme which is quite useful if you are say running virtual machines so the cursor does not look the same in the host and the guest. To change a theme scroll down to which theme you want under preview but you will have to logout and log back in again for this to fully take effect. 
 

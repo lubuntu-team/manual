@@ -35,7 +35,7 @@ To move to the next unread message press the :kbd:`n` key or to move to the prev
 
 To reply to a message to just the person that sent it press :kbd:`Control + Shift +A` or :menuselection:`IMAP --> Private Reply`. To forward an email to someone else press :kbd:`Control +Shift+F` or :menuselection:`IMAP --> Forward`.  
 
-.. image:: trojita.png
+.. image:: Trojita.png
 
 In the center of the window there are several different columns that show you information about each different email you have received. The :guilabel:`Subject` line shows you a subject that should tell you what each message is about. The :guilabel:`From` column shows who is sending you this email. The :guilabel:`Date` Column show when the email was sent to you. The :guilabel:`Size` column shows you how much space the email takes up on your account on the email server. To see if there is an attachment to a message a column has what looks like a paperclip and it has a paperclip in it if that email has an attachment.
 
@@ -49,7 +49,7 @@ To change your view of Trojita to view only one message at a time or the view of
 
 To take Trojita into an offline mode where it will not try to access the internet :menuselection:`IMAP --> Network Access --> Offline` however you will need to switch it back to expensive access or free access to send or receive emails again. To switch back to an mode where you have no worry about data caps or how much network traffic is used :menuselection:`IMAP --> Network Access --> Free Access`. To throttle the amount of data used from Trojita to not use up a data cap :menuselection:`IMAP --> Network Access --> Expensive Connection`. 
 
-If you want to quit Trojita press :kbd:`Control+Q` or from the system tray right click there and select :menuselection:`Quit`. In the bottom right there is a system tray icon on the panel. To change bring trojita up you can left click on the tray icon to bring the trojita window up. When you receive a new message the system tray icon will become blue and have the number of unread messages on it.
+If you want to quit Trojita press :kbd:`Control+Q` or from the system tray right click there and select :menuselection:`Quit`. In the bottom right there is a system tray icon on the panel. To change bring Trojita up you can left click on the tray icon to bring the Trojita window up. When you receive a new message the system tray icon will become blue and have the number of unread messages on it.
 
 Version
 -------

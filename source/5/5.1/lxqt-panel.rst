@@ -47,11 +47,11 @@ The :guilabel:`Panel` tab has settings for the color and position of the panel. 
 
 If you want to autohide the panel check the :guilabel:`Auto-hide` checkbox in panel settings. To change how long the animation takes to show or hide the panel change the :guilabel:`Animation duration` field. To show how long your panel will appear when it comes back after hiding in milliseconds change the :guilabel:`Show with delay` field. To show a very thin bit of the panel visible when autohidden check the :guilabel:`Visible thin margin for hidden panel` checkbox. To have the space for the panel not be used for anything else check the :guilabel:`Reserve space on display` checkbox.
 
-To change to a custom font color press the :guilabel:`Font color` checkbox. Press the dropper button to bring up a widget to choose the custom color. The checkbox for :guilabel:`Background color` sets a background color custom for the background of lxqt-panel and the :guilabel:`dropper` brings up how to select which color. To add an image to your panel background press the checkbox and select your image for the file in the dialog.
+To change to a custom font color press the :guilabel:`Font color` checkbox. Press the dropper button to bring up a widget to choose the custom color. The checkbox for :guilabel:`Background color` sets a background color custom for the background of LXQt-panel and the :guilabel:`dropper` brings up how to select which color. To add an image to your panel background press the checkbox and select your image for the file in the dialog.
 
 .. image:: lxqt-panel-config.png 
 
-The checkbox for :guilabel:`Override icon theme` lets you choose a non system default icon theme for lxqt-panel. The dropdown  :guilabel:`Icon theme for panels` lets you see what that icon theme from the dropdown list. If you do not like your changes to the system you can press the :guilabel:`Reset` button to reset changing to before trying to customize the panel. 
+The checkbox for :guilabel:`Override icon theme` lets you choose a non system default icon theme for LXQt-panel. The dropdown  :guilabel:`Icon theme for panels` lets you see what that icon theme from the dropdown list. If you do not like your changes to the system you can press the :guilabel:`Reset` button to reset changing to before trying to customize the panel. 
 
 The :guilabel:`Widgets` lets you change the widgets or individual items on the panel and their configuration. You can also get to this directly by right clicking on the panel and select :menuselection:`Manage Widgets`. To move an applet down on the order of presentation press the down arrow button while the up arrow button moves the applet up on the order of presentation. To add a new widget click on the widget on the panel configuration screen and press the :guilabel:`+` button and select the widget you want to add some of which are not on the panel by default. To remove an applet you do not want you can press the :guilabel:`-` button. The :guilabel:`gear button` has the settings for certain but not all of the applets in the panel for example the Application menu and Task manager are customizable but Quick launch and Show desktop do not.
 
@@ -128,11 +128,11 @@ To add a spacer to your panel add the spacer widget. It creates a blank space on
 
 Version
 -------
-Lubuntu ships with version 0.14.1 of lxqt-panel.
+Lubuntu ships with version 0.14.1 of LXQt-panel.
 
 How to Launch
 -------------
-lxqt-panel should auto launch by default. If you need to manually start it, run
+LXQt-panel should auto launch by default. If you need to manually start it, run
 
 .. code:: 
 

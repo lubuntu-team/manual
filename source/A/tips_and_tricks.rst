@@ -22,7 +22,7 @@ If you want more openbox customization than the openbox settings can provide you
 
 If you have multiple monitors and run either fullscreen games and video adding a second panel with the world clock plugin will help you tell what time it is.
 
-In Modern Lubuntu release DNS is managed by systemd-resolvedd. To find the configuration file you need to edit to change your dns settings you will need to edit /etc/systemd/resolved.conf. To apply your changes you will need to run 
+In Modern Lubuntu release DNS is managed by systemd-resolvedd. To find the configuration file you need to edit to change your DNS settings you will need to edit /etc/systemd/resolved.conf. To apply your changes you will need to run 
 
 .. code::
 

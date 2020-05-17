@@ -35,7 +35,7 @@ To move to the next unread message press the :kbd:`n` key or to move to the prev
 
 To reply to a message to just the person that sent it press :kbd:`Control + Shift +A` or :menuselection:`IMAP --> Private Reply`. To forward an email to someone else press :kbd:`Control +Shift+F` or :menuselection:`IMAP --> Forward`.  
 
-.. image:: Trojita.png
+.. image:: trojita.png
 
 In the center of the window there are several different columns that show you information about each different email you have received. The :guilabel:`Subject` line shows you a subject that should tell you what each message is about. The :guilabel:`From` column shows who is sending you this email. The :guilabel:`Date` Column show when the email was sent to you. The :guilabel:`Size` column shows you how much space the email takes up on your account on the email server. To see if there is an attachment to a message a column has what looks like a paperclip and it has a paperclip in it if that email has an attachment.
 

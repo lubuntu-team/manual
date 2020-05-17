@@ -37,7 +37,7 @@ ToggleShowDesktop             W-D
 
 Close                         A-F4
 
-Lower (minimise)           A-Escape
+Lower (minimise)              A-Escape
 
 ShowMenu                      A-space
 

@@ -96,8 +96,7 @@ To change settings with how VLC deals with video use the :guilabel:`Video` tab. 
 ￼
 ￼
 ￼
-[6:07 PM]
-It's not that much of a jump from
+
 To view your settings for subtitles and on screen display choose the :guilabel:`Subtitles/OSD` tab. To disable the On screen display uncheck the :guilabel:`Enable On Screen Display` checkbox. The checkbox :guilabel:`Show media title on video start` shows the video title at the start of a video. The :guilabel:`Position` menu lets you choose where to show the media title. To toggle showing subtitles check/uncheck the :guilabel:`Enable subtitles` checkbox. The :guilabel:`default encoding` Lets you change how the subtitles are stored and resented as characters on this. To change the font of your subtitles type in the name of your font in the :guilabel:`Font` field. To change the font size of your subtitles change the :guilabel:`Font size` menu. The button :guilabel:`Text default color` lets you change your subtitles.To change the outline thickness of subtitles change the :guilabel:`Outline thickness` menu. To change the color of the outline press the :guilabel:`Outline Color` button to bring up a popup to select a color. To add a shadow to subtitles check the :guilabel:`Add a shadow` checkbox. To add a background check the :guilabel:`Add a background` checkbox.
  
  .. image::   vlc-subtitle-pref.png

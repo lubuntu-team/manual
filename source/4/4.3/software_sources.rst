@@ -46,7 +46,7 @@ Lubuntu ships with version 0.97.9 of Software Sources.
 How to Launch
 -------------
 
- To launch software properties from the menu you can :menuselection:`Preferences --> Software Sources`. In Muon Package Manager :menuselection:`Settings --> Configure Software Sources`. In Discover Software Center :menuselection:`Settings --> Ubuntu (Default) --> Settings (Gear icon) --> Software Sources`. From the command line run 
+To launch software properties from the menu you can :menuselection:`Preferences --> Software Sources`. In Muon Package Manager :menuselection:`Settings --> Configure Software Sources`. In Discover Software Center :menuselection:`Settings --> Ubuntu (Default) --> Settings (Gear icon) --> Software Sources`. From the command line run 
 
 .. code:: 
 

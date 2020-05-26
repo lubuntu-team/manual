@@ -39,8 +39,8 @@
 | :construction_worker: | 3.1.1       |
 | :white_checkmark:     | 3.1.2       |
 | :white_checkmark:     | 3.1.3       |
-| :construction_worker: | 3.1.4       |
-| :construction_worker: | 3.1.5       |
+| :white_checkmark:     | 3.1.4       |
+| :whtie_checkmark:     | 3.1.5       |
 | :construction_worker: | 3.1.6       |
 | :construction_worker: | 3.1.7       |
 | :white_checkmark:     | 3.1.8       |
@@ -77,7 +77,7 @@
 | :construction_worker: | Appendix A  |
 | :white_checkmark:     | Appendix B  |
 | :white_checkmark:     | Appendix C  |
-| :construction_worker: | Appendix D  | 
-| :construction_worker: | Appendix E  |
+| :white_checkmark:     | Appendix D  | 
+| :white_checkmark:     | Appendix E  |
 | :white_checkmark:     | Appendix F  |
 | :construction_worker: | Appendix G  |

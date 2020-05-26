@@ -41,8 +41,8 @@
 | :white_checkmark:     | 3.1.3       |
 | :white_checkmark:     | 3.1.4       |
 | :whtie_checkmark:     | 3.1.5       |
-| :construction_worker: | 3.1.6       |
-| :construction_worker: | 3.1.7       |
+| :white_checkmark:     | 3.1.6       |
+| :white_checkmark:     | 3.1.7       |
 | :white_checkmark:     | 3.1.8       |
 | :construction_worker: | 3.1.9       |
 | :white_checkmark:     | 3.2         |

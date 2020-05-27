@@ -11,7 +11,7 @@ Style Guide
 
 - Use the - for bullet pointed lists usually at the beginning of lists of features.
 
-- Use oxford commas as easier for added or removing features.
+- Use oxford commas for easier adding or removing features.
 
 - Order sections like Summary --> Usage --> Screenshot (if one or two) --> Version --> How To Launch --> Customizing (If necessary) 
 

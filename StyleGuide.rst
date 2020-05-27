@@ -13,7 +13,7 @@ Style Guide
 
 - Use oxford commas for easier adding or removing features.
 
-- Order sections like Summary --> Usage --> Screenshot (if one or two) --> Version --> How To Launch --> Customizing (If necessary) 
+- Order sections Summary --> Usage --> Screenshot (if one or two) --> Version --> How To Launch --> Customizing (If necessary) 
 
 Sections
 --------

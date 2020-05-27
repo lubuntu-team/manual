@@ -9,6 +9,8 @@ Style Guide
 
 - Use :kbd:`Shortcut` for keyboard shortcuts and buttons you press.
 
+- Use :menuselection:`Item --> Subitem` for things in menus and context menus.
+
 - Use the - for bullet pointed lists usually at the beginning of lists of features.
 
 - Use oxford commas for easier adding or removing features.

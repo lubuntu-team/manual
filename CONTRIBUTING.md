@@ -19,7 +19,7 @@ Before starting, you need a few tools.
   - `texlive-formats-extra`
   - `latexmk`
   - `python3-sphinx-rtd-theme`
- 
+  - `python3-sphinx-bootstrap-theme` 
 
 ## Getting the code
 
@@ -56,7 +56,7 @@ Contents
    20/foo_bar
 ```
 
-Then run `make clean && make html && make latexpdf` in the root of the manual directory and it should build successfully with zero warnings!
+Then run `make clean && make html && make latexpdf` in the root of the manual directory and it should build successfully with zero warnings! (Might take several trials to get `make latexpdf` without any errors.)
 
 ## Getting multiple Versions to Work
 To change into the file for the code you cloned from git of sphinxconfig-versioning and run ``` cd sphinxcontrib-versioning && sudo python3 setup.py install```

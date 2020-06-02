@@ -7,7 +7,7 @@ Firefox is a highly-rated, and secure web browser that is installed by default i
 It is a decent choice if one wants a secure, fast, yet relatively less resource-heavy browser. 
 
 Firefox has features of other web browsers and its own ones, such as:
- - Tab browsing
+ - Tabbed browsing
  - Scroll through tabs
  - Great plugins and add-ons
  - Favorites, bookmarks, pocket

@@ -26,7 +26,7 @@ Usage
 ------
 To open a new tab in Firefox press the plus button on the right of the tab bar or press :kbd:`Control + t`. To close a tab press the button with an :guilabel:`x` on the right side of the tab or press :kbd:`Control +W`.  To Open a new window in browsing press :kbd:`Control +N`. To view your browsing history press the hamburger menu :menuselection:`Library --> History` or press :kbd:`Control +H`. When you have the history sidebar you can search through your history where it says :guilabel:`Search History`. To view your downloaded files press the button that looks like three stacked books with a fourth leaning over :menuselection:`--> Downloads`.
 
-To go back to a previous page in Firefox press the button pointing to the left or press :kbd:`Alt + Left arrow`. To open the page you were previously at in a new tab middle click the back button. To go forward to a page you have visited before but have now gone back from press the button with the arrow pointing to the right or :kbd:`Alt + Right arrow`. Middle click on the forward button to open the page you went back from in a new tab. To download a file directly to your local disk right click :menuselection:`Save Link As` file as and then you will get a dialog box to show where to save it. 
+To go back to a previous page in Firefox press the button pointing to the left or press :kbd:`Alt + Left arrow`. To open the page you were previously browsing in a new tab middle click the back button. To go forward to a page you have visited before but have now gone back from press the button with the arrow pointing to the right or :kbd:`Alt + Right arrow`. Middle click on the forward button to open the page you went back from in a new tab. To download a file directly to your local disk right click :menuselection:`Save Link As` file as and then you will get a dialog box to show where to save it. 
 
 To open a window with all of your downloads on it press :kbd:`Control+Shift+Y`. To open PCManFM-Qt in the folder where you downloaded things right click and select on the download and select :menuselection:`Open Containing Folder`. To get a link for someone else to download something right click on the downloaded content right click and select :menuselection:`Copy Download Link`.
 
@@ -63,7 +63,7 @@ To manage your search settings use the :guilabel:`Search` tab on preferences. Th
 
 Version
 ----------
-Lubuntu currently ships with the latest version of Firefox, Firefox 75.
+Lubuntu currently ships with the latest version of Firefox, Firefox 77.
 
 How to Launch
 ----------------

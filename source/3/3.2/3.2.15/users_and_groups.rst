@@ -33,7 +33,7 @@ The :guilabel:`Groups` tabs lets you see info on groups and change properties. T
 
 Version
 -------
-Lubuntu ships with version 0.14.1 of Users and Groups. 
+Lubuntu ships with version 0.15.0 of Users and Groups. 
 
 How to Launch
 -------------

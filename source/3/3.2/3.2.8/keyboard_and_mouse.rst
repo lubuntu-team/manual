@@ -5,9 +5,7 @@ Keyboard and Mouse is the program to change the behavior of your keyboard, mouse
 
 Usage
 ------
-The :guilabel:`Mouse` tab provides settings for how fast the mouse moves, scrolls, and double clicks. To increaqse acceleration of the mouse drag the :guilabel:`Acceleration` slider to the right for more acceleration and to make the mouse accelerate slower drag it to the left. To increase the sensitivity of the mouse drag the slider for :guilabel:`Sensitivity` towards the right or conversely to decrease sensitivity drag the :guilabel:`Sensitivity` slider towards low. The settings should apply immediately so make sure the mouse moves how you want it.
-
-The :guilabel:`Wheel scroll lines` field changes how many lines of text you scroll when you use the scrollwheel. If you wish to only have to tap once to perform a left click check the :guilabel:`Single click to activate items` checkbox. If you wish to swap left and right buttons on your mouse check the :guilabel:`Left handed` checkbox. Note that this also swaps the buttons on a touchpad. 
+The :guilabel:`Mouse` tab provides settings for how fast the mouse moves, scrolls, and double clicks. The :guilabel:`Wheel scroll lines` field changes how many lines of text you scroll when you use the scrollwheel. If you wish to only have to tap once to perform a left click check the :guilabel:`Single click to activate items` checkbox. If you wish to swap left and right buttons on your mouse check the :guilabel:`Left handed` checkbox. Note that this also swaps the buttons on a touchpad. The settings should apply immediately so make sure the mouse moves how you want it.
 
 .. image:: keyboardandmouse.png
 

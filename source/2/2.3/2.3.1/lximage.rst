@@ -47,7 +47,7 @@ To change prefrences in LXImage :menuselection:`Edit --> Prefrences`.  To change
 
 Version
 -------
-Lubuntu ships with version 0.14.1 or LXImage. 
+Lubuntu ships with version 0.15.0 or LXImage. 
 
 How to Launch
 -------------

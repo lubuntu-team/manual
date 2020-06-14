@@ -41,7 +41,7 @@ To launch this part of the program directly :menuselection:`Preferences --> Addi
 
 Version
 -------
-Lubuntu ships with version 0.97.9 of Software Sources. 
+Lubuntu ships with version 0.98.10 of Software Sources. 
 
 How to Launch
 -------------

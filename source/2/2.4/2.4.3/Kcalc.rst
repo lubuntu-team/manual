@@ -92,4 +92,4 @@ To launch KCalc go to :menuselection:`Accessories --> KCalc` or run
 
    kcalc
  
-from the command line. The icon for KCalc looks like a box with a + sign a - sign a multiplication sign and an equals sign.
+from the command line. The icon for KCalc looks like a box with a + sign a - sign a multiplication sign and an equals sign. If your computer has a calculator key you can press :kbd:`Calculator`.

@@ -27,7 +27,7 @@ To view thumbnails of the current directory you can toggle thumbnails by pressin
 
 .. image:: lximage-thumb.png
 
-To view the picture entirely at its original size press :menuselection:`View --> Fit` or the button with a vertical and horizontal arrow and a folded over bottom right corner. To return your image to its original size press the magnifying button with 1:1 inside it or :menuselection:`View --> Original Size`. To show information about the settings on the camera :menuselection:`View --> Show EXIF Data`. 
+To view the picture entirely at its original size press :menuselection:`View --> Fit` or the button with a vertical and horizontal arrow and a folded over bottom right corner. To return your image to its original size press the magnifying button with 1:1 inside it or :menuselection:`View --> Original Size`. To show an outline around the image :kbd:`O` or :menuselection:`View --> Show Outline`. To show information about the settings on the camera :menuselection:`View --> Show EXIF Data`. 
 
 To view the picture as fullscreen press :kbd:`f11`, right click :menuselection:`Fullscreen`, double click on the image, or :menuselection:`View --> Fullscreen`. To have a slideshow of you pictures in your current folder :menuselection:`View --> Slideshow` or right click and select :menuselection:`Slide Show`. Once you start the slideshow on the toolbar a play pause button will appear on the toolbar. 
 

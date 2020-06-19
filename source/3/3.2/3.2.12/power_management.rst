@@ -21,6 +21,8 @@ The Checkbox :guilabel:`When using external monitor` Allows you to have differen
 
 The :guilabel:`Idle` tab manages what happens when you walk away from your keyboard. The :guilabel:`When idle then` you select whether you want to do nothing, Lock Screen, Suspend, hibernate, Shutdown or turn off monitor. The :guilabel:`Idle time` fields tell you how long to wait when you are away before the idleness watcher takes the action you wish. 
 
+To enable changing the backlight brightness when your computer is idle check the :guilabel:`Enable Backlight Change` checkbox.
+
 To reset your changes press the :guilabel:`Reset` button. To close Power Management press the :kbd:`Escape` key or press the :guilabel:`Close` button.
 
 Screenshot

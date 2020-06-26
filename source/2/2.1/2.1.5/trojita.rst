@@ -33,7 +33,7 @@ Your different folders are on a sidebar on the left hand side of Trojita. To swi
 
 To move to the next unread message press the :kbd:`n` key or to move to the previous message press the :kbd:`p` key. To manually toggle marking a message as read press the :kbd:`m` key.
 
-To reply to a message to just the person that sent it press :kbd:`Control + Shift +A` or :menuselection:`IMAP --> Private Reply`. To forward an email to someone else press :kbd:`Control +Shift+F` or :menuselection:`IMAP --> Forward`.  
+To reply to a message to just the person that sent it press :kbd:`Control + Shift +A` or :menuselection:`IMAP --> Private Reply`. To forward an email to someone else press :kbd:`Control +Shift+F` or :menuselection:`IMAP --> Forward`. If you want to delete a message from your mailbox press :kbd:`Control+E` or :menuselection:`IMAP --> Expunge`.  
 
 .. image:: trojita.png
 

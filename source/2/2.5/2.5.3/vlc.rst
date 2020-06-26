@@ -81,7 +81,7 @@ To crop pixels off the margins use the :guilabel:`Crop` subtab. To take a number
 
 .. image:: vlc-crop.png
 
-To have settings to change the colors showing in vlc use the :guilabel:`Colors` subtab.
+To have settings to change the colors showing in vlc use the :guilabel:`Colors` subtab. To entirely invert colors check the :guilabel:`Negative colors` checkbox.
 
 Customizing
 -----------

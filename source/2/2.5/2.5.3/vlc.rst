@@ -83,7 +83,7 @@ To crop pixels off the margins use the :guilabel:`Crop` subtab. To take a number
 
 To have settings to change the colors showing in vlc use the :guilabel:`Colors` subtab. To entirely invert colors check the :guilabel:`Negative colors` checkbox. To reduce the total number of colors on your video from slight transitions check the :guilabel:`Posterize` checkbox. To enable a sepia tone for the video check the :guilabel:`Sepia` checkbox. To have a close to black and white tone enter a low number in :guilabeel:`Intensity`. To have a more sepia tone enter a higher number in :guilabel:`Intensity`.
 
-To zoom or rotate a video use the :guilabel:`Geometry` tab. To choose differnt parts of the video to zoom in on as it plays check the :guilabel:`Interactive Zoom` checkbox.
+To zoom or rotate a video use the :guilabel:`Geometry` tab. To choose differnt parts of the video to zoom in on as it plays check the :guilabel:`Interactive Zoom` checkbox. To do simple things like flip or rotate your vidoe first check the :guilabel:`Transform` checkbox. To rotate your video 90 degrees to the right select :menuselection:`Rotate by 90 degrees` under :guilabel:`Transform`.
 
 Customizing
 -----------

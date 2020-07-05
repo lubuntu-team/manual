@@ -49,7 +49,7 @@ The :guilabel:`Files` tab shows what files this torrent has downloaded. To see t
 Version
 -------
 
-Lubuntu ships with version 2.94 of Transmission.
+Lubuntu ships with version 3.00 of Transmission.
 
 How to Launch
 -------------

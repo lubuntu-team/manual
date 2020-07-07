@@ -15,6 +15,8 @@ To bring up a configuration dialog for input method right click on the panel app
 
 To change the skin of Fcitx left click on the applet and select :menuselection:`Skin --> The skin you want`.
 
+To configure input mehthods left click on the applet and select :menuselection:`Configure Current Input Method`.
+
 To restart Fcitx right click on the applet and click :menuselection:`Restart`. To close the Fcitx applet right click the tray icon :menuselection:`Exit`.
 
 Version

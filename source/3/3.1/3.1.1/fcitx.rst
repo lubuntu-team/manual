@@ -17,7 +17,7 @@ To change the skin of Fcitx left click on the applet and select :menuselection:`
 
 To configure input mehthods left click on the applet and select :menuselection:`Configure Current Input Method` and a window will pop up. To add a new input method press the :guilabel:`+` button. A dialog will appear to select your input method. To add an input method left click on the input method you want to add and press :guilabel:`OK`. To not only show your current language in options for an input method uncheck :guilabel:`Only Show Current Language`. To remove an input method press the :guilabel:`-` button. To move a keyboard input method up in your order pres the upward pointing arrow button. To move an input method down in the order press the downard pointing arrow. To set your default keyboard layout press the button that looks like a keyboard.
 
-To change how Fictx looks use the :guilabel:`Appearnace` tab. To change what font size change the :guilabel:`Font Size` field. To what font fcitx uses change the :guilabel:`Font` field. To change the font used in menus change the :guilabel:`Menu Font` button.
+To change how Fictx looks use the :guilabel:`Appearnace` tab. To change what font size change the :guilabel:`Font Size` field. To what font fcitx uses change the :guilabel:`Font` field. To change the font used in menus change the :guilabel:`Menu Font` button. To toggle showing a system tray icon check/uncheck the :guilabel:`Use System Tray Icon` checkbox.
 
 To restart Fcitx right click on the applet and click :menuselection:`Restart`. To close the Fcitx applet right click the tray icon :menuselection:`Exit`.
 

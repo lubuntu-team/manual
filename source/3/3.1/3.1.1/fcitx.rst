@@ -15,7 +15,7 @@ To bring up a configuration dialog for input method right click on the panel app
 
 To change the skin of Fcitx left click on the applet and select :menuselection:`Skin --> The skin you want`.
 
-To configure input mehthods left click on the applet and select :menuselection:`Configure Current Input Method` and a window will pop up. To add a new input method press the :guilabel:`+` button. A dialog will appear to select your input method. To add an input method left click on the input method you want to add and press :guilabel:`OK`.
+To configure input mehthods left click on the applet and select :menuselection:`Configure Current Input Method` and a window will pop up. To add a new input method press the :guilabel:`+` button. A dialog will appear to select your input method. To add an input method left click on the input method you want to add and press :guilabel:`OK`. To not only show your current language in options for an input method uncheck :guilabel:`Only Show Current Language`.
 
 To restart Fcitx right click on the applet and click :menuselection:`Restart`. To close the Fcitx applet right click the tray icon :menuselection:`Exit`.
 

@@ -27,5 +27,5 @@ To edit a desktop entry including those on your menu you will need to open the .
 
 Creating
 --------
-To create a launcher graphically you can right click on the desktop and select :menuselection:`Create Launcher`.
+To create a launcher graphically you can right click on the desktop and select :menuselection:`Create Launcher`. To add a name for the launcher you want enter in the :guilabel:`Name` field. To enter a descrption of the program enter the :guilabel:`Description` field.
 

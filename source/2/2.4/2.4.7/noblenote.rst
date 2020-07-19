@@ -9,7 +9,9 @@ To start a new note right click on the right hand column and select :menuselecti
 
 To select a different notebook to keep your notes organized click on it on the left hand coolumn. If you wish to delete a notebook right click on a notebook and :menuselection:`Delete notebook`, with the notebook highlighted press :kbd:`Control + D`, or :menuselection:`Edit --> Delete notebook`. To add a new notebook press :kbd:`Control+N` or :menuselection:`Edit --> New notebook`.
 
-To delete a note click on the note and press the button with a page X on it, press :kbd:`Control + Shift + D` or edit :menuselection:`Edit --> Delete note`. To get back a note you deleted press :kbd:`Control+T` or :menuselection:`File --> Trash`. You can then see your deleted notes and select them on the left hand column and then the content of the note on the right hand column. To restore a note press the :guilabel:`Restore` button.
+To delete a note click on the note and press the button with a page X on it, press :kbd:`Control + Shift + D` or edit :menuselection:`Edit --> Delete note`.
+
+To get back a note you deleted press :kbd:`Control+T` or :menuselection:`File --> Trash`. You can then see your deleted notes and select from deleted notes on the left hand column and then the content of the note on the right hand column. To restore a note press the :guilabel:`Restore` button.
 
 To import notes from a file :menuselection:`File --> Import`.
 

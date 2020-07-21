@@ -225,3 +225,5 @@ E. Live session
 F. Shortcut Keys
 
 G. Advanced Networking
+
+H. Swap

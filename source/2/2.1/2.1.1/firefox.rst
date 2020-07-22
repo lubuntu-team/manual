@@ -64,7 +64,14 @@ To tab on the left :guilabel:`Home` has settings for your home and opening of ne
 
 To manage your search settings use the :guilabel:`Search` tab on preferences. The radio button for :guilabel:`Search Bar` changes whether you want a separate search bar or and integrated search bar for search and navigation. The :guilabel:`Default Search Engine` lets you change your default search engine. To toggle whether to search suggestions check/uncheck the :guilabel:`Provide search suggestions`. To end up showing search suggestions in the address bar when searching check the :guilabel:`Show search suggestions in address bar results` checkbox.
 
-To change settingss for How Firefox handles security and privacy settings use the :guilabel:`Privacy & Security` tab. To increase protection against ptrackers press the :guilabel:`Strict` button and to switch back press the :guilabel:`Standard` button. To send website you do not want to be track header always press the :guilabel:`Always` button. To have firefox not autofill logins and passwords uncheck the :guilabel:`Autofill logins and passwords` checkbox. To see your saved logins press the :guilabel:`Saved Logins` button.
+To change settingss for How Firefox handles security and privacy settings use the :guilabel:`Privacy & Security` tab. To increase protection against ptrackers press the :guilabel:`Strict` button and to switch back press the :guilabel:`Standard` button. To send website you do not want to be track header always press the :guilabel:`Always` button. 
+
+.. waring::
+
+  Deleting firefox user data will log you out of online accounts and if you do not know your password you will need to recover your password or you may lose accesss to online accounts
+  
+
+To have firefox not autofill logins and passwords uncheck the :guilabel:`Autofill logins and passwords` checkbox. To see your saved logins press the :guilabel:`Saved Logins` button.
 
 Version
 ----------

@@ -66,11 +66,10 @@ To manage your search settings use the :guilabel:`Search` tab on preferences. Th
 
 To change settingss for How Firefox handles security and privacy settings use the :guilabel:`Privacy & Security` tab. To increase protection against ptrackers press the :guilabel:`Strict` button and to switch back press the :guilabel:`Standard` button. To send website you do not want to be track header always press the :guilabel:`Always` button. 
 
-.. waring::
+.. warning::
 
-  Deleting firefox user data will log you out of online accounts and if you do not know your password you will need to recover your password or you may lose accesss to online accounts
+  Deleting Firefox user data will log you out of online accounts and if you do not know your password you will need to recover your password or you may lose accesss to online accounts.
   
-
 To have firefox not autofill logins and passwords uncheck the :guilabel:`Autofill logins and passwords` checkbox. To see your saved logins press the :guilabel:`Saved Logins` button.
 
 Version

@@ -70,7 +70,7 @@ To change settingss for How Firefox handles security and privacy settings use th
 
   Deleting Firefox user data will log you out of online accounts and if you do not know your password you will need to recover your password or you may lose accesss to online accounts.
   
-To see what websites store data on you locally preess the :guilabel:`Manage Data` button. To clear all firefox data you currently have press the :guilabel:`Clear Data` button. To have firefox not autofill logins and passwords uncheck the :guilabel:`Autofill logins and passwords` checkbox. To see your saved logins press the :guilabel:`Saved Logins` button.
+To see what websites store data on you locally preess the :guilabel:`Manage Data` button. To clear all firefox data you currently have press the :guilabel:`Clear Data` button. To have firefox get rid of all cookies when firefox is closed check the :guilabel:`Delete cookies and site data when Firefox is closed` checkbox. To have firefox not autofill logins and passwords uncheck the :guilabel:`Autofill logins and passwords` checkbox. To see your saved logins press the :guilabel:`Saved Logins` button.
 
 Version
 ----------

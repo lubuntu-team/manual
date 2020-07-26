@@ -1,0 +1,93 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2020, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 20.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../source/3/3.2/3.2.3/brightness.rst:2
+msgid "Chapter 2.3.3 Brightness"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/brightness.rst:4
+msgid ""
+"Brightness is the default tool to control your screen brightness. If you "
+"are using a laptop turning down your screen brightness can increase "
+"battery life by a large amount as well however too dim and the screen "
+"will be illegible."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/brightness.rst:7
+msgid "Usage"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/brightness.rst:8
+msgid ""
+"To use brightness click on the dial towards the right window of the "
+"window. To make the screen dimmer use the :kbd:`left arrow` key or click "
+"on the dial and dragnight the dial towards the left. If you want to make "
+"the screen more bright press the :kbd:`right arrow` key or drag the dial "
+"towards the right. The name of your display(s) will be on a dial on the "
+"center. After doing this you will be asked to confirm the current "
+"brightness is OK while needing to select :guilabel:`Yes`. If you do not "
+"respond it will revert the old brightness which is useful because if you "
+"made your screen illegible it will revert to the old settings."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/brightness.rst:12
+msgid ""
+"If you have multiple displays and want to change the brightness of each "
+"monitor individually it will be shown with the name of the monitor will "
+"be shown on the left and a dial on the right hand side for each monitor."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/brightness.rst:14
+msgid ""
+"If you do not want to confirmation uncheck the :guilabel:`Require "
+"confirmation after settings change` checkbox. To close Brightness press "
+"the :kbd:`Escape` key or press the :guilabel:`Close` button."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/brightness.rst:17
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/brightness.rst:21
+msgid "Version"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/brightness.rst:22
+msgid "Lubuntu ships with 0.15.0 of Brightness."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/brightness.rst:25
+msgid "How to Launch"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/brightness.rst:26
+msgid ""
+"To launch Brightness from the menu :menuselection:`Preferences --> LXQt "
+"settings --> Brightness`. Another way is to press the Brightness icon on "
+"LXQt Configuration Center or run"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.3/brightness.rst:32
+msgid ""
+"from the commandline. The icon for Brightness looks like a half moon with"
+" a gear in the background."
+msgstr ""
+

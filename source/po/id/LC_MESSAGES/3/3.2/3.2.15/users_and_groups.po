@@ -10,40 +10,32 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-12 14:08-0600\n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #: ../../source/3/3.2/3.2.15/users_and_groups.rst:2
 msgid "Chapter 3.2.15 Users and Groups"
 msgstr ""
 
 #: ../../source/3/3.2/3.2.15/users_and_groups.rst:4
-msgid "Users and groups lets you manage user and group settings on your system."
+msgid "Users and Groups lets you manage user and group settings on your system."
 msgstr ""
 
 #: ../../source/3/3.2/3.2.15/users_and_groups.rst:7
-msgid "Version"
-msgstr ""
-
-#: ../../source/3/3.2/3.2.15/users_and_groups.rst:8
-msgid "Lubuntu ships with version 0.13.0 of Users and Groups."
-msgstr ""
-
-#: ../../source/3/3.2/3.2.15/users_and_groups.rst:11
 msgid "Usage"
 msgstr ""
 
-#: ../../source/3/3.2/3.2.15/users_and_groups.rst:12
+#: ../../source/3/3.2/3.2.15/users_and_groups.rst:8
 msgid ""
 "The :guilabel:`Users` tab lets you manage Users. To create a new user "
 "account press the :guilabel:`Add` button. You will need to select the "
-"groups you want the user to be in unter the :guilabel:`Groups` tab. Once "
+"groups you want the user to be in under the :guilabel:`Groups` tab. Once "
 "the user information and groups are set press the :guilabel:`OK` button. "
 "Then you will be prompted to enter an administrative password. Next you "
 "will be prompted to enter the new password for the user. To change the "
@@ -52,24 +44,7 @@ msgid ""
 "change system settings."
 msgstr ""
 
-#: ../../source/3/3.2/3.2.15/users_and_groups.rst:14
-msgid ""
-"To view an info on a particaulr user press the :guilabel:`Properties` to "
-"bring up a dialog box or the accomplish the same thing by doubleclicking "
-"on the username. You can view the :guilabel:`Login Name` will show you "
-"the login name for the user and can be edited if you type in the box. The"
-" field :guilabel:`User ID` is the numerical internal id of your user. The"
-" field :guilabel:`Main Group` is the main group that is default group for"
-" files access to."
-msgstr ""
-
-#: ../../source/3/3.2/3.2.15/users_and_groups.rst:16
-msgid ""
-"The tab :guilabel:`Groups` under properties has checkboxes for each group"
-" you are in or which checkbox or each group you are not in."
-msgstr ""
-
-#: ../../source/3/3.2/3.2.15/users_and_groups.rst:18
+#: ../../source/3/3.2/3.2.15/users_and_groups.rst:10
 msgid ""
 "To change a user's password select the user in the list then press the "
 ":guilabel:`Change Password` button you will be prompted to  enter the new"
@@ -78,7 +53,36 @@ msgid ""
 "on users and groups press the :guilabel:`Refresh` button."
 msgstr ""
 
-#: ../../source/3/3.2/3.2.15/users_and_groups.rst:20
+#: ../../source/3/3.2/3.2.15/users_and_groups.rst:14
+msgid ""
+"To view an info on a particular user press the :guilabel:`Properties` or "
+"double click on the users name to bring up a dialog box or the accomplish"
+" the same thing by double clicking on the username. You can view the "
+":guilabel:`Login Name` will show you the login name for the user and can "
+"be edited if you type in the box. The field :guilabel:`User ID` is the "
+"numerical internal id of your user. The field :guilabel:`Main Group` is "
+"the main group that is default group for files access to."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.15/users_and_groups.rst:18
+msgid ""
+"The tab :guilabel:`Groups` under properties has checkboxes for each group"
+" you are in or which checkbox or each group you are not in. To add or "
+"remove a user from a group check or uncheck the checkbox for the group "
+"you want to add or remove a user from. To view what numeric group id each"
+" group has is in the :guilabel:`Group ID` field."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.15/users_and_groups.rst:22
+msgid ""
+"The :guilabel:`Advanced` tab in the properties menu has settings with a "
+"login shells and where your home directory is. To change which shell you "
+"use when you login via ssh or directly to a console change the "
+":guilabel:`Login Shell` drop down menu. To change where your home "
+"directory is use the :guilabel:`Home directory` field for your folder."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.15/users_and_groups.rst:26
 msgid ""
 "The :guilabel:`Groups` tabs lets you see info on groups and change "
 "properties. The :guilabel:`Name` field shows the name of the group. The "
@@ -86,29 +90,32 @@ msgid ""
 "field. The :guilabel:`Members` show the members of the current group."
 msgstr ""
 
-#: ../../source/3/3.2/3.2.15/users_and_groups.rst:24
+#: ../../source/3/3.2/3.2.15/users_and_groups.rst:32
 msgid ""
 "Changing user and group permissions without knowing what you are doing "
 "could break your system."
 msgstr ""
 
-#: ../../source/3/3.2/3.2.15/users_and_groups.rst:27
-msgid "Screenshot"
+#: ../../source/3/3.2/3.2.15/users_and_groups.rst:35
+msgid "Version"
 msgstr ""
 
-#: ../../source/3/3.2/3.2.15/users_and_groups.rst:33
-msgid "How to launch"
+#: ../../source/3/3.2/3.2.15/users_and_groups.rst:36
+msgid "Lubuntu ships with version 0.15.0 of Users and Groups."
 msgstr ""
 
-#: ../../source/3/3.2/3.2.15/users_and_groups.rst:34
-msgid ""
-"To launch Users and groups from the menu :menuselection:`Preferences --> "
-"LXQt settings --> users and groups`. From LXQt configuration center under"
-" system settings press the button that looks like two people. Or you can "
-"run"
+#: ../../source/3/3.2/3.2.15/users_and_groups.rst:39
+msgid "How to Launch"
 msgstr ""
 
 #: ../../source/3/3.2/3.2.15/users_and_groups.rst:40
+msgid ""
+"To launch Users and Groups from the menu :menuselection:`Preferences --> "
+"LXQt settings --> Users and Groups`. The icon for Users and Groups is a "
+"teal circle with nondescript picture of a person. Or you can run"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.15/users_and_groups.rst:46
 msgid "from the command line."
 msgstr ""
 
@@ -141,5 +148,73 @@ msgstr ""
 #~ "like two people. Or you can run"
 #~ " lxqt-admin-user from the command "
 #~ "line."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Users and groups lets you manage "
+#~ "user and group settings on your "
+#~ "system."
+#~ msgstr ""
+
+#~ msgid "Lubuntu ships with version 0.13.0 of Users and Groups."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The :guilabel:`Users` tab lets you "
+#~ "manage Users. To create a new user"
+#~ " account press the :guilabel:`Add` button."
+#~ " You will need to select the "
+#~ "groups you want the user to be "
+#~ "in unter the :guilabel:`Groups` tab. "
+#~ "Once the user information and groups "
+#~ "are set press the :guilabel:`OK` button."
+#~ " Then you will be prompted to "
+#~ "enter an administrative password. Next "
+#~ "you will be prompted to enter the"
+#~ " new password for the user. To "
+#~ "change the users permission click "
+#~ "account type and enter your password "
+#~ "and select desktop user to not "
+#~ "give permission to change the system "
+#~ "or admin to change system settings."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To view an info on a particaulr"
+#~ " user press the :guilabel:`Properties` to"
+#~ " bring up a dialog box or the"
+#~ " accomplish the same thing by "
+#~ "doubleclicking on the username. You can"
+#~ " view the :guilabel:`Login Name` will "
+#~ "show you the login name for the"
+#~ " user and can be edited if you"
+#~ " type in the box. The field "
+#~ ":guilabel:`User ID` is the numerical "
+#~ "internal id of your user. The "
+#~ "field :guilabel:`Main Group` is the main"
+#~ " group that is default group for "
+#~ "files access to."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The tab :guilabel:`Groups` under properties"
+#~ " has checkboxes for each group you"
+#~ " are in or which checkbox or "
+#~ "each group you are not in."
+#~ msgstr ""
+
+#~ msgid "Screenshot"
+#~ msgstr ""
+
+#~ msgid "How to launch"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To launch Users and groups from "
+#~ "the menu :menuselection:`Preferences --> LXQt"
+#~ " settings --> users and groups`. From"
+#~ " LXQt configuration center under system "
+#~ "settings press the button that looks "
+#~ "like two people. Or you can run"
 #~ msgstr ""
 

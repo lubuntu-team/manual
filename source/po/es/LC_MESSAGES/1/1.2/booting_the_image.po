@@ -9,21 +9,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
 "PO-Revision-Date: 2018-11-13 09:00+0000\n"
 "Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
-"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
-"manual-1-2/es/>\n"
 "Language: es\n"
+"Language-Team: Spanish "
+"<https://translate.lubuntu.me/projects/lubuntu/manual-1-2/es/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.2.2\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #: ../../source/1/1.2/booting_the_image.rst:2
-msgid "Chapter 1.2 Booting the image"
+#, fuzzy
+msgid "Chapter 1.2 Booting the Image"
 msgstr "Capítulo 1.2 Arrancando la imagen"
 
 #: ../../source/1/1.2/booting_the_image.rst:4
@@ -31,146 +31,157 @@ msgid ""
 "Now that you have the ISO file, you need to put the image on a media "
 "device and boot the image for installation."
 msgstr ""
-"Ahora que usted tiene el archivo ISO, debe poner la imagen en un dispositivo "
-"multimedia y arrancar la imagen para la instalación."
+"Ahora que usted tiene el archivo ISO, debe poner la imagen en un "
+"dispositivo multimedia y arrancar la imagen para la instalación."
 
 #: ../../source/1/1.2/booting_the_image.rst:6
 msgid ""
 "**This requires additional research on your own, as this varies depending"
 " on your hardware.**"
 msgstr ""
-"**Esto requiere ser investigado de su parte, ya que esto varia dependiendo "
-"de su hardware.**"
+"**Esto requiere ser investigado de su parte, ya que esto varia "
+"dependiendo de su hardware.**"
 
 #: ../../source/1/1.2/booting_the_image.rst:9
 msgid "Choosing the media"
 msgstr "Eligiendo el medio"
 
 #: ../../source/1/1.2/booting_the_image.rst:10
+#, fuzzy
 msgid ""
-"In order to boot the image, you need to put it somewhere. You have three "
-"choices, depending on which image you downloaded:"
+"In order to boot the image, you need to put it somewhere. You have two "
+"choices either"
 msgstr ""
 "Para poder arrancar la imagen, la debe poner en algun lugar. Tiene tres "
 "opciones, dependiendo de la imagen que ha descargado:"
 
-#: ../../source/1/1.2/booting_the_image.rst:16
-#: ../../source/1/1.2/booting_the_image.rst:41
-msgid "."
-msgstr "."
-
-#: ../../source/1/1.2/booting_the_image.rst:14
+#: ../../source/1/1.2/booting_the_image.rst:12
 msgid "a DVD"
 msgstr "un DVD"
 
-#: ../../source/1/1.2/booting_the_image.rst:15
+#: ../../source/1/1.2/booting_the_image.rst:13
 msgid "a USB drive (2 GB or greater)"
 msgstr "un USB (2 GB o más)"
 
-#: ../../source/1/1.2/booting_the_image.rst:19
-msgid "Writing/burning the image"
+#: ../../source/1/1.2/booting_the_image.rst:16
+#, fuzzy
+msgid "Writing/burning the Image"
 msgstr "Escribir/quemar la imagen"
 
-#: ../../source/1/1.2/booting_the_image.rst:23
-msgid "Here are some common tools to burn images onto CDs/DVDs:"
+#: ../../source/1/1.2/booting_the_image.rst:21
+#, fuzzy
+msgid "Here are some common tools to burn images onto DVDs:"
 msgstr "Aquí hay algunas herramientas comunes para grabar imagenes a CDs/DVDs:"
 
-#: ../../source/1/1.2/booting_the_image.rst:21
+#: ../../source/1/1.2/booting_the_image.rst:18
 msgid "`Brasero <https://wiki.gnome.org/Apps/Brasero/>`_"
 msgstr "`Brasero <https://wiki.gnome.org/Apps/Brasero/>`_"
 
-#: ../../source/1/1.2/booting_the_image.rst:22
+#: ../../source/1/1.2/booting_the_image.rst:19
+msgid "K3b"
+msgstr ""
+
+#: ../../source/1/1.2/booting_the_image.rst:20
 msgid "Windows Disc Image Burner"
 msgstr "Windows Disc Image Burner"
 
-#: ../../source/1/1.2/booting_the_image.rst:23
+#: ../../source/1/1.2/booting_the_image.rst:21
 msgid "InfraRecorder"
 msgstr "InfraRecorder"
 
-#: ../../source/1/1.2/booting_the_image.rst:25
+#: ../../source/1/1.2/booting_the_image.rst:23
+#, fuzzy
 msgid ""
-"Unfortunately, burning images to CDs or DVDs is beyond the scope of this "
-"manual. The Ubuntu website has several guides on this topic, and we "
-"recommend you read them if you plan on doing this."
+"Unfortunately, burning images to USB or DVDs on macOS or Windows is "
+"beyond the scope of this manual. The Ubuntu website has several guides on"
+" this topic, and we recommend you read them if you plan on doing this."
 msgstr ""
-"Lamentablemente, grabar imágenes a CDs o DVDs esta fuera del alcance de este "
-"manual. El sitio web de Ubuntu tiene varias guías con respecto a este tema, "
-"y recomendamos que las leas si planeas hacer esto."
+"Lamentablemente, grabar imágenes a CDs o DVDs esta fuera del alcance de "
+"este manual. El sitio web de Ubuntu tiene varias guías con respecto a "
+"este tema, y recomendamos que las leas si planeas hacer esto."
 
-#: ../../source/1/1.2/booting_the_image.rst:31
+#: ../../source/1/1.2/booting_the_image.rst:29
 msgid "Guides from the Ubuntu website:"
 msgstr "Guías del sitio web de Ubuntu:"
 
-#: ../../source/1/1.2/booting_the_image.rst:29
+#: ../../source/1/1.2/booting_the_image.rst:27
+#, fuzzy
 msgid ""
-"`How to burn a DVD on Ubuntu "
+"`How to burn a DVD on Ubuntu <https://tutorials.ubuntu.com/tutorial"
+"/tutorial-burn-a-dvd-on-ubuntu>`_"
+msgstr ""
+"`Como quemar un DVD en Ubuntu "
 "<http://www.ubuntu.com/download/desktop/burn-a-dvd-on-ubuntu>`_"
-msgstr ""
-"`Como quemar un DVD en Ubuntu <http://www.ubuntu.com/download/desktop/burn-a"
-"-dvd-on-ubuntu>`_"
 
-#: ../../source/1/1.2/booting_the_image.rst:30
+#: ../../source/1/1.2/booting_the_image.rst:28
+#, fuzzy
 msgid ""
-"`How to burn a DVD on Windows "
-"<http://www.ubuntu.com/download/desktop/burn-a-dvd-on-windows>`_"
+"`How to burn a DVD on Windows <https://tutorials.ubuntu.com/tutorial"
+"/tutorial-burn-a-dvd-on-windows>`_"
 msgstr ""
-"`Como quemar un DVD en Windows <http://www.ubuntu.com/download/desktop/burn-a"
-"-dvd-on-windows>`_"
+"`Como quemar un DVD en Windows "
+"<http://www.ubuntu.com/download/desktop/burn-a-dvd-on-windows>`_"
+
+#: ../../source/1/1.2/booting_the_image.rst:29
+#, fuzzy
+msgid ""
+"`How to burn a DVD on macOS <https://tutorials.ubuntu.com/tutorial"
+"/tutorial-burn-a-dvd-on-macos>`_"
+msgstr ""
+"`Como grabar un DVD en macOS "
+"<http://www.ubuntu.com/download/desktop/burn-a-dvd-on-mac-osx>`_"
 
 #: ../../source/1/1.2/booting_the_image.rst:31
 msgid ""
-"`How to burn a DVD on macOS "
-"<http://www.ubuntu.com/download/desktop/burn-a-dvd-on-mac-osx>`_"
+"For writing images to USB drives on Linux, we recommend `mkusb "
+"<https://help.ubuntu.com/community/mkusb>`_ a tool developed by a Lubuntu"
+" team member, or the USB creator shipped with Lubuntu `Startup Disk "
+"Creator <https://manual.lubuntu.me/3/3.1/3.1.4/startup-disk-"
+"creator.html>`_."
 msgstr ""
-"`Como grabar un DVD en macOS <http://www.ubuntu.com/download/desktop/burn-a"
-"-dvd-on-mac-osx>`_"
 
 #: ../../source/1/1.2/booting_the_image.rst:33
-msgid ""
-"For writing images to USB drives on Linux, we recommend `mkusb "
-"<https://help.ubuntu.com/community/mkusb>`_, a tool developed by a "
-"Lubuntu team member."
-msgstr ""
-"Para escribir imágenes a unidades USB en Linux, recomendamos `mkusb "
-"<https://help.ubuntu.com/community/mkusb>`_, una herramienta desarrollada "
-"por un miembro del equipo de Ubuntu."
-
-#: ../../source/1/1.2/booting_the_image.rst:35
 msgid ""
 "Writing images to USB drives from macOS or Windows is beyond the scope of"
 " this book, but the Ubuntu website also has several guides on this:"
 msgstr ""
 "Escribir imágenes en unidades USB desde macOS o Windows esta fuera del "
-"alcance de este libro, pero el sitio web de Ubuntu tiene varias guías sobre "
-"esto:"
+"alcance de este libro, pero el sitio web de Ubuntu tiene varias guías "
+"sobre esto:"
 
-#: ../../source/1/1.2/booting_the_image.rst:39
+#: ../../source/1/1.2/booting_the_image.rst:36
+#, fuzzy
 msgid ""
 "`How to create a bootable USB stick on Windows "
-"<http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows>`_"
+"<https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-"
+"windows>`_"
 msgstr ""
-"`Como crear un USB de arranque en Windows <http://www.ubuntu.com/download/"
-"desktop/create-a-usb-stick-on-windows>`_"
+"`Como crear un USB de arranque en Windows "
+"<http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows>`_"
 
-#: ../../source/1/1.2/booting_the_image.rst:40
+#: ../../source/1/1.2/booting_the_image.rst:37
+#, fuzzy
 msgid ""
 "`How to create a bootable USB stick on macOS "
-"<http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-mac-osx>`_"
+"<https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-"
+"macos>`_"
 msgstr ""
-"`Como crear un USB de arranque en macOS <http://www.ubuntu.com/download/"
-"desktop/create-a-usb-stick-on-mac-osx>`_"
+"`Como crear un USB de arranque en macOS "
+"<http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-mac-osx>`_"
 
-#: ../../source/1/1.2/booting_the_image.rst:44
-msgid "Booting the image"
+#: ../../source/1/1.2/booting_the_image.rst:40
+#, fuzzy
+msgid "Booting the Image"
 msgstr "Arrancando la imagen"
 
-#: ../../source/1/1.2/booting_the_image.rst:45
+#: ../../source/1/1.2/booting_the_image.rst:41
+#, fuzzy
 msgid ""
 "With your media inserted, reboot your computer. Depending on your "
 "hardware configuration, it may boot into the image right away, or you "
 "might need to press a key at startup for boot options. This varies but "
-"looking for documentation specific to your hardware will likely provide "
-"the answer."
+"looking for documentation for your hardware will likely provide the "
+"answer."
 msgstr ""
 "Con su medio insertado, arranque su computadora. Dependiendo de su "
 "configuración de hardware, puede arrancar en la imagen sin hacer nada, o "
@@ -178,6 +189,22 @@ msgstr ""
 "opciones de arranque. Esto varia pero ver documentación específica a su "
 "hardware probablemente tenga la respuesta."
 
-#: ../../source/1/1.2/booting_the_image.rst:48
+#: ../../source/1/1.2/booting_the_image.rst:43
 msgid "**You have now booted the image. Please continue to Chapter 1.3.**"
 msgstr "**Ha arrancado desde la imagen. Por favor continúe al capitulo 1.3.**"
+
+#~ msgid "."
+#~ msgstr "."
+
+#~ msgid ""
+#~ "For writing images to USB drives "
+#~ "on Linux, we recommend `mkusb "
+#~ "<https://help.ubuntu.com/community/mkusb>`_, a tool "
+#~ "developed by a Lubuntu team member."
+#~ msgstr ""
+#~ "Para escribir imágenes a unidades USB"
+#~ " en Linux, recomendamos `mkusb "
+#~ "<https://help.ubuntu.com/community/mkusb>`_, una "
+#~ "herramienta desarrollada por un miembro "
+#~ "del equipo de Ubuntu."
+

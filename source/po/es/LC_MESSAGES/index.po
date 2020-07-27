@@ -10,18 +10,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-21 00:20-0500\n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
 "PO-Revision-Date: 2018-11-13 17:22+0000\n"
 "Last-Translator: Roberto <lumintnian@outlook.com>\n"
-"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu/"
-"manual-index/es/>\n"
 "Language: es\n"
+"Language-Team: Spanish <https://translate.lubuntu.me/projects/lubuntu"
+"/manual-index/es/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.2.2\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #: ../../source/index.rst:2
 msgid "Welcome to the Lubuntu Manual!"
@@ -33,32 +32,33 @@ msgid ""
 "using Lubuntu. This manual covers many topics, such as installation "
 "instructions, applications Lubuntu provides, and much more!"
 msgstr ""
-"¡Bienvenido al manual de Lubuntu! ¡Este es el libro de referencia oficial "
-"para usar Lubuntu. Este manual cubre muchos temas, como las instrucciones de "
-"instalación, las aplicaciones que proporciona Lubuntu y mucho más!"
+"¡Bienvenido al manual de Lubuntu! ¡Este es el libro de referencia oficial"
+" para usar Lubuntu. Este manual cubre muchos temas, como las "
+"instrucciones de instalación, las aplicaciones que proporciona Lubuntu y "
+"mucho más!"
 
 #: ../../source/index.rst:7
 msgid "What is Lubuntu?"
 msgstr "¿Qué es Lubuntu?"
 
 #: ../../source/index.rst:9
+#, fuzzy
 msgid ""
 "The project’s goal is to provide a lightweight yet functional Linux "
 "distribution based on a rock-solid Ubuntu base. Lubuntu provides a simple"
 " but modern and powerful graphical user interface, and comes with a wide "
 "variety of applications so you can browse, email, chat, play, and be "
 "productive. Lubuntu was formerly a distribution for low-end hardware, but"
-" `we have recently refocused <https://lubuntu.me/taking-a-new-"
-"direction/>`_."
+" `we have refocused <https://Lubuntu.me/taking-a-new-direction/>`_."
 msgstr ""
-"El objetivo del proyecto es proporcionar una distribución de Linux ligera y "
-"funcional basada en una base sólida como una roca de Ubuntu. Lubuntu "
-"proporciona una interfaz gráfica de usuario simple pero moderna y potente y "
-"viene con una amplia variedad de aplicaciones para que pueda navegar, enviar "
-"correos electrónicos, chatear, jugar y ser productivo. Lubuntu era "
-"anteriormente una distribución para hardware de gama baja, pero `"
-"recientemente la hemos reenfocado <https://lubuntu.me/taking-a-new-direction/"
-">` _."
+"El objetivo del proyecto es proporcionar una distribución de Linux ligera"
+" y funcional basada en una base sólida como una roca de Ubuntu. Lubuntu "
+"proporciona una interfaz gráfica de usuario simple pero moderna y potente"
+" y viene con una amplia variedad de aplicaciones para que pueda navegar, "
+"enviar correos electrónicos, chatear, jugar y ser productivo. Lubuntu era"
+" anteriormente una distribución para hardware de gama baja, pero "
+"`recientemente la hemos reenfocado <https://lubuntu.me/taking-a-new-"
+"direction/>` _."
 
 #: ../../source/index.rst:11
 msgid ""
@@ -67,39 +67,42 @@ msgid ""
 "releases of Lubuntu. Lubuntu received official recognition as a formal "
 "member of the Ubuntu family beginning with Lubuntu 11.10."
 msgstr ""
-"Los miembros del equipo se ocupan de LXQt y otros paquetes que forman parte "
-"de Lubuntu en el archivo de Ubuntu, así como los paquetes de LXDE en las "
-"versiones de LTS de Lubuntu. Lubuntu recibió reconocimiento oficial como "
-"miembro formal de la familia Ubuntu a partir de Lubuntu 11.10."
+"Los miembros del equipo se ocupan de LXQt y otros paquetes que forman "
+"parte de Lubuntu en el archivo de Ubuntu, así como los paquetes de LXDE "
+"en las versiones de LTS de Lubuntu. Lubuntu recibió reconocimiento "
+"oficial como miembro formal de la familia Ubuntu a partir de Lubuntu "
+"11.10."
 
 #: ../../source/index.rst:14
 msgid "Contents"
 msgstr "Contenido"
 
-#: ../../source/index.rst:29
+#: ../../source/index.rst:34
 msgid "Contact Us"
 msgstr "Contáctenos"
 
-#: ../../source/index.rst:31
+#: ../../source/index.rst:36
+#, fuzzy
 msgid ""
 "Do you have questions? Want to get involved? Take a look at our official "
 "website at `Lubuntu.me <https://lubuntu.me>`_ where you can find `the "
-"Lubuntu blog <https://lubuntu.me/blog/>`_, `ways to get in contact with "
-"us <https://lubuntu.me/links/>`_, and `our Phabricator instance "
+"Lubuntu blog <https://lubuntu.me/blog/>`_, `the Lubuntu discourse "
+"<https://discourse.lubuntu.me/>`_, `ways to get in contact with us "
+"<https://lubuntu.me/links/>`_, and `our Phabricator instance "
 "<https://phab.lubuntu.me/>`_ where we do most of the Lubuntu development."
 msgstr ""
-"¿Tienes preguntas? ¿Quieres involucrarte? Echa un vistazo a nuestro sitio "
-"web oficial en `Lubuntu.me <https://lubuntu.me>` _, donde puedes encontrar `"
-"el blog de Lubuntu <https://lubuntu.me/blog/>` _, `maneras de obtener en "
-"contacto con nosotros <https://lubuntu.me/links/> `_, y` nuestra instancia "
-"de Phabricator <https://phab.lubuntu.me/> `_ donde hacemos la mayor parte "
-"del desarrollo de Lubuntu."
+"¿Tienes preguntas? ¿Quieres involucrarte? Echa un vistazo a nuestro sitio"
+" web oficial en `Lubuntu.me <https://lubuntu.me>` _, donde puedes "
+"encontrar `el blog de Lubuntu <https://lubuntu.me/blog/>` _, `maneras de "
+"obtener en contacto con nosotros <https://lubuntu.me/links/> `_, y` "
+"nuestra instancia de Phabricator <https://phab.lubuntu.me/> `_ donde "
+"hacemos la mayor parte del desarrollo de Lubuntu."
 
-#: ../../source/index.rst:34
+#: ../../source/index.rst:39
 msgid "Thank you!"
 msgstr "¡Gracias!"
 
-#: ../../source/index.rst:36
+#: ../../source/index.rst:41
 msgid "Thank you for choosing to use Lubuntu!"
 msgstr "¡Gracias por elegir usar Lubuntu!"
 
@@ -107,7 +110,7 @@ msgstr "¡Gracias por elegir usar Lubuntu!"
 msgid "Authors"
 msgstr "Autores"
 
-#: ../../source/index.rst:38
+#: ../../source/index.rst:43
 msgid "Simon Quigley, Lyn Perrine, Jacob Kim, Daniel Lim"
 msgstr "Simon Quigley, Lyn Perrine, Jacob Kim, Daniel Lim"
 
@@ -115,6 +118,7 @@ msgstr "Simon Quigley, Lyn Perrine, Jacob Kim, Daniel Lim"
 msgid "Translators"
 msgstr "Traductores"
 
-#: ../../source/index.rst:39
+#: ../../source/index.rst:44
 msgid "Marcin Mikołajczak"
 msgstr "Marcin Mikołajczak"
+

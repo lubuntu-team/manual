@@ -10,75 +10,168 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-12 14:08-0600\n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.8.0\n"
 
-#: ../../source/C/command_line.rst:2
+#: ../../source/C/command_line.rst:3
 msgid "Appendix C Command line"
 msgstr ""
 
-#: ../../source/C/command_line.rst:4
+#: ../../source/C/command_line.rst:5
 msgid ""
-"The command line or cli is text interface to your computer and an "
+"The command line or CLI is text interface to your computer and an "
 "alternative to graphical user interfaces like windows. It typically "
 "involves typing text commands into a terminal to perform some operation. "
-"Although not necessary to learn, it can be helpful. The terminal (Ctrl + "
-"Alt + T) is a command line running in a window."
+"Although not necessary to learn, it can be helpful. The terminal which "
+"can be launched from :kbd:`Control + Alt + T` is a command line running "
+"in a window."
 msgstr ""
 
-#: ../../source/C/command_line.rst:6
+#: ../../source/C/command_line.rst:7
 msgid ""
 "An exhaustive tutorial on the command line is a bit beyond the scope of "
-"the manual. The man command  brings up the user manual and can be used to"
-" learn more about a commands use, its options and inputs. If you wanted "
+"the manual. The man command brings up the user manual and can be used to "
+"learn more about a commands use, its options, and inputs. If you wanted "
 "to learn more about the df (disk free) command, enter the following into "
-"a command line:"
+"a command line and press :kbd:`enter` :"
 msgstr ""
 
-#: ../../source/C/command_line.rst:12
+#: ../../source/C/command_line.rst:13
 msgid ""
 "This will show you the user manual for the df command containing and "
 "explanation of the command and other useful information. For example is "
-"the -h option gives a human readable output."
+"the -h option gives a human readable output. If the manual is way too "
+"long you can press the :kbd:`/` key and type in what you want to search "
+"for. To quit a man page press :kbd:`q`."
 msgstr ""
 
-#: ../../source/C/command_line.rst:18
+#: ../../source/C/command_line.rst:19
 msgid "will make a much nicer output than"
 msgstr ""
 
-#: ../../source/C/command_line.rst:24
+#: ../../source/C/command_line.rst:25
 msgid ""
 "To list files on the current file system one of the most important "
 "commands to know is ls."
 msgstr ""
 
-#: ../../source/C/command_line.rst:30
+#: ../../source/C/command_line.rst:31
 msgid ""
 "will show the files in your current directory and the man page lists more"
 " options such as viewing all files or long listing."
 msgstr ""
 
-#: ../../source/C/command_line.rst:32
+#: ../../source/C/command_line.rst:33
 msgid "To change to another directory an important command is"
 msgstr ""
 
-#: ../../source/C/command_line.rst:38
+#: ../../source/C/command_line.rst:39
 msgid ""
 "where [dir] is the directory you want to switch to. Another thing that is"
 " useful is you can append .. after cd to make it go up one level."
 msgstr ""
 
-#: ../../source/C/command_line.rst:42
+#: ../../source/C/command_line.rst:41
 msgid ""
-"There is also the command line for manageing and installing packages "
-"which is beyond the scope of this appendix but please see `apt package "
-"management <https://help.ubuntu.com/lts/serverguide/apt.html.en>`_  for "
-"how to insert and remove packages from the command line."
+"There is also the command line for managing and installing packages which"
+" is beyond the scope of this appendix but please see `apt package "
+"management <https://help.ubuntu.com/lts/serverguide/apt.html>`_ for how "
+"to insert and remove packages from the command line."
 msgstr ""
+
+#: ../../source/C/command_line.rst:43
+msgid ""
+"If you need to edit a text file from the command line the easiest editor "
+"included is nano so to edit a file from the command line if you broke "
+"something run"
+msgstr ""
+
+#: ../../source/C/command_line.rst:49
+msgid "where you replace [file] with the file you want to edit."
+msgstr ""
+
+#: ../../source/C/command_line.rst:51
+msgid ""
+"If you want to stop something running in the terminal press :kbd:`Control"
+" +C`."
+msgstr ""
+
+#: ../../source/C/command_line.rst:53
+msgid "If you want just to see the contents of a file on standard output run"
+msgstr ""
+
+#: ../../source/C/command_line.rst:59
+msgid ""
+"If you have a command and you don't want to type the whole thing out you "
+"can press the :kbd:`tab` key. If this does not work press :kbd:`tab` "
+"again and see the list of available commands to run. This process is "
+"called tab completion."
+msgstr ""
+
+#: ../../source/C/command_line.rst:61
+msgid "If you want a command to run if the first completes run"
+msgstr ""
+
+#: ../../source/C/command_line.rst:67
+msgid ""
+"One of the most powerful uses of the command line is called a pipe which "
+"allows you to take the output of one command and pipe it to a second to "
+"this for example"
+msgstr ""
+
+#: ../../source/C/command_line.rst:73
+msgid ". Also | is called the pipe character."
+msgstr ""
+
+#~ msgid ""
+#~ "The command line or cli is text"
+#~ " interface to your computer and an"
+#~ " alternative to graphical user interfaces"
+#~ " like windows. It typically involves "
+#~ "typing text commands into a terminal "
+#~ "to perform some operation. Although not"
+#~ " necessary to learn, it can be "
+#~ "helpful. The terminal (Ctrl + Alt "
+#~ "+ T) is a command line running "
+#~ "in a window."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "An exhaustive tutorial on the command"
+#~ " line is a bit beyond the scope"
+#~ " of the manual. The man command  "
+#~ "brings up the user manual and can"
+#~ " be used to learn more about a"
+#~ " commands use, its options and "
+#~ "inputs. If you wanted to learn "
+#~ "more about the df (disk free) "
+#~ "command, enter the following into a "
+#~ "command line:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This will show you the user manual"
+#~ " for the df command containing and"
+#~ " explanation of the command and other"
+#~ " useful information. For example is "
+#~ "the -h option gives a human "
+#~ "readable output."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "There is also the command line for"
+#~ " manageing and installing packages which"
+#~ " is beyond the scope of this "
+#~ "appendix but please see `apt package "
+#~ "management "
+#~ "<https://help.ubuntu.com/lts/serverguide/apt.html.en>`_  for "
+#~ "how to insert and remove packages "
+#~ "from the command line."
+#~ msgstr ""
 

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-12 14:08-0600\n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
 "PO-Revision-Date: 2018-11-21 19:30+0000\n"
 "Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
 "Language: es\n"
@@ -19,7 +19,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #: ../../source/2/2.3/2.3.3/Skanlite.rst:2
 #, fuzzy
@@ -27,53 +27,47 @@ msgid "Chapter 2.3.3 Skanlite"
 msgstr "Capítulo 2.3.4 Skanlite"
 
 #: ../../source/2/2.3/2.3.3/Skanlite.rst:4
-msgid "Skanlite is a scanning application."
+#, fuzzy
+msgid "Skanlite is the default scanning application for Lubuntu."
 msgstr "Skanlite es una aplicación de escanear."
 
 #: ../../source/2/2.3/2.3.3/Skanlite.rst:7
-msgid "Version"
-msgstr "Versión"
-
-#: ../../source/2/2.3/2.3.3/Skanlite.rst:8
-msgid "Lubuntu ships with version 2.1.0 of skanlite."
-msgstr "Lubuntu incluye la version 2.1.0 de Skanlite."
-
-#: ../../source/2/2.3/2.3.3/Skanlite.rst:11
-msgid "Useage"
+#, fuzzy
+msgid "Usage"
 msgstr "Uso"
 
-#: ../../source/2/2.3/2.3.3/Skanlite.rst:12
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:8
 msgid ""
-"To preview what you want to scan press the :guilabel:`preview` button and"
+"To preview what you want to scan press the :guilabel:`Preview` button and"
 " you can make sure the scan is in a good position. With this done you can"
-" press the :guilabel:`scan` button to scan the document after this a "
+" press the :guilabel:`Scan` button to scan the document after this a "
 "dialog will show up asking you were to save what you are scanning. If you"
-" want to cancel your scan midway through the scani or preview click on "
-"the red octogon with a white inside x button to cancel the scan while the"
-" scan is in progress. Then a file save dialog will pop up and type the "
+" want to cancel your scan midway through the scan or preview click on the"
+" red octagon with a white inside x button to cancel the scan while the "
+"scan is in progress. Then a file save dialog will pop up and type the "
 "file name you want in the :guilabel:`File name` field and then press the "
 ":guilabel:`Save` button."
 msgstr ""
 
-#: ../../source/2/2.3/2.3.3/Skanlite.rst:16
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:10
 msgid ""
 "If your scanner is not detected a you will get a device saying \"Sorry no"
-" devices detected\" whith having a button for :guilabel:`Reload devices "
+" devices detected\" while having a button for :guilabel:`Reload devices "
 "list` to try and find your scanner again. If you want to cancel press the"
 " :guilabel:`Cancel` button."
 msgstr ""
 
-#: ../../source/2/2.3/2.3.3/Skanlite.rst:18
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:12
 msgid ""
 "To change the dpi or dots per inch is the dpi drop down menu for "
-":guilabel:`scan resolution` but keep in mind the higher the number of dpi"
-" the better the picture quality but the longer it will take to scan. The "
-"scan mode changing allows you to select color to select color scanning or"
-" gray to only show your scan in gray and not use color ink if you would "
-"want to print it out again."
+":guilabel:`Scan resolution` but keep in mind the higher the number of dpi"
+" the better the picture quality but the longer it will take to scan. "
+"Changing the :guilabel:`Scan mode` allows you to select color to select "
+"color scanning or gray to only show your scan in gray and not use color "
+"ink if you would want to print it out again."
 msgstr ""
 
-#: ../../source/2/2.3/2.3.3/Skanlite.rst:20
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:14
 #, fuzzy
 msgid ""
 "To zoom in press the magnifying glass button with a plus sign conversely "
@@ -84,17 +78,16 @@ msgstr ""
 "Para hacer zoom presiona el botón con la lupa y signo +, inversamente si "
 "quieres alejar el zoom usa el botón con la lupa y signo -."
 
-#: ../../source/2/2.3/2.3.3/Skanlite.rst:22
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:16
 msgid ""
-"To change the brightness of a scan slide the :guilabel:`brightness` "
-"slider or input an a positive or negative number into the the numeric "
-"field. To change constrast slide the :guilabel:`Contrast` slider or input"
-" a positive or negative number in the numeric field. To toggle inverting "
-"your colors on the scan check/uncheck the :guilabel:`Invert colors` "
-"Checkbox."
+"To change the brightness of a scan slide the :guilabel:`Brightness` "
+"slider or input a positive or negative number into the numeric field. To "
+"change contrast slide the :guilabel:`Contrast` slider or input a positive"
+" or negative number in the numeric field. To toggle inverting your colors"
+" on the scan check/uncheck the :guilabel:`Invert colors` Checkbox."
 msgstr ""
 
-#: ../../source/2/2.3/2.3.3/Skanlite.rst:24
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:18
 msgid ""
 "To select part of a scan you particularly want to save is to click over a"
 " preview of a scan and you will drag the selection with the mouse. To "
@@ -104,27 +97,69 @@ msgid ""
 "whole entire page right click :guilabel:`Zoom to fit`."
 msgstr ""
 
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:20
+msgid ""
+"To change to your specific options for your scanner use the "
+":guilabel:`Scanner Specific Options` tab."
+msgstr ""
+
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:23
+msgid "Version"
+msgstr "Versión"
+
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:24
+#, fuzzy
+msgid "Lubuntu ships with version 2.2.0 of Skanlite."
+msgstr "Lubuntu incluye la version 2.1.0 de Skanlite."
+
 #: ../../source/2/2.3/2.3.3/Skanlite.rst:27
 msgid "Screenshot"
 msgstr ""
 
 #: ../../source/2/2.3/2.3.3/Skanlite.rst:31
-msgid "How to launch"
+#, fuzzy
+msgid "How to Launch"
 msgstr "Como iniciar"
 
 #: ../../source/2/2.3/2.3.3/Skanlite.rst:32
 #, fuzzy
 msgid ""
-"To launch skanlite turn on your scanner and that it is connected to your "
+"To launch Skanlite turn on your scanner and that it is connected to your "
 "computer. To launch the application go to the menu "
-":menuselection:`graphics --> skanlite` or run"
+":menuselection:`Graphics --> Skanlite` or run"
 msgstr ""
 "Para comenzar a usar Skanlite encienda su escáner y que esté conectado a "
 "su ordenador. Para lanzar la aplicación vaya al menú -> Gráficos -> "
 "Skanlite o corra Skanlite desde la linea de comandos."
 
 #: ../../source/2/2.3/2.3.3/Skanlite.rst:38
-msgid "from the command line."
+msgid ""
+"from the command line. The icon for Skanlite looks like a scanner bed "
+"with a bar of light coming across as if doing a scan."
+msgstr ""
+
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:41
+msgid "Customizing"
+msgstr ""
+
+#: ../../source/2/2.3/2.3.3/Skanlite.rst:42
+msgid ""
+"To customize your settings for Skanlite press the :guilabel:`Settings` "
+"button. To choose where to save your scans enter the path in the "
+":guilabel:`Save Location` field or press the button to the right. To ask "
+"what to save what you are scanning change the :guilabel:`Save mode` menu "
+":menuselection:`Open the save dialog for every image`. To ask for each "
+"scan in the :guilabel:`Save Mode` menu select :menuselection:`Open the "
+"save dialog for first image only` selection. To choose the default save "
+"name and format enter in the :guilabel:`Name & Format` filed with a drop "
+"down menu for scan format. To choose what quality to save your quality "
+"check the :guilabel:`Specify save quality` checkbox. Then drag the slider"
+" or percentage to change the quality. To change the Dots per inch "
+"resolution when previewing check the :guilabel:`Set preview resolution` "
+"checkbox and then change field to the right side. To not automatically "
+"crop the selection check the :guilabel:`Disable automatic selections` "
+"checkbox. To get the scanner back to its default values press the "
+":guilabel:`Revert scanner options to default values`."
 msgstr ""
 
 #~ msgid ""
@@ -147,4 +182,67 @@ msgstr ""
 #~ " para escanear el documento luego de"
 #~ " esto, un dialogo aparecerá preguntando "
 #~ "si quieres guardar ese escaneo."
+
+#~ msgid ""
+#~ "To preview what you want to scan"
+#~ " press the :guilabel:`preview` button and"
+#~ " you can make sure the scan is"
+#~ " in a good position. With this "
+#~ "done you can press the :guilabel:`scan`"
+#~ " button to scan the document after"
+#~ " this a dialog will show up "
+#~ "asking you were to save what you"
+#~ " are scanning. If you want to "
+#~ "cancel your scan midway through the "
+#~ "scani or preview click on the red"
+#~ " octogon with a white inside x "
+#~ "button to cancel the scan while "
+#~ "the scan is in progress. Then a"
+#~ " file save dialog will pop up "
+#~ "and type the file name you want"
+#~ " in the :guilabel:`File name` field "
+#~ "and then press the :guilabel:`Save` "
+#~ "button."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If your scanner is not detected a"
+#~ " you will get a device saying "
+#~ "\"Sorry no devices detected\" whith "
+#~ "having a button for :guilabel:`Reload "
+#~ "devices list` to try and find your"
+#~ " scanner again. If you want to "
+#~ "cancel press the :guilabel:`Cancel` button."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To change the dpi or dots per "
+#~ "inch is the dpi drop down menu "
+#~ "for :guilabel:`scan resolution` but keep "
+#~ "in mind the higher the number of"
+#~ " dpi the better the picture quality"
+#~ " but the longer it will take to"
+#~ " scan. The scan mode changing allows"
+#~ " you to select color to select "
+#~ "color scanning or gray to only "
+#~ "show your scan in gray and not "
+#~ "use color ink if you would want"
+#~ " to print it out again."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To change the brightness of a scan"
+#~ " slide the :guilabel:`brightness` slider or"
+#~ " input an a positive or negative "
+#~ "number into the the numeric field. "
+#~ "To change constrast slide the "
+#~ ":guilabel:`Contrast` slider or input a "
+#~ "positive or negative number in the "
+#~ "numeric field. To toggle inverting your"
+#~ " colors on the scan check/uncheck the"
+#~ " :guilabel:`Invert colors` Checkbox."
+#~ msgstr ""
+
+#~ msgid "from the command line."
+#~ msgstr ""
 

@@ -10,28 +10,28 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-12 14:08-0600\n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:2
-msgid "Chapter 3.2.1 LXQt configuration center"
+msgid "Chapter 3.2.1 LXQt Configuration Center"
 msgstr ""
 
 #: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:4
 msgid ""
-"LXQt configuration center is an application with buttons that launches "
-"configuration options for lxqt the default desktop environment of "
-"Lubuntu."
+"LXQt Configuration Center is the default \"control center\" application "
+"with buttons that launches programs  to configure LXQt the default "
+"desktop environment of Lubuntu."
 msgstr ""
 
 #: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:7
-msgid "Useage"
+msgid "Usage"
 msgstr ""
 
 #: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:8
@@ -39,7 +39,10 @@ msgid ""
 "LXQt configuration center lets you launch many different applications in "
 "this chapter from a simple control center where you can double click on "
 "the icon for that program. To close one of the programs here you have "
-"launched you can close it by pressing :kbd:`Escape`."
+"launched you can close it by pressing :kbd:`Escape` or press the "
+":guilabel:`Close` button. Another way to select programs is move the "
+"currently selected item with the arrow keys on your keyboard and you can "
+"launch a program by pressing :kbd:`Enter`."
 msgstr ""
 
 #: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:11
@@ -51,7 +54,7 @@ msgid "Version"
 msgstr ""
 
 #: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:16
-msgid "Lubuntu ships with version 0.13.0 of LXQt configuration center."
+msgid "Lubuntu ships with version 0.15.0 of LXQt Configuration Center."
 msgstr ""
 
 #: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:19
@@ -60,13 +63,15 @@ msgstr ""
 
 #: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:21
 msgid ""
-"To launch LXQt configuration center from the menu "
-":menuselection:`Preferences --> LXQt settings -> LXQt configuration "
-"center` or run"
+"To launch LXQt Configuration Center from the menu "
+":menuselection:`Preferences --> LXQt settings --> LXQt Configuration "
+"Center` or run"
 msgstr ""
 
 #: ../../source/3/3.2/3.2.1/LXQt_configuration_center.rst:27
-msgid "from the command line."
+msgid ""
+"from the command line. The icon for LXQt Configuration Center is a "
+"lightbulb with a gear in the background."
 msgstr ""
 
 #~ msgid ""
@@ -75,5 +80,42 @@ msgstr ""
 #~ "settings -> LXQt configuration center or"
 #~ " run lxqt-config from the command "
 #~ "line."
+#~ msgstr ""
+
+#~ msgid "Chapter 3.2.1 LXQt configuration center"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "LXQt configuration center is an "
+#~ "application with buttons that launches "
+#~ "configuration options for lxqt the "
+#~ "default desktop environment of Lubuntu."
+#~ msgstr ""
+
+#~ msgid "Useage"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "LXQt configuration center lets you "
+#~ "launch many different applications in "
+#~ "this chapter from a simple control "
+#~ "center where you can double click "
+#~ "on the icon for that program. To"
+#~ " close one of the programs here "
+#~ "you have launched you can close it"
+#~ " by pressing :kbd:`Escape`."
+#~ msgstr ""
+
+#~ msgid "Lubuntu ships with version 0.13.0 of LXQt configuration center."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To launch LXQt configuration center from"
+#~ " the menu :menuselection:`Preferences --> "
+#~ "LXQt settings -> LXQt configuration "
+#~ "center` or run"
+#~ msgstr ""
+
+#~ msgid "from the command line."
 #~ msgstr ""
 

@@ -10,67 +10,188 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-12 14:08-0600\n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #: ../../source/3/3.2/3.2.19/Printers.rst:2
 msgid "Chapter 3.2.19 Printers"
 msgstr ""
 
 #: ../../source/3/3.2/3.2.19/Printers.rst:4
-msgid "Pritners allows you to configure your printer and show your print queue."
+msgid ""
+"Printers allows you to configure your printer(s) and show your print "
+"queue."
 msgstr ""
 
 #: ../../source/3/3.2/3.2.19/Printers.rst:7
-msgid "Useage"
+msgid "Usage"
 msgstr ""
 
 #: ../../source/3/3.2/3.2.19/Printers.rst:8
 msgid ""
-"To view your print queue right click on the printer and right click view "
-"print queue or with the printer slected press :kbd:`Control+F` or "
-":menuselection:`Printer --> View Print Queue` and if a job is held you "
-"can restart it. To view the properties of printer or make changes with "
-":menuselection:`Printer --> Properties`."
+"To view your print queue right click on the printer and right click "
+":menuselection:`View Print Queue`, with the printer selected press "
+":kbd:`Control+F`, or :menuselection:`Printer --> View Print Queue` and if"
+" a job is held you can restart it."
 msgstr ""
 
-#: ../../source/3/3.2/3.2.19/Printers.rst:10
+#: ../../source/3/3.2/3.2.19/Printers.rst:12
+msgid ""
+"To add a new printer press the :guilabel:`Add` button or "
+":menuselection:`Server --> New --> Printer`. A dialog will popup showing "
+"where you can connect the printer. Then look for your printer in the "
+"sidebar on the left hand side. Left click on the name of your printer and"
+" press the :guilabel:`Forward` button. To change the name of your printer"
+" type it in the :guilabel:`Printer Name` field. To change the description"
+" of your printer type in the :guilabel:`Description` field. To have a "
+"location for the printer type in the :guilabel:`Location` field. To move "
+"to the next step press the :guilabel:`Forward` button. After this a "
+"dialog will pop up asking if you want to print a test page."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.19/Printers.rst:16
 msgid ""
 "If you want to delete a printer :menuselection:`Printer --> Delete` after"
 " left clicking on the printer will delete the printer after you left "
-"click on it and you will be asked to confirm so you do not accidently "
-"delete your printer."
-msgstr ""
-
-#: ../../source/3/3.2/3.2.19/Printers.rst:13
-msgid "Screenshot"
-msgstr ""
-
-#: ../../source/3/3.2/3.2.19/Printers.rst:17
-msgid "Version"
+"click on it and you will be asked to confirm so you do not accidentally "
+"delete your printer. If you have multiple printers and want to set one as"
+" default right click on the printer and select :menuselection:`Set As "
+"Default`. To change the name of your printer right click on the printer "
+"and select :menuselection:`Rename` or :menuselection:`Printer --> "
+"Rename`."
 msgstr ""
 
 #: ../../source/3/3.2/3.2.19/Printers.rst:18
-msgid "Lubuntu ships with version 1.5.11 of printers."
-msgstr ""
-
-#: ../../source/3/3.2/3.2.19/Printers.rst:21
-msgid "How to launch"
+msgid ""
+"To view or change the properties of printer or make changes with "
+":menuselection:`Printer --> Properties`. To see settings on the printer "
+"has use the :guilabel:`Settings` tab. To change how to describe and name "
+"your :guilabel:`Description` field. To change where the location of this "
+"printer is change the :guilabel:`Location` field. To choose a different "
+"driver to use for your printer press the :guilabel:`Change` button to the"
+" right of :guilabel:`Make and Model`. To print a test page press the "
+":guilabel:`Print Test Page` button."
 msgstr ""
 
 #: ../../source/3/3.2/3.2.19/Printers.rst:22
 msgid ""
-"To launch printers from the menu :menuselection:`Preferences --> "
+"To change what your printer changes on errors or is enabled and banners "
+"use the :guilabel:`Policies` tab. To disable a printer uncheck the "
+":guilabel:`Enabled` checkbox. To have the printer not accept jobs uncheck"
+" the :guilabel:`Accepting jobs` checkbox. To not share your printer "
+"uncheck the :guilabel:`Shared` checkbox. To change what to do when your "
+"printer encounters an error change the :guilabel:`Error Policy` drop down"
+" menu. To have a banner before you start printing use the "
+":guilabel:`Starting Banner` drop down. To have a banner ending what you "
+"print use the :guilabel:`Ending Banner` drop down."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.19/Printers.rst:26
+msgid ""
+"If you want to change which users can use this printer use the "
+":guilabel:`Access Control` tab. To add a user to not be allowed to print "
+"type there name in the bar and press the :guilabel:`Add` button. To "
+"remove a user from this list left click on the username and click the "
+":guilabel:`Delete` button. To switch to only allowing users on the list "
+"to print press the :guilabel:`Deny printing for everyone except these "
+"users` button. To switch back to banning users from printing press the "
+":guilabel:`Allow printing for everyone except these users` checkbox."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.19/Printers.rst:30
+msgid ""
+"To choose settings specific to your printer use the :guilabel:`Printer "
+"Options` tab. To choose your paper size use the :guilabel:`Media Size` "
+"drop down. To have your printer collate select :menuselection:`On` from "
+"the :guilabel:`Collate` drop down menu. To print color as gray check the "
+":guilabel:`Print Color as Gray` checkbox."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.19/Printers.rst:34
+msgid ""
+"To see what options each jobs has for each printer use the :guilabel:`Job"
+" Options` tab. To change how many copies to have by default "
+":guilabel:`Copies` field."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.19/Printers.rst:36
+msgid "To close Printers press :kbd:`Control+Q`."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.19/Printers.rst:40
+msgid "Version"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.19/Printers.rst:41
+msgid "Lubuntu ships with version 1.5.11 of Printers."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.19/Printers.rst:44
+msgid "How to Launch"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.19/Printers.rst:45
+msgid ""
+"To launch Printers from the menu :menuselection:`Preferences --> "
 "Printers` or run"
 msgstr ""
 
-#: ../../source/3/3.2/3.2.19/Printers.rst:28
-msgid "from the command line."
+#: ../../source/3/3.2/3.2.19/Printers.rst:51
+msgid "from the command line. The icon for Printers looks like a printer."
 msgstr ""
+
+#~ msgid ""
+#~ "Pritners allows you to configure your"
+#~ " printer and show your print queue."
+#~ msgstr ""
+
+#~ msgid "Useage"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To view your print queue right "
+#~ "click on the printer and right "
+#~ "click view print queue or with the"
+#~ " printer slected press :kbd:`Control+F` or"
+#~ " :menuselection:`Printer --> View Print "
+#~ "Queue` and if a job is held "
+#~ "you can restart it. To view the"
+#~ " properties of printer or make "
+#~ "changes with :menuselection:`Printer --> "
+#~ "Properties`."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you want to delete a printer"
+#~ " :menuselection:`Printer --> Delete` after "
+#~ "left clicking on the printer will "
+#~ "delete the printer after you left "
+#~ "click on it and you will be "
+#~ "asked to confirm so you do not "
+#~ "accidently delete your printer."
+#~ msgstr ""
+
+#~ msgid "Screenshot"
+#~ msgstr ""
+
+#~ msgid "Lubuntu ships with version 1.5.11 of printers."
+#~ msgstr ""
+
+#~ msgid "How to launch"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To launch printers from the menu "
+#~ ":menuselection:`Preferences --> Printers` or "
+#~ "run"
+#~ msgstr ""
+
+#~ msgid "from the command line."
+#~ msgstr ""
 

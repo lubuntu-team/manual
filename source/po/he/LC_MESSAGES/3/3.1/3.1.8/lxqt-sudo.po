@@ -10,14 +10,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-12 14:08-0600\n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #: ../../source/3/3.1/3.1.8/lxqt-sudo.rst:2
 msgid "Chapter 3.1.8 LXQt sudo"
@@ -25,12 +25,12 @@ msgstr ""
 
 #: ../../source/3/3.1/3.1.8/lxqt-sudo.rst:4
 msgid ""
-"LXQt-sudo is a way to launch graphical applications with adminsitrative "
-"privileges."
+"LXQt-sudo is the default way to launch graphical applications with "
+"administrative privileges on Lubuntu."
 msgstr ""
 
 #: ../../source/3/3.1/3.1.8/lxqt-sudo.rst:7
-msgid "Useage"
+msgid "Usage"
 msgstr ""
 
 #: ../../source/3/3.1/3.1.8/lxqt-sudo.rst:8
@@ -47,8 +47,13 @@ msgstr ""
 #: ../../source/3/3.1/3.1.8/lxqt-sudo.rst:14
 msgid ""
 "To use lxqt-sudo is important to not change your config files as if you "
-"did with sudo. You will need adminstrative privileges to edit config "
-"files but make sure you know what you are doing."
+"did with sudo. You will need administrative privileges to edit config "
+"files but make sure you know what you are doing. To actually use LXQt "
+"sudo you will need to type your password into the :guilabel:`Password` "
+"field and then press the :guilabel:`OK` button. To not run your command "
+"as root if you decide against it press the :guilabel:`Cancel` button. To "
+"copy the command you are running as root press the button with two sheets"
+" of paper."
 msgstr ""
 
 #: ../../source/3/3.1/3.1.8/lxqt-sudo.rst:17
@@ -56,7 +61,7 @@ msgid "Version"
 msgstr ""
 
 #: ../../source/3/3.1/3.1.8/lxqt-sudo.rst:18
-msgid "Lubuntu ships with 0.13.0 of lxqt-sudo."
+msgid "Lubuntu ships with 0.15.0 of lXQt-sudo."
 msgstr ""
 
 #: ../../source/3/3.1/3.1.8/lxqt-sudo.rst:21
@@ -69,15 +74,50 @@ msgstr ""
 
 #: ../../source/3/3.1/3.1.8/lxqt-sudo.rst:27
 msgid ""
-"To launch lxqt-sudo from the command line to run featherpad with "
+"To launch LXQt-sudo from the command line to run Featherpad with "
 "administrative privileges use"
 msgstr ""
 
 #: ../../source/3/3.1/3.1.8/lxqt-sudo.rst:33
-msgid "You can also run lxqt-sudo from the runner for example type in"
+msgid "You can also run LXQt-sudo from the runner for example type in"
 msgstr ""
 
 #: ../../source/3/3.1/3.1.8/lxqt-sudo.rst:39
-msgid "into the runner to do it this way without opening a terminal."
+msgid ""
+"into the runner to launch PCManFM-Qt with administrative privileges "
+"without opening a terminal."
 msgstr ""
+
+#~ msgid ""
+#~ "LXQt-sudo is a way to launch "
+#~ "graphical applications with adminsitrative "
+#~ "privileges."
+#~ msgstr ""
+
+#~ msgid "Useage"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To use lxqt-sudo is important to"
+#~ " not change your config files as "
+#~ "if you did with sudo. You will "
+#~ "need adminstrative privileges to edit "
+#~ "config files but make sure you "
+#~ "know what you are doing."
+#~ msgstr ""
+
+#~ msgid "Lubuntu ships with 0.13.0 of lxqt-sudo."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To launch lxqt-sudo from the "
+#~ "command line to run featherpad with "
+#~ "administrative privileges use"
+#~ msgstr ""
+
+#~ msgid "You can also run lxqt-sudo from the runner for example type in"
+#~ msgstr ""
+
+#~ msgid "into the runner to do it this way without opening a terminal."
+#~ msgstr ""
 

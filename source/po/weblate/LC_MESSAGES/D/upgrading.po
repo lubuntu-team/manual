@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2020, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 20.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../source/D/upgrading.rst:3
+msgid "Appendix D Upgrading from previous releases"
+msgstr ""
+
+#: ../../source/D/upgrading.rst:5
+msgid ""
+"With every release upgrade comes many changes across the entire landscape"
+" of packages. Naturally, an extremely large change like this can cause "
+"problems, so **we strongly recommend you back up your files**. Also, if "
+"your computer runs on a battery (such as a laptop), please ensure that "
+"the power is connected, as it may take a while and unexpected power "
+"failures could be disastrous. Also keep in mind upgrading from a previous"
+" release will download will take time and data."
+msgstr ""
+
+#: ../../source/D/upgrading.rst:7
+msgid ""
+"This way of upgrading involves the command line and is also useful for "
+"server upgrades. Unfortunately with main Ubuntu and Lubuntu dropping "
+"32-bit upgrades, 32-bit upgrades after Lubuntu 18.04 are not supported."
+msgstr ""
+
+#: ../../source/D/upgrading.rst:11
+msgid ""
+"Upgrading will keep all of your files in your home folder and "
+"configuration files intact however this will mean some changes to default"
+" keybindings for example will still be the same as when you installed but"
+" will keep all of your customizations different from reinstalling from an"
+" iso again."
+msgstr ""
+
+#: ../../source/D/upgrading.rst:14
+msgid "Upgrading with command line"
+msgstr ""
+
+#: ../../source/D/upgrading.rst:15
+msgid ""
+"The first step will be to ensure your system is up to date. This can be "
+"done by entering the following command into the terminal. If prompted, "
+"enter your password."
+msgstr ""
+
+#: ../../source/D/upgrading.rst:23
+msgid ""
+"Once the software upgrade has completed, you need to restart your PC. "
+"This can be done in a number of ways however, the following command is "
+"the simplest."
+msgstr ""
+
+#: ../../source/D/upgrading.rst:29
+msgid ""
+"The next thing you want to do is do the release upgrade command. do-"
+"release-upgrade is the command line tool for upgrading Lubuntu "
+"installations. To run it, you need root privileges, which, from the "
+"command line means prefixing the command with sudo. Upgrades to a new "
+"operating system version can sometimes cause problems; so **always backup"
+" your files beforehand**."
+msgstr ""
+
+#: ../../source/D/upgrading.rst:35
+msgid ""
+"You may be prompted \"No new release found\", if so follow this step, "
+"else skip it. Go into software sources by :menuselection:`Preferences -->"
+" Software Sources` and on the :guilabel:`Updates` tab change "
+":guilabel:`Show new distribution releases` and select "
+":menuselection:`Normal Releases`."
+msgstr ""
+
+#: ../../source/D/upgrading.rst:37
+msgid ""
+"After the installation, reboot into the newly upgraded system and log in "
+"and enjoy your upgraded release of Lubuntu."
+msgstr ""
+

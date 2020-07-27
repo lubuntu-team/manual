@@ -10,14 +10,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-12 14:08-0600\n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #: ../../source/5/5.4/window_management.rst:2
 msgid "Chapter 5.4 Window Management"
@@ -27,8 +27,8 @@ msgstr ""
 msgid ""
 "Window are the area which contains the graphical user interface that we "
 "interact with programs. In Lubuntu these windows can typically be opened,"
-" closed, resized and minimized. Underneath Lubuntu uses Openbox as "
-"default a window manager."
+" closed, resized, and minimized. Underneath Lubuntu uses Openbox as a "
+"default window manager."
 msgstr ""
 
 #: ../../source/5/5.4/window_management.rst:7
@@ -37,77 +37,122 @@ msgstr ""
 
 #: ../../source/5/5.4/window_management.rst:8
 msgid ""
-"In the top-right corner of a windows a few commands allow you basic "
+"In the top-right corner of a window three buttons allow you basic "
 "controls of the window. Starting from left to right"
 msgstr ""
 
 #: ../../source/5/5.4/window_management.rst:10
 msgid ""
-"Iconify (-) hides/minimizes the window making it only appear on the task "
-"bar of the Panel. It can be recalled by clicking on the application on "
-"the task bar, or cycling through open windows with :kbd:`ALT + Tab`"
+"Iconify :guilabel:`-` hides/minimizes the window making it only appear on"
+" the task bar of the Panel. It can be recalled by clicking on the "
+"application on the task bar, or cycling through open windows with "
+":kbd:`ALT + Tab`. Another way to Iconify is to middle click on the "
+"tittlebar."
 msgstr ""
 
 #: ../../source/5/5.4/window_management.rst:11
-msgid "Maximize reshapes the window to fix the entire screen."
+msgid "Maximize resizes the window to fill the entire screen."
 msgstr ""
 
 #: ../../source/5/5.4/window_management.rst:12
-msgid "Close (x) attempts to end the window and probably the program."
+msgid ""
+"Close circled :guilabel:`x` attempts to close the window unless a dialog "
+"asks for to save or the program is not responding."
 msgstr ""
 
 #: ../../source/5/5.4/window_management.rst:16
+msgid "In the top center is the title of your window."
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:18
 msgid ""
 "The window can be moved by by clicking on the title-bar and dragging the "
+"mouse or from the menu on the titlebar select :menuselection:`Move`. "
+"Windows can be minimized by middle clicking on the titlebar with the "
 "mouse. You can resize the window by grabbing the border (sides or corners"
-" which should be highlighted in blue) and dragging."
+" which should be highlighted in blue) and dragging or from the menu on "
+"the titlebar select :menuselection:`Resize`."
 msgstr ""
 
-#: ../../source/5/5.4/window_management.rst:19
+#: ../../source/5/5.4/window_management.rst:20
 msgid ""
-"Right clicking on the title bar or left clicking on the icon located at "
-"the top-left of the window  brings the window management menu. Here you "
-"can: -   Using Send to desktop, send the window to a virtual desktop of "
-"your choice -   Using Layer option allows you to set  whether this "
-"windows is always on top, etc. -   If you want to move something to "
-"always show to bottom or you can move it back to normal. -   The earlier "
-"mentioned Iconify, Maximize, Close, and Resize option are also available "
-"here. -   Roll up/down rolls the window into the title-bar. -   "
-"Decorate/Undecorate hides them title-bar. -   Resize lets you use the "
-"change the size of a window."
+"Right clicking on the title bar, pressing :kbd:`Alt+Space`, or left "
+"clicking on the icon in the top-left corner of the window brings the "
+"window management menu. Here you can:"
 msgstr ""
 
-#: ../../source/5/5.4/window_management.rst:29
-msgid "Useful keyboard shortcuts"
+#: ../../source/5/5.4/window_management.rst:22
+msgid ""
+"Using :menuselection:`Send to desktop`, send the window to a virtual "
+"desktop of your choice or All Desktops"
 msgstr ""
 
-#: ../../source/5/5.4/window_management.rst:30
-msgid "Closing a window :kbd:`Alt + F4`"
+#: ../../source/5/5.4/window_management.rst:23
+msgid ""
+"Using :menuselection:`Layer` option allows you to set  whether this "
+"windows the layer to :menuselection:`Always on top`, "
+":menuselection:`Normal`, or :menuselection:`Always on bottom`"
 msgstr ""
 
-#: ../../source/5/5.4/window_management.rst:31
-msgid "Switching through windows :kbd:`Hold Alt + hit Tab`"
+#: ../../source/5/5.4/window_management.rst:24
+msgid ""
+"If you want to move something Always on bottom or Always on top you can "
+"move it back to :menuselection:`Normal`."
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:25
+msgid ""
+"The earlier mentioned :menuselection:`Iconify`, "
+":menuselection:`Maximize`, and :menuselection:`Close`  options are also "
+"available here."
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:26
+msgid ":menuselection:`Roll up/down` rolls the window into the title-bar."
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:27
+msgid ""
+":menuselection:`Un/Decorate` hides them title-bar. If you want to get "
+"decorations back press :kbd:`Alt+Space` and then select "
+":menuselection:`Decorate` from the menu."
 msgstr ""
 
 #: ../../source/5/5.4/window_management.rst:32
+msgid "Useful keyboard shortcuts"
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:33
+msgid "Closing a window :kbd:`Alt + F4`"
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:34
+msgid "Switching through windows :kbd:`Hold Alt + hit Tab`"
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:35
 msgid ""
 "To switch between tabs in the reverse direction :kbd:`Hold Alt + "
 "Shift+Tab`"
 msgstr ""
 
-#: ../../source/5/5.4/window_management.rst:33
-msgid "Resizing windows, :kbd:`Super (windows key) + directional arrows`."
-msgstr ""
-
-#: ../../source/5/5.4/window_management.rst:34
-msgid "Show desktop with :kbd:`Control + Alt + D`."
+#: ../../source/5/5.4/window_management.rst:36
+msgid ""
+"To open the menu normally on the left hand top corner press "
+":kbd:`Alt+Space`."
 msgstr ""
 
 #: ../../source/5/5.4/window_management.rst:37
+msgid ""
+"To make a window fullscreen press :kbd:`F11` and then press :kbd:`F11` "
+"again to make it not fullscreen."
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:40
 msgid "Virtual Desktop Switching"
 msgstr ""
 
-#: ../../source/5/5.4/window_management.rst:38
+#: ../../source/5/5.4/window_management.rst:41
 msgid ""
 "To switch to the next virtual desktop press :kbd:`Control +Alt + Right "
 "arrow`. To shift to the previous virtual desktop press :kbd:`Control+ Alt"
@@ -115,8 +160,18 @@ msgid ""
 " :kbd:`Alt+ Mousewheel`."
 msgstr ""
 
-#: ../../source/5/5.4/window_management.rst:41
-msgid "Screenshots"
+#: ../../source/5/5.4/window_management.rst:44
+msgid "Moving windows between monitors"
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:45
+msgid ""
+"If you have extended multiple monitor setup with multiple windows you can"
+" move a window to the monitor by dragging the window through the titlebar"
+" past the edge of the monitor towards the monitor you want to move it to."
+" Also you can say make a video take up one monitor and making the video "
+"fullscreen takes one whole monitor while you can do anything else you "
+"want with your second monitor."
 msgstr ""
 
 #~ msgid ""
@@ -186,5 +241,79 @@ msgstr ""
 #~ "shortcuts use the Super Key and "
 #~ "press an arrow key to snap the "
 #~ "window to that side of the screen."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Window are the area which contains "
+#~ "the graphical user interface that we "
+#~ "interact with programs. In Lubuntu these"
+#~ " windows can typically be opened, "
+#~ "closed, resized and minimized. Underneath "
+#~ "Lubuntu uses Openbox as default a "
+#~ "window manager."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In the top-right corner of a "
+#~ "windows a few commands allow you "
+#~ "basic controls of the window. Starting"
+#~ " from left to right"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Iconify (-) hides/minimizes the window "
+#~ "making it only appear on the task"
+#~ " bar of the Panel. It can be"
+#~ " recalled by clicking on the "
+#~ "application on the task bar, or "
+#~ "cycling through open windows with "
+#~ ":kbd:`ALT + Tab`"
+#~ msgstr ""
+
+#~ msgid "Maximize reshapes the window to fix the entire screen."
+#~ msgstr ""
+
+#~ msgid "Close (x) attempts to end the window and probably the program."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The window can be moved by by "
+#~ "clicking on the title-bar and "
+#~ "dragging the mouse. You can resize "
+#~ "the window by grabbing the border "
+#~ "(sides or corners which should be "
+#~ "highlighted in blue) and dragging."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Right clicking on the title bar or"
+#~ " left clicking on the icon located"
+#~ " at the top-left of the window"
+#~ "  brings the window management menu. "
+#~ "Here you can: -   Using Send to"
+#~ " desktop, send the window to a "
+#~ "virtual desktop of your choice -   "
+#~ "Using Layer option allows you to "
+#~ "set  whether this windows is always "
+#~ "on top, etc. -   If you want "
+#~ "to move something to always show "
+#~ "to bottom or you can move it "
+#~ "back to normal. -   The earlier "
+#~ "mentioned Iconify, Maximize, Close, and "
+#~ "Resize option are also available here."
+#~ " -   Roll up/down rolls the window"
+#~ " into the title-bar. -   "
+#~ "Decorate/Undecorate hides them title-bar. "
+#~ "-   Resize lets you use the change"
+#~ " the size of a window."
+#~ msgstr ""
+
+#~ msgid "Resizing windows, :kbd:`Super (windows key) + directional arrows`."
+#~ msgstr ""
+
+#~ msgid "Show desktop with :kbd:`Control + Alt + D`."
+#~ msgstr ""
+
+#~ msgid "Screenshots"
 #~ msgstr ""
 

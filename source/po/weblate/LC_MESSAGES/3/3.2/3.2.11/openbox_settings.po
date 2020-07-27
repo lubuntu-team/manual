@@ -1,0 +1,178 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2020, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 20.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:2
+msgid "Chapter 3.2.11 Openbox Settings"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:4
+msgid ""
+"Openbox Settings changes configuration of openbox the default window "
+"manager of Lubuntu."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:7
+msgid "Usage"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:8
+msgid ""
+"The :guilabel:`Theme` tab changes the titlebars and menus provided by the"
+" window manager. To change the theme of the titlebar left click on the "
+"theme name. The new titlebars will immediately appear and you will see it"
+" on that window. If you want to check what menus to manage windows will "
+"look like click on the icon on the left of the titlebar."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:12
+msgid ""
+"The :guilabel:`Appearance` tab lets you change the location of buttons or"
+" add/remove buttons. Lubuntu ships with the ability to have two "
+"additional buttons on the titlebar one for shading or rolling up with the"
+" window so you can put this in the left to right order of the letters "
+"where you want the button. To make a window show on all desktop you can "
+"add D button in box for the :guilabel:`Button order`. If you want to "
+"change the window titlebar button order to have the iconifiy (minimize), "
+"maximize, and close buttons on the left then move the letters IMC to the "
+"left of L for window label or the title of the window. If you want to "
+"have the close maximize and iconify buttons first the box labeled window "
+"titles should read CMI  Then L for the window label which will always be "
+"in the center. If you wanted the buttons on the right with Close, "
+"Maximize, Iconify, the window title, then shade the window, and all "
+"desktops and the window icon in the far right it should read CMILSDN."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:14
+msgid ""
+"The :guilabel:`Windows retain a border when undecorated` checkbox has "
+"windows still have a border if you choose to decorate them. The "
+":guilabel:`Animate iconify and restore` checkbox runs a simple animation "
+"when you iconify(minimize) a window or restore it."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:18
+msgid ""
+"The :guilabel:`Font` tab changes the font and font sizes for several "
+"different contexts. To change the style of the font you can under the  "
+":guilabel:`Inactive window title` field. For example if you have trouble "
+"telling which window you are in you can make the font italic for the "
+"titlebars of inactive windows to make it even more obvious. Other fonts "
+"you can change are :guilabel:`Active Window title`, :guilabel:`Menu "
+"header`, :guilabel:`Menu Item`, :guilabel:`Active On-screen display`, or "
+":guilabel:`Inactive On-screen display`."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:22
+msgid ""
+"The :guilabel:`Windows` tab manages the behavior of newly opened windows."
+" The :guilabel:`Focus new windows when they appear` checkbox gives new "
+"windows focus when they finish opening and then be the active window as "
+"if you clicked on the icon on the taskbar. The :guilabel:`Place new "
+"Windows under the mouse pointer` puts all your new windows you open under"
+" the mouse pointer. The :guilabel:`Center new windows when they are "
+"placed` puts the new windows in the center of the monitor. The drop down "
+"menu for :guilabel:`Prefer to place new windows on` shows you where to "
+"place new windows on multimonitor layouts."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:26
+msgid ""
+"The :guilabel:`Move & Resize` tab changes settings for moving and "
+"resizing windows. The checkbox :guilabel:`Update window contents while "
+"resizing` redraws the whole window when resizing it. Having it unchecked "
+"will have a drawn solid color until you stop resizing it. The "
+":guilabel:`Drag threshold distance` changes the minimum number of pixels "
+"to drag a window. The :guilabel:`Switch desktops when moving a window "
+"past the edge of a the screen` lets you drag a window past the edge to "
+"switch desktops. The field for :guilabel:`Amount of time to wait before "
+"switching` lets you change the amount of time to wait before moving "
+"beyond the edge of the desktop to another virtual desktop or physical "
+"monitor. The drop down menu for :guilabel:`Show information dialog` shows"
+" how you how many characters fit on the newly resized window for always, "
+"terminal windows only, or never. The field for :guilabel:`Information "
+"dialog's position` is where to show this information dialog."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:30
+msgid ""
+"The :guilabel:`Mouse` tab use the focus follow mouse tab is if you move "
+"the mouse over the window it will automatically focus on that window. To "
+"automatically focus windows when the mouse cursor when the mouse pointer "
+"check the :guilabel:`Focus windows when the mouse pointer moves over "
+"them`. To change your focus to a new window check/uncheck the checkbox "
+":guilabel:`Move focus under the mouse when switching desktops`. If you "
+"move a window with a keyboard shortcut and a different window is under it"
+" check the :guilabel:`Move focus under the mouse when the mouse is not "
+"moving` checkbox. The checkbox :guilabel:`Raise windows when the mouse "
+"pointer moves over them` moves the window up in the layers.  The "
+":guilabel:`Double click on the titlebar` drop down of double clicking on "
+"the titlebar what option of to shade or maximize the window or custom "
+"actions which Lubuntu has set to maximize."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:34
+msgid ""
+"On the :guilabel:`Desktops` tab to change number of desktops press the up"
+" arrow to add an additional desktop or the down arrow to reduce the "
+"number of virtual desktops. When switching desktops there is  a checkbox "
+"to show a notification and a field for how many milliseconds to show that"
+" notification for. If you want to rename a desktop double click on the "
+"desktop name and type the name of the desktop you want."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:38
+msgid ""
+"To make a margin on your desktop on which nothing is placed you can set "
+"pixel margins on each side with the :guilabel:`Margins` tab. The fields "
+":guilabel:`Left`, :guilabel:`Top`, :guilabel:`Right`, or "
+":guilabel:`Bottom` each have a field for each number of pixels as a "
+"margin."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:42
+msgid ""
+"To close Openbox Settings press the :kbd:`Escape` key or press the "
+":guilabel:`Close` button."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:45
+msgid "Version"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:46
+msgid "Lubuntu ships with version 0.15.0 of Openbox Settings."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:49
+msgid "How to Launch"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:51
+msgid ""
+"To launch Openbox Settings from the menu :menuselection:`Preferences --> "
+"LXQt settings --> Openbox Settings`. From LXQt settings press the Openbox"
+" Settings button with two computer windows or run"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.11/openbox_settings.rst:57
+msgid "from the command line."
+msgstr ""
+

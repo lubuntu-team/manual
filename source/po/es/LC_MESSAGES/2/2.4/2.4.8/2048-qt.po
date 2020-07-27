@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-12 14:08-0600\n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
 "PO-Revision-Date: 2019-01-02 03:03+0000\n"
 "Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
 "Language: es\n"
@@ -19,37 +19,43 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #: ../../source/2/2.4/2.4.8/2048-qt.rst:2
-msgid "Chapter 2.4.8 2048-qt"
+#, fuzzy
+msgid "Chapter 2.4.8 2048-Qt"
 msgstr "Capítulo 2.4.8 2048-qt"
 
 #: ../../source/2/2.4/2.4.8/2048-qt.rst:4
-msgid "2048 is a fun simple lightweight game included by default."
+#, fuzzy
+msgid "2048 is a fun simple lightweight game included in Lubuntu by default."
 msgstr "2048 es un juego liviano simple y divertido incluido por defecto."
 
 #: ../../source/2/2.4/2.4.8/2048-qt.rst:7
-msgid "Useage"
+#, fuzzy
+msgid "Usage"
 msgstr "Uso"
 
 #: ../../source/2/2.4/2.4.8/2048-qt.rst:8
 msgid ""
 "To play 2048-qt you use the arrows keys to combine blocks with the same "
 "number on them without having no possible moves at which point the game "
-"is over. As you combine numbers your score increases by the sum of the "
-"new block(s) you make and is shown towards the upper right hand corner of"
-" the window. Your :guilabel:`high score` is the best you have done at "
-"this game and is also shown towards the upper right hand corner. To the "
-"left of you high score is your :guilabel:`score` with the number of your "
-"current score."
+"is over. As you move the blocks all the blocks in the game move in the "
+"direction of the arrow key your press. As you combine numbers your score "
+"increases by the sum of the block(s) you combine and is shown towards the"
+" upper right hand corner of the window. After each move a new block "
+"appears. In the upper right handd conrer is your :guilabel:`BEST` score "
+"in the game. To the left of you high score is your :guilabel:`SCORE` with"
+" the number of your current score. When your score increases you will see"
+" a :guilabel:`+x` where x is the number your score increases by."
 msgstr ""
 
 #: ../../source/2/2.4/2.4.8/2048-qt.rst:10
 msgid ""
 "If midway you want to restart to a new game press the :guilabel:`New "
-"Game` button on the right hand side or :menuselection:`File --> New "
-"Game`."
+"Game` button on the right hand side or :menuselection:`File --> New Game`"
+" or press :kbd:`Control+N`.  If you want to close 2048-Qt from the "
+"keyboard press :kbd:`Control+Q`."
 msgstr ""
 
 #: ../../source/2/2.4/2.4.8/2048-qt.rst:13
@@ -61,19 +67,25 @@ msgid "Version"
 msgstr "Versión"
 
 #: ../../source/2/2.4/2.4.8/2048-qt.rst:18
+msgid "Lubuntu ships with version 0.1.6 of 2048-Qt."
+msgstr ""
+
+#: ../../source/2/2.4/2.4.8/2048-qt.rst:21
+msgid "How to Launch"
+msgstr ""
+
+#: ../../source/2/2.4/2.4.8/2048-qt.rst:22
 #, fuzzy
-msgid ""
-"Lubuntu ships with version 0.1.6 of 2048-Qt. How to launch ------------- "
-"To launch 2048-qt go to the menu :menuselection:`games -> 2048-qt` or run"
+msgid "To launch 2048-Qt go to the menu :menuselection:`Games -> 2048-Qt` or run"
 msgstr ""
 "Lubuntu incluye la version 0.1.6 de 2048-Qt. Para iniciar 2048-Qt desde "
 "el menú vaya a Juegos -> 2048-Qt o ejecute 2048-qt desde la línea de "
 "comandos."
 
-#: ../../source/2/2.4/2.4.8/2048-qt.rst:27
+#: ../../source/2/2.4/2.4.8/2048-qt.rst:28
 msgid ""
-"from the commanmd-line. The icon looks like a green square with 2048 in "
-"white text."
+"from the command line. The icon for 2048-Qt looks like a green square "
+"with 2048 written in white text."
 msgstr ""
 
 #~ msgid ""
@@ -84,4 +96,37 @@ msgstr ""
 #~ "Para jugar 2048-qt debes usar las "
 #~ "teclas de flechas para combinar bloques"
 #~ " con el mismo número."
+
+#~ msgid ""
+#~ "To play 2048-qt you use the arrows"
+#~ " keys to combine blocks with the "
+#~ "same number on them without having "
+#~ "no possible moves at which point "
+#~ "the game is over. As you combine"
+#~ " numbers your score increases by the"
+#~ " sum of the new block(s) you "
+#~ "make and is shown towards the "
+#~ "upper right hand corner of the "
+#~ "window. Your :guilabel:`high score` is "
+#~ "the best you have done at this "
+#~ "game and is also shown towards the"
+#~ " upper right hand corner. To the "
+#~ "left of you high score is your "
+#~ ":guilabel:`score` with the number of "
+#~ "your current score."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If midway you want to restart to"
+#~ " a new game press the :guilabel:`New"
+#~ " Game` button on the right hand "
+#~ "side or :menuselection:`File --> New "
+#~ "Game`."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "from the commanmd-line. The icon "
+#~ "looks like a green square with "
+#~ "2048 in white text."
+#~ msgstr ""
 

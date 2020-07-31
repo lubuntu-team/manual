@@ -45,7 +45,7 @@ To launch nobleNote go to the menu :menuselection:`Accessories --> nobleNote` or
    
    noblenote 
    
-on the commandline. The icon for nobleNote looks like a yellow pad of paper with a pencil.
+on the commandline. The icon for nobleNote looks like a yellow pad of paper with a black lines.
 
 Customizing
 ------------

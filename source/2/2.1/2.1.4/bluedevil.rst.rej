@@ -1,0 +1,57 @@
+diff a/source/2/2.1/2.1.4/bluedevil.rst b/source/2/2.1/2.1.4/bluedevil.rst	(rejected hunks)
+@@ -29,6 +29,55 @@
+ 
+ .. image:: bluedevil-sendfile.png
+ 
++Shortcomings
++------------
++
++While Bluedevil can handle most basic operations, some tasks need to be completed via the command line. Here are some common tasks:
++
++Listing Paired Devices
++^^^^^^^^^^^^^^^^^^^^^^
++
++You can list the devices that are already paired by running the following:
++
++.. code::
++
++  $ bt-device -l
++  Added devices:
++  FOO BAR (00:11:22:33:44:55)
++
++Connect to Paired Device Manually
++^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
++
++To connect to `FOO BAR`, you would run:
++
++.. code::
++
++  $ bluetoothctl connect 00:11:22:33:44:55
++  Attempting to connect to 00:11:22:33:44:55
++  [CHG] Device 00:11:22:33:44:55 Connected: yes
++  Connection successful
++
++Disconnect From Paired Device Manually
++^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
++
++To disconnect from `FOO BAR`, you would run:
++
++.. code::
++
++  $ bluetoothctl disconnect 00:11:22:33:44:55
++  Attempting to disconnect from 00:11:22:33:44:55
++  [CHG] Device 00:11:22:33:44:55 ServicesResolved: no
++  Successful disconnected
++
++More Commands
++^^^^^^^^^^^^^
++
++Running the following will give you many more options for configuration via the command line:
++
++.. code::
++
++  $ bluetoothctl -h
++
+ Version
+ -------
+ Lubuntu ships with version 5.19.3 of Bluedevil.

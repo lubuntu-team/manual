@@ -22,6 +22,9 @@ In the upper right corner of discover you can have a :guilabel:`Sort` category t
 
 To get to your settings on what software to use install use the :guilabel:`Settings` tab. To remove a source such as a PPA click the hidden red :guilabel:`X` button on the right hand side of to remove it. To toggle enabling or disabling a software source check or uncheck the checkbox next to that software source.
 
+.. image:: discover-settings.png
+
+
 Screenshot
 ----------
 

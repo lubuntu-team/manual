@@ -73,7 +73,7 @@ To turn off searching in the menu uncheck the :guilabel:`Filter menu entries` an
 
 .. image:: menu-pref.png 
 
-To customize the desktop switcher right click on the desktop switcher :menuselection:`Configure Desktop Switcher` or press the :guilabel:`Gear` button. To change the number of rows on your desktop change the :guilabel:`Number of rows` field. To change how desktops are labeled change the :guilabel:`Desktop Labels` field. To only show desktops with an open window check the :guilabel:`Show only active desktop` checkbox. To change the name of each desktop enter a name under :guilabel:`Desktop Names`. 
+To customize the desktop switcher right click on the desktop switcher :menuselection:`Configure Desktop Switcher` or press the :guilabel:`Gear` button. To change the number of rows on your desktop change the :guilabel:`Number of rows` field. To change how desktops are labeled change the :guilabel:`Desktop Labels` field. To only show the current desktop check the :guilabel:`Show only active desktop` checkbox. To change the name of each desktop enter a name under :guilabel:`Desktop Names`. 
 
 .. image:: desktop-switch.png 
 

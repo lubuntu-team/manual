@@ -63,4 +63,4 @@ To launch Trojita from the menu :menuselection:`Internet --> Trojita` or run
 
    trojita 
  
-from the command line. The icon for Trojita looks like an envelope.
+from the command line. The icon for Trojita looks like an envelope with a blue piece of paper.

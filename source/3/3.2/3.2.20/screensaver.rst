@@ -34,4 +34,4 @@ To launch Screensaver from the menu :menuselection:`Preferences --> Screensaver`
 
    xscreensaver-demo
 
-from the command line. The icon for Screensaveer looks like a blue rectangluar computer monitor with a darker blue background.
+from the command line. The icon for Screensaveer looks like purple night picture of the sky at night.

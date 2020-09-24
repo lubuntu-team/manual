@@ -37,7 +37,7 @@ To launch qps go to the menu :menuselection:`System Tools --> qps` or run
 
    qps 
    
-from the command line. The icon for qps looks like a green graph with a black background.
+from the command line. The icon for qps looks like a green line graph with a black background.
 
 Customizing
 ------------

@@ -11,7 +11,7 @@ To sort your processes by memory click on the :guilabel:`MEM` tab. To have your 
 
 To change your process view to each process gets its own line or linear select the :guilabel:`Linear` radio button in the upper left hand corner. To organize each related process with a tree for parent and child processes press the :guilabel:`Tree` radio button. To search for a particular process enter a search term in the bar towards the center top of the user interface. To group processes based on what thread they are in check the :guilabel:`Thread` checkbox.
 
-At the bottom of the window :guilabel:`Process count` to see how many process are running on your system.
+At the bottom of the window :guilabel:`Process count` shows how many processes are running on your system.
 
 When you have qps open a tray icon will appear that shows a graph of CPU usage. If you right click :menuselection:`Hide` to make qps not show in the taskbar. To bring qps back to the front off all windows right click on the tray icon :menuselection:`Show`. To quit qps press :kbd:`Alt +Q` or right click the tray icon and select :menuselection:`Quit`.
 

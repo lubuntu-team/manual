@@ -1,7 +1,7 @@
 Chapter 3.1.9 SDDM configuration
 ================================
 
-Sddm is the default display manager that shows up when you first log in to Lubuntu or logout or choose to another session. There is no graphical application to do this currently. 
+SDDM is the default display manager that shows up when you first log in to Lubuntu or logout or choose to another session. There is no graphical application to do this currently. 
 
 Usage
 ------
@@ -13,7 +13,7 @@ If you have autologin enabled and want to disable autologin open the file /etc/s
 
 and open /etc/sddm.conf. Then to disable autologin remove the entire line [autologin]. 
 
-To test your sddm configuration and make sure it is a valid one so you can log in run 
+To test your SDDM configuration and make sure it is a valid one so you can log in run 
 
 .. code:: 
    

@@ -11,7 +11,7 @@ If you have autologin enabled and want to disable autologin open the file /etc/s
 
    lxqt-sudo featherpad
 
-and open /etc/sddm.conf. Then to disable autologin remove the entire line [autologin]. 
+and open /etc/sddm.conf. Then to disable autologin remove the entire line [Autologin]. 
 
 To test your SDDM configuration and make sure it is a valid one so you can log in run 
 

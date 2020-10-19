@@ -1,4 +1,4 @@
-Chapter 2.3.3 Brightness
+Chapter 3.2.3 Brightness
 ========================
 
 Brightness is the default tool to control your screen brightness. If you are using a laptop turning down your screen brightness can increase battery life by a large amount as well however too dim and the screen will be illegible.

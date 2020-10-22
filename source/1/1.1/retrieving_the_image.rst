@@ -39,10 +39,10 @@ To verify the image, run this from the command line:
 
 .. code:: 
 
- sha256sum lubuntu-20.04-desktop-amd64.iso
+ sha256sum lubuntu-20.10-desktop-amd64.iso
 
-and then carefully check that the output matches cc18a581d2e4d86f3f29ef44c12a0c42b54cde93db9fc5f7c3f10db1aff3fa9a \*lubuntu-20.04-desktop-amd64.iso
-
+and then carefully check that the output matches 
+42882c32c3098888a50a1e54bb42624bfafab8fd3714a8a8cd55d9fc975c84df \*groovy-desktop-amd64.iso
 
 Downloading the image via BitTorrent
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

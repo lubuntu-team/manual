@@ -77,6 +77,6 @@ To download the image using zsync run
  
 .. code::
 
-   zsync http://cdimage.ubuntu.com/lubuntu/releases/focal/release/lubuntu-20.04-desktop-amd64.iso.zsync  
+   zsync http://cdimage.ubuntu.com/lubuntu/releases/groovy/release/lubuntu-20.10-desktop-amd64.iso.zsync  
 
 **You have now downloaded the image successfully. Please continue to Chapter 1.2.**

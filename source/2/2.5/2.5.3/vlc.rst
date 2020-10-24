@@ -65,17 +65,29 @@ To change so that there is not as much difference between quiet and loud which m
 
 .. image:: vlc-compressor.png
 
+The setting for widening the width of a stereo are on the :guilabel:`Stereo Widener` tab. To toggle stereo widening check the :guilabel:`Enable` checkbox.
+
 To change how the audio and video synchronize with the rest of the file use the :guilabel:`Synchronization` tab. To change the synchronization of your audio with the video change the :guilabel:`Audio track synchronization` field to get it to match with your video. To change the synchronization of subtitles use the :guilabel:`Subtitle track synchronization` field. To change how many frames per second your subtitles change at change the :guilabel:`Subtitle speed` field to change how many frames per second on your subtitle.
 
 .. image:: vlc-synchronization.png
 
 To change how the video appears on your screen use the :guilabel:`Video Effects` tab. On the :guilabel:`Essential` sub tab for how your brightness contrast and other things appear. To change your image press the :guilabel:`Image adjust` checkbox. To change the brightness use the :guilabel:`Brightness` slider with to the left being darker and to the right being lighter. However extreme values to the left or right are not that viewable. As such you may want to make small adjustments with the :kbd:`Left arrow` and :kbd:`Right arrow` keys. To change the color of the video use the :guilabel:`Hue` slider. To change the contrast use the :guilabel:`Contrast` slider with the left being lower contrast and the right being higher contrast. To change how saturated your colors are use the :guilabel:`Saturation` slider.
 
+To add a film grain effect check the :guilabel:`Film Grain` checkbox. To adjust how much the film grain varies slide the :guilabel:`Varience` slider.
+
 .. image:: vlc-essential-video-effects.png 
 
 To crop pixels off the margins use the :guilabel:`Crop` subtab. To take a number of pixels off the top use the :guilabel:`Top` field. To take pixels off the left of the screen of the video use the :guilabel:`Left` field. To take pixels off the right side of the screen use the :guilabel:`Right` field. To take pixels off the bottom use the :guilabel:`Bottom` field. To have your top and bottom take the same number of pixels taken off the top and bottom check the :guilabel:`Synchronize top and bottom` checkbox. To take the same number of pixels off your left and right hand side check the :guilabel:`Synchronize left and right` checkbox.
 
 .. image:: vlc-crop.png
+
+To have settings to change the colors showing in vlc use the :guilabel:`Colors` subtab. To entirely invert colors check the :guilabel:`Negative colors` checkbox. To reduce the total number of colors on your video from slight transitions check the :guilabel:`Posterize` checkbox. To enable a sepia tone for the video check the :guilabel:`Sepia` checkbox. To have a close to black and white tone enter a low number in :guilabel:`Intensity`. To have a more sepia tone enter a higher number in :guilabel:`Intensity`.
+
+.. image:: video-effects-colors.png
+
+To zoom or rotate a video use the :guilabel:`Geometry` tab. To choose differnt parts of the video to zoom in on as it plays check the :guilabel:`Interactive Zoom` checkbox. To do simple things like flip or rotate your vidoe first check the :guilabel:`Transform` checkbox. To rotate your video 90 degrees to the right select :menuselection:`Rotate by 90 degrees` under :guilabel:`Transform`. To rotate your video 180 degrees to the right select :guilabel:`Rotate by 180 degrees` under :guilabel:`Transform`. To rotate the video 270 degrees to the right select :menuselection:`Rotate by 270 degrees` under :guilabel:`Transform`. To flip the image horizontally select :menuselection:`Flip horizontally` under :guilabel:`Transform`. To rotate your video by  the number of degrees you want check the :guilabel:`Rotate` checkbox and then select which degree you want to have have the video rotated.
+
+.. image:: video-effects-geometry.png
 
 Customizing
 -----------
@@ -123,7 +135,7 @@ To show your Active extensions use the :guilabel:`Active Extensions tab`. To rel
 
 Version
 -------
-Lubuntu ships with version 3.0.8 of VLC.
+Lubuntu ships with version 3.0.11 of VLC.
 
 How to Launch
 -------------

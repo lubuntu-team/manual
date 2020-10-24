@@ -5,9 +5,11 @@ Desktop is an application to change the desktop background, the appearance of ic
 
 Usage
 ------
-To change the desktop background you can either type the path of the file you can type in :guilabel:`Wallpaper image file` or use the :guilabel:`Browse` to bring up a dialog to choose which the desktop. The drop down of :guilabel:`Wallpaper mode` lets you change how the image you select for a wallpaper changes. If you want an image to have multiple copies of a smaller image select tile image from the drop down. If you do not want an image and just a solid color select fill with background color only. To change the background color if you select that press the button to the right of :guilabel:`Select background color`. 
+The :guilabel:`Background` tab has settings for desktop background. To change the desktop background you can either type the path of the file you can type in :guilabel:`Wallpaper image file` or use the :guilabel:`Browse` to bring up a dialog to choose which the desktop. The drop down of :guilabel:`Wallpaper mode` lets you change how the image you select for a wallpaper changes. If you want an image to have multiple copies of a smaller image select tile image from the drop down. If you do not want an image and just a solid color select fill with background color only. To change the background color if you select that press the button to the right of :guilabel:`Select background color`. To use a different wallpaper on each monitor check the :guilabel:`Individual wallpaper for each monitor`.
 
-The drop down menu for :guilabel:`Icon size` lets you choose a different size of desktop icons you can choose a size that looks good on your screen. The box  :guilabel:`Select text color` brings up a widget to pick the color on desktop icons and files. The field :guilabel:`Select shadow color` changes the shadow on the shadow around the icon. To change the margins change the fields for :guilabel:`Minimum item margins` field for different coordinates. To make the margins always the same number of pixels check the :guilabel:`Lock` checkbox.
+.. image:: desktop-general.png
+
+The :guilabel:`General` tab has settings for text on desktop icons and text colors and icon sizes. The drop down menu for :guilabel:`Icon size` lets you choose a different size of desktop icons you can choose a size that looks good on your screen. The box  :guilabel:`Select text color` brings up a widget to pick the color on desktop icons and files. The field :guilabel:`Select shadow color` changes the shadow on the shadow around the icon. To change the margins change the fields for :guilabel:`Minimum item margins` field for different coordinates. To make the margins always the same number of pixels check the :guilabel:`Lock` checkbox.
 
 .. image:: desktop.png
 
@@ -15,11 +17,13 @@ The box labeled :guilabel:`Select font` lets you choose which font and size info
 
 .. image:: desktop-font.png
 
-The :guilabel:`Slide Show` tab shows settings for slide show of changing your wallpaper automatically like a slide show. The checkbox :guilabel:`Enable Slide Show` enables the slide show that auto changes your wallpaper. The field :guilabel:`Wallpaper image folder` changes the path to find the different pictures for the slideshow or to find a folder press the :guilabel:`Browse` button. To change how long it takes for the slideshow of the desktop background to change change the fields in :guilabel:`Interval` for changing how fast the slideshow changes. To randomize the order of the slide show check the :guilabel:`Randomize the slide show` checkbox. 
+
+The :guilabel:`Slide Show` tab shows settings for slide show of changing your wallpaper automatically like a slide show. The checkbox :guilabel:`Enable Slide Show` enables the slide show that auto changes your wallpaper. The field :guilabel:`Wallpaper image folder` changes the path to find the different pictures for the slideshow or to find a folder press the :guilabel:`Browse` button. To change how long it takes for the slideshow of the desktop background to change change the fields in :guilabel:`Interval` fields for changing how fast the slideshow changes. To randomize the order of the slide show check the :guilabel:`Randomize the slide show` checkbox. 
 
 .. image::  slideshow-desktop.png
 
-The :guilabel:`Advanced` tab has settings for automatic desktop icons or included or to show openbox menus on click the desktop. To show or hide any of the default desktop icons check/uncheck the checkboxes for: :guilabel:`Home`, :guilabel:`Trash`, :guilabel:`Computer`, or :guilabel:`Network`. To show the openbox window manager menus by right clicking on the desktop check the :guilabel:`Show menus provided by window managers when desktop is clicked`.
+The :guilabel:`Advanced` tab has settings for automatic desktop icons or included or to show openbox menus on click the desktop. To show or hide any of the default desktop icons check/uncheck the checkboxes for: :guilabel:`Home`, :guilabel:`Trash`, :guilabel:`Computer`, or :guilabel:`Network`.
+
 
 .. image::   desktop-advanced.png
 
@@ -27,7 +31,7 @@ To quit Desktop press the :kbd:`Escape` key.
 
 Version
 -------
-Lubuntu ships with 0.14.1 of Desktop.
+Lubuntu ships with 0.15.0 of Desktop.
 
 How to Launch
 -------------
@@ -35,6 +39,6 @@ To launch Desktop from the menu :menuselection:`Preferences --> LXQt settings --
 
 .. code:: 
 
-   pcmanfm-qt --desktop-pref=general
+   PCManFM-Qt --desktop-pref=general
   
 from the command line. Another way to launch this is to right click on the desktop :menuselection:`Desktop Preferences`. The desktop icon for Desktop Preferences is a gray rectangle with a small hole missing.

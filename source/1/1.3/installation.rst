@@ -5,11 +5,13 @@ This is a guide through the installation process of Lubuntu.
 Starting the installer
 ----------------------
 
-Once you have booted the Lubuntu image, you will be greeted by a screen with the following options: :menuselection:`Start Lubuntu`, :menuselection:`Start Lubuntu (safe graphics)`, :menuselection:`Check disk for defects`, :menuselection:`Test memory`, and :menuselection:`Boot from first hard disk`. To start the install select :menuselection:`Start Lubuntu`, you will now be booting into a live session. If Lubuntu has trouble with your graphics card you can start the live session with :menuselection:`Start Lubuntu(safe graphics)`. The :menuselection:`Check disk for defects` option offers a way to check integrity of the disk-image once it is burned onto the install media (USB or DVD). Please use this if you have problems installing as it could be bad media. The :menuselection:`Test memory` option tests to make sure your RAM works on your computer. To switch your keyboard layout on the live session press :kbd:`F3` and select your keyboard layout. To bring back up the language selection press :kbd:`F2`.
+
+Once you have booted the Lubuntu image, you will be greeted by a screen with the following options: :menuselection:`Start Lubuntu`, :menuselection:`Start Lubuntu (safe graphics)`, :menuselection:`Check disk for defects`, :menuselection:`Test memory`, and :menuselection:`Boot from first hard disk`. To start the install select :menuselection:`Start Lubuntu`, you will now be booting into a live session. If Lubuntu has trouble with your graphics card you can start the live session with :menuselection:`Start Lubuntu (safe graphics)`. The :menuselection:`Check disk for defects` option offers a way to check integrity of the disk-image once it is burned onto the install media (USB or DVD). Please use this if you have problems installing as it could be bad media. The :menuselection:`Test memory` option tests to make sure your RAM works on your computer. To switch your keyboard layout on the live session press :kbd:`F3` and select your keyboard layout. To bring back up the language selection press :kbd:`F2`.
+
 
 .. image:: boot_installer.png
 
-Once you have booted into the live session, feel free to explore Lubuntu and make sure all your hardware works. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop :guilabel:`Install Lubuntu 20.04`. 
+Once you have booted into the live session, feel free to explore Lubuntu and make sure all your hardware works. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop :guilabel:`Install Lubuntu 20.10`.
 
 .. image:: live_session.png
 

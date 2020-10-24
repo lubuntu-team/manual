@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-12 14:08-0600\n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
 "PO-Revision-Date: 2018-11-21 19:30+0000\n"
 "Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
 "Language: es\n"
@@ -19,44 +19,44 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.8.0\n"
 
-#: ../../source/E/live_session.rst:2
+#: ../../source/E/live_session.rst:3
 msgid "Appendix E Live Session"
 msgstr "Apéndice E Sesión en vivo"
 
-#: ../../source/E/live_session.rst:4
+#: ../../source/E/live_session.rst:5
 #, fuzzy
 msgid ""
 "It is possible to use Lubuntu without installing it. In a live session "
-"your computer is running off a bootable media (USB, CD, or DVD). The "
+"your computer is running off a bootable media (USB or DVD). The live "
 "session can also be used to install Lubuntu."
 msgstr ""
 "Es posible usar Lubuntu sin tener que instalarlo. En una sesión en vivo "
 "su ordenador está corriendo desde un medio de arranque (USB, CD o DVD). "
 "Esta sesión también puede ser usada para instalar Lubuntu."
 
-#: ../../source/E/live_session.rst:10
+#: ../../source/E/live_session.rst:11
 msgid "Reasons for using live session:"
 msgstr ""
 
-#: ../../source/E/live_session.rst:7
+#: ../../source/E/live_session.rst:8
 msgid "Hardware testing and trouble shooting."
 msgstr ""
 
-#: ../../source/E/live_session.rst:8
+#: ../../source/E/live_session.rst:9
 msgid "OS testing."
 msgstr ""
 
-#: ../../source/E/live_session.rst:9
+#: ../../source/E/live_session.rst:10
 msgid "Fixing broken installs."
 msgstr ""
 
-#: ../../source/E/live_session.rst:10
+#: ../../source/E/live_session.rst:11
 msgid "Backing up files"
 msgstr ""
 
-#: ../../source/E/live_session.rst:12
+#: ../../source/E/live_session.rst:13
 #, fuzzy
 msgid ""
 "A good example of when you would use a live session is if your computer "
@@ -64,7 +64,10 @@ msgid ""
 "mount the disk and backup all of your pictures or send an email. If your "
 "hard drive or SSD is no longer working, you can boot a live session and "
 "then order replacement parts. You also can feel free to try different "
-"things out in a live session."
+"things out in a live session and not worry about breaking your install. A"
+" live session is also useful to see if you have misconfigured something "
+"that broke it or confirm that is a problem always without configuration "
+"changes."
 msgstr ""
 "Un buen ejemplo en donde puede usar una sesión en vivo es si su ordenador"
 " se prende pero no arranca, puedes correr la sesión en vivo. Entonces "
@@ -74,13 +77,25 @@ msgstr ""
 "reemplazo para su ordenador. También es libre de probar diferentes cosas "
 "en una sesión en vivo."
 
-#: ../../source/E/live_session.rst:15
+#: ../../source/E/live_session.rst:16
 msgid ""
 "In a live session anything you do not save to external media or a mounted"
 " drive specifically will be lost when you power off your machine."
 msgstr ""
 "En una sesión en vivo lo que hagas y no guardes en un medio externo será "
 "perdido cuando apague su máquina."
+
+#: ../../source/E/live_session.rst:18
+msgid ""
+"A live session will not save your things to disk but will not by default "
+"mess up your installed system. This is not the case if you mount your "
+"filesystems on your disk and write to the disk. By default the live "
+"session uses UTC as the default time zone."
+msgstr ""
+
+#: ../../source/E/live_session.rst:21
+msgid "Screenshot"
+msgstr ""
 
 #~ msgid ""
 #~ "Reasons for using live session: - "

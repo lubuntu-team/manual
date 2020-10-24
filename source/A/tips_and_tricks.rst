@@ -21,3 +21,11 @@ To add a boot option press the :kbd:`e` key and then type the boot parameter you
 If you want more openbox customization than the openbox settings can provide you can look at the openbox wiki `openbox wiki <http://openbox.org/wiki/Main_Page>`_ .
 
 If you have multiple monitors and run either fullscreen games and video adding a second panel with the world clock plugin will help you tell what time it is.
+
+In Modern Lubuntu release DNS is managed by systemd-resolvedd. To find the configuration file you need to edit to change your DNS settings you will need to edit /etc/systemd/resolved.conf. To apply your changes you will need to run 
+
+.. code::
+
+   sudo systemctl restart systemd-resolved
+   
+to get your changes actually applied.

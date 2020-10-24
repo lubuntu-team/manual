@@ -28,7 +28,11 @@ To open a new tab in Firefox press the plus button on the right of the tab bar o
 
 To go back to a previous page in Firefox press the button pointing to the left or press :kbd:`Alt + Left arrow`. To open the page you were previously browsing in a new tab middle click the back button. To go forward to a page you have visited before but have now gone back from press the button with the arrow pointing to the right or :kbd:`Alt + Right arrow`. Middle click on the forward button to open the page you went back from in a new tab. To download a file directly to your local disk right click :menuselection:`Save Link As` file as and then you will get a dialog box to show where to save it. 
 
+
 To open a window with all of your downloads on it press :kbd:`Control+Shift+Y`. To open PCManFM-Qt in the folder where you downloaded things right click and select on the download and select :menuselection:`Open Containing Folder`. To get a link for someone else to download something right click on the downloaded content right click and select :menuselection:`Copy Download Link`.
+
+To open a window with all of your downloads press :kbd:`Control+Shift+Y`. To open PCManFM-Qt in the folder where you downloaded things right click and select on the download and select :menuselection:`Open Containing Folder`. To get a link for someone else to download something right click on the downloaded content right click and select :menuselection:`Copy Download Link`. To open a downloaded file double click on it.
+
 
 .. image:: firefox-downloads.png
 
@@ -49,21 +53,34 @@ To zoom in if you find the text on a web page to small press :kbd:`control + +`.
 
 To print a webpage such as directions you can click the button with horizontal bars and select :menuselection:`Print` from the menu. You can also print by pressing :kbd:`Control+P`. 
 
-If you want a menubar for Firefox right click the main toolbar and click the checkbox for :menuselection:`Menu Bar`. To reload a tab even one you are not on right click on the tab bar :menuselection:`Reload Tab`, press :kbd:`F5`, :kbd:`Control+R`. To mute a tab even when you are not on it you can right click on the tab and then select :menuselection:`Mute Tab` or by pressing :kbd:`Control+m`. To open a new copy of a tab right click on the tab bar and then select :menuselection:`Duplicate Tab`. To move a tab all the way to the left right click on the tab :menuselection:`Move tab --> Move to start`. To move a tab all the way to the right right click on tab :menuselection:`Move tab --> Move to end`. To move a tab to a new window right click on the tab and :menuselection:`Move tab --> Move to new Window`. To open a new private window press :kbd:`Control+Shift+P`. If you want to bookmark a tab right click the tab and :menuselection:`Bookmark tab`. To close tabs to the right of the current tab right click on the tab and :menuselection:`Close tabs to the right`. To undo closing a tab right click on a tab and :menuselection:`Undo Close Tab`.  
+If you want a menubar for Firefox right click the main toolbar and click the checkbox for :menuselection:`Menu Bar`. To reload a tab even one you are not on right click on the tab bar :menuselection:`Reload Tab`, press :kbd:`F5`, or :kbd:`Control+R`. To mute a tab even when you are not on it you can right clicking on the tab and then select :menuselection:`Mute Tab` or by pressing :kbd:`Control+m`. To open a new copy of a tab right click on the tab bar and then select :menuselection:`Duplicate Tab`. To move a tab all the way to the left right click on the tab :menuselection:`Move tab --> Move to start`. To move a tab all the way to the right right click on tab :menuselection:`Move tab --> Move to end`. To move a tab to a new window right click on the tab and :menuselection:`Move tab --> Move to new Window`. To open a new private window press :kbd:`Control+Shift+P`. If you want to bookmark a tab right click the tab and :menuselection:`Bookmark tab`. To close tabs to the right of the current tab right click on the tab and :menuselection:`Close tabs to the right`. To undo closing a tab right click on a tab and :menuselection:`Undo Close Tab`.
 
 .. image:: firefox-tab-context.png
 
-If you want to view your Firefox preferences you can type about:preferences into the address bar. To have your session restored each time you restart Firefox is on the general tab of Firefox preferences is to press restore previous session. The checkbox for :guilabel:`Restore previous session` checkbox restores your tab when you close Firefox. The tabs section has a checkbox to :guilabel:`Open links in new tabs` instead of new windows which is checked by default. The checkbox for :guilabel:`When you open a link a new tab switch to it immediately` switches to new tabs when you open them. The radio button group for :guilabel:`Downloads` lets you have a static location to save downloads or always ask to save files. 
+Customizing
+-----------
 
-To tab on the left :guilabel:`Home` has settings for your home and opening of new tabs. The :guilabel:`Homepage and new windows` drop down lets you select the Firefox home or a blank page when you first open the browser. The :guilabel:`New Tabs` menu lets you choose Firefox home or blank page when you open a new tab. The checkbox :guilabel:`Web Search` lets you toggle whether to show a web search on the Firefox homepage. The checkbox :guilabel:`Top Sites` shows the sites you visit the most. The checkbox :guilabel:`Recommend by Pocket` toggles links recommend by pocket. Uncheck the :guilabel:`Sponsored stories` checkbox to not have sponsored stories from pocket. The :guilabel:`Highlights` checkbox allows site that you have saved or visited recently.  
+If you want to view your Firefox preferences you can type about:preferences into the address bar or :menuselection:`Hamburger menu --> Preferences`. To have your session restored each time you restart Firefox is to check  the :guilabel:`Restore previous session` checkbox. The checkbox for :guilabel:`Restore previous session` checkbox restores your previous session's tabs when you close Firefox. The tabs section has a checkbox to :guilabel:`Open links in new tabs instead of new windows` which is checked by default. The checkbox for :guilabel:`When you open a link a new tab switch to it immediately` switches to new tabs when you open them. To change your default fonts and colors use the :guilabel:`Fonts and Colors` section. To select the default font choose :guilabel:`Default font` from the field. To select a different font size change the :guilabel:`Size` field. To change the default zoom change the :guilabel:`Default zoom` field. To only zoom the text check the :guilabel:`Zoom text only` checkbox. The radio button group for :guilabel:`Downloads` lets you have a static location to save downloads or always ask to save files. To toggle drm controlled content check/uncheck the :guilabel:`Play DRM-controlled content` checkbox.
+
+To tab on the left :guilabel:`Home` has settings for your home and opening of new tabs. The :guilabel:`Homepage and new windows` drop down lets you select the Firefox home or a blank page when you first open the browser. The :guilabel:`New Tabs` menu lets you choose :menuselection:`Firefox Home` or :menuselection:`Blank Page` when you open a new tab. The checkbox :guilabel:`Web Search` lets you toggle whether to show a web search on the Firefox homepage. To show the sites you visit the most check the checkbox :guilabel:`Top Sites`. To change how many rows of top sites to show use the drop down menu to the right of :guilabel:`Top Sites`. The checkbox :guilabel:`Recommend by Pocket` toggles links recommend by pocket. Uncheck the :guilabel:`Sponsored Stories` checkbox to not have sponsored stories from pocket. The :guilabel:`Highlights` checkbox allows site that you have saved or visited recently.  To change how many rows of highlighs are shown use the drop down menu to the right of :guilabel:`Highlights`.
 
 .. image:: prefrenceshome.png
 
-To manage your search settings use the :guilabel:`Search` tab on preferences. The radio button for :guilabel:`Search Bar` changes whether you want a separate search bar or and integrated search bar for search and navigation. The :guilabel:`Default Search Engine` lets you change your default search engine. To toggle whether to search suggestions check/uncheck the :guilabel:`Provide search suggestions`.
+To manage your search settings use the :guilabel:`Search` tab on preferences. The radio button for :guilabel:`Search Bar` changes whether you want a separate search bar or and integrated search bar for search and navigation. The :guilabel:`Default Search Engine` lets you change your default search engine. To toggle whether to search suggestions check/uncheck the :guilabel:`Provide search suggestions`. To end up showing search suggestions in the address bar when searching check the :guilabel:`Show search suggestions in address bar results` checkbox. To try to autocomplete searches before browsing history check the :guilabel:`Show search suggestions ahead of browsing history in address bar results` checkbox.
+
+To change settingss for How Firefox handles security and privacy settings use the :guilabel:`Privacy & Security` tab. To increase protection against ptrackers press the :guilabel:`Strict` button and to switch back press the :guilabel:`Standard` button. To send website you do not want to be track header always press the :guilabel:`Always` button. 
+
+.. warning::
+
+  Deleting Firefox user data will log you out of online accounts and if you do not know your password you will need to recover your password or you may lose accesss to online accounts.
+  
+To see what websites store data on you locally preess the :guilabel:`Manage Data` button. To clear all firefox data you currently have press the :guilabel:`Clear Data` button. To have firefox get rid of all cookies when firefox is closed check the :guilabel:`Delete cookies and site data when Firefox is closed` checkbox. To have firefox not autofill logins and passwords uncheck the :guilabel:`Autofill logins and passwords` checkbox. To see your saved logins press the :guilabel:`Saved Logins` button. To chose what sites not to save passwords for certain websites press the :guilabel:`Exceptions` button. 
 
 Version
 ----------
-Lubuntu currently ships with the latest version of Firefox, Firefox 77.
+
+Lubuntu currently ships with the latest version of Firefox, Firefox 80.
+
 
 How to Launch
 ----------------
@@ -80,4 +97,6 @@ from the terminal to run Firefox. You can also from the command line have Firefo
 
    firefox https://manual.lubuntu.me
    
-You can also launch Firefox from the quick launch by default by left clicking on it. The icon for Firefox looks like a globe with a red fox circling around it.
+
+You can also launch Firefox from the quick launch by left clicking on the Firefox icon. The icon for Firefox looks like a globe with a red fox circling around it. Yet another way to launch Firefox is to press the browser button on your keyboard.
+

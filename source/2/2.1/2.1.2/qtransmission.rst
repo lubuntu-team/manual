@@ -12,7 +12,7 @@ Screenshots
 
 Usage
 ------
-To open a torrent file press the open or simply double clicking the torrent file from a web browser after opening it will start Transmission. The torrent file will start download and using your connection to upload to others in a so called peer to peer network. At the bottom you will see an arrow pointing downward to show how fast you are downloading. The up arrow shows how fast you are seeding or uploading the file to other people downloading that file. To open a torrent URL :menuselection:`File --> Open URL` or press :kbd:`Control+U`. Once you have this you will input the URL in the :guilabel:`Source` area. To choose where to save the torrent change :guilabel:`Destination folder` button. To actually start downloading press the :guilabel:`Open` button.
+To open a torrent file press the open or simply double clicking the torrent file from a web browser after opening it will start Transmission. The torrent file will start download and using your connection to upload to others in a so called peer to peer network. At the bottom there is a downward pointing arrow to show how fast you are downloading. The up arrow shows how fast you are seeding or uploading the file to other people downloading that file. To open a torrent URL :menuselection:`File --> Open URL` or press :kbd:`Control+U`. Once you have this you will input the URL in the :guilabel:`Source` area. To choose where to save the torrent change :guilabel:`Destination folder` button. To actually start downloading press the :guilabel:`Open` button.
 
 While you download your file a progress bar with will show your download for each file once you have it entirely you have see how many people you are seeding to each person and how fast you are uploading to that person. 
 
@@ -27,7 +27,7 @@ If you want have a move compact view :menuselection:`View --> Compact View` or p
 
 To sort your torrents by activity :menuselection:`View --> Sort by Activity`. To sort your torrents by age :menuselection:`View --> Sort by Age`. To sort your torrents by name :menuselection:`View --> Sort by Name`. To sort your torrents by Progress :menuselection:`View --> Sort by Progress`.  To sort your torrents by Queue :menuselection:`View --> Sort by Queue`. To sort your torrents by ratio uploaded to downloaded :menuselection:`View --> Sort by ratio`. To sort your torrents by size :menuselection:`View --> Sort by Size`. To sort your torrents by State :menuselection:`View --> Sort by State`. To sort your torrents by time to finish downloading :menuselection:`View --> Sort by time left`. To reverse the sort order :menuselection:`View --> Reverse sort order`.
 
-To move a torrent down on where it appears on the screen and the queue :menuselection:`Torrent --> Queue --> Move Down`. To move a torrent up in the queue :menuselection:`Torrent --> Queue --> Move Up`. To Move a torrent file to the top :menuselection:`Torrent --> Queue --> Move to Top`. To move a torrent file to the bottom :menuselection:`Torrent --> Queue --> Move to Bottom`.
+To move a torrent down on where it appears on the screen and the queue :menuselection:`Torrent --> Queue --> Move Down` or :kbd:`Control+down`. To move a torrent up in the queue :menuselection:`Torrent --> Queue --> Move Up` or press :kbd:`Control+ up arrow`. To Move a torrent file to the top :menuselection:`Torrent --> Queue --> Move to Top`. To move a torrent file to the bottom :menuselection:`Torrent --> Queue --> Move to Bottom`.
 
 If you do not want to prioritize the speed of your torrents press the button on the bottom of transmission that looks like a turtle. To change the ratio view on the bottom to your total changes :menuselection:`Globe button --> Total Transfer`. To view your upload/download ratio in the current session :menuselection:`Globe button --> Session Ratio`. To view your transfer from the current session only :menuselection:`Globe button --> Session Transfer`. 
 
@@ -36,7 +36,7 @@ To open the file manager in the folder of your torrent press :kbd:`Control+E` or
 Torrent Properties
 ------------------
 
-To bring a up a properties dialog window press :kbd:`Alt +Enter` or :menuselection:`Torrent --> Properties`. To show how much of the file you have on that torrent is under the :guilabel:`Have` row which shows both the size and the percentage of the file. The :guilabel:`Uploaded` row shows how much of the torrent you have uploaded to other peers. The :guilabel:`Downloaded` row shows how much you have downloaded on your computer. The :guilabel:`State` row shows what the torrent is currently doing. The :guilabel:`Remaining time` row shows how long it will take for the torrent to finish downloaded. To show how much  The :guilabel:`Location` row shows you where the file is saved on your system. The :guilabel:`Size` row shows how much space the torrent takes when downloaded. The :guilabel:`Origin` row shows when you first downloaded this torrent. 
+To bring a up a properties dialog window press :kbd:`Alt +Enter` or :menuselection:`Torrent --> Properties`. To show how much of the file you have on that torrent is under the :guilabel:`Have` row which shows the size downloaded and the percentage of the file. The :guilabel:`Uploaded` row shows how much of the torrent you have uploaded to other peers. The :guilabel:`Downloaded` row shows how much you have downloaded on your computer. The :guilabel:`State` row shows what the torrent is currently doing. The :guilabel:`Remaining time` row shows how long it will take for the torrent to finish downloaded. The :guilabel:`Size` row shows how much space the torrent takes when downloaded. The :guilabel:`Location` row shows you where the file is saved on your system.  The :guilabel:`Origin` row shows when you first downloaded this torrent. 
 
 .. image:: transmission-prop.png
 
@@ -49,7 +49,7 @@ The :guilabel:`Files` tab shows what files this torrent has downloaded. To see t
 Version
 -------
 
-Lubuntu ships with version 2.94 of Transmission.
+Lubuntu ships with version 3.00 of Transmission.
 
 How to Launch
 -------------

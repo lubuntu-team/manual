@@ -1,7 +1,7 @@
 Chapter 2.5.2 PulseAudio Volume Control
 ========================================
 
-PulseAudio Volume Control is the default volume mixer for Lubuntu.
+PulseAudio Volume Control is the default volume mixer for Lubuntu. It also manages multiple input and output devices for all programs on your system.
 
 Usage
 ------
@@ -37,5 +37,5 @@ To launch PulseAudio Volume Control from the menu :menuselection:`Sound & Video 
 
    pavucontrol-qt 
 
-from the command line. Another way to launch PulseAudio Volume Control is to  left click on the volume applet in the panel and click the :guilabel:`Mixer` button. The icon for PulseAudio Volume Control looks like a speaker. 
+from the command line. Another way to launch PulseAudio Volume Control is to  left click on the volume applet in the panel and click the :guilabel:`Mixer` button. The icon for PulseAudio Volume Control looks like a black and yellow speaker. 
 

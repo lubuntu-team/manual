@@ -1,0 +1,168 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2020, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 20.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../source/B/Contributing.rst:3
+msgid "Appendix B Contributing"
+msgstr ""
+
+#: ../../source/B/Contributing.rst:6
+msgid "We need help"
+msgstr ""
+
+#: ../../source/B/Contributing.rst:8
+msgid ""
+"We’re always making hints about contributing. Lubuntu, like most every "
+"open source project out there, relies on the contributions of volunteers "
+"to develop as well as to maintain."
+msgstr ""
+
+#: ../../source/B/Contributing.rst:11
+msgid "…not code"
+msgstr ""
+
+#: ../../source/B/Contributing.rst:13
+msgid ""
+"That does not mean you need to be a developer, either. Though there is "
+"some new code we write, this is relatively rare. Including upstream "
+"changes in our packaging can be a little advanced, but even that is not "
+"the sum total of what we do. You have the skills necessary."
+msgstr ""
+
+#: ../../source/B/Contributing.rst:16
+msgid ""
+"If you’re nothing more than a user, you can help out with the following "
+"without really knowing much more than you already do:"
+msgstr ""
+
+#: ../../source/B/Contributing.rst:18
+msgid "`Support and Bug Triage`_"
+msgstr ""
+
+#: ../../source/B/Contributing.rst:19
+msgid "`Documentation <https://phab.lubuntu.me/source/manual/>`_"
+msgstr ""
+
+#: ../../source/B/Contributing.rst:20
+msgid "`Testing <https://phab.lubuntu.me/w/testing/>`_"
+msgstr ""
+
+#: ../../source/B/Contributing.rst:21
+msgid "`Bug triage <https://phab.lubuntu.me/w/bugs/>`_"
+msgstr ""
+
+#: ../../source/B/Contributing.rst:23
+msgid "*And we could always use help with art/graphic design!*"
+msgstr ""
+
+#: ../../source/B/Contributing.rst:26
+msgid "No strings attached"
+msgstr ""
+
+#: ../../source/B/Contributing.rst:28
+msgid ""
+"Contributions can be done on an extended basis (making becoming a Lubuntu"
+" Member easy) or can be little bits here and there. You can come and go "
+"as you like. You can work only on one issue you feel particularly "
+"strongly about, or you can get involved over a wide scope."
+msgstr ""
+
+#: ../../source/B/Contributing.rst:31
+msgid "Free training"
+msgstr ""
+
+#: ../../source/B/Contributing.rst:33
+msgid ""
+"For those interested in a deeper understanding of the system or that "
+"would like to develop additional skills, the Lubuntu team is happy to "
+"provide assistance."
+msgstr ""
+
+#: ../../source/B/Contributing.rst:36
+msgid "Why not join?"
+msgstr ""
+
+#: ../../source/B/Contributing.rst:38
+msgid ""
+"That said, you’re all users, so you all can contribute. For those of you "
+"that are not contributing, why not? For those of us that do contribute, "
+"we all have responsibilities in real life, including school, work and "
+"families, etc. And yet we find a little time here and there to sneak in a"
+" little help. What would encourage you to contribute?"
+msgstr ""
+
+#: ../../source/B/Contributing.rst:41
+msgid "Support and Bug Triage"
+msgstr ""
+
+#: ../../source/B/Contributing.rst:43
+msgid ""
+"Support and Bug Triage contributors are on the front line when it comes "
+"to interacting with users and solving problems. They use their knowledge "
+"about Lubuntu and Linux as a whole to help users solve problems, and if "
+"the problem is on our end, take that and turn it into a bug report that "
+"developers can solve."
+msgstr ""
+
+#: ../../source/B/Contributing.rst:46
+msgid "Support"
+msgstr ""
+
+#: ../../source/B/Contributing.rst:48
+msgid ""
+"Support is mainly for the purpose of helping users solve their problems. "
+"If this is something you would be interested in, join `our support "
+"channel <https://phab.lubuntu.me/w/support/>`_ and jump in to assist when"
+" someone asks for help. The more active people we have around, the more "
+"questions can be answered."
+msgstr ""
+
+#: ../../source/B/Contributing.rst:50
+msgid ""
+"People helping with support might find it helpful to learn `debugging "
+"procedures <https://wiki.ubuntu.com/DebuggingProcedures>`_ and have a "
+"Lubuntu machine available to be able to reproduce any issues. It is "
+"difficult to write a \"one size fits all\" guide for answering support "
+"questions, but idling in the channel and seeing how support questions are"
+" typically answered can help."
+msgstr ""
+
+#: ../../source/B/Contributing.rst:52
+msgid ""
+"Besides the support channel, we have a tag on `the Ask Ubuntu site "
+"<https://askubuntu.com/questions/tagged/lubuntu>`_, where people ask more"
+" long-form support questions. We also have a topic on `our Discourse "
+"forum <https://discourse.lubuntu.me/c/support>`_ and a tag on the `Ubuntu"
+" Forum <https://ubuntuforums.org/tags.php?tag=lubuntu>`_."
+msgstr ""
+
+#: ../../source/B/Contributing.rst:55
+msgid "Bug Triage"
+msgstr ""
+
+#: ../../source/B/Contributing.rst:57
+msgid ""
+"Bug Triage can be compared to support in many ways, as the end goal of "
+"both is the same: try to figure out what the problem is and help the user"
+" solve it. With bugs, the approach is different. The user has identified "
+"that there is a problem, they have (hopefully) submitted logs, and they "
+"would like to see the bug fixed as an update."
+msgstr ""
+

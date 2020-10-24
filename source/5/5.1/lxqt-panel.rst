@@ -9,7 +9,7 @@ The application menu allows you to browse and search through available programs;
 
 .. image:: menu_search.png
 
-The quick launch bar allows you to conveniently launch your file manager (PCManFM) and web browser (Firefox) by left clicking on the program. If you right click on the icons in quick launch on something like Firefox will have items for each program. To add a program to quick launch open the menu and find it there and drag it down onto the panel.  To move an item on your quick launch to the left right click the icon and select :menuselection:`Move left`. To move an item to the left right click the icon and select :menuselection:`Move right`. To remove an item from quick launch right click on the icon and select :menuselection:`Remove from quicklaunch`. To show your desktop press the show desktop button between quick launch and the taskbar. To see all your windows again press the show desktop button again.
+The quick launch bar allows you to conveniently launch your file manager (PCManFM) and web browser (Firefox) by left clicking on the program. If you right click on the icons in quick launch on something like Firefox will have items for each program. To add a program to quick launch open the menu and find it there and drag it down onto the panel.  To move an item on your quick launch to the left right click the icon and select :menuselection:`Move left`. To move an item to the left right click the icon and select :menuselection:`Move right`. Another way to reorder items on quicklaunch is to hold :kbd:`Control` and drag and drop to the desired position. To remove an item from quick launch right click on the icon and select :menuselection:`Remove from quicklaunch`. To show your desktop press the blue show desktop button between quick launch and the taskbar. To see all your windows again press the blue show desktop button again.
 
 The taskbar lists the windows you currently have open. To bring one of these windows to focus simply left click the windows on the task bar. If you have multiple of the same window left clicking will open the group, allowing you to select between the different windows by left clicking. If you want to close a group of multiple windows you can right click the group and click :menuselection:`Close group`. To see a list of all the windows in a group mouseover the group of windows on the taskbar.
 
@@ -45,7 +45,7 @@ To change many panel settings right click not on the main taskbar and select :me
 
 The :guilabel:`Panel` tab has settings for the color and position of the panel. To move the panel there is a drop down menu of position that can move it to the side of the screen you want. The :guilabel:`Alignment` drop down menu lets you set the alignment of the panel on your screen. Keep in mind changing the alignment will not change anything if your panel takes the entire screen. To change the position of your panel use the :guilabel:`Position` field to move the panel on your screen around. If you have multiple monitors the :guilabel:`Position` field will have different options for moving the panel onto different monitors. The :guilabel:`Size` menu lets you increase or decrease the width of the panel. :guilabel:`Length` has two fields the one is either :menuselection:`px` or :menuselection:`%` is to change the length of the panel in pixels while percent is a percent of the entire screen size that changes if you change resolution. The first is the number of pixels or percent of the screen you want the panel to cover. The :guilabel:`Icon size` makes the size of the icons bigger or smaller on the panel. If you want multiple rows in your system tray and taskbar make the :guilabel:`Rows` field. 
 
-If you want to autohide the panel check the :guilabel:`Auto-hide` checkbox in panel settings. To change how long the animation takes to show or hide the panel change the :guilabel:`Animation duration` field. To show how long your panel will appear when it comes back after hiding in milliseconds change the :guilabel:`Show with delay` field. To show a very thin bit of the panel visible when autohidden check the :guilabel:`Visible thin margin for hidden panel` checkbox. To have the space for the panel not be used for anything else check the :guilabel:`Reserve space on display` checkbox.
+If you want to autohide the panel check the :guilabel:`Auto-hide` checkbox in panel settings. To change how long the animation takes to show or hide the panel change the :guilabel:`Animation duration` field. To show how long your panel will appear when it comes back after hiding in milliseconds change the :guilabel:`Show with delay` field. To show a little of the panel visible when the panel is autohidden check the :guilabel:`Visible thin margin for hidden panel` checkbox. To have the space for the panel not be used for anything else check the :guilabel:`Reserve space on display` checkbox.
 
 To change to a custom font color press the :guilabel:`Font color` checkbox. Press the dropper button to bring up a widget to choose the custom color. The checkbox for :guilabel:`Background color` sets a background color custom for the background of LXQt-panel and the :guilabel:`dropper` brings up how to select which color. To add an image to your panel background press the checkbox and select your image for the file in the dialog.
 
@@ -73,7 +73,7 @@ To turn off searching in the menu uncheck the :guilabel:`Filter menu entries` an
 
 .. image:: menu-pref.png 
 
-To customize the desktop switcher right click on the desktop switcher :menuselection:`Configure Desktop Switcher` or press the :guilabel:`Gear` button. To change the number of rows on your desktop change the :guilabel:`Number of rows` field. To change how desktops are labeled change the :guilabel:`Desktop Labels` field. To change the name of each desktop enter a name under :guilabel:`Desktop Names`. 
+To customize the desktop switcher right click on the desktop switcher :menuselection:`Configure Desktop Switcher` or press the :guilabel:`Gear` button. To change the number of rows on your desktop change the :guilabel:`Number of rows` field. To change how desktops are labeled change the :guilabel:`Desktop Labels` field. To only show the current desktop check the :guilabel:`Show only active desktop` checkbox. To change the name of each desktop enter a name under :guilabel:`Desktop Names`. 
 
 .. image:: desktop-switch.png 
 
@@ -89,7 +89,7 @@ The settings for removable media is able to be opened up is right click the appl
 
 .. image:: removalble-media-settings.png
 
-To configure the volume applet right click on the volume applet and select :menuselection:`Configure "Volume Control"`. To change which audio output to have the applet control change the dropdown at the bottom of the :guilabel:`Device to control` box. To change what you use as your mixer type the command in the :guilabel:`External Mixer` field. To switch to changing sound settings for only ALSA press the :guilabel:`ALSA` button. To switch back to changing pulse audio settings press the :guilabel:`PulseAudio` button. To toggle muting on middle clicking check the :guilabel:`Mute on middle click` checkbox. To toggle having to click to bring up the volume applet check the :guilabel:`Show on mouse click` checkbox. To allow your volume in software to be over 100 percent check the :guilabel:`Allow volume beyond 100%` checkbox however this will cause distortion. To always show notification on volume changes check the :guilabel:`Always notify about volume changes` checkbox. To change how what percentage your volume meter  changes use the :guilabel:`Volume adjust step` field. 
+To configure the volume applet right click on the volume applet and select :menuselection:`Configure "Volume Control"`. To change which audio output to have the applet control change the dropdown at the bottom of the :guilabel:`Device to control` box. To change what you use as your mixer type the command in the :guilabel:`External Mixer` field. To switch to changing sound settings for only ALSA press the :guilabel:`ALSA` button. To switch back to changing pulse audio settings press the :guilabel:`PulseAudio` button. To toggle muting on middle clicking check the :guilabel:`Mute on middle click` checkbox. To toggle having to click to bring up the volume applet check the :guilabel:`Show on mouse click` checkbox. To allow your volume in software to be over 100 percent check the :guilabel:`Allow volume beyond 100%` checkbox however this will cause distortion. To always show notification on volume changes check the :guilabel:`Always notify about volume changes` checkbox. To notify about volume changes via keyboard check the :guilabel:`Notify about volume changes with keyboard` checkbox. To change how what percentage your volume meter  changes use the :guilabel:`Volume adjust step` field. 
 
 .. image:: volume-app-pref.png
 
@@ -128,7 +128,9 @@ To add a spacer to your panel add the spacer widget. It creates a blank space on
 
 Version
 -------
-Lubuntu ships with version 0.14.1 of LXQt-panel.
+
+Lubuntu ships with version 0.15.0 of LXQt-panel.
+
 
 How to Launch
 -------------

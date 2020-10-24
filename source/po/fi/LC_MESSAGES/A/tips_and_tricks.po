@@ -10,44 +10,127 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-12 14:08-0600\n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.8.0\n"
 
-#: ../../source/A/tips_and_tricks.rst:2
+#: ../../source/A/tips_and_tricks.rst:3
 msgid "Appendix A Tips and Tricks"
 msgstr ""
 
-#: ../../source/A/tips_and_tricks.rst:4
+#: ../../source/A/tips_and_tricks.rst:5
 msgid ""
 "If you run a hypervisor on your system putting a different mouse cursor "
 "for both the host and the guest can let you tell them apart. If you want "
 "to install many more colors you can search the repositories for cursor or"
 " if you just want many different colors install the oxygen-cursor-theme-"
-"extra package. To have a a different style for applications to install "
-"you can install the qt-style-plugin-plastique package."
+"extra package. To have a different style for applications to install you "
+"can install the qt-style-plugin-plastique package."
 msgstr ""
 
 #: ../../source/A/tips_and_tricks.rst:7
 msgid ""
-"If you select text on X11 you can do what is middle click paste the "
-"selected text with the middle mouse button by clicking down on the scroll"
-" wheel."
+"If you select text on X11 you can do what is called middle click paste "
+"the selected text with the middle mouse button by clicking down on the "
+"scroll wheel."
 msgstr ""
 
 #: ../../source/A/tips_and_tricks.rst:9
 msgid ""
-"To find out what version of softare you have you can view the `ubuntu "
+"To find out what version of software you have you can view the `Ubuntu "
 "packages website <https://packages.ubuntu.com/>`_ from whatever kind of "
 "computer you are on. On the command line you can run"
 msgstr ""
 
 #: ../../source/A/tips_and_tricks.rst:15
-msgid "even if it does not ship with lubuntu by default."
+msgid ""
+"even if it does not ship with Lubuntu by default or if it is not "
+"installed."
 msgstr ""
+
+#: ../../source/A/tips_and_tricks.rst:17
+msgid ""
+"If you want to boot an older kernel for troubleshooting use the advanced "
+"options for Lubuntu at the grub bootloader screen if shown. If you need "
+"to get into this bootloader hold down :kbd:`shift` key at booting and "
+"then select the different kernel you want to boot into. To move down to "
+"Advanced options press :kbd:`Down Arrow`. To select the advanced options "
+"press the :kbd:`Right Arrow` or :kbd:`Enter` key. To go back up a level "
+"from a submenu of grub press the :kbd:`Escape` key."
+msgstr ""
+
+#: ../../source/A/tips_and_tricks.rst:19
+msgid ""
+"To add a boot option press the :kbd:`e` key and then type the boot "
+"parameter you want to add to the end of the line. The nomodeset  option "
+"will try to load things for graphic compatibility if for example you get "
+"a black screen without proprietary drivers."
+msgstr ""
+
+#: ../../source/A/tips_and_tricks.rst:21
+msgid ""
+"If you want more openbox customization than the openbox settings can "
+"provide you can look at the openbox wiki `openbox wiki "
+"<http://openbox.org/wiki/Main_Page>`_ ."
+msgstr ""
+
+#: ../../source/A/tips_and_tricks.rst:23
+msgid ""
+"If you have multiple monitors and run either fullscreen games and video "
+"adding a second panel with the world clock plugin will help you tell what"
+" time it is."
+msgstr ""
+
+#: ../../source/A/tips_and_tricks.rst:25
+msgid ""
+"In Modern Lubuntu release DNS is managed by systemd-resolvedd. To find "
+"the configuration file you need to edit to change your DNS settings you "
+"will need to edit /etc/systemd/resolved.conf. To apply your changes you "
+"will need to run"
+msgstr ""
+
+#: ../../source/A/tips_and_tricks.rst:31
+msgid "to get your changes actually applied."
+msgstr ""
+
+#~ msgid ""
+#~ "If you run a hypervisor on your"
+#~ " system putting a different mouse "
+#~ "cursor for both the host and the"
+#~ " guest can let you tell them "
+#~ "apart. If you want to install many"
+#~ " more colors you can search the "
+#~ "repositories for cursor or if you "
+#~ "just want many different colors install"
+#~ " the oxygen-cursor-theme-extra "
+#~ "package. To have a a different "
+#~ "style for applications to install you"
+#~ " can install the qt-style-plugin-"
+#~ "plastique package."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you select text on X11 you "
+#~ "can do what is middle click paste"
+#~ " the selected text with the middle"
+#~ " mouse button by clicking down on "
+#~ "the scroll wheel."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To find out what version of "
+#~ "softare you have you can view the"
+#~ " `ubuntu packages website "
+#~ "<https://packages.ubuntu.com/>`_ from whatever kind"
+#~ " of computer you are on. On the"
+#~ " command line you can run"
+#~ msgstr ""
+
+#~ msgid "even if it does not ship with lubuntu by default."
+#~ msgstr ""
 

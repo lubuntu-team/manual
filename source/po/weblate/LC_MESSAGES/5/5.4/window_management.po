@@ -1,0 +1,176 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2020, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 20.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../source/5/5.4/window_management.rst:2
+msgid "Chapter 5.4 Window Management"
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:4
+msgid ""
+"Window are the area which contains the graphical user interface that we "
+"interact with programs. In Lubuntu these windows can typically be opened,"
+" closed, resized, and minimized. Underneath Lubuntu uses Openbox as a "
+"default window manager."
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:7
+msgid "Using the mouse"
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:8
+msgid ""
+"In the top-right corner of a window three buttons allow you basic "
+"controls of the window. Starting from left to right"
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:10
+msgid ""
+"Iconify :guilabel:`-` hides/minimizes the window making it only appear on"
+" the task bar of the Panel. It can be recalled by clicking on the "
+"application on the task bar, or cycling through open windows with "
+":kbd:`ALT + Tab`. Another way to Iconify is to middle click on the "
+"tittlebar."
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:11
+msgid "Maximize resizes the window to fill the entire screen."
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:12
+msgid ""
+"Close circled :guilabel:`x` attempts to close the window unless a dialog "
+"asks for to save or the program is not responding."
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:16
+msgid "In the top center is the title of your window."
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:18
+msgid ""
+"The window can be moved by by clicking on the title-bar and dragging the "
+"mouse or from the menu on the titlebar select :menuselection:`Move`. "
+"Windows can be minimized by middle clicking on the titlebar with the "
+"mouse. You can resize the window by grabbing the border (sides or corners"
+" which should be highlighted in blue) and dragging or from the menu on "
+"the titlebar select :menuselection:`Resize`."
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:20
+msgid ""
+"Right clicking on the title bar, pressing :kbd:`Alt+Space`, or left "
+"clicking on the icon in the top-left corner of the window brings the "
+"window management menu. Here you can:"
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:22
+msgid ""
+"Using :menuselection:`Send to desktop`, send the window to a virtual "
+"desktop of your choice or All Desktops"
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:23
+msgid ""
+"Using :menuselection:`Layer` option allows you to set  whether this "
+"windows the layer to :menuselection:`Always on top`, "
+":menuselection:`Normal`, or :menuselection:`Always on bottom`"
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:24
+msgid ""
+"If you want to move something Always on bottom or Always on top you can "
+"move it back to :menuselection:`Normal`."
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:25
+msgid ""
+"The earlier mentioned :menuselection:`Iconify`, "
+":menuselection:`Maximize`, and :menuselection:`Close`  options are also "
+"available here."
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:26
+msgid ":menuselection:`Roll up/down` rolls the window into the title-bar."
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:27
+msgid ""
+":menuselection:`Un/Decorate` hides them title-bar. If you want to get "
+"decorations back press :kbd:`Alt+Space` and then select "
+":menuselection:`Decorate` from the menu."
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:32
+msgid "Useful keyboard shortcuts"
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:33
+msgid "Closing a window :kbd:`Alt + F4`"
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:34
+msgid "Switching through windows :kbd:`Hold Alt + hit Tab`"
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:35
+msgid ""
+"To switch between tabs in the reverse direction :kbd:`Hold Alt + "
+"Shift+Tab`"
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:36
+msgid ""
+"To open the menu normally on the left hand top corner press "
+":kbd:`Alt+Space`."
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:37
+msgid ""
+"To make a window fullscreen press :kbd:`F11` and then press :kbd:`F11` "
+"again to make it not fullscreen."
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:40
+msgid "Virtual Desktop Switching"
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:41
+msgid ""
+"To switch to the next virtual desktop press :kbd:`Control +Alt + Right "
+"arrow`. To shift to the previous virtual desktop press :kbd:`Control+ Alt"
+" + Left Arrow`. To Do this with a combination of mouse wheel and keyboard"
+" :kbd:`Alt+ Mousewheel`."
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:44
+msgid "Moving windows between monitors"
+msgstr ""
+
+#: ../../source/5/5.4/window_management.rst:45
+msgid ""
+"If you have extended multiple monitor setup with multiple windows you can"
+" move a window to the monitor by dragging the window through the titlebar"
+" past the edge of the monitor towards the monitor you want to move it to."
+" Also you can say make a video take up one monitor and making the video "
+"fullscreen takes one whole monitor while you can do anything else you "
+"want with your second monitor."
+msgstr ""
+

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-12 14:08-0600\n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
 "PO-Revision-Date: 2018-11-21 19:30+0000\n"
 "Last-Translator: Roberto Alzaga <lumintnian@outlook.com>\n"
 "Language: es\n"
@@ -19,42 +19,173 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #: ../../source/2/2.5/2.5.1/K3b.rst:2
 msgid "Chapter 2.5.1 K3b"
 msgstr "Capítulo 2.5.1 K3b"
 
 #: ../../source/2/2.5/2.5.1/K3b.rst:4
-msgid "K3b is the default CD or DVD buring software on Lubuntu."
+#, fuzzy
+msgid "K3b is the default CD or DVD burning software on Lubuntu."
 msgstr "K3b es el software de grabación de CD o DVD predeterminado en Lubuntu."
 
 #: ../../source/2/2.5/2.5.1/K3b.rst:7
+msgid "Usage"
+msgstr ""
+
+#: ../../source/2/2.5/2.5.1/K3b.rst:8
+msgid ""
+"To start a new data project to save documents and other files "
+":menuselection:`File --> New Project --> New Data Project`. To add files "
+"to a project :menuselection:`Add Files...`. After doing this a dialog to "
+"open files will open up. To select multiple files to add at this time "
+"press :kbd:`Control+ Left click` on the files. To start an audio CD but "
+"this will not allow general files but will be played in a CD player as "
+"audio with :menuselection:`File --> New Project --> New Audio CD "
+"Project`. To create a new video DVD that goes in a DVD player "
+":menuselection:`File --> New Project --> New Video DVD Project`."
+msgstr ""
+
+#: ../../source/2/2.5/2.5.1/K3b.rst:10
+msgid ""
+"Another way to add files is to left click on your files in the center of "
+"the window. To switch to a folder double click on them with the left "
+"mouse button on a folder. To go up a level press the button that is an "
+"upward pointed arrow button. To go back to a previous folder press the "
+"leftward pointed arrow button. To go forward to a folder you went back "
+"from press the rightward pointed arrow. Another way to switch folders is "
+"to click on the folder names on the side pane to the left. To add all "
+"files recursively to be added to a project left click to select it and "
+"press :kbd:`Shift + Enter` to copy all files in a folder or right click "
+"and select :menuselection:`Add to Project`. To reload all files press "
+":kbd:`F5` or right click and select :menuselection:`Reload`."
+msgstr ""
+
+#: ../../source/2/2.5/2.5.1/K3b.rst:12
+msgid ""
+"To save your files from a project if you wish to burn it later press "
+":kbd:`Control +S` or :menuselection:`File --> Save`. To have all the "
+"files from a project removed :menuselection:`Project --> Clear Project`."
+msgstr ""
+
+#: ../../source/2/2.5/2.5.1/K3b.rst:14
+msgid ""
+"The files you add to your project will now be shown at a pane towards the"
+" bottom of the screen. If you decide against adding a file after adding "
+"it you can select it by left clicking and pressing :kbd:`Delete` or right"
+" click and select :menuselection:`Remove`. To rename files to be burned "
+"to disc left click to select the file and press :kbd:`F2` or right click "
+"and select :kbd:`Rename`."
+msgstr ""
+
+#: ../../source/2/2.5/2.5.1/K3b.rst:16
+msgid ""
+"To burn to an optical disc press :kbd:`Control+B` or "
+":menuselection:`Project --> Burn`. After burning a popup will appear and "
+"the disc should eject when it is done."
+msgstr ""
+
+#: ../../source/2/2.5/2.5.1/K3b.rst:18
+msgid ""
+"To eject the disc from your drive press :menuselection:`Device --> "
+"Eject`. To view information on the disc you have inserted "
+":menuselection:`Device --> Media Info`. If you want to lower noise from "
+"the spinning of optical drives :menuselection:`Device --> Set Read "
+"Speed...` and set a lower number to make the disk spin slower in CD or "
+"DVD players for less noise."
+msgstr ""
+
+#: ../../source/2/2.5/2.5.1/K3b.rst:20
+msgid ""
+"If you have a rewriteable disc you can open the dialog to erase the data "
+"from it from the :guilabel:`Format` button or :menuselection:`Tools --> "
+"Format/Erase rewritable disk...`."
+msgstr ""
+
+#: ../../source/2/2.5/2.5.1/K3b.rst:22
+msgid ""
+"If you want to Rip a CD or copy its contents to your computer "
+":menuselection:`Tools --> Rip Audio CD`. Then the files will be selected "
+"and a button for :guilabel:`Start Ripping` will appear. To change what "
+"kind of file to save your files copied to your computer is under the "
+":guilabel:`Filetype` drop down menu. To toggle whether to create a "
+"playlist based on the different tracks on the CD check/uncheck the "
+":guilabel:`Create m3u playlist` for all the files on the disc. To choose "
+"where to save your files press the :guilabel:`Target Folder` or press the"
+" upward pointing arrow to bring a dialog box to choose where to save the "
+"file. To actually rip the media press the :guilabel:`Start ripping` "
+"button."
+msgstr ""
+
+#: ../../source/2/2.5/2.5.1/K3b.rst:25
 msgid "Version"
 msgstr "Versión"
 
-#: ../../source/2/2.5/2.5.1/K3b.rst:8
-msgid "Lubuntu ships with version 18.04.3 of K3b."
+#: ../../source/2/2.5/2.5.1/K3b.rst:26
+#, fuzzy
+msgid "Lubuntu ships with version 20.04.3 of K3b."
 msgstr "Lubuntu se entrega con la versión 18.04.3 de K3b."
 
-#: ../../source/2/2.5/2.5.1/K3b.rst:11
+#: ../../source/2/2.5/2.5.1/K3b.rst:29
 msgid "Screenshot"
 msgstr ""
 
-#: ../../source/2/2.5/2.5.1/K3b.rst:15
+#: ../../source/2/2.5/2.5.1/K3b.rst:33
 msgid "How to Launch"
 msgstr "Como lanzar"
 
-#: ../../source/2/2.5/2.5.1/K3b.rst:16
+#: ../../source/2/2.5/2.5.1/K3b.rst:34
 #, fuzzy
-msgid ""
-"To launch K3b from the menu :menuselection:`sound and video --> K3b` or "
-"run"
+msgid "To launch K3b from the menu :menuselection:`Sound & Video --> K3b` or run"
 msgstr ""
 "Para iniciar K3b desde el menú -> sonido y video -> K3b o ejecutar K3b "
 "desde la línea de comandos."
 
-#: ../../source/2/2.5/2.5.1/K3b.rst:22
-msgid "from the command line."
+#: ../../source/2/2.5/2.5.1/K3b.rst:40
+msgid ""
+"from the command line. The icon for K3b looks like a red disc with a "
+"white flame on top."
 msgstr ""
+
+#: ../../source/2/2.5/2.5.1/K3b.rst:43
+msgid "Customizing"
+msgstr ""
+
+#: ../../source/2/2.5/2.5.1/K3b.rst:44
+msgid ""
+"To configure settings for K3b :menuselection:`Settings --> Configure "
+"K3b`. To ask to save projects on exit automatically check the "
+":guilabel:`Ask to save projects on exit` checkbox. To hide the main K3b "
+"window while burning a disc check the :guilabel:`Hide main window while "
+"writing` checkbox. To toggle showing a splash screen for K3b when it "
+"starts up check/uncheck the :guilabel:`Show splash screen` checkbox. To "
+"view information about your devices use the :guilabel:`Devices` tab. To "
+"show settings for :guilabel:`Notifications` has settings for "
+"notifications. The context you use are for choosing :guilabel:`Process "
+"successful`, :guilabel:`Process error`, :guilabel:`Track data not found`,"
+" :guilabel:`Waiting for medium`, :guilabel:`Mount/unmount failed`, "
+":guilabel:`No problems found` , or :guilabel:`Busy`. To make a popup show"
+" up choose the :guilabel:`Show a message in popup` checkbox."
+msgstr ""
+
+#: ../../source/2/2.5/2.5.1/K3b.rst:46
+msgid ""
+"To have settings of different plugins for K3b use the :guilabel:`Plugin` "
+"tab. To toggle enabling a plugin press the :guilabel:`checkbox` to the "
+"left of the plugin name. The name and a description of the plugin are in "
+"the center column."
+msgstr ""
+
+#: ../../source/2/2.5/2.5.1/K3b.rst:48
+msgid ""
+"To cancel you changes to your settings of K3b press the "
+":guilabel:`Cancel` button. To apply your changes and leave the window "
+"open press the :guilabel:`Apply` button. To apply changes and close the "
+"window press the :guilabel:`OK` button. To restore settings to defaults "
+"press the :guilabel:`Restore Defaults` button."
+msgstr ""
+
+#~ msgid "from the command line."
+#~ msgstr ""
 

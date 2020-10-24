@@ -1,0 +1,82 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2020, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 20.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../source/3/3.2/3.2.7/file_associations.rst:2
+msgid "Chapter 3.2.7 File Associations"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.7/file_associations.rst:4
+msgid "File Associations changes the default application to open a file."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.7/file_associations.rst:7
+msgid "Usage"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.7/file_associations.rst:8
+msgid ""
+"To search for which file extension you want to change to open in another "
+"program you can search in the top box with a magnifying glass for that "
+"file format. On the left is really long collapsible list of all mimetypes"
+" that you can change look through but searching will be much faster. To "
+"expand a particular group of mimetypes from the group on the left press "
+"the :guilabel:`+` button. To collapse a group of mimetypes press the "
+":guilabel:`-` button. Once you find the filetype you want to change on "
+"the top right it tells you what kind of file that mimetype is and shows "
+"the extensions. The current default is shown on the lower right with a "
+"change button that brings up a menu for you to change it to something "
+"else. To change a default press the :guilabel:`Change` button and it "
+"brings up a menu to choose the new default program for this kind of file."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.7/file_associations.rst:12
+msgid ""
+"To reset your changes press the :guilabel:`Reset` button if you don't "
+"want to keep your buttons. Once you are happy with your choices press the"
+" :guilabel:`Close` button or press the :kbd:`Escape` key."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.7/file_associations.rst:15
+msgid "Screenshot"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.7/file_associations.rst:19
+msgid "Version"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.7/file_associations.rst:20
+msgid "Lubuntu ships with version 0.15.0 of File Associations"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.7/file_associations.rst:23
+msgid "How to Launch"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.7/file_associations.rst:24
+msgid ""
+"From the menu :menuselection:`Preferences --> LXQt settings --> File "
+"Associations` or from the command line run"
+msgstr ""
+
+#: ../../source/3/3.2/3.2.7/file_associations.rst:30
+msgid "The icon for File Associations is a gear with a white circle on top."
+msgstr ""
+

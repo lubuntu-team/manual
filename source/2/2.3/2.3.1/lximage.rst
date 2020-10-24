@@ -23,11 +23,12 @@ To copy an image to the clipboard you can :menuselection:`Edit --> Copy to Clipb
 
 To view the next picture on your image press the :kbd:`right arrow` or :kbd:`page down` and conversely to view the previous image press the :kbd:`left arrow` or :kbd:`page up`. You can also scroll between different pictures with the mousewheel or by pressing the right and left pointing arrow buttons on the toolbar. To jump to the first picture press :kbd:`home` or :menuselection:`Go --> First File`. To jump to the last picture press :kbd:`end` or :menuselection:`Go --> Last File`.  You can also go to the next or previous files with :menuselection:`Go --> Previous File` or :menuselection:`Go --> Next File`.
 
-To view thumbnails of the current directory you can toggle thumbnails by pressing :kbd:`T` or :menuselection:`View --> Show Thumbnails` and thumbnails will show at the bottom  with a scrollbar at the bottom of the window to view the whole folder. To open the thumbnail of a picture in a another program such as one to edit that picture right click :menuselection:`Open With` and select the program you want to edit with. To rename an image after viewing it right click on the thumbnail select :menuselection:`Rename` and type the filename for the picture you want. To move a file to the trash can right click on it and select :menuselection:`Move to Trash`.
+To view thumbnails of the current directory you can toggle thumbnails by pressing :kbd:`T` or :menuselection:`View --> Show Thumbnails` and thumbnails will show at the bottom  with a scrollbar at the bottom of the window to view the whole folder. To open the thumbnail of a picture in a another program such as one to edit that picture right click :menuselection:`Open With` and select the program you want to edit with or you can do this by :menuselection:`File --> Open With`. To rename an image after viewing it right click on the thumbnail select :menuselection:`Rename` and type the filename for the picture you want. To move a file to the trash can right click on it and select :menuselection:`Move to Trash`.
+
 
 .. image:: lximage-thumb.png
 
-To view the picture entirely at its original size press :menuselection:`View --> Fit` or the button with a vertical and horizontal arrow and a folded over bottom right corner. To return your image to its original size press the magnifying button with 1:1 inside it or :menuselection:`View --> Original Size`. To show information about the settings on the camera :menuselection:`View --> Show EXIF Data`. 
+To view the picture entirely at its original size press :menuselection:`View --> Fit` or the button with a vertical and horizontal arrow and a folded over bottom right corner. To return your image to its original size press the magnifying button with 1:1 inside it or :menuselection:`View --> Original Size`. To show an outline around the image :kbd:`O` or :menuselection:`View --> Show Outline`. To show information about the settings on the camera :menuselection:`View --> Show EXIF Data`. 
 
 To view the picture as fullscreen press :kbd:`f11`, right click :menuselection:`Fullscreen`, double click on the image, or :menuselection:`View --> Fullscreen`. To have a slideshow of you pictures in your current folder :menuselection:`View --> Slideshow` or right click and select :menuselection:`Slide Show`. Once you start the slideshow on the toolbar a play pause button will appear on the toolbar. 
 
@@ -41,13 +42,14 @@ Screenshot
 
 Customizing
 -----------
-To change prefrences in LXImage :menuselection:`Edit --> Prefrences`.  To change the background color in a window press the button next to :guilabel:`Normal background color` and then a window will pop up showing your color choice. To change the background color when fullscreen press the button next to :guilabel:`Fullscreen background color` and the same color picker window will appear. To change how long it takes for a each slide to change change in a slideshow change the :guilabel:`Slide show interval (seconds)` field. To cancel your changes press the :guilabel:`Cancel` button. To apply your settings and exit the preference dialog by pressing the :guilabel:`OK` button.
+
+To change preferences in LXImage :menuselection:`Edit --> Preferences`.  To change the background color in a window press the button next to :guilabel:`Normal background color` and then a window will pop up showing your color choice. To change the background color when fullscreen press the button next to :guilabel:`Fullscreen background color` and the same color picker window will appear. To change how long it takes for a each slide to change change in a slideshow change the :guilabel:`Slide show interval (seconds)` field. To cancel your changes press the :guilabel:`Cancel` button. To apply your settings and exit the preference dialog by pressing the :guilabel:`OK` button. To show the image outline by default check the :guilabel:`Show image outline by default` checkbox. To show the annotations toolbar by default check the :guilabel:`Show annotations toolbar by default`.
 
 .. image:: lximage-prefrences.png
 
 Version
 -------
-Lubuntu ships with version 0.14.1 or LXImage. 
+Lubuntu ships with version 0.15.0 or LXImage. 
 
 How to Launch
 -------------

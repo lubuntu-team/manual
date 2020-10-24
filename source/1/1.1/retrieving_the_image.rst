@@ -39,9 +39,11 @@ To verify the image, run this from the command line:
 
 .. code:: 
 
- sha256sum lubuntu-20.04-desktop-amd64.iso
 
-and then carefully check that the output matches cc18a581d2e4d86f3f29ef44c12a0c42b54cde93db9fc5f7c3f10db1aff3fa9a \*lubuntu-20.04-desktop-amd64.iso
+ sha256sum lubuntu-20.10-desktop-amd64.iso
+
+and then carefully check that the output matches 
+42882c32c3098888a50a1e54bb42624bfafab8fd3714a8a8cd55d9fc975c84df \*groovy-desktop-amd64.iso
 
 
 Downloading the image via BitTorrent
@@ -50,7 +52,7 @@ Instead of downloading the image from one server, you can "torrent" the image, o
 
 In order to torrent the file, you need a BitTorrent client. We recommend `Transmission <https://transmissionbt.com/>`_, an Open Source BitTorrent client. Since Transmission only provides clients for Linux and macOS, we recommend `qbittorrent <https://www.qbittorrent.org/download.php>`_ for Windows users.
 
-The BitTorrent links can be found on our Downloads page or `cdimage.ubuntu.com`_ , both linked above.
+The BitTorrent links can be found on our Downloads page or `cdimage.ubuntu.com`_, both linked above.
 
 After you have downloaded the link you need, open it in your BitTorrent client. This will download the image. After this is done, we recommend that you leave your BitTorrent client open so you can seed this image for other people, which helps reduce bandwidth costs even further by decentralizing the download location for other users.
 
@@ -77,6 +79,10 @@ To download the image using zsync run
  
 .. code::
 
+<<<<<<< HEAD
    zsync http://cdimage.ubuntu.com/lubuntu/releases/focal/release/lubuntu-20.04-desktop-amd64.iso.zsync  
+=======
+   zsync http://cdimage.ubuntu.com/lubuntu/releases/groovy/release/lubuntu-20.10-desktop-amd64.iso.zsync  
+>>>>>>> master
 
 **You have now downloaded the image successfully. Please continue to Chapter 1.2.**

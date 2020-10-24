@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-12 14:08-0600\n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
 "PO-Revision-Date: 2018-11-13 20:20+0000\n"
 "Last-Translator: Leoni Franco Paz <lfrancopaz.451@gmail.com>\n"
 "Language: es\n"
@@ -19,7 +19,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #: ../../source/3/3.2/3.2.9/locale.rst:2
 msgid "Chapter 3.2.9 Locale"
@@ -36,7 +36,7 @@ msgid "Screenshot"
 msgstr ""
 
 #: ../../source/3/3.2/3.2.9/locale.rst:11
-msgid "Useage"
+msgid "Usage"
 msgstr ""
 
 #: ../../source/3/3.2/3.2.9/locale.rst:12
@@ -44,40 +44,86 @@ msgid ""
 "To change your locale the :guilabel:`Region` shows the name of your local"
 " and in the drop down menu you can type the name of your locale to search"
 " through the locales or scroll through the long list. Under the "
-":guilabel:`Examples` will show how numbers Time Currency and measurment "
+":guilabel:`Examples` will show how numbers Time Currency and measurement "
 "units will be shown on your system. If you do not like the changes you "
-"can press the :guilabel:`Reset` button. The checkbox for "
-":guilabel:`Detailed settings` allows for even more customization."
+"can press the :guilabel:`Reset` button. To close Locale press the "
+":kbd:`Escape` key or push the :guilabel:`Close` button."
 msgstr ""
 
-#: ../../source/3/3.2/3.2.9/locale.rst:15
+#: ../../source/3/3.2/3.2.9/locale.rst:14
+msgid ""
+"The checkbox for :guilabel:`Detailed Settings` allows for even more "
+"customization. To change how the thousands separator and decimal point "
+"appear in number change the :guilabel:`Numbers` drop down menu. To change"
+" the order of the time and date choose the :guilabel:`Time` drop down "
+"menu. To change how currency appears on your system change the "
+":guilabel:`Currency` drop down menu for currency. To change which "
+"measurement units change the :guilabel:`Measurement Units` drop down."
+msgstr ""
+
+#: ../../source/3/3.2/3.2.9/locale.rst:17
 msgid "Version"
 msgstr "Versión"
 
-#: ../../source/3/3.2/3.2.9/locale.rst:16
-msgid "Lubuntu ships with version 0.13.0 of Locale."
+#: ../../source/3/3.2/3.2.9/locale.rst:18
+msgid "Lubuntu ships with version 0.15.0 of Locale."
 msgstr ""
 
-#: ../../source/3/3.2/3.2.9/locale.rst:19
+#: ../../source/3/3.2/3.2.9/locale.rst:21
 msgid "How to Launch"
 msgstr "Como lanzar"
 
-#: ../../source/3/3.2/3.2.9/locale.rst:20
+#: ../../source/3/3.2/3.2.9/locale.rst:22
 msgid ""
-"To launch locale in the menu :menuselection:`Preferences --> LXQt "
-"settings --> locale` or run"
+"To launch Locale from the menu :menuselection:`Preferences --> LXQt "
+"settings --> Locale` or run"
 msgstr ""
 
-#: ../../source/3/3.2/3.2.9/locale.rst:26
+#: ../../source/3/3.2/3.2.9/locale.rst:28
 msgid ""
-"from the command line. In LXQt configuration center press the locale "
-"button that looks like a flag."
+"from the command line. The Locale icon looks like a blue flag with an A "
+"on it."
 msgstr ""
 
 #~ msgid ""
 #~ "To luaunch locale in the menu ->"
 #~ " Prefrences -> LXQt settings -> "
 #~ "locale or run lxqt-config-locale "
+#~ "from the command line. In LXQt "
+#~ "configuration center press the locale "
+#~ "button that looks like a flag."
+#~ msgstr ""
+
+#~ msgid "Useage"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To change your locale the "
+#~ ":guilabel:`Region` shows the name of "
+#~ "your local and in the drop down"
+#~ " menu you can type the name of"
+#~ " your locale to search through the"
+#~ " locales or scroll through the long"
+#~ " list. Under the :guilabel:`Examples` will"
+#~ " show how numbers Time Currency and"
+#~ " measurment units will be shown on"
+#~ " your system. If you do not "
+#~ "like the changes you can press the"
+#~ " :guilabel:`Reset` button. The checkbox for"
+#~ " :guilabel:`Detailed settings` allows for "
+#~ "even more customization."
+#~ msgstr ""
+
+#~ msgid "Lubuntu ships with version 0.13.0 of Locale."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To launch locale in the menu "
+#~ ":menuselection:`Preferences --> LXQt settings "
+#~ "--> locale` or run"
+#~ msgstr ""
+
+#~ msgid ""
 #~ "from the command line. In LXQt "
 #~ "configuration center press the locale "
 #~ "button that looks like a flag."

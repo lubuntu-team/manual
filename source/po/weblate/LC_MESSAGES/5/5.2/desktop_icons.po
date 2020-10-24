@@ -1,0 +1,163 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2020, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 20.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../source/5/5.2/desktop_icons.rst:2
+msgid "Chapter 5.2 Desktop Icons"
+msgstr ""
+
+#: ../../source/5/5.2/desktop_icons.rst:4
+msgid ""
+"The icons on your desktop can be moved by left clicking, holding and "
+"dragging the desktop icon to the position you want it. Shortcuts or "
+"desktop entry files can be opened by double click on the icon. If you "
+"want to view or edit a desktop file say for launching an application is "
+"to right click on the icon open with and select say a text editor like "
+"FeatherPad to open file.  To move a desktop icon hold left click and drag"
+" the icon to the desired position. If you move a desktop icon and then "
+"want to move it back right click and uncheck :menuselection:`Stick to "
+"current Position`. If you have an new executable file on your desktop and"
+" always want to run it right click and select :menuselection:`Trust this "
+"executable`. If an executable is not trusted it will have an "
+":guilabel:`!` on the icon."
+msgstr ""
+
+#: ../../source/5/5.2/desktop_icons.rst:6
+msgid ""
+"If you want to not see all your icons to show off your awesome desktop "
+"right click on the desktop background and select :menuselection:`Hide "
+"Desktop Items`. If you have hidden files in your desktop and want to "
+"toggle showing them right click on your desktop, check/uncheck, and "
+"select :menuselection:`Show Hidden`. To get your desktop icons to show "
+"again right click and uncheck the :guilabel:`Hide Desktop Icons` "
+"checkbox. To create a new folder on your desktop right click and select "
+":menuselection:`Create New --> Folder`. To create a new blank file on "
+"your desktop right click on it and select :menuselection:`Create New --> "
+"Blank File`."
+msgstr ""
+
+#: ../../source/5/5.2/desktop_icons.rst:8
+msgid ""
+"To rearrange your files by when they were last modified right click on "
+"the desktop :menuselection:`Sorting --> By Modification Time`. To sort by"
+" how large each file is right click on the desktop "
+":menuselection:`Sorting --> By File Size`. To return to sorting by name "
+"right click on the desktop and select :menuselection:`Sorting --> By File"
+" Name`. To reverse the order of sorting right click on the desktop and "
+"select :menuselection:`Sorting --> Descending`. To sort back to the way "
+"you had before right click and select :menuselection:`Sorting --> "
+"Ascending`. To make your sorting of desktop icons case sensitive right "
+"click on the desktop and select :menuselection:`Sorting --> Case "
+"Sensitive`. To make folders appear first right click on your checkbox and"
+" select :menuselection:`Sorting --> Folder First`."
+msgstr ""
+
+#: ../../source/5/5.2/desktop_icons.rst:10
+msgid ""
+"To select all items on your desktop right click on the desktop background"
+" and select :menuselection:`Select All`. To select the opposite to what "
+"you currently have select right click on the desktop and select "
+":menuselection:`Invert Selection`."
+msgstr ""
+
+#: ../../source/5/5.2/desktop_icons.rst:12
+msgid ""
+"Some icons also have special actions associated with them. You can right "
+"click on the trash and select :menuselection:`Empty Trash` to get rid of "
+"all files in your trash can."
+msgstr ""
+
+#: ../../source/5/5.2/desktop_icons.rst:15
+msgid "Adding and removing items from the desktop"
+msgstr ""
+
+#: ../../source/5/5.2/desktop_icons.rst:16
+msgid ""
+"Shortcuts can be copied to the desktop by dragging and dropping them from"
+" the application menu."
+msgstr ""
+
+#: ../../source/5/5.2/desktop_icons.rst:17
+msgid ""
+"You can also create shortcuts by dragging and dropping files and folders "
+"from the File manager onto the desktop."
+msgstr ""
+
+#: ../../source/5/5.2/desktop_icons.rst:18
+msgid ""
+"To rename a file on the desktop right click on the icon "
+":menuselection:`Rename`."
+msgstr ""
+
+#: ../../source/5/5.2/desktop_icons.rst:19
+msgid ""
+"To open the properties of a file or icon on your desktop right click the "
+"icon :menuselection:`Properties`."
+msgstr ""
+
+#: ../../source/5/5.2/desktop_icons.rst:20
+msgid ""
+"You can create files on your desktop by saving them in the desktop "
+"directory in your home folder."
+msgstr ""
+
+#: ../../source/5/5.2/desktop_icons.rst:24
+msgid ""
+"To remove a desktop icon right click on the file and click "
+":menuselection:`Move to Trash`."
+msgstr ""
+
+#: ../../source/5/5.2/desktop_icons.rst:27
+msgid "Editing"
+msgstr ""
+
+#: ../../source/5/5.2/desktop_icons.rst:28
+msgid ""
+"To edit a desktop entry including those on your menu you will need to "
+"open the .desktop entry in FeatherPad or the text editor of your choice "
+"you can also on desktop icons right click on the icon and "
+":menuselection:`Open With`. To launch a program with an option simply add"
+" that option to the line that starts with Exec=. To change what the name "
+"of the desktop file shows up as on the desktop and in file manger change "
+"the entry line that starts with Name=. To change the icon to that used by"
+" something else change the line starting with Icon=."
+msgstr ""
+
+#: ../../source/5/5.2/desktop_icons.rst:31
+msgid "Creating"
+msgstr ""
+
+#: ../../source/5/5.2/desktop_icons.rst:32
+msgid ""
+"To create a launcher graphically you can right click on the desktop and "
+"select :menuselection:`Create Launcher`. To add a name for the launcher "
+"you want enter in the :guilabel:`Name` field. To enter a description of "
+"the program enter the :guilabel:`Description` field. To add a comment to "
+"your .desktop file enter it in the :guilabel:`Comment` field. To add "
+"which command you want your desktop file to execute enter that in the "
+":guilabel:`Command` field. To choose which icon to use for your icon "
+"enter it in the :guilabel:`Icon` file or press the :guilabel:`...` button"
+" to find browse for what icon to use. To change whether the apps launches"
+" in a terminal change the :guilabel:`Terminal` field. To change to make "
+"this a link use the :guilabel:`Type` field and select "
+":menuselection:`Link`. When you select link you can add the URL with the "
+":guilabel:`URL` field."
+msgstr ""
+

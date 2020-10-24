@@ -10,83 +10,109 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-12 14:08-0600\n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #: ../../source/4/4.3/software_sources.rst:2
 msgid "Chapter 4.3 Managing Software Sources"
 msgstr ""
 
-#: ../../source/4/4.3/software_sources.rst:5
+#: ../../source/4/4.3/software_sources.rst:4
 msgid ""
-"Occasionally you may need to change the setting of you software sources. "
-"This could involve:"
+"Occasionally you may need to change the setting of your software sources."
+" This could involve:"
 msgstr ""
 
-#: ../../source/4/4.3/software_sources.rst:7
+#: ../../source/4/4.3/software_sources.rst:6
 msgid ""
-"changing update settings like update frequency, notification of new "
+"Changing update settings like update frequency, notification of new "
 "releases,"
 msgstr ""
 
+#: ../../source/4/4.3/software_sources.rst:7
+msgid "Adding or removing sources such as PPAs"
+msgstr ""
+
 #: ../../source/4/4.3/software_sources.rst:8
-msgid "adding or removing sources such as PPAs"
+msgid "Changing download server"
 msgstr ""
 
 #: ../../source/4/4.3/software_sources.rst:9
-msgid "changing download server"
+msgid "Installing proprietary drivers"
 msgstr ""
 
-#: ../../source/4/4.3/software_sources.rst:10
-msgid "etc,"
-msgstr ""
-
-#: ../../source/4/4.3/software_sources.rst:14
+#: ../../source/4/4.3/software_sources.rst:12
 msgid "Usage"
 msgstr ""
 
+#: ../../source/4/4.3/software_sources.rst:14
+msgid ""
+"You can navigate the Software Sources using the tabs at the top of the "
+"window."
+msgstr ""
+
 #: ../../source/4/4.3/software_sources.rst:16
-msgid "You can navigate the Software Sources using the tabs."
-msgstr ""
-
-#: ../../source/4/4.3/software_sources.rst:18
 msgid ""
-"Ubuntu Software contains settings involving the downloading of software "
-"from Ubuntu repositories. Here you can disable proprietary software and "
-"select a download server among other things."
-msgstr ""
-
-#: ../../source/4/4.3/software_sources.rst:19
-msgid ""
-"Other software allows you to add, remove or edit other software sources. "
-"Here you can manage remote repositories (PPAs) and CD-ROM repositories."
+"The :guilabel:`Ubuntu Software` tab contains settings involving the "
+"downloading of software from Ubuntu repositories. Here you can disable "
+"proprietary software and select a download server among other things. To "
+"toggle enabling /disabling the proprietary drivers check/uncheck the "
+":guilabel:`Proprietary drivers for devices(restricted)` checkbox. To "
+"toggle enabling/disabling other proprietary software check/uncheck the "
+":guilabel:`Software restricted by copyright or legal issues(multiverse)` "
+"checkbox. To change the mirror or where you download change the "
+":guilabel:`Download from` drop down menu. The :guilabel:`Main Server` "
+"option downloads from the main Ubuntu server. There is an "
+":guilabel:`Other` option with a large list of mirrors. The "
+":guilabel:`Mirror` column lists a collapse list of mirrors to download "
+"from. To choose the fastest option press the :guilabel:`Select Best "
+"Server`."
 msgstr ""
 
 #: ../../source/4/4.3/software_sources.rst:20
 msgid ""
-"Updates allows you set which software updates you would like to subscribe"
-" to, in this case Security, Recommended, Pre-released (unstable), and "
-"Unsupported updates. You can also set how frequently your system will "
-"automatically check for updates and what actions it should take, namely "
-"notify you, download (without notification), or install updates. You can "
-"also specify which releases you would like to be notified of, Normal "
-"Releases, Long term releases or Never."
+"The :guilabel:`Other software` tab allows you to add, remove, or edit "
+"other software sources. Here you can manage remote repositories (PPAs) "
+"and CD-ROM repositories. To enable/disable a software source click the "
+"checkbox to the left of its name. To remove software from the list left "
+"click the :guilabel:`Remove` button. To add a third party source of "
+"software to your system press the :guilabel:`Add` button."
 msgstr ""
 
-#: ../../source/4/4.3/software_sources.rst:21
+#: ../../source/4/4.3/software_sources.rst:24
 msgid ""
-"Authentication manages key files which ensure your downloads are not "
-"compromised, basically ensuring you are download from a reliable source "
-"and your download has not been intercepted."
+"The :guilabel:`Updates` tab allows you set which software updates you "
+"would like to subscribe to, in this case :guilabel:`Important security "
+"updates`, :guilabel:`Recommended updates`, :guilabel:`Pre-released "
+"(unstable)`, and :guilabel:`Unsupported updates`. You can also set how "
+"frequently your system will automatically check for updates to the right "
+"of :guilabel:`Check for updates` and what actions it should take, namely "
+"notify you, download (without notification), or install updates. You can "
+"also specify which releases you would like to be notified of in the "
+":guilabel:`Show new distribution releases` drop down, "
+":menuselection:`Normal Releases`, :menuselection:`Long term releases "
+"only`, or :menuselection:`Never`."
 msgstr ""
 
-#: ../../source/4/4.3/software_sources.rst:22
+#: ../../source/4/4.3/software_sources.rst:28
+msgid ""
+"The :guilabel:`Authentication` tab manages key files which ensure your "
+"downloads are not compromised, basically ensuring you are download from a"
+" reliable source and your download has not been intercepted. The list of "
+"all keys signed on your system are listed under :guilabel:`Trusted "
+"software providers`. To remove a key you no longer want to have access to"
+" your system press the :guilabel:`Remove` button. To only allow the "
+"default keys that ship with Lubuntu press the :guilabel:`Restore "
+"Defaults` button."
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:32
 msgid ""
 "Submitting statistical data will improve the Ubuntu experience allowing "
 "developers to know which software you are downloading anonymously. We "
@@ -94,41 +120,155 @@ msgid ""
 "has an \"Opt-in\" philosophy."
 msgstr ""
 
-#: ../../source/4/4.3/software_sources.rst:25
-msgid "Version"
-msgstr ""
-
-#: ../../source/4/4.3/software_sources.rst:26
-msgid "Lubuntu ships with version 0.96.27 of software properties."
-msgstr ""
-
-#: ../../source/4/4.3/software_sources.rst:29
-msgid "Screenshot"
-msgstr ""
-
-#: ../../source/4/4.3/software_sources.rst:33
-msgid "How to Launch"
-msgstr ""
-
-#: ../../source/4/4.3/software_sources.rst:35
+#: ../../source/4/4.3/software_sources.rst:34
 msgid ""
-"In Muon Package Manager :menuselection:`Settings --> Configure Software "
-"Sources`"
+"To reset changes to software sources press the :guilabel:`Reset` button. "
+"When exiting the program and your sources change you will be asked to "
+"download new software sources and to do so press the :guilabel:`Reload` "
+"button."
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:37
+msgid "Proprietary Drivers"
 msgstr ""
 
 #: ../../source/4/4.3/software_sources.rst:38
 msgid ""
-"In Discover Software Center :menuselection:`Settings --> Ubuntu (Default)"
-" --> Settings (Gear icon) --> Software Sources`."
+"To install proprietary drivers use the :guilabel:`Additional Drivers` "
+"tab. Then press the check box to use the :guilabel:`Using Driver Name` "
+"radio button to input the proprietary driver for that checkbox. To not "
+"use proprietary drivers for something press the :guilabel:`Do not use the"
+" device` radio button. To apply these changes you will need internet "
+"access and will need to press the :guilabel:`Apply Changes` button. To "
+"revert back to your previous changes press the :guilabel:`Revert` button."
 msgstr ""
 
 #: ../../source/4/4.3/software_sources.rst:40
-msgid "command line:"
+msgid ""
+"To launch this part of the program directly :menuselection:`Preferences "
+"--> Additional Drivers`."
 msgstr ""
 
-#: ../../source/4/4.3/software_sources.rst:46
+#: ../../source/4/4.3/software_sources.rst:43
+msgid "Version"
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:44
+msgid "Lubuntu ships with version 0.98.10 of Software Sources."
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:47
+msgid "How to Launch"
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:49
 msgid ""
-"tags:ppa, software, download, sources, release, update, discover, muon, "
+"To launch software properties from the menu you can "
+":menuselection:`Preferences --> Software Sources`. In Muon Package "
+"Manager :menuselection:`Settings --> Configure Software Sources`. In "
+"Discover Software Center :menuselection:`Settings --> Ubuntu (Default) "
+"--> Settings (Gear icon) --> Software Sources`. From the command line run"
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:55
+msgid ""
+"The icon for Software Sources looks like a blue circle with a white "
+"downward pointing arrow."
+msgstr ""
+
+#: ../../source/4/4.3/software_sources.rst:57
+msgid ""
+"tags:PPA, software, download, sources, release, update, Discover, Muon, "
 "security,"
 msgstr ""
+
+#~ msgid ""
+#~ "Occasionally you may need to change "
+#~ "the setting of you software sources. "
+#~ "This could involve:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "changing update settings like update "
+#~ "frequency, notification of new releases,"
+#~ msgstr ""
+
+#~ msgid "adding or removing sources such as PPAs"
+#~ msgstr ""
+
+#~ msgid "changing download server"
+#~ msgstr ""
+
+#~ msgid "etc,"
+#~ msgstr ""
+
+#~ msgid "You can navigate the Software Sources using the tabs."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Ubuntu Software contains settings involving"
+#~ " the downloading of software from "
+#~ "Ubuntu repositories. Here you can "
+#~ "disable proprietary software and select "
+#~ "a download server among other things."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Other software allows you to add, "
+#~ "remove or edit other software sources."
+#~ " Here you can manage remote "
+#~ "repositories (PPAs) and CD-ROM "
+#~ "repositories."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Updates allows you set which software"
+#~ " updates you would like to subscribe"
+#~ " to, in this case Security, "
+#~ "Recommended, Pre-released (unstable), and "
+#~ "Unsupported updates. You can also set"
+#~ " how frequently your system will "
+#~ "automatically check for updates and what"
+#~ " actions it should take, namely "
+#~ "notify you, download (without notification),"
+#~ " or install updates. You can also "
+#~ "specify which releases you would like"
+#~ " to be notified of, Normal Releases,"
+#~ " Long term releases or Never."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Authentication manages key files which "
+#~ "ensure your downloads are not "
+#~ "compromised, basically ensuring you are "
+#~ "download from a reliable source and "
+#~ "your download has not been intercepted."
+#~ msgstr ""
+
+#~ msgid "Lubuntu ships with version 0.96.27 of software properties."
+#~ msgstr ""
+
+#~ msgid "Screenshot"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In Muon Package Manager "
+#~ ":menuselection:`Settings --> Configure Software "
+#~ "Sources`"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In Discover Software Center "
+#~ ":menuselection:`Settings --> Ubuntu (Default) "
+#~ "--> Settings (Gear icon) --> Software"
+#~ " Sources`."
+#~ msgstr ""
+
+#~ msgid "command line:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "tags:ppa, software, download, sources, "
+#~ "release, update, discover, muon, security,"
+#~ msgstr ""
 

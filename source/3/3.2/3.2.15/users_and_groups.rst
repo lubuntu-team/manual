@@ -33,11 +33,11 @@ The :guilabel:`Groups` tabs lets you see info on groups and change properties. T
 
 Version
 -------
-Lubuntu ships with version 0.14.1 of Users and Groups. 
+Lubuntu ships with version 0.15.0 of Users and Groups. 
 
 How to Launch
 -------------
-To launch Users and Groups from the menu :menuselection:`Preferences --> LXQt settings --> Users and Groups`. The icon for Users and Groups is a teal circle with nondescript picture of a person. Or you can run
+To launch Users and Groups from the menu :menuselection:`Preferences --> LXQt settings --> Users and Groups`. The icon for Users and Groups is a teal circle with nondescript picture of a person in the foreground. Or you can run
 
 .. code:: 
 

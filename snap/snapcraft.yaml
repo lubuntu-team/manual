@@ -12,12 +12,12 @@ parts:
   my-part:
     source: https://phab.lubuntu.me/source/manual.git
     source-type: git
-    build-packages: [python3-pip, python3-sphinx, latexmk, python3-sphinx-rtd-theme, python3-sphinx-bootstrap-theme]   
+    build-packages: [python3-pip, python3-sphinx, python3-sphinx-rtd-theme, python3-sphinx-bootstrap-theme]   
     plugin: make
     make-parameters: [html]
     artifacts: [build/html/]
   launcher:
-    source: snap/local
+    source: snap/local/snap/local
     plugin: dump
 apps:
   lubuntu-manual:

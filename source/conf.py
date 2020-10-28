@@ -221,6 +221,8 @@ htmlhelp_basename = 'LubuntuManualdoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
+latex_engine = 'xelatex'
+
 latex_elements = {
      # The paper size ('letterpaper' or 'a4paper').
      #
@@ -237,7 +239,23 @@ latex_elements = {
      # Latex figure (float) alignment
      #
      # 'figure_align': 'htbp',
+     'fontpkg': r'''
+     \setmainfont{DejaVu Serif}
+     \setsansfont{DejaVu Sans}
+     \setmonofont{DejaVu Sans Mono}
+     ''',
+     'preamble': r'''
+     \usepackage[titles]{tocloft}
+     \cftsetpnumwidth {1.25cm}\cftsetrmarg{1.5cm}
+     \setlength{\cftchapnumwidth}{0.75cm}
+     \setlength{\cftsecindent}{\cftchapnumwidth}
+     \setlength{\cftsecnumwidth}{1.25cm}
+     ''',
+     'fncychap': r'\usepackage[Bjornstrup]{fncychap}',
+     'printindex': r'\footnotesize\raggedright\printindex',
 }
+
+latex_show_urls = 'footnote'
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,

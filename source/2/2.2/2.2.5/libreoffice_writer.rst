@@ -37,7 +37,7 @@ To undo your changes on the paragraph window press the :guilabel:`Reset` button.
 
 To change font color press the button that has a T with a drop on it and a red underline this will bring down several different colors you can change your text to a color you want. You can also change your font color through the :menuselection:`Format --> Character` window.
 
-To make text superscript press the button with A and a smaller B located above it as if it in superscript. To make text subscript press the button that is an A with a smaller B located slightly below it. 
+To make text superscript press the button with A :sup:`B`. To make text subscript press the button that is an A :sub:`B`. 
 
 If you want text in a text box that can be moved with the mouse press the button that looks like a T with a box around it or :menuselection:`Insert --> Text box`. To insert a hyperlink press :kbd:`Control + K` or :menuselection:`Insert --> Hyperlink`. 
 

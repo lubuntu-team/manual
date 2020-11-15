@@ -25,7 +25,6 @@ To style part of your spreadsheet to bring lots of attention to a cell :menusele
 
 To insert an image press :menuselection:`Insert --> Image`. To select an image to change how it appears in your spreadsheet left click on it. To resizing your image while keeping the same aspect ratio click on the box on a corner of your image. To stretch or shrink an image horizontally left click on the boxes on the left or right hand side and then release when in the giant position. To stretch on shrink your image vertically click on the box on the top or bottom and drag to your desired position. To change what image shows on the spreadhseet right click on the image and select :menuselection:`Replace`. To save an image in a spreadsheet right click on the image and select :menuselection:`Save`.
 
-
 If you want to insert a new column to the left of a column right click on the letter for the column :menuselection:`Insert Column Before`. If you want the new column to the right is right click on the letter and :menuselection:`Insert Column After`. To insert a row above the current row right click on the number and :menuselection:`Insert Row Above`. To insert a row below the current row right click on the number and :menuselection:`Insert Row Below`. To delete a row or column right click the number  and select :menuselection:`Delete rows` or :menuselection:`Delete Column`.  
 
 To change the size of a row or column of cells click in between the border of that particular row or column and drag with the mouse to give yourself room. 

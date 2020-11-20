@@ -23,7 +23,7 @@ To see a gallery of stock images for your spreadsheet :menuselection:`View --> G
 
 To style part of your spreadsheet to bring lots of attention to a cell :menuselection:`Styles --> Accent 1`. To bring slightly less attention to a cell :menuselection:`Styles --> Accent 2`. To bring even less attention to a cell :menuselection:`Styles --> Accent 3`. To style a cell like a heading :menuselection:`Styles --> Heading 1`. To have a slightly smaller heading :menuselection:`Styles -->  Heading 2`. To switch back to your original style :menuselection:`Styles --> Default`.
 
-To insert an image press :menuselection:`Insert --> Image`. To select an image to change how it appears in your spreadsheet left click on it. To resizing your image while keeping the same aspect ratio click on the box on a corner of your image. To stretch or shrink an image horizontally left click on the boxes on the left or right hand side and then release when in the giant position. To stretch on shrink your image vertically click on the box on the top or bottom and drag to your desired position. To change what image shows on the spreadhseet right click on the image and select :menuselection:`Replace`. To save an image in a spreadsheet right click on the image and select :menuselection:`Save`. To remove an image from your spreadsheet press the :kbd:`Delete` key.
+To insert an image press :menuselection:`Insert --> Image`. To select an image to change how it appears in your spreadsheet left click on it. To resizing your image while keeping the same aspect ratio click on the box on a corner of your image. To stretch or shrink an image horizontally left click on the boxes on the left or right hand side and then release when in the giant position. To stretch on shrink your image vertically click on the box on the top or bottom and drag to your desired position. To change what image shows on the spreadsheet right click on the image and select :menuselection:`Replace`. To save an image in a spreadsheet right click on the image and select :menuselection:`Save`. To remove an image from your spreadsheet press the :kbd:`Delete` key.
 
 If you want to insert a new column to the left of a column right click on the letter for the column :menuselection:`Insert Column Before`. If you want the new column to the right is right click on the letter and :menuselection:`Insert Column After`. To insert a row above the current row right click on the number and :menuselection:`Insert Row Above`. To insert a row below the current row right click on the number and :menuselection:`Insert Row Below`. To delete a row or column right click the number  and select :menuselection:`Delete rows` or :menuselection:`Delete Column`.  
 
@@ -45,7 +45,7 @@ To insert a special character not on your keyboard :menuselection:`Insert --> Sp
 
 .. image:: calc-specialcharacter.png
 
-To insert a hyperlink in Libreoffice-calc :menuselection:`Insert --> Hyperlink` or press :kbd:`Control+K`. To actually type the address in the :guilabel:`URL` field. To switch to a button for the hyperlink use the :guilabel:`Form` button. To switch back to text use the :guilabel:`Form` drop down and select :guilabel:`Text`.
+To insert a hyperlink in Libreoffice Calc :menuselection:`Insert --> Hyperlink` or press :kbd:`Control+K`. To actually type the address in the :guilabel:`URL` field. To switch to a button for the hyperlink use the :guilabel:`Form` button. To switch back to text use the :guilabel:`Form` drop down and select :guilabel:`Text`.
 
 .. image:: calc-link.png
 

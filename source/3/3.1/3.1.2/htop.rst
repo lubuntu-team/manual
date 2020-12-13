@@ -25,7 +25,7 @@ To change how your process are sorted press :kbd:`F6` which will bring up your o
 
 .. image:: htop-setup.png
 
-To change what columns end up showing select :guilable:`Columns` on the setup menu. The column :guilabel:`Active Columns` shows what columns you will have on htop with the top being the leftmost column in htop and the bottom being the rightmost.
+To change what columns end up showing select :guilable:`Columns` on the setup menu. The column :guilabel:`Active Columns` shows what columns you will have on htop with the top being the leftmost column in htop and the bottom being the rightmost. To move a column up in the list press :kbd:`F7`. To move a column down press :kbd:`F8`.
 
 Version
 -------

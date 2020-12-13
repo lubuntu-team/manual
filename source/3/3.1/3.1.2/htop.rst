@@ -25,6 +25,8 @@ To change how your process are sorted press :kbd:`F6` which will bring up your o
 
 .. image:: htop-setup.png
 
+To change what columns end up showing select :guilable:`Columns` on the setup menu.
+
 Version
 -------
 Lubuntu ships with version 3.0.3 of htop. 

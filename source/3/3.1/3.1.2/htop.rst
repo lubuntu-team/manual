@@ -27,7 +27,7 @@ To change how your process are sorted press :kbd:`F6` which will bring up your o
 
 Version
 -------
-Lubuntu ships with version 2.2.0 of htop. 
+Lubuntu ships with version 3.0.3 of htop. 
 
 How to launch
 -------------

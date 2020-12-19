@@ -54,7 +54,7 @@ On the very bottom of the PCManFM-Qt window when you have nothing selected it sh
 
 To see hidden files press :kbd:`control +h`, right click :menuselection:`Show Hidden`, or go to  :menuselection:`View --> Show hidden`. Press the same thing again to hide hidden files again. To open a terminal in your current folder press :kbd:`f4`, right click on a folder and select :menuselection:`Open in Terminal`, or :menuselection:`Tool --> Open Terminal` from the menu. To copy the full path of a file or directory press :kbd:`Control+Shift+C` or :menuselection:`Tool --> Copy Full Path`.
 
-To view the properties of a file or folder right click on it and select properties from the menu, :menuselection:`File --> File Properties` or press :kbd:`Alt +Enter`. To view a dialog that shows folder properties :menuselection:`File --> Folder Properties`. The :guilabel:`General` tab will show you the size of the file, where the file is, and when it was last modified or accessed. To change what program a file opens with use the :guilabel:`Open With` drop down menu and select the program to open the file.
+To view the properties of a file or folder right click on it and select :menuselection:`Properties` from the menu, :menuselection:`File --> File Properties` or press :kbd:`Alt +Enter`. To view a dialog that shows folder properties :menuselection:`File --> Folder Properties`. The :guilabel:`General` tab will show you the size of the file, where the file is, and when it was last modified or accessed. To change what program a file opens with use the :guilabel:`Open With` drop down menu and select the program to open the file.
  
  .. image::  file-prop.png 
  

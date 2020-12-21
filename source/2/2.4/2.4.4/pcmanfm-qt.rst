@@ -46,7 +46,7 @@ To connect to a remote server such as a NAS go to the :menuselection:`Go -->  Co
 
 .. image::  pcmanfm-qt-connect-server.png 
 
-PCManFM-Qt also supports transferring files to mobile devices plugged in with a USB cable. On the left hand side under devices the mobile device will appear. You may need on your device to allow it to transfer files. After you have done this You can see the files on mobile device and transfer files to them. To eject the mobile devices press the upward pointing arrow to unmount it.
+PCManFM-Qt also supports transferring files to mobile devices plugged in with a USB cable. On the left hand side under :guilabel:`Devices` the mobile device will appear. You may need on your device to allow it to transfer files. After you have done this You can see the files on mobile device and transfer files to them. To eject the mobile devices press the upward pointing arrow to unmount it.
 
 At the bottom of the window is a filter bar that lets you show files only matching a pattern in the window of the current folder. To show the filter bar press :kbd:`Control+I` or :menuselection:`View --> Filtering --> Show/Focus Filter Bar`. To use it type what you want to search for in the bar that says :guilabel:`Filter`. How many result you match will show in the :guilabel:`item(s)` field. To empty out the fileter press :kbd:`Escape`. To return the filter back to seeing all files clear the text field and hide the filter bar by pressing :kbd:`Control +Shift+ K` or :menuselection:`View --> Filtering --> Clear All Filters`. If you still want to see the filter bar but to see all files hold the :kbd:`backspace` key to clear it out. 
 

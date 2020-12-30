@@ -23,6 +23,6 @@ To launch Alternatives Configurator from the menu :menuselection:`Preferences --
 
 .. code::
 
-   galternitives
+   galternatives
 
 from the command line. The icon for Alternatives Configurator is a dark gray circle with an orange G with an a inside.

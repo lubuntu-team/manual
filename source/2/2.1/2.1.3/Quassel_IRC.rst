@@ -18,7 +18,7 @@ To see all the nicknames of someone in a channel are located in a sidebar labele
 
 .. image:: quasselwizard.png
 
-To add the Lubuntu IRC chat network click :menuselection:`File --> Networks --> Configure_Networks`. To add a new network  :guilabel:`+Add`. To connect to a common public network :guilabel:`Use preset` dropdown, select :guilabel:`Lubuntu IRC` and then click :guilabel:`OK`.
+To add the Lubuntu IRC chat network click :menuselection:`File --> Networks --> Configure_Networks`. To add a new network click the :guilabel:`+Add` button. To connect to a common public network :guilabel:`Use preset` dropdown, select :guilabel:`Lubuntu IRC` or any other server you want to join and then press :guilabel:`OK`.
 
 To join a channel simple type "/join 1" (where 1 is the channel name), right click the network and select :menuselection:`Join Channel` or use the :guilabel:`Join` button. To leave a channel right click on the channel name on the right hand side and select :menuselection:`Part` from the context menu. If you want to join the channel again after leaving it right click on the channel and select :menuselection:`Join`. To have your chat be hidden until you rejoin it again right click on the channel and select :menuselection:`Hide Chats(s) Temporarily`. To hide the chat forever right click on the channel and select :menuselection:`Hide Chats(s) Permanently`.
 

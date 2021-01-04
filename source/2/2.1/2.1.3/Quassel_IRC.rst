@@ -85,7 +85,7 @@ To view settings for spellcheck use the :guilabel:`Spell Checking` tab. To chang
 
 .. image:: quassel-spellcheck.png 
 
-To have additional settings on highlights use the :guilabel:`Highlights` tab. To add other words or names to highlight you can press the :guilabel:`Add` button. To change what you want a name or word to be highlighted double click on the :guilabel:`Name` column. To toggle enabling being highlighted by the name check or uncheck the checkbox in the :guilabel:`Enabled` column. To make being highlighted case sensitive check the checkbox in the checkbox in the :guilabel:`CS` column. To use a regular expression for the rule to highlight check the checkbox in the :guilabel:`RegEx` column. To remove this highlight rule press the :guilabel:`Remove` button.
+To have additional settings on highlights like when someone says your name in a channel and it appears in a different color use the :guilabel:`Highlights` tab. To add other words or names to highlight you can press the :guilabel:`Add` button. To change what you want a name or word to be highlighted double click on the :guilabel:`Name` column. To toggle enabling being highlighted by the name check or uncheck the checkbox in the :guilabel:`Enabled` column. To make being highlighted case sensitive check the checkbox in the checkbox in the :guilabel:`CS` column. To use a regular expression for the rule to highlight check the checkbox in the :guilabel:`RegEx` column. To remove this highlight rule press the :guilabel:`Remove` button.
 
 .. image:: quassel-pref-highlights.png
 

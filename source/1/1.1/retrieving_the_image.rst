@@ -1,7 +1,7 @@
 Chapter 1.1 Retrieving the image
 =================================
 
-Before you install Lubuntu, you need to retrieve the correct image. Lubuntu supports AMD64 CPU types also known as 64-bit with a new version every six months (supported for nine months), and every two years being a long term support release (supported for three years). If you have a 32 bit processor we unfortunately had to drop support but 18.04 LTS is still supported until 2021 for 32 bit. Lubuntu 20.04 is a Long Term Support release supported until 2023.
+Before you install Lubuntu, you need to retrieve the correct image. Lubuntu supports AMD64 CPU types also known as 64-bit with a new version every six months (supported for nine months), and every two years being a long term support release (supported for three years). If you have a 32 bit processor we unfortunately had to drop support but 18.04 LTS is still supported until 2021 for 32 bit. Lubuntu 20.04 is a Long Term Support release supported until 2023. Lubuntu 21.04 is supported until Januaray 2022.
 
 LTS vs. Regular Releases
 ------------------------

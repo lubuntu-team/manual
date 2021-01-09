@@ -47,7 +47,7 @@ To find and replace text press :kbd:`control +r`, the button with a magnifying g
 
 .. image:: featherpad-find-replace.png 
 
-To change what font you want select :menuselection:`Options --> Font` to change your font sizes. To change each font on the on the font level. To change the size type the size you or select it from the :guilabel:`Size` drop down menu. To select a font style simply use the :guilabel:`Font style` menu of italic or oblique. To add an underlined font check the :guilabel:`Underline` checkbox. To view a sample of your font :guilabel:`Sample` and will preview your text. To see what the font looks like look  in the box under :guilabel:`Sample`.
+To change what font you want select :menuselection:`Options --> Font` to change your font sizes. To choose a font that is not fixed width uncheck the :guilabel:`Programing Fonts` checkbox. To change each font on the on the font level. To change the size type the size you or select it from the :guilabel:`Size` drop down menu. To select a font style simply use the :guilabel:`Font style` menu of italic or oblique. To add an underlined font check the :guilabel:`Underline` checkbox. To view a sample of your font :guilabel:`Sample` and will preview your text. To see what the font looks like look  in the box under :guilabel:`Sample`.
 
 .. image:: featherpad-font.png
 

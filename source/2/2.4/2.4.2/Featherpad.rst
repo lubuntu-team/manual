@@ -93,7 +93,7 @@ To view all keyboard shortcuts of Featherpad switch to the :guilabel:`Shortcuts`
 
 Version
 -------
-Lubuntu ships with version 0.12.1 of Featherpad. 
+Lubuntu ships with version 0.17.1 of Featherpad. 
 
 How to Launch
 -------------

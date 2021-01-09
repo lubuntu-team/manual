@@ -39,7 +39,7 @@ To search your text file press :kbd:`Control + f` or :menuselection:`Search --> 
 
 .. image:: featherpad-find.png
 
-To jump to a particular line in a file press :kbd:`control +j` or :menuselection:`Search --> Jump to` or the button that looks like >>. To select the text you jump to press the :guilabel:`Select Text` button. Then in the bar at the bottom type in what line you want to jump to.
+To jump to a particular line in a file press :kbd:`control +j` or :menuselection:`Search --> Jump to` or the button that looks like >>. To select the text you jump to press the :guilabel:`Select Text` button. To jump to  a particular line type the line number in the :guilabel:`Go to line` field.
 
 .. image:: featherpad-jump.png
 

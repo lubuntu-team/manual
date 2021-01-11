@@ -36,7 +36,7 @@ If you make a mistake entering a long input into KCalc press the button that loo
 
 To have a log with the base of 10 type the number you want to take the log of then press the :guilabel:`Log` button. To take a log based off e, the natural logarithm, type the number you want to take the logarithm of then press the :guilabel:`Ln` button.
 
-The Scientific mode also brings in a menu for many different predetermined comments under the :menuselection:`Constants`. If you want your own custom constants buttons check the checkbox for :menuselection:`Settings --> Constants Buttons`.
+The Scientific mode also brings in a menu for many different predetermined comments under the :menuselection:`Constants`. If you want a button for  constants check the :menuselection:`Settings --> Constants Buttons` checkbox.
  
 To store a value in memory press the :guilabel:`M+` Button. To retrieve a value from memory press the :guilabel:`MR` button. To clear a value from memory press the :guilabel:`MC` button.
 

@@ -52,6 +52,6 @@ To launch software properties from the menu you can :menuselection:`Preferences 
 
     lxqt-sudo software-properties-qt
     
-The icon for Software Sources looks like a blue circle with a white downward pointing arrow.
+The icon for Software Sources looks like a dark circle with three blue dots.
 
 tags:PPA, software, download, sources, release, update, Discover, Muon, security, 

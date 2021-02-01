@@ -5,7 +5,7 @@ Desktop is an application to change the desktop background, the appearance of ic
 
 Usage
 ------
-The :guilabel:`Background` tab has settings for desktop background. To change the desktop background you can either type the path of the file you can type in :guilabel:`Wallpaper image file` or use the :guilabel:`Browse` button to bring up a dialog to choose which the desktop. The drop down of :guilabel:`Wallpaper mode` lets you change how the image you select for a wallpaper changes. If you want an image to have multiple copies of a smaller image select tile image from the drop down. If you do not want an image and just a solid color select fill with background color only. To change the background color if you select that press the button to the right of :guilabel:`Select background color`. To use a different wallpaper on each monitor check the :guilabel:`Individual wallpaper for each monitor`.
+The :guilabel:`Background` tab has settings for desktop background. To change the desktop background you can either type the path of the file you can type in :guilabel:`Wallpaper image file` or use the :guilabel:`Browse` button to bring up a dialog to choose which the desktop. The drop down menu :guilabel:`Wallpaper mode` lets you change how the image you select for a wallpaper is made to fit on the screen. If you want an image to have multiple copies of a smaller image select tile image from the drop down. If you do not want an image and just a solid color select fill with background color only. To change the background color if you select that press the button to the right of :guilabel:`Select background color`. To use a different wallpaper on each monitor check the :guilabel:`Individual wallpaper for each monitor`.
 
 .. image:: desktop-general.png
 

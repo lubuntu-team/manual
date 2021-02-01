@@ -33,7 +33,7 @@ Lubuntu ships with 0.15.0 of Desktop.
 
 How to Launch
 -------------
-To launch Desktop from the menu :menuselection:`Preferences --> LXQt settings --> Desktop`. Or from LXQt Configuration Center press the desktop button to launch it or run
+To launch Desktop from the menu :menuselection:`Preferences --> LXQt settings --> Desktop`, from LXQt Configuration Center press the desktop button to launch it, or run
 
 .. code:: 
 

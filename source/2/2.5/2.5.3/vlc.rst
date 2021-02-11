@@ -113,7 +113,7 @@ To view your settings for subtitles and on screen display choose the :guilabel:`
  
  .. image::   vlc-subtitle-pref.png
 
-To change settings with codecs choose the :guilabel:`Input/codecs` tab. To change your settings for hardware-accelerated decoding use the :guilabel:`Hardware-accelerated decoding` which you can choose a specific kind of decoding. To change your default optical device the drop down menu next to :guilabel:`Default optical device` to change your default optical device. To change your caching policy depending on your network latency use the :guilabel:`Default caching policy` drop down menu.
+To change settings with codecs choose the :guilabel:`Input/codecs` tab. To change your settings for hardware-accelerated decoding use the :guilabel:`Hardware-accelerated decoding` which you can choose a specific kind of decoding. To choose to seek faster than more precisely check the :guilabel:`Fast seek` option. To change your default optical device the drop down menu next to :guilabel:`Default optical device` to change your default optical device. To choose where save things you record with VLC change type where you want in :guilabel:`Reecord directory or filename` or press the :guilabel:`Browse` button. To change your caching policy depending on your network latency use the :guilabel:`Default caching policy` drop down menu.
 
 .. image::   vlc-input-codecs.png
 

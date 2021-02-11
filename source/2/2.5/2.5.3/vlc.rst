@@ -97,7 +97,7 @@ To view your preferences of VLC press :kbd:`control +P` or :menuselection:`Tools
 
 To cancel your changes in this window and close it press the :guilabel:`Cancel` button. To Reset your preferences to press the :guilabel:`Reset Preferences` button. To Save your preferences and close the window press the :guilabel:`Save` button. 
 
-To manage your audio settings use the :guilabel:`Audio tab`. To disable audio entirely uncheck the :guilabel:`Enable audio` checkbox. To change the output of audio type change the :guilabel:`Output module` menu. To add a visualization of Audio change the :guilabel:`Visualization` menu. To change replay gain mode change the :guilabel:`Replay gain mode` menu. To allow playing audio at different speeds without changing the pitch is to check the :guilabel:`Enable Time-stretching audio` checkbox.
+To manage your audio settings use the :guilabel:`Audio tab`. To disable audio entirely uncheck the :guilabel:`Enable audio` checkbox. To change the output of audio type change the :guilabel:`Output module` menu. To add a visualization of Audio change the :guilabel:`Visualization` menu. To change replay gain mode change the :guilabel:`Replay gain mode` menu. To allow playing audio at different speeds without changing the pitch is to check the :guilabel:`Enable Time-stretching audio` checkbox. To submit what tracks you play to Last.fm check the :guilabel:`Submit played tracks stats to Last.fm`  checkbox and then put in your username in the :guilabel:`Username` field and your password in the :guilabel:`Password` field.
 
 .. image:: vlc-audio-pref.png 
 

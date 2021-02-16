@@ -57,7 +57,7 @@ To launch KDE Partition Manager from the :menuselection:`System Tools --> KDE Pa
 
    partitionmanager 
    
-from the command line. The icon for KDE Partition Manager is a series of blue and green rings that are paritialy compelete.
+from the command line. The icon for KDE Partition Manager is a series of blue and green rings that are paritialy compelete with a white center.
 
 Customizing
 -----------

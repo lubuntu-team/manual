@@ -18,7 +18,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 0.3 of Update Notifier.
+Lubuntu ships with version 0.4 of Update Notifier.
 
 How to Launch
 -------------

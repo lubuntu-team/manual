@@ -7,7 +7,7 @@ Usage
 -----
 To apply an upgrade for the press the :guilabel:`Upgrade` button. This will bring up a prompt for Update Notifier with lxqt-sudo for you to authenticate applying updates. After this happens in the center will be a large progress bar showing the progress of installing. Press the :guilabel:`OK` button after entering your password. Once the update is done press the :guilabel:`Close` button.
 
-To see what will change on a update left click on the a category most likely :guilabel:`Upgrade` and see what list of packages will be upgraded.
+To see what will change on a update left click on the a category most likely :guilabel:`Upgrade` and see what list of packages will be upgraded. To see further what dependencies are pulling in the upgrade and to collapse them click the arrow next to the package to be upgraded and again to collapse the list.
 
 If you have to restart after an update the window will say :guilabel:`Restart Required`.
 

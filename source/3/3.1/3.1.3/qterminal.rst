@@ -23,7 +23,7 @@ To bring a search for the text displayed on your terminal press :kbd:`Control +S
 
 To clear you active terminal press :kbd:`Control + Shift +X` or :menuselection:`Actions --> Clear Active Terminal`. To hide window borders check the :menuselection:`View --> Hide Window Borders` or right click and select :menuselection:`Hide Window Borders`. To toggle showing the entire menubar press :kbd:`Control+Shift+M` or right click on the :menuselection:`Toggle Menu` then do the same thing to get the menu back again. To toggle showing the tab bar :menuselection:`View --> Show Tab Bar`. To change which side of the terminal the tab bar is :menuselection:`View --> Tabs Layout`.
 
-To use the drop down function of QTerminal once launched press :kbd:`F12` to have the terminal drop down or roll up. When you click outside the drop down terminal it will autohide. 
+To use the drop down function of QTerminal once launched press :kbd:`F12` to have the terminal drop down or roll up. When you click outside the drop down terminal it will autohide. If you don't want qterminal to autohide press the lock button. 
 
 .. image::  qterminal-drop.png
 

@@ -21,7 +21,7 @@ Screenshots
 
 Version
 -------
-Lubuntu ships with version 0.16.0 of Desktop Notifications.
+Lubuntu ships with version 0.16.1 of Desktop Notifications.
 
 How to Launch
 -------------

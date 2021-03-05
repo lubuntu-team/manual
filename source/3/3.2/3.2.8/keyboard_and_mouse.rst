@@ -29,7 +29,7 @@ The :guilabel:`Mouse and Touchpad` tab has settings for touchpads. To select whi
 
 Version
 -------
-Lubuntu ships with version 0.15.0 of Keyboard and Mouse.
+Lubuntu ships with version 0.16.1 of Keyboard and Mouse.
 
 How to Launch
 -------------

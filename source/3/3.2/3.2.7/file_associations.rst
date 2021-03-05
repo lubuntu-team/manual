@@ -9,6 +9,8 @@ To search for which file extension you want to change to open in another program
 
 .. image:: application_chooser.png
 
+To choose several common programs to end up using as default application use the :guilabel:`Default Applications` tab.
+
 To reset your changes press the :guilabel:`Reset` button if you don't want to keep your buttons. Once you are happy with your choices press the :guilabel:`Close` button or press the :kbd:`Escape` key. 
 
 Screenshot

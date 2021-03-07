@@ -13,6 +13,8 @@ To create a new archive press :menuselection:`File --> New` or press :kbd:`Contr
 
 To reload the view of the archive press :kbd:`F5` or :menuselection:`View --> Reload`. To view the whole direcotry tree press :kbd:`Control+ Shift +Down arrow` or :menuselection:`View --> Expand`. To view just the top level of directory tree press :kbd:`Control + Shift + Up arrow` or :menuselection:`View --> Collapse`. To search for files press :kbd:`Control +F` or :menuselection:`View --> Filter`. Type what you want to search for in the textbox at the bottom. To hide searching press :kbd:`Control+F` or :menuselection:`View --> Filter` again.
 
+.. image:: lxqt-archiver.png
+
 To toggle showing the toolbar in LXQt File Archiver :menuselection:`View --> Toolbar`. To Toggle showing the Statusbar at the bottom :menuselection:`View --> Statusbar`. To toggle showing the directory tree on the left :menuselection:`View --> Directory Tree`.
 
 Version

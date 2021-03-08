@@ -23,6 +23,8 @@ The :guilabel:`Idle` tab manages what happens when you walk away from your keybo
 
 To enable changing the backlight brightness when your computer is idle check the :guilabel:`Enable Backlight Change` checkbox. To change the brightness of your screen when idle change the :guilabel:`Backlight` slider. To change how long to reduce your brightness on your laptop change the :guilabel:`Idle time` field. To have the screen reduce brightness even when plugged in uncheck the :guilabel:`On battery discharging` checkbox.
 
+To change what buttons do in regards to power use the :guilabel:`Power keys` tab. To change what the power button does use the :guilabel:`Power Key Action` menu. To change what the suspend button does use the :guilabel:`Suspend Key Action`. To change what the hibernate button  does use the :guilabel:`Hibernate Key Action` menu.
+
 To reset your changes press the :guilabel:`Reset` button. To close Power Management press the :kbd:`Escape` key or press the :guilabel:`Close` button.
 
 Screenshot

@@ -25,6 +25,8 @@ To enable changing the backlight brightness when your computer is idle check the
 
 To change what buttons do in regards to power use the :guilabel:`Power keys` tab. To change what the power button does use the :guilabel:`Power Key Action` menu. To change what the suspend button does use the :guilabel:`Suspend Key Action`. To change what the hibernate button  does use the :guilabel:`Hibernate Key Action` menu.
 
+.. image:: power-keys.png
+
 To reset your changes press the :guilabel:`Reset` button. To close Power Management press the :kbd:`Escape` key or press the :guilabel:`Close` button.
 
 Screenshot

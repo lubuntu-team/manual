@@ -127,6 +127,8 @@ To add a spacer to your panel add the spacer widget. It creates a blank space on
 
 .. image:: panel-spacer.png
 
+To add an easy way to change brightness to your panel add the :guilabel:`Backlight` widget. To bring the applet to change backlight level left click on the icon. To make the backlight more faint drag the slider to the bottom and to make it brighter drag the slider towards the top.
+
 Version
 -------
 Lubuntu ships with version 0.16.1 of LXQt-panel.

@@ -64,6 +64,7 @@ Shipped applets not enabled by default:
  - Sensors
  - System Statistics
  - Spacer
+ - Backlight
 
 .. image:: panel-config-widgets.png
 

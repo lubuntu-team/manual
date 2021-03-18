@@ -1,7 +1,7 @@
 Chapter 2.4.1 LXQt File Archiver
 ================================ 
 
-LXQt File Archiver is the default program for dealing with arhives like tar or zip files in Lubuntu.
+LXQt File Archiver is the default program for dealing with archives like tar or zip files in Lubuntu.
 
 Usage
 -----
@@ -13,7 +13,7 @@ To create a new archive press :menuselection:`File --> New` or press :kbd:`Contr
 
 .. image:: lxqt-archiver-new.png
 
-To reload the view of the archive press :kbd:`F5` or :menuselection:`View --> Reload`. To view the whole direcotry tree press :kbd:`Control+ Shift +Down arrow` or :menuselection:`View --> Expand`. To view just the top level of directory tree press :kbd:`Control + Shift + Up arrow` or :menuselection:`View --> Collapse`. To search for files press :kbd:`Control +F` or :menuselection:`View --> Filter`. Type what you want to search for in the textbox at the bottom. To hide searching press :kbd:`Control+F` or :menuselection:`View --> Filter` again.
+To reload the view of the archive press :kbd:`F5` or :menuselection:`View --> Reload`. To view the whole directory tree press :kbd:`Control+ Shift +Down arrow` or :menuselection:`View --> Expand`. To view just the top level of directory tree press :kbd:`Control + Shift + Up arrow` or :menuselection:`View --> Collapse`. To search for files press :kbd:`Control +F` or :menuselection:`View --> Filter`. Type what you want to search for in the textbox at the bottom. To hide searching press :kbd:`Control+F` or :menuselection:`View --> Filter` again.
 
 .. image:: lxqt-archiver.png
 
@@ -21,11 +21,11 @@ To toggle showing the toolbar in LXQt File Archiver :menuselection:`View --> Too
 
 Version
 -------
-Lubuntu ships with version 0.3. of LXQt File Archiever.
+Lubuntu ships with version 0.3. of LXQt File Archiver.
 
 How To Launch
 -------------
-To launch LXQt File Archiever :menuselection:`Accessories --> LXQt File Archiever` or run 
+To launch LXQt File Archiver :menuselection:`Accessories --> LXQt File Archiver` or run 
 
   .. code::
   

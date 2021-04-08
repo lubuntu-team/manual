@@ -13,7 +13,7 @@ To save your formula you have written in LibreOffice math press :kbd:`Control +S
 
 .. image:: math-save.png
 
-To paste text into LibreOffice math press :kbd:`Control +V` or :menuselection:`Edit --> Paste`. To copy text from LibreOffice math press :kbd:`Control+C` or :menuselection:`Edit --> Copy`. To cut text from LibreOffice math press :kbd:`Control +X` or :menuselection:`Edit --> Cut`.
+To paste text into LibreOffice math press :kbd:`Control +V` or :menuselection:`Edit --> Paste`. To copy text from LibreOffice math press :kbd:`Control+C` or :menuselection:`Edit --> Copy`. To cut text from LibreOffice math press :kbd:`Control +X` or :menuselection:`Edit --> Cut`. To select all text press :kbd:`Control+A` or :menuselection:`Edit --> Select All`.
 
 To undo changes in LibreOffice math press :kbd:`Control +Z` or :menuselection:`Edit --> Undo`. To redo a change you have undone press :kbd:`Control +Y` or :menuselection:`Edit --> Redo`.
 

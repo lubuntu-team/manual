@@ -39,16 +39,10 @@ To verify the image, run this from the command line:
 
 .. code:: 
 
-<<<<<<< HEAD
-
- sha256sum lubuntu-20.10-desktop-amd64.iso
-=======
  sha256sum lubuntu-21.04-desktop-amd64.iso
->>>>>>> master
 
 and then carefully check that the output matches 
 7089fa1045b776256a76adb30d6e588e09df2ad5cd0ffe63a8d6e802b6b3cc19 \*lubuntu-21.04-desktop-amd64.iso
-
 
 Downloading the image via BitTorrent
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -83,10 +77,6 @@ To download the image using zsync run
  
 .. code::
 
-<<<<<<< HEAD
-   zsync http://cdimage.ubuntu.com/lubuntu/releases/focal/release/lubuntu-20.04-desktop-amd64.iso.zsync  
-=======
-   zsync http://cdimage.ubuntu.com/lubuntu/releases/groovy/release/lubuntu-20.10-desktop-amd64.iso.zsync  
->>>>>>> master
+   zsync http://cdimage.ubuntu.com/lubuntu/releases/hirsute/release/lubuntu-21.04-desktop-amd64.iso.zsync
 
 **You have now downloaded the image successfully. Please continue to Chapter 1.2.**

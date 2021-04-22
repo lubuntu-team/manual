@@ -27,9 +27,9 @@ To apply a bold effects on your fonts select the text with the mouse and then pr
 
 To increase your font size press :kbd:`Control + ]` or :menuselection:`Format --> Text --> Increase Size`. To decrease your font size press :kbd:`Control + [` or :menuselection:`Format --> Text --> Decrease Size`. To make text superscript select it and press :kbd:`Shift + Control +P` or :menuselection:`Format --> Text --> Superscript`. To make text subscript select it and press :kbd:`Shift + Control + B` or :menuselection:`Format --> Text --> Subscript`.
 
-To spell check your presentation press :kbd:`F7` or :menuselection:`Tools --> Spellcheck`. If you want to print your slides you can press :kbd:`Control + p` or :menuselection:`File --> Print`. To open up your printer settings :menuselection:`File --> Printer Settings`. I dialog button will pop up with different settings for your printer. To chose which printer to print to use the :guilabel:`Printer` drop down menu. To change which slides use the :guilabel:`Range and Copies` button group.
+To spell check your presentation press :kbd:`F7` or :menuselection:`Tools --> Spellcheck`. If you want to print your slides you can press :kbd:`Control + p` or :menuselection:`File --> Print`. To open up your printer settings :menuselection:`File --> Printer Settings`. A dialog will pop up with different settings for your printer. To chose which printer to print to use the :guilabel:`Printer` drop down menu. To change which slides use the :guilabel:`Range and Copies` button group.
 
-If you want to paste text into a slideshow press :kbd:`Control + V` or :menuselection:`Edit --> Paste`. To copy text select it first and then press :kbd:`Control + C` or :menuselection:`Edit --> Copy`. To cut text select it first and the press :kbd:`Control +X` or :menuselection:`Edit --> Cut`. To paste text without formatting pres :kbd:`Control +Shift + Alt +V` or :menuselection:`Edit --> Paste Unformatted Text`. 
+If you want to paste text into a slideshow press :kbd:`Control + V` or :menuselection:`Edit --> Paste`. To copy text select it first and then press :kbd:`Control + C` or :menuselection:`Edit --> Copy`. To cut text select it first and the press :kbd:`Control +X` or :menuselection:`Edit --> Cut`. To paste text without formatting pres :kbd:`Control +Shift + Alt +V` or :menuselection:`Edit --> Paste Unformatted Text`. To select all text press :kbd:`Control+A` or :menuselection:`Edit -->  Select All`.
 
 To insert a special character :menuselection:`Insert --> Special Character`. To center your text press :kbd:`Control + E` or :menuselection:`Format --> Align --> Center`. To have your text aligned to the right press :kbd:`Control +R` or :menuselection:`Format --> Align --> Right`. To align text to the left press :kbd:`Control + L` or :menuselection:`Format -->Align --> Left`.
 
@@ -56,7 +56,7 @@ To move a text box around you can left click on the text box and drag it to the 
 
 To insert the number of your slide :menuselection:`Insert --> Slide Number`.
 
-To change the zoom of you presentation :menuselection:`View --> Zoom --> Zoom` to bring up a window to manage your zoom. If you just want to zoom to fit the page width :menuselection:`View --> Zoom --> Page Width`. To change your zoom to 100 percent :menuselection:`View --> Zoom --> 100%`. 
+To change the zoom of you presentation :menuselection:`View --> Zoom --> Zoom` to bring up a window to manage your zoom. If you just want to zoom to fit the page width :menuselection:`View --> Zoom --> Page Width`. To change your zoom to 100 percent :menuselection:`View --> Zoom --> 100%`. In the bottom right corner there is a slider for controling zoom. To zoom in move the slider to the right and to zoom out move the slider to the left.
 
 To bring up a dialog for the properties of your slides controlling background and shape with :menuselection:`Slide --> Properties`. To change the format for a different aspect ratio of projector or print format change the :guilabel:`Format` drop down menu. To select a custom width and height change the :guilabel:`Width` or :guilabel:`Height`. To switch to a portrait orientation press the :guilabel:`Portrait` button to the right of :guilabel:`Orientation`. To add margins to slides enter a margin in the :guilabel:`Left`, :guilabel:`Right`, :guilabel:`Top`, and :guilabel:`Bottom`. 
 
@@ -108,7 +108,7 @@ To bring up custom settings for your settings :menuselection:`Slide Show --> Sli
 
 Version
 -------
- Lubuntu ships with version 6.4.2.0 of LibreOffice impress.
+ Lubuntu ships with version 7.1.2.0 of LibreOffice Impress.
 
 How To Launch
 -------------

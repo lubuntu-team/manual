@@ -5,7 +5,7 @@ Screensaver is an application to control what screensavers are used on the syste
 
 Usage
 ------
-The :guilabel:`Mode` drop down has 4 settings :menuselection:`Disable Screen Saver` turns off the screensaver, :menuselection:`Blank Screen Only` just turns the screen itself off, :menuselection:`Only One Screen Saver` sets one screensaver, and :menuselection:`Random Screen Saver` selects a random screensaver. If you selected to blank the screen change the :guilabel:`Blank After` field. If you have a random screensaver set you can change with the number of minutes it says with :guilabel:`Cycle After` for when the screensaver will change to another one. The checkbox for :guilabel:`Lock Screen After` takes the number of minutes to lock the screen and the number of minutes is how many minutes it takes to lock the screen.  
+The :guilabel:`Mode` drop down has 4 settings :menuselection:`Disable Screen Saver` turns off the screensaver, :menuselection:`Blank Screen Only` just turns the screen itself off, :menuselection:`Only One Screen Saver` sets one screensaver, and :menuselection:`Random Screen Saver` selects a random screensaver. If you selected to blank the screen change the :guilabel:`Blank After` field. If you have a random screensaver set you can change with the number of minutes it says with :guilabel:`Cycle After` for when the screensaver will change to another one. Check the checkbox for :guilabel:`Lock Screen After` takes the number of minutes to lock the screen and change :guilabel:`minutes` to change how soon to lock the screen.
 
 To change your screensaver to a different screensaver left click on the name of the screensaver on the left hand side of the screen. You can see a small preview of the screensaver on the right hand side of the window.
 
@@ -34,4 +34,4 @@ To launch Screensaver from the menu :menuselection:`Preferences --> Screensaver`
 
    xscreensaver-demo
 
-from the command line. The icon for Screensaveer looks like purple night picture of the sky at night.
+from the command line. The icon for Screensaver looks like purple night picture of the sky at night.

@@ -1,7 +1,7 @@
 Chapter 1.1 Retrieving the image
 =================================
 
-Before you install Lubuntu, you need to retrieve the correct image. Lubuntu supports AMD64 CPU types also known as 64-bit with a new version every six months (supported for nine months), and every two years being a long term support release (supported for three years). If you have a 32 bit processor we unfortunately had to drop support but 18.04 LTS is still supported until 2021 for 32 bit. Lubuntu 20.04 is a Long Term Support release supported until 2023.
+Before you install Lubuntu, you need to retrieve the correct image. Lubuntu supports AMD64 CPU types also known as 64-bit with a new version every six months (supported for nine months), and every two years being a long term support release (supported for three years). If you have a 32 bit processor we unfortunately had to drop support but 18.04 LTS is still supported until 2021 for 32 bit. Lubuntu 20.04 is a Long Term Support release supported until 2023. Lubuntu 21.04 is supported until Januaray 2022.
 
 LTS vs. Regular Releases
 ------------------------
@@ -31,7 +31,7 @@ Downloading the image via HTTP
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 *We don't recommend using this method as it's often slower, more error prone, and less efficient than the other methods.*
 
-After you download the image, you **must** verify it, as this is the most common reason there are problems with a Lubuntu install. There is `a helpful page on the Ubuntu Community Help wiki <https://help.ubuntu.com/community/VerifyIsoHowto>`_ that can guide you in the right direction.
+After you download the image, you **must** verify it, as this is the most common reason there are problems with a Lubuntu install. There is `a helpful page on the Ubuntu Community Help wiki <https://ubuntu.com/tutorials/how-to-verify-ubuntu#1-overview>`_ that can guide you in the right direction.
 
 .. warning:: Downloading via HTTP and not verifying the image can lead to hours of frustration with even the developers quite confused what is happening with your system. With just one bit of the image flipped  will cause massive frustration and a failed install. 
 
@@ -39,11 +39,15 @@ To verify the image, run this from the command line:
 
 .. code:: 
 
+<<<<<<< HEAD
 
  sha256sum lubuntu-20.10-desktop-amd64.iso
+=======
+ sha256sum lubuntu-21.04-desktop-amd64.iso
+>>>>>>> master
 
 and then carefully check that the output matches 
-42882c32c3098888a50a1e54bb42624bfafab8fd3714a8a8cd55d9fc975c84df \*groovy-desktop-amd64.iso
+7089fa1045b776256a76adb30d6e588e09df2ad5cd0ffe63a8d6e802b6b3cc19 \*lubuntu-21.04-desktop-amd64.iso
 
 
 Downloading the image via BitTorrent

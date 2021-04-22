@@ -27,7 +27,7 @@ Screenshots
 
 Version
 -------
-Lubuntu ships with version 0.15.0 of Shortcut Keys.
+Lubuntu ships with version 0.16.1 of Shortcut Keys.
 
 How to Launch
 -------------

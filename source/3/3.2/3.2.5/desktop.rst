@@ -5,7 +5,7 @@ Desktop is an application to change the desktop background, the appearance of ic
 
 Usage
 ------
-The :guilabel:`Background` tab has settings for desktop background. To change the desktop background you can either type the path of the file you can type in :guilabel:`Wallpaper image file` or use the :guilabel:`Browse` to bring up a dialog to choose which the desktop. The drop down of :guilabel:`Wallpaper mode` lets you change how the image you select for a wallpaper changes. If you want an image to have multiple copies of a smaller image select tile image from the drop down. If you do not want an image and just a solid color select fill with background color only. To change the background color if you select that press the button to the right of :guilabel:`Select background color`. To use a different wallpaper on each monitor check the :guilabel:`Individual wallpaper for each monitor`.
+The :guilabel:`Background` tab has settings for desktop background. To change the desktop background you can either type the path of the file you can type in :guilabel:`Wallpaper image file` or use the :guilabel:`Browse` button to bring up a dialog to choose which the desktop. The drop down menu :guilabel:`Wallpaper mode` lets you change how the image you select for a wallpaper is made to fit on the screen. If you want an image to have multiple copies of a smaller image select tile image from the drop down. If you do not want an image and just a solid color select fill with background color only. To change the background color if you select that press the button to the right of :guilabel:`Select background color`. To use a different wallpaper on each monitor check the :guilabel:`Individual wallpaper for each monitor`.
 
 .. image:: desktop-general.png
 
@@ -17,8 +17,7 @@ The box labeled :guilabel:`Select font` lets you choose which font and size info
 
 .. image:: desktop-font.png
 
-
-The :guilabel:`Slide Show` tab shows settings for slide show of changing your wallpaper automatically like a slide show. The checkbox :guilabel:`Enable Slide Show` enables the slide show that auto changes your wallpaper. The field :guilabel:`Wallpaper image folder` changes the path to find the different pictures for the slideshow or to find a folder press the :guilabel:`Browse` button. To change how long it takes for the slideshow of the desktop background to change change the fields in :guilabel:`Interval` fields for changing how fast the slideshow changes. To randomize the order of the slide show check the :guilabel:`Randomize the slide show` checkbox. 
+The :guilabel:`Slide Show` tab shows settings for slide show of changing your wallpaper automatically like a slide show. The checkbox :guilabel:`Enable Slide Show` enables the slide show that auto changes your wallpaper. The field :guilabel:`Wallpaper image folder` changes the path to find the different pictures for the slideshow or to find a folder press the :guilabel:`Browse` button. To change how long it takes for the slideshow of the desktop background to change change the fields in :guilabel:`Interval` fields for changing how fast the slideshow changes. To randomize the order of the slide show check the :guilabel:`Randomize the slide show` checkbox.
 
 .. image::  slideshow-desktop.png
 
@@ -31,11 +30,11 @@ To quit Desktop press the :kbd:`Escape` key.
 
 Version
 -------
-Lubuntu ships with 0.15.0 of Desktop.
+Lubuntu ships with 0.16.0 of Desktop.
 
 How to Launch
 -------------
-To launch Desktop from the menu :menuselection:`Preferences --> LXQt settings --> Desktop`. Or from LXQt Configuration Center press the desktop button to launch it or run
+To launch Desktop from the menu :menuselection:`Preferences --> LXQt settings --> Desktop`, from LXQt Configuration Center press the desktop button to launch it, or run
 
 .. code:: 
 

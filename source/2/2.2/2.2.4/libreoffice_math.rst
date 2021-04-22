@@ -13,7 +13,7 @@ To save your formula you have written in LibreOffice math press :kbd:`Control +S
 
 .. image:: math-save.png
 
-To paste text into LibreOffice math press :kbd:`Control +V` or :menuselection:`Edit --> Paste`. To copy text from LibreOffice math press :kbd:`Control+C` or :menuselection:`Edit --> Copy`. To cut text from LibreOffice math press :kbd:`Control +X` or :menuselection:`Edit --> Cut`.
+To paste text into LibreOffice math press :kbd:`Control +V` or :menuselection:`Edit --> Paste`. To copy text from LibreOffice math press :kbd:`Control+C` or :menuselection:`Edit --> Copy`. To cut text from LibreOffice math press :kbd:`Control +X` or :menuselection:`Edit --> Cut`. To select all text press :kbd:`Control+A` or :menuselection:`Edit --> Select All`.
 
 To undo changes in LibreOffice math press :kbd:`Control +Z` or :menuselection:`Edit --> Undo`. To redo a change you have undone press :kbd:`Control +Y` or :menuselection:`Edit --> Redo`.
 
@@ -21,15 +21,17 @@ The left hand side has many symbols you can use for say set relations and other 
 
 To change the fonts of your formulas :menuselection:`Format --> Fonts` which brings up a window for fonts for different contexts. To change your font size :menuselection:`Format --> Font sizes`. To bring up a menu to change your alignment :menuselection:`Format --> Alignment`.
 
+To change zoom :menuselection:`View --> Zoom` and select the zoom you want. In the bottom right hand corner there is a zoom slider. To zoom in move the slider to the right and to zoom out move the slider to the left.
+
 To quit LibreOffice Math press :kbd:`Control+Q`.
 
 Version
 -------
-Lubuntu ships with Version 6.4.2.0 of LibreOffice math. 
+Lubuntu ships with Version 7.1.2.0 of LibreOffice Math. 
 
 How to Launch
 -------------
-To launch LibreOffice math in the menu :menuselection:`Office --> LibreOffice Math` or run 
+To launch LibreOffice Math in the menu :menuselection:`Office --> LibreOffice Math` or run 
 
 .. code:: 
 

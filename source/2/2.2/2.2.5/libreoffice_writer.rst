@@ -51,7 +51,7 @@ To view how your document looks before printing it :menuselection:`File --> Prin
 
 .. image::  lowriter-print.png
 
-To change view or change your printer settings :menuselection:`File --> Printer settings`. To view your word count of how many words are currently in the document is with nothing selected at the bottom of the LibreOffice writer window. If you select text with the mouse you can also see the word count of selection from the same spot.  
+To change view or change your printer settings :menuselection:`File --> Printer settings`. To view your word count of how many words are currently in the document is with nothing selected at the bottom of the LibreOffice writer window. If you select text with the mouse you can also see the word count of selection from the same spot. The word count is also shown on the very bottom of the window.
 
 To insert special symbols or characters press the button with the Ω symbol or from the menu :menuselection:`Insert --> Special character`. To insert a page break press :kbd:`control + enter` or from the menu :menuselection:`Insert --> Page Break`.  
 
@@ -73,7 +73,7 @@ To insert a mathematical formula into your document you are process :menuselecti
 
 To select all text in the document press :kbd:`control + A` or :menuselection:`Edit --> Select All`. To jump to a specific page press :kbd:`Control + G` or :menuselection:`Edit --> Go to Page` and a dialog will pop up. To enter a page number in the :guilabel:`Page` field and click :guilabel:`OK` to go to that page.
 
-To zoom for the entire page to be visible :menuselection:`View --> Zoom --> Entire Page`. To zoom so you can see the width of the page and everything is bigger :menuselection:`View --> Zoom --> Page Width`. To zoom in a bit more and not see the margins on the page :menuselection:`View --> Zoom --> Optimal View`. To zoom to 100 percent zoom :menuselection:`View --> Zoom --> 100%`.
+To zoom for the entire page to be visible :menuselection:`View --> Zoom --> Entire Page`. To zoom so you can see the width of the page and everything is bigger :menuselection:`View --> Zoom --> Page Width`. To zoom in a bit more and not see the margins on the page :menuselection:`View --> Zoom --> Optimal View`. To zoom to 100 percent zoom :menuselection:`View --> Zoom --> 100%`. Another way to change zoom is there is a zoom slider in the bottom right hand corner to increase zoom in move the slider to the right and to zoom out move the slider to the left.
 
 To have a view of the document with no margins shown like on a webpage :menuselection:`View --> Web` or To get back to the original view :menuselection:`View --> Menu`. To toggle a vertical scrollbar :menuselection:`View --> Scrollbars --> Vertical Scroll bar`. To have a horizontal scrollbar :menuselection:`View --> Scrollbars --> Horizontal Scroll bar`. 
 
@@ -83,7 +83,7 @@ To insert a watermark on the background of the page :menuselection:`Format --> W
 
 .. image:: lowriter_watermark.png
 
-To leave LibreOffice writer press :kbd:`Control+Q`.
+To leave LibreOffice Writer press :kbd:`Control+Q`.
 
 Columns
 -------
@@ -130,13 +130,15 @@ To bring up a window with properties of your document :menuselection:`File --> P
 
 .. image:: lowriter-doc-properties.png 
 
-The :guilabel:`Description` tab has fields to input title subject and keywords and lets you also put in comments. The :guilabel:`Title` is where you can optionally put the title on. The :guilabel:`Subject` is a field to input the subject of the document. The :guilabel:`Keywords` is to input keywords on the document. The :guilabel:`Comments` is where you can have comments about the document. The :guilabel:`Font` tab has settings for embedded fonts to make sure they always display properly. To embed any fonts you check the :guilabel:`Embed fonts in the document` checkbox. To only embed the fonts needed to see the document check the :guilabel:`Only embed fonts that are used in documents` checkbox. To chose to embed fonts with a Latin script check the :guilabel:`Latin fonts` checkbox. To embed Asian fonts check the :guilabel:`Asian fonts` checkbox. To embed complex fonts check the :guilabel:`Complex fonts` checkbox.
+The :guilabel:`Description` tab has fields to input title subject and keywords and lets you also put in comments. The :guilabel:`Title` is where you can optionally put the title on. The :guilabel:`Subject` is a field to input the subject of the document. The :guilabel:`Keywords` is to input keywords on the document. The :guilabel:`Comments` is where you can have comments about the document.
+
+The :guilabel:`Font` tab has settings for embedded fonts to make sure they always display properly. To embed any fonts you check the :guilabel:`Embed fonts in the document` checkbox. To only embed the fonts needed to see the document check the :guilabel:`Only embed fonts that are used in documents` checkbox. To chose to embed fonts with a Latin script check the :guilabel:`Latin fonts` checkbox. To embed Asian fonts check the :guilabel:`Asian fonts` checkbox. To embed complex fonts check the :guilabel:`Complex fonts` checkbox.
  
 To see statistics on your document use the :guilabel:`Statistics` tab. To see how many pages are in your document look at the :guilabel:`Pages` row. To see how many tables are in a document see the :guilabel:`Tables` row. To see how many images are in your document read the :guilabel:`Images` row.
 
 Version
 -------
-Lubuntu ships with LibreOffice writer 6.4.2.0
+Lubuntu ships with LibreOffice Writer version 7.1.2.0
 
 How to Launch
 -------------

@@ -11,7 +11,7 @@ Occasionally you may need to change the setting of your software sources. This c
 Usage
 ------
 
-You can navigate the Software Sources using the tabs at the top of the window.
+To use Software Sources you will need to authenticate with your password as this changes systemwide settings. You can navigate the Software Sources using the tabs at the top of the window.
 
 The :guilabel:`Ubuntu Software` tab contains settings involving the downloading of software from Ubuntu repositories. Here you can disable proprietary software and select a download server among other things. To toggle enabling /disabling the proprietary drivers check/uncheck the :guilabel:`Proprietary drivers for devices(restricted)` checkbox. To toggle enabling/disabling other proprietary software check/uncheck the :guilabel:`Software restricted by copyright or legal issues(multiverse)` checkbox. To change the mirror or where you download change the :guilabel:`Download from` drop down menu. The :guilabel:`Main Server` option downloads from the main Ubuntu server. There is an :guilabel:`Other` option with a large list of mirrors. The :guilabel:`Mirror` column lists a collapse list of mirrors to download from. To choose the fastest option press the :guilabel:`Select Best Server`.
 
@@ -41,7 +41,7 @@ To launch this part of the program directly :menuselection:`Preferences --> Addi
 
 Version
 -------
-Lubuntu ships with version 0.98.10 of Software Sources. 
+Lubuntu ships with version 0.99.5 of Software Sources. 
 
 How to Launch
 -------------
@@ -52,6 +52,6 @@ To launch software properties from the menu you can :menuselection:`Preferences 
 
     lxqt-sudo software-properties-qt
     
-The icon for Software Sources looks like a blue circle with a white downward pointing arrow.
+The icon for Software Sources looks like a dark circle with three blue dots.
 
 tags:PPA, software, download, sources, release, update, Discover, Muon, security, 

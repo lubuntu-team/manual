@@ -5,6 +5,10 @@ This is a guide through the installation process of Lubuntu.
 Starting the installer
 ----------------------
 
+At the start of the boot process a grub splash screen will be shown. To install select :menuselection:`Lubuntu`. If Lubuntu has a problem with your grpahics card like newer nvidia cards select :menuselection:`Lubuntu (safe graphics)`. To test your ram select :menuselection:`Test memory`.
+
+.. image::  grubsplash.png
+
 Once you have booted into the live session, feel free to explore Lubuntu and make sure all your hardware works. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop :guilabel:`Install Lubuntu 21.04`.
 
 .. image:: live_session.png

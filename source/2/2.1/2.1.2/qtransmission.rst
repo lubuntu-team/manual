@@ -46,6 +46,8 @@ The :guilabel:`Files` tab shows what files this torrent has downloaded. To see t
 
 .. image:: transmission-prop-file.png
 
+To change options for a torrent file use the :guilabel:`Options` tab. To have the torrent not effected by global torrent speed uncheck the :guilabel:`Honor global limits` checkbox. To limit how much of your internet a torrent will use of your download on the internet check the :guilabel:`Limit Download speed` checkbox and set the cop for how much it downloads. To limit how much upload your torrent uses check the :guilabel:`Limit upload speed` and set the limit.
+
 Version
 -------
 

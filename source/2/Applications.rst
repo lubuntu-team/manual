@@ -13,4 +13,4 @@ This chapter documents the applications in Lubuntu.
   2.3/Graphics_Applications
   2.4/Accessories
   2.5/Sound_and_Video
-
+  2.6/Games

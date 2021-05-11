@@ -1,4 +1,4 @@
-Chapter 3.2.20 Screensaver
+Chapter 3.2.19 Screensaver
 ==========================
 
 Screensaver is an application to control what screensavers are used on the system and how long it takes to activate the screensaver. 

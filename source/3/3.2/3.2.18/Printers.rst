@@ -5,7 +5,7 @@ Printers allows you to configure your printer(s) and shows your print queue.
 
 Usage
 ------
-To view your print queue right click on the printer and right click :menuselection:`View Print Queue`, with the printer selected press :kbd:`Control+F`, or :menuselection:`Printer --> View Print Queue` and if a job is held you can restart it. 
+To view your print queue right click on the printer and right click :menuselection:`View Print Queue`, with the printer selected press :kbd:`Control+F`, or :menuselection:`Printer --> View Print Queue` and if a job is held you can restart it. To see what status in your printer view the :guilabel:`Status` column to see if the job is pending, held or printed. To view what you have already printed press the :guilabel:`Checkmark` button.
 
 .. image:: printers.png
 

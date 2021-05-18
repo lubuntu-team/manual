@@ -49,7 +49,7 @@ To change preferences in LXImage :menuselection:`Edit --> Preferences`.  To chan
 
 Version
 -------
-Lubuntu ships with version 0.15.0 or LXImage. 
+Lubuntu ships with version 0.16.0 or LXImage. 
 
 How to Launch
 -------------

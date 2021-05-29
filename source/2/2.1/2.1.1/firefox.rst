@@ -31,7 +31,7 @@ To go back to a previous page in Firefox press the button pointing to the left o
 
 To open a window with all of your downloads on it press :kbd:`Control+Shift+Y`. To open PCManFM-Qt in the folder where you downloaded things right click and select on the download and select :menuselection:`Open Containing Folder`. To get a link for someone else to download something right click on the downloaded content right click and select :menuselection:`Copy Download Link`.
 
-To open a window with all of your downloads press :kbd:`Control+Shift+Y`. To open PCManFM-Qt in the folder where you downloaded things right click and select on the download and select :menuselection:`Open Containing Folder`. To get a link for someone else to download something right click on the downloaded content right click and select :menuselection:`Copy Download Link`. To open a downloaded file double click on it.
+To open a window with all of your downloads press :kbd:`Control+Shift+Y`. To open PCManFM-Qt in the folder where you downloaded things right click and select on the download and select :menuselection:`Open Containing Folder`. To get a link for someone else to download something right click on the downloaded content right click and select :menuselection:`Copy Download Link`. To open a downloaded file double click on it. To not have a download show in your history right click on it and select :guilabel:`Remove from History`.
 
 
 .. image:: firefox-downloads.png

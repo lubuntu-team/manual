@@ -21,7 +21,7 @@ The :guilabel:`Slide Show` tab shows settings for slide show of changing your wa
 
 .. image::  slideshow-desktop.png
 
-The :guilabel:`Advanced` tab has settings for automatic desktop icons or included or to show openbox menus on click the desktop. To show or hide any of the default desktop icons check/uncheck the checkboxes for: :guilabel:`Home`, :guilabel:`Trash`, :guilabel:`Computer`, or :guilabel:`Network`.
+The :guilabel:`Advanced` tab has settings for default desktop icons or included. To show or hide any of the default desktop icons check/uncheck the checkboxes for: :guilabel:`Home`, :guilabel:`Trash`, :guilabel:`Computer`, or :guilabel:`Network`.
 
 
 .. image::   desktop-advanced.png

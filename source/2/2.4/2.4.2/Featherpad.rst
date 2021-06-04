@@ -93,6 +93,8 @@ To view all keyboard shortcuts of Featherpad switch to the :guilabel:`Shortcuts`
 
 .. image:: featherpad-shortcuts.png
 
+To change what colors you use in syntax highlighting use the :guilabel:`Syntax Colors` tab. To change the color of built in functions click the color to the right of :guilabel:`Built-in Functions` and a window to pick your color will show up.
+
 Version
 -------
 Lubuntu ships with version 0.17.1 of Featherpad. 

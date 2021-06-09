@@ -33,6 +33,8 @@ If you do not want to prioritize the speed of your torrents press the button on 
 
 To open the file manager in the folder of your torrent press :kbd:`Control+E` or :menuselection:`Torrent --> Open Folder`.
 
+To view statistics on how much Transmission has downloaded :menuselection:`Help --> Statistics`.
+
 Torrent Properties
 ------------------
 

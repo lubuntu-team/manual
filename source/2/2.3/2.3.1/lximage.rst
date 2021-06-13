@@ -47,7 +47,7 @@ To change preferences in LXImage :menuselection:`Edit --> Preferences`. The :gui
 
 .. image:: lximage-prefrences.png
 
-The :guilabel:`Shortcuts` tab has settings for changing keyboard shortcuts in LXImage. To see what a shortcut will do read the :guilabel:`General` column. To change a shortcut double click on the :guilabel:`Shortcut` column and press what you want the shortcut to be. 
+The :guilabel:`Shortcuts` tab has settings for changing keyboard shortcuts in LXImage. To see what a shortcut will do read the :guilabel:`General` column. To change a shortcut double click on the :guilabel:`Shortcut` column and press what you want the shortcut to be. To reset keyboard shortcuts to default press the :guilabel:`Default` button.
 
 Version
 -------

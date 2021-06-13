@@ -47,6 +47,8 @@ To change preferences in LXImage :menuselection:`Edit --> Preferences`. The :gui
 
 .. image:: lximage-prefrences.png
 
+The :guilabel:`Shortcuts` tab has settings for changing keyboard shortcuts in LXImage.
+
 Version
 -------
 Lubuntu ships with version 0.16.0 or LXImage. 

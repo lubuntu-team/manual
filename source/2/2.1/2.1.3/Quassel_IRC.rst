@@ -30,7 +30,7 @@ If you want to disconnect from a particular server if you have connected to it r
 
 To toggle showing checkboxes in front of each chat right click on a server or channel and check the checkbox for :menuselection:`Show/Hide Chats` to bring a giant list of checkboxes. To hide a chat this way uncheck the checkbox in front of that channel or query. To go back and actually hide some chats right click on the channel or server and unchceck :menuselection:`Show/Hide Chats`.
 
-To state you are taking an action in IRC you can type :kbd:`/me` at the start of you typing to have say \*nick does something. To change your nickname on irc type :kbd:`/nick newname` to change you name to newname.
+To state you are taking an action in IRC you can type :kbd:`/me` at the start of you typing to have say \*nick does something. To change your nickname on IRC type :kbd:`/nick newname` to change you name to newname.
 
 To leave all servers and disconnect press the :guilabel:`Disconnect` button in the top toolbar. If you have multiple servers configured to disconnect from one press the downward pointed arrow and select the server you want to disconnect from. To connect to the servers again press the :guilabel:`Connect` button. To connect to a specific server press the downward pointing arrow and select the server you want to connect to. 
 

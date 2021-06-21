@@ -73,7 +73,7 @@ To open a spell check window press :kbd:`F2` or :menuselection:`Edit --> Check S
 
 Saving Sessions
 ---------------
-To open all the files if you work on several together in a session press :kbd:`Control+M` or :menuselection:`File --> Save/Restore Session` and a dialog will appear. To save your first session type a name to remember this and then press the :guilabel:`Save` button. To open your saved session click the name of the session on the top of the dialog and then press :guilabel:`Open`.  To remove a saved session  press the :guilabel:`Remove` button.
+To open all the files if you work on several together in a session press :kbd:`Control+M` or :menuselection:`File --> Save/Restore Session` and a dialog will appear. To save your first session type a name to remember this and then press the :guilabel:`Save` button. To open your saved session click the name of the session on the top of the dialog and then press :guilabel:`Open`.  To remove a saved session  press the :guilabel:`Remove` button. To remove all saved session press the :guilabel:`Remove All` button.
 
 Customizing
 ------------

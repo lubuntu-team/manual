@@ -21,7 +21,7 @@ To toggle showing the toolbar in LXQt File Archiver :menuselection:`View --> Too
 
 Version
 -------
-Lubuntu ships with version 0.3. of LXQt File Archiver.
+Lubuntu ships with version 0.3.0 of LXQt File Archiver.
 
 How To Launch
 -------------

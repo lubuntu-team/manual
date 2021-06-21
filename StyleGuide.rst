@@ -15,6 +15,8 @@ Style Guide
 
 - Use oxford commas for easier adding or removing features.
 
+- Use .. Warning:: if doing something wrong can cause data loss or machine not to boot. 
+
 - Order sections Summary --> Usage --> Screenshot (if one or two) --> Version --> How To Launch --> Customizing (If necessary) 
 
 Sections

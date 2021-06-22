@@ -26,9 +26,9 @@ To copy and answer out of KCalc press :kbd:`control + c` or :menuselection:`Edit
 Scientific calculator mode advanced functionality
 -------------------------------------------------
 
-If you want even more functionality of KCalc there is also scientific mode which is accessed from :menuselection:`Settings --> Science Mode` radio button. The button :guilabel:`1/x` takes takes 1 and divides it by the number currently on the calculator also known as taking the reciprocal. :guilabel:`x!` read x factorial will take the number X you entered and multiple each number going down to 1 for example 5! would multiply 5*4*3*2*1. 
+If you want even more functionality of KCalc there is also scientific mode which is accessed from :menuselection:`Settings --> Science Mode` radio button. The button :guilabel:`1/x` takes takes 1 and divides it by the number currently on the calculator also known as taking the reciprocal. The :guilabel:`x!` button read x factorial will take the number X you entered and multiple each number going down to 1 for example 5! would multiply 5*4*3*2*1.
 
-The x :superscript:`2` button will take a x*x and multiply it by itself or square x. The button with x :superscript:`y` will take x the number you have in will exponentiate x to the power of y. The x :superscript:`3` button will cube the result or raise it to the third power. The x 10 :superscript:`y` will end up multiplying x by 10 to the power of y so for example to multiply 5 by 10 to the power of 3 entering in will give the answer of 5,000.
+The x :superscript:`2` button will multiply x by itself or square x. The button with x :superscript:`y` will take x the number you have in will exponentiate x to the power of y. The x :superscript:`3` button will cube the result or raise it to the third power. The x 10 :superscript:`y` will end up multiplying x by 10 to the power of y so for example to multiply 5 by 10 to the power of 3 entering in will give the answer of 5,000.
 
 To change the unit that angles are measured in for trigonometric units in KCalc. Degrees take 360 to form a full circle while, 2Π radians form a full circle and 400 gradians form a full circle. The radio button for Deg is to select Degrees as the unit for angles, :guilabel:`Rad` selects radian as the unit of measurement of angles and :guilabel:`Grad` selects Gradians as the unit of measurement for angles. The :guilabel:`Sin` button takes what you have as the input and takes the trigonometric sine function of that value measured in the unit for angles you have selected. The :guilabel:`Cos` button takes the cosine of the value in the unit of angle you have selected. The :guilabel:`Tan` button takes the tangent of the angle in the current units.
 
@@ -82,7 +82,7 @@ To customize your shortcuts for KCalc :menuselection:`Settings --> Configure Set
 
 Version
 -------
-Lubuntu ships with version 4:20.12.0 of KCalc.
+Lubuntu ships with version 4:21.04.2 of KCalc.
 
 How to Launch
 -------------

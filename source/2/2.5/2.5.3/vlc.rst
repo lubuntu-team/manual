@@ -91,15 +91,18 @@ To zoom or rotate a video use the :guilabel:`Geometry` tab. To choose differnt p
 
 Saving or Converting Files
 --------------------------
-To save or convert a file in VLC press :kbd:`Control+R` or :menuselection:` Media --> Convert/Save` and a dialog will pop up. To add a local file to save or convert use the :guilabel:`File` tab and press the :guilabel:`Add` button. To Save or convert files off a disc press use the :guilabel:`Disc` tab. To save a network URL to use the :guilabel:`Network` tab and enter the URL in the :guilabel:`Please enter a network URL` field. To convert or save a the files press the :guilabel:`Convert/Save` button.
-:gui
+To save or convert a file in VLC press :kbd:`Control+R` or :menuselection:` Media --> Convert/Save` and a dialog will pop up. To add a local file to save or convert use the :guilabel:`File` tab and press the :guilabel:`Add` button. To Save or convert files off a disc press use the :guilabel:`Disc` tab. To save a network URL to use the :guilabel:`Network` tab and enter the URL in the :guilabel:`Please enter a network URL` field. To convert or save a the files press the :guilabel:`Convert/Save` button. 
+
+
+To change what file format to convert to use the :guilabel:`Profile` drop down menu. To choose what file name to save your file use the :guilabel:`Browse` button.
+
 Customizing
 -----------
 To view your preferences of VLC press :kbd:`control +P` or :menuselection:`Tools --> Preferences`. To change how VLC looks and what buttons it has use the :guilabel:`Interface` tab. To choose to use a custom skin for VLC press the :guilabel:`Use custom skin` radio button and then press :guilabel:`Choose` to find your custom skin. To toggle showing buttons for pausing, changing tracks and the volume control check/uncheck the :guilabel:`Show controls in full screen mode` checkbox. To have the video display in its own window uncheck the :guilabel:`Integrate video in interface` checkbox. To start VLC in a minimal view mode check the :guilabel:`Start in minimal view mode` checkbox. To have VLC pause playback when the VLC window is minimized check/uncheck the :guilabel:`Pause playback when minimized` checkbox. To toggle showing an icon in the system tray check/uncheck the :guilabel:`Show systray icon` checkbox. To change VLC showing a popup when the media changes like when having multiple files in a playlist change the :guilabel:`Show media change popup` menu. The :guilabel:`Force window style` changes the way VLC windows are drawn if you want a custom layout for just VLC. To allow only one window of VLC check the :guilabel:`Allow only one instance` checkbox. If you have only one instance check the :guilabel:`Enqueue items into playlist in one instance mode` checkbox to add new files to play at the end of the playlist.  To have VLC continue playback of files changes change the :guilabel:`Continue playback?` menu and select :menuselection:`Always` to always playback or ask to ask for playback.
 
 .. image::  vlcprefrences.png
 
-To cancel your changes in this window and close it press the :guilabel:`Cancel` button. To Reset your preferences to press the :guilabel:`Reset Preferences` button. To Save your preferences and close the window press the :guilabel:`Save` button. 
+To cancel your changes in this window and close it press the :guilabel:`Cancel` button. To Reset your preferences to press the :guilabel:`Reset Preferences` button. To Save your preferences and close the window press the :guilabel:`Save` button.
 
 To manage your audio settings use the :guilabel:`Audio tab`. To disable audio entirely uncheck the :guilabel:`Enable audio` checkbox. To change the output of audio type change the :guilabel:`Output module` menu. To add a visualization of Audio change the :guilabel:`Visualization` menu. To change replay gain mode change the :guilabel:`Replay gain mode` menu. To allow playing audio at different speeds without changing the pitch is to check the :guilabel:`Enable Time-stretching audio` checkbox. To submit what tracks you play to Last.fm check the :guilabel:`Submit played tracks stats to Last.fm`  checkbox and then put in your username in the :guilabel:`Username` field and your password in the :guilabel:`Password` field.
 

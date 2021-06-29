@@ -57,6 +57,8 @@ If you want a menubar for Firefox right click the main toolbar and click the che
 
 .. image:: firefox-tab-context.png
 
+To search for a word in a webpage press :kbd:`Control+F` and then type what you want to search for in the searchbar that pops up. 
+
 Customizing
 -----------
 

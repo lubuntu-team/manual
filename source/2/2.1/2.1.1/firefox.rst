@@ -57,7 +57,7 @@ If you want a menubar for Firefox right click the main toolbar and click the che
 
 .. image:: firefox-tab-context.png
 
-To search for a word in a webpage press :kbd:`Control+F` and then type what you want to search for in the searchbar that pops up. To jump to the next result press the :guilabel:`Down arrow`. To Move to the previous result press the :guilabel:`Up arrow`.
+To search for a word in a webpage press :kbd:`Control+F` and then type what you want to search for in the searchbar that pops up. To jump to the next result press the :guilabel:`Down arrow`. To Move to the previous result press the :guilabel:`Up arrow`. To see everything that matches the search result check the :guilabel:`Highlight All`.
 
 Customizing
 -----------

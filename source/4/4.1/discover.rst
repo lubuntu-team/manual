@@ -10,9 +10,7 @@ Press the leftward pointed arrow button to moves back in your history. Press the
 
 To view user reviews of a program click on the text :guilabel:`Show All Reviews`. To exit the user reviews press :kbd:`Escape` or click outside the areas of reviews. Below the reviews there is information on the package such as the :guilabel:`Version` and :guilabel:`License`. 
 
-Discover allows you to update software using the Updates tab located on the bottom of the left column. You can click the :guilabel:`Check for Updates` button to check for updates manually. If you have updates that need to be installed  instead it will say in orange :guilabel:`Update(x)` where x is the number of the packages needing updating. When you select updates to install and have updates towards the upper left shows you the number of packages to update and the size of the download in parenthesis. To see the what version will be upgraded on your system will show the old version :menuselection:`-->` new version  with how much the download size of the update to the right. To finally update press the :guilabel:`Update All` button or press :kbd:`Alt+U` to install all updates and then you will need to enter your password and press the :guilabel:`OK` button to make sure you are the one installing these updates. If you need to restart after updating on your updates you will see the text :guilabel:`The system requires a restart to apply updates` and press the :guilabel:`Restart` button to restart your machine.
 
-.. image:: update-authentication.png
 
 To remove software use the :guilabel:`Installed` tab or press :kbd:`Alt +I`. You can browse your installed packages, search using the search bar (upper left corner), and the click the remove button to remove software by pressing the :guilabel:`Remove` button. To view more details on the program left click on it. If you want to launch an installed program press the :guilabel:`Launch` button in the upper right corner.
 
@@ -24,6 +22,12 @@ To get to your settings on what software to use install use the :guilabel:`Setti
 
 .. image:: discover-settings.png
 
+Updating
+--------
+
+Discover allows you to update software using the Updates tab located on the bottom of the left column. You can click the :guilabel:`Check for Updates` button to check for updates manually. If you have updates that need to be installed  instead it will say in orange :guilabel:`Update(x)` where x is the number of the packages needing updating or press :kbd:`Alt+U`. When you select updates to install and have updates towards the upper left shows you the number of packages to update and the size of the download in parenthesis. To see the what version will be upgraded on your system will show the old version :menuselection:`-->` new version  with how much the download size of the update to the right. To finally update press the :guilabel:`Update All` button  to install all updates and then you will need to enter your password and press the :guilabel:`OK` button to make sure you are the one installing these updates. If you need to restart after updating on your updates you will see the text :guilabel:`The system requires a restart to apply updates` and press the :guilabel:`Restart` button to restart your machine.
+
+.. image:: update-authentication.png
 
 Screenshot
 ----------

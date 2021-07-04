@@ -25,7 +25,7 @@ The removable media applet will allow you to manage your remove flash drives and
 
 .. image:: system_tray.png
 
-In the system tray there there are multiple widgets. To see more on how to use nm-tray which manages network in the tray see chapter 3.1.5. Also included is qlipper which to see how to use view how to view chapter 2.4.5. To view your old desktop notifications click the gray rectange with a :guilabel:`!` on it. Other Programs you intsall can also placee a tray icon here as well. With the volume applet you can change the volume by using the mouse-wheel with the mouse over the speaker icon or left click the speaker icon and drag the volume up and down or press :kbd:`Up arrow` or :kbd:`Down arrow`. To mute the volume with the button at the bottom of the volume meter or middle click on the volume applet. To close the volume applet press the :kbd:`Escape` key.
+In the system tray there there are multiple widgets. To see more on how to use nm-tray which manages network in the tray see chapter 3.1.5. Also included is Qlipper which to see how to use view how to view chapter 2.4.5. To view your old desktop notifications click the gray rectangle with a :guilabel:`!` on it. Other Programs you install can also place a tray icon here as well. With the volume applet you can change the volume by using the mouse-wheel with the mouse over the speaker icon or left click the speaker icon and drag the volume up and down or press :kbd:`Up arrow` or :kbd:`Down arrow`. To mute the volume with the button at the bottom of the volume meter or middle click on the volume applet. To close the volume applet press the :kbd:`Escape` key.
 
 .. image:: volume-widget.png
 

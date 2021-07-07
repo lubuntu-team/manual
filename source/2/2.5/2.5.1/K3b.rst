@@ -5,7 +5,7 @@ K3b is the default CD or DVD burning software on Lubuntu.
 
 Usage
 ------
-To start a new data project to save documents and other files :menuselection:`File --> New Project --> New Data Project`. To add files to a  :menuselection:`Project --> Add Files...`. After doing this a dialog to open files will open up. To select multiple files to add at this time press :kbd:`Control+ Left click` on the files. To start an audio CD but this will not allow general files but will be played in a CD player as audio with :menuselection:`File --> New Project --> New Audio CD Project`. To create a new video DVD that goes in a DVD player :menuselection:`File --> New Project --> New Video DVD Project`.
+To start a new data project to save documents and other files :menuselection:`File --> New Project --> New Data Project`. To add files to a  :menuselection:`Project --> Add Files...`. After doing this a dialog to open files will open up. To select multiple files to add at this time press :kbd:`Control+ Left click` on the files. To start an audio CD but this will not allow general files but will be played in a CD player as audio with :menuselection:`File --> New Project --> New Audio CD Project`. To create a new video DVD that goes in a DVD player :menuselection:`File --> New Project --> New Video DVD Project`. If you have multiple projects to burn at once they can be switched by left clicking the tabs towards the bottom.
 
 Another way to add files is to left click on your files in the center of the window. To switch to a folder double click on them with the left mouse button on a folder. To go up a level press the button that is an upward pointed arrow button. To go back to a previous folder press the leftward pointed arrow button. To go forward to a folder you went back from press the rightward pointed arrow. Another way to switch folders is to click on the folder names on the side pane to the left. To add all files recursively to be added to a project left click to select it and press :kbd:`Shift + Enter` to copy all files in a folder or right click and select :menuselection:`Add to Project`. To reload all files press :kbd:`F5` or right click and select :menuselection:`Reload`. 
 
@@ -14,6 +14,8 @@ To save your files from a project if you wish to burn it later press :kbd:`Contr
 The files you add to your project will now be shown at a pane towards the bottom of the screen. If you decide against adding a file after adding it you can select it by left clicking and pressing :kbd:`Delete` or right click and select :menuselection:`Remove`. To rename files to be burned to disc left click to select the file and press :kbd:`F2` or right click and select :kbd:`Rename`. 
 
 To burn to an optical disc press :kbd:`Control+B` or :menuselection:`Project --> Burn`. After burning a popup will appear and the disc should eject when it is done. 
+
+To change your current directory in the center of the screen there is a sidebar to navigate folder on the left hand side. 
 
 To eject the disc from your drive press :menuselection:`Device --> Eject`. To view information on the disc you have inserted :menuselection:`Device --> Media Info`. If you want to lower noise from the spinning of optical drives :menuselection:`Device --> Set Read Speed...` and set a lower number to make the disk spin slower in CD or DVD players for less noise.
 

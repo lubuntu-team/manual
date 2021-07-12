@@ -37,7 +37,7 @@ To view information of a partition on your drive double click on it. On the top 
 
 .. image:: kde-partition-partionstats.png
 
-If you have multiple drives on your system :menuselection:`Device --> Select Current Device --> Desired Disk`. To view information on the current drive such as what type of partition table or Logical size and smart status :menuselection:`Device --> Properties`. If you do not really see all your devices or current status press :kbd:`F5` or :menuselection:`Tools --> Refresh Devices`. To show which filesystems and what you can do with KDE Partition Manager :menuselection:`Tools --> File System Support`.
+If you have multiple drives on your system :menuselection:`Device --> Select Current Device --> Desired Disk`. To view information on the current drive such as what type of partition table or Logical size and smart status :menuselection:`Device --> Properties`. If you do not really see all your devices or current status press :kbd:`F5` or :menuselection:`Tools --> Refresh Devices`. To show which filesystems and what operations can be done with KDE Partition Manager :menuselection:`Tools --> File System Support`.
 
 If you want to quit KDE Partition Manager press :kbd:`Control+Q`.
 

@@ -93,6 +93,11 @@ To add multiple columns to your document :menuselection:`Format --> Columns`. To
 
 To add a column break to the next column press :kbd:`Control+Shift+Enter` or :menuselection:`Insert --> More Breaks --> More Column Breaks`.
 
+Comments
+--------
+To add a comment to a file with LibreOffice Writer press :kbd:`Control +Alt +C`or :menuselection:`Insert --> Comment`
+
+
 Lists
 -----
 To add a list of bullet points press :kbd:`Shift +F12` or :menuselection:`Format --> Lists --> Bulleted Lists`. To start a numbered lists press :kbd:`F12` or :menuselection:`Format --> Lists --> Numbered List`. To move an item up in your list :menuselection:`Format --> Lists --> Move Up`. To move an item down in your list :menuselection:`Format --> Lists --> Move Down`. To demote a point to a subpoint :menuselection:`Format --> Lists --> Demote One Level`. To promote this point back up to its previous level :menuselection:`Format --> Lists --> Promote One Level`.

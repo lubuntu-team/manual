@@ -95,7 +95,7 @@ To add a column break to the next column press :kbd:`Control+Shift+Enter` or :me
 
 Comments
 --------
-To add a comment to a file with LibreOffice Writer press :kbd:`Control +Alt +C`or :menuselection:`Insert --> Comment`. To add text on the comment click in the yellow area and type in your comment.
+To add a comment to a file with LibreOffice Writer press :kbd:`Control +Alt +C`or :menuselection:`Insert --> Comment`. To add text on the comment click in the yellow area and type in your comment. To delete a comment press the downward pointed arrow in the yellow comment and select :menuselection:`Delete Comment`.
 
 
 Lists

@@ -98,6 +98,8 @@ Comments
 To add a comment to a file with LibreOffice Writer press :kbd:`Control +Alt +C`, right click :menuselection:`Insert Comment`, or :menuselection:`Insert --> Comment`. To add text on the comment click in the yellow area and type in your comment. To delete a comment press the downward pointed arrow in the yellow comment and select :menuselection:`Delete Comment`. To get back in the body of the document click in the white part towards the left of the document. To read when a comment was made look at the bottom of the comment in yellow.
 
 
+.. image:: comments.png
+
 Lists
 -----
 To add a list of bullet points press :kbd:`Shift +F12` or :menuselection:`Format --> Lists --> Bulleted Lists`. To start a numbered lists press :kbd:`F12` or :menuselection:`Format --> Lists --> Numbered List`. To move an item up in your list :menuselection:`Format --> Lists --> Move Up`. To move an item down in your list :menuselection:`Format --> Lists --> Move Down`. To demote a point to a subpoint :menuselection:`Format --> Lists --> Demote One Level`. To promote this point back up to its previous level :menuselection:`Format --> Lists --> Promote One Level`.

@@ -58,26 +58,6 @@ To insert the number of your slide :menuselection:`Insert --> Slide Number`.
 
 To change the zoom of you presentation :menuselection:`View --> Zoom --> Zoom` to bring up a window to manage your zoom. If you just want to zoom to fit the page width :menuselection:`View --> Zoom --> Page Width`. To change your zoom to 100 percent :menuselection:`View --> Zoom --> 100%`. In the bottom right corner there is a slider for controling zoom. To zoom in move the slider to the right and to zoom out move the slider to the left.
 
-To bring up a dialog for the properties of your slides controlling background and shape with :menuselection:`Slide --> Properties`. To change the format for a different aspect ratio of projector or print format change the :guilabel:`Format` drop down menu. To select a custom width and height change the :guilabel:`Width` or :guilabel:`Height`. To switch to a portrait orientation press the :guilabel:`Portrait` button to the right of :guilabel:`Orientation`. To add margins to slides enter a margin in the :guilabel:`Left`, :guilabel:`Right`, :guilabel:`Top`, and :guilabel:`Bottom`. 
-
-.. image::  slide-properties.png
-
-To change and choose a custom background use the :guilabel:`Background` tab. To choose a solid color background for your slide press the :guilabel:`Color` button. To choose a different background color choose a color below the :guilabel:`Color` heading. To change to a different color pallet change the :guilabel:`Palette` drop down menu. To see what your current background color of the slide is shown under the :guilabel:`Active` label. To see what color you want to change is under :guilabel:`New` as a preview of the new background color. To the individual red, green, and blue of your colors change the :guilabel:`R`. :guilabel:`G`, and :guilabel:`B` fields respectively. To change the hexadecimal code for the color change the :guilabel:`Hex` field.  To actually change the color press the :guilabel:`OK` button. To cancel your change of background use the :guilabel:`Cancel` button. 
-
-.. image::  impress-background-color.png
-
-To choose a smooth transition use the :guilabel:`Gradient` button. To choose a preset gradient left click on the gradient on :guilabel:`Gradient` menu. To change the type of gradient use the :guilabel:`Type` and select it from the drop down menu. To see a picture of your background it is under the :guilabel:`Preview` text. To switch to manually changing the number of steps in the gradient uncheck :guilabel:`Automatic` checkbox and then change the :guilabel:`Increment` field. To change the center of the gradient change the two fields for :guilabel:`Center(X/Y)` to change the X and Y coordinates of the center. To rotate the  gradient use the :guilabel:`Angle` field. To change your first color of your gradient change the :guilabel:`From Color` drop down menu. To change the second color of the gradient change the :guilabel:`To Color` drop down menu. To change the opacity of either color change the field that is a :guilabel:`Percent` for changing opacity. To change where the color starts change the :guilabel:`Border` field. To choose a bitmap image as your background use the :guilabel:`Bitmap` tab. The :guilabel:`Bitmap` to the left shows you the bitmap pictures you can choose. The :guilabel:`Preview` shows you what your background will look like. To change what the bitmap does if it does not fit perfectly use :guilabel:`Style` drop menu. To scale as a percent of the image press the :guilabel:`Scale` checkbox. To change the where to start the bitmap change the :guilabel:`Position` drop down menu.
-
-.. image::  impress-background-gradient.png
-
-To change to a geometric pattern for the background of your slide press the :guilabel:`Pattern` button. To select a preset pattern left click on a pattern under the :guilabel:`Pattern` heading. To preview your pattern view in under the text :guilabel:`Preview`. To change the foreground color of your pattern change the :guilabel:`Foreground Color` drop down menu. To change the background color of your pattern change the :guilabel:`Background Color` drop down menu. To customize your pattern by a grid  left click on the grid under :guilabel:`Pattern Editor`. 
-
-.. image:: slide-properties-background-pattern.png
-
-To choose a series of lines as your background press the :guilabel:`Hatch` button. To change how far between each line change the :guilabel:`Spacing` field. To view what your background will look like it is under the :guilabel:`Preview` window. To rotate the lines change the :guilabel:`Angle` field or move the slider. To change the type of lines use the :guilabel:`Line type` drop down menu. To change the color of lines use the :guilabel:`Line Color` drop down menu. To choose a particular background color of your background check the :guilabel:`Background Color` checkbox. Then use the :guilabel:`Background Color` drop down menu to choose your background color.
-
-To have your slides be transparent use the :guilabel:`Transparency` tab. To change your slides to be transparent click the :guilabel:`Transparency` button and to the right to change how transparent to make it.
-
 To move a slide down :menuselection:`Slide --> Move --> Slide Down`. To move a slide up :menuselection:`Slide --> Move --> Slide Up`. To move a slide to the start :menuselection:`Slide --> Move --> Slide to start`. To move a slide to the end :menuselection:`Slide --> Move --> Slide to end`.
 
 To view your slides right next to each other :menuselection:`View --> Slide Sorter`. To rearrange your slides click and hold a slide and drag the slide between the slides you want to move to. To switch to an outline view of just text :menuselection:`View --> Outline`. To switch to an outline :menuselection:`View --> Outline`. To switch back to your normal view :menuselection:`View --> Normal`. 
@@ -97,6 +77,28 @@ To rotate your image in LibreOffice impress right click on the picture :menusele
 .. image:: loimpressscreenshot.png 
 
 To send your picture to the back like if you want to put text in front of it :menuselection:`Arrange --> Send to Back`. To send your picture to the front right click on it and :menuselection:`Arrange --> Bring to Front`. To send an image behind one layer behind the other :menuselection:`Arrange --> Send Backward`. To bring an image forward one layer right click the image :menuselection:`Arrange --> Bring Forward`.
+
+Slide Customization
+-------------------
+To bring up a dialog for the properties of your slides controlling background and shape with :menuselection:`Slide --> Properties`. To change the format for a different aspect ratio of projector or print format change the :guilabel:`Format` drop down menu. To select a custom width and height change the :guilabel:`Width` or :guilabel:`Height`. To switch to a portrait orientation press the :guilabel:`Portrait` button to the right of :guilabel:`Orientation`. To add margins to slides enter a margin in the :guilabel:`Left`, :guilabel:`Right`, :guilabel:`Top`, and :guilabel:`Bottom`. 
+
+.. image::  slide-properties.png
+
+To change and choose a custom background use the :guilabel:`Background` tab. To choose a solid color background for your slide press the :guilabel:`Color` button. To choose a different background color choose a color below the :guilabel:`Color` heading. To change to a different color pallet change the :guilabel:`Palette` drop down menu. To see what your current background color of the slide is shown under the :guilabel:`Active` label. To see what color you want to change is under :guilabel:`New` as a preview of the new background color. To the individual red, green, and blue of your colors change the :guilabel:`R`. :guilabel:`G`, and :guilabel:`B` fields respectively. To change the hexadecimal code for the color change the :guilabel:`Hex` field.  To actually change the color press the :guilabel:`OK` button. To cancel your change of background use the :guilabel:`Cancel` button. 
+
+.. image::  impress-background-color.png
+
+To choose a smooth transition use the :guilabel:`Gradient` button. To choose a preset gradient left click on the gradient on :guilabel:`Gradient` menu. To change the type of gradient use the :guilabel:`Type` and select it from the drop down menu. To see a picture of your background it is under the :guilabel:`Preview` text. To switch to manually changing the number of steps in the gradient uncheck :guilabel:`Automatic` checkbox and then change the :guilabel:`Increment` field. To change the center of the gradient change the two fields for :guilabel:`Center(X/Y)` to change the X and Y coordinates of the center. To rotate the  gradient use the :guilabel:`Angle` field. To change your first color of your gradient change the :guilabel:`From Color` drop down menu. To change the second color of the gradient change the :guilabel:`To Color` drop down menu. To change the opacity of either color change the field that is a :guilabel:`Percent` for changing opacity. To change where the color starts change the :guilabel:`Border` field. To choose a bitmap image as your background use the :guilabel:`Bitmap` tab. The :guilabel:`Bitmap` to the left shows you the bitmap pictures you can choose. The :guilabel:`Preview` shows you what your background will look like. To change what the bitmap does if it does not fit perfectly use :guilabel:`Style` drop menu. To scale as a percent of the image press the :guilabel:`Scale` checkbox. To change the where to start the bitmap change the :guilabel:`Position` drop down menu.
+
+.. image::  impress-background-gradient.png
+
+To change to a geometric pattern for the background of your slide press the :guilabel:`Pattern` button. To select a preset pattern left click on a pattern under the :guilabel:`Pattern` heading. To preview your pattern view in under the text :guilabel:`Preview`. To change the foreground color of your pattern change the :guilabel:`Foreground Color` drop down menu. To change the background color of your pattern change the :guilabel:`Background Color` drop down menu. To customize your pattern by a grid  left click on the grid under :guilabel:`Pattern Editor`. 
+
+.. image:: slide-properties-background-pattern.png
+
+To choose a series of lines as your background press the :guilabel:`Hatch` button. To change how far between each line change the :guilabel:`Spacing` field. To view what your background will look like it is under the :guilabel:`Preview` window. To rotate the lines change the :guilabel:`Angle` field or move the slider. To change the type of lines use the :guilabel:`Line type` drop down menu. To change the color of lines use the :guilabel:`Line Color` drop down menu. To choose a particular background color of your background check the :guilabel:`Background Color` checkbox. Then use the :guilabel:`Background Color` drop down menu to choose your background color.
+
+To have your slides be transparent use the :guilabel:`Transparency` tab. To change your slides to be transparent click the :guilabel:`Transparency` button and to the right to change how transparent to make it.
 
 Slideshows/Presentations
 ------------------------

@@ -80,7 +80,7 @@ To see what websites store data on you locally press the :guilabel:`Manage Data`
 
 Version
 ----------
-Lubuntu currently ships with the latest version of Firefox, Firefox 89.
+Lubuntu currently ships with the latest version of Firefox, Firefox 90.
 
 
 How to Launch

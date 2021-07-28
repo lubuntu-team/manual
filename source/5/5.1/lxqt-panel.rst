@@ -134,8 +134,6 @@ Version
 -------
 Lubuntu ships with version 0.16.1 of LXQt-panel.
 
-
-
 How to Launch
 -------------
 LXQt-panel should auto launch by default. If you need to manually start it, run

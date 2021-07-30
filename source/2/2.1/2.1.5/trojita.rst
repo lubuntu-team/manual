@@ -42,7 +42,7 @@ In the center of the window there are several different columns that show you in
 When writing a reply message a window will pop up to write your message in. To send the message press the :guilabel:`Send` button. If you change your mind about sending this message press the :guilabel:`Cancel`. 
 
 
-To manually check for new messages :menuselection:`Mailbox --> Check for new messages` or right click on :guilabel:`Inbox` and select :menuselection:`Check for new messages`. To hide read messages :menuselection:`View --> Hide read messages` and uncheck this to see read messages again. To view newest messages in Trojita first :menuselection:`View --> Sorting --> Descending`. To switch back to your old view of oldest message first :menuselection:`View --> Sorting --> Ascending`. 
+To manually check for new messages :menuselection:`Mailbox --> Check for new messages` or right click on :guilabel:`Inbox` and select :menuselection:`Check for new messages`. To hide read messages :menuselection:`View --> Hide read messages` and uncheck this to see read messages again. To view newest messages in Trojita first :menuselection:`View --> Sorting --> Descending`. To switch back to your old view of oldest message first :menuselection:`View --> Sorting --> Ascending`. To sort your messages by threads :menuselection:`View --> Sorting --> Threads`.
 
 To launch an address book of saved contacts :menuselection:`IMAP --> Address Book`. To add a new message to contacts press the :guilabel:`Add` button. Once on the new contact double click on the fields which are all optional. If you press the X button and have changes you will bring up a dialog to save the changes. 
 

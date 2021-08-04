@@ -31,7 +31,7 @@ To view your messages on Trojita to see new messages you have received in your i
 
 Your different folders are on a sidebar on the left hand side of Trojita. To switch to another folder such as sent mail to view your sent messages left click on the :guilabel:`Sent` folder in the left panel. To switch to the drafts folder left click where it says :guilabel:`Drafts`. To remember messages for only a specified numbers of days press the :guilabel:`Remember messages for X days` button and use the below field to select the number of days.
 
-To move to the next unread message press the :kbd:`n` key or to move to the previous message press the :kbd:`p` key. To manually toggle marking a message as read press the :kbd:`m` key.
+To move to the next unread message press the :kbd:`n` key or to move to the previous message press the :kbd:`p` key. To manually toggle marking a message as read press the :kbd:`m` key. To mark as unread press :kbd:`m` again.
 
 To reply to a message to just the person that sent it press :kbd:`Control + Shift +A` or :menuselection:`IMAP --> Private Reply`. To forward an email to someone else press :kbd:`Control +Shift+F` or :menuselection:`IMAP --> Forward`. If you want to delete a message from your mailbox press :kbd:`Control+E` or :menuselection:`IMAP --> Expunge`.  
 

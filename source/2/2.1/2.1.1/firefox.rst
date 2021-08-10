@@ -50,6 +50,8 @@ To copy text in Firefox select it with the mouse and press :kbd:`Control +C` or 
 
 To view info on your webpage press :kbd:`Control+ I`. To take a screenshot of a webpage right click and select :menuselection:`Take Screenshot`. Then select the part of the webpage you want by left clicking and dragging to select which part of the webpage to take a picture of. To save your screenshot press the :guilabel:`Download` button. To copy the screenshot to a clipboard press the :guilabel:`Copy` button. To cancel taking the screenshot press the :guilabel:`X` button.
 
+.. image:: screenshot-taking.png
+
 To zoom in if you find the text on a web page to small press :kbd:`control + +`. If you want to zoom out on the text or pictures press :kbd:`control + -`. To reset to the original zoom press :kbd:`control + 0`. To make Firefox fullscreen press :kbd:`F11` and to leave fullscreen simply press :kbd:`F11` again or in the hamburger menu press the two button with two diagonal arrows. While in fullscreen the tab bar will be hidden to change tab while you have Firefox in fullscreen move your mouse to the top of the  monitor and the tab bar will popup. You can also type your zoom into Firefox from the hamburger menu :menuselection:`Zoom` field and press the :guilabel:`+` and :guilabel:`-`.
 
 To print a webpage such as directions you can click the button with horizontal bars and select :menuselection:`Print` from the menu. You can also print by pressing :kbd:`Control+P`. 

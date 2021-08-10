@@ -46,7 +46,7 @@ To go to a specific URL in the address bar you can type it in the main bar in th
 
 To bookmark a page press :kbd:`Control +D` or Press the button with three horizontal lines and select :menuselection:`Bookmarks --> Bookmark Current tab` or  right click on the tab and select :menuselection:`Bookmark Tab`. To access the bookmark again press that looks like three vertical lines and a slanted one and bookmarks and then select the bookmark you want. If you want a toolbar with your bookmarks on it right click on the address bar and select :menuselection:`Bookmarks Toolbar`. 
 
-To copy text in Firefox select it with the mouse and press :kbd:`Control +C` or right click on it and select :menuselection:`Copy`. To paste text into Firefox press :kbd:`Control+ V` or right click  and select :menuselection:`Paste`. To cut text in Firefox select the text and press :kbd:`Control+X` or right click and select :menuselection:`Cut`.
+To copy text in Firefox select it with the mouse and press :kbd:`Control +C` or right click on it and select :menuselection:`Copy`. To paste text into Firefox press :kbd:`Control+ V` or right click  and select :menuselection:`Paste`. To cut text in Firefox select the text and press :kbd:`Control+X` or right click and select :menuselection:`Cut`. To select all of the text on a page press :kbd:`Control+ A` or right click and select :menuselection:`Select All`.
 
 To view info on your webpage press :kbd:`Control+ I`.
 

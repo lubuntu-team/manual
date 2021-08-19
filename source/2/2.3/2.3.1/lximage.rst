@@ -32,7 +32,7 @@ To view the picture entirely at its original size press :menuselection:`View -->
 
 To view the picture as fullscreen press :kbd:`f11`, right click :menuselection:`Fullscreen`, double click on the image, or :menuselection:`View --> Fullscreen`. To exit fullscreen double click the image, press :kbd:`F11`, or right click :menuselection:`Fullscreen` again. To have a slideshow of you pictures in your current folder :menuselection:`View --> Slideshow` or right click and select :menuselection:`Slide Show`. Once you start the slideshow on the toolbar a play pause button will appear on the toolbar or you can stop the slideshow by right clicking and selecting :menuselection:`Slide Show`.
 
-To close LXImage press :kbd:`Crontrol+w` or :menuselection:`File --> Close`. 
+To close LXImage press :kbd:`Control+w` or :menuselection:`File --> Close`. 
 
 Annotations
 ------------

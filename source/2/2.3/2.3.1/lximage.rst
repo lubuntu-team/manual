@@ -38,6 +38,8 @@ Annotations
 ------------
 To show annotations controls :menuselection:`View --> Annotations Toolbar`. To edit your images with LXImage there are several buttons on the right hand side of the toolbar. To draw and arrow press the button that looks like an arrow click once where you want the arrow to start and then drag the direction you want the arrow to point and click it where you want the arrowhead to be. To draw a hollow rectangle left click on the button with a hollow rectangle and click and drag to the size of the rectangle you want. To draw a hollow circle annotation press the button that looks like a hollow circle. To draw numbers on your pictures press the :guilabel:`3` button. To stop drawing annotations press the button with a circle with a slash through it.
 
+.. warning:: Anotations in lximage cannot be undone with an undo functionality. Also you will not be prompted to save your unsaved annotations when closing LXImage.
+
 Screenshot
 ----------
 .. image:: LXImage.png

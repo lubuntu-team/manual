@@ -19,7 +19,7 @@ After entering this in you will be asked to check the certificate for your serve
 
 After you have set everything up a set of folders will appear on the left hand side.
 
-To change how long Trojita stores messages in offline mode from the settings from :menuselection:`IMAP --> Settings` and use the :guilabel:`Offline` tab. To not store messages offfline select the :guilabel:`Don't use cache` button. To keep your email messages indefinetly press the :guilabel:`Store forever` button.
+To change how long Trojita stores messages in offline mode from the settings from :menuselection:`IMAP --> Settings` and use the :guilabel:`Offline` tab. To not store messages offfline select the :guilabel:`Don't use cache` button. To keep your email messages indefinitely press the :guilabel:`Store forever` button.
 
 .. image:: trojita-offline.png
 
@@ -31,7 +31,7 @@ To view your messages on Trojita to see new messages you have received in your i
 
 Your different folders are on a sidebar on the left hand side of Trojita. To switch to another folder such as sent mail to view your sent messages left click on the :guilabel:`Sent` folder in the left panel. To switch to the drafts folder left click where it says :guilabel:`Drafts`. To remember messages for only a specified numbers of days press the :guilabel:`Remember messages for X days` button and use the below field to select the number of days.
 
-To move to the next unread message press the :kbd:`n` key or to move to the previous message press the :kbd:`p` key. To manually toggle marking a message as read press the :kbd:`m` key or right click and select :menuselection:`. To mark as unread press :kbd:`m` again. If you want to delete a message from your mailbox press :bkd:`Delete` or right click :menuselection:`Mark as deleted` and then press  :kbd:`Control+E` or :menuselection:`IMAP --> Expunge`.  
+To move to the next unread message press the :kbd:`n` key or to move to the previous message press the :kbd:`p` key. To manually toggle marking a message as read press the :kbd:`m` key or right click and select :menuselection:`. To mark as unread press :kbd:`m` again. If you want to delete a message from your mailbox press :kbd:`Delete` or right click :menuselection:`Mark as deleted` and then press  :kbd:`Control+E` or :menuselection:`IMAP --> Expunge`.  
 
 To reply to a message to just the person that sent it press :kbd:`Control + Shift +A` or :menuselection:`IMAP --> Private Reply`. To forward an email to someone else press :kbd:`Control +Shift+F` or :menuselection:`IMAP --> Forward`. 
 

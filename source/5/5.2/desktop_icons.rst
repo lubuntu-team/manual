@@ -10,6 +10,8 @@ To rearrange your files by when they were last modified right click on the deskt
 
 To select all items on your desktop right click on the desktop background and select :menuselection:`Select All`. To select the opposite to what you currently have select right click on the desktop and select :menuselection:`Invert Selection`.
 
+Having a folder on your desktop gives you a few more options. To open a folder in your terminal from the desktop right click and select :menuselection:`Open in Terminal`.
+
  
 Some icons also have special actions associated with them. You can right click on the trash and select :menuselection:`Empty Trash` to get rid of all files in your trash can.
 

@@ -13,6 +13,8 @@ To create a new archive press :menuselection:`File --> New` or press :kbd:`Contr
 
 .. image:: lxqt-archiver-new.png
 
+To navigate to a folder inside of an archive double click on it in the center of the window or double cliick on the left side pane.
+
 To reload the view of the archive press :kbd:`F5` or :menuselection:`View --> Reload`. To view the whole directory tree press :kbd:`Control+ Shift +Down arrow` or :menuselection:`View --> Expand`. To view just the top level of directory tree press :kbd:`Control + Shift + Up arrow` or :menuselection:`View --> Collapse`. To search for files press :kbd:`Control +F` or :menuselection:`View --> Filter`. Type what you want to search for in the textbox at the bottom. To hide searching press :kbd:`Control+F` or :menuselection:`View --> Filter` again.
 
 .. image:: lxqt-archiver.png

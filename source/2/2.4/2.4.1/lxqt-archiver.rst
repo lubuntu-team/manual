@@ -9,7 +9,7 @@ To open an archive file :menuselection:`File --> Open` or press :kbd:`Control+O`
 
 .. image:: lxqt-archiver-open.png
 
-To create a new archive press :menuselection:`File --> New` or press :kbd:`Control+N` and a dialog to create a file will be created. To choose what to name the file type the name in the :guilabel:`File name` field. To choose a password for your archive type in the :guilabel:`Password` field. Then to make the archive press :guilabel:`Save`. To add a file to the archive :menuselection:`Edit --> Add Files` or press the piece of paper button with a :guilabel:`+` on it. To select which file to add navigate to it and press the :guilabel:`Open` button. To add an entire folder of files :menuselection:`Edit --> Add Folder` and select the folder you want and then press :guilabel:`Open`.
+To create a new archive press :menuselection:`File --> New` or press :kbd:`Control+N` and a dialog to create a file will be created. To choose what to name the file type the name in the :guilabel:`File name` field. To choose a password for your archive type in the :guilabel:`Password` field. Then to make the archive press :guilabel:`Save`. To add a file to the archive :menuselection:`Edit --> Add Files` or press the piece of paper button with a :guilabel:`+` on it. To select which file to add navigate to it and press the :guilabel:`Open` button. To add an entire folder of files :menuselection:`Edit --> Add Folder` or press the :guilabel:`Folder button with +` and select the folder you want and then press :guilabel:`Open`.
 
 .. image:: lxqt-archiver-new.png
 

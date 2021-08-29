@@ -27,13 +27,6 @@ To close all tabs right click on the tab bar and :menuselection:`Close all tabs`
 
 If you want to view a particular page select the box (e.g. page 1/3) in towards the top left corner and type the page number (e.g. page 3/3). To move to the previous and next page press the :kbd:`left arrow` and :kbd:`right arrow` buttons respectively. Scrolling with the mouswheel past the end or begining of a page will also change the page. Another way to move to the next page is to press :kbd:`spacebar` or :menuselection:`Edit --> Next page`. Another way to go to the previous page is pressing :kbd:`Backspace` or :menuselection:`Edit --> Previous page`.  Another way to jump to a particular page is to press :kbd:`control + j` or :menuselection:`Edit --> Jump to page`. To go back to page which you have just come from press :kbd:`control + enter` or :menuselection:`Edit --> Jump backward`. To jump forward a page press :kbd:`control + shift + enter` or :menuselection:`Edit --> Jump forward`. To move to the last page of the PDF press the :kbd:`End` key or :menuselection:`Edit --> Last Page`. To move to the first page of the PDF press the :kbd:`Home` key or :menuselection:`Edit --> First page`. 
 
-To print your PDF press :kbd:`Control + P` or :menuselection:`File --> Print`. To change what printer you use use the :guilabel:`Name` drop down to select the name of the printer. To see more options press the :guilabel:`Options >>` button to see more options when you print. To select which pages to print use the :guilabel:`Pages from` button and then the fields for the first page to print and then the last page to print. To change what pages you print and type the page number in use the :guilabel:`Pages` field. To print your current page press the :guilabel:`Current Page` button. To change how many copies you print change the :guilabel:`Copies` field.
-
-.. image::  qpdfview-print.png
-
-
-If you are printing the PDF in black and white you can however  toggle previewing  the file in black and white by pressing :kbd:`Control + U` or :menuselection:`View --> Convert to grayscale`. To invert the colors of your PDF press :kbd:`Control +I` or :menuselection:`View --> Invert Colors`. To trim the margins off your PDF file press :kbd:`control +Shift +U` or :menuselection:`View --> Trim margins`. If you want to turn off changed colors or trimmed margins off press or use the menu in the same thing again. 
-
 To select text or an image from qpdfview press :kbd:`control+c` or :menuselection:`Edit --> Copy to clipboard`. Then the cursor will turn into a crosshair and you will be able to expand a box to select either text or an image and a menu to select copying the text, selecting the text, copying the image, or saving the image to file. Another way to copy text is to press :kbd:`Shift + Left Click`.  
 
 To save your PDF file is to :menuselection:`File --> Save` or you can press :kbd:`Control + s`. You can save the file with a different name with :menuselection:`File --> Save as`. To save a copy of the document click :menuselection:`File --> Save a copy`. If you want to quit qpdfview press :kbd:`Control+Q`.  
@@ -70,6 +63,15 @@ Screenshot
 Presentation
 -------------
 To enter presentation mode you can press :kbd:`f12` or :menuselection:`View --> Presentation` which makes the content of the PDF take up the fullscreen and gives you no menubars or toolbars. To exit presentation mode you can press :kbd:`f12` again. To advance to the next page in the presentation press the :kbd:`spacebar` or the :kbd:`right arrow`. To go back a page in presentation press the :kbd:`left arrow`. To exit the presentation press :kbd:`escape`. To go to the first page of the presentation press the :kbd:`Home` key. To go to the last page of the presentation press the :kbd:`End` key.
+
+Printing
+--------
+
+To print your PDF press :kbd:`Control + P` or :menuselection:`File --> Print`. To change what printer you use use the :guilabel:`Name` drop down to select the name of the printer. To see more options press the :guilabel:`Options >>` button to see more options when you print. To select which pages to print use the :guilabel:`Pages from` button and then the fields for the first page to print and then the last page to print. To change what pages you print and type the page number in use the :guilabel:`Pages` field. To print your current page press the :guilabel:`Current Page` button. To change how many copies you print change the :guilabel:`Copies` field.
+
+.. image::  qpdfview-print.png
+
+If you are printing the PDF in black and white you can however  toggle previewing  the file in black and white by pressing :kbd:`Control + U` or :menuselection:`View --> Convert to grayscale`. To invert the colors of your PDF press :kbd:`Control +I` or :menuselection:`View --> Invert Colors`. To trim the margins off your PDF file press :kbd:`control +Shift +U` or :menuselection:`View --> Trim margins`. If you want to turn off changed colors or trimmed margins off press or use the menu in the same thing again. 
 
 Customizing
 -----------

@@ -31,14 +31,6 @@ To select text or an image from qpdfview press :kbd:`control+c` or :menuselectio
 
 To save your PDF file is to :menuselection:`File --> Save` or you can press :kbd:`Control + s`. You can save the file with a different name with :menuselection:`File --> Save as`. To save a copy of the document click :menuselection:`File --> Save a copy`. If the next time you want to open a pdf to a specific page as first page right click :menuselection:`Set first page`. :menuselection:` If you want to quit qpdfview press :kbd:`Control+Q`.  
 
-qpdfview also includes some very useful docks. To view the outline dock, in the menu select :menuselection:`View --> Docks --> Outline (make sure the button is checked)` or press :kbd:`F6` on the keyboard. It should appear on the left hand side of the PDF with collapsible sections and to expand or collapse each section left click on the :menuselection:`-->`. To go to a particular part of the outline double click on that part of the outline. To see the entire outline right click on the outline and select :menuselection:`Expand all`. To have your outline back to the original state right click on it and select :menuselection:`Collapse all`. This is useful in navigating large PDFs. 
-
-.. image:: qpdfview-outline.png
-
-To view properties of your PDF file press :kbd:`F7` or :menuselection:`View --> Docks --> Properties`. To see a thumbnail of each page :menuselection:`View --> Dock --> Thumbnails` or press :kbd:`F8` to view a thumbnail of each page of the PDF file. If you want to close one of these docks click the X button on the dock to close it. To detach a dock to its own floating window press the diamond button to detach it. To get the dock back to where it was press the diamond button again. 
-
-.. image::  properties-dock.png
-
 To view two pages at once like if you want to see a two page spread of an illustration in a PDF of a book press :kbd:`Control + 6` or :menuselection:`View --> Two pages`. To get your view back to normal press :kbd:`Control +6` again or :menuselection:`View --> Two pages` again.  To toggle the view of three pages at a time press :kbd:`Control +4` or :menuselection:`View --> Multiple pages`. To view right to left languages on qpdfview press :kbd:`Control +Shift +R` or :menuselection:`View --> Right to left`. To view the fonts embedded in the PDF :menuselection:`View --> Fonts`. 
 
 To search through your PDF file you can press :kbd:`control + f` or from the menu :menuselection:`Edit --> Search`. You will get taken to the results and will appear highlighted in yellow to see through the results you can press the down arrow, right click :menuselection:`Find next`, or press :kbd:`F3` to see results farther in the document and press the upward pointed arrow button, rigght click :menuselection:`Find previous`, or press :kbd:`Shift +F3` to see results towards the start of the document. To exit the search dialog press :kbd:`Escape`, right click :menuselection:`Cancel search`, or :menuselection:`Edit --> Cancel search`. If you want searches to match case check the :guilabel:`Match case` checkbox. To match entire words check the :guilabel:`Whole words` checkbox. To highlight all matches of words check the :guilabel:`Highlight all` checkbox. To exit the search press the button that looks like an octagon.
@@ -56,6 +48,16 @@ If you have a particularly long PDF file you might want to make a bookmark to fi
 Screenshot
 ----------
 .. image:: qpdfview.png
+
+Docks
+-----
+qpdfview also includes some very useful docks. To view the outline dock, in the menu select :menuselection:`View --> Docks --> Outline (make sure the button is checked)` or press :kbd:`F6` on the keyboard. It should appear on the left hand side of the PDF with collapsible sections and to expand or collapse each section left click on the :menuselection:`-->`. To go to a particular part of the outline double click on that part of the outline. To see the entire outline right click on the outline and select :menuselection:`Expand all`. To have your outline back to the original state right click on it and select :menuselection:`Collapse all`. This is useful in navigating large PDFs. 
+
+.. image:: qpdfview-outline.png
+
+To view properties of your PDF file press :kbd:`F7` or :menuselection:`View --> Docks --> Properties`. To see a thumbnail of each page :menuselection:`View --> Dock --> Thumbnails` or press :kbd:`F8` to view a thumbnail of each page of the PDF file. If you want to close one of these docks click the X button on the dock to close it. To detach a dock to its own floating window press the diamond button to detach it. To get the dock back to where it was press the diamond button again. 
+
+.. image::  properties-dock.png
 
 Presentation
 -------------

@@ -9,7 +9,7 @@ To take a new screenshot press the button with a piece of paper with a :guilabel
 
 To change what mode to select what are of the screen to take a screenshot from change the :guilabel:`Type` drop down menu. The options in the :guilabel:`Type` menu are :menuselection:`Full screen` to take a picture of everything on all of your screens. From the :guilabel:`Type` menu select :menuselection:`Window` to select your last window. To change how long to delay before taking the screenshot change the :guilabel:`Delay` field. To include the mouse pointer in your screenshot check the :guilabel:`Include mouse pointer` checkbox. To more precisely select which exact pixel you want to select when selecting an area of the screen check the :guilabel:`Zoom area around mouse` checkbox. To see how many pixels your screenshot will be when selecting a screen area it will show in the lower right hand corner of the screen.
 
-To take a screenshot where you select the screen with the mouse double click to get a where you currently have selected.
+To take a screenshot where you select the screen with the mouse double click to get a where you currently have selected. To select at where there is a change in the image right click after sizing screen area to have Screengrab autoselect where to take the edge of the screenshot.
 
 To quit screengrab press :kbd:`Escape`.
 

@@ -66,7 +66,6 @@ Shipped applets not enabled by default:
  - System Statistics
  - Spacer
 
-
 .. image:: panel-config-widgets.png
 
 To configure options for your application menu right click on the menu configure application menu or from the panel configuration dialog with the widget selected for application menu click on the gear button. The :guilabel:`Icon` checkbox lets you choose a custom icon to use in your menu if you want one and then use the folder button to browse for the path of the custom file you want for your menu. The checkbox for :guilabel:`Button text` lets you add text that can be anything you want to your menu. To change your own font size check the :guilabel:`Custom font size` checkbox and change your font size on the field to the right. To change the shortcut to open the menu from the default :kbd:`Left Super (Windows)` you can press the button for keyboard shortcut and a countdown will begin a countdown and press the button. To choose another file to use as a menu press use the :guilabel:`Menu file` field to choose a different menu. To set a custom keyboard shortcut to open the menu left click on :guilabel:`Click the button to record shortcut` button then press the keyboard shortcut you want. 

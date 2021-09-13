@@ -27,8 +27,8 @@ To search a note for something type into the bar to find something in your note.
 
 To make the text on your note bold press :kbd:`Control+B` or the **a** button. To make your text on your note italic press :kbd:`Control+I` or the *a* button. To underline your text press my underlined a button. To clear all formatting press the :guilabel:`Aa` button. To insert a hyperlink press :kbd:`Control+K` or press the button looking like a globe. Then type or paste your link in the :guilabel:`Address` field and press the :guilabel:`OK` button. To change your font color for your notes press left click the color square to the left. To highlight your text first select the text andd then press the square to the right and choose the color you want. To strike things out press the button with the line through it. To make bullet points in a list press the button with bullet points and a horizontal line. 
 
-Screenshot
-----------
+Screenshots
+-----------
 .. image:: noblenote.png
 
 .. image:: noblenote-note.png

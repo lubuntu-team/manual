@@ -21,7 +21,7 @@ If you make a mistake typing and want to undo your changes press :kbd:`Control +
 
 To toggle showing the toolbar press :kbd:`Control +Shift +T` or :menuselection:`View --> Show toolbar`. 
 
-To bring back up your note nobleNote will leave a notebook icon in the system tray on the lower right hand corner of the panel. To bring the notes backup after closing them left click on the tray icon. To hide the main window right click on the tray icon and select :menuselection:`Minimize`. To fully close nobleNote right click on the tray icon :menuselection:`Quit` or press :kbd:`Control+Q`.
+To bring back up your note nobleNote will leave a notebook icon in the system tray on the lower right hand corner of the panel. To bring the notes backup after closing them left click on the tray icon. To hide the main window right click on the tray icon and select :menuselection:`Minimize`. To bring back the main menu right click and select :menuselection:`Restore`. To fully close nobleNote right click on the tray icon :menuselection:`Quit` or press :kbd:`Control+Q`.
 
 To search a note for something type into the bar to find something in your note. To go to your next result press the :guilabel:`Find next` button. To find the previous result press the :guilabel:`Find previous` button. To change your font first press the :guilabel:`>` button and then select your font from the drop down on the left. To change your font size of your notes first press the :guilabel:`>>` button and then select your font size from the drop down to the right. To hide searching for something press the :guilabel:`X` button to the far left. To make a case sensitive search press the :guilabel:`>` and check the :guilabel:`Case sensitve` checkbox.
 

@@ -131,7 +131,7 @@ To add an easy way to change brightness to your panel add the :guilabel:`Backlig
 
 Version
 -------
-Lubuntu ships with version 0.16.1 of LXQt-panel.
+Lubuntu ships with version 0.17.1 of LXQt-panel.
 
 How to Launch
 -------------

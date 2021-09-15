@@ -15,7 +15,7 @@ The checkbox for :guilabel:`Detailed Settings` allows for even more customizatio
  
 Version
 -------
-Lubuntu ships with version 0.15.0 of Locale. 
+Lubuntu ships with version 0.17.0 of Locale. 
 
 How to Launch
 -------------

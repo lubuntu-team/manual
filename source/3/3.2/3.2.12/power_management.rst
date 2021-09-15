@@ -35,7 +35,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 0.16.0 of Power Management.  
+Lubuntu ships with version 0.17.1 of Power Management.  
 
 How to Launch
 -------------

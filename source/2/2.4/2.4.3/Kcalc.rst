@@ -23,6 +23,8 @@ To undo an operation press :kbd:`Control+Z` or :menuselection:`Edit --> Undo`. T
 
 To copy and answer out of KCalc press :kbd:`control + c` or :menuselection:`Edit --> Copy` from the menu. To paste a number into KCalc you can press :kbd:`control + v` or :menuselection:`Edit --> Paste` from the menu. To cut the text from KCalc press :kbd:`control +x` or :menuselection:`Edit --> Cut` from the menu.
 
+To quit KCalc press :kbd:`Control+Q`.
+
 Scientific calculator mode advanced functionality
 -------------------------------------------------
 

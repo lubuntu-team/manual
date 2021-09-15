@@ -25,7 +25,7 @@ If you want to Rip a CD or copy its contents to your computer :menuselection:`To
 
 Version
 -------
-Lubuntu ships with version 21.07.80 of K3b.
+Lubuntu ships with version 21.08.10 of K3b.
 
 Screenshot
 ----------

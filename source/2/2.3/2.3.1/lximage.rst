@@ -59,6 +59,8 @@ The :guilabel:`Thumbnails` tab manages settings for thumbnails. To show the thum
 
 The :guilabel:`Shortcuts` tab has settings for changing keyboard shortcuts in LXImage. To see what a shortcut will do read the :guilabel:`General` column. To change a shortcut double click on the :guilabel:`Shortcut` column and press what you want the shortcut to be. To reset keyboard shortcuts to default press the :guilabel:`Default` button.
 
+.. image:: lximage-shortcut-pref.png
+
 Version
 -------
 Lubuntu ships with version 0.17.0 or LXImage. 

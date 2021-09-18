@@ -54,6 +54,10 @@ On the very bottom of the PCManFM-Qt window when you have nothing selected it sh
 
 To see hidden files press :kbd:`control +h`, right click :menuselection:`Show Hidden`, or go to  :menuselection:`View --> Show hidden`. Do the same thing again to hide hidden files again. To open a terminal in your current folder press :kbd:`f4`, right click on a folder and select :menuselection:`Open in Terminal`, or :menuselection:`Tools --> Open Terminal` from the menu. To copy the full path of a file or directory press :kbd:`Control+Shift+C` or :menuselection:`Tools --> Copy Full Path` after selecting a singel file. To create a file that will launch an application by clicking on it :menuselection:`Tools --> Create Launcher` and fill in the fields to create a file to launch programs. To open the tab in as root select :menuselection:`Tools --> Open tab in root instance` and a new window will appear that says it is root at the bottom of the window in red.
 
+.. warning::
+
+ Modifying or deleting files as root may end up making your system unable to boot if you do not know what you are doing or make a mistake.
+
 To view the properties of a file or folder right click on it and select :menuselection:`Properties` from the menu, :menuselection:`File --> File Properties` or press :kbd:`Alt +Enter`. To view a dialog that shows folder properties :menuselection:`File --> Folder Properties`. The :guilabel:`General` tab will show you the size of the file, where the file is, and when it was last modified or accessed. To change what program a file opens with use the :guilabel:`Open With` drop down menu and select the program to open the file.
  
  .. image::  file-prop.png 

@@ -51,7 +51,7 @@ Customizing
 
 To change preferences in LXImage :menuselection:`Edit --> Preferences`. The :guilabel:`General` tab has settings for the appearance of LXImage. To change the background color in a window press the button next to :guilabel:`Normal background color` and then a window will pop up showing your color choice. To change the background color when fullscreen press the button next to :guilabel:`Fullscreen background color` and the same color picker window will appear. To change how long it takes for a each slide to change change in a slideshow change the :guilabel:`Slide show interval (seconds)` field. To cancel your changes press the :guilabel:`Cancel` button. To apply your settings and exit the preference dialog by pressing the :guilabel:`OK` button. To show the image outline by default check the :guilabel:`Show image outline by default` checkbox. To show the annotations toolbar by default check the :guilabel:`Show annotations toolbar by default`.
 
-The :guilabel:`Thumbnails` tab manages settings for thumbnails. To show the thumbnails dock by default check the :guilabel:`Show thumbnails dock by default` checkbox.
+The :guilabel:`Thumbnails` tab manages settings for thumbnails. To show the thumbnails dock by default check the :guilabel:`Show thumbnails dock by default` checkbox. To not generate thumbnails for really large images change the :guilabel:`Image size limit for built in thumbnailer` checkbox.
 
 .. image:: lximage-prefrences.png
 

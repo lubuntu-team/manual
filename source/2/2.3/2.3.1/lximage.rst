@@ -55,7 +55,7 @@ To change preferences in LXImage :menuselection:`Edit --> Preferences`. The :gui
 
 The :guilabel:`Thumbnails` tab manages settings for thumbnails. To show the thumbnails dock by default check the :guilabel:`Show thumbnails dock by default` checkbox. To not generate thumbnails for really large images change the :guilabel:`Image size limit for built in thumbnailer` checkbox.
 
-
+.. image:: lximage-thumbnail-pref.png
 
 The :guilabel:`Shortcuts` tab has settings for changing keyboard shortcuts in LXImage. To see what a shortcut will do read the :guilabel:`General` column. To change a shortcut double click on the :guilabel:`Shortcut` column and press what you want the shortcut to be. To reset keyboard shortcuts to default press the :guilabel:`Default` button.
 

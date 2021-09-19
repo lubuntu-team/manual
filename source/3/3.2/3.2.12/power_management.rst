@@ -19,7 +19,7 @@ The :guilabel:`Lid` tab manages settings for when you close your laptop lid. The
 
 The Checkbox :guilabel:`When using external monitor` Allows you to have different settings when your laptop for closing the lid if you are plugged in to an external monitor. The fields :guilabel:`On Battery` and :guilabel:`On AC` function as above just different settings when plugged into an external monitor. 
 
-The :guilabel:`Idle` tab manages what happens when you walk away from your keyboard. The :guilabel:`When idle on AC` you select whether you want to do Nothing, Lock Screen, Suspend, hibernate, Shutdown, or Turn Off Monitor(s) when your computer is plugged in. The :guilabel:`Idle time` fields tell you how long to wait when you are away before the idleness watcher takes the action you wish. 
+The :guilabel:`Idle` tab manages what happens when you walk away from your keyboard. The :guilabel:`When idle on AC` you select whether you want to do Nothing, Lock Screen, Suspend, hibernate, Shutdown, or Turn Off Monitor(s) when your computer is plugged in. The :guilabel:`When idle on Battery` field tell you how long to wait when you are away before the idleness watcher takes the action you wish. 
 
 To enable changing the backlight brightness when your computer is idle check the :guilabel:`Enable Backlight Change` checkbox. To change the bright the screen becomes when idle :guilabel:`Backlight` slider as lowering the brightness will use less power. To change how long to reduce your brightness on your laptop change the :guilabel:`Idle time` field. To have the screen reduce brightness even when plugged in uncheck the :guilabel:`On battery discharging` checkbox.
 

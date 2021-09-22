@@ -13,12 +13,9 @@ The drop down menu :guilabel:`Wallpaper mode` lets you change how the image you 
 
 .. image:: desktop.png
 
-
 The :guilabel:`General` tab has settings for text on desktop icons and text colors and icon sizes. The drop down menu :guilabel:`Icon size` lets you choose a different size of desktop icons you can choose a size that looks good on your screen. The box  :guilabel:`Select text color` brings up a widget to pick the color on desktop icons and files. The field :guilabel:`Select shadow color` changes the shadow on the shadow around the icon. To change the margins change the fields for :guilabel:`Minimum item margins` field for different coordinates. To make the margins always the same number of pixels check the :guilabel:`Lock` checkbox.
 
 .. image:: desktop-general.png
-
-
 
 The box labeled :guilabel:`Select font` lets you choose which font and size information from a dialog box. On the left is the :guilabel:`Font` for which font to select on on the bottom or type the name on top. The middle lets you choose the :guilabel:`Font style` of the font on your desktop. On the far right is a choice for the :guilabel:`Size` of your font which you can select from the menu. To have your text of your font underlined check the :guilabel:`Underline` checkbox. To change what languages your fonts can support choose your language in the :guilabel:`Writing System` drop down menu. To preview how the text will appear look in the :guilabel:`Sample` box.
 

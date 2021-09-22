@@ -5,7 +5,11 @@ Desktop is an application to change the desktop background, the appearance of ic
 
 Usage
 ------
-The :guilabel:`Background` tab has settings for desktop background. To change the desktop background you can either type the path of the file you can type in :guilabel:`Wallpaper image file` or use the :guilabel:`Browse` button to bring up a dialog to choose which the desktop. The drop down menu :guilabel:`Wallpaper mode` lets you change how the image you select for a wallpaper is made to fit on the screen. If you want an image to have multiple copies of a smaller image select tile image from the drop down. If you do not want an image and just a solid color select fill with background color only. To change the background color if you select that press the button to the right of :guilabel:`Select background color`. To have the image oriented based on metadata check the :guilabel:`Transform image based on EXIF data` checkbox. To use a different wallpaper on each monitor check the :guilabel:`Individual wallpaper for each monitor`. If your wallpaper looks streched and you don't want it to you can select :menuselection:`Cetner on the screen`. This is also useful if your multimonitor setup has the wallpaper split across monitors awkwardly and you want the same wallpaper twice.
+The :guilabel:`Background` tab has settings for desktop background. To change the desktop background you can either type the path of the file you can type in :guilabel:`Wallpaper image file` or use the :guilabel:`Browse` button to bring up a dialog to choose which the desktop.
+
+.. image:: desktop-open-file.png
+
+The drop down menu :guilabel:`Wallpaper mode` lets you change how the image you select for a wallpaper is made to fit on the screen. If you want an image to have multiple copies of a smaller image select tile image from the drop down. If you do not want an image and just a solid color select fill with background color only. To change the background color if you select that press the button to the right of :guilabel:`Select background color`. To have the image oriented based on metadata check the :guilabel:`Transform image based on EXIF data` checkbox. To use a different wallpaper on each monitor check the :guilabel:`Individual wallpaper for each monitor`. If your wallpaper looks streched and you don't want it to you can select :menuselection:`Cetner on the screen`. This is also useful if your multimonitor setup has the wallpaper split across monitors awkwardly and you want the same wallpaper twice.
 
 .. image:: desktop-general.png
 

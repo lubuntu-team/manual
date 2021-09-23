@@ -43,7 +43,7 @@ To format the paragraphs and spacing of text :menuselection:`Format --> Paragrap
 
 .. image:: loimpressparagraph.png
 
- To change settings on the alignment of text is on the :guilabel:`Alignment` tab. To choose which way you want your text aligned choose the :guilabel:`Left`, :guilabel:`Right`, :guilabel:`Center`, or :guilabel:`Justified`. To switch between left to right or right to left text switch the :guilabel:`Text direction` menu.
+To change settings on the alignment of text is on the :guilabel:`Alignment` tab. To choose which way you want your text aligned choose the :guilabel:`Left`, :guilabel:`Right`, :guilabel:`Center`, or :guilabel:`Justified`. To switch between left to right or right to left text switch the :guilabel:`Text direction` menu.
 
 To toggle bulleted lists on your points :menuselection:`Format --> Lists --> Bulleted List`. To toggle a numbered list for your points :menuselection:`Format --> Lists --> Numbered Lists`. To move an item up in list :menuselection:`Format --> Lists --> Move Up` or press :kbd:`Shift + Alt + Up`. To move an item down in a list :menuselection:`Format --> Lists --> Move Down` or press :kbd:`Shift + Alt + Down`.
 

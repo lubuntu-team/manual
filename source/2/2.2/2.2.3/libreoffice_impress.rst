@@ -83,7 +83,7 @@ To send your picture to the back like if you want to put text in front of it :me
 
 Slide Customization
 -------------------
-To bring up a dialog for the properties of your slides controlling background and shape with :menuselection:`Slide --> Slide Properties`. To change the format for a different aspect ratio of projector or print format change the :guilabel:`Format` drop down menu. To select a custom width and height change the :guilabel:`Width` or :guilabel:`Height`. To switch to a portrait orientation press the :guilabel:`Portrait` button to the right of :guilabel:`Orientation`. To add margins to slides enter a margin in the :guilabel:`Left`, :guilabel:`Right`, :guilabel:`Top`, and :guilabel:`Bottom`. 
+To bring up a dialog for the properties of your slides controlling background and shape with :menuselection:`Slide --> Slide Properties`. To change the format for a different aspect ratio of projector or print format change the :guilabel:`Format` drop down menu. To select a custom width and height change the :guilabel:`Width` or :guilabel:`Height`. To switch to a portrait orientation press the :guilabel:`Portrait` button to the right of :guilabel:`Orientation`. To add margins to slides enter a margin in the :guilabel:`Left`, :guilabel:`Right`, :guilabel:`Top`, and :guilabel:`Bottom`. To change how slides are nubmered change the :guilabel:`Slide numbers` field. 
 
 .. image::  slide-properties.png
 

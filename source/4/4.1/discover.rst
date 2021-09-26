@@ -8,7 +8,7 @@ Discover allows you to search for applications by using the :guilabel:`Search` b
 
 Press the leftward pointed arrow button to moves back in your history. Press the rightward pointed arrow to move forward in your history.
 
-To view more information on a program you want to install left click on a program to see more deatils on it. Towards the right will show a description of the program. To view user reviews of a program click on the text :guilabel:`Show All Reviews`. To exit the user reviews press :kbd:`Escape` or click outside the areas of reviews. Below the reviews there is information on the package such as the :guilabel:`Version` and :guilabel:`License`. 
+To view more information on a program you want to install left click on a program to see more deatils on it. Towards the right will show a description of the program. To view user reviews of a program click on the text :guilabel:`Show All Reviews`. To exit the user reviews press :kbd:`Escape` or click outside the areas of reviews. To view ratings of thee program is shown in stars with how many ratings of the number of reviews next to :guilabel:`ratings`.  Below the reviews there is information on the package such as the :guilabel:`Version` and :guilabel:`License`. 
 
 .. image:: discover-details.png
 

@@ -10,7 +10,7 @@ Press the leftward pointed arrow button to moves back in your history. Press the
 
 To view more information on a program you want to install left click on a program to see more deatils on it. Towards the right will show a description of the program. To view user reviews of a program click on the text :guilabel:`Show All Reviews`. To exit the user reviews press :kbd:`Escape` or click outside the areas of reviews. Below the reviews there is information on the package such as the :guilabel:`Version` and :guilabel:`License`. 
 
-
+.. image:: discover-details.png
 
 To remove software use the :guilabel:`Installed` tab or press :kbd:`Alt +I`. You can browse your installed packages, search using the search bar (upper left corner), and the click the remove button to remove software by pressing the :guilabel:`Remove` button. To view more details on the program left click on it. If you want to launch an installed program press the :guilabel:`Launch` button in the upper right corner.
 

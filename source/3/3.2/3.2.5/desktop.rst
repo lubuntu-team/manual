@@ -27,7 +27,6 @@ The :guilabel:`Slide Show` tab shows settings for slide show of changing your wa
 
 The :guilabel:`Advanced` tab has settings for default desktop icons or included. To show or hide any of the default desktop icons check/uncheck the checkboxes for: :guilabel:`Home`, :guilabel:`Trash`, :guilabel:`Computer`, or :guilabel:`Network`.
 
-
 .. image::   desktop-advanced.png
 
 To quit Desktop press the :kbd:`Escape` key.

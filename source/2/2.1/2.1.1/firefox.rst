@@ -28,14 +28,11 @@ To open a new tab in Firefox press the plus button on the right of the tab bar o
 
 To go back to a previous page in Firefox press the button pointing to the left or press :kbd:`Alt + Left arrow`. To open the page you were previously browsing in a new tab middle click the back button. To go forward to a page you have visited before but have now gone back from press the button with the arrow pointing to the right or :kbd:`Alt + Right arrow`. Middle click on the forward button to open the page you went back from in a new tab. To download a file directly to your local disk right click :menuselection:`Save Link As` file as and then you will get a dialog box to show where to save it. To save an image to your computer right click the image and select :menuselection:`Save Image As`.
 
-
 To open a window with all of your downloads on it press :kbd:`Control+Shift+Y`. To open PCManFM-Qt in the folder where you downloaded things right click and select on the download and select :menuselection:`Open Containing Folder`. To share a link with someone else for something you downloaded right click on the downloaded content right click and select :menuselection:`Copy Download Link`.
 
 To open a window with all of your downloads press :kbd:`Control+Shift+Y`. To open PCManFM-Qt in the folder where you downloaded things right click and select on the download and select :menuselection:`Open Containing Folder`. To get a link for someone else to download something right click on the downloaded content right click and select :menuselection:`Copy Download Link`. To open a downloaded file double click on it. To not have a download show in your history right click on it and select :guilabel:`Remove from History`. To clear all your download history right click and select :menuselection:`Clear Downloads` or press the :guilabel:`Clear Downloads` button at the top.
 
-
 .. image:: firefox-downloads.png
-
 
 To have a list of all of your tabs press the downward pointing arrowhead button however this only appears if you have more tabs than fit on your screen normally. To switch the view of your tabs if you have more than on the screen press the right ward pointed arrowhead to move the visible part of the tab bar to the right. To move the visible part of the tab bar to the left press the leftward pointed arrowhead. To move a tab to where you want it left click the tab and drag it to the position you want the tab.
 
@@ -101,6 +98,5 @@ from the terminal to run Firefox. You can also from the command line have Firefo
 
    firefox https://manual.lubuntu.me
    
-
 You can also launch Firefox from the quick launch by left clicking on the Firefox icon. The icon for Firefox looks like a globe with a red fox circling around it. Yet another way to launch Firefox is to press the browser button on your keyboard.
 

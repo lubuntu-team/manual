@@ -18,7 +18,6 @@ To change prefrences of Qlipper right click on the tray icon and select :menusel
 
 The :guilabel:`Sticky Items` divider stores things you want to always have in Qlipper to quickly paste. This icon will bring up a dialog where you navigate to where your new icon will be. To add a new stick item press the :guilabel:`Add` button and type or paste what you want always available. To remove a sticky item press the :guilabel:`Remove` button. To move a sticky item up in the list press the :guilabel:`Up` button. To move a sticky item down in the list press the :guilabel:`Down` button.
  
-
 .. image:: qlipperprefrences.png
 
 Version

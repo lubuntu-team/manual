@@ -32,4 +32,3 @@ Runner should be running in the background and :kbd:`Super(windows)+R` should br
    lxqt-runner 
    
 from the command line. 
-

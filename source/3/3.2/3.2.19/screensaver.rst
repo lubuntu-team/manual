@@ -21,7 +21,6 @@ To change to get even more settings on your screensaver use the :guilabel:`Advan
 
 .. image:: screensaver-advanced.png
 
-
 Version
 -------
 Lubuntu ships with version 5.42 of Screensaver

@@ -93,7 +93,6 @@ Saving or Converting Files
 --------------------------
 To save or convert a file in VLC press :kbd:`Control+R` or :menuselection:` Media --> Convert/Save` and a dialog will pop up. To add a local file to save or convert use the :guilabel:`File` tab and press the :guilabel:`Add` button. To Save or convert files off a disc press use the :guilabel:`Disc` tab. To save a network URL to use the :guilabel:`Network` tab and enter the URL in the :guilabel:`Please enter a network URL` field. To convert or save a the files press the :guilabel:`Convert/Save` button. 
 
-
 To change what file format to convert to use the :guilabel:`Profile` drop down menu. To choose what file name to save your file use the :guilabel:`Browse` button. To start converting the file press the :guilabel:`Start` button. 
 
 Customizing

@@ -55,7 +55,6 @@ To type a message to an entire channel type into the bar at the bottom and press
 To close the list of nicknames or channels press the X button or :menuselection:`View --> Nicks`. To reopen the view of nicks :menuselection:`View --> Nicks`. To close the list of all chats press the X button to close a list of all channel and private messages you are in. To reopen it press the :menuselection:`View --> Chat lists --> All chats`. 
 
 To make your chat full screen :menuselection:`View --> Full Screen Mode` or :kbd:`Control + Shift +F`. Press the keyboard shortcut or use the menu again to get out of fullscreen. If you want to quit Quassel press :kbd:`Control+Q` or right click on the system tray and select :menuselection:`Quit`.
- 
 
 Customizing
 -----------

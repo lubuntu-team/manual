@@ -17,9 +17,11 @@ The :guilabel:`Ubuntu Software` tab contains settings involving the downloading 
 
 .. image::   ubuntu_software-tab.png
 
-The :guilabel:`Other software` tab allows you to add, remove, or edit other software sources. Here you can manage remote repositories (PPAs) and CD-ROM repositories. To enable/disable a software source click the checkbox to the left of its name. To remove software from the list left click the :guilabel:`Remove` button. To add a third party source of software to your system press the :guilabel:`Add` button.
+The :guilabel:`Other software` tab allows you to add, remove, or edit other software sources. Here you can manage remote repositories (PPAs) and CD-ROM repositories. To enable/disable a software source click the checkbox to the left of its name. To remove software from the list left click the :guilabel:`Remove` button. To add a third party source of software to your system press the :guilabel:`Add` button. 
 
 .. image::  other-software-sources.png
+
+To change where a source is downloading software from presss the :guilabel:`Edit` button. To change between downloading source and binary code use the :guilabel:`Type` menu.
 
 The :guilabel:`Updates` tab allows you set which software updates you would like to subscribe to, in this case :guilabel:`Important security updates`, :guilabel:`Recommended updates`, :guilabel:`Pre-released `, and :guilabel:`Unsupported updates`. You can also set how frequently your system will automatically check for updates to the right of :guilabel:`Check for updates` and what actions it should take, namely notify you, download (without notification), or install updates. You can also specify which releases you would like to be notified of in the :guilabel:`Show new distribution releases` drop down, :menuselection:`Normal Releases`, :menuselection:`Long term releases only`, or :menuselection:`Never`.
 

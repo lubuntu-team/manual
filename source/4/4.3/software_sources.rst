@@ -37,7 +37,7 @@ Proprietary Drivers
 -------------------
 To install proprietary drivers use the :guilabel:`Additional Drivers` tab. Then press the check box to use the :guilabel:`Using Driver Name` radio button to input the proprietary driver for that checkbox. To not use proprietary drivers for something press the :guilabel:`Do not use the device` radio button. To apply these changes you will need internet access and will need to press the :guilabel:`Apply Changes` button. To revert back to your previous changes press the :guilabel:`Revert` button. 
 
-To launch this part of the program directly :menuselection:`Preferences --> Additional Drivers`.
+To launch this part of the program directly :menuselection:`Preferences --> Additional Drivers` with the icon that looks like a circut board with pins on thee bottom.
 
 Version
 -------

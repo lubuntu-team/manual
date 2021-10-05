@@ -21,7 +21,7 @@ The :guilabel:`Other software` tab allows you to add, remove, or edit other soft
 
 .. image::  other-software-sources.png
 
-To change where a source is downloading software from presss the :guilabel:`Edit` button. To change between downloading source and binary code use the :guilabel:`Type` menu. To change where the link to download software change the :guilabel:`URI` field. To change what distribution this source is for enter that in the :guilabel:`Distribution` field.
+To change where a source is downloading software from presss the :guilabel:`Edit` button. To change between downloading source and binary code use the :guilabel:`Type` menu. To change where the link to download software change the :guilabel:`URI` field. To change what distribution this source is for enter that in the :guilabel:`Distribution` field. To change what parts of the repository to use the :guilabel:`Components` field.
 
 The :guilabel:`Updates` tab allows you set which software updates you would like to subscribe to, in this case :guilabel:`Important security updates`, :guilabel:`Recommended updates`, :guilabel:`Pre-released `, and :guilabel:`Unsupported updates`. You can also set how frequently your system will automatically check for updates to the right of :guilabel:`Check for updates` and what actions it should take, namely notify you, download (without notification), or install updates. You can also specify which releases you would like to be notified of in the :guilabel:`Show new distribution releases` drop down, :menuselection:`Normal Releases`, :menuselection:`Long term releases only`, or :menuselection:`Never`.
 

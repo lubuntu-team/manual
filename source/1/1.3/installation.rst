@@ -62,6 +62,8 @@ The user setup section creates a user profile, consisting of typing your name in
 
 After pressing the :guilabel:`Install` button a dialog will pop up to confirm installation. To actually install press the :guilabel:`Install now` button. To not start installing and go back press the :guilabel:`Go back` button.
 
+.. image:: installsummary.png
+
 The Install
 -----------
 The Lubuntu installer provides some useful information while the installer is running. On the bottom of the window is a progress bar. Once Lubuntu is installed you have a checkbox :guilabel:`Reboot now` after your Lubuntu is installed and is now finished.

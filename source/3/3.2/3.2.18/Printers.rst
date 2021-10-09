@@ -33,7 +33,7 @@ To choose settings specific to your printer use the :guilabel:`Printer Options` 
 
 .. image:: prop-printer-option.png
 
-To see what options each jobs has for each printer use the :guilabel:`Job Options` tab. To change how many copies to have by default :guilabel:`Copies` field. To have the printer resize anything you print to fit to a page check the :guilabel:`Scale to fit` checkbox.
+To see what options each jobs has for each printer use the :guilabel:`Job Options` tab. To change how many copies to have by default :guilabel:`Copies` field. To change which direction to print with this printer by default change the :guilabel:`Orientation` field. To have the printer resize anything you print to fit to a page check the :guilabel:`Scale to fit` checkbox.
 
 To close Printers press :kbd:`Control+Q`.
 

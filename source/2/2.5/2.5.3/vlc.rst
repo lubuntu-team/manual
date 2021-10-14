@@ -5,7 +5,7 @@ VLC is the default media player for Lubuntu that can open both audio and video f
 
 Usage
 ------
-To open media stored locally on your system click media open :menuselection:`Media --> Open File` and navigate your local files or press :kbd:`control +o` on the keyboard to open files stored locally on your machine. If you want to say listen to two videos or songs from an album you hold :kbd:`Control +left click` to open multiple files at once or press :kbd:`Control+A` to select all files in a folder. If you wish to open media from somewhere on the internet on :menuselection:`Media --> Open Network Stream` or press :kbd:`Control + N`. To open a whole directory use :menuselection:`Media --> Open Directory` or press :kbd:`control +F`. VLC also keeps track of recently opened media in case you want to view media again in :menuselection:`Media --> Open Recent Media --> file name`. If you have copied a path in your clipboard or something you can press :kbd:`Control +V` or :menuselection:`Media --> Open Location from clipboard`.   
+To open media stored locally on your system click media open :menuselection:`Media --> Open File` and navigate your local files or press :kbd:`control +o` on the keyboard to open files stored locally on your machine. If you want to say listen to two videos or songs from an album you hold :kbd:`Control +left click` to open multiple files at once or press :kbd:`Control+A` to select all files in a folder. If you wish to open media from somewhere on the internet on :menuselection:`Media --> Open Network Stream` or press :kbd:`Control + N`. To open a whole directory use :menuselection:`Media --> Open Directory` or press :kbd:`control +F`. VLC also keeps track of recently opened media in case you want to view media again in :menuselection:`Media --> Open Recent Media --> file name`. If you have copied a path in your clipboard you can press :kbd:`Control +V` or :menuselection:`Media --> Open Location from clipboard` to quickly open a location in your clipboard.   
 
 .. image:: vlc-file-open.png
 
@@ -21,7 +21,7 @@ To move to the next item in a playlist press the button that has two arrows poin
 
 To make the same sound come out of both speakers go to :menuselection:`Audio --> Stereo mode --> Mono`. The sound to make a different left and right channel on each speaker will be :menuselection:`Audio --> Stereo Mode --> Stereo`. To make all sound come from the left channel :menuselection:`Audio --> Stereo Mode --> Left` and likewise for Right. To change what device audio from VLC come out :menuselection:`Audio --> Audio Device --> output device you want`. You can also change the stereo mode by right clicking on the video and selecting :menuselection:`Audio --> Stereo Mode` and selecting the audio mode you want.
 
-To view a playlist of music or videos you can view press the button that is several horizontal lines and then a triangular play button on it or press :kbd:`Control + l`. This will bring up a whole view of your playlist. To return to your original view press :kbd:`Control + l`. To add more files to your playlist right click on the bottom of the playlist window and click add file to add an additional file. To play a particular file from a playlist double click on the file. To remove a file from a playlist right click on it and select :menuselection:`Remove Selected`. To remove all files from a playlist right click and select :menuselection:`Clear the playlist` or press :kbd:`Control+W`.  
+To view a playlist of music or videos you can view press the button that is several horizontal lines and then a triangular play button on it or press :kbd:`Control + l`. This will bring up a whole view of your playlist. To return to your original view press :kbd:`Control + l`. To add more files to your playlist right click on the bottom of the playlist window and click add file to add an additional file. To play a particular file from a playlist double click on the file. To remove a file from a playlist right click on it and select :menuselection:`Remove Selected`. To remove all files from a playlist right click and select :menuselection:`Clear the playlist` or press :kbd:`Control+W`. To save a playlist to a file press :kbd:`Control + Y`, :menuselection:`Media -->  Save Playlist to File`, or right click and select :menuselection:`Save Playlist to File`
 
 To see the name of each file is listed in the :guilabel:`Title` column. To see how long each file will take to play view the :guilabel:`Duration` column. To see what Album an Audio track comes from view the :guilabel:`Album` column. To change the width of each column press left click on the border between columns and drag until the desired size. If you want to see other metadata on your playlist you can right click above the songs in the playlist and check the checkbox before each checkbox or uncheck it to hide that column from showing. You can choose to show or hide the :menuselection:`Duration`, :menuselection:`Artist`, :menuselection:`Genre`, :menuselection:`Album`, :menuselection:`Track number`, :menuselection:`Description`, :menuselection:`URI`, :menuselection:`ID`, :menuselection:`Rating`, :menuselection:`Cover`,  :menuselection:`Disc number`, or :menuselection:`Date`. To view the playlist in its own window uncheck :menuselection:`View --> Docked Playlist` and check it again to dock to have playlist return to the same window.
 
@@ -73,7 +73,7 @@ To change how the audio and video synchronize with the rest of the file use the 
 
 To change how the video appears on your screen use the :guilabel:`Video Effects` tab. On the :guilabel:`Essential` sub tab for how your brightness contrast and other things appear. To change your image press the :guilabel:`Image adjust` checkbox. To change the brightness use the :guilabel:`Brightness` slider with to the left being darker and to the right being lighter. However extreme values to the left or right are not that viewable. As such you may want to make small adjustments with the :kbd:`Left arrow` and :kbd:`Right arrow` keys. To change the color of the video use the :guilabel:`Hue` slider. To change the contrast use the :guilabel:`Contrast` slider with the left being lower contrast and the right being higher contrast. To change how saturated your colors are use the :guilabel:`Saturation` slider.
 
-To add a film grain effect check the :guilabel:`Film Grain` checkbox. To adjust how much the film grain varies slide the :guilabel:`Varience` slider.
+To add a film grain effect check the :guilabel:`Film Grain` checkbox. To adjust how much the film grain varies slide the :guilabel:`Variance` slider.
 
 .. image:: vlc-essential-video-effects.png 
 
@@ -81,13 +81,19 @@ To crop pixels off the margins use the :guilabel:`Crop` subtab. To take a number
 
 .. image:: vlc-crop.png
 
-To have settings to change the colors showing in vlc use the :guilabel:`Colors` subtab. To entirely invert colors check the :guilabel:`Negative colors` checkbox. To reduce the total number of colors on your video from slight transitions check the :guilabel:`Posterize` checkbox. To enable a sepia tone for the video check the :guilabel:`Sepia` checkbox. To have a close to black and white tone enter a low number in :guilabel:`Intensity`. To have a more sepia tone enter a higher number in :guilabel:`Intensity`.
+To have settings to change the colors showing in VLC use the :guilabel:`Colors` subtab. To entirely invert colors check the :guilabel:`Negative colors` checkbox. To reduce the total number of colors on your video from slight transitions check the :guilabel:`Posterize` checkbox. To enable a sepia tone for the video check the :guilabel:`Sepia` checkbox. To have a close to black and white tone enter a low number in :guilabel:`Intensity`. To have a more sepia tone enter a higher number in :guilabel:`Intensity`.
 
 .. image:: video-effects-colors.png
 
-To zoom or rotate a video use the :guilabel:`Geometry` tab. To choose differnt parts of the video to zoom in on as it plays check the :guilabel:`Interactive Zoom` checkbox. To do simple things like flip or rotate your vidoe first check the :guilabel:`Transform` checkbox. To rotate your video 90 degrees to the right select :menuselection:`Rotate by 90 degrees` under :guilabel:`Transform`. To rotate your video 180 degrees to the right select :guilabel:`Rotate by 180 degrees` under :guilabel:`Transform`. To rotate the video 270 degrees to the right select :menuselection:`Rotate by 270 degrees` under :guilabel:`Transform`. To flip the image horizontally select :menuselection:`Flip horizontally` under :guilabel:`Transform`. To rotate your video by  the number of degrees you want check the :guilabel:`Rotate` checkbox and then select which degree you want to have have the video rotated.
+To zoom or rotate a video use the :guilabel:`Geometry` tab. To choose different parts of the video to zoom in on as it plays check the :guilabel:`Interactive Zoom` checkbox. To do simple things like flip or rotate your video first check the :guilabel:`Transform` checkbox. To rotate your video 90 degrees to the right select :menuselection:`Rotate by 90 degrees` under :guilabel:`Transform`. To rotate your video 180 degrees to the right select :guilabel:`Rotate by 180 degrees` under :guilabel:`Transform`. To rotate the video 270 degrees to the right select :menuselection:`Rotate by 270 degrees` under :guilabel:`Transform`. To flip the image horizontally select :menuselection:`Flip horizontally` under :guilabel:`Transform`. To rotate your video by  the number of degrees you want check the :guilabel:`Rotate` checkbox and then select which degree you want to have have the video rotated.
 
 .. image:: video-effects-geometry.png
+
+Saving or Converting Files
+--------------------------
+To save or convert a file in VLC press :kbd:`Control+R` or :menuselection:` Media --> Convert/Save` and a dialog will pop up. To add a local file to save or convert use the :guilabel:`File` tab and press the :guilabel:`Add` button. To Save or convert files off a disc press use the :guilabel:`Disc` tab. To save a network URL to use the :guilabel:`Network` tab and enter the URL in the :guilabel:`Please enter a network URL` field. To convert or save a the files press the :guilabel:`Convert/Save` button. 
+
+To change what file format to convert to use the :guilabel:`Profile` drop down menu. To choose what file name to save your file use the :guilabel:`Browse` button. To start converting the file press the :guilabel:`Start` button. 
 
 Customizing
 -----------
@@ -95,13 +101,13 @@ To view your preferences of VLC press :kbd:`control +P` or :menuselection:`Tools
 
 .. image::  vlcprefrences.png
 
-To cancel your changes in this window and close it press the :guilabel:`Cancel` button. To Reset your preferences to press the :guilabel:`Reset Preferences` button. To Save your preferences and close the window press the :guilabel:`Save` button. 
+To cancel your changes in this window and close it press the :guilabel:`Cancel` button. To Reset your preferences to press the :guilabel:`Reset Preferences` button. To Save your preferences and close the window press the :guilabel:`Save` button.
 
 To manage your audio settings use the :guilabel:`Audio tab`. To disable audio entirely uncheck the :guilabel:`Enable audio` checkbox. To change the output of audio type change the :guilabel:`Output module` menu. To add a visualization of Audio change the :guilabel:`Visualization` menu. To change replay gain mode change the :guilabel:`Replay gain mode` menu. To allow playing audio at different speeds without changing the pitch is to check the :guilabel:`Enable Time-stretching audio` checkbox. To submit what tracks you play to Last.fm check the :guilabel:`Submit played tracks stats to Last.fm`  checkbox and then put in your username in the :guilabel:`Username` field and your password in the :guilabel:`Password` field.
 
 .. image:: vlc-audio-pref.png 
 
-To change settings with how VLC deals with video use the :guilabel:`Video` tab. To disable video and thus save some processing power uncheck the :guilabel:`Enable Video` checkbox. To automatically have fullscreen video check the :guilabel:`Fullscreen` checkbox. To have window decorations on a separate video window check the :guilabel:`Window decorations` checkbox. The menu :guilabel:`Fullscreen Video Device` menu lets you select which monitor to play the full screen video on. To change the backend for VLC to play videos change the :guilabel:`Output` menu. To turn deinterlacing on or off change :guilabel:`Deinterlacing` menu. The mode :guilabel:`Mode` changes the mode to deinterlace the frames of video. The :guilabel:`Video snapshots` section shows settings for vlc snapshots. The :guilabel:`Directory` is what directory to save snapshots of videos in and to choose one in a pop up window press the :guilabel:`Browse` button. The :guilabel:`Prefix` field lets you have a preshot to the snapshot file name. You can choose the format of the snapshot in the :guilabel:`Format` menu.
+To change settings with how VLC deals with video use the :guilabel:`Video` tab. To disable video and thus save some processing power uncheck the :guilabel:`Enable Video` checkbox. To automatically have fullscreen video check the :guilabel:`Fullscreen` checkbox. To have window decorations on a separate video window check the :guilabel:`Window decorations` checkbox. The menu :guilabel:`Fullscreen Video Device` menu lets you select which monitor to play the full screen video on. To change the backend for VLC to play videos change the :guilabel:`Output` menu. To turn deinterlacing on or off change :guilabel:`Deinterlacing` menu. The mode :guilabel:`Mode` changes the mode to deinterlace the frames of video. The :guilabel:`Video snapshots` section shows settings for VLC snapshots. The :guilabel:`Directory` is what directory to save snapshots of videos in and to choose one in a pop up window press the :guilabel:`Browse` button. The :guilabel:`Prefix` field lets you have a preshot to the snapshot file name. You can choose the format of the snapshot in the :guilabel:`Format` menu.
 
 .. image::  vlc-video-pref.png 
 
@@ -113,7 +119,7 @@ To view your settings for subtitles and on screen display choose the :guilabel:`
  
  .. image::   vlc-subtitle-pref.png
 
-To change settings with codecs choose the :guilabel:`Input/codecs` tab. To change your settings for hardware-accelerated decoding use the :guilabel:`Hardware-accelerated decoding` which you can choose a specific kind of decoding. To choose to seek faster than more precisely check the :guilabel:`Fast seek` option. To the quality of video vlc endoes change :guilabel:`x264 preset and tuning selection` which faster recording taking less resouces but being less quality. To change your default optical device the drop down menu next to :guilabel:`Default optical device` to change your default optical device. To choose where save things you record with VLC change type where you want in :guilabel:`Reecord directory or filename` or press the :guilabel:`Browse` button. To change your caching policy depending on your network latency use the :guilabel:`Default caching policy` drop down menu.
+To change settings with codecs choose the :guilabel:`Input/codecs` tab. To change your settings for hardware-accelerated decoding use the :guilabel:`Hardware-accelerated decoding` which you can choose a specific kind of decoding. To choose to seek faster than more precisely check the :guilabel:`Fast seek` option. To the quality of video vlc endoes change :guilabel:`x264 preset and tuning selection` which faster recording taking less resouces but being less quality. To change your default optical device the drop down menu next to :guilabel:`Default optical device` to change your default optical device. To choose where save things you record with VLC change type where you want in :guilabel:`Record directory or filename` or press the :guilabel:`Browse` button. To change your caching policy depending on your network latency use the :guilabel:`Default caching policy` drop down menu.
 
 .. image::   vlc-input-codecs.png
 
@@ -135,7 +141,7 @@ To show your Active extensions use the :guilabel:`Active Extensions tab`. To rel
 
 Version
 -------
-Lubuntu ships with version 3.0.12 of VLC.
+Lubuntu ships with version 3.0.16 of VLC.
 
 How to Launch
 -------------

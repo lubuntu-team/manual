@@ -24,8 +24,7 @@ To filter which torrents are shown on your list use the :guilabel:`Show` drop do
 
 If you want have a move compact view :menuselection:`View --> Compact View` or press :kbd:`Alt + C`. To switch back out from compact view press the same thing again.
 
-
-To sort your torrents by activity :menuselection:`View --> Sort by Activity`. To sort your torrents by age :menuselection:`View --> Sort by Age`. To sort your torrents by name :menuselection:`View --> Sort by Name`. To sort your torrents by Progress :menuselection:`View --> Sort by Progress`.  To sort your torrents by Queue :menuselection:`View --> Sort by Queue`. To sort your torrents by ratio uploaded to downloaded :menuselection:`View --> Sort by ratio`. To sort your torrents by size :menuselection:`View --> Sort by Size`. To sort your torrents by State :menuselection:`View --> Sort by State`. To sort your torrents by time to finish downloading :menuselection:`View --> Sort by time left`. To reverse the sort order :menuselection:`View --> Reverse sort order`.
+To sort your torrents by activity :menuselection:`View --> Sort by Activity`. To sort your torrents by age :menuselection:`View --> Sort by Age`. To sort your torrents by name :menuselection:`View --> Sort by Name`. To sort your torrents by Progress :menuselection:`View --> Sort by Progress`.  To sort your torrents by Queue :menuselection:`View --> Sort by Queue`. To sort your torrents by ratio uploaded to downloaded :menuselection:`View --> Sort by ratio`. To sort your torrents by size :menuselection:`View --> Sort by Size`. To sort your torrents by State :menuselection:`View --> Sort by State`. To sort your torrents by time to finish downloading :menuselection:`View --> Sort by time left`. To reverse the sort order :menuselection:`View --> Reverse Sort Order`.
 
 To move a torrent down on where it appears on the screen and the queue :menuselection:`Torrent --> Queue --> Move Down` or :kbd:`Control+down`. To move a torrent up in the queue :menuselection:`Torrent --> Queue --> Move Up` or press :kbd:`Control+ up arrow`. To Move a torrent file to the top :menuselection:`Torrent --> Queue --> Move to Top`. To move a torrent file to the bottom :menuselection:`Torrent --> Queue --> Move to Bottom`.
 
@@ -33,10 +32,12 @@ If you do not want to prioritize the speed of your torrents press the button on 
 
 To open the file manager in the folder of your torrent press :kbd:`Control+E` or :menuselection:`Torrent --> Open Folder`.
 
+To view statistics on how much Transmission has downloaded :menuselection:`Help --> Statistics`.
+
 Torrent Properties
 ------------------
 
-To bring a up a properties dialog window press :kbd:`Alt +Enter` or :menuselection:`Torrent --> Properties`. To show how much of the file you have on that torrent is under the :guilabel:`Have` row which shows the size downloaded and the percentage of the file. The :guilabel:`Uploaded` row shows how much of the torrent you have uploaded to other peers. The :guilabel:`Downloaded` row shows how much you have downloaded on your computer. The :guilabel:`State` row shows what the torrent is currently doing. The :guilabel:`Remaining time` row shows how long it will take for the torrent to finish downloaded. The :guilabel:`Size` row shows how much space the torrent takes when downloaded. The :guilabel:`Location` row shows you where the file is saved on your system.  The :guilabel:`Origin` row shows when you first downloaded this torrent. 
+To bring a up a properties dialog window press :kbd:`Alt +Enter` or :menuselection:`Torrent --> Properties`. To show how much of the file you have on that torrent is under the :guilabel:`Have` row which shows how much of the file is on your disk and the percentage of the file. The :guilabel:`Uploaded` row shows how much of the torrent you have uploaded to other peers. The :guilabel:`Downloaded` row shows how much you have downloaded on your computer. The :guilabel:`State` row shows what the torrent is currently doing. The :guilabel:`Remaining time` row shows how long it will take for the torrent to finish downloading. The :guilabel:`Size` row shows how much space the torrent takes when downloaded. The :guilabel:`Location` row shows you where the file is saved on your system.  The :guilabel:`Origin` row shows when you first downloaded this torrent. 
 
 .. image:: transmission-prop.png
 
@@ -45,6 +46,8 @@ The :guilabel:`Peers` tab shows you what other peers that also have the torrent 
 The :guilabel:`Files` tab shows what files this torrent has downloaded. To see the name of the file is in the :guilabel:`File` column. To see the size of the file look in the :guilabel:`Size` column. To see how much of your file is downloaded as a percentage in the :guilabel:`Progress` column. To see the priority of the torrent see the :guilabel:`Priority` column.
 
 .. image:: transmission-prop-file.png
+
+To change options for a torrent file use the :guilabel:`Options` tab. To have the torrent not effected by global torrent speed uncheck the :guilabel:`Honor global limits` checkbox. To limit how much of your internet a torrent will use of your download on the internet check the :guilabel:`Limit Download speed` checkbox and set the cop for how much it downloads. To limit how much upload your torrent uses check the :guilabel:`Limit upload speed` and set the limit. To change how much of a priority the torrent is change the :guilabel:`Torrent priority` menu. To set limits on how much the torrent seeds use :guilabel:`Ratio` and :guilabel:`Idle` menus. To change the maximum number of other people this torrent will peer with change the :guilabel:`Maximum peers` field.
 
 Version
 -------
@@ -68,10 +71,9 @@ To open your preferences for Transmission :menuselection:`Edit --> Preferences`.
 
 .. image::  qtransmission-speed-pref.png
 
-The :guilabel:`Downloading` tab of your preferences has settings for downloading torrents. To choose where to save torrents is in the :guilabel:`Save to Location:` button to bring up a dialog to show where to save the torrent. To set a maximum number of torrents downloading at the same time change the :guilabel:`Maximum active downloads:` field. To stop trying to download a file after no more file to download change the :guilabel:`Download is inactive if data sharing stopped` and choose how many minutes to choose if it is inactive. To add .part to the end of incomplete downloaded files check the :guilabel:`Append ".part" to incomplete files' names` checkbox. To choose if you want a different file to choose the incomplete files check the :guilabel:`Keep incomplete files in:` checkbox and bring a dialog to choose it where to be on the button to the right. To automatically add torrent files to Transmission check the :guilabel:`Automatically add .torrent files from:` and then press the button to the right to choose where to add .torrent files from. To start the added torrents automatically check the :guilabel:`Start added torrents` checkbox.
+The :guilabel:`Downloading` tab of your preferences has settings for downloading torrents. To automatically have transmission open the torrent files in a directory check the :guilabel:`Automatically add .torrent files from` checkbox and chose a path to have automatically added.  To start the added torrents automatically check the :guilabel:`Start added torrents` checkbox. To choose where to save torrents is in the :guilabel:`Save to Location:` button to bring up a dialog to show where to save the torrent. To set a maximum number of torrents downloading at the same time change the :guilabel:`Maximum active downloads:` field. To stop trying to download a file after no more file to download change the :guilabel:`Download is inactive if data sharing stopped` and choose how many minutes to choose if it is inactive. To add .part to the end of incomplete downloaded files check the :guilabel:`Append ".part" to incomplete files' names` checkbox. To choose if you want a different file to choose the incomplete files check the :guilabel:`Keep incomplete files in:` checkbox and bring a dialog to choose it where to be on the button to the right.
 
 .. image:: transmissionprefrences.png
-
 
 To have the settings for uploading torrents or seeding them use the :guilabel:`Seeding` tab. To stop seeding after you have uploaded a certain size of the file check the :guilabel:`Stop seeding at ratio:` checkbox and then select the ratio to stop seeding. To stop seeding if the torrent has not been seeded recently check the :guilabel:`Stop seeding if idle for:` checkbox and then choose how long to select if the torrent is idle.
 
@@ -81,7 +83,7 @@ To change your settings on how Transmission interacts with the network use the :
 
 .. image::  qtransmission-network-pref.png
 
-To change things about your desktop interface use the :guilabel:`Desktop` tab of Transmission. To show an icon for Transmission in the system tray check the :guilabel:`Show Transmission icon in the notification area` checkbox. To start Transmission started in the notification area :guilabel:`Start minimized in notification area` checkbox. To toggle showing a notification when new torrents are added check/uncheck the :guilabel:`Show a notification when torrents are added` checkbox. To show a notification when torrents finish check/uncheck the :guilabel:`Show a notification when torrents finish` checkbox. To toggle playing a sound when the torrents finish check/uncheck the :guilabel:`Play a sound when torrents finish` checkbox.
+To change things about your desktop interface use the :guilabel:`Desktop` tab of Transmission. To show an icon for Transmission in the system tray check the :guilabel:`Show Transmission icon in the notification area` checkbox. To start Transmission started in the notification area :guilabel:`Start minimized in notification area` checkbox. To toggle showing a notification when new torrents are added check/uncheck the :guilabel:`Show a notification when torrents are added` checkbox. To toggle showing a notification when torrents finish check/uncheck the :guilabel:`Show a notification when torrents finish` checkbox. To toggle playing a sound when the torrents finish check/uncheck the :guilabel:`Play a sound when torrents finish` checkbox.
 
 .. image::  qtransmission-desktop-pref.png
 

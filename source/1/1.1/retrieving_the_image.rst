@@ -6,7 +6,7 @@ Before you install Lubuntu, you need to retrieve the correct image. Lubuntu supp
 LTS vs. Regular Releases
 ------------------------
 
-Lubuntu offers two types of releases. The **Long Term Support** release, or the **LTS**, is the release recommended for most users. It is supported for three years after the release date and does not contain new features. Throughout the course of the cycle, the Ubuntu Kernel Team will deliver **Hardware Enablement** updates, or **HWE** updates, to Lubuntu via Linux kernel updates. Previously, Lubuntu used **LXDE** but since 18.10 it has used the **LXQt**. Lubuntu 20.04 is the First **Long Term Support** release which uses the more modern **LXQt** desktop environment. 
+Lubuntu offers two types of releases. The **Long Term Support** release, or the **LTS**, is the release recommended for most users. It is supported for three years after the release date and does not contain new features. Throughout the course of the cycle, the Ubuntu Kernel Team will deliver **Hardware Enablement** updates, or **HWE** updates, to Lubuntu via Linux kernel updates. Previously, Lubuntu used **LXDE** but since 18.10 it has used **LXQt**. Lubuntu 20.04 is the First **Long Term Support** release which uses the more modern **LXQt** desktop environment. 
 
 For users looking to try new features every six months at the expense of the support cycle length, Lubuntu offers **interim releases**, or **regular releases**. These releases, while they are considered stable, are testing grounds for major, new features which will be rolled into the LTS release. Users of the regular releases are typically enthusiasts and somewhat more experienced users looking for a fresher experience.
 
@@ -39,10 +39,10 @@ To verify the image, run this from the command line:
 
 .. code:: 
 
- sha256sum lubuntu-21.04-desktop-amd64.iso
+ sha256sum lubuntu-21.10-desktop-amd64.iso
 
 and then carefully check that the output matches 
-7089fa1045b776256a76adb30d6e588e09df2ad5cd0ffe63a8d6e802b6b3cc19 \*lubuntu-21.04-desktop-amd64.iso
+b9027a4633f1ff3dd60f857f5ca0d614ac588d2c7e56eaccbc251d0e08478106 \*lubuntu-21.10-desktop-amd64.iso
 
 Downloading the image via BitTorrent
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

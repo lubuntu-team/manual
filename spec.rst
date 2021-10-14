@@ -87,7 +87,7 @@ Chapter 2.3 Graphics Applications
 Chapter 2.4 Acessories
 ----------------------
 
-2.4.1 ARK
+2.4.1 LXQt File Archiver
 
 2.4.2 Featherpad
 

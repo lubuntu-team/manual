@@ -11,7 +11,7 @@ To select a different notebook to keep your notes organized click on it on the l
 
 To delete a note click on the note and press the button with a page X on it, press :kbd:`Control + Shift + D` or edit :menuselection:`Edit --> Delete note`.
 
-To get back a note you deleted press :kbd:`Control+T` or :menuselection:`File --> Trash`. You can then see your deleted notes and select from deleted notes on the left hand column and then the content of the note on the right hand column. To restore a note press the :guilabel:`Restore` button. To permantely delete a note press the :guilabel:`Delete` button and then press :guilabel:`Yes` at the confirmation dialog.
+To get back a note you deleted press :kbd:`Control+T` or :menuselection:`File --> Trash`. You can then see your deleted notes and select from deleted notes on the left hand column and then the content of the note on the right hand column. To restore a note press the :guilabel:`Restore` button. To permanently delete a note press the :guilabel:`Delete` button and then press :guilabel:`Yes` at the confirmation dialog.
 
 To import notes from a file :menuselection:`File --> Import`.
 
@@ -21,14 +21,14 @@ If you make a mistake typing and want to undo your changes press :kbd:`Control +
 
 To toggle showing the toolbar press :kbd:`Control +Shift +T` or :menuselection:`View --> Show toolbar`. 
 
-To bring back up your note nobleNote will leave a notebook icon in the system tray on the lower right hand corner of the panel. To bring the notes backup after closing them left click on the tray icon. To fully close nobleNote right click on the tray icon :menuselection:`Quit` or press :kbd:`Control+Q`.
+To bring back up your note nobleNote will leave a notebook icon in the system tray on the lower right hand corner of the panel. To bring the notes backup after closing them left click on the tray icon. To hide the main window right click on the tray icon and select :menuselection:`Minimize`. To bring back the main menu right click and select :menuselection:`Restore`. To fully close nobleNote right click on the tray icon :menuselection:`Quit` or press :kbd:`Control+Q`.
 
-To search a note for something type into the bar to find something in your note. To go to your next result press the :guilabel:`Find next` button. To find the previous result press the :guilabel:`Find previous` button. To change your font first press the :guilabel:`>` button and then select your font from the drop down on the left. To change your font size of your notes first press the :guilabel:`>>` button and then select your font size from the drop down to the right. To hide searching for something press the :guilabel:`X` button to the far left. To make a case sensitive search press the :guilabel:`>` and check the :guilabel:`Case sensitve` checkbox.
+To search a note for something type into the bar to find something in your note. To go to your next result press the :guilabel:`Find next` button. To find the previous result press the :guilabel:`Find previous` button. To change your font first press the :guilabel:`>` button and then select your font from the drop down on the left. To change your font size of your notes first press the :guilabel:`>>` button and then select your font size from the drop down to the right. To hide searching for something press the :guilabel:`X` button to the far left. To make a case sensitive search press the :guilabel:`>` and check the :guilabel:`Case sensitive` checkbox.
 
-To make the text on your note bold press :kbd:`Control+B` or the **a** button. To make your text on your note italic press :kbd:`Control+I` or the *a* button. To underline your text press my underlined a button. To clear all formatting press the :guilabel:`Aa` button. To insert a hyperlink press :kbd:`Control+K` or press the button looking like a globe. Then type or paste your link in the :guilabel:`Address` field and press the :guilabel:`OK` button. To change your font color for your notes press left click the color square to the left. To highlight your text first select the text andd then press the square to the right and choose the color you want. To strike things out press the button with the line through it. To make bullet points in a list press the button with bullet points and a horizontal line. 
+To make the text on your note bold press :kbd:`Control+B` or the **a** button. To make your text on your note italic press :kbd:`Control+I` or the *a* button. To underline your text press my underlined a button. To clear all formatting press the :guilabel:`Aa` button. To insert a hyperlink press :kbd:`Control+K` or press the button looking like a globe. Then type or paste your link in the :guilabel:`Address` field and press the :guilabel:`OK` button. To change your font color for your notes press left click the color square to the left. To highlight your text first select the text and then press the square to the right and choose the color you want. To strike things out press the button with the line through it. To make bullet points in a list press the button with bullet points and a horizontal line. 
 
-Screenshot
-----------
+Screenshots
+-----------
 .. image:: noblenote.png
 
 .. image:: noblenote-note.png
@@ -49,7 +49,7 @@ on the commandline. The icon for nobleNote looks like a yellow pad of paper with
 
 Customizing
 ------------
-To change preferences of nobleNote press :kbd:`Control +P` or :menuselection:`Settings --> Configure`. To keep nobleNote in your system tray after you close nobleNote check/uncheck the :guilabel:`Close to tray` checkbox. If you want to toggle showing notes in HTML format check/uncheck the :guilabel:`Convert notes to the HTML format`. If you want to toggle the menu entry to show source check/uncheck the :guilabel:`Show "Show source" menu entry`. To reverse the direction of scrolling in nobleNote check the :guilabel:`touch screen scrolling` checkbox.  
+To change preferences of nobleNote press :kbd:`Control +P` or :menuselection:`Settings --> Configure`. To keep nobleNote in your system tray after you close the nobleNote window check/uncheck the :guilabel:`Close to tray` checkbox. If you want to toggle showing notes in HTML format check/uncheck the :guilabel:`Convert notes to the HTML format`. To hide the main window when you open nobleNote check the :guilabel:`Hide main window at startup`. If you want to toggle the menu entry to show source check/uncheck the :guilabel:`Show "Show source" menu entry`. To reverse the direction of scrolling in nobleNote check the :guilabel:`touch screen scrolling` checkbox.  
 
 To change how wide to make the default for the new note editor :guilabel:`Width` field to how big to make the editor for the note. To change how high to make the editor size change the :guilabel:`Height` field. To change what the default font would be for editing is the large bar to the left under :guilabel:`Note editor default font`. To change the default font size change in the small to the right with a number.
 

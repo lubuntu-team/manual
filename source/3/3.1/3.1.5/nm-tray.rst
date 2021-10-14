@@ -13,11 +13,11 @@ To toggle notifications on connecting and disconnecting to networks right click 
 
 .. image:: nm-tray-context.png
 
-To view your own networking information right click the applet :menuselection:`Connection Information` which will pop up a window with information such as your ip address. On this window each interface will show the names of each network interface in a tab bar along the top. The field :guilabel:`Interface` Shows you the name of your network adapter to the system what type of connection it is. The :guilabel:`Hardware Address` shows your MAC address. The label for :guilabel:`Driver` shows you what driver is in use for this network interface. The field :guilabel:`Speed` shows the speed supported by the connection. 
+To view your own networking information right click the applet :menuselection:`Connection Information` which will pop up a window with information such as your IP address. On this window each interface will show the names of each network interface in a tab bar along the top. The field :guilabel:`Interface` Shows you the name of your network adapter to the system what type of connection it is. The :guilabel:`Hardware Address` shows your MAC address. The label for :guilabel:`Driver` shows you what driver is in use for this network interface. The field :guilabel:`Speed` shows the speed supported by the connection. 
 
 .. image::  nm-tray-conninfo.png
 
-The section :guilabel:`IPV4` shows you information on your settings for networking using IPV4. The section :guilabel:`IP Address` shows you  your current ip address. The :guilabel:`DNS` fields show where your dns looks up the domain names of websites and finds them. 
+The section :guilabel:`IPV4` shows you information on your settings for networking using IPV4. The section :guilabel:`IP Address` shows you  your current IP address. The :guilabel:`DNS` fields show where your DNS looks up the domain names of websites and finds them. 
 
 The section :guilabel:`IPV6` shows information on your settings for networking using IPV6. The section :guilabel:`IP Address` shows you current IPV6 address. To see the the root to your DNS servers for IPV6 see the :guilabel:`DNS(1)` field. To see your backup IPV6 DNS server see the :guilabel:`DNS(2)` field.
 

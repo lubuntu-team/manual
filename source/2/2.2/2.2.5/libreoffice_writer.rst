@@ -34,7 +34,6 @@ To change what how the text deals with page breaks and paragraphs use the :guila
 
 To undo your changes on the paragraph window press the :guilabel:`Reset` button.
 
-
 To change font color press the button that has a T with a drop on it and a red underline this will bring down several different colors you can change your text to a color you want. You can also change your font color through the :menuselection:`Format --> Character` window.
 
 To make text superscript press the button with A :sup:`B`. To make text subscript press the button that is an A :sub:`B`. 
@@ -93,6 +92,12 @@ To add multiple columns to your document :menuselection:`Format --> Columns`. To
 
 To add a column break to the next column press :kbd:`Control+Shift+Enter` or :menuselection:`Insert --> More Breaks --> More Column Breaks`.
 
+Comments
+--------
+To add a comment to a file with LibreOffice Writer press :kbd:`Control +Alt +C`, right click :menuselection:`Insert Comment`, or :menuselection:`Insert --> Comment`. To add text on the comment click in the yellow area and type in your comment. To delete a comment press the downward pointed arrow in the yellow comment and select :menuselection:`Delete Comment`. To get back in the body of the document click in the white part towards the left of the document. To read when a comment was made look at the bottom of the comment in yellow.
+
+.. image:: comments.png
+
 Lists
 -----
 To add a list of bullet points press :kbd:`Shift +F12` or :menuselection:`Format --> Lists --> Bulleted Lists`. To start a numbered lists press :kbd:`F12` or :menuselection:`Format --> Lists --> Numbered List`. To move an item up in your list :menuselection:`Format --> Lists --> Move Up`. To move an item down in your list :menuselection:`Format --> Lists --> Move Down`. To demote a point to a subpoint :menuselection:`Format --> Lists --> Demote One Level`. To promote this point back up to its previous level :menuselection:`Format --> Lists --> Promote One Level`.
@@ -108,7 +113,6 @@ To find and replace text press :kbd:`Control+ H` or :menuselection:`Edit --> Fin
 Styles
 ------
 To quickly set a title for your your document :menuselection:`Styles --> Title`. To choose a quick subtitle for your document :menuselection:`Styles --> Subtitle`. To choose to style something as a heading press :kbd:`Control+1` or :menuselection:`Styles --> Heading 1`. To choose a style of a subheading press :kbd:`Control+2` or :menuselection:`Styles --> Heading 2`. To choose an even lower level heading press :kbd:`Control+F3` or :menuselection:`Styles --> Heading 3`. To quickly switch to a bulleted list :menuselection:`Styles --> Bulleted List`. To switch to a numbered list :menuselection:`Styles --> Numbered List`. To have a list styled with uppercase letters :menuselection:`Styles --> Alphabet Uppercase List`. To switch to a list with lowercase letters choose :menuselection:`Styles --> Alphabet Lowercase List`. To get a list with uppercase roman numerals select :menuselection:`Styles --> Roman Uppercase List`. To make a list with lowercase roman numerals select :menuselection:`Styles --> Roman Lowercase List`. To get back to your original normal style press :kbd:`Control+0` or :menuselection:`Styles --> Text Body`. 
-
 
 Images
 ------
@@ -138,7 +142,7 @@ To see statistics on your document use the :guilabel:`Statistics` tab. To see ho
 
 Version
 -------
-Lubuntu ships with LibreOffice Writer version 7.1.2.0
+Lubuntu ships with LibreOffice Writer version 7.2.1.2
 
 How to Launch
 -------------

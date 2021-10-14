@@ -23,7 +23,7 @@ To save your monitor settings press the :guilabel:`Save` button and a pop up wil
 
 Multimonitor
 ------------
-With multiple monitors you can in the :guilabel:`Set position` tab you can drag the different screen around drag the two monitors around. The checkbox for :guilabel:`Keep monitor attached` pulls the monitors pixels adjacent to each other. To see which screen is which you will be labeled by their name which commonly is which port it is connected to your computer with.
+With multiple monitors you can in the :guilabel:`Set position` tab you can drag the different screen around drag the two monitors around. The checkbox for :guilabel:`Keep monitor attached` pulls the monitors pixels adjacent to each other. To see which screen is which you will be labeled by their name which commonly is which port it is connected to your computer with. If you want to have no annoying overlap between two monitors you can move a monitor beyond the edge of the current monitor and then it will snap back into perfect alignment.
 
 .. image:: multimonitor_settings.png
 
@@ -37,7 +37,7 @@ The tabs towards the bottom are settings for each monitor.  This also has the sa
 
 Version
 -------
-Lubuntu ships with version 0.16.1 of Monitor Settings.
+Lubuntu ships with version 0.17.1 of Monitor Settings.
 
 How to Launch
 -------------

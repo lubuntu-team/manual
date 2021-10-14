@@ -1,16 +1,16 @@
 Chapter 5.2 Desktop Icons
 =========================
 
-
 The icons on your desktop can be moved by left clicking, holding and dragging the desktop icon to the position you want it. Shortcuts or desktop entry files can be opened by double click on the icon. If you want to view or edit a desktop file say for launching an application is to right click on the icon open with and select say a text editor like FeatherPad to open file.  To move a desktop icon hold left click and drag the icon to the desired position. If you move a desktop icon and then want to move it back right click and uncheck :menuselection:`Stick to current Position`. If you have an new executable file on your desktop and always want to run it right click and select :menuselection:`Trust this executable`. If an executable is not trusted it will have an :guilabel:`!` on the icon. 
 
-If you want to not see all your icons to show off your awesome desktop right click on the desktop background and select :menuselection:`Hide Desktop Items`. If you have hidden files in your desktop and want to toggle showing them right click on your desktop, check/uncheck, and select :menuselection:`Show Hidden`. To get your desktop icons to show again right click and uncheck the :guilabel:`Hide Desktop Icons` checkbox. To create a new folder on your desktop right click and select :menuselection:`Create New --> Folder`. To create a new blank file on your desktop right click on it and select :menuselection:`Create New --> Blank File`.
+If you want to not see all your icons to show off your awesome desktop right click on the desktop background and select :menuselection:`Hide Desktop Items`. If you have hidden files in your desktop and want to toggle showing them right click on your desktop, check/uncheck, and select the :menuselection:`Show Hidden` checkbox. To create a new folder on your desktop right click and select :menuselection:`Create New --> Folder`. To create a new blank file on your desktop right click on it and select :menuselection:`Create New --> Blank File`. To paste a file right click and select :menuselection:`Paste` and this shares things you have copied in PCManFM-Qt.
 
 To rearrange your files by when they were last modified right click on the desktop :menuselection:`Sorting --> By Modification Time`. To sort by how large each file is right click on the desktop :menuselection:`Sorting --> By File Size`. To return to sorting by name right click on the desktop and select :menuselection:`Sorting --> By File Name`. To reverse the order of sorting right click on the desktop and select :menuselection:`Sorting --> Descending`. To sort back to the way you had before right click and select :menuselection:`Sorting --> Ascending`. To make your sorting of desktop icons case sensitive right click on the desktop and select :menuselection:`Sorting --> Case Sensitive`. To make folders appear first right click on your checkbox and select :menuselection:`Sorting --> Folder First`.
 
 To select all items on your desktop right click on the desktop background and select :menuselection:`Select All`. To select the opposite to what you currently have select right click on the desktop and select :menuselection:`Invert Selection`.
 
- 
+Having a folder on your desktop gives you a few more options. To open a folder in your terminal from the desktop right click and select :menuselection:`Open in Terminal`.
+
 Some icons also have special actions associated with them. You can right click on the trash and select :menuselection:`Empty Trash` to get rid of all files in your trash can.
 
 Adding and removing items from the desktop

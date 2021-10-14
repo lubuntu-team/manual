@@ -9,7 +9,11 @@ At the start of the boot process a grub splash screen will be shown. To install 
 
 .. image::  grubsplash.png
 
+<<<<<<< HEAD
 Once you have booted into the live session, feel free to explore Lubuntu and make sure all your hardware works. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop :guilabel:`Install Lubuntu 21.04`.
+=======
+Once you have booted into the live session, feel free to explore Lubuntu and make sure all your hardware works. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop :guilabel:`Install Lubuntu 21.10`.
+>>>>>>> master
 
 .. image:: live_session.png
 
@@ -22,7 +26,7 @@ You will be taken to the Lubuntu installer Welcome screen. You can change the in
 Selecting Your location
 -----------------------
 
-The next screen will show you a map of the world where you can choose your location. Your location will be used to set your time zone and download server. To see what region you have chosen use the :guilabel:`Region` drop down menu. The :guilabel:`Zone` field should have a major city with the same time as you. On the bottom of the window there is a place to change your system language and to change this language press the :guilabel:`Change` button.  To move to the next step once again press the :guilabel:`Next` button. To move back to selecting your language to change your language press the :guilabel:`Back` button.
+The next screen will show you a map of the world where you can choose your location. Your location will be used to set your time zone and download server. To see what region you have chosen use the :guilabel:`Region` drop down menu. The :guilabel:`Zone` field should have a major city with the same time as you.  Towards the bottom you can to change your system language by pressing the upper :guilabel:`Change` button. To change the how numbers and dates appear on your system press the lower :guilabel:`Change` button. To move to the next step once again press the :guilabel:`Next` button. To move back to selecting your language to change your language press the :guilabel:`Back` button.
 
 .. image:: location.png
 
@@ -61,6 +65,8 @@ The user setup section creates a user profile, consisting of typing your name in
 .. image::  user_setup.png
 
 After pressing the :guilabel:`Install` button a dialog will pop up to confirm installation. To actually install press the :guilabel:`Install now` button. To not start installing and go back press the :guilabel:`Go back` button.
+
+.. image:: installsummary.png
 
 The Install
 -----------

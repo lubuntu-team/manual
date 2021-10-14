@@ -1,11 +1,13 @@
-Chapter 3.2.19 Printers
+Chapter 3.2.18 Printers
 =======================
 
-Printers allows you to configure your printer(s) and show your print queue.
+Printers allows you to configure your printer(s) and shows your print queue.
 
 Usage
 ------
-To view your print queue right click on the printer and right click :menuselection:`View Print Queue`, with the printer selected press :kbd:`Control+F`, or :menuselection:`Printer --> View Print Queue` and if a job is held you can restart it. 
+To view your print queue right click on the printer and right click :menuselection:`View Print Queue`, with the printer selected press :kbd:`Control+F`, or :menuselection:`Printer --> View Print Queue` and if a job is held you can restart it. To see what status in your printer view the :guilabel:`Status` column to see if the job is pending, held or printed. To view what you have already printed press the :guilabel:`Checkmark` button. To reprint a job press the u shaped arrow button or right click and select :menuselection:`Reprint`. To cancel a job press the button with an octagon with a circle in it or right click on the job and select :menuselection:`Cancel`. To hold a printer job press the :guilabel:`||` button or right click and select :menuselection:`Hold`.
+
+.. image:: print-queue.png
 
 .. image:: printers.png
 
@@ -15,7 +17,7 @@ To add a new printer press the :guilabel:`Add` button or :menuselection:`Server 
 
 If you want to delete a printer :menuselection:`Printer --> Delete` after left clicking on the printer will delete the printer after you left click on it and you will be asked to confirm so you do not accidentally delete your printer. If you have multiple printers and want to set one as default right click on the printer and select :menuselection:`Set As Default`. To change the name of your printer right click on the printer and select :menuselection:`Rename` or :menuselection:`Printer --> Rename`.
 
-To view or change the properties of printer or make changes with :menuselection:`Printer --> Properties`. To see settings on the printer has use the :guilabel:`Settings` tab. To change how to describe and name your :guilabel:`Description` field. To change where the location of this printer is change the :guilabel:`Location` field. To choose a different driver to use for your printer press the :guilabel:`Change` button to the right of :guilabel:`Make and Model`. To print a test page press the :guilabel:`Print Test Page` button.
+To view or change the properties of printer or make changes with :menuselection:`Printer --> Properties`. To see settings on the printer has use the :guilabel:`Settings` tab. To change how to describe and name your :guilabel:`Description` field. To change where the location of this printer is change the :guilabel:`Location` field. To choose a different driver to use for your printer press the :guilabel:`Change` button to the right of :guilabel:`Make and Model`. To see the current state of the printer view the :guilabel:`Printer State` field. To see what  To print a test page press the :guilabel:`Print Test Page` button.
 
 .. image::  prop-settings.png
 
@@ -31,14 +33,14 @@ To choose settings specific to your printer use the :guilabel:`Printer Options` 
 
 .. image:: prop-printer-option.png
 
-To see what options each jobs has for each printer use the :guilabel:`Job Options` tab. To change how many copies to have by default :guilabel:`Copies` field. 
+To see what options each jobs has for each printer use the :guilabel:`Job Options` tab. To change how many copies to have by default :guilabel:`Copies` field. To change which direction to print with this printer by default change the :guilabel:`Orientation` field. To have the printer resize anything you print to fit to a page check the :guilabel:`Scale to fit` checkbox.
 
 To close Printers press :kbd:`Control+Q`.
 
 
 Version
 -------
-Lubuntu ships with version 1.5.11 of Printers.
+Lubuntu ships with version 1.5.15 of Printers.
 
 How to Launch
 -------------

@@ -18,7 +18,7 @@ To see all the nicknames of someone in a channel are located in a sidebar labele
 
 .. image:: quasselwizard.png
 
-To add the Lubuntu IRC chat network click :menuselection:`File --> Networks --> Configure_Networks`. To add a new network click the :guilabel:`+Add` button. To connect to a common public network :guilabel:`Use preset` dropdown, select :guilabel:`Lubuntu IRC` or any other server you want to join and then press :guilabel:`OK`. To change a name of an irc network press the :guilabel:`Rename` button type the new name in and press :guilabel:`OK`.
+To add the Lubuntu IRC chat network click :menuselection:`File --> Networks --> Configure_Networks`. To add a new network click the :guilabel:`+Add` button. To connect to a common public network :guilabel:`Use preset` dropdown, select :guilabel:`Lubuntu IRC` or any other server you want to join and then press :guilabel:`OK`. To change a name of an IRC network press the :guilabel:`Rename` button type the new name in and press :guilabel:`OK`.
 
 To join a channel simple type :kbd:`/join 1` (where 1 is the channel name), right click the network and select :menuselection:`Join Channel` or use the :guilabel:`Join` button. To leave a channel right click on the channel name on the right hand side and select :menuselection:`Part` from the context menu or type :kbd:`/part channelname`. If you want to join the channel again after leaving it right click on the channel and select :menuselection:`Join`. To have your chat be hidden until you rejoin it again right click on the channel and select :menuselection:`Hide Chats(s) Temporarily`. To hide the chat forever right click on the channel and select :menuselection:`Hide Chats(s) Permanently`.
 
@@ -30,7 +30,7 @@ If you want to disconnect from a particular server if you have connected to it r
 
 To toggle showing checkboxes in front of each chat right click on a server or channel and check the checkbox for :menuselection:`Show/Hide Chats` to bring a giant list of checkboxes. To hide a chat this way uncheck the checkbox in front of that channel or query. To go back and actually hide some chats right click on the channel or server and unchceck :menuselection:`Show/Hide Chats`.
 
-To state you are taking an action in IRC you can type :kbd:`/me` at the start of you typing to have say \*nick does something. To change your nickname on irc type :kbd:`/nick newname` to change you name to newname.
+To state you are taking an action in IRC you can type :kbd:`/me` at the start of you typing to have say \*nick does something. To change your nickname on IRC type :kbd:`/nick newname` to change you name to newname.
 
 To leave all servers and disconnect press the :guilabel:`Disconnect` button in the top toolbar. If you have multiple servers configured to disconnect from one press the downward pointed arrow and select the server you want to disconnect from. To connect to the servers again press the :guilabel:`Connect` button. To connect to a specific server press the downward pointing arrow and select the server you want to connect to. 
 
@@ -55,7 +55,6 @@ To type a message to an entire channel type into the bar at the bottom and press
 To close the list of nicknames or channels press the X button or :menuselection:`View --> Nicks`. To reopen the view of nicks :menuselection:`View --> Nicks`. To close the list of all chats press the X button to close a list of all channel and private messages you are in. To reopen it press the :menuselection:`View --> Chat lists --> All chats`. 
 
 To make your chat full screen :menuselection:`View --> Full Screen Mode` or :kbd:`Control + Shift +F`. Press the keyboard shortcut or use the menu again to get out of fullscreen. If you want to quit Quassel press :kbd:`Control+Q` or right click on the system tray and select :menuselection:`Quit`.
- 
 
 Customizing
 -----------

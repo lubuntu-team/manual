@@ -7,7 +7,7 @@ Using the mouse
 ---------------
 In the top-right corner of a window three buttons allow you basic controls of the window. Starting from left to right
 
--   Iconify :guilabel:`-` hides/minimizes the window making it only appear on the task bar of the Panel. It can be recalled by clicking on the application on the task bar, or cycling through open windows with :kbd:`ALT + Tab`. Another way to Iconify is to middle click on the tittlebar. 
+-   Iconify :guilabel:`-` hides/minimizes the window making it only appear on the task bar of the Panel. It can be recalled by clicking on the application on the task bar, or cycling through open windows with :kbd:`ALT + Tab`. Another way to Iconify is to middle click on the titlebar. 
 -   Maximize resizes the window to fill the entire screen.
 -   Close circled :guilabel:`x` attempts to close the window unless a dialog asks for to save or the program is not responding.
 

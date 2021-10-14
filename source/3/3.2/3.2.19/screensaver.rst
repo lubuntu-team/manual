@@ -1,4 +1,4 @@
-Chapter 3.2.20 Screensaver
+Chapter 3.2.19 Screensaver
 ==========================
 
 Screensaver is an application to control what screensavers are used on the system and how long it takes to activate the screensaver. 
@@ -20,7 +20,6 @@ If you try to open the screensaver settings without having the screensaver daemo
 To change to get even more settings on your screensaver use the :guilabel:`Advanced` tab. To have your screen fade to black when blanking check the :guilabel:`Fade to Black when Blanking` checkbox. To have your screen fade back in from screen blanking check the :guilabel:`Fade from Black When Unblanking`. To change how fast your screen fades change the :guilabel:`Fade Duration` field. 
 
 .. image:: screensaver-advanced.png
-
 
 Version
 -------

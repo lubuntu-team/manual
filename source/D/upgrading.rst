@@ -16,7 +16,7 @@ The first step will be to ensure your system is up to date. This can be done by 
 
 .. code::
 
-    sudo apt update && sudo apt full-upgrade -y
+    sudo apt update && sudo apt full-upgrade 
 
 .. image:: terminal_upgrade.png
 

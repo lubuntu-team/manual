@@ -27,3 +27,19 @@ Sections
 - Have - put under them for a section about a program.
 
 - Keep screenshots near the text that describes them 
+
+Releasing
+---------
+Release day get final sha256 hash to add to chapter 1.1 downloading the image with final hash. The beta/daily isos will have a different hash so this needs to be done release day.
+
+Check that there are no wanring with make clean && make html
+
+Merge master into stable.
+
+fix any merge conflicts
+
+if LTS merge master onto lts
+
+fix merge conflicts
+
+done

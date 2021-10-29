@@ -15,7 +15,7 @@ To select the next package left click on the list of packages press the :kbd:`Do
 
 When you find your package you want to install on the bottom half of the screen there is a bar of tabs. The :guilabel:`Details` tab has a description of the package you are currently selected. The :guilabel:`Technical Details` will show you where the package comes from what category it is and what the installed size would be and what size it takes to download the package. The :guilabel:`Dependencies` tab shows you what other packages are needed by the package you wish to install. To view the changes of a package the :guilabel:`Changes List` and scroll down to view them. If you have installed a package you can see all files installed by that package in the :guilabel:`Installed Files` tab.
 
-.. image::  lower-muon-screen.png
+.. image:: lower-muon-screen.png
 
 If you want to see your history of package updates and installed from the :menuselection:`View --> History` or press :kbd:`control + h`. To search through your history enter what you want to search for in the :guilabel:`Search` bar. To the right to the search is a drop down menu to choose whether to view :guilabel:`All changes`, :guilabel:`Installations`, :guilabel:`Updates`, or :guilabel:`Removals`. Under the :guilabel:`Date` field shows collapseable search results of the kind of packages you are looking for. To collapse or uncollapse a the operation on a particular date press the :guilabel:`+` button to uncollapse an operation on a date. To collapse operations on a particular date is to press the :guilabel:`-` button.
 
@@ -68,7 +68,7 @@ Customizing
 
 To get to your preferences for Muon package manager :menuselection:`Settings --> Configure Muon Package Manager`. The checkbox :guilabel:`Ask To confirm changes that affect other packages` brings up confirmation dialog when you will affect multiple packages. The checkbox :guilabel:`Treat recommended packages as dependencies` will always install all recommended packages as dependencies and will automatically install one when you install a recommended package. To always install suggested packages as dependencies check the :guilabel:`Treat Suggested packages as dependencies`. To change the maximum number of package operations you can undo change the :guilabel:`Number of undo operations` field. To save space by deleting old cached packages check the :guilabel:`Delete obsolete cached packages every` checkbox and change the field to the right to change how often to delete the cache. To have your settings back to default press the :guilabel:`Restore Defaults` button.
 
-.. image::  muon-pref.png
+.. image:: muon-pref.png
 
 To change settings on your toolbar :menuselection:`Settings --> Configure Toolbars`. To remove an item from the current items on the toolbar press the button that is the leftward pointing arrow. To add an item to the toolbar press the button that is the rightward pointing arrow. To move an item up or down on the toolbar press the upward pointing arrow button. If you want to change the icon for things you have in your toolbar press the :guilabel:`Change Icon` button. To change what the toolbar says press the :guilabel:`Change Text` button and type what you want in the toolbar in the pop up menu. To set your toolbars back to the default press the :guilabel:`Defaults` button.
 

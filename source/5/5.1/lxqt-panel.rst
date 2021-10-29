@@ -55,7 +55,7 @@ The checkbox for :guilabel:`Override icon theme` lets you choose a non system de
 
 The :guilabel:`Widgets` lets you change the widgets or individual items on the panel and their configuration. You can also get to this directly by right clicking on the panel and select :menuselection:`Manage Widgets`. To move an applet down on the order of presentation press the down arrow button while the up arrow button moves the applet up on the order of presentation. To add a new widget click on the widget on the panel configuration screen and press the :guilabel:`+` button and select the widget you want to add some of which are not on the panel by default. To remove an applet you do not want you can press the :guilabel:`-` button. The :guilabel:`dark circle with three blue dots` button has the settings for certain but not all of the applets in the panel for example the Application menu and Task manager are customizable but Quick launch and Show desktop do not.
 
-.. image::  widget-add.png
+.. image:: widget-add.png
 
 Shipped applets not enabled by default:
  - Backlight
@@ -96,7 +96,7 @@ To configure the volume applet right click on the volume applet and select :menu
 
 To change the settings on your clock right click on the clock and then :menuselection:`Configure World clock`. To change settings on how your clock shows stuff use the :guilabel:`Display format` tab. The :guilabel:`Format` drop down menu allows you to change how the clock shows. To select a short format allows you to have a preselected short format which shows a 12 hour format and am just telling you what time it is. Selecting long from the menu will show you the time with seconds and the time zone. To have a customizable clock message select custom and then checkboxes to show seconds, pad the hours with zeros or to use a 12 hour format. The :guilabel:`Time zone` checkbox will show your your time zone. The :guilabel:`Position` drop down  says where to put the time zone on the clock. The :guilabel:`Format` field changes how the time zone is displayed on your clock. To change how the date appears change the :guilabel:`Format` field.  
 
-.. image::  clock-custom.png 
+.. image:: clock-custom.png 
 
 To show the date on the clock check the :guilabel:`Date` checkbox. To change where the date appears change the :guilabel:`Position` drop down menu.To further customize your panel select :menuselection:`Custom` from the :guilabel:`Format` drop down. To show the year press the :guilabel:`Show year` checkbox. To show what day of the week it is check the :guilabel:`Show day of week` checkbox. To make the day two digits check the :guilabel:`Pad day with zero` checkbox. To not abbreviate the months and days of week check the :guilabel:`Long month and day of week names` checkbox. To reset your changes to the clock press the :guilabel:`Reset` button.
 
@@ -107,11 +107,11 @@ Non-Default widgets
 
 To have a bar that shows CPU Load shows a bar graph with your CPU usage. To bring up settings for your CPU usage is right click on the CPU bar :menuselection:`Configure CPU Monitor`. The :guilabel:`Show text` checkbox shows a number for CPU usage. The field for :guilabel:`Update interval` is how often to update your CPU usage. The :guilabel:`Bar orientation` says what side to start the bar graph. The :guilabel:`Bar width` is how many pixels wide to make the bar graph. If you want to reset your changes press the :guilabel:`Reset` button.
 
-.. image::  CPU-load-settings.png
+.. image:: CPU-load-settings.png
 
 The Color picker is shows what color something is on your screen usually useful for web developers. To get a color off the screen press the color dropper button and your mouse will turn into crosshair and then left click on what you want to take the color. Then a numeric field to the right of the dropper will appear with the color in a numeric field to the right. 
 
-.. image::   spacer-color-picker.png
+.. image:: spacer-color-picker.png
 
 To use your sensors widgets which you would have to add manually as shown above. A sensor bar will appear with as many sensors as on your panel. To view the temp as a number mouse over the sensor bar to see what your temperature is in a number. 
 
@@ -121,7 +121,7 @@ To customize the sensors right click on the sensors applet :menuselection:`Confi
 
 The :guilabel:`Sensors` tab provides settings for each individual sensor on your processor. To enable/disable each sensor press to the :guilabel:`Enabled` checkbox for each sensor. The :guilabel:`Label` shows a label for each sensor. The :guilabel:`Color` column shows the color for the bar to appear in the panel and you can bring up a dialog to change color by left clicking on the button. To switch to a different chip to set the sensors for change the :guilabel:`Detected chips` menu. 
 
-.. image::   sensors-applet.png
+.. image:: sensors-applet.png
 
 To add a spacer to your panel add the spacer widget. It creates a blank space on your panel which can separate different items. To change how wide your spacer is change the :guilabel:`Space Width` field to the number of pixels you want the spacer to be wide. The setting for :guilabel:`Space type` selects :menuselection:`lined`,  :menuselection:`dotted`, or :menuselection:`invisible` for changing the spacers appearance.
 

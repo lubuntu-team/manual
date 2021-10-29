@@ -13,11 +13,11 @@ Usage
 ------
 When you open LibreOffice impress you will get a dialog to select a template with a preview select which one you want to use by left clicking and then click :guilabel:`Open`. If you want to search for a theme type into the :guilabel:`Search` towards the upper left. To not show the presentation template at startup uncheck the :guilabel:`Show this dialog at startup` checkbox. To add a title to a slide click where it says click to add title. 
 
-.. image::    impress-theme-select.png
+.. image:: impress-theme-select.png
 
 To open a previous presentation you have been working on press the button that looks like a folder with a piece of paper in it and navigate to the file you want and open it or :menuselection:`File --> Open`. To view your recently opened files press :menuselection:`File --> Recent Documents`. To save your presentation press the button that looks like a floppy disk or :menuselection:`File --> Save`. To save a new copy under a custom file name :menuselection:`File --> Save As`. To save a file as a PDF :menuselection:`File --> Export as PDF`.  
 
-.. image::  impress-save.png
+.. image:: impress-save.png
 
 To type text into a presentation click in one of the boxes for your theme and type in the text with controls for the text on the right hand side. To insert a picture press the button with what looks like a photograph of a tree and select the file you want to insert or :menuselection:`Insert --> Image...`. To insert audio or video to your presentation :menuselection:`Insert --> Audio or video`.
 
@@ -85,15 +85,15 @@ Slide Customization
 -------------------
 To bring up a dialog for the properties of your slides controlling background and shape with :menuselection:`Slide --> Slide Properties`. To change the format for a different aspect ratio of projector or print format change the :guilabel:`Format` drop down menu. To select a custom width and height change the :guilabel:`Width` or :guilabel:`Height`. To switch to a portrait orientation press the :guilabel:`Portrait` button to the right of :guilabel:`Orientation`. To add margins to slides enter a margin in the :guilabel:`Left`, :guilabel:`Right`, :guilabel:`Top`, and :guilabel:`Bottom`. To change how slides are numbered change the :guilabel:`Slide numbers` field. 
 
-.. image::  slide-properties.png
+.. image:: slide-properties.png
 
 To change and choose a custom background use the :guilabel:`Background` tab. To choose a solid color background for your slide press the :guilabel:`Color` button. To choose a different background color choose a color below the :guilabel:`Color` heading. To change to a different color pallet change the :guilabel:`Palette` drop down menu. To see what your current background color of the slide is shown under the :guilabel:`Active` label. To see what color you want to change is under :guilabel:`New` as a preview of the new background color. To the individual red, green, and blue of your colors change the :guilabel:`R`. :guilabel:`G`, and :guilabel:`B` fields respectively. To change the hexadecimal code for the color change the :guilabel:`Hex` field.  To actually change the color press the :guilabel:`OK` button. To cancel your change of background use the :guilabel:`Cancel` button. 
 
-.. image::  impress-background-color.png
+.. image:: impress-background-color.png
 
 To choose a smooth transition use the :guilabel:`Gradient` button. To choose a preset gradient left click on the gradient on :guilabel:`Gradient` menu. To change the type of gradient use the :guilabel:`Type` and select it from the drop down menu. To see a picture of your background it is under the :guilabel:`Preview` text. To switch to manually changing the number of steps in the gradient uncheck :guilabel:`Automatic` checkbox and then change the :guilabel:`Increment` field. To change the center of the gradient change the two fields for :guilabel:`Center(X/Y)` to change the X and Y coordinates of the center. To rotate the  gradient use the :guilabel:`Angle` field. To change your first color of your gradient change the :guilabel:`From Color` drop down menu. To change the second color of the gradient change the :guilabel:`To Color` drop down menu. To change the opacity of either color change the field that is a :guilabel:`Percent` for changing opacity. To change where the color starts change the :guilabel:`Border` field. 
 
-.. image::  impress-background-gradient.png
+.. image:: impress-background-gradient.png
 
 To choose a bitmap image as your background use the :guilabel:`Bitmap` tab. The :guilabel:`Bitmap` to the left shows you the bitmap pictures you can choose. The :guilabel:`Preview` shows you what your background will look like. To change what the bitmap does if it does not fit perfectly use :guilabel:`Style` drop menu. To scale as a percent of the image press the :guilabel:`Scale` checkbox. To change the where to start the bitmap change the :guilabel:`Position` drop down menu.
 

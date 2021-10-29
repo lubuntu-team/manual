@@ -57,7 +57,7 @@ qpdfview also includes some very useful docks. To view the outline dock, in the 
 
 To view properties of your PDF file press :kbd:`F7` or :menuselection:`View --> Docks --> Properties`. To see a thumbnail of each page :menuselection:`View --> Dock --> Thumbnails` or press :kbd:`F8` to view a thumbnail of each page of the PDF file. If you want to close one of these docks click the X button on the dock to close it. To detach a dock to its own floating window press the diamond button to detach it. To get the dock back to where it was press the diamond button again. 
 
-.. image::  properties-dock.png
+.. image:: properties-dock.png
 
 Presentation
 -------------
@@ -68,7 +68,7 @@ Printing
 
 To print your PDF press :kbd:`Control + P` or :menuselection:`File --> Print`. To change what printer you use use the :guilabel:`Name` drop down to select the name of the printer. To see more options press the :guilabel:`Options >>` button to see more options when you print. To select which pages to print use the :guilabel:`Pages from` button and then the fields for the first page to print and then the last page to print. To change what pages you print and type the page number in use the :guilabel:`Pages` field. To print your current page press the :guilabel:`Current Page` button. To change how many copies you print change the :guilabel:`Copies` field.
 
-.. image::  qpdfview-print.png
+.. image:: qpdfview-print.png
 
 If you are printing the PDF in black and white you can however  toggle previewing  the file in black and white by pressing :kbd:`Control + U` or :menuselection:`View --> Convert to grayscale`. To invert the colors of your PDF press :kbd:`Control +I` or :menuselection:`View --> Invert Colors`. To trim the margins off your PDF file press :kbd:`control +Shift +U` or :menuselection:`View --> Trim margins`. If you want to turn off changed colors or trimmed margins off press or use the menu in the same thing again. 
 
@@ -90,7 +90,7 @@ The :guilabel:`PDF` subtab of the graphics tab has settings for font and paper c
 
 The :guilabel:`PS` subtab manages how Postscript files appear on the screen. To change how many bits are used for antialiasing graphics change the :guilabel:`Graphics antialias bits` field. To change the number of bits of text antialiasing change :guilabel:`Text antialiasing bits` field.
 
-.. image::  graphics-postscript.png
+.. image:: graphics-postscript.png
 
 To change the interface settings click on the :guilabel:`Interface` tab. If you want the tabs to be spread out press the spread tabs checkbox. The :guilabel:`Tab position` changes where the tabbar on the window. The :guilabel:`Tab visibility` menu can be set to as needed, always or never which will show or hide the tabbar. The checkbox for :guilabel:`New tab next to current tab` opens new tabs next to the current one. The field :guilabel:`Recently used count` lets you set the maximum number of files to keep around in recently used. The :guilabel:`Spread tabs` checkbox spreads the tabs to take up the whole tab bar and they get smaller the more tabs you open. To have qpdfview close when the last tab in qpdfview is closed check the :guilabel:`Exit after last tab` checkbox. To change the number of recently used PDF files in the menu change the :guilabel:`Recently used count` field. To change how many recently closed tabs of PDFs are shown change the :guilabel:`Recently closed count` field. To toggle showing the current page in the window title check the :guilabel:`Current page in window title`.
 
@@ -98,7 +98,7 @@ To change the interface settings click on the :guilabel:`Interface` tab. If you 
 
 The :guilabel:`Shortcuts` tab provides the ability to customize keyboard shortcuts. The :guilabel:`Action` column is what each keyboard shortcut does. The :guilabel:`Key sequence` column shows the keyboard shortcut. Double click in the key sequence column and type in your desired keyboard shortcut to change the keyboard shortcut.
 
-.. image::   qpdfview-shortcuts.png
+.. image:: qpdfview-shortcuts.png
 
 The :guilabel:`Modifiers` tab allows you to change settings with the mouse and certain keyboard shortcuts in combination with the mouse. To change what keyboard shortcut to hold down while you hold down your mousewheel to zoom use the :guilabel:`Zoom` drop down menu. To change what keyboard key to hold down before using the mousewheel use the :guilabel:`Rotate` key. To change what key to press when you copy text to the clipboard when also pressing a mouse button use the :guilabel:`Copy to Clipboard` drop down menu. To switch which key you press when left clicking to add an annotation use the :guilabel:`Add annotation` drop down menu. To change what what you press to while left clicking to zoom to a selection change the :guilabel:`Zoom to Selection` drop down menu.
 

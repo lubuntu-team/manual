@@ -15,11 +15,11 @@ To use Software Sources you will need to authenticate with your password as this
 
 The :guilabel:`Ubuntu Software` tab contains settings involving the downloading of software from Ubuntu repositories. Here you can disable proprietary software and select a download server among other things. To toggle enabling /disabling the proprietary drivers check/uncheck the :guilabel:`Proprietary drivers for devices(restricted)` checkbox. To toggle enabling/disabling other proprietary software check/uncheck the :guilabel:`Software restricted by copyright or legal issues(multiverse)` checkbox. To change the mirror or where you download change the :guilabel:`Download from` drop down menu. The :guilabel:`Main Server` option downloads from the main Ubuntu server. There is an :guilabel:`Other` option with a large list of mirrors. The :guilabel:`Mirror` column lists a collapse list of mirrors to download from. To choose the fastest option press the :guilabel:`Select Best Server`.
 
-.. image::   ubuntu_software-tab.png
+.. image:: ubuntu_software-tab.png
 
 The :guilabel:`Other software` tab allows you to add, remove, or edit other software sources. Here you can manage remote repositories (PPAs) and CD-ROM repositories. To enable/disable a software source click the checkbox to the left of its name. To remove software from the list left click the :guilabel:`Remove` button. To add a third party source of software to your system press the :guilabel:`Add` button. 
 
-.. image::  other-software-sources.png
+.. image:: other-software-sources.png
 
 To change where a source is downloading software from press the :guilabel:`Edit` button. To change between downloading source and binary code use the :guilabel:`Type` menu. To change where the link to download software change the :guilabel:`URI` field. To change what distribution this source is for enter that in the :guilabel:`Distribution` field. To change what parts of the repository to use the :guilabel:`Components` field. To add a comment to yourself about a repository enter it in the :guilabel:`Comment` field.
 

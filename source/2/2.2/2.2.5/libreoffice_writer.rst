@@ -14,7 +14,7 @@ Usage
 ------
 To use LibreOffice writer type what you wish to type into the main part of the window. If you wish to save your data press the icon that looks like a floppy disk or press :kbd:`control + s`. To open a previously saved document press the button that looks like a folder or press :kbd:`control + o`. To load or save a file from the menu :menuselection:`File --> Open` to open a file or :menuselection:`File --> Save`. To save your file as a new file name :menuselection:`File --> Save As`. To view your recent documents :menuselection:`File --> Recent Documents`. To have save your file as a PDF press the button that is a sheet of paper with curved red lines on it or go :menuselection:`File --> Export` and select the file type as PDF. To export as a PDF file :menuselection:`File --> Export AS --> Export as PDF`. This same export menu will let you save in formats for other programs for compatibility with Microsoft word.
 
-.. image::     writer-save.png
+.. image:: writer-save.png
 
 To change the font size there is a drop down box with a number in it you can type the font size you want in this box or select from the dropdown menu. You can change the font with the drop down box to the left of the font size which you can type and it autocompletes the fonts or select from the drop down menu. To make your text bold you can select the text with the mouse and press the button that looks like **B** or press :kbd:`control + B`. To make the font italic press the button that looks like  *I* or press :kbd:`control + I` after selecting the text or keep typing with it to be italic. To have an underlined text select the text and press :kbd:`Control +U`. To make strikethrough press the button that is a s with a line through it. If you want a floating window on how to style your text :menuselection:`Format --> Character`.
 
@@ -22,7 +22,7 @@ To copy text select it with the mouse or :kbd:`Shift + arrow key` then press :kb
 
 To change your spacing around your character :menuselection:`Format --> Paragraph`. To manage your indentation and spacing between paragraphs and lines use the :guilabel:`Indents & Spacing` tab. The :guilabel:`Before text` field is how much indentation before each line of text. The :guilabel:`After text` is how much of an indent to put after the text. The :guilabel:`First line` field shows how you want the first line indented. To add a space above each paragraph increase the :guilabel:`Above paragraph` field. To add a space below a paragraph change the :guilabel:`Below paragraph` field. To change line spacing in this window change the :guilabel:`Line Spacing` field. 
 
-.. image::   indents-spacing.png
+.. image:: indents-spacing.png
 
 To change alignment from this window use the :guilabel:`Alignment` tab. To change the alignment choose the :guilabel:`Left`, :guilabel:`Right`, :guilabel:`Center`,  or :guilabel:`Justified` radio button to align text that way. The :guilabel:`Borders` tab has settings for your border. The :guilabel:`Style` menu lets you change what kind of line is used for the border. To change the width of your border change the :guilabel:`Width` field. To choose a different presets of border type press the buttons under :guilabel:`Presets` and will be previewed in the box below. The buttons under :guilabel:`Position` change where the shadow is relative to the text. The field :guilabel:`Distance` is how far the shadow is offset from the border. To change the color of your shadow change the :guilabel:`Color` menu. 
 
@@ -48,7 +48,7 @@ To check the spelling of your document press the ABC button with a checkmark, fr
 
 To view how your document looks before printing it :menuselection:`File --> Print preview` or :kbd:`Control +Shift +O`. To get back to editing your document press the same thing again or click the close preview button. After you are done writing your document you can press the button that looks like a printer to print, press :kbd:`control+ p` or :menuselection:`File --> Print`. To select which printer to use use the :guilabel:`Printer` drop down menu. To choose which pages to print there are buttons under :guilabel:`Range and Copies` heading. To change how many copies you are printing change the :guilabel:`Number of copies` field. To print in reverse order check the :guilabel:`Print in reverse order` checkbox.
 
-.. image::  lowriter-print.png
+.. image:: lowriter-print.png
 
 To change view or change your printer settings :menuselection:`File --> Printer settings`. To view your word count of how many words are currently in the document is with nothing selected at the bottom of the LibreOffice writer window. If you select text with the mouse you can also see the word count of selection from the same spot. The word count is also shown on the very bottom of the window.
 
@@ -118,7 +118,7 @@ Images
 ------
 To insert an image into your go to :menuselection:`Insert --> Image` to insert an image directly to your word processing document. To move your image around left click on it and drag the image around. To resize the image while keeping the same aspect ratio click on one of the blue boxes around the corner to resize the image. To remove an image you decide you do not want in your document press the :kbd:`Delete` key. To rotate an image to the right left click on it to select it and right click on the image :menuselection:`Rotate or Flip --> Rotate 90° Right`. To rotate an image to the left right click on the image :menuselection:`Rotate or Flip --> Rotate 90° Left`. To rotate an image to fix it appearing upside-down left click the image and right click :menuselection:`Rotate or Flip --> Rotate 180°`. To get an image back to its original position :menuselection:`Rotate or Flip --> Reset Rotation`. To rotate an image freely by the mouse :menuselection:`Rotate or Flip --> Rotate` and drag with the mouse to where you want the image rotated. To flip your image vertically right click on the image :menuselection:`Rotate or Flip --> Flip Vertically`. To flip your picture horizontally :menuselection:`Rotate or Flip --> Flip Horizontally`.
 
-.. image::  lowriterimageexample.png
+.. image:: lowriterimageexample.png
 
 Tables
 ------

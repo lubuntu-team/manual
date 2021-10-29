@@ -45,7 +45,7 @@ and then carefully check that the output matches
 
 .. code::
 
-  b9027a4633f1ff3dd60f857f5ca0d614ac588d2c7e56eaccbc251d0e08478106 \*lubuntu-21.10-desktop-amd64.iso
+  b9027a4633f1ff3dd60f857f5ca0d614ac588d2c7e56eaccbc251d0e08478106 *lubuntu-21.10-desktop-amd64.iso
 
 Downloading the image via BitTorrent
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

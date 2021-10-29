@@ -23,11 +23,11 @@ The box labeled :guilabel:`Select font` lets you choose which font and size info
 
 The :guilabel:`Slide Show` tab shows settings for slide show of changing your wallpaper automatically like a slide show. The checkbox :guilabel:`Enable Slide Show` enables the slide show that auto changes your wallpaper. The field :guilabel:`Wallpaper image folder` changes the path to find the different pictures for the slideshow or to find a folder press the :guilabel:`Browse` button. To change how long it takes for the slideshow of the desktop background to change change the fields in :guilabel:`Interval` fields for changing how fast the slideshow changes. To randomize the order of the slide show check the :guilabel:`Randomize the slide show` checkbox.
 
-.. image::  slideshow-desktop.png
+.. image:: slideshow-desktop.png
 
 The :guilabel:`Advanced` tab has settings for default desktop icons or included. To show or hide any of the default desktop icons check/uncheck the checkboxes for: :guilabel:`Home`, :guilabel:`Trash`, :guilabel:`Computer`, or :guilabel:`Network`.
 
-.. image::   desktop-advanced.png
+.. image:: desktop-advanced.png
 
 To quit Desktop press the :kbd:`Escape` key.
 

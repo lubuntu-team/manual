@@ -42,7 +42,10 @@ To verify the image, run this from the command line:
  sha256sum lubuntu-21.10-desktop-amd64.iso
 
 and then carefully check that the output matches 
-b9027a4633f1ff3dd60f857f5ca0d614ac588d2c7e56eaccbc251d0e08478106 \*lubuntu-21.10-desktop-amd64.iso
+
+.. code::
+
+  b9027a4633f1ff3dd60f857f5ca0d614ac588d2c7e56eaccbc251d0e08478106 \*lubuntu-21.10-desktop-amd64.iso
 
 Downloading the image via BitTorrent
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -44,7 +44,7 @@ To select all files in a directory is to press :kbd:`Control+ A` or right click 
 
 To connect to a remote server such as a NAS go to the :menuselection:`Go -->  Connect to server` and authenticate to your remote storage. If you want to plug in removable storage you can open the storage on the left sidebar with devices. To switch to the removable media left click on the device in the side pane. This also applies to other internal filesystems on your computer. To eject removable media press the button on the left with a circled up arrow to eject. On the side pane you can right click to open a place in a new tab by right clicking :menuselection:`Open in New Tab` on the side pane. If you want to return to your home folder :menuselection:`Go --> Home` or press :kbd:`Alt + Home`.
 
-.. image::  pcmanfm-qt-connect-server.png 
+.. image:: pcmanfm-qt-connect-server.png 
 
 PCManFM-Qt also supports transferring files to mobile devices plugged in with a USB cable. On the left hand side under :guilabel:`Devices` the mobile device will appear. You may need to accept sending files on the device to allow it to transfer files. After you have done this You can see the files on mobile device and transfer files to them. To eject the mobile devices press the upward pointing arrow to unmount it.
 
@@ -60,11 +60,11 @@ To see hidden files press :kbd:`control +h`, right click :menuselection:`Show Hi
 
 To view the properties of a file or folder right click on it and select :menuselection:`Properties` from the menu, :menuselection:`File --> File Properties` or press :kbd:`Alt +Enter`. To view a dialog that shows folder properties :menuselection:`File --> Folder Properties`. The :guilabel:`General` tab will show you the size of the file, where the file is, and when it was last modified or accessed. To change what program a file opens with use the :guilabel:`Open With` drop down menu and select the program to open the file.
  
- .. image::  file-prop.png 
+ .. image:: file-prop.png 
  
 The :guilabel:`Permissions` tab will show you who owns the file which if you can't change it will be grayed out and who has permission to read modify and execute the file. To change permission of files the :guilabel:`Owner`, :guilabel:`Group`, or :guilabel:`Other` drop down menu will allow you to choose whether you can read, read and write, or forbidden. To make something executable such as a script you wrote check the :guilabel:`Make the file executable` checkbox. At the bottom of the window is a bar graph showing disk usage of the partition the file exists on. If you use folder properties on the top left hand corner click on the folder icon and a file dialog will open to choose the new icon with the path of the current icon theme. Left click on the icon you want and then press the :guilabel:`Choose` button.
 
-.. image::  file-prop-perms.png
+.. image:: file-prop-perms.png
 
 PCManFM-Qt can actually launch other applications in places Applications or :menuselection:`Go --> Applications` and then gets all the tasks in the main menu of lxqt-panel. To view what files are on your desktop :menuselection:`Go --> Desktop` or on the places sidebar press the desktop item on the left.
 
@@ -76,11 +76,11 @@ To bring up a dialog to edit bookmarks :menuselection:`Bookmarks --> Edit bookma
 
 If you want to run an executable script from PCManFM-Qt double click and then click :guilabel:`Execute` on the execute file dialog window. If you wish to edit the script you can press the :guilabel:`Open` button. To cancel and not do anything press the :guilabel:`Cancel` button. If you plan on executing this file a lot you can right click on the file and then select :menuselection:`Trust this executable` to not have this dialog popup.
 
-.. image::   execute_file.png
+.. image:: execute_file.png
 
 PCManFM-Qt has different view modes which can be changed in the view menu. To select a view that has bigger thumbnails to view pictures before deciding to open them :menuselection:`View --> View --> Thumbnail View` or press the button that looks like a picture of a landscape. If you want to view lists of move data about something like the file size the time it is modified select detailed list view by :menuselection:`View --> View --> Detailed List` or press the toolbar button with bullet points in front of three horizontal lines. If you really want to have see as many files in a small area use the compact view or :menuselection:`View --> View --> Compact View` or press the toolbar button with three horizontal lines. To return to the original view of PCManFM-Qt is to :menuselection:`View --> View --> Icon View` or press the toolbar button with 12 dots. To have a view always selected for the particular folder you are on now check the :menuselection:`View --> Preserve Settings for This Folder` checkbox.
 
-.. image::  detailed-list.png
+.. image:: detailed-list.png
 
 To reverse the order that PCManFM-Qt sorts files :menuselection:`View --> Sorting --> Descending` or conversely to switch back :menuselection:`View --> Sorting -->Ascending.` To sort by file name :menuselection:`View --> Sorting --> By file name`. To sort by modification :menuselection:`View --> Sorting --> By modification time`. To sort by file size :menuselection:`View --> Sorting --> By file size`. To sort by file type :menuselection:`View --> Sorting --> By file type`. To sort by owner :menuselection:`View --> Sorting --> By Owner`. To separate all folders first in sorting check the checkbox in :menuselection:`View --> Sorting --> Folder First`. To show hidden files last check the :menuselection:`View --> Sorting --> Hidden Last` checkbox. To sort with case sensitive check the checkbox in :menuselection:`View --> Sorting --> Case sensitive`. You can also get to this sorting menu by right clicking :menuselection:` Sorting --> Your Sorting Option`.
 
@@ -103,15 +103,15 @@ To search for files press :kbd:`f3` or :menuselection:`Tools --> Find Files`. Ty
 
 To change what types of files you use choose the :guilabel:`File Type` tab. To choose to search for only certain file check/uncheck the files under the heading :guilabel:`Only search for files of following types:`. The options for which type of file include: :guilabel:`Text files`, :guilabel:`Image files`, :guilabel:`Audio files`, :guilabel:`Video files`, :guilabel:`Documents`, or :guilabel:`Folders`.
 
-.. image::   search-file-type.png
+.. image:: search-file-type.png
 
 To search for the actual content of the files you are searching for use the :guilabel:`Content` tab. To enter what you actually want to search for in your file in your :guilabel:`File contains` filed. To search for things not caring whether it is uppercase or lowercase letters check the :guilabel:`Case insensitive` checkbox. To search with a regular expression check the :guilabel:`Use regular expression` checkbox.
 
-.. image::   pcmanfm-content.png
+.. image:: pcmanfm-content.png
 
 The :guilabel:`Properties` tab has more settings based on information about the file also called metadata. To only show results on files larger than this file check the :guilabel:`Larger than` checkbox and then in the field to the right for size. To only show files smaller than this check the :guilabel:`Smaller than` checkbox and to the field to the right select the size smaller than that. To change the units for file size use the drop menu on the far right. To search for files modified before a date check the :guilabel:`Earlier than` checkbox and select the date to the right. To search for a file modified after a date check the :guilabel:`Later than` checkbox and input the date to the right.
 
-.. image::  find-files-prop.png
+.. image:: find-files-prop.png
 
 Custom Actions
 --------------
@@ -165,12 +165,12 @@ The :guilabel:`User Interface` tab changes how the PCManFM-Qt window appears. To
  
 The tab :guilabel:`Thumbnail` tab has settings for thumbnails on files in PCManFM-Qt. To enable/disable thumbnails check/uncheck the :guilabel:`Show thumbnails of files` checkbox. If you want to only have thumbnails for local files not on another machine check  :guilabel:`Only show thumbnails for local files` checkbox. Unchecking the previous checkbox will result in a slower performance to get the thumbnails for the files. To put an upper limit for built in thumbnails for PCManFM-Qt change the :guilabel:`Image size limit for built in thumbnailer` field. To have a limit for external thumbnails change the :guilabel:`File size limit for external thumbnailers` field. 
 
-.. image::  perferences-thumbnail.png
+.. image:: perferences-thumbnail.png
 
 
 The tab :guilabel:`Volume` tab manages flash drives, other partitions, external disks, and other external media. The :guilabel:`Auto Mount` section is settings for automatically mounting removable media. The :guilabel:`Mount mountable volumes automatically on program startup` mounts removable media when you start PCManFM-Qt. To automount removable media when you insert them into your computer check the :guilabel:`Mount removable media automatically when they are inserted` checkbox. To show a menu for removable media when inserted check/uncheck the :guilabel:`Show available options for removable media when they are inserted` checkbox. To choose when you unmount a  removable volume you can choose to :guilabel:`Close tab containing removable medium` or :guilabel:`Change folder in the tab to home folder`.
 
-.. image::    prefrencesvolume.png
+.. image:: prefrencesvolume.png
 
 The :guilabel:`Advanced` tab shows integration with other programs and advanced settings. To change your default terminal emulator from PCManFM-Qt preferences drop down change the :guilabel:`Terminal emulator` drop down menu. To change what PCManFM-Qt uses to change users to open things as root type that in the :guilabel:`Switch user command` field. To change your Archiver integration change the :guilabel:`Archiver integration` drop down.
 

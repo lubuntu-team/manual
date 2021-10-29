@@ -69,7 +69,7 @@ Customizing
 -----------
 To open your preferences for Transmission :menuselection:`Edit --> Preferences`.  To manage how fast things download or upload use the :guilabel:`Speed` tab. To limit upload speed check the :guilabel:`Upload` checkbox and select the limit of upload speed you want. To limit download speed check the :guilabel:`Download` checkbox and select the limit of download speed you want. To change the slower speed limits with the turtle button for uploading change the :guilabel:`Upload` field. To change the slower download speed change the :guilabel:`Download` field. To schedule a time to throttle your torrents check the :guilabel:`Scheduled times:` checkbox and to the right choose the time to start throttling your torrents and the time to stop throttling your torrents. The :guilabel:`On days:` drop down is where you select which days of the week to throttle torrenting. 
 
-.. image::  qtransmission-speed-pref.png
+.. image:: qtransmission-speed-pref.png
 
 The :guilabel:`Downloading` tab of your preferences has settings for downloading torrents. To automatically have transmission open the torrent files in a directory check the :guilabel:`Automatically add .torrent files from` checkbox and chose a path to have automatically added.  To start the added torrents automatically check the :guilabel:`Start added torrents` checkbox. To choose where to save torrents is in the :guilabel:`Save to Location:` button to bring up a dialog to show where to save the torrent. To set a maximum number of torrents downloading at the same time change the :guilabel:`Maximum active downloads:` field. To stop trying to download a file after no more file to download change the :guilabel:`Download is inactive if data sharing stopped` and choose how many minutes to choose if it is inactive. To add .part to the end of incomplete downloaded files check the :guilabel:`Append ".part" to incomplete files' names` checkbox. To choose if you want a different file to choose the incomplete files check the :guilabel:`Keep incomplete files in:` checkbox and bring a dialog to choose it where to be on the button to the right.
 
@@ -81,9 +81,9 @@ To have settings with privacy and encryption use the :guilabel:`Privacy` tab. To
 
 To change your settings on how Transmission interacts with the network use the :guilabel:`Network` tab. To choose the port for incoming connections to Transmission use the :guilabel:`Port for incoming connections:`. To see if that port is open press the :guilabel:`Test Port` button. To open a random port each time you open Transmission check the :guilabel:`Pick a random port every time Transmission is started` checkbox. To change the greatest number of peers you can have for each individual torrent change the :guilabel:`Maximum peers per torrent` field. To change the greatest number of peers you can have across all of you different torrents in the :guilabel:`Maximum peers overall` field.
 
-.. image::  qtransmission-network-pref.png
+.. image:: qtransmission-network-pref.png
 
 To change things about your desktop interface use the :guilabel:`Desktop` tab of Transmission. To show an icon for Transmission in the system tray check the :guilabel:`Show Transmission icon in the notification area` checkbox. To start Transmission started in the notification area :guilabel:`Start minimized in notification area` checkbox. To toggle showing a notification when new torrents are added check/uncheck the :guilabel:`Show a notification when torrents are added` checkbox. To toggle showing a notification when torrents finish check/uncheck the :guilabel:`Show a notification when torrents finish` checkbox. To toggle playing a sound when the torrents finish check/uncheck the :guilabel:`Play a sound when torrents finish` checkbox.
 
-.. image::  qtransmission-desktop-pref.png
+.. image:: qtransmission-desktop-pref.png
 

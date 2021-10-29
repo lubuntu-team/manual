@@ -14,7 +14,7 @@ If you have to restart after an update the window will say :guilabel:`Restart Re
 Screenshot
 ----------
 
-.. image::  upgrade-notifer.png
+.. image:: upgrade-notifer.png
 
 Version
 -------

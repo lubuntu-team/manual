@@ -13,13 +13,13 @@ To view your print queue right click on the printer and right click :menuselecti
 
 To add a new printer press the :guilabel:`Add` button or :menuselection:`Server --> New --> Printer`. A dialog will popup showing where you can connect the printer. Then look for your printer in the sidebar on the left hand side. Left click on the name of your printer and press the :guilabel:`Forward` button. To change the name of your printer type it in the :guilabel:`Printer Name` field. To change the description of your printer type in the :guilabel:`Description` field. To have a location for the printer type in the :guilabel:`Location` field. To move to the next step press the :guilabel:`Forward` button. After this a dialog will pop up asking if you want to print a test page. 
 
-.. image::   new_printer.png
+.. image:: new_printer.png
 
 If you want to delete a printer :menuselection:`Printer --> Delete` after left clicking on the printer will delete the printer after you left click on it and you will be asked to confirm so you do not accidentally delete your printer. If you have multiple printers and want to set one as default right click on the printer and select :menuselection:`Set As Default`. To change the name of your printer right click on the printer and select :menuselection:`Rename` or :menuselection:`Printer --> Rename`.
 
 To view or change the properties of printer or make changes with :menuselection:`Printer --> Properties`. To see settings on the printer has use the :guilabel:`Settings` tab. To change how to describe and name your :guilabel:`Description` field. To change where the location of this printer is change the :guilabel:`Location` field. To choose a different driver to use for your printer press the :guilabel:`Change` button to the right of :guilabel:`Make and Model`. To see the current state of the printer view the :guilabel:`Printer State` field. To see what  To print a test page press the :guilabel:`Print Test Page` button.
 
-.. image::  prop-settings.png
+.. image:: prop-settings.png
 
 To change what your printer changes on errors or is enabled and banners use the :guilabel:`Policies` tab. To disable a printer uncheck the :guilabel:`Enabled` checkbox. To have the printer not accept jobs uncheck the :guilabel:`Accepting jobs` checkbox. To not share your printer uncheck the :guilabel:`Shared` checkbox. To change what to do when your printer encounters an error change the :guilabel:`Error Policy` drop down menu. To have a banner before you start printing use the :guilabel:`Starting Banner` drop down. To have a banner ending what you print use the :guilabel:`Ending Banner` drop down.
 

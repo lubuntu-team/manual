@@ -25,7 +25,7 @@ To clear you active terminal press :kbd:`Control + Shift +X`, right click :menus
 
 To use the drop down function of QTerminal once launched press :kbd:`F12` to have the terminal drop down or roll up. When you click outside the drop down terminal it will autohide. If you don't want QTerminal to autohide press the lock button on the upper right hand side. To have QTerminal drop down autohide again unclick the lock button.
 
-.. image::  qterminal-drop.png
+.. image:: qterminal-drop.png
 
 To rename a tab press :kbd:`Alt+Shift+S` or right click on the tab bar and select :menuselection:`Rename session` and then press the :guilabel:`OK` button in the popup. To change the color of the tab :menuselection:`Change title color` menuselection. You can also close a tab by right clicking on it and select :menuselection:`Close session`.
 
@@ -52,7 +52,7 @@ The :guilabel:`Behavior` tab changes history, pasting, and different kinds of em
 
 The :guilabel:`Shortcuts` tab shows all the different shortcuts and how to change keyboard shortcuts. The :guilabel:`Shortcut` column shows what the keyboard shortcut does. The :guilabel:`Key` column is the keyboard shortcut to launch the shortcut. To change or add a keyboard shortcut double click under the :guilabel:`Key` column and then press the keyboard shortcut you want. To change how you sort your keyboard shortcuts left click on the column to sort in a different order. To change your keyboard shortcut double click for that shortcut and then press the keyboard shortcut you want.
 
-.. image::  qterminal-shortcuts.png
+.. image:: qterminal-shortcuts.png
 
 The :guilabel:`Dropdown` tab shows effects on the appearance for the drop down settings of QTerminal. The :guilabel:`Show on start` checkbox if checked shows the drop down menu when it is launched otherwise it is hidden. The :guilabel:`Height` field shows the height of the drop down terminal. The :guilabel:`Width` field shows how wide to make the dropdown terminal. The field :guilabel:`Shortcut` is the shortcut to bring down the drop down terminal and to change the shortcut type in a different key. 
 

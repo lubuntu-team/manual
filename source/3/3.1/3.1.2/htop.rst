@@ -23,7 +23,7 @@ To change how your process are sorted press :kbd:`F6` which will bring up your o
 
 :kbd:`F2` brings about a customizable settings on htop. The :guilabel:`Meters` options brings up meters like CPU average. To see what kind of meter you have it will be shown in brackets. To move a meter press :kbd:`Enter` and press the arrow keys to move in the direction of the meter you want to select. 
 
-The :guilabel:`Display Options` has option for different ways to display in htop. To toggle an option on press :kbd:`Spacebar`. The :guilabel:`Colors` tab brings up different color schemes for htop. To select a different color scheme press the :kbd:`Up arrow` or :kbd:`Down arrow` keys. To select a new color scheme press the :kbd:`Spacebar` key. To move the meter press :kbd:`Enter` and then press the arrow keys to move where it goes.
+The :guilabel:`Display Options` has option for different ways to display in htop. To toggle an option on press :kbd:`Spacebar`. The :guilabel:`Colors` tab brings up different color schemes for htop. To select a different color scheme press the :kbd:`Up arrow` or :kbd:`Down arrow` keys. To select a new color scheme press the :kbd:`Spacebar` key. 
 
 .. image:: htop-setup.png
 

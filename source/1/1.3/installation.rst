@@ -79,7 +79,7 @@ If you wish to manual set up partitions, as an advanced option you will have to 
 
 .. image:: manpartitioning.png
 
-If you have a new hard disc or solid state drive press the :guilabel:`New Partition table` button but this will delete the whole disc if you have any data on it. After pressing this button you will get a dialog saying what kind of partition table to use. The :guilabel:`Master Boot Record` button will create an old partition table but will only allow 4 primary partitions and partitions up to 2 Terabytes. The :guilabel:`GUID Partition Table` button works for large discs but may not be recognized by legacy other operating systems. To get back to your main partitioning window press the :guilabel:`OK` button.
+If you have a new hard disc or solid state drive press the :guilabel:`New Partition table` button but this will delete the whole disc if you have any data on it. After pressing this button you will get a dialog saying what kind of partition table to use. The :guilabel:`Master Boot Record` button will create an old partition table but will only allow 4 primary partitions and partitions up to 2 Terabytes. The :guilabel:`GUID Partition Table` button works for large discs but may not be recognized by legacy operating systems. To get back to your main partitioning window press the :guilabel:`OK` button.
 
 To change what disc you are partitioning use the :guilabel:`Storage device` drop down menu.
 

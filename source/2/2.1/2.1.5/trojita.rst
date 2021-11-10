@@ -15,7 +15,7 @@ To use Trojita you will need to input your account information. You will need to
 
 .. image:: IMAP-SMTP.png 
 
-After entering this in you will be asked to check the certificate for your server and will need to select the :guilabel:`yes` for the first time. If you did not insert your password to be stored on your computer a dialog box will popup and you will need to input it.
+To save how to connect to a server press the :guilabel:`Save` button. After entering this in you will be asked to check the certificate for your server and will need to select the :guilabel:`yes` for the first time. If you did not insert your password to be stored on your computer a dialog box will popup and you will need to input it.
 
 After you have set everything up a set of folders will appear on the left hand side.
 

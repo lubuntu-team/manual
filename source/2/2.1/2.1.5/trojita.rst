@@ -13,7 +13,7 @@ To use Trojita you will need to input your account information. You will need to
 
 .. image:: IMAP_settings.png
 
-To save how to send messages use the :guilabel:`SMTP` tab.
+To save how to send messages use the :guilabel:`SMTP` tab. To change what kind of encrpytion to send your emails with use thee :guilabel:`Encrption` method.
 
 .. image:: IMAP-SMTP.png 
 

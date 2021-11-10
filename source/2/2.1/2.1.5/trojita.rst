@@ -9,7 +9,7 @@ Trojita is the default IMAP email client of Lubuntu.
 
 Usage
 ------
-To use Trojita you will need to input your account information. You will need to type in your name so people know what call you and the email address so Trojita needs to know what address to get information from. The :guilabel:`IMAP` tab has settings for how to get messages to your machine. The :guilabel:`Encryption` method tells what kind of encryption to use when accessing your mail as needed for your mail provider. The :guilabel:`Server` field is where you input what server to get your email from. The :guilabel:`Port` tells Trojita which network port to access the server on. The :guilabel:`Username` field tells Trojita which username to send to the email server.  
+To use Trojita you will need to input your account information. You will need to type in your name so people know what call you and the email address so Trojita needs to know what address to get information from. The :guilabel:`IMAP` tab has settings for how to get messages to your machine. The :guilabel:`Encryption` method tells what kind of encryption to use when accessing your mail as needed for your mail provider. The :guilabel:`Server` field is where you input what server to get your email from. The :guilabel:`Port` tells Trojita which network port to access the server on. The :guilabel:`Username` field tells Trojita which username to send to the email server. The :guilabel:`Password` field saves a password so you won't have to login to view your emails. 
 
 .. image:: IMAP_settings.png
 

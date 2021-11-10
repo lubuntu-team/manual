@@ -19,7 +19,7 @@ After entering this in you will be asked to check the certificate for your serve
 
 After you have set everything up a set of folders will appear on the left hand side.
 
-To change how long Trojita stores messages in offline mode from the settings from :menuselection:`IMAP --> Settings` and use the :guilabel:`Offline` tab. To not store messages offfline select the :guilabel:`Don't use cache` button. To keep your email messages indefinitely press the :guilabel:`Store forever` button.
+To change how long Trojita stores messages in offline mode from the settings from :menuselection:`IMAP --> Settings` and use the :guilabel:`Offline` tab. To not store messages offfline select the :guilabel:`Don't use cache` button. To keep your email messages indefinitely press the :guilabel:`Store forever` button. To change how many different days email is stored change the :guilabel:`Remember messages for x days` field.
 
 .. image:: trojita-offline.png
 

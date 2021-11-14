@@ -92,7 +92,7 @@ You can also type and run
 
    firefox
 
-from the terminal to run Firefox. You can also from the command line have Firefox directly open this manual with 
+from the terminal to run Firefox. You can also have Firefox directly open this manual from the command line with 
 
 .. code:: 
 

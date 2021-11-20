@@ -15,9 +15,11 @@ The files you add to your project will now be shown at a pane towards the bottom
 
 To burn to an optical disc press :kbd:`Control+B` or :menuselection:`Project --> Burn`. After burning a popup will appear and the disc should eject when it is done. 
 
-As you put a disk that is empty in the drive you will see info on the disk you put in the top center of the window will it will tell you what kind of disk it is. To see what type of disk it is shown in :guilabel:`Type`. To see how much you can store on the disk see the :guilabel:`Capacity` field. To see if the disk is rewritable see the :guilabel:`Rewritable` field. To see if the disk is empty read the :guilabel:`Empty` field.
+As you put a disk that is empty in the drive you will see info on the disk you put in the top center of the window will it will tell you what kind of disk it is. To see what type of disk it is shown in :guilabel:`Type`. To see how much you can store on the disk see the :guilabel:`Capacity` field. To see if the disk is rewritable see the :guilabel:`Rewritable` field. To see if the disk is empty read the :guilabel:`Empty` field. You can get back to this after viewing other files to add is by left clicking the disk in the upper left hand corner of the sidebar or :menuselection:`Device --> Media info`. 
 
 To change your current directory in the center of the screen there is a sidebar to navigate folder on the left hand side. To switch to folder viewed in the center with the sidebar left click on the folder. To see what other folder are contained in a folder single left click to expand that folder and single left click again to collapse that folder. To add an entire folder right click on that folder and select :menuselection:`Add to Project` or press :kbd:`Shift+Enter`.
+
+To change what device or folder to get your files to burn from press the button that looks like a hard disk in the toolbar. To switch to another partition or a usb drive to burn :menuselection:`Hard disk button --> Devices` and select which one you want to end up burning from.
 
 To eject the disc from your drive press :menuselection:`Device --> Eject`. To view information on the disc you have inserted :menuselection:`Device --> Media Info`. If you want to lower noise from the spinning of optical drives :menuselection:`Device --> Set Read Speed...` and set a lower number to make the disk spin slower in CD or DVD players for less noise.
 

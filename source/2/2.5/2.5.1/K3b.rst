@@ -15,7 +15,7 @@ The files you add to your project will now be shown at a pane towards the bottom
 
 To burn to an optical disc press :kbd:`Control+B` or :menuselection:`Project --> Burn`. After burning a popup will appear and the disc should eject when it is done. 
 
-As you put a disk that is empty in the drive you will see info on the disk you put in the top center of the window will it will tell you what kind of disk it is.
+As you put a disk that is empty in the drive you will see info on the disk you put in the top center of the window will it will tell you what kind of disk it is. To see what type of disk it is shown in :guilabel:`Type`.
 
 To change your current directory in the center of the screen there is a sidebar to navigate folder on the left hand side. To switch to folder with the sidebar double click on the folder. To see what other folder are contained in a folder single left click to expand that folder and single left click again to collapse that folder. To add an entire folder right click on that folder and select :menuselection:`Add to Project` or press :kbd:`Shift+Enter`.
 

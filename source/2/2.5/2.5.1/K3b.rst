@@ -49,7 +49,7 @@ from the command line. The icon for K3b looks like a red disc with a white flame
 
 Customizing
 ------------
-To configure settings for K3b :menuselection:`Settings --> Configure K3b` or press :kbd:`Control + Shift + ,`. To ask to save projects on exit automatically check the :guilabel:`Ask to save projects on exit` checkbox. To hide the main K3b window while burning a disc check the :guilabel:`Hide main window while writing` checkbox. To toggle showing a splash screen for K3b when it starts up check/uncheck the :guilabel:`Show splash screen` checkbox. To view information about your devices use the :guilabel:`Devices` tab. 
+To configure settings for K3b :menuselection:`Settings --> Configure K3b` or press :kbd:`Control + Shift + ,`. To ask to save projects on exit automatically check the :guilabel:`Ask to save projects on exit` checkbox. To hide the main K3b window while burning a disc check the :guilabel:`Hide main window while writing` checkbox. To toggle showing a splash screen for K3b when it starts up check/uncheck the :guilabel:`Show splash screen` checkbox. To change what K3b does with dialog boxes you can change what to do in the :guilabel:`Default action dialog settings` menu. To view information about your devices use the :guilabel:`Devices` tab. 
 
 To show settings for :guilabel:`Notifications` has settings for notifications. The context you use are for choosing :guilabel:`Process successful`, :guilabel:`Process error`, :guilabel:`Track data not found`, :guilabel:`Waiting for medium`, :guilabel:`Mount/unmount failed`, :guilabel:`No problems found` , or :guilabel:`Busy`. To make a popup show up choose the :guilabel:`Show a message in popup` checkbox. 
 

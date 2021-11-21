@@ -51,6 +51,8 @@ Customizing
 ------------
 To configure settings for K3b :menuselection:`Settings --> Configure K3b` or press :kbd:`Control + Shift + ,`. To ask to save projects on exit automatically check the :guilabel:`Ask to save projects on exit` checkbox. To hide the main K3b window while burning a disc check the :guilabel:`Hide main window while writing` checkbox. To toggle showing a splash screen for K3b when it starts up check/uncheck the :guilabel:`Show splash screen` checkbox. To change what K3b does with dialog boxes you can change what to do in the :guilabel:`Default action dialog settings` menu. To view information about your devices use the :guilabel:`Devices` tab. 
 
+.. image:: k3b-pref-misc.png
+
 To show settings for :guilabel:`Notifications` has settings for notifications. The context you use are for choosing :guilabel:`Process successful`, :guilabel:`Process error`, :guilabel:`Track data not found`, :guilabel:`Waiting for medium`, :guilabel:`Mount/unmount failed`, :guilabel:`No problems found` , or :guilabel:`Busy`. To make a popup show up choose the :guilabel:`Show a message in popup` checkbox. 
 
 To have settings of different plugins for K3b use the :guilabel:`Plugin` tab. To toggle enabling a plugin press the :guilabel:`checkbox` to the left of the plugin name. The name and a description of the plugin are in the center column.

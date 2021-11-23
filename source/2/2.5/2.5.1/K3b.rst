@@ -31,7 +31,7 @@ If you insert an audio cd you can see what is in thee drive as it will show what
 
 Version
 -------
-Lubuntu ships with version 21.08.3 of K3b.
+Lubuntu ships with version 21.11.8 of K3b.
 
 Screenshot
 ----------

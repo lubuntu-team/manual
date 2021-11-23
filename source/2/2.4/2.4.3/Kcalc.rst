@@ -68,7 +68,7 @@ To cancel and not apply your changes press the :guilabel:`Cancel` button along t
 
 .. image:: kcalcpref.png
 
-The :guilabel:`Font` tab has settings to change settings with your fonts. To choose the font for your buttons on your calculator :guilabel:`Button font` and press the :guilabel:`Pencil` button to the font for the buttons on your calculator. To change the font for the display of the calculator. :guilabel:`Display font` will change how the and the :guilabel:`Pencil` button.
+The :guilabel:`Font` tab has settings to change settings with your fonts. To choose the font for your buttons on your calculator :guilabel:`Button font` and press the :guilabel:`Pencil` button to the font for the buttons on your calculator. To change the font for the display of the calculator. :guilabel:`Display font` will change how the and the :guilabel:`Pencil` button. To change what font will be used for displaying Kcalc history change the :guilabel:`History font` field.
 
 .. image:: kcalc-font-screenshot.png
 

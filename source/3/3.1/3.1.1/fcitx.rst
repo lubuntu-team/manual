@@ -23,7 +23,7 @@ To restart Fcitx right click on the applet and click :menuselection:`Restart`. T
 
 Version
 -------
-Lubuntu ships with version 1:4.2.9.7-4 of Fcitx. 
+Lubuntu ships with version 1:2.9.8-4 of Fcitx. 
  
 Screenshot
 ----------

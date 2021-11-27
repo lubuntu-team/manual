@@ -104,7 +104,7 @@ To change what colors you use in syntax highlighting use the :guilabel:`Syntax C
 
 Version 
 -------
-Lubuntu ships with version 0.17.1 of Featherpad. 
+Lubuntu ships with version 1.0.1.1 of Featherpad. 
 
 How to Launch
 -------------

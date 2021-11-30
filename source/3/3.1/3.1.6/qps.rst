@@ -21,6 +21,8 @@ To view more details on this process right click on the process and select :menu
 
 To toggle showing a graph with your overall system usage check/uncheck the :menuselection:`Option --> Show Graph` checkbox in the menu. To toggle showing the bar with the option to search for processor or choose linear or tree view of processes check/uncheck :menuselection:`Option -->  Show Control Bar` checkbox in the menu. To change the update period is to :menuselection:`Option --> Update Period`. Then input your update period in the :guilabel:`New Update Period` field.
 
+To quit qps press :kbd:`Alt+Q`.
+
 Screenshot
 ----------
 .. image:: qps.png

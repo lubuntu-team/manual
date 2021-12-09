@@ -18,7 +18,7 @@ While you download your file a progress bar with will show your download for eac
 
 The button with two :guilabel:`||` circled is a pause button that can pause all downloads and uploads or :menuselection:`File --> Pause All`. To start downloading and uploading again to press a button with a triangle to start uploading and downloading again or :menuselection:`File --> Start All`. 
 
-To remove a torrent from the list of torrent files right click on it or :kbd:`Delete` and click remove. To delete the files and remove the torrent from the list right click Delete files and remove or press :kbd:`Shift +Delete`.
+To remove a torrent from the list of torrent files right click on it or :kbd:`Delete` and click remove. To delete the files and remove the torrent from the list right click :menuselection:`Delete files and Remove` or press :kbd:`Shift +Delete`.
 
 To filter which torrents are shown on your list use the :guilabel:`Show` drop down menu. To only show active torrents from the :guilabel:`Show` drop down select :menuselection:`Active`. To only show torrents that are downloading from the :guilabel:`Show` menu select :menuselection:`Downloading`. To only show seeding torrents from the :guilabel:`Show` drop down select :menuselection:`Seeding`. To only show Paused torrents from the :guilabel:`Show` drop down select :menuselection:`Paused`. To show only Finished torrents from the :guilabel:`Show` menu select :menuselection:`Finished`. To only show torrents that are verifying from the :guilabel:`Show` drop down select :menuselection:`Verifying`. To only show torrents that are in an error state from the :guilabel:`Show` menu select :menuselection:`Error`. To go back to showing all torrents from the :guilabel:`Show` menu select :menuselection:`All`.
 

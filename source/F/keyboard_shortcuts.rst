@@ -57,8 +57,6 @@ SendToDesktop                 S-A-Up
 
 SendToDesktop                 S-A-Down
 
-ToggleShowDesktop             W-D
-
 ============================= ========================
 
 **Keybindings for windows**

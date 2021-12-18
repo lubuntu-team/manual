@@ -57,6 +57,8 @@ SendToDesktop                 S-A-Up
 
 SendToDesktop                 S-A-Down
 
+Open Panel Menu               W
+
 GoTo first Desktop            W-F1
 
 GoTo second Desktop           W-F2

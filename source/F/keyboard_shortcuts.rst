@@ -59,14 +59,6 @@ SendToDesktop                 S-A-Down
 
 Open Panel Menu               W
 
-GoTo first Desktop            W-F1
-
-GoTo second Desktop           W-F2
-
-GoTo third Desktop            W-F3
-
-GoTo fourth Desktop           W-F4
-
 ToggleShowDesktop             W-D
 
 ============================= ========================

@@ -57,8 +57,6 @@ SendToDesktop                 S-A-Up
 
 SendToDesktop                 S-A-Down
 
-Open Panel Menu               W
-
 ToggleShowDesktop             W-D
 
 ============================= ========================
@@ -118,6 +116,8 @@ Pcmanfm                       W-e
 ============================= ========================
 
 Launch lxqt-runner             W-r
+
+Open Panel Menu               W
 
 ============================= ========================
 

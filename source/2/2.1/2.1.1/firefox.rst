@@ -51,7 +51,7 @@ To view info on your webpage press :kbd:`Control+ I`. To take a screenshot of a 
 
 To zoom in if you find the text on a web page to small press :kbd:`control + +`. If you want to zoom out on the text or pictures press :kbd:`control + -`. To reset to the original zoom press :kbd:`control + 0`. To make Firefox fullscreen press :kbd:`F11` and to leave fullscreen simply press :kbd:`F11` again or in the hamburger menu press the two button with two diagonal arrows. While in fullscreen the tab bar will be hidden to change tab while you have Firefox in fullscreen move your mouse to the top of the  monitor and the tab bar will popup. You can also type your zoom into Firefox from the hamburger menu :menuselection:`Zoom` field and press the :guilabel:`+` and :guilabel:`-`.
 
-To search for text in your tab press :kbd:`Control +F` or use the three horizontal lines and select :menuselection:`Find in page`. A search bar at the bottom of the window will appear. To move to the next result click the downward arrow on the screen or click the upward arrow on the screen to move to the previous result.
+To search for text in your tab press :kbd:`Control +F` or use the three horizontal lines and select :menuselection:`Find in page`. A search bar at the bottom of the window will appear. To move to the next result click the downward arrow on the screen or click the upward arrow on the screen to move to the previous result. To toggle highlighting every match check/uncheck the :guilabel:`Hightlight All` checkbox.
 
 To print a webpage such as directions you can click the button with horizontal bars and select :menuselection:`Print` from the menu. You can also print by pressing :kbd:`Control+P`. 
 

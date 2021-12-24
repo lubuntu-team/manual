@@ -31,7 +31,7 @@ The :guilabel:`Mouse` tab use the focus follow mouse tab is if you move the mous
 
 .. image:: obconf-mouse.png
 
-On the :guilabel:`Desktops` tab to change number of desktops press the up arrow to add an additional desktop or the down arrow to reduce the number of virtual desktops. When switching desktops there is  a checkbox to :guilable:`Show a notification when switching desktops` and a field for how many milliseconds to show that notification for. To change how many virtual desktops you have change the :guilabel:`Number of desktops` field. If you want to rename a desktop double click on the desktop name and type the name of the desktop you want.
+On the :guilabel:`Desktops` tab to change number of desktops press the up arrow to add an additional desktop or the down arrow to reduce the number of virtual desktops. When switching desktops there is  a checkbox to :guilabel:`Show a notification when switching desktops` and a field for how many milliseconds to show that notification for. To change how many virtual desktops you have change the :guilabel:`Number of desktops` field. If you want to rename a desktop double click on the desktop name and type the name of the desktop you want.
 
 .. image:: obconfdesktop.png
 

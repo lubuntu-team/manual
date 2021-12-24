@@ -23,7 +23,7 @@ To undo an operation press :kbd:`Control+Z` or :menuselection:`Edit --> Undo`. T
 
 To copy and answer out of KCalc press :kbd:`control + c` or :menuselection:`Edit --> Copy` from the menu. To paste a number into KCalc you can press :kbd:`control + v` or :menuselection:`Edit --> Paste` from the menu. To cut the text from KCalc press :kbd:`control +x` or :menuselection:`Edit --> Cut` from the menu.
 
-To view your history what you have calculated in Kcalc press :kbd:`Control+h` or :menuselection:`Settings --> Show History`. To hide your history do the same thing again. You can select text with the mouse in Kcalc and then right click select :menuselection:`Copy` or press :kbd:`Control+C` to copy what you have previously calculated.
+To view your history what you have calculated in KCalc press :kbd:`Control+h` or :menuselection:`Settings --> Show History`. To hide your history do the same thing again. You can select text with the mouse in KCalc and then right click select :menuselection:`Copy` or press :kbd:`Control+C` to copy what you have previously calculated.
 
 To quit KCalc press :kbd:`Control+Q`.
 
@@ -48,7 +48,7 @@ To store a value in memory press the :guilabel:`M+` Button. To retrieve a value 
 
 Numerical System mode
 ---------------------
- To switch the calculator into number system mode :menuselection:`Settings --> Numeral Systyem Mode`. The numerical system mode lets you change your numerical base instead of say the default base 10. To switch to a binary calculations click the :guilabel:`Bin` radio button. To switch the Octal or base 8 format click the :guilabel:`Oct` radio button. To switch to a hexadecimal format or base 16 format click the :guilabel:`Hexadecimal` radio button. For numbers greater than 10 for hexadecimal press the :guilabel:`A`-:guilabel:`F` buttons standing in for numbers 10-15 in base 10. When you are in number that are not part of a numerical base the button will get grayed out. To switch back to decimal or base 10 press the :guilabel:`Dec` radio button.   
+ To switch the calculator into number system mode :menuselection:`Settings --> Numeral System Mode`. The numerical system mode lets you change your numerical base instead of say the default base 10. To switch to a binary calculations click the :guilabel:`Bin` radio button. To switch the Octal or base 8 format click the :guilabel:`Oct` radio button. To switch to a hexadecimal format or base 16 format click the :guilabel:`Hexadecimal` radio button. For numbers greater than 10 for hexadecimal press the :guilabel:`A`-:guilabel:`F` buttons standing in for numbers 10-15 in base 10. When you are in number that are not part of a numerical base the button will get grayed out. To switch back to decimal or base 10 press the :guilabel:`Dec` radio button.   
 
 .. image:: kcalcnummode.png
 
@@ -68,7 +68,7 @@ To cancel and not apply your changes press the :guilabel:`Cancel` button along t
 
 .. image:: kcalcpref.png
 
-The :guilabel:`Font` tab has settings to change settings with your fonts. To choose the font for your buttons on your calculator :guilabel:`Button font` and press the :guilabel:`Pencil` button to the font for the buttons on your calculator. To change the font for the display of the calculator. :guilabel:`Display font` will change how the and the :guilabel:`Pencil` button. To change what font will be used for displaying Kcalc history change the :guilabel:`History font` field.
+The :guilabel:`Font` tab has settings to change settings with your fonts. To choose the font for your buttons on your calculator :guilabel:`Button font` and press the :guilabel:`Pencil` button to the font for the buttons on your calculator. To change the font for the display of the calculator. :guilabel:`Display font` will change how the and the :guilabel:`Pencil` button. To change what font will be used for displaying KCalc history change the :guilabel:`History font` field.
 
 .. image:: kcalc-font-screenshot.png
 

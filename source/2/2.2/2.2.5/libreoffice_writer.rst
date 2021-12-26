@@ -104,7 +104,7 @@ To add a list of bullet points press :kbd:`Shift +F12` or :menuselection:`Format
 
 Find And Replace
 ----------------
-To search for text in your document press :kbd:`Control +F` or :menuselection:`Edit --> Find` which pops up a toolbar on the bottom. To enter the text to search enter into the searchbar on the bottom. To go to the next result press the downward pointed arrow button. To go to the previous result press the upward pointing arrow button. To close out of finding text press red circle with the white x inside it. To not match case uncheck the :guilabel:`Match Case` checkbox.
+To search for text in your document press :kbd:`Control +F` or :menuselection:`Edit --> Find` which pops up a toolbar on the bottom. To enter the text to search enter into the searchbar on the bottom. To go to the next result press the downward pointed arrow button. To go to the previous result press the upward pointing arrow button. To close out of finding text click the :guilabel:`red circle x button`. To not match case uncheck the :guilabel:`Match Case` checkbox.
 
 .. image:: lowriter_findbar.png 
 

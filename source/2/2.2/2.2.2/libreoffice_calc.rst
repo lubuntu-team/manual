@@ -49,6 +49,8 @@ To insert a hyperlink in LibreOffice Calc :menuselection:`Insert --> Hyperlink` 
 
 .. image:: calc-link.png
 
+To make text bold in LibreOffice Calc press :kbd:`Control + B` or :menuselection:`Format --> Text --> Bold`.
+
 To quit LibreOffice Calc press :kbd:`Control+Q`.
 
 Charts

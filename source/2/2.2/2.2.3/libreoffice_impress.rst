@@ -51,7 +51,7 @@ To change your line spacing on your presentation :menuselection:`Format --> Spac
 
 To move settings with a box of text left click on the border of the box of text. To move the text box click and drag on the border. To resize both vertical and horizontal size together left click on the corner and resize the text box. To resize how tall the text box is click the box at the top or bottom and drag to the desired size. To resize the horizontal size only select the box on a vertical size of the box.
 
-To search for text press :kbd:`Control + F` or :menuselection:`Edit --> Find` to search for text. To find and replace text press :kbd:`Control + H` or :menuselection:`Edit --> Find and Replace`. To move to the next result press the downward pointing arrow. To move to the previous result press the upward pointing arrow.
+To search for text press :kbd:`Control + F` or :menuselection:`Edit --> Find` to search for text. To move to the next search press the downward pointing arrow and for the previous press the upward pointing arrow. To find and replace text press :kbd:`Control + H` or :menuselection:`Edit --> Find and Replace`. To move to the next result press the downward pointing arrow. To move to the previous result press the upward pointing arrow.
 
 .. image:: impress-find-bar.png
 

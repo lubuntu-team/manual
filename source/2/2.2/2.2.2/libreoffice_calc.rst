@@ -51,7 +51,7 @@ To insert a hyperlink in LibreOffice Calc :menuselection:`Insert --> Hyperlink` 
 
 To make text bold in LibreOffice Calc press :kbd:`Control + B` or :menuselection:`Format --> Text --> Bold`. To make text italic press :kbd:`Control + I` or :menuselection:`Format --> Text --> Italic`. To have your text have a single underline :menuselection:`Format --> Text --> Single Underline`.
 
-To align text in the center of the cells press :kbd:`Control +E` or :menuselection:`Format --> Align Text --> Centered`. To align text in the cells to the right of the cell press :kbd:`Control +R` or :menuselection:` Format --> Align Text --> Right`. To switch the text back to being on the left press :kbd:`Control +L` or :menuselection:`Format --> Align Text --> Left`. To align text so that the edges of each cell all line up with being streched in the center press :kbd:`Control + J` or :menuselection:` Format --> Align Text --> Justified`. To align text to the top of the cell :menueselection:` Format --> Align Text --> Top`
+To align text in the center of the cells press :kbd:`Control +E` or :menuselection:`Format --> Align Text --> Centered`. To align text in the cells to the right of the cell press :kbd:`Control +R` or :menuselection:` Format --> Align Text --> Right`. To switch the text back to being on the left press :kbd:`Control +L` or :menuselection:`Format --> Align Text --> Left`. To align text so that the edges of each cell all line up with being streched in the center press :kbd:`Control + J` or :menuselection:` Format --> Align Text --> Justified`. To align text to the top of the cell :menueselection:` Format --> Align Text --> Top`.
 
 To quit LibreOffice Calc press :kbd:`Control+Q`.
 

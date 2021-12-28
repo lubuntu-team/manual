@@ -15,7 +15,7 @@ When you open LibreOffice impress you will get a dialog to select a template wit
 
 .. image:: impress-theme-select.png
 
-To open a previous presentation you have been working on press the button that looks like a folder with a piece of paper in it and navigate to the file you want and open it or :menuselection:`File --> Open`. To view your recently opened files press :menuselection:`File --> Recent Documents`. To save your presentation press the button that looks like a floppy disk or :menuselection:`File --> Save`. To save a new copy under a custom file name :menuselection:`File --> Save As`. To save a file as a PDF :menuselection:`File --> Export as PDF`.  
+To open a previous presentation you have been working on press the button that looks like a folder with a piece of paper in it and navigate to the file you want and open it or :menuselection:`File --> Open`. To view your recently opened files press :menuselection:`File --> Recent Documents`. To open a new presentation press :kbd:`Control + N` or :menuselection:`File --> New --> Presentation`. To save your presentation press the button that looks like a floppy disk or :menuselection:`File --> Save`. To save a new copy under a custom file name :menuselection:`File --> Save As`. To save a file as a PDF :menuselection:`File --> Export as PDF`.  
 
 .. image:: impress-save.png
 

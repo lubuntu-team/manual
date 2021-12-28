@@ -65,7 +65,7 @@ To move a slide down :menuselection:`Slide --> Move --> Slide Down`. To move a s
 
 To view your slides right next to each other :menuselection:`View --> Slide Sorter`. To rearrange your slides click and hold a slide and drag the slide between the slides you want to move to. To have notes on each slide :menuselection:`View --> Notes`. Type your notes for each slide below the slide. To switch to an outline view of just text :menuselection:`View --> Outline`. To switch to an outline :menuselection:`View --> Outline`. To switch back to your normal view :menuselection:`View --> Normal`. 
 
-To change your view to grayscale :menuselection:`View --> Color/Grayscale --> Grayscale`.
+To change your view to grayscale :menuselection:`View --> Color/Grayscale --> Grayscale`. To view your presentation in black and white :menuselection:`View --> Color/Grayscale --> Black and White`.
 
 To quit LibreOffice impress press :kbd:`Control+Q`.
 

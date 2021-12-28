@@ -51,6 +51,8 @@ To insert a hyperlink in LibreOffice Calc :menuselection:`Insert --> Hyperlink` 
 
 To make text bold in LibreOffice Calc press :kbd:`Control + B` or :menuselection:`Format --> Text --> Bold`. To make text italic press :kbd:`Control + I` or :menuselection:`Format --> Text --> Italic`. To have your text have a single underline :menuselection:`Format --> Text --> Single Underline`.
 
+To align text in the center of the cells press :kbd:`Control +E` or :menuselection:`Format --> Align Text --> Centered`.
+
 To quit LibreOffice Calc press :kbd:`Control+Q`.
 
 Charts

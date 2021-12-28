@@ -5,7 +5,7 @@ LibreOffice Calc is the default spreadsheet program for Lubuntu.
 
 Usage
 ------
-To move between cells press the arrow keys in the direction you want to move. To enter data into cells type in the keyboard. To select cells left click and drag to select the cells you want. To sum data from cells in the cell where you want the sum is to press the button that looks like :guilabel:`Σ` character and then drag the mouse over the cells you want to add. To sort your cells in descending order press the button with bullet points and an arrow going down. To sort in ascending order press the button with bullet points and an arrow pointing upwards.   
+To move between cells press the arrow keys in the direction you want to move. To enter data into cells type in the keyboard. To select cells left click and drag to select the cells you want. To sum data from cells in the cell where you want the sum is to press the button that looks like :guilabel:`Σ` character and then drag the mouse over the cells you want to add. To sort your cells in descending order press the button with bullet points and an arrow going down. To sort in ascending order press the button with bullet points and an arrow pointing upwards. 
 
 .. image:: calc-save.png
 
@@ -13,7 +13,7 @@ To save your spreadsheet you need to press the button that looks like a floppy d
 
 To copy data you can right click :menuselection:`Copy`, press the button with two pieces of paper or press :kbd:`control + c`. To paste data press control :kbd:`control +v`, :menuselection:`Edit -->  Paste`, right click :menuselection:`Paste`, or press the button that is a clipboard with a piece of paper on it. To cut text press :kbd:`control+x`, right click :menuselection:`Cut`, or press the scissors button to cut text. If you want to paste your text unformatted press :kbd:`Control+Shift + Alt+V` or :menuselection:`Edit --> Paste Unformatted Text`.
 
-To change to showing currency for the number press :kbd:`Control+Shift+4` or :menuselection:`Format --> Number Format --> Currency`. To change to percentage press :kbd:`Control+Shift+5` or :menuselection:`Format --> Number Format --> Percentage`. To switch back to a normal number press :kbd:`Control+Shift+1` or :menuselection:`Format --> Number Format --> Number`. 
+To change to showing currency for the number press :kbd:`Control+Shift+4` or :menuselection:`Format --> Number Format --> Currency`. To change to percentage press :kbd:`Control+Shift+5` or :menuselection:`Format --> Number Format --> Percentage`. To switch back to a normal number press :kbd:`Control+Shift+1` or :menuselection:`Format --> Number Format --> Number`.
 
 To view values highlighted in another color to see them easier press :kbd:`Control+F8` or :menuselection:`View --> Value Highlighting`.
 
@@ -25,13 +25,13 @@ To style part of your spreadsheet to bring lots of attention to a cell :menusele
 
 To insert an image press :menuselection:`Insert --> Image`. To select an image to change how it appears in your spreadsheet left click on it. To resizing your image while keeping the same aspect ratio click on the box on a corner of your image. To stretch or shrink an image horizontally left click on the boxes on the left or right hand side and then release when in the giant position. To stretch on shrink your image vertically click on the box on the top or bottom and drag to your desired position. To change what image shows on the spreadsheet right click on the image and select :menuselection:`Replace`. To save an image in a spreadsheet right click on the image and select :menuselection:`Save`. To remove an image from your spreadsheet press the :kbd:`Delete` key.
 
-If you want to insert a new column to the left of a column right click on the letter for the column :menuselection:`Insert Column Before`. If you want the new column to the right is right click on the letter and :menuselection:`Insert Column After`. To insert a row above the current row right click on the number and :menuselection:`Insert Row Above`. To insert a row below the current row right click on the number and :menuselection:`Insert Row Below`. To delete a row or column right click the number  and select :menuselection:`Delete rows` or :menuselection:`Delete Column`.  
+If you want to insert a new column to the left of a column right click on the letter for the column :menuselection:`Insert Column Before`. If you want the new column to the right is right click on the letter and :menuselection:`Insert Column After`. To insert a row above the current row right click on the number and :menuselection:`Insert Row Above`. To insert a row below the current row right click on the number and :menuselection:`Insert Row Below`. To delete a row or column right click the number  and select :menuselection:`Delete rows` or :menuselection:`Delete Column`.
 
-To change the size of a row or column of cells click in between the border of that particular row or column and drag with the mouse to give yourself room. 
+To change the size of a row or column of cells click in between the border of that particular row or column and drag with the mouse to give yourself room.
 
-To sort your data like a bunch of names first select all the cells with the mouse :menuselection:`Data --> Sort Ascending`. If you want the reverse order to this you can have :menuselection:`Data --> Sort Descending`.  
+To sort your data like a bunch of names first select all the cells with the mouse :menuselection:`Data --> Sort Ascending`. If you want the reverse order to this you can have :menuselection:`Data --> Sort Descending`.
 
-To undo a selection press :kbd:`control +z` or press the button with the arrow looping around and pointing to the left. To redo an operation press :kbd:`Control +y` or the number looping to the right and exiting to the left.  
+To undo a selection press :kbd:`control +z` or press the button with the arrow looping around and pointing to the left. To redo an operation press :kbd:`Control +y` or the number looping to the right and exiting to the left.
 
 To zoom to view a full page on your spreadsheet in the menu :menuselection:`View --> Zoom --> Entire Page`. To view the whole width of your page on the menu :menuselection:`View --> Zoom --> Page Width`. To zoom to a particular percentage :menuselection:`View --> Zoom` and select the percentage you want. Another way to change your zoom is the slider in the bottom right hand corner. To zoom in move the slider to the right and to zoom out move the slider to the left.
 
@@ -67,7 +67,7 @@ The :guilabel:`Chart Elements` tab controls labels and displaying legends on you
 
 Version
 -------
-Lubuntu ships with version 7.2.5.1 of LibreOffice Calc. 
+Lubuntu ships with version 7.2.5.1 of LibreOffice Calc.
 
 How to Launch
 -------------
@@ -77,4 +77,4 @@ To launch LibreOffice Calc from the menu go to :menuselection:`Office --> LibreO
 
    localc 
    
-from the command line. The icon for LibreOffice Calc is a piece of paper with a green icon with a spreadsheet on it. 
+from the command line. The icon for LibreOffice Calc is a piece of paper with a green icon with a spreadsheet on it.

@@ -19,7 +19,7 @@ To open a previous presentation you have been working on press the button that l
 
 .. image:: impress-save.png
 
-To type text into a presentation click in one of the boxes for your theme and type in the text with controls for the text on the right hand side. To insert a picture press the button with what looks like a photograph of a tree and select the file you want to insert or :menuselection:`Insert --> Image...`. To insert audio or video to your presentation :menuselection:`Insert --> Audio or video` and a file dialog will popup for you to pick a file.
+To type text into a presentation click in one of the boxes for your theme and type in the text with controls for the text on the right hand side. To insert a picture press the button with what looks like a photograph of a tree and select the file you want to insert or :menuselection:`Insert --> Image...`. To insert audio or video to your presentation :menuselection:`Insert --> Audio or video` and a file dialog will popup for you to pick a file. If you don't want a music symbol to show on your presentation when presenting drag it oustide the margins of the slide.
 
 To change the layout of your slide :menuselection:`Slide --> Layout --> Your preferred layout`. To set an image as the background of your slide :menuselection:`Slide --> Set Background Image`.
 

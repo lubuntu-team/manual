@@ -61,6 +61,8 @@ If you want a menubar for Firefox right click the main toolbar and click the che
 
 To search for a word in a webpage press :kbd:`Control+F` and then type what you want to search for in the searchbar that pops up. At the right of this bar will show :guilabel:`x of y matches` to see how many matches are on your search. To jump to the next result press the :guilabel:`Down arrow`. To Move to the previous result press the :guilabel:`Up arrow`. To see everything that matches the search result check the :guilabel:`Highlight All`. To have Firefox match the capitalization of searches check the :guilabel:`Match Case` checkbox. To have Firefox search to only match the entire word check the :guilabel:`Whole Words` checkbox.
 
+Firefox offers to save passwords of websites with a popup when you enter in a password and press :guilabel:`Save`. This will have firefox remember the password so you do not have to remember it.
+
 Customizing
 -----------
 

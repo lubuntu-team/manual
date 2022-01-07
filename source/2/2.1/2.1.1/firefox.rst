@@ -82,6 +82,8 @@ To change settings for How Firefox handles security and privacy settings use the
   
 To see what websites store data on you locally press the :guilabel:`Manage Data` button. To clear all Firefox data you currently have press the :guilabel:`Clear Data` button. To have Firefox get rid of all cookies when Firefox is closed check the :guilabel:`Delete cookies and site data when Firefox is closed` checkbox. To have Firefox not autofill logins and passwords uncheck the :guilabel:`Autofill logins and passwords` checkbox. To see your saved logins press the :guilabel:`Saved Logins` button. To chose what sites not to save passwords for certain websites press the :guilabel:`Exceptions` button. 
 
+To set a password to access your logins on Firefox check the :guilabel:`Use a Primary Password` checkbox and then press the :guilabel:`Change Primary Password` button.
+
 Version
 ----------
 Lubuntu currently ships with the latest version of Firefox, Firefox 95.

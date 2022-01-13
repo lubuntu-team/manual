@@ -30,7 +30,7 @@ To sort your torrents by activity :menuselection:`View --> Sort by Activity`. To
 
 To move a torrent down on where it appears on the screen and the queue :menuselection:`Torrent --> Queue --> Move Down` or :kbd:`Control+down`. To move a torrent up in the queue :menuselection:`Torrent --> Queue --> Move Up` or press :kbd:`Control+ up arrow`. To Move a torrent file to the top :menuselection:`Torrent --> Queue --> Move to Top`. To move a torrent file to the bottom :menuselection:`Torrent --> Queue --> Move to Bottom`.
 
-If you do not want to prioritize the speed of your torrents press the button on the bottom of transmission that looks like a turtle. To change the ratio view on the bottom to your total changes :menuselection:`Globe button --> Total Transfer`. To view your upload/download ratio in the current session :menuselection:`Globe button --> Session Ratio`. To view your transfer from the current session only :menuselection:`Globe button --> Session Transfer`. 
+If you do not want to prioritize the speed of your torrents press the button on the bottom of transmission that looks like a turtle. To change the ratio view on the bottom to your total changes :menuselection:`Globe button --> Total Transfer`. To view your upload/download ratio in the current session :menuselection:`Globe button --> Session Ratio`. To view your transfer from the current session only :menuselection:`Globe button --> Session Transfer`.
 
 To open the file manager in the folder of your torrent press :kbd:`Control+E` or :menuselection:`Torrent --> Open Folder`.
 
@@ -39,11 +39,11 @@ To view statistics on how much Transmission has downloaded :menuselection:`Help 
 Torrent Properties
 ------------------
 
-To bring a up a properties dialog window press :kbd:`Alt +Enter` or :menuselection:`Torrent --> Properties`. To show how much of the file you have on that torrent is under the :guilabel:`Have` row which shows how much of the file is on your disk and the percentage of the file. The :guilabel:`Uploaded` row shows how much of the torrent you have uploaded to other peers. The :guilabel:`Downloaded` row shows how much you have downloaded on your computer. The :guilabel:`State` row shows what the torrent is currently doing. The :guilabel:`Remaining time` row shows how long it will take for the torrent to finish downloading. The :guilabel:`Size` row shows how much space the torrent takes when downloaded. The :guilabel:`Location` row shows you where the file is saved on your system.  The :guilabel:`Origin` row shows when you first downloaded this torrent. 
+To bring a up a properties dialog window press :kbd:`Alt +Enter` or :menuselection:`Torrent --> Properties`. To show how much of the file you have on that torrent is under the :guilabel:`Have` row which shows how much of the file is on your disk and the percentage of the file. The :guilabel:`Uploaded` row shows how much of the torrent you have uploaded to other peers. The :guilabel:`Downloaded` row shows how much you have downloaded on your computer. The :guilabel:`State` row shows what the torrent is currently doing. The :guilabel:`Remaining time` row shows how long it will take for the torrent to finish downloading. The :guilabel:`Size` row shows how much space the torrent takes when downloaded. The :guilabel:`Location` row shows you where the file is saved on your system.  The :guilabel:`Origin` row shows when you first downloaded this torrent.
 
 .. image:: transmission-prop.png
 
-The :guilabel:`Peers` tab shows you what other peers that also have the torrent open. To see how much data you are getting from a particular peer see the :guilabel:`Up` column. To add your column showing how much data you are downloading from a peer read the :guilabel:`Down` column. To see the address of your peers and read the :menuselection:`Address` column. To see what client other peers are using the :guilabel:`Client` column. The :guilabel:`Tracker` tab shows information of where the torrent is being tracked. 
+The :guilabel:`Peers` tab shows you what other peers that also have the torrent open. To see how much data you are getting from a particular peer see the :guilabel:`Up` column. To add your column showing how much data you are downloading from a peer read the :guilabel:`Down` column. To see the address of your peers and read the :menuselection:`Address` column. To see what client other peers are using the :guilabel:`Client` column. The :guilabel:`Tracker` tab shows information of where the torrent is being tracked.
 
 The :guilabel:`Files` tab shows what files this torrent has downloaded. To see the name of the file is in the :guilabel:`File` column. To see the size of the file look in the :guilabel:`Size` column. To see how much of your file is downloaded as a percentage in the :guilabel:`Progress` column. To see the priority of the torrent see the :guilabel:`Priority` column.
 
@@ -65,11 +65,11 @@ To launch Transmission go to menu :menuselection:`Internet --> Qtransmission Bit
  
    transmission-qt 
 
-from the terminal. The icon looks like a silver colored gear selection lever in a car. 
+from the terminal. The icon looks like a silver colored gear selection lever in a car.
 
 Customizing
 -----------
-To open your preferences for Transmission :menuselection:`Edit --> Preferences`.  To manage how fast things download or upload use the :guilabel:`Speed` tab. To limit upload speed check the :guilabel:`Upload` checkbox and select the limit of upload speed you want. To limit download speed check the :guilabel:`Download` checkbox and select the limit of download speed you want. To change the slower speed limits with the turtle button for uploading change the :guilabel:`Upload` field. To change the slower download speed change the :guilabel:`Download` field. To schedule a time to throttle your torrents check the :guilabel:`Scheduled times:` checkbox and to the right choose the time to start throttling your torrents and the time to stop throttling your torrents. The :guilabel:`On days:` drop down is where you select which days of the week to throttle torrenting. 
+To open your preferences for Transmission :menuselection:`Edit --> Preferences`.  To manage how fast things download or upload use the :guilabel:`Speed` tab. To limit upload speed check the :guilabel:`Upload` checkbox and select the limit of upload speed you want. To limit download speed check the :guilabel:`Download` checkbox and select the limit of download speed you want. To change the slower speed limits with the turtle button for uploading change the :guilabel:`Upload` field. To change the slower download speed change the :guilabel:`Download` field. To schedule a time to throttle your torrents check the :guilabel:`Scheduled times:` checkbox and to the right choose the time to start throttling your torrents and the time to stop throttling your torrents. The :guilabel:`On days:` drop down is where you select which days of the week to throttle torrenting.
 
 .. image:: qtransmission-speed-pref.png
 
@@ -79,7 +79,7 @@ The :guilabel:`Downloading` tab of your preferences has settings for downloading
 
 To have the settings for uploading torrents or seeding them use the :guilabel:`Seeding` tab. To stop seeding after you have uploaded a certain size of the file check the :guilabel:`Stop seeding at ratio:` checkbox and then select the ratio to stop seeding. To stop seeding if the torrent has not been seeded recently check the :guilabel:`Stop seeding if idle for:` checkbox and then choose how long to select if the torrent is idle.
 
-To have settings with privacy and encryption use the :guilabel:`Privacy` tab. To change whether to prefer encryption mode, allow encryption, or to require encryption use the :guilabel:`Encryption mode` drop down menu. 
+To have settings with privacy and encryption use the :guilabel:`Privacy` tab. To change whether to prefer encryption mode, allow encryption, or to require encryption use the :guilabel:`Encryption mode` drop down menu.
 
 To change your settings on how Transmission interacts with the network use the :guilabel:`Network` tab. To choose the port for incoming connections to Transmission use the :guilabel:`Port for incoming connections:`. To see if that port is open press the :guilabel:`Test Port` button. To open a random port each time you open Transmission check the :guilabel:`Pick a random port every time Transmission is started` checkbox. To change the greatest number of peers you can have for each individual torrent change the :guilabel:`Maximum peers per torrent` field. To change the greatest number of peers you can have across all of you different torrents in the :guilabel:`Maximum peers overall` field.
 

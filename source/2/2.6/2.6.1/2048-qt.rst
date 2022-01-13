@@ -15,7 +15,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 0.1.6 of 2048-Qt. 
+Lubuntu ships with version 0.1.6 of 2048-Qt.
 
 How to Launch
 -------------

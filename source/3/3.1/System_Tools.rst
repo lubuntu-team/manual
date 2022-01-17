@@ -7,7 +7,7 @@ This chapter documents tools to administer your system.
    :maxdepth: 2
    :titlesonly:
 
-   3.1.1/fcitx
+
    3.1.2/htop
    3.1.3/qterminal
    3.1.4/startup-disk-creator

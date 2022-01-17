@@ -1,4 +1,4 @@
-Chapter 2.5.3 VLC
+Chapter 2.5.2 VLC
 =================
 
 VLC is the default media player for Lubuntu that can open both audio and video files.

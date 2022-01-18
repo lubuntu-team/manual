@@ -1,4 +1,4 @@
-Chapter 3.1.7 KDE Partition Manager
+Chapter 3.1.6 KDE Partition Manager
 ===================================
 
 KDE partition manager creates partitions partitions, deletes partitions, and checks the health of your hard drives and solid state drives.

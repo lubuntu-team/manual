@@ -1,4 +1,4 @@
-Chapter 3.1.6 qps
+Chapter 3.1.5 qps
 =================
 
 qps is the graphical task manager included with Lubuntu. It is useful to close non-responsive programs.

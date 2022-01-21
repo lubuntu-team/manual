@@ -67,7 +67,7 @@ To change so that there is not as much difference between quiet and loud which m
 
 The setting for widening the width of a stereo are on the :guilabel:`Stereo Widener` tab. To toggle stereo widening check the :guilabel:`Enable` checkbox.
 
-To change how the audio and video synchronize with the rest of the file use the :guilabel:`Synchronization` tab. To change the synchronization of your audio with the video change the :guilabel:`Audio track synchronization` field to get it to match with your video. To change the synchronization of subtitles use the :guilabel:`Subtitle track synchronization` field. To change how many frames per second your subtitles change at change the :guilabel:`Subtitle speed` field to change how many frames per second on your subtitle.
+To change how the audio and video synchronize with the rest of the file use the :guilabel:`Synchronization` tab. To change the synchronization of your audio with the video change the :guilabel:`Audio track synchronization` field to get it to match with your video. To change the synchronization of subtitles use the :guilabel:`Subtitle track synchronization` field. To change how many frames per second your subtitles change at change the :guilabel:`Subtitle speed` field to change how many frames per second on your subtitle. To change how long the subtitle stays on the screen change the :guilabel:`Subtitle duration factor`.
 
 .. image:: vlc-synchronization.png
 

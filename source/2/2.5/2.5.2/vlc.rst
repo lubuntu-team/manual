@@ -89,7 +89,7 @@ To zoom or rotate a video use the :guilabel:`Geometry` tab. To choose different 
 
 .. image:: video-effects-geometry.png
 
-To add a logo to a video file check the :guilabel:`Add logo` checkbox. To choose which logo to add type the logo in the :guilabel:`Logo` field or press the :guilabel:`...` button. Use the :guilabel:`Opacity` slider to change how transparent the logo appears.
+To add a logo to a video file check the :guilabel:`Add logo` checkbox. To choose which logo to add type the logo in the :guilabel:`Logo` field or press the :guilabel:`...` button. Use the :guilabel:`Opacity` slider to change how transparent the logo appears. To change how far the logo is from the top in pixels change thhe :guilabel:`top` field.
 
 Saving or Converting Files
 --------------------------

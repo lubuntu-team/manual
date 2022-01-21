@@ -89,6 +89,8 @@ To zoom or rotate a video use the :guilabel:`Geometry` tab. To choose different 
 
 .. image:: video-effects-geometry.png
 
+To add a logo to a video file check the :guilabel:`Add logo` checkbox.
+
 Saving or Converting Files
 --------------------------
 To save or convert a file in VLC press :kbd:`Control+R` or :menuselection:` Media --> Convert/Save` and a dialog will pop up. To add a local file to save or convert use the :guilabel:`File` tab and press the :guilabel:`Add` button. To Save or convert files off a disc press use the :guilabel:`Disc` tab. To save a network URL to use the :guilabel:`Network` tab and enter the URL in the :guilabel:`Please enter a network URL` field. To convert or save a the files press the :guilabel:`Convert/Save` button. 
@@ -110,7 +112,7 @@ To manage your audio settings use the :guilabel:`Audio tab`. To disable audio en
 To change settings with how VLC deals with video use the :guilabel:`Video` tab. To disable video and thus save some processing power uncheck the :guilabel:`Enable Video` checkbox. To automatically have fullscreen video check the :guilabel:`Fullscreen` checkbox. To have window decorations on a separate video window check the :guilabel:`Window decorations` checkbox. The menu :guilabel:`Fullscreen Video Device` menu lets you select which monitor to play the full screen video on. To change the backend for VLC to play videos change the :guilabel:`Output` menu. To turn deinterlacing on or off change :guilabel:`Deinterlacing` menu. The mode :guilabel:`Mode` changes the mode to deinterlace the frames of video. The :guilabel:`Video snapshots` section shows settings for VLC snapshots. The :guilabel:`Directory` is what directory to save snapshots of videos in and to choose one in a pop up window press the :guilabel:`Browse` button. The :guilabel:`Prefix` field lets you have a preshot to the snapshot file name. You can choose the format of the snapshot in the :guilabel:`Format` menu.
 
 .. image::  vlc-video-pref.png 
-
+ 
 ￼
 ￼
 ￼

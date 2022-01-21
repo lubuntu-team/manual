@@ -73,7 +73,7 @@ To change how the audio and video synchronize with the rest of the file use the 
 
 To change how the video appears on your screen use the :guilabel:`Video Effects` tab. On the :guilabel:`Essential` sub tab for how your brightness contrast and other things appear. To change your image press the :guilabel:`Image adjust` checkbox. To change the brightness use the :guilabel:`Brightness` slider with to the left being darker and to the right being lighter. However extreme values to the left or right are not that viewable. As such you may want to make small adjustments with the :kbd:`Left arrow` and :kbd:`Right arrow` keys. To change the color of the video use the :guilabel:`Hue` slider. To change the contrast use the :guilabel:`Contrast` slider with the left being lower contrast and the right being higher contrast. To change how saturated your colors are use the :guilabel:`Saturation` slider.
 
-To add a film grain effect check the :guilabel:`Film Grain` checkbox. To adjust how much the film grain varies slide the :guilabel:`Variance` slider.
+To removal horizontal lines from playing back a video check the :guilabel:`Banding removal` checkbox. To add a film grain effect check the :guilabel:`Film Grain` checkbox. To adjust how much the film grain varies slide the :guilabel:`Variance` slider.
 
 .. image:: vlc-essential-video-effects.png 
 

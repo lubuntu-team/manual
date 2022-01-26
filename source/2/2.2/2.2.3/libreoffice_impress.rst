@@ -21,11 +21,10 @@ To open a previous presentation you have been working on press the button that l
 
 To type text into a presentation click in one of the boxes for your theme and type in the text with controls for the text on the right hand side. To insert a picture press the button with what looks like a photograph of a tree and select the file you want to insert or :menuselection:`Insert --> Image...`. To insert audio or video to your presentation :menuselection:`Insert --> Audio or video` and a file dialog will popup for you to pick a file. If you don't want a music symbol to show on your presentation when presenting drag it oustide the margins of the slide.
 
-To change the layout of your slide :menuselection:`Slide --> Layout --> Your preferred layout`. To set an image as the background of your slide :menuselection:`Slide --> Set Background Image`.
+To add a new slide to your presentation press :kbd:`Control+M`, right click on the side pane :menuselection:`New Slide`, or :menuselection:`Slide --> New Slide`. To delete a slide :menuselection:`Slide  --> Delete Slide`, or right click on the slide in the side pane :menuselection:`Delete Slide`. To change the layout of your slide :menuselection:`Slide --> Layout --> Your preferred layout`. To set an image as the background of your slide :menuselection:`Slide --> Set Background Image`.
 
 To apply a bold effects on your fonts select the text with the mouse and then press :kbd:`Control+ B` or :menuselection:`Format --> Text --> Bold`. To make text italic with first select it and then press :kbd:`Control + I` or :menuselection:`Format --> Text --> Italic`. To underline your text select it and then press :kbd:`Control+U` or :menuselection:`Format --> Text --> Underline`.
 
-To add a new slide to your presentation press :kbd:`Control+M`, right click on the side pane :menuselection:`New Slide`, or :menuselection:`Slide --> New Slide`. To delete a slide :menuselection:`Slide  --> Delete Slide`, or right click on the slide in the side pane :menuselection:`Delete Slide`.
 
 To increase your font size press :kbd:`Control + ]` or :menuselection:`Format --> Text --> Increase Size`. To decrease your font size press :kbd:`Control + [` or :menuselection:`Format --> Text --> Decrease Size`. To make text superscript select it and press :kbd:`Shift + Control +P` or :menuselection:`Format --> Text --> Superscript`. To make text subscript select it and press :kbd:`Shift + Control + B` or :menuselection:`Format --> Text --> Subscript`.
 

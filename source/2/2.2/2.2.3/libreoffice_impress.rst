@@ -25,7 +25,7 @@ To change the layout of your slide :menuselection:`Slide --> Layout --> Your pre
 
 To apply a bold effects on your fonts select the text with the mouse and then press :kbd:`Control+ B` or :menuselection:`Format --> Text --> Bold`. To make text italic with first select it and then press :kbd:`Control + I` or :menuselection:`Format --> Text --> Italic`. To underline your text select it and then press :kbd:`Control+U` or :menuselection:`Format --> Text --> Underline`.
 
-To add a new slide to your presentation press :kbd:`Control+M`, right click on the side pane :menuselection:`New Slide`, or :menuselection:`Slide --> New Slide`.
+To add a new slide to your presentation press :kbd:`Control+M`, right click on the side pane :menuselection:`New Slide`, or :menuselection:`Slide --> New Slide`. To delete a slide :menuselection:`Slide  --> Delete Slide`, or right click on the slide in the side pane :menuselection:`Delete Slide`.
 
 To increase your font size press :kbd:`Control + ]` or :menuselection:`Format --> Text --> Increase Size`. To decrease your font size press :kbd:`Control + [` or :menuselection:`Format --> Text --> Decrease Size`. To make text superscript select it and press :kbd:`Shift + Control +P` or :menuselection:`Format --> Text --> Superscript`. To make text subscript select it and press :kbd:`Shift + Control + B` or :menuselection:`Format --> Text --> Subscript`.
 

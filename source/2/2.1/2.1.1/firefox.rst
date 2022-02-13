@@ -80,6 +80,8 @@ To change settings for How Firefox handles security and privacy settings use the
 
   Deleting Firefox user data will log you out of online accounts and if you do not know your password you will need to recover your password or you may lose access to online accounts.
   
+.. image:: prefreences-security.png
+  
 To see what websites store data on you locally press the :guilabel:`Manage Data` button. To clear all Firefox data you currently have press the :guilabel:`Clear Data` button. To have Firefox get rid of all cookies when Firefox is closed check the :guilabel:`Delete cookies and site data when Firefox is closed` checkbox. To have Firefox not autofill logins and passwords uncheck the :guilabel:`Autofill logins and passwords` checkbox. To see your saved logins press the :guilabel:`Saved Logins` button. To chose what sites not to save passwords for certain websites press the :guilabel:`Exceptions` button.
 
 To set a password to access your logins on Firefox check the :guilabel:`Use a Primary Password` checkbox and then press the :guilabel:`Change Primary Password` button. To do this next you will need to enter the password twice to make sure you don't not accidentally make a typo and then press :guilabel:`OK`. To have Firefox not automatically save your address uncheck the :guilabel:`Autofill addresses` checkbox. To view which addresses are saved press the :guilabel:`Saved Addresses`. To have Firefox not save credit cards uncheck the :guilabel:`Autofill credit cards` checkbox. To view or delete saved credit cards press :guilabel:`Saved Credit Cards` button.

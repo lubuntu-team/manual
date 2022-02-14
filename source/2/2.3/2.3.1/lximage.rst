@@ -45,8 +45,6 @@ To show annotations controls :menuselection:`View --> Annotations Toolbar` or ri
 
 .. warning:: Annotations in lximage cannot be undone with an undo functionality. Also you will not be prompted to save your unsaved annotations when closing LXImage.
 
-
-
 Customizing
 -----------
 

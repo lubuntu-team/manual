@@ -20,6 +20,10 @@ To open a new file press the button that looks like a piece of paper with a plus
 
 To type things into your text file the main part of the window similar to a word processor. If you are programming with Featherpad the file extension will probably automatically select the correct syntax highlighting. To toggle syntax highlighting press :kbd:`Control+Shift+H` or :menuselection:`Options --> Syntax Highlighting`. To view line numbers of the file press :kbd:`control +l` or :menuselection:`Options --> Line Numbers` and do the same thing to turn it off. The line numbers will show the current line number in yellow. To enable word wrap press :kbd:`Control +W` or :menuselection:`Options --> Wrap Lines` and then press the same thing again to turn word wrapping off. To automatically indent lines press :kbd:`Control +I` or :menuselection:`Options --> Auto-Indentation`. To toggle document properties press :kbd:`Control + Shift +D` or :menuselection:`File --> Document Properties`.
 
+.. image:: featherpad.png
+  :width: 80% 
+
+
 To open a new tab and empty text file press the button with a piece of paper with a plus symbol on it, or press :kbd:`Control + N`. If you wish to close a tab press the red x button. To switch between tabs click on the tab is not the close button. To switch to the next tab press :kbd:`Alt + Right arrow` or :menuselection:`File --> Next Tab`. Another way to open a new document in a new tab double click to the right of all open tabs. To switch to the previous tab press :kbd:`Alt + Left arrow` or :menuselection:`File --> Previous Tab`. To close a tab press the :guilabel:`X` button. To move a tab into a new window press :kbd:`Control + T` or :menuselection:`File --> Detach Tab`. To open a side pane that replaces the tab bar press :kbd:`Control +Alt +P` or :menuselection:`File --> Side-Pane`. If have so many tabs they don't all fit in the window press the right and left arrows on the tab bar to move the tab bar that way or use the mousewheel to move the visible tabs in the tab bar. To move to the last text file you had visited press :kbd:`F1` or :menuselection:`File --> Last Active Tab`. To change to your last tab press :kbd:`Alt+ Up arrow` or :menuselection:`File --> Last Tab`. To change to your first tab press :kbd:`Alt+ Down arrow` or :menuselection:`File --> First Tab`.
 
 .. image:: featherpad-sidebar.png
@@ -61,9 +65,6 @@ To print a text :menuselection:`File --> Print` or press :kbd:`control + p`. To 
 .. image:: featherpad-print.png
 
 To run an executable script press :kbd:`Control+E`. To quit Featherpad press :kbd:`Control+Q`.
-
-.. image:: featherpad.png
-  :width: 80% 
 
 Spellcheck
 ----------

@@ -23,7 +23,7 @@ To flip your image on the vertical axis press :kbd:`V` or :menuselection:`Edit -
 
 .. image:: lximage_resize.png
 
-To see how big an image is on the bar at the bottom :guilabel:`Size` will tell you the size in pixels of an image.
+To see how big an image is on the bar at the bottom :guilabel:`Size` will tell you the size in pixels of an image. To see where the current image is saved read the path in the :guilabel:`Path` field.
 
 To copy an image to the clipboard you can :menuselection:`Edit --> Copy to Clipboard`. To paste an image to the clipboard :menuselection:`Edit --> Paste from Clipboard`. To copy the path of an image to the clipboard :menuselection:`Edit --> Copy Path`.
 

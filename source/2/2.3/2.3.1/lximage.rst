@@ -9,6 +9,8 @@ To open a picture press :menuselection:`File --> Open File`, :kbd:`Control + O`,
 
 To have LXImage open the next file in a folder press :kbd:`Right arrow` and to view the previous image press the :kbd:`Left arrow`. To open an entire directory :menuselection:`File --> Open Directory` or press :kbd:`Control +D`. To save the file as something press :kbd:`Control+Shift+S`, the downward pointed arrow with an I on it, or :menuselection:`File --> Save As`. To save the file with the same file name press :kbd:`Control+S` or :menuselection:`File -->Save`.
 
+.. image:: LXImage.png
+
 If you wish to print a picture after viewing it from the :menuselection:`File --> Pint` or press :kbd:`control+ p` to bring up a print dialog. To exit the window with a keyboard shortcut press the :kbd:`Escape` key.
 
 If you want to upload a picture to share it online press :menuselection:`Edit --> Upload` and a new window will pop up with a drop down menu to show where to upload the picture to. To actually upload the file press :guilabel:`Start`. The URL of the image will then show up from after it is finished uploading. You can then copy the URL by selecting the  text and then pressing :kbd:`Control+C` or pressing  the :guilabeel:`Copy` button.
@@ -41,9 +43,7 @@ To show annotations controls :menuselection:`View --> Annotations Toolbar` or ri
 
 .. warning:: Annotations in lximage cannot be undone with an undo functionality. Also you will not be prompted to save your unsaved annotations when closing LXImage.
 
-Screenshot
-----------
-.. image:: LXImage.png
+
 
 Customizing
 -----------

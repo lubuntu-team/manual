@@ -21,7 +21,7 @@ The :guilabel:`Input devices` tab manager your sound inputs. To mute your microp
 
 .. image:: pavucontrol-input.png
 
-The :guilabel:`Configuration` tab has different sound profiles for each different output device. To change how sound comes out of your speakers or headphones  varying for example the number of speakers for each device change the :guilabel:`Profile` drop down menu. Choosing for example an :menuselection:`Analog Surround 2.1 Output` will let you not just change stereo but also control the volume of the subwoofer. To enable or disable an audio output press the checkbox to the left of :guilabel:`Profile`.
+The :guilabel:`Configuration` tab has different sound profiles for each different output device. To change how sound comes out of your speakers or headphones  varying for example the number of speakers for each device change the :guilabel:`Profile` drop down menu. Choosing for example an :menuselection:`Analog Surround 2.1 Output` will let you not just change stereo but also control the volume of the subwoofer. To enable or disable an audio output press the checkbox to the left of :guilabel:`Profile`. To toggle PulseAudio volume control showing a how much sound a speaker, headphone or microphone is making check/uncheck the :guilabel:`Show volume meters` checkbox.
 
 .. image:: pavucontrol-config.png
 

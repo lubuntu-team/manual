@@ -1,4 +1,4 @@
-Chapter 2.4.7 nobleNote
+Chapter 2.4.6 nobleNote
 =======================
 
 nobleNote is the default application to take a notes on Lubuntu. nobleNote also automatically saves whatever you enter into a note.

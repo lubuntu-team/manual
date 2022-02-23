@@ -1,4 +1,4 @@
-Chapter 2.4.9 QtPass
+Chapter 2.4.7 QtPass
 ====================
 
 QtPass is the default password manager for Lubuntu. 

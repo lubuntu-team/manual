@@ -12,9 +12,6 @@ The :guilabel:`Basic Settings` tab lets you change with a window manager  and LX
 
 The checkbox for :guilabel:`Ask for confirmation to leave session` gives you a simple yes no dialog to make sure you really want to leave so you do not lose your work uncheck it if you do not want this and find this dialog annoying. The :guilabel:`Lock screen before suspending/hibernating` checkbox locks your screen before suspending or hibernating. To change how long to wait after locking the screen to delay or suspend change the :guilabel:`Suspend/hibernate after lock delay` field. 
 
-The :guilabel:`Default Applications` tab lets you change your default browser and terminal emulator. The drop down for :guilabel:`Terminal Emulator` lets you change the terminal emulator and the drop down for :guilabel:`Web Browser` lets you change your webbrowser.
-
-.. image:: default-app-tabs.png
 
 To change where LXQt saves the default user directories left click on the :guilabel:`User Directories` tab. To view what folder to change the default location for use the :guilabel:`Desktop`, :guilabel:`Downloads`, :guilabel:`Templates`, :guilabel:`Public Share`, :guilabel:`Documents`, :guilabel:`Music`, :guilabel:`Pictures`, or :guilabel:`Videos` field to change that default folder for that. To bring up a dialog to change your folder press the folder button. In the center shows the current path to your documents. To go back to the default folder press the leftward pointing arrow with an x in it.
 

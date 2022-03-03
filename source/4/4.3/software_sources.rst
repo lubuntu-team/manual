@@ -41,6 +41,8 @@ To install proprietary drivers use the :guilabel:`Additional Drivers` tab. Then 
 
 To launch this part of the program directly :menuselection:`Preferences --> Additional Drivers` with the icon that looks like a circuit board with pins on thee bottom.
 
+.. image:: proprietary-drivers.png
+
 Version
 -------
 Lubuntu ships with version 0.99.19 of Software Sources. 

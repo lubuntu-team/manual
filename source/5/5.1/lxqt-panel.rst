@@ -96,6 +96,8 @@ To configure the volume applet right click on the volume applet and select :menu
 
 .. image:: volume-app-pref.png
 
+To change settings of your status notifier press the :guilabel:`...` button in the list of applets or on the status notifier applet left click on :menuselection:`Options`.
+
 To change the settings on your clock right click on the clock and then :menuselection:`Configure World clock`. To change settings on how your clock shows stuff use the :guilabel:`Display format` tab. The :guilabel:`Format` drop down menu allows you to change how the clock shows. To select a short format allows you to have a preselected short format which shows a 12 hour format and am just telling you what time it is. Selecting long from the menu will show you the time with seconds and the time zone. To have a customizable clock message select custom and then checkboxes to show seconds, pad the hours with zeros or to use a 12 hour format. The :guilabel:`Time zone` checkbox will show your your time zone. The :guilabel:`Position` drop down says where to put the time zone on the clock. The :guilabel:`Format` field changes how the time zone is displayed on your clock. To change how the date appears change the :guilabel:`Format` field. 
 
 .. image:: clock-custom.png 

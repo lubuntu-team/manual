@@ -86,7 +86,7 @@ To change options for your task manager or taskbar open the panel configuration 
 
 To change the look of your taskbar in the same window as above the appearance section the :guilabel:`Button style` menu will change whether to show only the icon or the icon only for only the icons. To show window and the text label of the program  :menuselection:`Icon and text`. :menuselection:`Icons only` will work best with a panel aligned to the left or right side of your screen. To have only the text on your taskbar and no icons select :menuselection:`Only text`. To change the maximum width of a button change the :guilabel:`Maximum button width` which is measured in pixels to how wide on maximum a button could be. To change how high a button will be when a panel is vertical change the :guilabel:`Maximum button height` field. To reset your changes to this window press the :guilabel:`Reset` button.
 
-The settings for removable media is able to be opened up is right click the applet :menuselection:`Configure "Removable media"`  from :guilabel:`When a device is connected` you can select and :menuselection:`Show info`, :menuselection:`Popup menu`, or :menuselection:`Do nothing`. If you want to reset the setting for this press the :guilabel:`Reset` button. To change what to do when the eject button is pressed on optical drives change the :guilabel:`When eject button is pressed` menu.
+The settings for removable media is able to be opened up is right click the applet :menuselection:`Configure "Removable media"` from :guilabel:`When a device is connected` you can select and :menuselection:`Show info`, :menuselection:`Popup menu`, or :menuselection:`Do nothing`. If you want to reset the setting for this press the :guilabel:`Reset` button. To change what to do when the eject button is pressed on optical drives change the :guilabel:`When eject button is pressed` menu.
 
 .. image:: removalble-media-settings.png
 
@@ -94,7 +94,7 @@ To configure the volume applet right click on the volume applet and select :menu
 
 .. image:: volume-app-pref.png
 
-To change the settings on your clock right click on the clock and then :menuselection:`Configure World clock`. To change settings on how your clock shows stuff use the :guilabel:`Display format` tab. The :guilabel:`Format` drop down menu allows you to change how the clock shows. To select a short format allows you to have a preselected short format which shows a 12 hour format and am just telling you what time it is. Selecting long from the menu will show you the time with seconds and the time zone. To have a customizable clock message select custom and then checkboxes to show seconds, pad the hours with zeros or to use a 12 hour format. The :guilabel:`Time zone` checkbox will show your your time zone. The :guilabel:`Position` drop down  says where to put the time zone on the clock. The :guilabel:`Format` field changes how the time zone is displayed on your clock. To change how the date appears change the :guilabel:`Format` field.  
+To change the settings on your clock right click on the clock and then :menuselection:`Configure World clock`. To change settings on how your clock shows stuff use the :guilabel:`Display format` tab. The :guilabel:`Format` drop down menu allows you to change how the clock shows. To select a short format allows you to have a preselected short format which shows a 12 hour format and am just telling you what time it is. Selecting long from the menu will show you the time with seconds and the time zone. To have a customizable clock message select custom and then checkboxes to show seconds, pad the hours with zeros or to use a 12 hour format. The :guilabel:`Time zone` checkbox will show your your time zone. The :guilabel:`Position` drop down says where to put the time zone on the clock. The :guilabel:`Format` field changes how the time zone is displayed on your clock. To change how the date appears change the :guilabel:`Format` field. 
 
 .. image:: clock-custom.png 
 
@@ -123,7 +123,7 @@ The :guilabel:`Sensors` tab provides settings for each individual sensor on your
 
 .. image:: sensors-applet.png
 
-To add a spacer to your panel add the spacer widget. It creates a blank space on your panel which can separate different items. To change how wide your spacer is change the :guilabel:`Space Width` field to the number of pixels you want the spacer to be wide. The setting for :guilabel:`Space type` selects :menuselection:`lined`,  :menuselection:`dotted`, or :menuselection:`invisible` for changing the spacers appearance.
+To add a spacer to your panel add the spacer widget. It creates a blank space on your panel which can separate different items. To change how wide your spacer is change the :guilabel:`Space Width` field to the number of pixels you want the spacer to be wide. The setting for :guilabel:`Space type` selects :menuselection:`lined`, :menuselection:`dotted`, or :menuselection:`invisible` for changing the spacers appearance.
 
 .. image:: panel-spacer.png
 

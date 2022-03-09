@@ -2,7 +2,7 @@
 Appendix F Hotkeys shortcuts
 *****************************
 
-Hotkeys, also known as keyboard shortcuts, allow users to easily navigate, start applications, and change settings like resize windows. These are useful as they create a smooth and time efficient user experience. It would benefit users to take a few minutes to learn some of these shortcuts.
+Hotkeys, also known as keyboard shortcuts, allow users to easily navigate, start applications, and change settings like resizing windows. These are useful as they create a smooth and time efficient user experience. It would benefit users to take a few minutes to learn some of these shortcuts.
 
 Lubuntu has manages the keyboard shortcuts using two layers. Namely, LXQt Global Keys and Openbox.
 

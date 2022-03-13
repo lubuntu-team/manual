@@ -22,7 +22,7 @@ You will be taken to the Lubuntu installer Welcome screen. You can change the in
 Selecting Your location
 -----------------------
 
-The next screen will show you a map of the world where you can choose your location. Your location will be used to set your time zone and download server. To see what region you have chosen use the :guilabel:`Region` drop down menu. The :guilabel:`Zone` field should have a major city with the same time as you. Towards the bottom you can to change your system language by pressing the upper :guilabel:`Change` button. To change the how numbers and dates appear on your system press the lower :guilabel:`Change` button. To move to the next step once again press the :guilabel:`Next` button. To move back to selecting your language to change your language press the :guilabel:`Back` button.
+The next screen will show you a map of the world where you can choose your location. Your location will be used to set your time zone and download server. To see what region you have chosen use the :guilabel:`Region` drop down menu. The :guilabel:`Zone` field should have a major city with the same time as you. If you want to get to the your time zone manually faster you can type in the name of a big city in the same time zone. Towards the bottom you can to change your system language by pressing the upper :guilabel:`Change` button. To change the how numbers and dates appear on your system press the lower :guilabel:`Change` button. To move to the next step once again press the :guilabel:`Next` button. To move back to selecting your language to change your language press the :guilabel:`Back` button.
 
 .. image:: location.png
 

@@ -1,7 +1,7 @@
 Chapter 2.4 Accessories
 =======================
 
-This chapter documents accessories on your system and the one game 2048-qt. 
+This chapter documents accessories on your system.
 
 .. toctree::
   :maxdepth: 2

@@ -1,11 +1,11 @@
 Chapter 2.4.1 LXQt File Archiver
-================================ 
+================================
 
 LXQt File Archiver is the default program for dealing with archives like tar or zip files in Lubuntu.
 
 Usage
 -----
-To open an archive file :menuselection:`File --> Open` or press :kbd:`Control+O`. Once you have an archive opened you should see many lists of files under :guilabel:`File name`. To open a file double click on that file to open it or right click :menuselection:`View Selected Items`. To switch to a different folder in an archive double click the on the folder under the :guilabel:`File name`. To extract all of the file to copy them into a folder on your filesystem :menuselection:`File --> Extract` or press the :guilabel:`Extract` button which looks like a box with a with an upward pointing arrow. Then a dialog will open to show you where to save the extracted files navigate to thee desired path and press :guilabel:`Open`. To extract just one file right click on the file and select :menuselection:`Extract`. To Delete an unwanted file from an archive right click on it and select :menuselection:`Delete` or select it and press :kbd:`Delete`. To view properties of an archive press :kbd:`Alt+ Enter` or :menuselection:`File --> Properties`. To stop lxqt-archiver from doing something press :kbd:`Escape`, press the octagonal or stop sign shaped button, or :menuselection:`View --> Stop`. 
+To open an archive file :menuselection:`File --> Open` or press :kbd:`Control+O`. Once you have an archive opened you should see many lists of files under :guilabel:`File name`. To open a file double click on that file to open it or right click :menuselection:`View Selected Items`. To switch to a different folder in an archive double click the on the folder under the :guilabel:`File name`. To extract all of the file to copy them into a folder on your filesystem :menuselection:`File --> Extract` or press the :guilabel:`Extract` button which looks like a box with a with an upward pointing arrow. Then a dialog will open to show you where to save the extracted files navigate to thee desired path and press :guilabel:`Open`. To extract just one file right click on the file and select :menuselection:`Extract`. To Delete an unwanted file from an archive right click on it and select :menuselection:`Delete` or select it and press :kbd:`Delete`. To view properties of an archive press :kbd:`Alt+ Enter` or :menuselection:`File --> Properties`. To stop lxqt-archiver from doing something press :kbd:`Escape`, press the octagonal or stop sign shaped button, or :menuselection:`View --> Stop`.
 
 .. image:: lxqt-archiver-open.png
 

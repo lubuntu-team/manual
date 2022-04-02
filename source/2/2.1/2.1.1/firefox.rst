@@ -90,7 +90,7 @@ To set a password to access your logins on Firefox check the :guilabel:`Use a Pr
 
 Version
 ----------
-Lubuntu currently ships with the latest version of Firefox, Firefox 97.
+Lubuntu currently ships with the latest version of Firefox, Firefox 98.
 
 
 How to Launch

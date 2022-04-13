@@ -70,6 +70,11 @@ The Lubuntu installer provides some useful information while the installer is ru
 
 .. image:: installer_screen.png
 
+Rebooting into the finished install
+-----------------------------------
+
+After the install is finished you will need to reboot your system into your new install. If you want to continue using the live system but end the installer uncheck the :guilabel:`Reboot now` checkbox.
+
 Manual partitioning
 -----------------------
 .. Warning::

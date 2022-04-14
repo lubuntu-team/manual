@@ -5,7 +5,7 @@ LibreOffice is the default open source full office suite for Lubuntu. In the men
 
 Usage
 ------
-To open a recently used file in LibreOffice they are shown in the main part of the window by pressing the :guilabel:`Recent Documents` button. To open a program or to create a file from a file dialog are along the left hand column under the :guilabel:`Create` header. To open a particular file press the :guilabel:`Open File` button. To start a new document from a template press the :guilabel:`Templates` button and left click on the template you want. To choose a subcategory of tmeplates click the downward pointing arrow next to :guilabel:`Templates`.
+To open a recently used file in LibreOffice they are shown in the main part of the window by pressing the :guilabel:`Recent Documents` button. To clear your recent documents left click the arrow next to :guilabel:`Recent Documents` and select :menuselection:`Clear Recent Documents`. If you do not want a particular recent document shown in the center press the :guilabel:`x` button in the top right corner of that file. To open a program or to create a file from a file dialog are along the left hand column under the :guilabel:`Create` header. To open a particular file press the :guilabel:`Open File` button. To start a new document from a template press the :guilabel:`Templates` button and left click on the template you want. To choose a subcategory of tmeplates click the downward pointing arrow next to :guilabel:`Templates`.
 
 LibreOffice all of the different components have a window menu that lets you switch between a document in LibreOffice Writer and LibreOffice Calc. To do this go to :menuselection:`Window` and select the window that you want to switch to.
 

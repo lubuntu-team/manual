@@ -5,7 +5,7 @@ This is a guide through the installation process of Lubuntu.
 Starting the installer
 ----------------------
 
-At the start of the boot process a grub splash screen will be shown. To install select :menuselection:`Lubuntu`. If Lubuntu has a problem with your graphics card like newer nvidia cards select :menuselection:`Lubuntu (safe graphics)`. To test your ram select :menuselection:`Test memory`.
+At the start of the boot process a grub splash screen will be shown. To install select :menuselection:`Try or Install Lubuntu`. If Lubuntu has a problem with your graphics card like newer nvidia cards select :menuselection:`Lubuntu (safe graphics)`. To test your ram select :menuselection:`Test memory`.
 
 .. image::  grubsplash.png
 

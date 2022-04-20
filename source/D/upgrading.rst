@@ -8,11 +8,11 @@ This way of upgrading involves the command line and is also useful for server up
 
 .. note:: 
 
-  Upgrading will keep all of your files in your home folder and configuration files intact however this will mean some changes to default keybindings for example will still be the same as when you installed but will keep all of your customizations different from reinstalling Lubnutu.
+  Upgrading will keep all of your files in your home folder and configuration files intact however this will mean some changes to default keybindings for example will still be the same as when you installed but will keep all of your customizations different from reinstalling Lubuntu.
 
 Upgrading with command line
 ---------------------------
-The first step will be to ensure your system is up to date. This can be done by entering the following command into the terminal. If prompted, enter your password. Another way updating is running the graphical updater from :menuselection:`Prefrneces --> Apply Full Upgrade`.
+The first step will be to ensure your system is up to date. This can be done by entering the following command into the terminal. If prompted, enter your password. Another way updating is running the graphical updater from :menuselection:`Preferences --> Apply Full Upgrade`.
 
 .. code::
 
@@ -36,7 +36,7 @@ You may be prompted "No new release found", if so follow this step, else skip it
 
 .. image:: newdistributioin-release-notification.png
 
-While running the command line upgrade you will see what a chance to cancel the installition Continue or see Details of what will change. To see details of what will change press :kbd:`d`. To get back to the choice  of whether to upgrade from viewing the details of changes press :kbd:`q`. To cancel the upgrade press :kbd:`N`. To actually do the upgrade press :kbd:`y`. After pressing y the command line upgrader will download all the new software versions and then install new versions. Some things like a screensaver may neeed to be prompted to be restarted after you upgrade the package.
+While running the command line upgrade you will see what a chance to cancel the installation Continue or see Details of what will change. To see details of what will change press :kbd:`d`. To get back to the choice  of whether to upgrade from viewing the details of changes press :kbd:`q`. To cancel the upgrade press :kbd:`N`. To actually do the upgrade press :kbd:`y`. After pressing y the command line upgrader will download all the new software versions and then install new versions. Some things like a screensaver may need to be prompted to be restarted after you upgrade the package.
 
 .. image:: do-release-upgrade-continue.png
 

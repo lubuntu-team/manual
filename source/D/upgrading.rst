@@ -36,4 +36,6 @@ You may be prompted "No new release found", if so follow this step, else skip it
 
 While running the command line upgrade you will see what a chance to cancel the installition Continue or see Details of what will change. To see details of what will change press :kbd:`d`. To cancel the upgrade press :kbd:`N`. To actually do the upgrade press :kbd:`y`.
 
+.. image:: do-release-upgrade-continue.png
+
 After the installation, reboot into the newly upgraded system and log in and enjoy your upgraded release of Lubuntu. 

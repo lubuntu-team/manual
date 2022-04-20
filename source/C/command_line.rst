@@ -1,5 +1,5 @@
 ************************
-Appendix C Command line
+Appendix C Command Line
 ************************
 
 The command line or CLI is text interface to your computer and an alternative to graphical user interfaces like windows. It typically involves typing text commands into a terminal to perform some operation. Although not necessary to learn, it can be helpful. The terminal which can be launched from :kbd:`Control + Alt + T` is a command line running in a window. 

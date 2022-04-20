@@ -34,6 +34,8 @@ The next thing you want to do is do the release upgrade command. do-release-upgr
 
 You may be prompted "No new release found", if so follow this step, else skip it. Go into software sources by :menuselection:`Preferences --> Software Sources` and on the :guilabel:`Updates` tab change :guilabel:`Show new distribution releases` and select :menuselection:`Normal Releases`. If you want to stay on the Long Term Support release  from the :guilabel:`Updates` tab in :guilabel:`Show new distribution releases` select :guilabel:`Long term support releases only`.
 
+.. image:: newdistributioin-release-notification.png
+
 While running the command line upgrade you will see what a chance to cancel the installition Continue or see Details of what will change. To see details of what will change press :kbd:`d`. To get back to the choice  of whether to upgrade from viewing the details of changes press :kbd:`q`. To cancel the upgrade press :kbd:`N`. To actually do the upgrade press :kbd:`y`. After pressing y the command line upgrader will download all the new software versions and then install new versions. Some things like a screensaver may neeed to be prompted to be restarted after you upgrade the package.
 
 .. image:: do-release-upgrade-continue.png

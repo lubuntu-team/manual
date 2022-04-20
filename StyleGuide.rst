@@ -19,6 +19,8 @@ Style Guide
 
 - Order sections Summary --> Usage --> Screenshot (if one or two) --> Version --> How To Launch --> Customizing (If necessary) 
 
+- Capitlize the start of files and the titles.
+
 Sections
 --------
 

@@ -8,7 +8,7 @@ This way of upgrading involves the command line and is also useful for server up
 
 .. note:: 
 
-  Upgrading will keep all of your files in your home folder and configuration files intact however this will mean some changes to default keybindings for example will still be the same as when you installed but will keep all of your customizations different from reinstalling from an iso again.
+  Upgrading will keep all of your files in your home folder and configuration files intact however this will mean some changes to default keybindings for example will still be the same as when you installed but will keep all of your customizations different from reinstalling Lubnutu.
 
 Upgrading with command line
 ---------------------------

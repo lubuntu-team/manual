@@ -12,7 +12,7 @@ This way of upgrading involves the command line and is also useful for server up
 
 Upgrading with command line
 ---------------------------
-The first step will be to ensure your system is up to date. This can be done by entering the following command into the terminal. If prompted, enter your password.
+The first step will be to ensure your system is up to date. This can be done by entering the following command into the terminal. If prompted, enter your password. Another way updating is running the graphical updater from :menuselection:`Prefrneces --> Apply Full Upgrade`.
 
 .. code::
 

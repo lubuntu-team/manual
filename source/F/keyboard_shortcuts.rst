@@ -1,5 +1,5 @@
 *****************************
-Appendix F Hotkeys shortcuts
+Appendix F Hotkeys Shortcuts
 *****************************
 
 Hotkeys, also known as keyboard shortcuts, allow users to easily navigate, start applications, and change settings like resizing windows. These are useful as they create a smooth and time efficient user experience. It would benefit users to take a few minutes to learn some of these shortcuts.

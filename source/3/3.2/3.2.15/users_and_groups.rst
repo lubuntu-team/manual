@@ -17,11 +17,11 @@ To view an info on a particular user press the :guilabel:`Properties` or double 
 
 The tab :guilabel:`Groups` under properties has checkboxes for each group you are in or which checkbox or each group you are not in. To add or remove a user from a group check or uncheck the checkbox for the group you want to add or remove a user from. To view what numeric group id each group has is in the :guilabel:`Group ID` field.
 
-.. image::  users-groups-group-prop.png
+.. image:: users-groups-group-prop.png
 
 The :guilabel:`Advanced` tab in the properties menu has settings with a login shells and where your home directory is. To change which shell you use when you login via ssh or directly to a console change the :guilabel:`Login Shell` drop down menu. To change where your home directory is use the :guilabel:`Home directory` field for your folder.
 
-.. image::  user-group-prop-advanced.png
+.. image:: user-group-prop-advanced.png
 
 The :guilabel:`Groups` tabs lets you see info on groups and change properties. The :guilabel:`Name` field shows the name of the group. The :guilabel:`Group ID` shows the numeric group id of the group in the name field. The :guilabel:`Members` show the members of the current group. 
 

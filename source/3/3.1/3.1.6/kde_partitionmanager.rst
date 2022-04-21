@@ -1,4 +1,4 @@
-Chapter 3.1.7 KDE Partition Manager
+Chapter 3.1.6 KDE Partition Manager
 ===================================
 
 KDE partition manager creates partitions partitions, deletes partitions, and checks the health of your hard drives and solid state drives.
@@ -37,8 +37,8 @@ To view information of a partition on your drive double click on it. On the top 
 
 .. image:: kde-partition-partionstats.png
 
-If you have multiple drives on your system :menuselection:`Device --> Select Current Device --> Desired Disk`. To view information on the current drive such as what type of partition table or Logical size and smart status :menuselection:`Device --> Properties`. If you do not really see all your devices or current status press :kbd:`F5` or :menuselection:`Tools --> Refresh Devices`. To show which filesystems and what operations can be done with KDE Partition Manager :menuselection:`Tools --> File System Support`.
-
+If you have multiple drives on your system :menuselection:`Device --> Select Current Device --> Desired Disk`. To view information on the current drive such as what type of partition table or Logical size and smart status :menuselection:`Device --> Properties`. If you do not really see all your devices or current status press :kbd:`F5` or :menuselection:`Tools --> Refresh Devices`. To show which filesystems and what operations can be done with KDE Partition Manager :menuselection:`Tools --> File System Support`. The checkmark means the operation is supported and the red ! shows that the function is not supported. To see what program is used for this file system operation see the :guilabel:`Support Tools` column.
+ 
 If you want to quit KDE Partition Manager press :kbd:`Control+Q`.
 
 Screenshot
@@ -47,7 +47,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 21.08.1 of KDE Partition Manager.
+Lubuntu ships with version 21.12.2 of KDE Partition Manager.
 
 How to launch
 -------------
@@ -61,7 +61,7 @@ from the command line. The icon for KDE Partition Manager is a series of blue an
 
 Customizing
 -----------
-To toggle showing a statusbar that shows pending operations check/uncheck the :menuselection:`Settings --> Show Statusbar` checkbox in the menu. To toggle showing your devices side pane check/uncheck the :menuselection:`Settings --> Panels Shown --> Devices`. To toggle showing information about the currently selected partition check/uncheck the :menuselection:`Settings --> Panels Shown --> Information` checkbox in the menu. To toggle showing pending operations check/uncheck the :guilabel:`Settings --> Panel Shown --> Pending Operations` checkbox. To toggle showing log output of check/uncheck the :menuselection:`Settings --> Panels Show --> Log Output` checkbox. To close a panel press the :guilabel:`x` button.
+To toggle showing a statusbar that shows pending operations check/uncheck the :menuselection:`Settings --> Show Statusbar` checkbox in the menu. To toggle showing your devices side pane check/uncheck the :menuselection:`Settings --> Panels Shown --> Devices`. To toggle showing information about the currently selected partition check/uncheck the :menuselection:`Settings --> Panels Shown --> Information` checkbox in the menu. To toggle showing pending operations check/uncheck the :guilabel:`Settings --> Panel Shown --> Pending Operations` checkbox. To toggle showing log output of check/uncheck the :menuselection:`Settings --> Panels Show --> Log Output` checkbox. To close a panel press the :guilabel:`x` button on that panel.
 
 To customize settings for KDE Partition Manager press :kbd:`Control+Shift+,` or :menuselection:`Settings --> Configure KDE Partition Manager`. The :guilabel:`General` tab has settings for aligning partitions and defaults for partitions. To toggle aligning partitions with sectors on a disk check/uncheck the :guilabel:`Align partitions by default` checkbox. To change where your sectors on your disc align to use the :guilabel:`Sector alignment` field. To change which messages to log you can change with :guilabel:`Hide messages below`  to hide lower level messages to be logged. To choose your default file system use the :guilabel:`Default file system` drop down menu. To change whether to overwrite shredded data with zeros or random data use the buttons to the right of :guilabel:`Overwrite with` group of buttons.
 

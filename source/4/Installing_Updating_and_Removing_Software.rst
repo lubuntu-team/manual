@@ -2,7 +2,7 @@
 Chapter 4 Installing, Updating, and Removing Software
 ********************************************************
 
-This chapter will teach you how to use GUI tools to install, update, and remove software. It also manages where your system downloads sources. 
+This chapter will teach you how to use GUI tools to install, update, and remove software. It also manages where your system downloads packages.
 
 .. toctree::
   :maxdepth: 2

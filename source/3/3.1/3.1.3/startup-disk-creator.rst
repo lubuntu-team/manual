@@ -1,4 +1,4 @@
-Chapter 3.1.4 Startup Disk Creator
+Chapter 3.1.3 Startup Disk Creator
 ==================================
 
 Startup Disk Creator is the default graphical utility for creating bootable USB media on Lubuntu.
@@ -10,11 +10,11 @@ To see what USB devices you can make into startup disks are listed under the :gu
 .. warning:: 
   The process of creating a startup disk to boot off deletes all data on the disk but only shows USB devices if you hard USB hard drives or flash drives with data you want to keep it is recommended to unplug these devices so there is no way of accidentally deleting data you care about.
 
-.. image::   startup-iso-open.png
+.. image:: startup-iso-open.png
 
 If you want to find an iso image if it is not shown press the :guilabel:`Other` button and a file dialog to open the location will show up. To open the iso left click on the iso and press the :guilabel:`Open` button.
 
-.. image::  statup-disk-creator.png
+.. image:: statup-disk-creator.png
 
 To see what startup isos have been added are in columns for the top of the startup disk. To see the image or drive path to the file look at the :guilabel:`CD-Drive/Image` column. To see what version of an operating system view the :guilabel:`OS Version` column. To see how big your image size actually is view the :guilabel:`Size` column. 
 
@@ -24,7 +24,7 @@ To quit Startup Disk Creator press the :kbd:`Escape` key or press the :guilabel:
 
 Version
 -------
-Lubuntu ships version 0.3.10 of Startup Disk Creator.
+Lubuntu ships version 0.3.13 of Startup Disk Creator.
 
 How to Launch
 -------------

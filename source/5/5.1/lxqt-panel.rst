@@ -15,20 +15,22 @@ The taskbar lists the windows you currently have open. To bring one of these win
 
 .. image:: multiple_tasks.png
 
-On a single window  on the taskbar to move it to a different desktop right click :menuselection:`To Desktop` to move the window to the desired desktop. To move a window to your current virtual desktop right click on the window on your taskbar and select :menuselection:`To Current Desktop`. Right clicking and selecting :guilabel:`Move` lets you drag the application around to the desired point on the desktop. The resize option from the same window lets you resize the window you right clicked on. Right click and select :menuselection:`Maximize` on a window to maximize it. Right clicking on window :menuselection:`Restore` will return a window back to its original size. To minimize a different window from the task bar you can minimize by  right clicking on the window on the taskbar and selecting :menuselection:`Minimize`. Right clicking :menuselection:`Roll up` on a window will make the window only your titlebar.
+On a single window  on the taskbar to move it to a different desktop right click :menuselection:`To Desktop` to move the window to the desired desktop. To move a window to your current virtual desktop right click on the window on your taskbar and select :menuselection:`To Current Desktop`. If you have multiple monitors you can right click and select :menuselection:`Move to next monitor` to move a window to the next monitor. To move a window back to a previous monitor right click on the taskbar and select :menuselection:`Move to previous monitor`. Right clicking and selecting :guilabel:`Move` lets you drag the application around to the desired point on the desktop. The resize option from the same window lets you resize the window you right clicked on. Right click and select :menuselection:`Maximize` on a window to maximize it. Right clicking on window :menuselection:`Restore` will return a window back to its original size. To minimize a different window from the task bar you can minimize by  right clicking on the window on the taskbar and selecting :menuselection:`Minimize`. Right clicking :menuselection:`Roll up` on a window will make the window only your titlebar.
 
-Right clicking :menuselection:`Layer` will allow you to have move a window :menuselection:`Always on top`, :menuselection:`Normal`, or :menuselection:`Always on bottom`. Finally to close a window with right click on the taskbar and select :menuselection:`Close` will close the window. If you middle click on an item in the taskbar you will close the window. If you try to close a program that is not responding you will be asked if you want to end the task. To move items around on the taskbar into a particular order left click on them and drag them to the desired position.
+Right clicking :menuselection:`Layer` will allow you to have move a window :menuselection:`Always on top`, :menuselection:`Normal`, or :menuselection:`Always on bottom`. Finally to close a window with right click on the taskbar and select :menuselection:`Close` will close the window. If you middle click on an item in the taskbar you will close the window. If you try to close a program that is not responding you will be asked if you want to end the task. To move items around on the taskbar into a particular order left click and drag them to the desired position.
 
 .. image:: menu-right-click.png
 
-The removable media applet will allow you to manage your remove flash drives and external hard drives and to unmount them without data loss on your system. To unmount such devices left click on the panel that looks like a disk and then click the eject button that is an upward pointing arrow. To open your removable media click on the removable media applet left click on the removable media to open the external media in your file manager. To view your docked notifications away from keyboard press the button that looks like an exclamation on a chat bubble. To clear these notifications left click the docked notifications and select :menuselection:`Clear All`.
+The removable media applet will allow you to manage your remove flash drives and external hard drives and to unmount them without data loss on your system. To unmount such devices left click on the panel that looks like a disk and then click the eject button that is an upward pointing arrow. To open your removable media click on the removable media applet left click on the removable media to open the external media in your file manager. 
 
 .. image:: system_tray.png
 
-In the system tray there there are multiple widgets. To see more on how to use nm-tray which manages network in the tray see chapter 3.1.5. Also included is Qlipper which to see how to use view how to view chapter 2.4.5. To view your old desktop notifications click the gray rectangle with a :guilabel:`!` on it. Other Programs you install can also place a tray icon here as well. With the volume applet you can change the volume by using the mouse-wheel with the mouse over the speaker icon or left click the speaker icon and drag the volume up and down or press :kbd:`Up arrow` or :kbd:`Down arrow`. To mute the volume with the button at the bottom of the volume meter or middle click on the volume applet. To close the volume applet press the :kbd:`Escape` key.
+In the system tray there there are multiple widgets. To see more on how to use nm-tray which manages network in the tray see chapter 3.1.5. Also included is Qlipper which to see how to use view how to view chapter 2.4.5. Other Programs you install can also place a tray icon here as well. With the volume applet you can change the volume by using the mouse-wheel with the mouse over the speaker icon or left click the speaker icon and drag the volume up and down or press :kbd:`Up arrow` or :kbd:`Down arrow`. To mute the volume with the button at the bottom of the volume meter or middle click on the volume applet. To see what the current volume is you can hover the mouse over the volume applet. To close the volume applet press the :kbd:`Escape` key.
 
 .. image:: volume-widget.png
 
+Next over to the right is the status notifier applet with a blue exclamation point over a white rectangle. To view notifications you may have missed while away from the keyboard left click on this applet. To bring up a particular notification left click on that notification from the list and it will pop up like notifications on your screen. To clear all notifications click the button that says :guilabel:`Clear All` for notifications.
+ 
 To the far right is a clock, you can left click the clock to bring up a pop up calendar window. To go to the next month on the calendar press the rightward pointing arrow. To go the previous month on the calendar press the leftward pointing arrow. Another way to change months on the calendar is to use the mousewheel. To change the month on a calendar to list all months in the year left click on the month and then select the month you want from your menu. To change the year on your calendar left click on the year in the calendar and then use :kbd:`up arrow` or :kbd:`down arrow` or the mouse wheel to select the year. Too see what week of the year it is read the number on the far left of the calendar.
 
 .. image:: calendar-widget.png
@@ -55,7 +57,7 @@ The checkbox for :guilabel:`Override icon theme` lets you choose a non system de
 
 The :guilabel:`Widgets` lets you change the widgets or individual items on the panel and their configuration. You can also get to this directly by right clicking on the panel and select :menuselection:`Manage Widgets`. To move an applet down on the order of presentation press the down arrow button while the up arrow button moves the applet up on the order of presentation. To add a new widget click on the widget on the panel configuration screen and press the :guilabel:`+` button and select the widget you want to add some of which are not on the panel by default. To remove an applet you do not want you can press the :guilabel:`-` button. The :guilabel:`dark circle with three blue dots` button has the settings for certain but not all of the applets in the panel for example the Application menu and Task manager are customizable but Quick launch and Show desktop do not.
 
-.. image::  widget-add.png
+.. image:: widget-add.png
 
 Shipped applets not enabled by default:
  - Backlight
@@ -86,7 +88,7 @@ To change options for your task manager or taskbar open the panel configuration 
 
 To change the look of your taskbar in the same window as above the appearance section the :guilabel:`Button style` menu will change whether to show only the icon or the icon only for only the icons. To show window and the text label of the program  :menuselection:`Icon and text`. :menuselection:`Icons only` will work best with a panel aligned to the left or right side of your screen. To have only the text on your taskbar and no icons select :menuselection:`Only text`. To change the maximum width of a button change the :guilabel:`Maximum button width` which is measured in pixels to how wide on maximum a button could be. To change how high a button will be when a panel is vertical change the :guilabel:`Maximum button height` field. To reset your changes to this window press the :guilabel:`Reset` button.
 
-The settings for removable media is able to be opened up is right click the applet :menuselection:`Configure "Removable media"`  from :guilabel:`When a device is connected` you can select and :menuselection:`Show info`, :menuselection:`Popup menu`, or :menuselection:`Do nothing`. If you want to reset the setting for this press the :guilabel:`Reset` button. To change what to do when the eject button is pressed on optical drives change the :guilabel:`When eject button is pressed` menu.
+The settings for removable media is able to be opened up is right click the applet :menuselection:`Configure "Removable media"` from :guilabel:`When a device is connected` you can select and :menuselection:`Show info`, :menuselection:`Popup menu`, or :menuselection:`Do nothing`. If you want to reset the setting for this press the :guilabel:`Reset` button. To change what to do when the eject button is pressed on optical drives change the :guilabel:`When eject button is pressed` menu.
 
 .. image:: removalble-media-settings.png
 
@@ -94,36 +96,40 @@ To configure the volume applet right click on the volume applet and select :menu
 
 .. image:: volume-app-pref.png
 
-To change the settings on your clock right click on the clock and then :menuselection:`Configure World clock`. To change settings on how your clock shows stuff use the :guilabel:`Display format` tab. The :guilabel:`Format` drop down menu allows you to change how the clock shows. To select a short format allows you to have a preselected short format which shows a 12 hour format and am just telling you what time it is. Selecting long from the menu will show you the time with seconds and the time zone. To have a customizable clock message select custom and then checkboxes to show seconds, pad the hours with zeros or to use a 12 hour format. The :guilabel:`Time zone` checkbox will show your your time zone. The :guilabel:`Position` drop down  says where to put the time zone on the clock. The :guilabel:`Format` field changes how the time zone is displayed on your clock. To change how the date appears change the :guilabel:`Format` field.  
+To change settings of your status notifier press the :guilabel:`...` button in the list of applets or on the status notifier applet left click on :menuselection:`Options`. To change how long to have something visible you will autohide will have change the :guilabel:`Attention period`. To hide or authide notifications from a particular application is to change the app settings under the:guilabel:`Visibility` column.
 
-.. image::  clock-custom.png 
+.. image::  status-notifier-pref.png
+
+To change the settings on your clock right click on the clock and then :menuselection:`Configure World clock`. To change settings on how your clock shows stuff use the :guilabel:`Display format` tab. The :guilabel:`Format` drop down menu allows you to change how the clock shows. To select a short format allows you to have a preselected short format which shows a 12 hour format and am just telling you what time it is. Selecting long from the menu will show you the time with seconds and the time zone. To have a customizable clock message select custom and then checkboxes to show seconds, pad the hours with zeros or to use a 12 hour format. The :guilabel:`Time zone` checkbox will show your your time zone. The :guilabel:`Position` drop down says where to put the time zone on the clock. The :guilabel:`Format` field changes how the time zone is displayed on your clock. To change how the date appears change the :guilabel:`Format` field. 
+
+.. image:: clock-custom.png 
 
 To show the date on the clock check the :guilabel:`Date` checkbox. To change where the date appears change the :guilabel:`Position` drop down menu.To further customize your panel select :menuselection:`Custom` from the :guilabel:`Format` drop down. To show the year press the :guilabel:`Show year` checkbox. To show what day of the week it is check the :guilabel:`Show day of week` checkbox. To make the day two digits check the :guilabel:`Pad day with zero` checkbox. To not abbreviate the months and days of week check the :guilabel:`Long month and day of week names` checkbox. To reset your changes to the clock press the :guilabel:`Reset` button.
 
-To add a second panel right click on the panel and :menuselection:`Add New Panel` and a new panel will be created with the dialog to customize your second panel. To remove a panel right click on the panel and select :menuselection:`Remove Panel` and you will be asked if you really want to do this as it can't be undone. To then make your new panel useful you will need to add widgets which you will need to see the above section.
+To add two or more panels right click on the panel and :menuselection:`Add New Panel` and a new panel will be created with the dialog to customize your second panel. To remove a panel right click on the panel and select :menuselection:`Remove Panel` and you will be asked if you really want to do this as it can't be undone. To then make your new panel useful you will need to add widgets which you will need to see the above section.
 
 Non-Default widgets
 -------------------
 
 To have a bar that shows CPU Load shows a bar graph with your CPU usage. To bring up settings for your CPU usage is right click on the CPU bar :menuselection:`Configure CPU Monitor`. The :guilabel:`Show text` checkbox shows a number for CPU usage. The field for :guilabel:`Update interval` is how often to update your CPU usage. The :guilabel:`Bar orientation` says what side to start the bar graph. The :guilabel:`Bar width` is how many pixels wide to make the bar graph. If you want to reset your changes press the :guilabel:`Reset` button.
 
-.. image::  CPU-load-settings.png
+.. image:: CPU-load-settings.png
 
 The Color picker is shows what color something is on your screen usually useful for web developers. To get a color off the screen press the color dropper button and your mouse will turn into crosshair and then left click on what you want to take the color. Then a numeric field to the right of the dropper will appear with the color in a numeric field to the right. 
 
-.. image::   spacer-color-picker.png
+.. image:: spacer-color-picker.png
 
-To use your sensors widgets which you would have to add manually as shown above. A sensor bar will appear with as many sensors as on your panel. To view the temp as a number mouse over the sensor bar to see what your temperature is in a number. 
+To use your sensors widgets which you would have to add manually as shown above. A sensor bar will appear with as many sensors as on your panel. To view the temp as a number mouse over the sensor bar to see what your temperature is in a number in the :guilabel:`Cur` field. Also shown on mouseover is the :guilabel:`Crit` field shows the temperature the sensor should not read above without overheating.
 
-To customize the sensors right click on the sensors applet :menuselection:`Configure "Sensors"`. The :guilabel:`Update interval(seconds)` field lets you choose how often in seconds to update the sensors. The :guilabel:`Temperature bar width` field shows how wide to make the bar for your sensors. The :guilabel:`Temperature scale` field lets you select :guilabel:`Celsius` or :guilabel:`Fahrenheit` for your sensors. The checkbox :guilabel:`Warning about high temperature` puts a warning if your temperature gets too high. The :guilabel:`Crit` field shows the temperature your CPU should not reach. If you want to reset your settings press the :guilabel:`Reset` button. 
+To customize the sensors right click on the sensors applet :menuselection:`Configure "Sensors"`. The :guilabel:`Update interval(seconds)` field lets you choose how often in seconds to update the sensors. The :guilabel:`Temperature bar width` field shows how wide to make the bar for your sensors. The :guilabel:`Temperature scale` field lets you select :guilabel:`Celsius` or :guilabel:`Fahrenheit` for your sensors. The checkbox :guilabel:`Warning about high temperature` puts a warning if your temperature gets too high. If you want to reset your settings press the :guilabel:`Reset` button. 
 
 .. image:: sensors-config.png
 
 The :guilabel:`Sensors` tab provides settings for each individual sensor on your processor. To enable/disable each sensor press to the :guilabel:`Enabled` checkbox for each sensor. The :guilabel:`Label` shows a label for each sensor. The :guilabel:`Color` column shows the color for the bar to appear in the panel and you can bring up a dialog to change color by left clicking on the button. To switch to a different chip to set the sensors for change the :guilabel:`Detected chips` menu. 
 
-.. image::   sensors-applet.png
+.. image:: sensors-applet.png
 
-To add a spacer to your panel add the spacer widget. It creates a blank space on your panel which can separate different items. To change how wide your spacer is change the :guilabel:`Space Width` field to the number of pixels you want the spacer to be wide. The setting for :guilabel:`Space type` selects :menuselection:`lined`,  :menuselection:`dotted`, or :menuselection:`invisible` for changing the spacers appearance.
+To add a spacer to your panel add the spacer widget. It creates a blank space on your panel which can separate different items. To change how wide your spacer is change the :guilabel:`Space Width` field to the number of pixels you want the spacer to be wide. The setting for :guilabel:`Space type` selects :menuselection:`lined`, :menuselection:`dotted`, or :menuselection:`invisible` for changing the spacers appearance.
 
 .. image:: panel-spacer.png
 

@@ -1,4 +1,4 @@
-Chapter 3.1.9 SDDM configuration
+Chapter 3.1.8 SDDM configuration
 ================================
 
 SDDM is the default display manager that shows up when you first log in to Lubuntu or logout or choose to another session. There is no graphical application to do this currently. 

@@ -1,8 +1,8 @@
 *****************************
-Appendix F Hotkeys shortcuts
+Appendix F Hotkeys Shortcuts
 *****************************
 
-Hotkeys, also known as keyboard shortcuts, allow users to easily navigate, start applications, and change settings like resize windows. These are useful as they create a smooth and time efficient user experience. It would benefit users to take a few minutes to learn some of these shortcuts.
+Hotkeys, also known as keyboard shortcuts, allow users to easily navigate, start applications, and change settings like resizing windows. These are useful as they create a smooth and time efficient user experience. It would benefit users to take a few minutes to learn some of these shortcuts.
 
 Lubuntu has manages the keyboard shortcuts using two layers. Namely, LXQt Global Keys and Openbox.
 
@@ -15,7 +15,7 @@ Openbox keyboard shortcuts
 -------------------------------
 Openbox keyboard shortcuts is the second layer managing keyboard shortcuts. It is preferred for windows management like resizing. To change these settings see this link on the `openbox wiki bindings <http://openbox.org/wiki/Help:Bindings>`_
 
-.. note::   Global-keys will take preference over openbox bindings. If a key is used in Global-keys, it will not work in Openbox keyboard shortcuts. For example if the W(indows) key opens the LXQT application menu (equivilant of the windows start menu) in Global-keys, Openbox commands like window resizing (W + arrow keys) will not work correctly. Keep this in mind when using and editing keyboard shortcuts. 
+.. note::   Global-keys will take preference over openbox bindings. If a key is used in Global-keys, it will not work in Openbox keyboard shortcuts. For example if the W(indows) key opens the LXQT application menu (equivalent of the windows start menu) in Global-keys, Openbox commands like window resizing (W + arrow keys) will not work correctly. Keep this in mind when using and editing keyboard shortcuts. 
 
 The table below shows Lubuntu's default Openbox keyboard shortcuts:
 
@@ -57,16 +57,6 @@ SendToDesktop                 S-A-Up
 
 SendToDesktop                 S-A-Down
 
-GoTo first Desktop            W-F1
-
-GoTo second Desktop           W-F2
-
-GoTo third Desktop            W-F3
-
-GoTo fourth Desktop           W-F4
-
-ToggleShowDesktop             W-D
-
 ============================= ========================
 
 **Keybindings for windows**
@@ -75,7 +65,7 @@ ToggleShowDesktop             W-D
 
 Close                         A-F4
 
-Lower (minimise)              A-Escape
+Lower (minimize)              A-Escape
 
 ShowMenu                      A-space
 
@@ -115,15 +105,14 @@ ToggleFullscreen              F11
 
 ============================= ========================
 
-============================= ========================
 
-Pcmanfm                       W-e
-
-============================= ========================
 
 ============================= ========================
 
 Launch lxqt-runner             W-r
+
+Open Panel Menu               W
+
 
 ============================= ========================
 

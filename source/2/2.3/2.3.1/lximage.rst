@@ -9,17 +9,21 @@ To open a picture press :menuselection:`File --> Open File`, :kbd:`Control + O`,
 
 To have LXImage open the next file in a folder press :kbd:`Right arrow` and to view the previous image press the :kbd:`Left arrow`. To open an entire directory :menuselection:`File --> Open Directory` or press :kbd:`Control +D`. To save the file as something press :kbd:`Control+Shift+S`, the downward pointed arrow with an I on it, or :menuselection:`File --> Save As`. To save the file with the same file name press :kbd:`Control+S` or :menuselection:`File -->Save`.
 
+.. image:: LXImage.png
+
 If you wish to print a picture after viewing it from the :menuselection:`File --> Pint` or press :kbd:`control+ p` to bring up a print dialog. To exit the window with a keyboard shortcut press the :kbd:`Escape` key.
 
-If you want to upload a picture to share it online press :menuselection:`Edit --> Upload` and a new window will pop up with a drop down menu to show where to upload the picture to. To actually upload the file press :guilabel:`Start`. The URL of the image will then show up from after it is finished uploading. You can then copy the URL by selecting the   text and then pressing :kbd:`Control+C`.
+If you want to upload a picture to share it online press :menuselection:`Edit --> Upload` and a new window will pop up with a drop down menu to show where to upload the picture to. To actually upload the file press :guilabel:`Start`. The URL of the image will then show up from after it is finished uploading. You can then copy the URL by selecting the  text and then pressing :kbd:`Control+C` or pressing  the :guilabel:`Copy` button.
 
 .. image:: lximage_upload.png
 
-To rotate an image to the right press the circular arrow that points to the right, press :kbd:`R`, or go to :menuselection:`Edit --> Rotate Clockwise`. To rotate counterclockwise use the circular arrow pointing to the left, press :kbd:`L`, or :menuselection:`Edit -->Rotate Counterclockwise`. To zoom in on a picture press the icon with a magnifying glass with a + symbol on it, :menuselection:`View --> Zoom In`, or press :kbd:`control + +`. To zoom out press the button of a magnifying glass with a - symbol in it, :menuselection:`View --> Zoom Out` or press :kbd:`control + -`.    
+To rotate an image to the right press the circular arrow that points to the right, press :kbd:`R`, or go to :menuselection:`Edit --> Rotate Clockwise`. To rotate counterclockwise use the circular arrow pointing to the left, press :kbd:`L`, or :menuselection:`Edit -->Rotate Counterclockwise`. To zoom in on a picture press the icon with a magnifying glass with a + symbol on it, :menuselection:`View --> Zoom In`, or press :kbd:`control + +`. To zoom out press the button of a magnifying glass with a - symbol in it, :menuselection:`View --> Zoom Out` or press :kbd:`control + -`.
 
 To flip your image on the vertical axis press :kbd:`V` or :menuselection:`Edit --> Flip Vertically`. To flip your image on the horizontal axis press :kbd:`H` or :menuselection:`Edit --> Flip Horizontally`. To change the image to a different size :menuselection:`Edit --> Resize` and a dialog box will show up. To see how large your image currently is in pixels view the :guilabel:`Current size` dialog. To change how wide the image is change :guilabel:`Width` column in the :guilabel:`New size` row. To change the height of the image under :guilabel:`Height` and change to the desired size. To change which size your image is in percentage change the field with :guilabel:`%` under :guilabel:`Width`. To allowing stretching the image while resizing it uncheck the :guilabel:`Keep aspect ratio` checkbox.
 
 .. image:: lximage_resize.png
+
+To see how big an image is on the bar at the bottom :guilabel:`Size` will tell you the size in pixels of an image. To see where the current image is saved read the path in the :guilabel:`Path` field.
 
 To copy an image to the clipboard you can :menuselection:`Edit --> Copy to Clipboard`. To paste an image to the clipboard :menuselection:`Edit --> Paste from Clipboard`. To copy the path of an image to the clipboard :menuselection:`Edit --> Copy Path`.
 
@@ -39,11 +43,7 @@ Annotations
 ------------
 To show annotations controls :menuselection:`View --> Annotations Toolbar` or right click and select :menuselection:`Annotations Toolbar`. To edit your images with LXImage there are several buttons on the right hand side of the toolbar. To draw and arrow press the button that looks like an arrow click once where you want the arrow to start and then drag the direction you want the arrow to point and click it where you want the arrowhead to be. To draw a hollow rectangle left click on the button with a hollow rectangle and click and drag to the size of the rectangle you want. To draw a hollow circle annotation press the button that looks like a hollow circle. To draw numbers on your pictures press the :guilabel:`3` button. To stop drawing annotations press the button with a circle with a slash through it.
 
-.. warning:: Anotations in lximage cannot be undone with an undo functionality. Also you will not be prompted to save your unsaved annotations when closing LXImage.
-
-Screenshot
-----------
-.. image:: LXImage.png
+.. warning:: Annotations in LXImage cannot be undone with an undo functionality. Also you will not be prompted to save your unsaved annotations when closing LXImage.
 
 Customizing
 -----------

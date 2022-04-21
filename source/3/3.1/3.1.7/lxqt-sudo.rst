@@ -1,4 +1,4 @@
-Chapter 3.1.8 LXQt sudo
+Chapter 3.1.7 LXQt sudo
 =======================
 
 LXQt-sudo is the default way to launch graphical applications with administrative privileges on Lubuntu.

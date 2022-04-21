@@ -1,4 +1,4 @@
-Chapter 3.1.3 QTerminal
+Chapter 3.1.2 QTerminal
 =======================
 
 QTerminal is the default terminal of Lubuntu. It also has a drop down version. If you want to learn more about the actual commands you run in the terminal see `Appendix C <https://manual.lubuntu.me/C/command_line.html>`_
@@ -25,7 +25,7 @@ To clear you active terminal press :kbd:`Control + Shift +X`, right click :menus
 
 To use the drop down function of QTerminal once launched press :kbd:`F12` to have the terminal drop down or roll up. When you click outside the drop down terminal it will autohide. If you don't want QTerminal to autohide press the lock button on the upper right hand side. To have QTerminal drop down autohide again unclick the lock button.
 
-.. image::  qterminal-drop.png
+.. image:: qterminal-drop.png
 
 To rename a tab press :kbd:`Alt+Shift+S` or right click on the tab bar and select :menuselection:`Rename session` and then press the :guilabel:`OK` button in the popup. To change the color of the tab :menuselection:`Change title color` menuselection. You can also close a tab by right clicking on it and select :menuselection:`Close session`.
 
@@ -38,7 +38,7 @@ To change your preferences go to :menuselection:`File --> Preferences` or right 
 
 The :guilabel:`Color scheme` field lets you say change how different colored things in the terminal colors appear. The :guilabel:`Widget style` lets you overwrite the system widget style with something other than system default. The :guilabel:`Scrollbar position` lets you move the scrollbar to the left or right or remove it entirely. The :guilabel:`Tabs position` moves the bar to that part of the window of QTerminal. The :guilabel:`Cursor shape` changes the shape of the cursor between block cursor a large block, underline cursor a small underline, or IBeamCursor which is quite small like a | character. 
 
-To disable using the alt key in keyboard combos to activate the window for QTerminal check the :guilabel:`No menu bar accelerator` checkbox. To toggle showing the menubar check/uncheck the :guilabel:`Show the menu bar` checkbox. To hide window borders check the checkbox :guilabel:`Hide Window Broders`. The checkbox :guilabel:`Hide tab bar with only one tab` hides the tab bar when you only have one tab. The checkbox :guilabel:`Fixed tab width` limits how wide a tab can be in pixels. The :guilabel:`Show a border around the current terminal` shows a border around the terminal. To disable having the x button to close each tab uncheck the :guilabel:`Close button on each tab` checkbox. The checkbox :guilabel:`Show terminal size on resize` toggles showing the terminal size on resizing the window. To have support for languages with both right to left and left to right text check the :guilabel:`Enable bi-directional text support`. 
+To disable using the alt key in keyboard combos to activate the window for QTerminal check the :guilabel:`No menu bar accelerator` checkbox. To toggle showing the menubar check/uncheck the :guilabel:`Show the menu bar` checkbox. To hide window borders check the checkbox :guilabel:`Hide Window Broders`. The checkbox :guilabel:`Hide tab bar with only one tab` hides the tab bar when you only have one tab. The checkbox :guilabel:`Fixed tab width` limits how wide a tab can be in pixels. The :guilabel:`Show a border around the current terminal` shows a border around the terminal. To disable having the x button to close each tab uncheck the :guilabel:`Close button on each tab` checkbox. The checkbox :guilabel:`Show terminal size on resize` toggles showing the terminal size on resizing the window. To have support for languages with both right to left and left to right text check the :guilabel:`Enable bi-directional text support`. To use box drawing character from the font you use check the :guilabel:`Use box drawing characters contained in the font` checkbox.
 
 .. image:: qterminalprefrences.png 
 
@@ -46,13 +46,13 @@ The field :guilabel:`Application transparency` gives you the percent transparent
 
 To apply these changes to see how they appear on QTerminal press the :guilabel:`Apply` button. If you like your new customized terminal layout press the :guilabel:`OK` button or if you wish to cancel your changes press the :guilabel:`Cancel` button. 
 
-The :guilabel:`Behavior` tab changes history, pasting, and different kinds of emulation. The :guilabel:`History size (in lines)` lets you save only that many lines of history. The button for :guilabel:`Unlimited history` will save an unlimited amount of history. The checkbox for :guilabel:`Confirm multiline paste` brings up a confirmation for pasting multiple lines. The checkbox :guilabel:`Trim trailing newlines in pasted text` checkbox removes excess newlines in pasting text from the end of what you paste. To not close tabs by middle clciking uncheck the :guilabel:`Close tab on middle-click`. The :guilabel:`Ask for confirmation when closing` pops up a confirmation dialog when you close QTerminal. The checkbox :guilabel:`Save position when closing` saves the position when closing QTerminal. To have QTerminal be the same size window check the :guilabel:`Save Size when closing`. The :guilabel:`Open new terminals in current working directory` checkbox open new terminals in the last working directory you were on. To Open new tabs to the right of the current tab check the :guilabel:`Open new tab to the right of the active tab` checkbox.
+The :guilabel:`Behavior` tab changes history, pasting, and different kinds of emulation. The :guilabel:`History size (in lines)` lets you save only that many lines of history. The button for :guilabel:`Unlimited history` will save an unlimited amount of history. To change where you are viewing the terminal when you paste change the :guilabel:`Action after paste` menu. The checkbox for :guilabel:`Confirm multiline paste` brings up a confirmation for pasting multiple lines. The checkbox :guilabel:`Trim trailing newlines in pasted text` checkbox removes excess newlines in pasting text from the end of what you paste. To not close tabs by middle clicking uncheck the :guilabel:`Close tab on middle-click`. The :guilabel:`Ask for confirmation when closing` pops up a confirmation dialog when you close QTerminal. The checkbox :guilabel:`Save position when closing` saves the position when closing QTerminal. To have QTerminal be the same size window check the :guilabel:`Save Size when closing`. The :guilabel:`Open new terminals in current working directory` checkbox open new terminals in the last working directory you were on. To Open new tabs to the right of the current tab check the :guilabel:`Open new tab to the right of the active tab` checkbox.
 
 .. image:: qterminal-pref-behavior.png
 
 The :guilabel:`Shortcuts` tab shows all the different shortcuts and how to change keyboard shortcuts. The :guilabel:`Shortcut` column shows what the keyboard shortcut does. The :guilabel:`Key` column is the keyboard shortcut to launch the shortcut. To change or add a keyboard shortcut double click under the :guilabel:`Key` column and then press the keyboard shortcut you want. To change how you sort your keyboard shortcuts left click on the column to sort in a different order. To change your keyboard shortcut double click for that shortcut and then press the keyboard shortcut you want.
 
-.. image::  qterminal-shortcuts.png
+.. image:: qterminal-shortcuts.png
 
 The :guilabel:`Dropdown` tab shows effects on the appearance for the drop down settings of QTerminal. The :guilabel:`Show on start` checkbox if checked shows the drop down menu when it is launched otherwise it is hidden. The :guilabel:`Height` field shows the height of the drop down terminal. The :guilabel:`Width` field shows how wide to make the dropdown terminal. The field :guilabel:`Shortcut` is the shortcut to bring down the drop down terminal and to change the shortcut type in a different key. 
 

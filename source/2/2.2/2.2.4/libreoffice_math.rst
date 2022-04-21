@@ -27,7 +27,7 @@ To quit LibreOffice Math press :kbd:`Control+Q`.
 
 Version
 -------
-Lubuntu ships with Version 7.2.1.2 of LibreOffice Math. 
+Lubuntu ships with Version 7.3.2 of LibreOffice Math.
 
 How to Launch
 -------------
@@ -37,4 +37,4 @@ To launch LibreOffice Math in the menu :menuselection:`Office --> LibreOffice Ma
 
    lomath 
    
-from the command line. The  icon for LibreOffice Math looks like a piece of paper with the math symbol for square root of x. 
+from the command line. The  icon for LibreOffice Math looks like a piece of paper with the math symbol for square root of x.

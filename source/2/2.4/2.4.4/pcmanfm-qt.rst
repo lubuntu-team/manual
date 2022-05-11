@@ -32,7 +32,7 @@ To view a directory tree on your side pane select :menuselection:`Directory Tree
 
 .. image:: directorytreesidepane.png
 
-To toggle having a split view to be able to view two folders in press :kbd:`F6` or :menuselection:`View --> Split View`. This split view allows you to have two folders open which is quite useful for copying files. To switch between the two different folders left click on the half of the screen to move to the left hand side to manage files and click on the right hand side to manage files on the right on side. To navigate each side has its own set of buttons on top to navigate for that side. To switch back to your normal view press :kbd:`F6` again or :menuselection:`View --> Split View` again.
+To toggle having a split view to be able to view two folders in press :kbd:`F6` or :menuselection:`View --> Split View`. This split view allows you to have two folders open which is quite useful for copying files. To switch between the two different folders left click on the half of the screen to move to the left hand side to manage files and click on the right hand side to manage files on the right on side. The side of split view you are on will appear lighter and the siide inactive will be shaded. To switch which side you are using simply left click on that side. To navigate each side has its own set of buttons on top to navigate for that side. To switch back to your normal view press :kbd:`F6` again or :menuselection:`View --> Split View` again.
 
 .. image:: split_view.png
 

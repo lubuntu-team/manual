@@ -86,7 +86,7 @@ To customize your shortcuts for KCalc :menuselection:`Settings --> Keyboard Shor
 
 Version
 -------
-Lubuntu ships with version 4:12.2 of KCalc.
+Lubuntu ships with version 4:22.04 of KCalc.
 
 How to Launch
 -------------

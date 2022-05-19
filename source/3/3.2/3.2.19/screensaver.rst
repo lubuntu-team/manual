@@ -23,7 +23,7 @@ To change to get even more settings on your screensaver use the :guilabel:`Advan
 
 Version
 -------
-Lubuntu ships with version 5.42 of Screensaver
+Lubuntu ships with version 6.02 of Screensaver
 
 How to Launch
 -------------

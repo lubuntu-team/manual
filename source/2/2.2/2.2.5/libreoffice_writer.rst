@@ -38,7 +38,7 @@ To change font color press the button that has a T with a drop on it and a red u
 
 To make text superscript press the button with A :sup:`B`. To make text subscript press the button that is an A :sub:`B`.
 
-If you want text in a text box that can be moved with the mouse press the button that looks like a T with a box around it or :menuselection:`Insert --> Text box`. To insert a hyperlink press :kbd:`Control + K` or :menuselection:`Insert --> Hyperlink`.
+If you want text in a text box that can be moved with the mouse press the button that looks like a :guilabel:`T with a box around it` or :menuselection:`Insert --> Text box`. To insert a hyperlink press :kbd:`Control + K` or :menuselection:`Insert --> Hyperlink`.
 
 .. image:: libreoffice_writer.png
 

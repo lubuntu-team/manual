@@ -25,6 +25,8 @@ To copy and answer out of KCalc press :kbd:`control + c` or :menuselection:`Edit
 
 To view your history what you have calculated in KCalc press :kbd:`Control+h` or :menuselection:`Settings --> Show History`. To hide your history do the same thing again. You can select text with the mouse in KCalc and then right click select :menuselection:`Copy` or press :kbd:`Control+C` to copy what you have previously calculated. To select all of the history press :kbd:`Control+A` or right click :menuselection:`Select All`.
 
+To get a main toolbar right click on the main menus and select :menuselection:`Main Toolbar`.
+
 To quit KCalc press :kbd:`Control+Q`.
 
 Scientific calculator mode advanced functionality

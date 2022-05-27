@@ -6,7 +6,7 @@ QtPass is the default password manager for Lubuntu.
 Usage
 ------
 
-On first launch you will be asked to generate a key to encrypt your passwords. The first field to generate the encryption key is to enter your emial in the :guilabel:`Email` field.
+On first launch you will be asked to generate a key to encrypt your passwords. The first field to generate the encryption key is to enter your emial in the :guilabel:`Email` field. Next enter your name in the :guilabel:`Name` field.
 
 Version
 -------

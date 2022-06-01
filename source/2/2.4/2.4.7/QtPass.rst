@@ -12,7 +12,7 @@ To actually store a password preess the button that looks like a piece of paper 
 
 To get the password out of a the password manager you will need to enter your encrpytion key passphrase in the :guilabel:`Password` field.
 
-To add a folder to put passwords in press the folder button with a :guilabel:`+` on it. To get an existing password into a folder left click and drag that password into the folder on the main list.
+To add a folder to put passwords in press the folder button with a :guilabel:`+` on it. To get an existing password into a folder left click and drag that password into the folder on the main list. To add a password to a folder right click on the folder and select :guilabel:`Add password`.
 
 Version
 -------

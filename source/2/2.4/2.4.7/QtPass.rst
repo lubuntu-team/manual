@@ -16,6 +16,8 @@ To add a folder to put passwords in press the folder button with a :guilabel:`+`
 
 To search for a particular password type the password you are searching for in the :guilabel:`Search Password` text box at the top.
 
+To delete a password you do not use anymore right click on it and select :menuselection:`Delete` or press the trash can button with an :guilabel:`X` button.
+
 Version
 -------
 Lubuntu ships with version 1.2.3 of QtPass.

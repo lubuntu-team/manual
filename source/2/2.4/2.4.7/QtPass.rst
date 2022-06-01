@@ -10,7 +10,7 @@ On first launch you will be asked to generate a key to encrypt your passwords. T
 
 To actually store a password preess the button that looks like a piece of paper with a :guilabel:`+` button. Enter the name of the file to store your password in :guilabel:`New password file` and press the :guilabel:`OK` button. To type in yourr password for an already existing password type it in the :guilabel:`Password` field. To show your password that you have check the :guilabel:`Show password` checkbox. To randomly generate a password press the :guilabel:`Generate` button. To change the lengnth of the generated password change the :guilabel:`Length` field.
 
-
+To get the password out of a the password manager you will need to enter your encrpytion key passphrase in the :guilabel:`Password` field.
 
 Version
 -------

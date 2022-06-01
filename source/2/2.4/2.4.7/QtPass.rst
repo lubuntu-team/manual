@@ -14,6 +14,8 @@ To get the password out of a the password manager you will need to enter your en
 
 To add a folder to put passwords in press the folder button with a :guilabel:`+` on it. To get an existing password into a folder left click and drag that password into the folder on the main list. To add a password to a folder right click on the folder and select :guilabel:`Add password`.
 
+To search for a particular password type the password you are searching for in the :guilabel:`Search Password` text box at the top.
+
 Version
 -------
 Lubuntu ships with version 1.2.3 of QtPass.

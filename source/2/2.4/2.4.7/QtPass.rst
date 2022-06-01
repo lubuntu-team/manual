@@ -18,6 +18,8 @@ To search for a particular password type the password you are searching for in t
 
 To delete a password you do not use anymore right click on it and select :menuselection:`Delete` or press the trash can button with an :guilabel:`X` button.
 
+To rename a password right click on it and select :menuselection:`Rename password`.
+
 Version
 -------
 Lubuntu ships with version 1.2.3 of QtPass.

@@ -21,6 +21,8 @@ To reload the view of the archive press :kbd:`F5` or :menuselection:`View --> Re
 
 To toggle showing the toolbar in LXQt File Archiver :menuselection:`View --> Toolbar`. To Toggle showing the Statusbar at the bottom :menuselection:`View --> Statusbar`. To toggle showing the directory tree on the left :menuselection:`View --> Directory Tree`.
 
+To close LXQt File Archiver press :kbd:`Control+Q`.
+
 Version
 -------
 Lubuntu ships with version 0.6.0 of LXQt File Archiver.

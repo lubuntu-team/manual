@@ -5,7 +5,7 @@ Desktop Notifications is the program that changes desktop notification settings 
 
 Usage
 ------
-The :guilabel:`Basic Settings` tab lets you change where Desktop notifications appear on your screen. Click the button that appears under :guilabel:`Position on screen` on the portion of your screen where you want them with the outline being your window. 
+The :guilabel:`Position` tab lets you change where Desktop notifications appear on your screen. Click the button that appears under :guilabel:`Position on screen` on the portion of your screen where you want them with the outline being your window. 
 
 To quit the desktop notifications press the :kbd:`Escape` key or press the :guilabel:`Close` button. To reset your changes press the :guilabel:`Reset` button.
 

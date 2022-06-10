@@ -23,7 +23,7 @@ from the command line to stop crashes at document recovery.
 
 If you are about to close a document without saving it in LibreOffice a dialog will popup asking :guilabel:`Save changes to document before closing?`. If you do not want to save what you were working on press the :guilabel:`Don't Save` button. To not quit LibreOffice press the :guilabel:`Cancel` button. To Save the document to not lose your work press the :guilabel:`Save` button.
 
-On non-English Lubuntu 22.04 installations there is a bug with Libreoffice not being localized see `here https://discourse.lubuntu.me/t/using-a-language-other-than-english-heres-how-to-get-libreoffice-in-your-language/3269`_ for a workaround.
+On non-English Lubuntu 22.04 installations there is a bug with Libreoffice not being localized see `here <https://discourse.lubuntu.me/t/using-a-language-other-than-english-heres-how-to-get-libreoffice-in-your-language/3269/>`_ for a workaround.
 
 Screenshot
 ----------

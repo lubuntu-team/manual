@@ -25,6 +25,8 @@ The :guilabel:`Cursor` tab has one option to change cursor theme lets you change
 
 .. image:: appearance-cursor.png
 
+Check the checkbox :guilabel:`Set GTK themes` settings will apply native themes to GTK applications. The field for :guilabel:`GTK 2 Theme` will select a theme for GTK2 applications. The :guilabel:`GTK 3 Theme` field sets the theme for GTK3 applications.
+
 If you want to reset your changes you will need to click the :guilabel:`Reset` button to revert your changes to how they were before. To actually quit by the keyboard press the :kbd:`Escape` key or press the :guilabel:`Close` button.
 
 Version

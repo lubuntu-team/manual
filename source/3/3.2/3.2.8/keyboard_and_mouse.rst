@@ -12,7 +12,7 @@ The :guilabel:`Mouse` tab provides settings for how fast the mouse moves, scroll
 
 If you do not like the new settings press the :guilabel:`Reset` button to go back to your previous settings. If you want to close Keyboard and Mouse press the :kbd:`Escape` key or press the :guilabel:`Close` button. To have your changes take place press the :guilabel:`Apply` button.
 
-The :guilabel:`Cursor` tab on the left lets you change your cursor theme which is quite useful if you are say running virtual machines so the cursor does not look the same in the host and the guest. To change a theme scroll down to which theme you want under preview but you will have to logout and log back in again for this to fully take effect. 
+The :guilabel:`Cursor` tab on the left lets you change your cursor theme which is quite useful if you are say running virtual machines so the cursor does not look the same in the host and the guest. To change a theme scroll down to which theme you want under preview but you will have to logout and log back in again for this to fully take effect. To change the size of the cursor change the :guilabel:`Size` field.
 
 .. image:: input-cursor.png
 

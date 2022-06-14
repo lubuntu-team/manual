@@ -58,7 +58,7 @@ To have PCManFM-Qt reload what folder you are viewing press :kbd:`F5`, the circu
 
  Modifying or deleting files as root may end up making your system unable to boot if you do not know what you are doing or make a mistake.
 
-To view the properties of a file or folder right click on it and select :menuselection:`Properties` from the menu, :menuselection:`File --> File Properties` or press :kbd:`Alt +Enter`. To view a dialog that shows folder properties :menuselection:`File --> Folder Properties`. The :guilabel:`General` tab will show you the size of the file, where the file is, and when it was last modified or accessed. To change what program a file opens with use the :guilabel:`Open With` drop down menu and select the program to open the file.
+To view the properties of a file or folder right click on it and select :menuselection:`Properties` from the menu, :menuselection:`File --> File Properties` or press :kbd:`Alt +Enter`. To view a dialog that shows folder properties :menuselection:`File --> Folder Properties`. To choose a  The :guilabel:`General` tab will show you the size of the file, where the file is, and when it was last modified or accessed. To change what program a file opens with use the :guilabel:`Open With` drop down menu and select the program to open the file. To change the icon shown for a file use the :guilabel:`...` button next to :guilabel:`Emblem`.
  
  .. image:: file-prop.png 
  

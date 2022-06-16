@@ -25,7 +25,7 @@ The :guilabel:`Advanced` tab in the properties menu has settings with a login sh
 
 The :guilabel:`Groups` tabs lets you see info on groups and change properties. The :guilabel:`Name` field shows the name of the group. The :guilabel:`Group ID` shows the numeric group id of the group in the name field. The :guilabel:`Members` show the members of the current group. 
 
-.. image:: users_groups_gropustab.png
+.. image:: users_groups_groupstab.png
 
 .. warning::
 

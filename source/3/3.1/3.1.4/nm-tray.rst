@@ -9,7 +9,7 @@ If you want to connect to  a network on nm-tray left click the icon in the syste
 
 After connecting to a network it will be listed under connections which you can see by  left clicking on nm-tray icons. To see the list of all known connections left click on the tray applet and look under :guilabel:`Known Connection(s)`. To view the list of active connections  left click on the tray icon and look under :guilabel:`Active connection(s)`. To view the list of wifi networks is listed under :guilabel:`Wi-Fi networks` you are connected to.  
 
-To toggle notifications on connecting and disconnecting to networks right click on the nm-tray tray icon and check or uncheck the checkbox for :menuselection:`Enable notifications`. To disable wifi uncheck :menuselection:`Enable Wi-Fi`. To turn off all networking uncheck :menuselection:`Enable Networking`. To scan for wifi networks right click on the network icon and select :menuselection:`Wifi - select scan`. To bring up more options to edit your connection right click the nm-tray icon and select :menuselection:`Edit connections`.
+To turn off all networking uncheck :menuselection:`Enable Networking`. To toggle notifications on connecting and disconnecting to networks right click on the nm-tray tray icon and check or uncheck the checkbox for :menuselection:`Enable notifications`. To disable wifi uncheck :menuselection:`Enable Wi-Fi`.  To scan for wifi networks right click on the network icon and select :menuselection:`Wifi - select scan`. To bring up more options to edit your connection right click the nm-tray icon and select :menuselection:`Edit connections`.
 
 .. image:: nm-tray-context.png
 

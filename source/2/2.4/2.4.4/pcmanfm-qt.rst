@@ -163,7 +163,7 @@ The :guilabel:`User Interface` tab changes how the PCManFM-Qt window appears. To
 
 .. image:: pcmanfm-qt-user-interface.png 
  
-The tab :guilabel:`Thumbnail` tab has settings for thumbnails on files in PCManFM-Qt. To enable/disable thumbnails check/uncheck the :guilabel:`Show thumbnails of files` checkbox. If you want to only have thumbnails for local files not on another machine check  :guilabel:`Only show thumbnails for local files` checkbox. Unchecking the previous checkbox will result in a slower performance to get the thumbnails for the files. To put an upper limit for built in thumbnails for PCManFM-Qt change the :guilabel:`Image size limit for built in thumbnailer` field. To have a limit for external thumbnails change the :guilabel:`File size limit for external thumbnailers` field. 
+The tab :guilabel:`Thumbnail` tab has settings for thumbnails on files in PCManFM-Qt. To enable/disable thumbnails check/uncheck the :guilabel:`Show thumbnails of files` checkbox. If you want to only have thumbnails for local files not on another machine check :guilabel:`Only show thumbnails for local files` checkbox. Unchecking the previous checkbox will result in a slower performance to get the thumbnails for the files. To put an upper limit for built in thumbnails for PCManFM-Qt change the :guilabel:`Image size limit for built in thumbnailer` field. To have a limit for external thumbnails change the :guilabel:`File size limit for external thumbnailers` field. 
 
 .. image:: perferences-thumbnail.png
 

@@ -88,11 +88,14 @@ To change your path bar to buttons :menuselection:`View --> Pathbar --> Location
 
 .. image:: pathbar-location.png
 
+To quit PCManFM-Qt press :kbd:`Control+Q`.
+
+Extracting and Compressing Archives
+-----------------------------------
+
 PCManFM-Qt has options when right clicking has special options for dealing with archives such as tar or zip files. To extract the files in the current directory right click and select :menuselection:`Extract Here`. You can also extract to another location with right clicking and selecting :menuselection:`Extract to` and a dialog will pop up showing to where to extract the file. To select a file and compress it right click and select :menuselection:`Compress` will open up a dialog. To chose a file name for your new compressed archive enter in the :guilabel:`File name` field. To choose what type of archive choose change the :guilabel:`File Type` drop down menu. To actually create the archive press the :guilabel:`Save` button. To add a password to the archive you are creating enter that in the :guilabel:`Password` field.
 
 .. image:: pcmanfm-compress.png
-
-To quit PCManFM-Qt press :kbd:`Control+Q`.
 
 Searching for Files
 -------------------

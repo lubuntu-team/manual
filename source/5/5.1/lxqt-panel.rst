@@ -61,13 +61,14 @@ The :guilabel:`Widgets` tab lets you change the widgets or individual items on t
 
 Shipped applets not enabled by default:
  - Backlight
- - CPU Monitor
+ - CPU monitor
  - Color Picker
  - Custom Command
  - Panel DOM Tree
  - Sensors
- - System Statistics
  - Spacer
+ - System Statistics
+
 
 .. image:: panel-config-widgets.png
 

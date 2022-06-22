@@ -63,6 +63,7 @@ Shipped applets not enabled by default:
  - Backlight
  - CPU Monitor
  - Color Picker
+ - Custom Command
  - Panel DOM Tree
  - Sensors
  - System Statistics

@@ -17,7 +17,7 @@ The tab for :guilabel:`LXQt Theme` lets you change how the panel and notificatio
 
 .. image:: lxqt-theme-tab.png
 
-The :guilabel:`Font` tab has settings for fonts. To change the default font there is the :guilabel:`Font name` drop down that you can type the font name you or select from the drop down menu. To change the font size that desktop applications use choose the font tab and change the :guilabel:`Point size` and enter in the size you want or use the up and down arrows to increase or decrease font size respectively. The checkbox for  :guilabel:`Use antialias fonts` and :guilabel:`Font hinting` for fonts lets you also set antialiased fonts which are enabled for easier screen viewing. To change how much the fonts are hinted change the :guilabel:`Font hinting style` drop down menu. The :guilabel:`Resolution(DPI)` sets the resolution or dots per inch of the screen. 
+The :guilabel:`Font` tab has settings for fonts. To change the default font there is the :guilabel:`Font name` drop down that you can type the font name you or select from the drop down menu.  To make the font bold or italic change the :guilabel:`Style` menu. To change the font size that desktop applications use choose the font tab and change the :guilabel:`Point size` and enter in the size you want or use the up and down arrows to increase or decrease font size respectively. The checkbox for  :guilabel:`Use antialias fonts` and :guilabel:`Font hinting` for fonts lets you also set antialiased fonts which are enabled for easier screen viewing. To change how much the fonts are hinted change the :guilabel:`Font hinting style` drop down menu. The :guilabel:`Resolution(DPI)` sets the resolution or dots per inch of the screen. 
 
 .. image:: appearance-font.png
 

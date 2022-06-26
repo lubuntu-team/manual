@@ -87,7 +87,7 @@ To view the preferences for Featherpad press :kbd:`control +Shift +P` or :menuse
 
 The :guilabel:`Tab position` menu moves where the tab around on the screen. To hide the tabbar with only one tab check the :guilabel:`Do not show a single tab` checkbox. To have the window close after closing the last tab check the :guilabel:`Close window on closing its last tab`. To have Featherpad open a new window when you are on a different virtual desktop check the :guilabel:`Always open in separate windows` checkbox. The checkbox :guilabel:`Native file dialog` uses the systems file dialog to integrate with the system.
 
-.. image:: featherpadprefrences.png
+.. image:: featherpadpreferences.png
 
 To change preferences on how text is displayed choose the :guilabel:`Text` Tab. To have Featherpad remember what font you want press the :guilabel:`Remember Font` checkbox.To have your Featherpad wrap lines if your line is too long by default check the :guilabel:`Wrap lines by default` checkbox. To have Featherpad automatically indent new lines by default check the :guilabel:`Auto-indent by default` checkbox. To have Featherpad automatically insert closing brackets check the :guilabel:`Auto-bracket` checkbox. To have Featherpad replace triple periods and double hyphens with other characters representing the same thing check the :guilabel:`Replace triple periods and double hyphens while typing` checkbox. The checkbox for :guilabel:`Always show line numbers` always shows line numbers.
 

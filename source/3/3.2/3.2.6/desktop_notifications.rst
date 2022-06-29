@@ -19,7 +19,7 @@ The :guilabel:`Position` tab lets you change where Desktop notifications appear 
 Screenshots
 -----------
 
-.. image:: notifications-advanced.png
+.. image:: notifications-general.png
 
 .. image:: notifications-poistion.png
 

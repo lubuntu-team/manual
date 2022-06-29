@@ -6,7 +6,7 @@ Keyboard and Mouse is the program to change the behavior of your keyboard, mouse
 Usage
 ------
 
-The :guilabel:`Mouse` tab provides settings for how fast the mouse moves, scrolls, and double clicks. The :guilabel:`Wheel scroll lines` field changes how many lines of text you scroll when you use the scrollwheel. If you wish to only have to tap once to perform a left click check the :guilabel:`Single click to activate items` checkbox. If you wish to swap left and right buttons on your mouse check the :guilabel:`Left handed` checkbox. Note that this also swaps the buttons on a touchpad. The settings should apply immediately so make sure the mouse moves how you want it.
+The :guilabel:`Mouse` tab provides settings for how fast the mouse moves, scrolls, and double clicks. To change how much time you have to have a click a double click change the :guilabel:`Double click interval`. The :guilabel:`Wheel scroll lines` field changes how many lines of text you scroll when you use the scrollwheel. If you wish to only have to tap once to perform a left click check the :guilabel:`Single click to activate items` checkbox. If you wish to swap left and right buttons on your mouse check the :guilabel:`Left handed` checkbox. Note that this also swaps the buttons on a touchpad. The settings should apply immediately so make sure the mouse moves how you want it.
 
 .. image:: keyboardandmouse.png
 

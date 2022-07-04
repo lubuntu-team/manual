@@ -14,9 +14,11 @@ To get the password out of a the password manager you will need to enter your en
 
 To add a folder to put passwords in press the folder button with a :guilabel:`+` on it. To get an existing password into a folder left click and drag that password into the folder on the main list. To add a password to a folder right click on the folder and select :guilabel:`Add password`.
 
-To search for a particular password type the password you are searching for in the :guilabel:`Search Password` text box at the top.
+To search for a particular password type the password you are searching for in the :guilabel:`Search Password` text box at the top. To end up looking at your password simply left click on it in the list of passwords on the left column of the window and read it in :guilabel:`Password` on the right column.
 
 To delete a password you do not use anymore right click on it and select :menuselection:`Delete` or press the trash can button with an :guilabel:`X` button.
+
+To manage what users can read these passwords press the :guilabel:`@` button.
 
 To rename a password right click on it and select :menuselection:`Rename password`.
 

@@ -16,6 +16,8 @@ To add a folder to put passwords in press the folder button with a :guilabel:`+`
 
 To search for a particular password type the password you are searching for in the :guilabel:`Search Password` text box at the top. To end up looking at your password simply left click on it in the list of passwords on the left column of the window and read it in :guilabel:`Password` on the right column.
 
+To Edit a password left click on :guilabel:`4 horizontal lines button`.
+
 To delete a password you do not use anymore right click on it and select :menuselection:`Delete` or press the trash can button with an :guilabel:`X` button.
 
 To manage what users can read these passwords press the :guilabel:`@` button.

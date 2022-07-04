@@ -14,7 +14,7 @@ To get the password out of a the password manager you will need to enter your en
 
 To add a folder to put passwords in press the folder button with a :guilabel:`+` on it. To get an existing password into a folder left click and drag that password into the folder on the main list. To add a password to a folder right click on the folder and select :guilabel:`Add password`.
 
-To search for a particular password type the password you are searching for in the :guilabel:`Search Password` text box at the top. To end up looking at your password simply left click on it in the list of passwords on the left column of the window and read it in :guilabel:`Password` on the right column. To make a new random password press the :guilabel:`Generate` button.
+To search for a particular password type the password you are searching for in the :guilabel:`Search Password` text box at the top. To end up looking at your password simply left click on it in the list of passwords on the left column of the window and read it in :guilabel:`Password` on the right column. To make a new random password press the :guilabel:`Generate` button. To enter a new password with the keyboard type in the top left of the window.
 
 To Edit a password left click on :guilabel:`4 horizontal lines button`.
 

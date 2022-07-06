@@ -53,7 +53,7 @@ If you want to autohide the panel check the :guilabel:`Auto-hide` checkbox in pa
 
 To change the appearance of the panel use the :guilabel:`Styling` tab. To change to a custom font color press the :guilabel:`Font color` checkbox. Press the dropper button to bring up a widget to choose the custom color. The checkbox for :guilabel:`Background color` sets a background color custom for the background of LXQt-panel and the :guilabel:`dropper` brings up how to select which color. If you use a compositor and want to change the background opacity for the panel you can change how transparent the background is with the :guilabel:`Background opacity` slider. To add an image to your panel background press the checkbox :guilabel:`Background image` and press the  the dialog button on the right to choose your file.
 
- 
+.. image:: panel-config-styling.png
 
 The checkbox for :guilabel:`Override icon theme` lets you choose a non system default icon theme for LXQt-panel. The dropdown :guilabel:`Icon theme for panels` lets you see what that icon theme from the dropdown list. If you do not like your changes to the system you can press the :guilabel:`Reset` button to reset changing to before trying to customize the panel. 
 

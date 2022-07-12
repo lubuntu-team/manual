@@ -32,7 +32,7 @@ If you have multiple copies of the same file open in Featherpad it will be open 
 
 To make text in Featherpad bigger press :kbd:`Control+ +` or hold :kbd:`Control` and move the mousewheel up. To make text in Featherpad smaller press :kbd:`Control+ -` or hold :kbd:`Control` and move the mousewheel down.
 
-If you want to close all tabs to the left right click on the tab bar :menuselection:`Close Previous Tabs`. To close all tabs to the right right click on the tab bar :menuselection:`Close Next Tabs`. To only leave open the tab you right clicked on right click and select :menuselection:`Close Other Tabs`. To copy the path to the file you have open right click on the tab bar and select :menuselection:`Copy File Path`. To copy the file name right click on the tab bar and select :menuselection:`Copy File Name`. To reorder your tabs left click and drag the tab to where you want it. To open the folder the file is in a fire manager right click and select :menuselection:`Open Containing Folder`.
+If you want to close all tabs to the left right click on the tab bar :menuselection:`Close Previous Tabs`. To close all tabs to the right right click on the tab bar :menuselection:`Close Next Tabs`. To only leave open the tab you right clicked on right click and select :menuselection:`Close Other Tabs`. To copy the file name right click on the tab bar and select :menuselection:`Copy File Name`. To copy the path to the file you have open right click on the tab bar and select :menuselection:`Copy File Path`. To reorder your tabs left click and drag the tab to where you want it. To open the folder the file is in a fire manager right click and select :menuselection:`Open Containing Folder`.
 
 .. image:: featherpad-tab-context.png
 

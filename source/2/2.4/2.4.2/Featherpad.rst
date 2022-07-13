@@ -65,7 +65,7 @@ To print a text :menuselection:`File --> Print` or press :kbd:`control + p`. To 
 
 .. image:: featherpad-print.png
 
-To run an executable script press :kbd:`Control+E`. To quit Featherpad press :kbd:`Control+Q`.
+To run an executable script press :kbd:`Control+E`. To stop running the executable you ran press press :kbd:`Control + Alt +E`. To quit Featherpad press :kbd:`Control+Q`.
 
 Spellcheck
 ----------

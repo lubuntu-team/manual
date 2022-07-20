@@ -9,7 +9,7 @@ The :guilabel:`Users` tab lets you manage Users. To create a new user account pr
 
 To change a user's password select the user in the list then press the :guilabel:`Change Password` button you will be prompted to  enter the new password. Then you will be prompted to enter an administrative password to authenticate that you have permission to do this. To reload the info on users and groups press the :guilabel:`Refresh` button. 
 
-To see what name a user logs in with read the :guilabel:`Login Name` column. 
+To see what name a user logs in with read the :guilabel:`Login Name` column. To see what each user id is read the :guilabel:`USER ID` column.
 
 .. image:: users_and_groups.png
 

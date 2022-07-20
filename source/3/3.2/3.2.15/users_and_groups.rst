@@ -13,7 +13,7 @@ To change a user's password select the user in the list then press the :guilabel
 
 To view an info on a particular user press the :guilabel:`Properties` or double click on the users name to bring up a dialog box or the accomplish the same thing by double clicking on the username. You can view the :guilabel:`Login Name` will show you the login name for the user and can be edited if you type in the box. The field :guilabel:`User ID` is the numerical internal id of your user. The field :guilabel:`Main Group` is the main group that is default group for files access to. 
 
-.. image:: users-groups-gerneral-prop.png 
+.. image:: users-groups-general-prop.png
 
 The tab :guilabel:`Groups` under properties has checkboxes for each group you are in or which checkbox or each group you are not in. To add or remove a user from a group check or uncheck the checkbox for the group you want to add or remove a user from. To view what numeric group id each group has is in the :guilabel:`Group ID` field.
 

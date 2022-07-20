@@ -9,6 +9,8 @@ The :guilabel:`Users` tab lets you manage Users. To create a new user account pr
 
 To change a user's password select the user in the list then press the :guilabel:`Change Password` button you will be prompted to  enter the new password. Then you will be prompted to enter an administrative password to authenticate that you have permission to do this. To reload the info on users and groups press the :guilabel:`Refresh` button. 
 
+To see what name a user logs in with read the :guilabel:`Login Name` column. 
+
 .. image:: users_and_groups.png
 
 To view an info on a particular user press the :guilabel:`Properties` or double click on the users name to bring up a dialog box or the accomplish the same thing by double clicking on the username. You can view the :guilabel:`Login Name` will show you the login name for the user and can be edited if you type in the box. The field :guilabel:`User ID` is the numerical internal id of your user. The field :guilabel:`Main Group` is the main group that is default group for files access to. 

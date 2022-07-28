@@ -37,6 +37,7 @@ To change how long to make generated passwords change the :guilabel:`Password Le
 
 .. image:: qtpass-settings.png
 
+To use a tray icon for QtPass check the :guilabel:`Use Trayicon` checkbox.
 
 Version
 -------

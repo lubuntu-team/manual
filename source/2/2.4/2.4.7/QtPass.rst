@@ -28,6 +28,11 @@ To manage what users can read these passwords press the :guilabel:`@` button.
 
 To rename a password right click on it and select :menuselection:`Rename password`.
 
+Cusotmizing
+-----------
+
+To change your settings for QtPass press the :guilabel:`Gear Button`.
+
 Version
 -------
 Lubuntu ships with version 1.2.3 of QtPass.

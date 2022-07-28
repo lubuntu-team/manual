@@ -31,7 +31,7 @@ To rename a password right click on it and select :menuselection:`Rename passwor
 Cusotmizing
 -----------
 
-To change your settings for QtPass press the :guilabel:`Gear Button`. To change if QtPass will copy passwords change the drop down under the :guilabel:`Clipboard behavior` drop down.
+To change your settings for QtPass press the :guilabel:`Gear Button`. To change if QtPass will copy passwords change the drop down under the :guilabel:`Clipboard behavior` drop down. To copy the password into primary selection check the :guilabel:`Use primary selection` checkbox.
 
 Version
 -------

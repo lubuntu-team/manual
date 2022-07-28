@@ -37,7 +37,7 @@ To change how long to make generated passwords change the :guilabel:`Password Le
 
 .. image:: qtpass-settings.png
 
-To use a tray icon for QtPass check the :guilabel:`Use Trayicon` checkbox. To start QtPass minimized check the :guilabel:`Start minimized` checkbox. To have the tray icon hidden when you close QtPass check the :guilabel:`Hide on Close` checkbox.
+To use a tray icon for QtPass check the :guilabel:`Use Trayicon` checkbox. To start QtPass minimized check the :guilabel:`Start minimized` checkbox. To have the tray icon hidden when you close QtPass check the :guilabel:`Hide on Close` checkbox. To have QtPass be always on top check the :guilabel:`Always on top` checkbox.
 
 Version
 -------

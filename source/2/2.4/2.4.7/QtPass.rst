@@ -33,6 +33,8 @@ Cusotmizing
 
 To change your settings for QtPass press the :guilabel:`Gear Button`. To change if QtPass will copy passwords change the drop down under the :guilabel:`Clipboard behavior` drop down. To copy the password into primary selection check the :guilabel:`Use primary selection` checkbox. To have your password cleared from your clipboard after a while to not accidently paste it anywhere check the :guilabel:`Autoclear after` checkbox and select how long in the field in the right. To hide everything on the right when you click on your password press the :guilabel:`Hide content` checkbox. To have the password hidden when you click on a password check the :guilabel:`Hide password` checkbox. To have the panel automatically clear itself check the :guilabel:`Autoclear panel after` checkbox and change how long on the right.
 
+To change how long to make generated passwords change the :guilabel:`Password Length` field.
+
 Version
 -------
 Lubuntu ships with version 1.2.3 of QtPass.

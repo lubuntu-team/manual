@@ -78,7 +78,7 @@ To tab on the left :guilabel:`Home` has settings for your home and opening of ne
 
 .. image:: preferenceshome.png
 
-To enable Firefox showing recent activity on the page for new tabs check the :guilabel:`Recent activity` checkbox. To change how many rows of recent sites change the :guilabel:`A selection of recent sites and content` checkbox field.
+To enable Firefox showing recent activity on the page for new tabs check the :guilabel:`Recent activity` checkbox. To change how many rows of recent sites change the :guilabel:`A selection of recent sites and content` checkbox field. To not show recently visited pages uncheck the :guilabel:`Visited Pages` checkbox. To not show recently saved bookmarks uncheck the :guilabel:`Bookmarks` checkbox.
 
 To manage your search settings use the :guilabel:`Search` tab on preferences. The radio button for :guilabel:`Search Bar` changes whether you want a separate search bar or and integrated search bar for search and navigation. The :guilabel:`Default Search Engine` lets you change your default search engine. To toggle whether to search suggestions check/uncheck the :guilabel:`Provide search suggestions`. To end up showing search suggestions in the address bar when searching check the :guilabel:`Show search suggestions in address bar results` checkbox. To try to autocomplete searches before browsing history check the :guilabel:`Show search suggestions ahead of browsing history in address bar results` checkbox.
 

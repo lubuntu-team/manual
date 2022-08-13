@@ -78,6 +78,8 @@ To tab on the left :guilabel:`Home` has settings for your home and opening of ne
 
 .. image:: preferenceshome.png
 
+To enable Firefox showing recent activity on the page for new tabs check the :guilabel:`Recent activity` checkbox.
+
 To manage your search settings use the :guilabel:`Search` tab on preferences. The radio button for :guilabel:`Search Bar` changes whether you want a separate search bar or and integrated search bar for search and navigation. The :guilabel:`Default Search Engine` lets you change your default search engine. To toggle whether to search suggestions check/uncheck the :guilabel:`Provide search suggestions`. To end up showing search suggestions in the address bar when searching check the :guilabel:`Show search suggestions in address bar results` checkbox. To try to autocomplete searches before browsing history check the :guilabel:`Show search suggestions ahead of browsing history in address bar results` checkbox.
 
 To change settings for How Firefox handles security and privacy settings use the :guilabel:`Privacy & Security` tab. To increase protection against trackers press the :guilabel:`Strict` button and to switch back press the :guilabel:`Standard` button. To send website you do not want to be track header always press the :guilabel:`Always` button. To choose which sites data to clear out you can press :guilabel:`Manage Data`. If asking to save passwords is something you wish to turn off uncheck the :guilabel:`Ask to save logins and passwords for websites` checkbox.

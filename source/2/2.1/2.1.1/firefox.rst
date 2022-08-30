@@ -94,7 +94,7 @@ To see what websites store data on you locally press the :guilabel:`Manage Data`
 
 To set a password to access your logins on Firefox check the :guilabel:`Use a Primary Password` checkbox and then press the :guilabel:`Change Primary Password` button. To do this next you will need to enter the password twice to make sure you don't not accidentally make a typo and then press :guilabel:`OK`. To have Firefox not automatically save your address uncheck the :guilabel:`Autofill addresses` checkbox. To view which addresses are saved press the :guilabel:`Saved Addresses`. To have Firefox not save credit cards uncheck the :guilabel:`Autofill credit cards` checkbox. To view or delete saved credit cards press :guilabel:`Saved Credit Cards` button.
 
-To change how Firefox saves history change the menu next to :guilabel:`Firefox will`. 
+To change how Firefox saves history change the menu next to :guilabel:`Firefox will`. To clear your browsing history right now press the :guilabel:`Clear History` button.
 
 Version
 ----------

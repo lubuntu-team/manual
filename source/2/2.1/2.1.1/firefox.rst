@@ -96,7 +96,7 @@ To set a password to access your logins on Firefox check the :guilabel:`Use a Pr
 
 To change how Firefox saves history change the menu next to :guilabel:`Firefox will`. To clear your browsing history right now press the :guilabel:`Clear History` button.
 
-To stop any of the following from showing up in search suggestion uncheck the checkbox for :guilabel:`Browsing history`, :guilabel:`Bookmarks`, :guilabel:`Open tabs`, :guilabel:`Shortcuts`, or :guilabel:`Search engines`. To not have search suggestion from the web make the :guilabel:`Suggestions from the web` button grayed out.
+To stop any of the following from showing up in search suggestion uncheck the checkbox for :guilabel:`Browsing history`, :guilabel:`Bookmarks`, :guilabel:`Open tabs`, :guilabel:`Shortcuts`, or :guilabel:`Search engines`. To not have search suggestion from the web make the :guilabel:`Suggestions from the web` button grayed out. To turn off Firefox sponsored search suggestions press the button to gray out the :guilabel:`Suggestions from sponsors` button.
 
 Version
 ----------

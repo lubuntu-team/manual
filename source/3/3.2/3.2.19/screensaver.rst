@@ -17,8 +17,9 @@ To make the screen blank :menuselection:`File --> Blank Screen Now`. To lock you
 
 If you try to open the screensaver settings without having the screensaver daemon running you will bring up a dialog if you want to launch it.
 
-To change to get even more settings on your screensaver use the :guilabel:`Advanced` tab. To change images in your screensaver change settings in :guilabel:`Image Manipulation` heading. 
+To change to get even more settings on your screensaver use the :guilabel:`Advanced` tab. To change images in your screensaver change settings in :guilabel:`Image Manipulation` heading.
 
+To change turrning the screen off and if to enter standby or suspend use the settings in :guilabel:`Display Power Management`.
 
 .. image:: screensaver-advanced.png
 

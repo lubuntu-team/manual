@@ -19,7 +19,7 @@ If you try to open the screensaver settings without having the screensaver daemo
 
 To change to get even more settings on your screensaver use the :guilabel:`Advanced` tab. To change images in your screensaver change settings in :guilabel:`Image Manipulation` heading.
 
-To change turrning the screen off and if to enter standby or suspend use the settings in :guilabel:`Display Power Management`. To enable xscreensaver to have power management check the :guilabel:`Power Management Enabled` checkbox. To change how fast to turn the computer into standby change the :guilabel:`Stanby After` field.
+To change turrning the screen off and if to enter standby or suspend use the settings in :guilabel:`Display Power Management`. To enable xscreensaver to have power management check the :guilabel:`Power Management Enabled` checkbox. To change how fast to turn the computer into standby change the :guilabel:`Stanby After` field. To change how fast to suspend when idle change the :guilabel:`Suspend After` field.
 
 .. image:: screensaver-advanced.png
 

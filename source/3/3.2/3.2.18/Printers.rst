@@ -40,7 +40,7 @@ To close Printers press :kbd:`Control+Q`.
 
 Version
 -------
-Lubuntu ships with version 1.5.15 of Printers.
+Lubuntu ships with version 1.5.18 of Printers.
 
 How to Launch
 -------------

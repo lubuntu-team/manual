@@ -19,6 +19,8 @@ To undo changes in LibreOffice math press :kbd:`Control +Z` or :menuselection:`E
 
 The left hand side has many symbols you can use for say set relations and other operators. To change which groups of symbols you are currently using change the menu to the top of the sidebar with symbols on the left. If the symbol usually has a varibale or operand on on a side or something it will have a box to that side. To toggle hiding this sidebar check/uncheck :menuselection:`View --> Elements`.To insert even more symbols :menuselection:`Tools --> Symbols`.
 
+To type into a formula the bottom part of the window has what is inserted into the fomula.
+
 To change the fonts of your formulas :menuselection:`Format --> Fonts` which brings up a window for fonts for different contexts. To change your font size :menuselection:`Format --> Font sizes`. To bring up a menu to change your alignment :menuselection:`Format --> Alignment`.
 
 To change zoom :menuselection:`View --> Zoom` and select the zoom you want. In the bottom right hand corner there is a zoom slider. To zoom in move the slider to the right and to zoom out move the slider to the left.

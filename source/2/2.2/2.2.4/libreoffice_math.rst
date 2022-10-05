@@ -17,7 +17,7 @@ To paste text into LibreOffice math press :kbd:`Control +V`, right click :menuse
 
 To undo changes in LibreOffice math press :kbd:`Control +Z` or :menuselection:`Edit --> Undo`. To redo a change you have undone press :kbd:`Control +Y` or :menuselection:`Edit --> Redo`.
 
-The left hand side has many symbols you can use for say set relations and other operators. To change which groups of symbols you are currently using change the menu to the top of the sidebar with symbols on the left. If the symbol usually has a varibale or operand on on a side or something it will have a box to that side. To toggle hiding this sidebar check/uncheck :menuselection:`View --> Elements`. To insert even more symbols :menuselection:`Tools --> Symbols`.
+The left hand side has many symbols you can use for say set relations and other operators. To change which groups of symbols you are currently using change the menu to the top of the sidebar with symbols on the left. If the symbol usually has a varibale or operand on on a side or something it will have a box to that side. To toggle hiding this sidebar check/uncheck :menuselection:`View --> Elements`. To temporarily collapse a sidebar click the arrows pointing towards the edge of the window. To insert even more symbols :menuselection:`Tools --> Symbols`.
 
 To type into a formula the bottom part of the window has what is inserted into the fomula. You can also insert many operators or brackets by right clicking and then selecting the symbol.
 

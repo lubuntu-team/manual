@@ -21,7 +21,7 @@ The left hand side has many symbols you can use for say set relations and other 
 
 To type into a formula the bottom part of the window has what is inserted into the fomula. You can also insert many operators or brackets by right clicking and then selecting the symbol.
 
-To change the fonts of your formulas :menuselection:`Format --> Fonts` which brings up a window for fonts for different contexts. To change your font size :menuselection:`Format --> Font sizes`. To bring up a menu to change your alignment :menuselection:`Format --> Alignment`. To align text to the left press the :guilabel:`Left` button. To center text press the :guilabel:`Centered` button.
+To change the fonts of your formulas :menuselection:`Format --> Fonts` which brings up a window for fonts for different contexts. To change your font size :menuselection:`Format --> Font sizes`. To bring up a menu to change your alignment :menuselection:`Format --> Alignment`. To align text to the left press the :guilabel:`Left` button. To center text press the :guilabel:`Centered` button. To change alignment to the right press the :guilabel:`Right` button.
 
 To change zoom :menuselection:`View --> Zoom` and select the zoom you want. In the bottom right hand corner there is a zoom slider. To zoom in move the slider to the right and to zoom out move the slider to the left.
 

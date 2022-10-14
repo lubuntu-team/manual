@@ -47,7 +47,7 @@ Lubuntu ships with version 1.2.3 of QtPass.
 
 How to Launch
 -------------
-To launch Qtpass from the menu run :menuselection:`Accessories --> QtPass` or from the command line run
+To launch QtPass from the menu run :menuselection:`Accessories --> QtPass` or from the command line run
 
 .. code:: 
 

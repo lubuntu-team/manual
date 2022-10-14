@@ -5,7 +5,7 @@ nobleNote is the default application to take a notes on Lubuntu. nobleNote also 
 
 Usage
 ------
-To start a new note right click on the right hand column and select :menuselection:`New note` or :menuselection:`Edit --> New note`. Then enter a title for this note by typing it. To open a note double click on that note from the right hand column which will open a new window with your note in it. To input text in the note type in the main body of this window after clicking on it. To rename your not to something else press :kbd:`Control+Shift+R` or :menuselection:`Edit --> Rename note`.
+To start a new note right click on the right hand column and select :menuselection:`New note` or :menuselection:`Edit --> New note`. Then enter a title for this note by typing it. To open a note double click on that note from the right hand column which will open a new window with your note in it. To input text in the note type in the main body of this window after clicking on it. To rename your note to something else press :kbd:`Control+Shift+R` or :menuselection:`Edit --> Rename note`.
 
 To select a different notebook to keep your notes organized click on it on the left hand column. If you wish to delete a notebook right click on a notebook and :menuselection:`Delete notebook`, with the notebook highlighted press :kbd:`Control + D`, or :menuselection:`Edit --> Delete notebook`. To add a new notebook press :kbd:`Control+N` or :menuselection:`Edit --> New notebook`.
 

@@ -35,7 +35,7 @@ Lubuntu ships with version 7.4.2 of LibreOffice.
 
 How to Launch
 -------------
-From the menu :menuselection:`Office --> LibreOffice` to launch LibreOffice or run 
+From the menu :menuselection:`Office --> LibreOffice Start Center` to launch LibreOffice or run 
 
 .. code::
 

@@ -60,7 +60,7 @@ The user setup section creates a user profile, consisting of typing your name in
 
 .. image::  user_setup.png
 
-After pressing the :guilabel:`Install` button a dialog will pop up to confirm installation. To actually install press the :guilabel:`Install now` button. To not start installing and go back press the :guilabel:`Go back` button.
+The summary screen shows what settings will be installed and you can double check everything is how you want it. After pressing the :guilabel:`Install` button a dialog will pop up to confirm installation. To actually install press the :guilabel:`Install now` button. To not start installing and go back press the :guilabel:`Go back` button.
 
 .. image:: installsummary.png
 

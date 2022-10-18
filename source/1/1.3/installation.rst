@@ -9,7 +9,7 @@ At the start of the boot process a grub splash screen will be shown. To install 
 
 .. image::  grubsplash.png
 
-Once you have booted into the live session, feel free to explore Lubuntu and make sure all your hardware works. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop :guilabel:`Install Lubuntu 22.04`.
+Once you have booted into the live session, feel free to explore Lubuntu and make sure all your hardware works. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop :guilabel:`Install Lubuntu 22.10`.
 
 .. image:: live_session.png
 

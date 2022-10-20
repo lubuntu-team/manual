@@ -48,7 +48,7 @@ To show annotations controls :menuselection:`View --> Annotations Toolbar` or ri
 Customizing
 -----------
 
-To change preferences in LXImage :menuselection:`Edit --> Preferences`. The :guilabel:`General` tab has settings for recent files, thumbnails, and trash. To cancel your changes press the :guilabel:`Cancel` button. To not generate thumbnails for really large images change the :guilabel:`Thumbnailer size limit` field. To change how big thumbnails to use change the :guilabel:`Thumnail image dimensions` field. To apply your settings and exit the preference dialog by pressing the :guilabel:`OK` button.
+To change preferences in LXImage :menuselection:`Edit --> Preferences`. The :guilabel:`General` tab has settings for recent files, thumbnails, and trash. To cancel your changes press the :guilabel:`Cancel` button. To not generate thumbnails for really large images change the :guilabel:`Thumbnailer size limit` field. To change how big thumbnails to use change the :guilabel:`Thumbnail image dimensions` field. To apply your settings and exit the preference dialog by pressing the :guilabel:`OK` button.
 
 .. image:: lximage-prefrences.png
 
@@ -56,7 +56,7 @@ The :guilabel:`Window` tab manages how the window appears. To show the thumbnail
 
 .. image:: lximage-pref-window.png
 
-The :guilabel:`Image` tab has settings for how LXImage displays images. To change the background color in a window press the button next to :guilabel:`Normal background color` and then a window will pop up showing your color choice. To change the background color when fullscreen press the button next to :guilabel:`Fullscreen background color` and the same color picker window will appear. To change how long it takes for a each slide to change change in a slideshow change the :guilabel:`Slide show interval (seconds)` field. To show the image outline by default check the :guilabel:`Show image outline by default` checkbox. To fit images when naviagting check the :guilabel:`Fit images when navigating` checkbox. To smooth images when you zooming check the :guilabel:`Smooth images on zooming` checkbox.
+The :guilabel:`Image` tab has settings for how LXImage displays images. To change the background color in a window press the button next to :guilabel:`Normal background color` and then a window will pop up showing your color choice. To change the background color when fullscreen press the button next to :guilabel:`Fullscreen background color` and the same color picker window will appear. To change how long it takes for a each slide to change change in a slideshow change the :guilabel:`Slide show interval (seconds)` field. To show the image outline by default check the :guilabel:`Show image outline by default` checkbox. To fit images when navigating check the :guilabel:`Fit images when navigating` checkbox. To smooth images when you zooming check the :guilabel:`Smooth images on zooming` checkbox.
 
 .. image:: lximage-pref-image.png
 

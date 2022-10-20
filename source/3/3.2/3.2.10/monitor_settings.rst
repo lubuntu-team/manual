@@ -23,7 +23,7 @@ To save your monitor settings press the :guilabel:`Save` button and a pop up wil
 
 Multimonitor
 ------------
-With multiple monitors you can in the :guilabel:`Set position` tab you can drag the different screen around drag the two monitors around. The checkbox for :guilabel:`Keep monitor attached` pulls the monitors pixels adjacent to each other. To see which screen is which you will be labeled by their name which commonly is which port it is connected to your computer with.
+With multiple monitors you can in the :guilabel:`Set position` tab you can drag the different screen around drag the two monitors around. The checkbox for :guilabel:`Keep monitor attached` pulls the monitors pixels adjacent to each other. To see which screen is which you will be labeled by their name which commonly is which port it is connected to your computer with. If you want to have no annoying overlap between two monitors you can move a monitor beyond the edge of the current monitor and then it will snap back into perfect alignment.
 
 .. image:: multimonitor_settings.png
 
@@ -31,13 +31,13 @@ The :guilabel:`Fast Menu` tab has ways to quickly turn on or off different monit
 
 .. image:: multimonitor-fast.png
 
-The tabs towards the bottom are settings for each monitor.  This also has the same settings for this monitor as you would have for a single monitor with a few additions. To turn each display on or off toggle the :guilabel:`Enable this display` checkbox. Towards the bottom there is a drop down menu that and select :menuselection:`This is my primary Display` to make this your main monitor. If you select :menuselection:`This screen extends another display` this monitor will be a secondary monitor that shows something different than what the primary display shows. After selecting to extending another display two boxes will show up for where to place the second monitor.The box that shows a number and says :guilabel:`(x)` is a box that lets you show how many pixels to move this display horizontally. The box that shows a number and says :guilabel:`(y)` is a box that shows how many pixels to move the display vertically.
+The tabs towards the bottom are settings for each monitor.  This also has the same settings for this monitor as you would have for a single monitor with a few additions. To turn each display on or off toggle the :guilabel:`Enable this display` checkbox. Towards the bottom there is a drop down menu that and select :menuselection:`This is my primary Display` to make this your main monitor. The primary display will also be the display that desktop icons appear on by default first. If you select :menuselection:`This screen extends another display` this monitor will be a secondary monitor that shows something different than what the primary display shows. After selecting to extending another display two boxes will show up for where to place the second monitor.The box that shows a number and says :guilabel:`(x)` is a box that lets you show how many pixels to move this display horizontally. The box that shows a number and says :guilabel:`(y)` is a box that shows how many pixels to move the display vertically.
 
 .. image:: multimonitor-extended.png
 
 Version
 -------
-Lubuntu ships with version 0.14.1 of Monitor Settings.
+Lubuntu ships with version 0.17.1 of Monitor Settings.
 
 How to Launch
 -------------

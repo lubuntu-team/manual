@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016-2020, Lubuntu Team. This work is licensed under a
+# Creative Commons Attribution 4.0 International License
+# This file is distributed under the same license as the Lubuntu Manual
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lubuntu Manual 20.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../source/G/AdvancedNetworking.rst:3
+msgid "Appendix G Advanced Networking"
+msgstr ""
+
+#: ../../source/G/AdvancedNetworking.rst:5
+msgid ""
+"nm-tray has the benefit of being Qt instead of GTK (use already loaded "
+"libraries, consuming less resources) and lighter than conman. But, it is "
+"a little short for more complicated networking like VPN."
+msgstr ""
+
+#: ../../source/G/AdvancedNetworking.rst:8
+msgid "VPN"
+msgstr ""
+
+#: ../../source/G/AdvancedNetworking.rst:10
+msgid ""
+"To configure a VPN the best way to do it is with  in the Menu under "
+":menuselection:`Preferences --> Advanced Network Configuration`. That "
+"will open network-manager-gnome you will need also to install the "
+"corresponding packages. In case of pptp those will be network-manager-"
+"pptp and network-manager-pptp-gnome. The you can follow the configuration"
+" instruction for each VPN type. After the creation, it will appear as a "
+"new connection in nm-tray. One thing to consider is that nm-tray does not"
+" support password asking, so either you save the password FOR ALL USERS "
+"or you will need to connect differently. One of the  option is through "
+"terminal with typing"
+msgstr ""
+
+#: ../../source/G/AdvancedNetworking.rst:18
+msgid ""
+"with the actual VPN connection name. The other option is to use nm-"
+"applet, the \"simil\" to nm-tray from network-manager.gnome. You can run "
+"it from the terminal typing"
+msgstr ""
+
+#: ../../source/G/AdvancedNetworking.rst:24
+msgid ""
+"and you will end up with 2 connection indicators in the tray. The you can"
+" connect to the VPN with nm-applet and after the connection is "
+"established, you can close nm-applet and the connection will still be "
+"present."
+msgstr ""
+
+#: ../../source/G/AdvancedNetworking.rst:27
+msgid "Changing nm-tray for nm-applet"
+msgstr ""
+
+#: ../../source/G/AdvancedNetworking.rst:29
+msgid ""
+"If you don't want to run by terminal nm-applet you could change nm-tray "
+"for nm-applet. You will need to change the autostart. The easiest form to"
+" do this from the GUI is in the Menu going to :menuselection:`Preferences"
+" --> LXQt settings --> Session Settings`. There go to the "
+":guilabel:`Autostart` tab. You will see a list with checked and unchecked"
+" box, to autostart nm-applet, check :guilabel:`Network` to disable "
+"autostart for nm-tary uncheck :guilabel:`nm-tray`."
+msgstr ""
+

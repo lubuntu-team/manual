@@ -10,27 +10,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lubuntu Manual 18.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-12 14:08-0600\n"
+"POT-Creation-Date: 2020-07-26 14:54-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.8.0\n"
 
 #: ../../source/F/openbox_keyboard.rst:2
 msgid "**Keybindings for desktop switching**"
 msgstr ""
 
-#: ../../source/F/openbox_keyboard.rst:6 ../../source/F/openbox_keyboard.rst:8
-#: ../../source/F/openbox_keyboard.rst:10
-#: ../../source/F/openbox_keyboard.rst:12
-#: ../../source/F/openbox_keyboard.rst:22
-#: ../../source/F/openbox_keyboard.rst:24
-#: ../../source/F/openbox_keyboard.rst:26
-#: ../../source/F/openbox_keyboard.rst:28
-msgid "GoToDesktop"
+#: ../../source/F/openbox_keyboard.rst:6
+msgid "GoToLeftDesktop"
 msgstr ""
 
 #: ../../source/F/openbox_keyboard.rst:6
@@ -38,7 +32,16 @@ msgid "C-A-Left"
 msgstr ""
 
 #: ../../source/F/openbox_keyboard.rst:8
+msgid "GoToRightDesktop"
+msgstr ""
+
+#: ../../source/F/openbox_keyboard.rst:8
 msgid "C-A-Right"
+msgstr ""
+
+#: ../../source/F/openbox_keyboard.rst:10
+#: ../../source/F/openbox_keyboard.rst:12
+msgid "GoToDesktop"
 msgstr ""
 
 #: ../../source/F/openbox_keyboard.rst:10
@@ -50,10 +53,7 @@ msgid "C-A-Down"
 msgstr ""
 
 #: ../../source/F/openbox_keyboard.rst:14
-#: ../../source/F/openbox_keyboard.rst:16
-#: ../../source/F/openbox_keyboard.rst:18
-#: ../../source/F/openbox_keyboard.rst:20
-msgid "SendToDesktop"
+msgid "SendToDesktoaToLeft"
 msgstr ""
 
 #: ../../source/F/openbox_keyboard.rst:14
@@ -61,7 +61,16 @@ msgid "S-A-Left"
 msgstr ""
 
 #: ../../source/F/openbox_keyboard.rst:16
+msgid "SendToDesktopToRight"
+msgstr ""
+
+#: ../../source/F/openbox_keyboard.rst:16
 msgid "S-A-Right"
+msgstr ""
+
+#: ../../source/F/openbox_keyboard.rst:18
+#: ../../source/F/openbox_keyboard.rst:20
+msgid "SendToDesktop"
 msgstr ""
 
 #: ../../source/F/openbox_keyboard.rst:18
@@ -73,7 +82,15 @@ msgid "S-A-Down"
 msgstr ""
 
 #: ../../source/F/openbox_keyboard.rst:22
+msgid "GoTo first Desktop"
+msgstr ""
+
+#: ../../source/F/openbox_keyboard.rst:22
 msgid "W-F1"
+msgstr ""
+
+#: ../../source/F/openbox_keyboard.rst:24
+msgid "GoTo second Desktop"
 msgstr ""
 
 #: ../../source/F/openbox_keyboard.rst:24
@@ -81,7 +98,15 @@ msgid "W-F2"
 msgstr ""
 
 #: ../../source/F/openbox_keyboard.rst:26
+msgid "GoTo third Desktop"
+msgstr ""
+
+#: ../../source/F/openbox_keyboard.rst:26
 msgid "W-F3"
+msgstr ""
+
+#: ../../source/F/openbox_keyboard.rst:28
+msgid "GoTo fourth Desktop"
 msgstr ""
 
 #: ../../source/F/openbox_keyboard.rst:28
@@ -93,7 +118,7 @@ msgid "ToggleShowDesktop"
 msgstr ""
 
 #: ../../source/F/openbox_keyboard.rst:30
-msgid "W-d"
+msgid "W-D"
 msgstr ""
 
 #: ../../source/F/openbox_keyboard.rst:34
@@ -109,7 +134,7 @@ msgid "A-F4"
 msgstr ""
 
 #: ../../source/F/openbox_keyboard.rst:40
-msgid "Lower"
+msgid "Lower (minimise)"
 msgstr ""
 
 #: ../../source/F/openbox_keyboard.rst:40
@@ -177,141 +202,196 @@ msgid "W-S-Down"
 msgstr ""
 
 #: ../../source/F/openbox_keyboard.rst:72
-msgid "**HalfLeftScreen**"
-msgstr ""
-
-#: ../../source/F/openbox_keyboard.rst:76
-#: ../../source/F/openbox_keyboard.rst:84
-#: ../../source/F/openbox_keyboard.rst:92
-#: ../../source/F/openbox_keyboard.rst:100
-msgid "UnmaximizeFull"
-msgstr ""
-
-#: ../../source/F/openbox_keyboard.rst:76
-msgid "W-Left"
-msgstr ""
-
-#: ../../source/F/openbox_keyboard.rst:80
-msgid "**HalfRightScreen**"
-msgstr ""
-
-#: ../../source/F/openbox_keyboard.rst:84
-msgid "W-Right"
-msgstr ""
-
-#: ../../source/F/openbox_keyboard.rst:88
-msgid "**HalfUpperScreen**"
-msgstr ""
-
-#: ../../source/F/openbox_keyboard.rst:92
-msgid "W-Up"
-msgstr ""
-
-#: ../../source/F/openbox_keyboard.rst:96
-msgid "**HalfLowerScreen**"
-msgstr ""
-
-#: ../../source/F/openbox_keyboard.rst:100
-msgid "W-Down"
-msgstr ""
-
-#: ../../source/F/openbox_keyboard.rst:104
 msgid "**Keybindings to toggle fullscreen**"
 msgstr ""
 
-#: ../../source/F/openbox_keyboard.rst:108
+#: ../../source/F/openbox_keyboard.rst:76
 msgid "ToggleFullscreen"
 msgstr ""
 
-#: ../../source/F/openbox_keyboard.rst:108
+#: ../../source/F/openbox_keyboard.rst:76
 msgid "F11"
 msgstr ""
 
-#: ../../source/F/openbox_keyboard.rst:112
-msgid "**Keybindings for running application: File manager**"
+#: ../../source/F/openbox_keyboard.rst:82
+msgid "Pcmanfm"
 msgstr ""
 
-#: ../../source/F/openbox_keyboard.rst:116
-#: ../../source/F/openbox_keyboard.rst:124
-#: ../../source/F/openbox_keyboard.rst:126
-#: ../../source/F/openbox_keyboard.rst:134
-#: ../../source/F/openbox_keyboard.rst:142
-#: ../../source/F/openbox_keyboard.rst:150
-#: ../../source/F/openbox_keyboard.rst:152
-#: ../../source/F/openbox_keyboard.rst:160
-#: ../../source/F/openbox_keyboard.rst:168
-#: ../../source/F/openbox_keyboard.rst:170
-#: ../../source/F/openbox_keyboard.rst:172
-msgid "Execute"
-msgstr ""
-
-#: ../../source/F/openbox_keyboard.rst:116
+#: ../../source/F/openbox_keyboard.rst:82
 msgid "W-e"
 msgstr ""
 
-#: ../../source/F/openbox_keyboard.rst:120
-msgid "**Keybindings for running application: Lxpanel**"
+#: ../../source/F/openbox_keyboard.rst:88
+msgid "Launch lxqt-runer"
 msgstr ""
 
-#: ../../source/F/openbox_keyboard.rst:124
+#: ../../source/F/openbox_keyboard.rst:88
 msgid "W-r"
 msgstr ""
 
-#: ../../source/F/openbox_keyboard.rst:126
-msgid "A-F2"
-msgstr ""
-
-#: ../../source/F/openbox_keyboard.rst:130
+#: ../../source/F/openbox_keyboard.rst:92
 msgid "**Launch task manager on Ctrl + Alt + Del**"
 msgstr ""
 
-#: ../../source/F/openbox_keyboard.rst:134
+#: ../../source/F/openbox_keyboard.rst:96
+msgid "Open qps"
+msgstr ""
+
+#: ../../source/F/openbox_keyboard.rst:96
 msgid "C-A-Delete"
 msgstr ""
 
-#: ../../source/F/openbox_keyboard.rst:138
+#: ../../source/F/openbox_keyboard.rst:100
 msgid "**Launch a terminal on Ctrl + Alt + T**"
 msgstr ""
 
-#: ../../source/F/openbox_keyboard.rst:142
+#: ../../source/F/openbox_keyboard.rst:104
+#: ../../source/F/openbox_keyboard.rst:111
+msgid "Open qterminal"
+msgstr ""
+
+#: ../../source/F/openbox_keyboard.rst:104
 msgid "C-A-T"
 msgstr ""
 
-#: ../../source/F/openbox_keyboard.rst:146
-msgid "**Keybinding for terminal button**"
+#: ../../source/F/openbox_keyboard.rst:109
+msgid "Launch firefox"
 msgstr ""
 
-#: ../../source/F/openbox_keyboard.rst:150
+#: ../../source/F/openbox_keyboard.rst:109
 msgid "XF86WWW"
 msgstr ""
 
-#: ../../source/F/openbox_keyboard.rst:152
+#: ../../source/F/openbox_keyboard.rst:111
 msgid "XF86Terminal"
 msgstr ""
 
-#: ../../source/F/openbox_keyboard.rst:156
+#: ../../source/F/openbox_keyboard.rst:116
 msgid "**Keybinding for computer button**"
 msgstr ""
 
-#: ../../source/F/openbox_keyboard.rst:160
+#: ../../source/F/openbox_keyboard.rst:120
+msgid "Open pcmanfm-qt"
+msgstr ""
+
+#: ../../source/F/openbox_keyboard.rst:120
 msgid "XF86MyComputer"
 msgstr ""
 
-#: ../../source/F/openbox_keyboard.rst:164
-msgid ""
-"**Keybindings for Multimedia Keys and LCD Backlight (alternative when not"
-" using gnome-power-manager or xfce4-volumed)**"
+#: ../../source/F/openbox_keyboard.rst:124
+msgid "**Keybinding for backlight**"
 msgstr ""
 
-#: ../../source/F/openbox_keyboard.rst:168
+#: ../../source/F/openbox_keyboard.rst:128
+msgid "Toggle turn off monitor"
+msgstr ""
+
+#: ../../source/F/openbox_keyboard.rst:128
 msgid "C-F7"
 msgstr ""
 
-#: ../../source/F/openbox_keyboard.rst:170
-msgid "C-F10"
+#: ../../source/F/openbox_keyboard.rst:130
+msgid "Decrease backlight brightness"
 msgstr ""
 
-#: ../../source/F/openbox_keyboard.rst:172
-msgid "C-F11"
+#: ../../source/F/openbox_keyboard.rst:130
+msgid "C-S-F6"
 msgstr ""
+
+#: ../../source/F/openbox_keyboard.rst:132
+msgid "Increase backlight brightness"
+msgstr ""
+
+#: ../../source/F/openbox_keyboard.rst:132
+msgid "C-S-F7"
+msgstr ""
+
+#: ../../source/F/openbox_keyboard.rst:136
+msgid "**Keybindings fo Volume**"
+msgstr ""
+
+#: ../../source/F/openbox_keyboard.rst:140
+msgid "Decrease Volume"
+msgstr ""
+
+#: ../../source/F/openbox_keyboard.rst:140
+msgid "XF86VolumeLower"
+msgstr ""
+
+#: ../../source/F/openbox_keyboard.rst:142
+msgid "Increase Volume"
+msgstr ""
+
+#: ../../source/F/openbox_keyboard.rst:142
+msgid "XF86VolumeRaise"
+msgstr ""
+
+#: ../../source/F/openbox_keyboard.rst:144
+msgid "Mute Volume"
+msgstr ""
+
+#: ../../source/F/openbox_keyboard.rst:144
+msgid "XF86AudioMute"
+msgstr ""
+
+#~ msgid "W-d"
+#~ msgstr ""
+
+#~ msgid "Lower"
+#~ msgstr ""
+
+#~ msgid "**HalfLeftScreen**"
+#~ msgstr ""
+
+#~ msgid "UnmaximizeFull"
+#~ msgstr ""
+
+#~ msgid "W-Left"
+#~ msgstr ""
+
+#~ msgid "**HalfRightScreen**"
+#~ msgstr ""
+
+#~ msgid "W-Right"
+#~ msgstr ""
+
+#~ msgid "**HalfUpperScreen**"
+#~ msgstr ""
+
+#~ msgid "W-Up"
+#~ msgstr ""
+
+#~ msgid "**HalfLowerScreen**"
+#~ msgstr ""
+
+#~ msgid "W-Down"
+#~ msgstr ""
+
+#~ msgid "**Keybindings for running application: File manager**"
+#~ msgstr ""
+
+#~ msgid "Execute"
+#~ msgstr ""
+
+#~ msgid "**Keybindings for running application: Lxpanel**"
+#~ msgstr ""
+
+#~ msgid "A-F2"
+#~ msgstr ""
+
+#~ msgid "**Keybinding for terminal button**"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "**Keybindings for Multimedia Keys and "
+#~ "LCD Backlight (alternative when not "
+#~ "using gnome-power-manager or "
+#~ "xfce4-volumed)**"
+#~ msgstr ""
+
+#~ msgid "C-F10"
+#~ msgstr ""
+
+#~ msgid "C-F11"
+#~ msgstr ""
 

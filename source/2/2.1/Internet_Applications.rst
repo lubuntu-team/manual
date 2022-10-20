@@ -1,7 +1,7 @@
 Chapter 2.1 Internet Applications
 =================================
 
-This chapter documents how to use webbrowsers, email clients, and torrent clients. 
+This chapter documents how to use webbrowsers, IRC, bluetooth, and torrent clients. 
 
 .. toctree::
    :maxdepth: 2
@@ -11,4 +11,4 @@ This chapter documents how to use webbrowsers, email clients, and torrent client
    2.1.2/qtransmission
    2.1.3/Quassel_IRC
    2.1.4/bluedevil
-   2.1.5/trojita
+

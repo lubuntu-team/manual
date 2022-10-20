@@ -24,5 +24,5 @@ This chapter sets up the many preferences included within Lubuntu for themeing a
   3.2.15/users_and_groups
   3.2.16/window_effects
   3.2.17/alternative_configurator
-  3.2.19/Printers
-  3.2.20/screensaver
+  3.2.18/Printers
+  3.2.19/screensaver

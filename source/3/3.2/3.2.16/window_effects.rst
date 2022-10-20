@@ -5,7 +5,7 @@ Window Effects is the default program in Lubuntu to manage effects of the Compto
 
 Usage
 ------
-The :guilabel:`Shadow` tab manages how compton draws shadows. To toggle enable client side shadows press the Enable client side shadows checkbox. The checkbox for Avoid drawing shadows on dock/panel windows will stop drawing shadows on the panel. The :guilabel:`Color of shadow` lets you change the color of shadows from windows. The field for :guilabel:`The blur radius for shadows` changes how big to blur the shadows. :guilabel:`The left offset for shadows` is how far to move the shadows to the left with a larger number makes the shadow appear farther to the right. :guilabel:`The top offset for shadows` the larger the number farther down the shadow appears below the window. :guilabel:`The translucency for shadows` is how opaque or clear to make the shadows 1 is opaque shadows and 0 is clear. The :guilabel:`Crop shadows of maximized windows from extended displays` checkbox does not have shadows across multimonitor layouts on other monitors from windows on another.  
+The :guilabel:`Shadow` tab manages how compton draws shadows. To toggle enable client side shadows press the Enable client side shadows checkbox. The checkbox for :guilabel:`Avoid drawing shadows` on dock/panel windows will stop drawing shadows on the panel. The :guilabel:`Color of shadow` lets you change the color of shadows from windows. The field for :guilabel:`The blur radius for shadows` changes how big to blur the shadows. :guilabel:`The left offset for shadows` is how far to move the shadows to the left with a larger number makes the shadow appear farther to the right. :guilabel:`The top offset for shadows` the larger the number farther down the shadow appears below the window. :guilabel:`The translucency for shadows` is how opaque or clear to make the shadows 1 is opaque shadows and 0 is clear. The :guilabel:`Crop shadows of maximized windows from extended displays` checkbox does not have shadows across multimonitor layouts on other monitors from windows on another.  
 
 .. image:: window_effects.png
 
@@ -23,7 +23,7 @@ To have your settings applied you will need to press the :guilabel:`Apply` butto
 
 Version
 -------
-Lubuntu ships with version 0.14.1 of Window Effects.
+Lubuntu ships with version 0.16.0 of Window Effects.
 
 How to Launch
 -------------
@@ -33,4 +33,4 @@ To launch Window Effects from the menu :menuselection:`Preferences --> LXQt Sett
 
    compton-conf 
   
-from the command line. The icon for Window Effects is a gear button with a c in it to launch Window Effects. Of course for this to have any effect the compton compositor needs to be running so see `Chapter 3.2.13 <https://manual.lubuntu.me/3/3.2/3.2.13/session_settings.html>`_ for how to autostart applications. To start the compton compositor now but not have it autostart :menuselection:`Acessories --> compton` from the menu. 
+from the command line. The icon for Window Effects is a gear button with a c in it to launch Window Effects. Of course for this to have any effect the compton compositor needs to be running so see `Chapter 3.2.13 <https://manual.lubuntu.me/3/3.2/3.2.13/session_settings.html>`_ for how to autostart applications. To start the compton compositor just once :menuselection:`Accessories --> compton` from the menu. 

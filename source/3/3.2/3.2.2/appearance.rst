@@ -5,7 +5,9 @@ Appearance is the default program that changes the theming of LXQt for a differe
 
 Usage
 ------
-The tab :guilabel:`Widget Style` changes the way windows, buttons, and menus are drawn. To change the usage Qt widget will change the buttons and tooblbars look on Lubuntu in Qt applications. Check the checkbox :guilabel:`Set GTk themes` settings will apply native themes to GTK applications. The field for :guilabel:`GTK 2 Theme` will select a theme for GTK2 applications. The :guilabel:`GTK 3 Theme` field sets the theme for GTK3 applications. The checkbox :guilabel:`Activate on single click` has makes things you normally need two clicks for one click.  
+
+The tab :guilabel:`Widget Style` changes the way windows, buttons, and menus are drawn. To change how buttons and toolbars look on Lubuntu in Qt applications use the :guilabel:`Qt Style` menu. The section :guilabel:`Qt Palate` changes colors on Qt applications. To change the background color of windows use the :guilabel:`Window` button and then choose your color. To change foreground elements colors use the :guilabel:`View` menu. To change the color of selected buttons and text change the :guilabel:`Selection` button. To change the color of hyperlinks on windows change the :guilabel:`Link` button. To change how the text of windows appears change the :guilabel:`Window Text` field. To change the color of text on buttons change the :guilabel:`View Text` button. To change the color of text you have selected press the :guilabel:`Selected Text` button. to change the color of links you have visited press the :guilabel:`Visited Link` button. To change your colors back to default press the :guilabel:`Default Palette` button and then press :guilabel:`Apply`. Check the checkbox :guilabel:`Set GTK themes` settings will apply native themes to GTK applications. The field for :guilabel:`GTK 2 Theme` will select a theme for GTK2 applications. The :guilabel:`GTK 3 Theme` field sets the theme for GTK3 applications. The checkbox :guilabel:`Activate on single click` has makes things you normally need two clicks for one click.  
+
 
  .. image:: appearance.png
 
@@ -15,7 +17,7 @@ The :guilabel:`Icons Theme` tab changes desktop icons on your computer and if yo
 
 The tab for :guilabel:`LXQt Theme` lets you change how the panel and notifications appear. To change the theme left click on the theme name to change the theme. To the left of the theme name there is a small preview of the panel and the default button for the panel. The checkbox :guilabel:`Override user-defined wallpaper` changes your wallpaper to one that comes with the LXQt theme. 
 
-.. image::  lxqt-theme-tab.png
+.. image:: lxqt-theme-tab.png
 
 The :guilabel:`Font` tab has settings for fonts. To change the font size that desktop applications use choose the font tab and change the :guilabel:`Point size` and enter in the size you want or use the up and down arrows to increase or decrease font size respectively. To change the default font there is the :guilabel:`Font name` drop down that you can type the font name you or select from the drop down menu. The checkbox for  :guilabel:`Use antialias fonts` and :guilabel:`Font hinting` for fonts lets you also set antialiased fonts which are enabled for easier screen viewing. The :guilabel:`Resolution(DPI)` sets the resolution or dots per inch of the screen. To change how much the fonts are hinted change the :guilabel:`Font hinting style` drop down menu. 
 
@@ -29,7 +31,7 @@ If you want to reset your changes you will need to click the :guilabel:`Reset` b
 
 Version
 -------
-Lubuntu ships with version 0.14.1 of Appearance. 
+Lubuntu ships with version 0.17.1 of Appearance. 
 
 How to Launch
 -------------

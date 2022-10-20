@@ -1,5 +1,5 @@
 ************************
-Appendix C Command line
+Appendix C Command Line
 ************************
 
 The command line or CLI is text interface to your computer and an alternative to graphical user interfaces like windows. It typically involves typing text commands into a terminal to perform some operation. Although not necessary to learn, it can be helpful. The terminal which can be launched from :kbd:`Control + Alt + T` is a command line running in a window. 
@@ -10,7 +10,7 @@ An exhaustive tutorial on the command line is a bit beyond the scope of the manu
    
    man df
 
-This will show you the user manual for the df command containing and explanation of the command and other useful information. For example is the -h option gives a human readable output. If the manual is way too long you can press the :kbd:`/` key and type in what you want to search for. To quit a man page press :kbd:`q`.
+This will show you the user manual for the df command containing and explanation of the command and other useful information. For example is the -h option gives a human readable output. If the manual is way too long you can press the :kbd:`/` key and type in what you want to search for. To scroll up and down in a manual page press :kbd:`Up arrow` or :kbd:`Down arrow`. To quit a man page press :kbd:`q`.
 
 .. code::
   
@@ -38,7 +38,9 @@ To change to another directory an important command is
 
 where [dir] is the directory you want to switch to. Another thing that is useful is you can append .. after cd to make it go up one level.
 
-There is also the command line for managing and installing packages which is beyond the scope of this appendix but please see `apt package management <https://help.ubuntu.com/lts/serverguide/apt.html>`_ for how to insert and remove packages from the command line. 
+Many command line commands have what are called options that use one or sometimes two :kbd:`-` to type before options that allow you to do different options on different commands which checking the man page to see what options for each command.
+
+There is also the command line for managing and installing packages which is beyond the scope of this appendix but please see `apt package management <https://ubuntu.com/server/docs/package-management>`_ for how to insert and remove packages from the command line. 
 
 If you need to edit a text file from the command line the easiest editor included is nano so to edit a file from the command line if you broke something run 
 

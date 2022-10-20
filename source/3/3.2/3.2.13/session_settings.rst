@@ -5,19 +5,19 @@ Session Settings is the way to change what happens when log into Lubuntu. Here y
 
 Usage
 ------
-The :guilabel:`Basic Settings` tab lets you change with a window manager  and LXQt modules. To change the window manager used by LXQt, on the basic settings tab use the :guilabel:`Window Manager` drop down menu. Choose from the drop down list or press :guilabel:`Search` if the drop down list does not contain your new window manager. LXQt modules lists the different part of LXQt if you find you do not want part of LXQt active you can enable or disable them here. If you wish to start the compton X11 compositor you can do so here, we have chosen to disable it at default to lower system resources by default. To stop an LXQt Module left click on the module name press the :guilabel:`Stop` button. To start a stopped LXQt Modules press the :guilabel:`Start` button. If you want to restart part of LXQt without using the command line first press the :guilabel:`Stop` button and then the :guilabel:`Start` button.
+
+
+The :guilabel:`Basic Settings` tab lets you change with a window manager  and LXQt modules. To change the window manager used by LXQt, on the basic settings tab use the :guilabel:`Window Manager` drop down menu. Choose from the drop down list or press :guilabel:`Search` if the drop down list does not contain your new window manager. The :guilabel:`LXQt Modules` heading lists the different part of LXQt if you find you do not want part of LXQt active you can enable or disable them here. If you wish to start the compton X11 compositor you can do so here, we have chosen to disable it at default to lower system resources by default. To stop an LXQt Module left click on the module name press the :guilabel:`Stop` button. To start a stopped LXQt Modules press the :guilabel:`Start` button. If you want to restart part of LXQt without using the command line first press the :guilabel:`Stop` button and then the :guilabel:`Start` button.
+
 
 .. image:: sessionsettings-basic.png
 
 The checkbox for :guilabel:`Ask for confirmation to leave session` gives you a simple yes no dialog to make sure you really want to leave so you do not lose your work uncheck it if you do not want this and find this dialog annoying. The :guilabel:`Lock screen before suspending/hibernating` checkbox locks your screen before suspending or hibernating. To change how long to wait after locking the screen to delay or suspend change the :guilabel:`Suspend/hibernate after lock delay` field. 
 
-The :guilabel:`Default Applications` tab lets you change your default browser and terminal emulator. The drop down for :guilabel:`Terminal Emulator` lets you change the terminal emulator and the drop down for :guilabel:`Web Browser` lets you change your webbrowser.
-
-.. image:: default-app-tabs.png
 
 To change where LXQt saves the default user directories left click on the :guilabel:`User Directories` tab. To view what folder to change the default location for use the :guilabel:`Desktop`, :guilabel:`Downloads`, :guilabel:`Templates`, :guilabel:`Public Share`, :guilabel:`Documents`, :guilabel:`Music`, :guilabel:`Pictures`, or :guilabel:`Videos` field to change that default folder for that. To bring up a dialog to change your folder press the folder button. In the center shows the current path to your documents. To go back to the default folder press the leftward pointing arrow with an x in it.
 
-.. image::  user-directories-tab.png 
+.. image:: user-directories-tab.png 
 
 The :guilabel:`Autostart` tab has settings for what to autostart. The autostart applications lets you choose which applications to autostart like managers for print queues. All of these are check-boxes to start various programs. You can start a program at startup by adding it here. Click the :guilabel:`Add` button, give the process a name e.g. "Terminal drop down" and type in the :guilabel:`Name` and type appropriate terminal command e.g. "qterminal -d" where it says :guilabel:`Command`. If you are say autostarting a clipboard manager or something else that needs to be in a system tray check the :guilabel:`Wait for system tray` checkbox so the application does not autostart before the system tray and does not end up running. To change a keyboard shortcut press the :guilabel:`Edit` button. To stop a program from running automatically but not to delete the entry uncheck the checkbox in front of that entry. To remove a setting for autostart first uncheck the checkbox to disable autostarting that program then left click on the autostart press the :guilabel:`Delete` button. 
 
@@ -31,7 +31,7 @@ If you want to undo changes you have done press the :guilabel:`Reset` button. To
 
 Version
 -------
-Lubuntu ships with version 0.14.1 of Session Settings. 
+Lubuntu ships with version 0.17.1 of Session Settings. 
 
 How to Launch
 -------------

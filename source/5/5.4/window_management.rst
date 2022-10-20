@@ -7,7 +7,7 @@ Using the mouse
 ---------------
 In the top-right corner of a window three buttons allow you basic controls of the window. Starting from left to right
 
--   Iconify :guilabel:`-` hides/minimizes the window making it only appear on the task bar of the Panel. It can be recalled by clicking on the application on the task bar, or cycling through open windows with :kbd:`ALT + Tab`. Another way to Iconify is to middle click on the tittlebar. 
+-   Iconify :guilabel:`-` hides/minimizes the window making it only appear on the task bar of the Panel. It can be recalled by clicking on the application on the task bar, or cycling through open windows with :kbd:`ALT + Tab`. Another way to Iconify is to middle click on the titlebar. 
 -   Maximize resizes the window to fill the entire screen.
 -   Close circled :guilabel:`x` attempts to close the window unless a dialog asks for to save or the program is not responding.
 
@@ -15,7 +15,7 @@ In the top-right corner of a window three buttons allow you basic controls of th
 
 In the top center is the title of your window.
 
-The window can be moved by by clicking on the title-bar and dragging the mouse or from the menu on the titlebar select :menuselection:`Move`. Windows can be minimized by middle clicking on the titlebar with the mouse. You can resize the window by grabbing the border (sides or corners which should be highlighted in blue) and dragging or from the menu on the titlebar select :menuselection:`Resize`.
+The window can be moved by by clicking on the title-bar and dragging the mouse, holding :kbd:`alt+drag the mouse`, or from the menu on the titlebar select :menuselection:`Move`. Windows can be minimized by middle clicking on the titlebar with the mouse. You can resize the window by grabbing the border (sides or corners which should be highlighted in blue) and dragging or from the menu on the titlebar select :menuselection:`Resize`.
 
 Right clicking on the title bar, pressing :kbd:`Alt+Space`, or left clicking on the icon in the top-left corner of the window brings the window management menu. Here you can:
 

@@ -52,7 +52,7 @@ To change preferences in LXImage :menuselection:`Edit --> Preferences`. The :gui
 
 .. image:: lximage-prefrences.png
 
-The :guilabel:`Window` tab manages how the window appears. To show the thumbnails dock by default check the :guilabel:`Show thumbnails dock by default` checkbox. 
+The :guilabel:`Window` tab manages how the window appears. To show the thumbnails dock by default check the :guilabel:`Show thumbnails dock by default` checkbox and choose where it is to the right. 
 
 .. image:: lximage-thumbnail-pref.png
 

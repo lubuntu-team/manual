@@ -10,7 +10,7 @@ Choosing the media
 In order to boot the image, you need to put it somewhere. You have two choices either
 
  - a DVD
- - a USB drive (2 GB or greater)
+ - a USB drive (4 GB or greater)
 
 Writing/burning the Image
 -------------------------

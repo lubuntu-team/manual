@@ -23,7 +23,11 @@ To undo an operation press :kbd:`Control+Z` or :menuselection:`Edit --> Undo`. T
 
 To copy and answer out of KCalc press :kbd:`control + c` or :menuselection:`Edit --> Copy` from the menu. To paste a number into KCalc you can press :kbd:`control + v` or :menuselection:`Edit --> Paste` from the menu. To cut the text from KCalc press :kbd:`control +x` or :menuselection:`Edit --> Cut` from the menu.
 
-To view your history what you have calculated in KCalc press :kbd:`Control+h` or :menuselection:`Settings --> Show History`. To hide your history do the same thing again. You can select text with the mouse in KCalc and then right click select :menuselection:`Copy` or press :kbd:`Control+C` to copy what you have previously calculated.
+To view your history what you have calculated in KCalc press :kbd:`Control+h` or :menuselection:`Settings --> Show History`. To hide your history do the same thing again. You can select text with the mouse in KCalc and then right click select :menuselection:`Copy` or press :kbd:`Control+C` to copy what you have previously calculated. To select all of the history press :kbd:`Control+A` or right click :menuselection:`Select All`.
+
+.. image:: kcalc-history.png
+
+To get a main toolbar right click on the main menus and select :menuselection:`Main Toolbar`.
 
 To quit KCalc press :kbd:`Control+Q`.
 
@@ -86,7 +90,7 @@ To customize your shortcuts for KCalc :menuselection:`Settings --> Keyboard Shor
 
 Version
 -------
-Lubuntu ships with version 4:12.2 of KCalc.
+Lubuntu ships with version 22.08.1 of KCalc.
 
 How to Launch
 -------------

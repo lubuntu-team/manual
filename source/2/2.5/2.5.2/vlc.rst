@@ -101,7 +101,7 @@ Customizing
 -----------
 To view your preferences of VLC press :kbd:`control +P` or :menuselection:`Tools --> Preferences`. To change how VLC looks and what buttons it has use the :guilabel:`Interface` tab. To choose to use a custom skin for VLC press the :guilabel:`Use custom skin` radio button and then press :guilabel:`Choose` to find your custom skin. To toggle showing buttons for pausing, changing tracks and the volume control check/uncheck the :guilabel:`Show controls in full screen mode` checkbox. To have the video display in its own window uncheck the :guilabel:`Integrate video in interface` checkbox. To start VLC in a minimal view mode check the :guilabel:`Start in minimal view mode` checkbox. To have VLC pause playback when the VLC window is minimized check the :guilabel:`Pause playback when minimized` checkbox. To toggle showing an icon in the system tray check/uncheck the :guilabel:`Show systray icon` checkbox. To change VLC showing a popup when the media changes like when having multiple files in a playlist change the :guilabel:`Show media change popup` menu. The :guilabel:`Force window style` changes the way VLC windows are drawn if you want a custom layout for just VLC. To allow only one window of VLC check the :guilabel:`Allow only one instance` checkbox. If you have only one instance check the :guilabel:`Enqueue items into playlist in one instance mode` checkbox to add new files to play at the end of the playlist.  To have VLC continue playback of files changes change the :guilabel:`Continue playback?` menu and select :menuselection:`Always` to always playback or ask to ask for playback.
 
-.. image::  vlcprefrences.png
+.. image::  vlc-preferences.png
 
 To cancel your changes in this window and close it press the :guilabel:`Cancel` button. To Reset your preferences to press the :guilabel:`Reset Preferences` button. To Save your preferences and close the window press the :guilabel:`Save` button.
 
@@ -125,6 +125,8 @@ To view your hotkey settings use the  :guilabel:`Hotkeys` tab. The column :guila
 
 .. image:: vlc-pref-hotkeys.png
 
+To change to view even more settings press the :guilabel:`All` button in the :guilabel:`Show settings` part of your prefrences. To switch back to simple settings press the :guilabel:`Simple` button. To search for a setting in the Advanced settings interface use the :guilabel:`Search` bar.
+
 To change how the user interface of VLC appears :menuselection:`Tools --> Customize Interface`. To select a profile that works as a default some ones for older versions of VLC choose the :guilabel:`Select profile:` drop down menu. To create a new profile press the button to the right press the paper with a sun on it. To move the main toolbar above the video check the :guilabel:`Above the video` checkbox. Below will be the lines of each toolbar for example :guilabel:`Line 2` for each line of toolbar. To see a summary of what each button does hover the mouse over it and a description will pop up.To move a button to the left or right left click and drag to the left and right the button to the desired position. To see a preview of how this will effect the media player and see it press the :guilabel:`Preview` section of the window.
 
 To change the elements for the time toolbar use the :guilabel:`Time toolbar` tab. To move elements on the time toolbar left click on the element and drag it into place. To change the location of advanced features use the :guilabel:`Advanced Widget` tab. To move the elements on the advanced toolbar left click on the element and drag it into place.
@@ -139,7 +141,7 @@ To show your Active extensions use the :guilabel:`Active Extensions tab`. To rel
 
 Version
 -------
-Lubuntu ships with version 3.0.16 of VLC.
+Lubuntu ships with version 3.0.17 of VLC.
 
 How to Launch
 -------------

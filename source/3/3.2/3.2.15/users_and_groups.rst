@@ -9,11 +9,13 @@ The :guilabel:`Users` tab lets you manage Users. To create a new user account pr
 
 To change a user's password select the user in the list then press the :guilabel:`Change Password` button you will be prompted to  enter the new password. Then you will be prompted to enter an administrative password to authenticate that you have permission to do this. To reload the info on users and groups press the :guilabel:`Refresh` button. 
 
+To see what name a user logs in with read the :guilabel:`Login Name` column. To see what each user id is read the :guilabel:`USER ID` column. To see the full name for a user read the :guilabel:`Full Name` column. To see what group the user primally belongs to read the :guilabel:`Group` column. To see the users home director read the :guilabel:`Home Directory` column. To show system users check the :guilabel:`Show system users` checkbox.
+
 .. image:: users_and_groups.png
 
 To view an info on a particular user press the :guilabel:`Properties` or double click on the users name to bring up a dialog box or the accomplish the same thing by double clicking on the username. You can view the :guilabel:`Login Name` will show you the login name for the user and can be edited if you type in the box. The field :guilabel:`User ID` is the numerical internal id of your user. The field :guilabel:`Main Group` is the main group that is default group for files access to. 
 
-.. image:: users-groups-gerneral-prop.png 
+.. image:: users-groups-general-prop.png
 
 The tab :guilabel:`Groups` under properties has checkboxes for each group you are in or which checkbox or each group you are not in. To add or remove a user from a group check or uncheck the checkbox for the group you want to add or remove a user from. To view what numeric group id each group has is in the :guilabel:`Group ID` field.
 
@@ -25,7 +27,7 @@ The :guilabel:`Advanced` tab in the properties menu has settings with a login sh
 
 The :guilabel:`Groups` tabs lets you see info on groups and change properties. The :guilabel:`Name` field shows the name of the group. The :guilabel:`Group ID` shows the numeric group id of the group in the name field. The :guilabel:`Members` show the members of the current group. 
 
-.. image:: users_groups_gropustab.png
+.. image:: users_groups_groupstab.png
 
 .. warning::
 
@@ -33,7 +35,7 @@ The :guilabel:`Groups` tabs lets you see info on groups and change properties. T
 
 Version
 -------
-Lubuntu ships with version 0.17.0 of Users and Groups. 
+Lubuntu ships with version 1.1.0 of Users and Groups. 
 
 How to Launch
 -------------

@@ -17,9 +17,11 @@ To display info on your monitor click the :guilabel:`Info` tab and read that inf
 
 .. image:: monitor-info.png
 
-To save your monitor settings press the :guilabel:`Save` button and a pop up will show that your have your settings OK for you and press :guilabel:`Yes`. To view your saved settings press the :guilabel:`Settings` button. Your saved settings are by default saved with the time and date of when you saved the settings. If you want to apply your saved settings press the settings button with the gear around the light bulb. To see a summary of what your saved settings are left click on your settings and preview will show on the right hand column showing a summary. To choose your saved settings press the setting you want and the :guilabel:`Apply` button and your settings will be applied. To give your saved settings a meaningful name you can press the :guilabel:`Rename` button with a name for what you want and can remember what it is. If you want to delete these setting later press the :guilabel:`Delete` button. To close monitor settings press the :kbd:`Escape` key or push the :guilabel:`Close` button.  
+To save your monitor settings press the :guilabel:`Save` button and a pop up will show that your have your settings OK for you and press :guilabel:`Yes`. To view your saved settings press the :guilabel:`Settings` button. Your saved settings are by default saved with the time and date of when you saved the settings. If you want to apply your saved settings press the settings button with the gear around the light bulb. To see a summary of what your saved settings are left click on your settings and preview will show on the right hand column showing a summary. To choose your saved settings press the setting you want and the :guilabel:`Apply` button and your settings will be applied. To give your saved settings a meaningful name you can press the :guilabel:`Rename` button with a name for what you want and can remember what it is. If you want to delete these setting later press the :guilabel:`Delete` button.  
 
 .. image:: monitor_settings_settings.png
+
+To close monitor settings press the :kbd:`Escape` key or push the :guilabel:`Close` button.
 
 Multimonitor
 ------------
@@ -37,7 +39,7 @@ The tabs towards the bottom are settings for each monitor.  This also has the sa
 
 Version
 -------
-Lubuntu ships with version 0.17.1 of Monitor Settings.
+Lubuntu ships with version 1.1.0 of Monitor Settings.
 
 How to Launch
 -------------

@@ -9,9 +9,10 @@ The :guilabel:`Theme` tab changes the titlebars and menus provided by the window
 
 .. image:: obconf-titlebar.png
 
-The :guilabel:`Appearance` tab lets you change the location of buttons or add/remove buttons. Lubuntu ships with the ability to have two additional buttons on the titlebar one for shading or rolling up with the window so you can put this in the left to right order of the letters where you want the button. To make a window show on all desktop you can add D button in box for the :guilabel:`Button order`. If you want to change the window titlebar button order to have the iconify (minimize), maximize, and close buttons on the left then move the letters IMC to the left of L for window label or the title of the window. If you want to have the close maximize and iconify buttons first the box labeled window titles should read CMI  Then L for the window label which will always be in the center. If you wanted the buttons on the right with Close, Maximize, Iconify, the window title, then shade the window, and all desktops and the window icon in the far right it should read CMILSDN. 
+The :guilabel:`Appearance` tab lets you change the location of buttons or add/remove buttons. The :guilabel:`Windows retain a border when undecorated` checkbox has windows still have a border if you choose to decorate them. The :guilabel:`Animate iconify and restore` checkbox runs a simple animation when you iconify(minimize) a window or restore it.
 
-The :guilabel:`Windows retain a border when undecorated` checkbox has windows still have a border if you choose to decorate them. The :guilabel:`Animate iconify and restore` checkbox runs a simple animation when you iconify(minimize) a window or restore it.
+Lubuntu ships with the ability to have two additional buttons on the titlebar one for shading or rolling up with the window so you can put this in the left to right order of the letters where you want the button. To make a window show on all desktop you can add D button in box for the :guilabel:`Button order`. If you want to change the window titlebar button order to have the iconify (minimize), maximize, and close buttons on the left then move the letters IMC to the left of L for window label or the title of the window. If you want to have the close maximize and iconify buttons first the box labeled window titles should read CMI  Then L for the window label which will always be in the center. If you wanted the buttons on the right with Close, Maximize, Iconify, the window title, then shade the window, and all desktops and the window icon in the far right it should read CMILSDN. 
+
 
 .. image:: openbox-config.png
 
@@ -43,12 +44,12 @@ To close Openbox Settings press the :kbd:`Escape` key or press the :guilabel:`Cl
 
 Version
 -------
-Lubuntu ships with version 0.16.0 of Openbox Settings. 
+Lubuntu ships with version 0.16.2 of Openbox Settings. 
 
 How to Launch
 -------------
 
-To launch Openbox Settings from the menu :menuselection:`Preferences --> LXQt settings --> Openbox Settings`. From LXQt settings press the Openbox Settings button with two computer windows or run
+To launch Openbox Settings from the menu :menuselection:`Preferences --> Openbox Settings`. From LXQt settings press the Openbox Settings button with two computer windows or run
 
 .. code:: 
 

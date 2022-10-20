@@ -19,7 +19,7 @@ If you want to upload a picture to share it online press :menuselection:`Edit --
 
 To rotate an image to the right press the circular arrow that points to the right, press :kbd:`R`, or go to :menuselection:`Edit --> Rotate Clockwise`. To rotate counterclockwise use the circular arrow pointing to the left, press :kbd:`L`, or :menuselection:`Edit -->Rotate Counterclockwise`. To zoom in on a picture press the icon with a magnifying glass with a + symbol on it, :menuselection:`View --> Zoom In`, or press :kbd:`control + +`. To zoom out press the button of a magnifying glass with a - symbol in it, :menuselection:`View --> Zoom Out` or press :kbd:`control + -`.
 
-To flip your image on the vertical axis press :kbd:`V` or :menuselection:`Edit --> Flip Vertically`. To flip your image on the horizontal axis press :kbd:`H` or :menuselection:`Edit --> Flip Horizontally`. To change the image to a different size :menuselection:`Edit --> Resize` and a dialog box will show up. To see how large your image currently is in pixels view the :guilabel:`Current size` dialog. To change how wide the image is change :guilabel:`Width` column in the :guilabel:`New size` row. To change the height of the image under :guilabel:`Height` and change to the desired size. To change which size your image is in percentage change the field with :guilabel:`%` under :guilabel:`Width`. To allowing stretching the image while resizing it uncheck the :guilabel:`Keep aspect ratio` checkbox.
+To flip your image on the vertical axis press :kbd:`V` or :menuselection:`Edit --> Flip Vertically`. To flip your image on the horizontal axis press :kbd:`H` or :menuselection:`Edit --> Flip Horizontally`. To change the image to a different size :menuselection:`Edit --> Resize` and a dialog box will show up. To see how large your image currently is in pixels view the :guilabel:`Current size` dialog. To change how wide the image is change :guilabel:`Width` column in the :guilabel:`New size` row. To change the height of the image under :guilabel:`Height` and change to the desired size. To change which size your image is in percentage change the field with :guilabel:`%` under :guilabel:`Width`. To allowing stretching the image while resizing it uncheck the :guilabel:`Keep aspect ratio` checkbox. To rename a file press :kbd:`F2` or :menuselection:`Edit --> Rename`.
 
 .. image:: lximage_resize.png
 
@@ -33,7 +33,7 @@ To view thumbnails of the current directory you can toggle thumbnails by pressin
 
 .. image:: lximage-thumb.png
 
-To view the picture entirely at its original size press :menuselection:`View --> Fit` or the button with a vertical and horizontal arrow and a folded over bottom right corner. To return your image to its original size press the magnifying button with 1:1 inside it or :menuselection:`View --> Original Size` or press the :guilabel:`1` toolbar button. To show an outline around the image :kbd:`O` or :menuselection:`View --> Show Outline`. To toggle showing information about the settings on the camera :menuselection:`View --> Show EXIF Data`. 
+To view the picture entirely press :menuselection:`View --> Fit` or the button with a vertical and horizontal arrow and a folded over bottom right corner. To return your image to its original size  :menuselection:`View --> Original Size` or press the :guilabel:`1` toolbar button. To show an outline around the image :kbd:`O` or :menuselection:`View --> Show Outline`. To toggle showing information about the settings on the camera :menuselection:`View --> Show EXIF Data`. 
 
 To view the picture as fullscreen press :kbd:`f11`, right click :menuselection:`Fullscreen`, double click on the image, or :menuselection:`View --> Fullscreen`. To exit fullscreen double click the image, press :kbd:`F11`, or right click :menuselection:`Fullscreen` again. To have a slideshow of you pictures in your current folder :menuselection:`View --> Slideshow` or right click and select :menuselection:`Slide Show`. Once you start the slideshow on the toolbar a play pause button will appear on the toolbar or you can stop the slideshow by right clicking and selecting :menuselection:`Slide Show`.
 
@@ -48,13 +48,17 @@ To show annotations controls :menuselection:`View --> Annotations Toolbar` or ri
 Customizing
 -----------
 
-To change preferences in LXImage :menuselection:`Edit --> Preferences`. The :guilabel:`General` tab has settings for the appearance of LXImage. To change the background color in a window press the button next to :guilabel:`Normal background color` and then a window will pop up showing your color choice. To change the background color when fullscreen press the button next to :guilabel:`Fullscreen background color` and the same color picker window will appear. To change how long it takes for a each slide to change change in a slideshow change the :guilabel:`Slide show interval (seconds)` field. To cancel your changes press the :guilabel:`Cancel` button. To apply your settings and exit the preference dialog by pressing the :guilabel:`OK` button. To show the image outline by default check the :guilabel:`Show image outline by default` checkbox. To show the annotations toolbar by default check the :guilabel:`Show annotations toolbar by default`.
+To change preferences in LXImage :menuselection:`Edit --> Preferences`. The :guilabel:`General` tab has settings for recent files, thumbnails, and trash. To cancel your changes press the :guilabel:`Cancel` button. To not generate thumbnails for really large images change the :guilabel:`Thumbnailer size limit` field. To change how big thumbnails to use change the :guilabel:`Thumbnail image dimensions` field. To apply your settings and exit the preference dialog by pressing the :guilabel:`OK` button.
 
 .. image:: lximage-prefrences.png
 
-The :guilabel:`Thumbnails` tab manages settings for thumbnails. To show the thumbnails dock by default check the :guilabel:`Show thumbnails dock by default` checkbox. To not generate thumbnails for really large images change the :guilabel:`Image size limit for built in thumbnailer` checkbox.
+The :guilabel:`Window` tab manages how the window appears. To show the thumbnails dock by default check the :guilabel:`Show thumbnails dock by default` checkbox and choose where it is to the right. To show metadata about your pictures by default check the :guilabel:`Show Exif data dock by default` checkbox. To toggle showing the menubar check/uncheck the :guilabel:`Show menubar by default` checkbox. To toggle showing the main toolbar check/uncheck the :guilabel:`Show main toolbar by default` checkbox. To show the annotations toolbar by default check the :guilabel:`Show annotations toolbar by default`.
 
-.. image:: lximage-thumbnail-pref.png
+.. image:: lximage-pref-window.png
+
+The :guilabel:`Image` tab has settings for how LXImage displays images. To change the background color in a window press the button next to :guilabel:`Normal background color` and then a window will pop up showing your color choice. To change the background color when fullscreen press the button next to :guilabel:`Fullscreen background color` and the same color picker window will appear. To change how long it takes for a each slide to change change in a slideshow change the :guilabel:`Slide show interval (seconds)` field. To show the image outline by default check the :guilabel:`Show image outline by default` checkbox. To fit images when navigating check the :guilabel:`Fit images when navigating` checkbox. To smooth images when you zooming check the :guilabel:`Smooth images on zooming` checkbox.
+
+.. image:: lximage-pref-image.png
 
 The :guilabel:`Shortcuts` tab has settings for changing keyboard shortcuts in LXImage. To see what a shortcut will do read the :guilabel:`General` column. To change a shortcut double click on the :guilabel:`Shortcut` column and press what you want the shortcut to be. To reset keyboard shortcuts to default press the :guilabel:`Default` button.
 
@@ -62,7 +66,7 @@ The :guilabel:`Shortcuts` tab has settings for changing keyboard shortcuts in LX
 
 Version
 -------
-Lubuntu ships with version 0.17.0 or LXImage. 
+Lubuntu ships with version 1.1.0 or LXImage. 
 
 How to Launch
 -------------

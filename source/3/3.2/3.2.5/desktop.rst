@@ -9,11 +9,11 @@ The :guilabel:`Background` tab has settings for desktop background. To change th
 
 .. image:: desktop-open-file.png
 
-The drop down menu :guilabel:`Wallpaper mode` lets you change how the image you select for a wallpaper is made to fit on the screen. If you want an image to have multiple copies of a smaller image select tile image from the drop down. If you do not want an image and just a solid color select fill with background color only. To change the background color if you select that press the button to the right of :guilabel:`Select background color`. To have the image oriented based on metadata check the :guilabel:`Transform image based on EXIF data` checkbox. To use a different wallpaper on each monitor check the :guilabel:`Individual wallpaper for each monitor`. If your wallpaper looks stretched and you don't want it to you can select :menuselection:`Center on the screen`. This is also useful if your multimonitor setup has the wallpaper split across monitors awkwardly and you want the same wallpaper twice.
+To change the background color if you select that press the button to the right of :guilabel:`Select background color`. The drop down menu :guilabel:`Wallpaper mode` lets you change how the image you select for a wallpaper is made to fit on the screen. If you want an image to have multiple copies of a smaller image select tile image from the drop down. If you do not want an image and just a solid color select fill with background color only. To have the image oriented based on metadata check the :guilabel:`Transform image based on EXIF data` checkbox. To use a different wallpaper on each monitor check the :guilabel:`Individual wallpaper for each monitor`. If your wallpaper looks stretched and you don't want it to you can select :menuselection:`Center on the screen`. This is also useful if your multimonitor setup has the wallpaper split across monitors awkwardly and you want the same wallpaper twice.
 
 .. image:: desktop.png
 
-The :guilabel:`General` tab has settings for text on desktop icons and text colors and icon sizes. The drop down menu :guilabel:`Icon size` lets you choose a different size of desktop icons you can choose a size that looks good on your screen. The box  :guilabel:`Select text color` brings up a widget to pick the color on desktop icons and files. The field :guilabel:`Select shadow color` changes the shadow on the shadow around the icon. To change the margins change the fields for :guilabel:`Minimum item margins` field for different coordinates. To make the margins always the same number of pixels check the :guilabel:`Lock` checkbox.
+The :guilabel:`General` tab has settings for text on desktop icons and text colors and icon sizes. The drop down menu :guilabel:`Icon size` lets you choose a different size of desktop icons you can choose a size that looks good on your screen. The box  :guilabel:`Select text color` brings up a widget to pick the color on desktop icons and files. The field :guilabel:`Select shadow color` changes the shadow on the shadow around the icon. To change the margins change the fields for :guilabel:`Minimum item margins` field for different coordinates. To change the margins of desktop icons to the edge of the screen in the :guilabel:`Margins of work area` field. To make the margins always the same number of pixels check the :guilabel:`Lock` checkbox. To open folders on the desktop in PCManFM-Qt check the :guilabel:`Open desktop folders in default file manager by left clicking` checkbox. To make an item stay in the same place check the :guilabel:`Make all items stick to their positions` checkbox.
 
 .. image:: desktop-general.png
 
@@ -25,7 +25,7 @@ The :guilabel:`Slide Show` tab shows settings for slide show of changing your wa
 
 .. image:: slideshow-desktop.png
 
-The :guilabel:`Advanced` tab has settings for default desktop icons or included. To show or hide any of the default desktop icons check/uncheck the checkboxes for: :guilabel:`Home`, :guilabel:`Trash`, :guilabel:`Computer`, or :guilabel:`Network`.
+The :guilabel:`Advanced` tab has settings for default desktop icons or included. To show or hide any of the default desktop icons check/uncheck the checkboxes for: :guilabel:`Home`, :guilabel:`Trash`, :guilabel:`Computer`, :guilabel:`Network`, or :guilabel:`Lubuntu Manual`.
 
 .. image:: desktop-advanced.png
 
@@ -33,7 +33,7 @@ To quit Desktop press the :kbd:`Escape` key.
 
 Version
 -------
-Lubuntu ships with 0.17.0 of Desktop.
+Lubuntu ships with 1.1.0 of Desktop.
 
 How to Launch
 -------------

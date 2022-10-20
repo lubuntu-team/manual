@@ -80,7 +80,7 @@ Running the following will give you many more options for configuration via the 
 
 Version
 -------
-Lubuntu ships with version 5.24.4 of Bluedevil.
+Lubuntu ships with version 5.25.1 of Bluedevil.
  
 
 

@@ -16,7 +16,7 @@ To use LibreOffice writer type what you wish to type into the main part of the w
 
 .. image:: writer-save.png
 
-To change the font size there is a drop down box with a number in it you can type the font size you want in this box or select from the dropdown menu. You can change the font with the drop down box to the left of the font size which you can type and it autocompletes the fonts or select from the drop down menu. To make your text bold you can select the text with the mouse and press the button that looks like **B** or press :kbd:`control + B`. To make the font italic press the button that looks like  *I* or press :kbd:`control + I` after selecting the text or keep typing with it to be italic. To have an underlined text select the text and press :kbd:`Control +U`. To make strikethrough press the button that is a s with a line through it. If you want a floating window on how to style your text :menuselection:`Format --> Character`.
+To change the font size there is a drop down box with a number in it you can type the font size you want in this box or select from the dropdown menu. You can change the font with the drop down box to the left of the font size which you can type and it autocompletes the fonts or select from the drop down menu. To make your text bold you can select the text with the mouse and press the button that looks like **B** or press :kbd:`control + B`. To make the font italic press the button that looks like  *I* or press :kbd:`control + I` after selecting the text or keep typing with it to be italic. To have an underlined text select the text and press :kbd:`Control +U` or press the underlined :guilabel:`U` button. To change the style of underline press the downard pointed arrow next the underlined :guilabel:`U` button. To make strikethrough press the button that is a s with a line through it. If you want a floating window on how to style your text :menuselection:`Format --> Character`.
 
 To copy text select it with the mouse or :kbd:`Shift + arrow key` then press :kbd:`Control +C` or :menuselection:`Edit --> Copy`. To cut text select it first and then press :kbd:`Control +X` or :menuselection:`Edit --> Cut`. To paste text press :kbd:`Control +V` or :menuselection:`Edit --> Paste`. To paste with no formatting press :kbd:`Control + Alt + Shift+ V` or :menuselection:`Edit --> Paste Unformatted Text`.
 
@@ -28,7 +28,7 @@ To change alignment from this window use the :guilabel:`Alignment` tab. To chang
 
 .. image:: lowriter_paragraph.png
 
-To change what how the text deals with page breaks and paragraphs use the :guilabel:`Text Flow` tab. To automatically use hyphens check the :guilabel:`Automatically` checkbox. To change how many characters to leave before the hyphen change the :guilabel:`Characters at line end` field. To change how many character after the hyphen on the next line change the :guilabel:`Characters at line begin`. To set a maximum number or hyphens change the :guilabel:`Maximum number of consecutive hyphens` field. To toggle not putting a short bit of text at the bottom of a page or column check the :guilabel:`Orphan control` checkbox. To change how many lines to not allow to be separated change the :guilabel:`lines` field to the right of :guilabel:`Orphan control`. To stop a few lines of text alone at the top check the :guilabel:`Widow control` checkbox. To change how many lines you of text to change the :guilabel:`Lines` field to the right of :guilabel:`Widow control`. If you do not want orphan or widow control check the :guilabel:`Do not split paragraph` checkbox.
+To change what how the text deals with page breaks and paragraphs use the :guilabel:`Text Flow` tab. To automatically use hyphens check the :guilabel:`Automatically` checkbox. To not hyphenate words with capital letters check the :guilabel:`Don't hyphenate words in CAPS` checkbox. To not hyphenate the last word check the :guilabel:`Don't hyphenate the last word` checkbox. To change how many characters to leave before the hyphen change the :guilabel:`Characters at line end` field. To change how many character after the hyphen on the next line change the :guilabel:`Characters at line begin`. To set a maximum number or hyphens change the :guilabel:`Maximum number of consecutive hyphens` field. To toggle not putting a short bit of text at the bottom of a page or column check the :guilabel:`Orphan control` checkbox. To change how many lines to not allow to be separated change the :guilabel:`lines` field to the right of :guilabel:`Orphan control`. To stop a few lines of text alone at the top check the :guilabel:`Widow control` checkbox. To change how many lines you of text to change the :guilabel:`Lines` field to the right of :guilabel:`Widow control`. If you do not want orphan or widow control check the :guilabel:`Do not split paragraph` checkbox.
 
 .. image:: text-flow.png
 
@@ -38,7 +38,7 @@ To change font color press the button that has a T with a drop on it and a red u
 
 To make text superscript press the button with A :sup:`B`. To make text subscript press the button that is an A :sub:`B`.
 
-If you want text in a text box that can be moved with the mouse press the button that looks like a T with a box around it or :menuselection:`Insert --> Text box`. To insert a hyperlink press :kbd:`Control + K` or :menuselection:`Insert --> Hyperlink`.
+If you want text in a text box that can be moved with the mouse press the button that looks like a :guilabel:`T with a box around it` or :menuselection:`Insert --> Text box`. To insert a hyperlink press :kbd:`Control + K` or :menuselection:`Insert --> Hyperlink`.
 
 .. image:: libreoffice_writer.png
 
@@ -50,9 +50,9 @@ To view how your document looks before printing it :menuselection:`File --> Prin
 
 .. image:: lowriter-print.png
 
-To change view or change your printer settings :menuselection:`File --> Printer settings`. To view your word count of how many words are currently in the document is with nothing selected at the bottom of the LibreOffice writer window. If you select text with the mouse you can also see the word count of selection from the same spot. The word count is also shown on the very bottom of the window.
+To change view or change your printer settings :menuselection:`File --> Printer settings`. To view your word count of how many words are currently in the document is with nothing selected at the bottom of the LibreOffice writer window. If you select text with the mouse you can also see the word count of selection from the same spot. The word count is also shown on the very bottom of the window. To bring up a popup window with your wordcount :menuselection:`Tools --> Word Count`.
 
-To insert special symbols or characters press the button with the Ω symbol or from the menu :menuselection:`Insert --> Special character`. To insert a page break press :kbd:`control + enter` or from the menu :menuselection:`Insert --> Page Break`.
+To insert special symbols or characters press the button with the :guilabel:`Ω` symbol or from the menu :menuselection:`Insert --> Special character`.  If you use a symbol a lot you can quickly select it by pressing the downward pointing arrow next to the :guilabel:`Ω` button. To insert a page break press :kbd:`control + enter` or from the menu :menuselection:`Insert --> Page Break`.
 
 .. image:: specialcharacters.png
 
@@ -142,7 +142,7 @@ To see statistics on your document use the :guilabel:`Statistics` tab. To see ho
 
 Version
 -------
-Lubuntu ships with LibreOffice Writer version 7.3.2
+Lubuntu ships with LibreOffice Writer version 7.4.2
 
 How to Launch
 -------------

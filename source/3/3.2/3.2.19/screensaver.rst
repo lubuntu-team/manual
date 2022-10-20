@@ -17,13 +17,17 @@ To make the screen blank :menuselection:`File --> Blank Screen Now`. To lock you
 
 If you try to open the screensaver settings without having the screensaver daemon running you will bring up a dialog if you want to launch it.
 
-To change to get even more settings on your screensaver use the :guilabel:`Advanced` tab. To have your screen fade to black when blanking check the :guilabel:`Fade to Black when Blanking` checkbox. To have your screen fade back in from screen blanking check the :guilabel:`Fade from Black When Unblanking`. To change how fast your screen fades change the :guilabel:`Fade Duration` field. 
+To change to get even more settings on your screensaver use the :guilabel:`Advanced` tab. To change images in your screensaver change settings in :guilabel:`Image Manipulation` heading.
+
+To change turrning the screen off and if to enter standby or suspend use the settings in :guilabel:`Display Power Management`. To enable xscreensaver to have power management check the :guilabel:`Power Management Enabled` checkbox. To change how fast to turn the computer into standby change the :guilabel:`Stanby After` field. To change how fast to suspend when idle change the :guilabel:`Suspend After` field. To turn the monitor off after an amount of time change the :guilabel:`Off After` field. To turn the screen off when blanking the screen check the :guilabel:`Quick Power-off in Blank Only Mode` chackbox.
 
 .. image:: screensaver-advanced.png
 
+To change the settings for how to make your screen blank change the :guilabel:`Blanking` settings. To have your screen fade to black when blanking check the :guilabel:`Fade to Black when Blanking` checkbox. To have your screen fade back in from screen blanking check the :guilabel:`Fade from Black When Unblanking`. To change how fast your screen fades change the :guilabel:`Fade Duration` field. 
+
 Version
 -------
-Lubuntu ships with version 5.42 of Screensaver
+Lubuntu ships with version 6.02 of Screensaver
 
 How to Launch
 -------------

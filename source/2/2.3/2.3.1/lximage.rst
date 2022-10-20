@@ -54,8 +54,6 @@ To change preferences in LXImage :menuselection:`Edit --> Preferences`. The :gui
 
 The :guilabel:`Window` tab manages how the window appears. To show the thumbnails dock by default check the :guilabel:`Show thumbnails dock by default` checkbox and choose where it is to the right. To show metadata about your pictures by default check the :guilabel:`Show Exif data dock by default` checkbox. To toggle showing the menubar check/uncheck the :guilabel:`Show menubar by default` checkbox. To toggle showing the main toolbar check/uncheck the :guilabel:`Show main toolbar by default` checkbox. To show the annotations toolbar by default check the :guilabel:`Show annotations toolbar by default`.
 
-.. image:: lximage-thumbnail-pref.png
-
 The :guilabel:`Image` tab has settings for how LXImage displays images. To change the background color in a window press the button next to :guilabel:`Normal background color` and then a window will pop up showing your color choice. To change the background color when fullscreen press the button next to :guilabel:`Fullscreen background color` and the same color picker window will appear. To change how long it takes for a each slide to change change in a slideshow change the :guilabel:`Slide show interval (seconds)` field. To show the image outline by default check the :guilabel:`Show image outline by default` checkbox. To fit images when naviagting check the :guilabel:`Fit images when navigating` checkbox. To smooth images when you zooming check the :guilabel:`Smooth images on zooming` checkbox.
 
 

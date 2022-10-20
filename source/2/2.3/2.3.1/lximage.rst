@@ -48,11 +48,11 @@ To show annotations controls :menuselection:`View --> Annotations Toolbar` or ri
 Customizing
 -----------
 
-To change preferences in LXImage :menuselection:`Edit --> Preferences`. The :guilabel:`General` tab has settings for recent files, thumbnails, and trash. To cancel your changes press the :guilabel:`Cancel` button. To not generate thumbnails for really large images change the :guilabel:`Thumbnailer size limit` field. To change how big thumbnails to use change the :guilabel:`Thumnail image dimensions` field. To apply your settings and exit the preference dialog by pressing the :guilabel:`OK` button. To show the annotations toolbar by default check the :guilabel:`Show annotations toolbar by default`.
+To change preferences in LXImage :menuselection:`Edit --> Preferences`. The :guilabel:`General` tab has settings for recent files, thumbnails, and trash. To cancel your changes press the :guilabel:`Cancel` button. To not generate thumbnails for really large images change the :guilabel:`Thumbnailer size limit` field. To change how big thumbnails to use change the :guilabel:`Thumnail image dimensions` field. To apply your settings and exit the preference dialog by pressing the :guilabel:`OK` button.
 
 .. image:: lximage-prefrences.png
 
-The :guilabel:`Window` tab manages how the window appears. To show the thumbnails dock by default check the :guilabel:`Show thumbnails dock by default` checkbox and choose where it is to the right. To show metadata about your pictures by default check the :guilabel:`Show Exif data dock by default` checkbox. To toggle showing the menubar check/uncheck the :guilabel:`Show menubar by default` checkbox.
+The :guilabel:`Window` tab manages how the window appears. To show the thumbnails dock by default check the :guilabel:`Show thumbnails dock by default` checkbox and choose where it is to the right. To show metadata about your pictures by default check the :guilabel:`Show Exif data dock by default` checkbox. To toggle showing the menubar check/uncheck the :guilabel:`Show menubar by default` checkbox. To toggle showing the main toolbar check/uncheck the :guilabel:`Show main toolbar by default` checkbox. To show the annotations toolbar by default check the :guilabel:`Show annotations toolbar by default`.
 
 .. image:: lximage-thumbnail-pref.png
 

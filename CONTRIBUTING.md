@@ -102,6 +102,6 @@ merge proposal or pull request.**
 In `spec.rst`, there is an editable outline of items to be accomplished, a precompiled version with spec.pdf description of items to be accomplished, and on
 `PROGRESS.md`, there is our status in completing that specification. In the specification if you make changes run ``` rst2pdf spec.rst" 
 Pick out something to do, but before you start, please indicate on the [lubuntu-devel
-mailing list](https://lists.ubuntu.com/mailman/listinfo/Lubuntu-devel) or on [#lubuntu-devel on freenode](https://kiwiirc.com/client/irc.freenode.net/#lubuntu-devel) to state that you intend to
+mailing list](https://lists.ubuntu.com/mailman/listinfo/Lubuntu-devel) or on [#lubuntu-devel on freenode](https://kiwiirc.com/client/irc.libera.net/#lubuntu-devel) to state that you intend to
 complete what you have picked out. Please also look at `PROGRESS.md` to see
 what still needs to be completed.

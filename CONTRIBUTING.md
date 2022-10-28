@@ -10,6 +10,7 @@ Before starting, you need a few tools.
  - A modern, Debian-based Linux distribution
   - Debian Jessie (8.0) and onwards
   - Ubuntu 16.04 LTS and onwards
+  - A text editor with syntax highlighting and spell checking
  - The following packages from your Linux distribution's repository:
   - `git`
   - `python3-pip`

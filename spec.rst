@@ -110,6 +110,11 @@ Chapter 2.5 Sound & Video
 
 2.5.2 VLC media player
 
+Chapter 2.6 Games
+-----------------
+
+2.6.1 2048-Qt
+
 --------------------------------------
 Chapter 3 System Tools and Preferences
 --------------------------------------

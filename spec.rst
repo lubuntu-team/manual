@@ -58,7 +58,6 @@ Chapter 2.1 Internet Applications
 
  2.1.4 BlueDevil
 
- 2.1.5 Trojita
 
 Chapter 2.2 Office applications
 -------------------------------
@@ -101,18 +100,15 @@ Chapter 2.4 Acessories
 
 2.4.7 nobleNote
 
-2.4.8 2048-Qt
-
 2.4.9 QtPass
 
 Chapter 2.5 Sound & Video
 -------------------------
 
-2.5.1 K3B
 
-2.5.2 PulseAudio Volume Control
+2.5.1 PulseAudio Volume Control
 
-2.5.3 VLC media player
+2.5.2 VLC media player
 
 --------------------------------------
 Chapter 3 System Tools and Preferences

@@ -14,7 +14,6 @@ Before starting, you need a few tools.
  - The following packages from your Linux distribution's repository:
   - `git`
   - `python3-pip`
-  - `arcanist`
   - `python3-sphinx`
   - `texlive`
   - `texlive-formats-extra`

@@ -6,7 +6,7 @@ Introduction
 ------------
 
 ----------------------------
-Chapter 1 Installing lubuntu
+Chapter 1 Installing Lubuntu
 ----------------------------
 
 

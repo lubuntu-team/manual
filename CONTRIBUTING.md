@@ -82,7 +82,7 @@ git commit -m "I changed x in foo and y in bar" foo bar
 
 To submit your code, or push to your Launchpad account and
 submit a merge request, both will be seen by someone with the permission to
-merge. Push to the following repository to be able to submit a merge proposal on differential after registering an account on the Lubuntu phabricator.
+merge. Push to the following repository to be able to submit a merge proposal on the Lubuntu gittea.
 
 ``` 
 arc diff

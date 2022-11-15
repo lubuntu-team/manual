@@ -84,9 +84,6 @@ To submit your code, or push to your Launchpad account and
 submit a merge request, both will be seen by someone with the permission to
 merge. Push to the following repository to be able to submit a merge proposal on the Lubuntu gittea.
 
-``` 
-arc diff
-```
 
 Another option if you prefer would be to send patch mail to [lubuntu-devel@lists.ubuntu.com](mailto:lubuntu-devel@lists.ubuntu.com).
 This assumes you are already familiar with patch mail and you know how.

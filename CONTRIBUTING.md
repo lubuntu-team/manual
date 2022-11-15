@@ -25,9 +25,8 @@ Before starting, you need a few tools.
 
 To clone the repository, you can run this command:
 ```
-git clone ssh://git@phab.lubuntu.me/source/manual.git
+git clone https://git.lubuntu.me/Lubuntu/manual.git
 ```
-but to do this you must have your ssh key on phabricator. 
 ## Adding a file to the manual
 
 After setting up the tools, you should now be ready to start editing files.

@@ -40,7 +40,7 @@ Let's say you want to create Chapter 20. In the `source` directory, create a
 directory titled `20`. In the `20` directory, create a file with the name of
 the chapter. Let's call this chapter `foo bar`. Create a file named
 `foo_bar.rst` in `20`. Edit that file however you want. When you are done,
-add this to `source/index.rst`:
+add this to `source/index.rst`. To add a file to an already existing chapter add it to the toctree in the chapter.
 
 ```
 Contents

@@ -13,7 +13,6 @@ Before starting, you need a few tools.
   - A text editor with syntax highlighting and spell checking
  - The following packages from your Linux distribution's repository:
   - `git`
-  - `python3-pip`
   - `python3-sphinx`
   - `texlive`
   - `texlive-formats-extra`

@@ -33,7 +33,7 @@ After setting up the tools, you should now be ready to start editing files.
 
 If you look in the `source` directory, you should see some files. There's
 `index.rst`, which is the main page, and some directories and subdirectories
-that are numbers. Those are chapters of the book, and are listed in the
+that are numbers. Those are chapters of the manual, and are listed in the
 `index.rst` file.
 
 Let's say you want to create Chapter 20. In the `source` directory, create a

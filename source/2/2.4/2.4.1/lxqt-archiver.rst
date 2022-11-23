@@ -25,7 +25,7 @@ To close LXQt File Archiver press :kbd:`Control+Q`.
 
 Version
 -------
-Lubuntu ships with version 0.6.0 of LXQt File Archiver.
+Lubuntu ships with version 0.7.0 of LXQt File Archiver.
 
 How To Launch
 -------------

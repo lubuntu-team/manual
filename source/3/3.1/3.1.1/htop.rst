@@ -34,7 +34,7 @@ To change what columns end up showing select :guilabel:`Columns` on the setup me
 
 Version
 -------
-Lubuntu ships with version 3.0.3 of htop. 
+Lubuntu ships with version 3.2.1 of htop. 
 
 How to launch
 -------------

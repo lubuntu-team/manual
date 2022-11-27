@@ -5,7 +5,7 @@ QTerminal is the default terminal of Lubuntu. It also has a drop down version. I
 
 Usage
 ------
-To enter a command into Qterminal type the command in and press :kbd:`Enter`.
+To enter a command into Qterminal type the command in and press :kbd:`Enter`. After you do this the command will diplay its output on the line below where you have entered it.
 
 To open a new tab go to the :menuselection:`File --> New Tab` or press :kbd:`control + shift + t`. You can also open a new tab by double clicking empty space on the tab bar. To close a tab press the :guilabel:`X` button near the right hand side of the tab, :menuselection:`File --> Close Tab`, or press :kbd:`Control+Shift+W`. You can change between tabs by left clicking on the tabbar on the tab you want to switch to. If you want to switch between tabs click on the different click on that tab or press the left and right arrows in the upper right corner to see different tabs if you can't see them all. Another way to switch between tabs is :kbd:`control + page up` or :kbd:`control + page down`.
 

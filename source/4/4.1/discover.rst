@@ -15,7 +15,6 @@ To view more information on a program you want to install left click on a progra
 
 .. image:: update-authentication.png
 
-=======
 .. image:: discover-details.png
 
 

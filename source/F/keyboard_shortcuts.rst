@@ -105,8 +105,7 @@ ToggleFullscreen              F11
 
 ============================= ========================
 
-<<<<<<< HEAD
-=======
+
 ============================= ========================
 
 GoToLeftDesktop               C-A-Left
@@ -230,7 +229,8 @@ Open pcmanfm-qt               XF86MyComputer
 **Keybinding for backlight**
 
 ============================= ========================
-
+<<<<<<< HEAD
+=======
 Toggle turn off monitor       C-F7
 
 Decrease backlight brightness C-S-F6

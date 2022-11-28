@@ -229,8 +229,7 @@ Open pcmanfm-qt               XF86MyComputer
 **Keybinding for backlight**
 
 ============================= ========================
-<<<<<<< HEAD
-=======
+
 Toggle turn off monitor       C-F7
 
 Decrease backlight brightness C-S-F6
@@ -239,7 +238,7 @@ Increase backlight brightness C-S-F7
 
 ============================= ========================
 
-**Keybindings fo Volume**
+**Keybindings for Volume**
 
 ============================= =========================
 
@@ -250,7 +249,7 @@ Increase Volume               XF86VolumeRaise
 Mute Volume                   XF86AudioMute
 
 ============================= =========================
->>>>>>> 617ac87f (Fix typo in lxqt-runner in appendix F thanks guiverc)
+
 
 
 ============================= ========================

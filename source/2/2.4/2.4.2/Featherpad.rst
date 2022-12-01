@@ -59,7 +59,7 @@ To change what font you want select :menuselection:`Options --> Font` to change 
 
 To save a file with a different encoding use the :menuselection:`Options --> Encoding` submenu. To save with the current encoding :menuselection:`File --> Save with Encoding`.
 
-At the bottom of the window of featherpad the :guilabel:`Encoding` shows what encoding your file will be saved with. If featherpad is highlighting a syntax you can see what it is with :guilabel:`Syntax`.
+At the bottom of the window of featherpad the :guilabel:`Encoding` shows what encoding your file will be saved with. If featherpad is highlighting a syntax you can see what it is with :guilabel:`Syntax`. To see how many lines the text file has read the :guilabel:`Lines` field at the bottom.
 
 To make the text all lowercase first select it with the mouse press then :kbd:`Control + Shift +L`, :menuselection:`To Lower Case`, or :menuselection:`Edit --> To Lowercase`. To make the text all uppercase select it first then  press :kbd:`Control + Shift +U`, right click :menuselection:`To Uppercase`, or :menuselection:`Edit --> To Uppercase`. To capitlize the first letter of each word select the text and :menuselection:`Edit --> To Start Case` or right click :menuselection:` To Start Case`. To alphabetize your lines first select it then :menuselection:`Edit --> Sort Lines`. To sort the opposite way first select the lines then :menuselection:`Edit --> Sort Lines Reversely`. 
 

@@ -120,7 +120,7 @@ To bring up custom settings for your settings :menuselection:`Slide Show --> Sli
 
 Version
 -------
- Lubuntu ships with version 7.4.2 of LibreOffice Impress.
+ Lubuntu ships with version 7.4.3 of LibreOffice Impress.
 
 How To Launch
 -------------

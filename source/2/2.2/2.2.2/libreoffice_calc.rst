@@ -71,7 +71,7 @@ The :guilabel:`Chart Elements` tab controls labels and displaying legends on you
 
 Version
 -------
-Lubuntu ships with version 7.4.2 of LibreOffice Calc.
+Lubuntu ships with version 7.4.3 of LibreOffice Calc.
 
 How to Launch
 -------------

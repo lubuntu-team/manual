@@ -11,7 +11,7 @@ To have LXImage open the next file in a folder press :kbd:`Right arrow` and to v
 
 .. image:: LXImage.png
 
-If you wish to print a picture after viewing it from the :menuselection:`File --> Pint` or press :kbd:`control+ p` to bring up a print dialog. To exit the window with a keyboard shortcut press the :kbd:`Escape` key.
+If you wish to print a picture after viewing it from the :menuselection:`File --> Pint` or press :kbd:`control+ p` to bring up a print dialog. To change the printer change the :guilabel:`Name` field. To change how many copies of an image you want to print change the :guilabel:`Copies` field. To exit the window with a keyboard shortcut press the :kbd:`Escape` key.
 
 If you want to upload a picture to share it online press :menuselection:`Edit --> Upload` and a new window will pop up with a drop down menu to show where to upload the picture to. To actually upload the file press :guilabel:`Start`. The URL of the image will then show up from after it is finished uploading. You can then copy the URL by selecting the  text and then pressing :kbd:`Control+C` or pressing  the :guilabel:`Copy` button.
 

@@ -13,7 +13,7 @@ To take a screenshot where you select the screen with the mouse double click to 
 
 To quit ScreenGrab press :kbd:`Escape`.
 
-If you have the system tray enabled ScreenGrab can do many things by right clicking it. To show ScreenGrab this way left click on the tray icon or right click the tray icon and select :menuselection:`Show`. To have ScreenGrab take a new screenshot from the system tray right click on the tray icon and select :menuselection:`New`. To save your screenshot from the tray icon right click on it and select :menuselection:`Save`. To copy your screenshot to the clipboard from the systray right click on the icon and select :menuselection:`Copy`. To open ScreenGrab preferences from the system tray right click on the system tray and select :menuselection:`Options`. To quit ScreenGrab from the system tray right click on the tray icon and select :menuselection:`Quit`.
+If you have the system tray enabled ScreenGrab can do many things by right clicking it. To hide ScreenGrab left click on the tray icon and select :menuselection:`Hide`. To show ScreenGrab this way left click on the tray icon or right click the tray icon and select :menuselection:`Show`. To have ScreenGrab take a new screenshot from the system tray right click on the tray icon and select :menuselection:`New`. To save your screenshot from the tray icon right click on it and select :menuselection:`Save`. To copy your screenshot to the clipboard from the systray right click on the icon and select :menuselection:`Copy`. To open ScreenGrab preferences from the system tray right click on the system tray and select :menuselection:`Options`. To quit ScreenGrab from the system tray right click on the tray icon and select :menuselection:`Quit`.
 
 Screenshot
 ----------

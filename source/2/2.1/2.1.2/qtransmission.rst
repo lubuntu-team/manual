@@ -59,7 +59,7 @@ Lubuntu ships with version 3.00 of Transmission.
 How to Launch
 -------------
 
-To launch Transmission go to menu :menuselection:`Internet --> Qtransmission Bittorent Client` or run 
+To launch Transmission go to menu :menuselection:`Internet --> Transmission (Qt)` or run 
 
 .. code:: 
  

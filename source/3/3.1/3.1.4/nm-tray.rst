@@ -21,6 +21,8 @@ The section :guilabel:`IPV4` shows you information on your settings for networki
 
 The section :guilabel:`IPV6` shows information on your settings for networking using IPV6. The section :guilabel:`IP Address` shows you current IPV6 address. To see the the root to your DNS servers for IPV6 see the :guilabel:`DNS(1)` field. To see your backup IPV6 DNS server see the :guilabel:`DNS(2)` field.
 
+To check for wifi networks again right click on the tray icon and select :menuselection:`Wifi - request scan`.
+
 Screenshot
 ----------
 .. image:: nm-tray.png

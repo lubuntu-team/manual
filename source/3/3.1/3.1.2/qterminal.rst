@@ -36,7 +36,7 @@ To rename a tab press :kbd:`Alt+Shift+S` or right click on the tab bar and selec
 Customizing
 -----------
 
-To change your preferences go to :menuselection:`File --> Preferences` or right click the terminal and :menuselection:`Preferences`. To change your font press the :guilabel:`Change` button next to the :guilabel:`Font` label and a dialog will show up. To change the font size enter it in the :guilabel:`Size` field. The terminal works best with monospaced fonts which often have mono somewhere in their name. To change your font use the :guilabel:`Font` drop down.
+To change your preferences go to :menuselection:`File --> Preferences` or right click the terminal and :menuselection:`Preferences`. To change your font press the :guilabel:`Change` button next to the :guilabel:`Font` label and a dialog will show up. To change the font size enter it in the :guilabel:`Size` field. The terminal works best with monospaced fonts which often have mono somewhere in their name. To change your font use the :guilabel:`Font` drop down. To see how your font looks look in the :guilabel:`Preview` field.
 
 .. image:: qterminal-font.png
 

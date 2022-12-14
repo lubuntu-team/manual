@@ -60,7 +60,7 @@ If you type a number into in your numerical base you will see the underneath the
 
 Statistic Mode
 ----------------
-To enter Statistic mode :menuselection:`Settings --> Statistic Mode`. To enter multiple entries of data press the :guilabel:`Dat` button to enter data. To show how many pieces of data you have entered press the :guilabel:`N`. To view the mean or average of all the data press the :guilabel:`Mea` button. To view the median of the data press the :guilabel:`Med` button. To clear the statistical memory press the :guilabel:`CSt` button. 
+To enter Statistic mode :menuselection:`Settings --> Statistic Mode`. To enter multiple entries of data press the :guilabel:`Dat` button to enter data. To show how many pieces of data you have entered press the :guilabel:`N`. To view the mean or average of all the data press the :guilabel:`Mea` button. To view the standard deviation of the data press the :guilabel:`σ` with a subscript n button. To view the median of the data press the :guilabel:`Med` button. To clear the statistical memory press the :guilabel:`CSt` button. 
 
 .. image:: kcalcstatistic.png
 

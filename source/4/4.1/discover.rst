@@ -18,7 +18,7 @@ To remove software use the :guilabel:`Installed` tab or press :kbd:`Alt +I`. You
 
 In the upper right corner of discover you can have a :guilabel:`Sort` category to sort your search results by :menuselection:`Name`, :menuselection:`Rating`, :menuselection:`Size`, or :menuselection:`Release Date`.  
 
-To get to your settings on what software to use install use the :guilabel:`Settings` tab. To remove a source such as a PPA click the hidden red :guilabel:`X` button on the right hand side of to remove it. To toggle enabling or disabling a software source check or uncheck the checkbox next to that software source.
+To get to your settings on what software to use install use the :guilabel:`Settings` tab. To remove a source such as a PPA click the hidden red :guilabel:`X` button on the right hand side of to remove it. To toggle enabling or disabling a software source check or uncheck the checkbox next to that software source. To make snap packages the default version to use for discover press the :guilabel:`Make default` button next to Snap packages.
 
 .. image:: discover-settings.png
 

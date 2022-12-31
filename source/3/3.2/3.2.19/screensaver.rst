@@ -17,7 +17,8 @@ To make the screen blank :menuselection:`File --> Blank Screen Now`. To lock you
 
 If you try to open the screensaver settings without having the screensaver daemon running you will bring up a dialog if you want to launch it.
 
-To change to get even more settings on your screensaver use the :guilabel:`Advanced` tab. To change images in your screensaver change settings in :guilabel:`Image Manipulation` heading. To change a random background image check the :guilabel:`Choose Random Image` checkbox. To choose which path to randomly choose wallpaer from type the path in to the left of :guilabel:`Browse` button or press the :guilabel:`Browse` button and choose the path or rss feed. 
+To change to get even more settings on your screensaver use the :guilabel:`Advanced` tab. To change images in your screensaver change settings in :guilabel:`Image Manipulation` heading. 
+To choose to select from your desktop background check the :guilabel:`Grab desktop images` checkbox. To change a random background image check the :guilabel:`Choose Random Image` checkbox. To choose which path to randomly choose wallpaer from type the path in to the left of :guilabel:`Browse` button or press the :guilabel:`Browse` button and choose the path or rss feed. 
 
 To change turrning the screen off and if to enter standby or suspend use the settings in :guilabel:`Display Power Management`. To enable xscreensaver to have power management check the :guilabel:`Power Management Enabled` checkbox. To change how fast to turn the computer into standby change the :guilabel:`Stanby After` field. To change how fast to suspend when idle change the :guilabel:`Suspend After` field. To turn the monitor off after an amount of time change the :guilabel:`Off After` field. To turn the screen off when blanking the screen check the :guilabel:`Quick Power-off in Blank Only Mode` chackbox.
 

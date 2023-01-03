@@ -173,15 +173,11 @@ Chapter 3.2 Preferences
 
 3.2.15 Users and Groups
 
-3.2.16 Window Effects
+3.2.16 Alternatives Configurator
 
-3.2.17 Alternatives Configurator
+3.2.17 Printers
 
-3.2.18 ibus Preferences
-
-3.2.19 Printers
-
-3.2.20 Screensaver
+3.2.18 Screensaver
 
 ------------------------------------------------------
 Chapter 4 Installing, Updating, and Removing  Software

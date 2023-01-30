@@ -106,7 +106,7 @@ The :guilabel:`Modifiers` tab allows you to change settings with the mouse and c
 
 Version
 -------
-Lubuntu ships with version 0.4.18-3 of qpdfview.
+Lubuntu ships with version 0.5.0 of qpdfview.
 
 How to Launch
 -------------

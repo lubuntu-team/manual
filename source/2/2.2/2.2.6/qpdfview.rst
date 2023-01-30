@@ -43,6 +43,8 @@ To make an annotation press :kbd:`Control +A` or :menuselection:`Edit --> Add an
 
 To select page width in zoom in qpdfview is a drop down menu with page width to show the width of the page on qpdfview, :menuselection:`View --> Fit to page width`, or press :kbd:`Control +9`. To view the whole page on qpdfview in this drop down menu select whole page, :menuselection:`View --> fit to page size`, or press :kbd:`Control + 8`. To return to the original zoom press :kbd:`Control + 0` or :menuselection:`View --> Original size`. To zoom in is press the magnifying glass with a + in it or press :kbd:`Control + +` or :menuselection:`View --> Zoom in`. To zoom out press the magnifying glass button with a - in it or press :kbd:`Control + -` or :menuselection:`View --> Zoom out`. To rotate the file to the left is press :kbd:`Control + Left arrow` or :menuselection:`View --> Rotate Left`. To rotate the file to the right is press :kbd:`Control + Right arrow` or :menuselection:`View --> Rotate Right`. Another way to rotate is to hold :kbd:`Shift` and then use the mousewheel. Another way to zoom with the scrollwheel is to hold :kbd:`Control` and zoom with the mousewheel.
 
+To view a list of all tabs you have open you can select them by the title of the pdf by the bottom of the :guilabel:`Tabs` menu.
+
 If you have a particularly long PDF file you might want to make a bookmark to find a specific thing easily. To create a bookmark press :kbd:`control +b` or  :menuselection:`Bookmarks -->  Add Bookmark` and give the bookmark a memorable title and description so you can find it in this document again easily. If you later want to remove the bookmark go :menuselection:`Bookmarks --> Remove bookmark` or press :kbd:`control+ shift+ B`.
 
 Screenshot

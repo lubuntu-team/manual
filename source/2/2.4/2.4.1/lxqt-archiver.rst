@@ -19,7 +19,7 @@ To reload the view of the archive press :kbd:`F5` or :menuselection:`View --> Re
 
 .. image:: lxqt-archiver.png
 
-To toggle showing the toolbar in LXQt File Archiver :menuselection:`View --> Toolbar`. To Toggle showing the Statusbar at the bottom :menuselection:`View --> Statusbar`. To toggle showing the directory tree on the left :menuselection:`View --> Directory Tree`.
+To toggle showing the toolbar in LXQt File Archiver :menuselection:`View --> Toolbar`. To Toggle showing the Statusbar at the bottom :menuselection:`View --> Statusbar`. To toggle showing the directory tree on the left :menuselection:`View --> Directory Tree`. To change how big icons and text are select the size :menuselection:`View --> Icon Size`.
 
 To close LXQt File Archiver press :kbd:`Control+Q`.
 

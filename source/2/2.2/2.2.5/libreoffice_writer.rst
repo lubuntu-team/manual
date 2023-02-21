@@ -122,7 +122,7 @@ To insert an image into your go to :menuselection:`Insert --> Image` to insert a
 
 Tables
 ------
-To insert a table :menuselection:`Table --> Insert Table` and a table dialog window will popup. To change the number of columns change the :guilabel:`Columns` field. To change the number of rows change the :guilabel:`Rows` field. To view a different styles for your table are under the :guilabel:`Style` menu and you can see a preview to the right of the menu. To input text into a part of the table simply left click over that part of the table. To move to another part of the table with the arrow key with the direction you want to go. 
+To insert a table :menuselection:`Table --> Insert Table` and a table dialog window will popup. To change the number of columns change the :guilabel:`Columns` field. To change the number of rows change the :guilabel:`Rows` field. To toggle showing a heading check the :guilabel:`Heading` checkbox. To view a different styles for your table are under the :guilabel:`Style` menu and you can see a preview to the right of the menu. To input text into a part of the table simply left click over that part of the table. To move to another part of the table with the arrow key with the direction you want to go. 
 
 .. image:: table_insterting.png 
 

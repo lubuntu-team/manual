@@ -49,7 +49,7 @@ To jump to a particular line in a file press :kbd:`control +j` or :menuselection
 
 .. image:: featherpad-jump.png
 
-To find and replace text press :kbd:`control +r`, the button with a magnifying glass and a pencil, or :menuselection:`Search --> Replace`. Type the text you want to Find in the find field and type what you want to put in with the Replace with field and then press enter to finish the finding and replacing through the whole file. 
+To find and replace text press :kbd:`control +r`, the button with a magnifying glass and a pencil, or :menuselection:`Search --> Replace`. Type the text you want to Find in the find field and type what you want to put in with the Replace with field and then press enter to finish the finding and replacing through the whole file. To replace the next instance press :kbd:`f8` or the downward arrow. To replace the previous instance press :kbd:`F9` or the upward pointing arrow. 
 
 .. image:: featherpad-find-replace.png 
 

@@ -80,7 +80,7 @@ To view what words you have added to your dictionary :menuselection:`Edit --> Us
 
 Saving Sessions
 ---------------
-To open all the files if you work on several together in a session press :kbd:`Control+M` or :menuselection:`File --> Save/Restore Session` and a dialog will appear. To save your first session type a name to remember this and then press the :guilabel:`Save` button. To open your saved session click the name of the session on the top of the dialog and then press :guilabel:`Open`.  To remove a saved session  press the :guilabel:`Remove` button. To remove all saved session press the :guilabel:`Remove All` button. To search for a particular session type in the :guilabel:`Filter` section. To include saving tabs from other windows in your session uncheck the :guilabel:`Save only in this window` checkbox.
+To open all the files if you work on several together in a session press :kbd:`Control+M`, press the rectangle button with a triangle out of the bottom, or :menuselection:`File --> Save/Restore Session` and a dialog will appear. To save your first session type a name to remember this and then press the :guilabel:`Save` button. To open your saved session click the name of the session on the top of the dialog and then press :guilabel:`Open`.  To remove a saved session  press the :guilabel:`Remove` button. To remove all saved session press the :guilabel:`Remove All` button. To search for a particular session type in the :guilabel:`Filter` section. To include saving tabs from other windows in your session uncheck the :guilabel:`Save only in this window` checkbox.
 
 .. image:: featherpad-session-save.png
 

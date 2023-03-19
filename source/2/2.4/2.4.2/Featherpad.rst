@@ -76,7 +76,7 @@ To open a spell check window press :kbd:`F2` or :menuselection:`Edit --> Check S
 
 .. image:: Featherpad-spellcheck.png
 
-To view what words you have added to your dictionary :menuselection:`Edit --> User Dictionary`.
+To view what words you have added to your dictionary :menuselection:`Edit --> User Dictionary`. To get spellcheck to work the first time you will need to select a langauge to run on :guilabel:`Hunspell dictionary path` on the :guilabel:`Text` tab of Featherpad prefrences.
 
 Saving Sessions
 ---------------

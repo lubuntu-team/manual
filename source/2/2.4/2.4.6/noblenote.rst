@@ -7,6 +7,8 @@ Usage
 ------
 To start a new note right click on the right hand column and select :menuselection:`New note`, press the :guilabel:`white piece of paper with a green plus` button, press :kbd:`Control+Shift+N`, or :menuselection:`Edit --> New note`. Then enter a title for this note by typing it. To open a note double click on that note from the right hand column which will open a new window with your note in it. To input text in the note type in the main body of this window after clicking on it. To rename your note to something, right click on the name of the note :menuselection:`Rename note`, press :kbd:`Control+Shift+R`, press :guilabel:`abc button on white paper`, or :menuselection:`Edit --> Rename note`.
 
+To type text into a note type on the bottom of the window.
+
 To select a different notebook to keep your notes organized click on it on the left hand column. If you wish to delete a notebook right click on a notebook and :menuselection:`Delete notebook`, with the notebook highlighted press :kbd:`Control + D`, or :menuselection:`Edit --> Delete notebook`. To add a new notebook press :kbd:`Control+N` or :menuselection:`Edit --> New notebook`.
 
 To delete a note click on the note and press the yellow paper button with a red X on it, press :kbd:`Control + Shift + D`, or edit :menuselection:`Edit --> Delete note`.

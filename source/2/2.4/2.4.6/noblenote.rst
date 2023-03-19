@@ -51,6 +51,6 @@ Customizing
 ------------
 To change preferences of nobleNote press :kbd:`Control +P` or :menuselection:`Settings --> Configure`. To keep nobleNote in your system tray after you close the nobleNote window check/uncheck the :guilabel:`Close to tray` checkbox. If you want to toggle showing notes in HTML format check/uncheck the :guilabel:`Convert notes to the HTML format`. To hide the main window when you open nobleNote check the :guilabel:`Hide main window at startup`. If you want to toggle the menu entry to show source check/uncheck the :guilabel:`Show "Show source" menu entry`. To reverse the direction of scrolling in nobleNote check the :guilabel:`touch screen scrolling` checkbox.
 
-To change how wide to make the default for the new note editor :guilabel:`Width` field to how big to make the editor for the note. To change how high to make the editor size change the :guilabel:`Height` field. To change what the default font would be for editing is the large bar to the left under :guilabel:`Note editor default font`. To change the default font size change in the small to the right with a number.
+To change how wide to make the default for the new note editor :guilabel:`Width` field to how big to make the editor for the note. To change how high to make the editor size change the :guilabel:`Height` field. To change what the default font would be for editing is the large bar to the left under :guilabel:`Note editor default font`. To change the font size change the number next to the name of your font.
 
 .. image:: nobleNote-pref.png 

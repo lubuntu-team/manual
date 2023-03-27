@@ -30,7 +30,7 @@ The :guilabel:`Display Options` has option for different ways to display in htop
 
 .. image:: htop-setup.png
 
-To change the header columns of htop on the top select :menuselection:`Header layout` tab.
+To change the header columns of htop on the top select :menuselection:`Header layout` tab. In each of these options the numbers on the right represents the width of the column is the percent of the width of the window.
 
 To change what columns end up showing select :guilabel:`Columns` on the setup menu. The column :guilabel:`Active Columns` shows what columns you will have on htop with the top being the leftmost column in htop and the bottom being the rightmost. To select a different column press :kbd:`Up arrow` or :kbd:`Down arrow`. To move a column up in the list press :kbd:`F7`. To move a column down press :kbd:`F8`. To remove a column press :kbd:`F9`. To see what other columns there is the column :guilabel:`Available Columns`. To add a column when having :guilabel:`Available Columns` and select the column you want and press :kbd:`F5`.
 

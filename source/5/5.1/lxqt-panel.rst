@@ -129,7 +129,7 @@ To customize the sensors right click on the sensors applet :menuselection:`Confi
 
 .. image:: sensors-config.png
 
-To have a set of eyes that look towards where the mouse cursor is add the :guilabel:`QEyes` widget. The eyes look towards where the mouse cursor is relavitve to from the eye.
+To have a set of eyes that look towards where the mouse cursor is add the :guilabel:`QEyes` widget. The eyes look towards where the mouse cursor is relative to from the eye.
 
 .. image:: QEyes.png
 

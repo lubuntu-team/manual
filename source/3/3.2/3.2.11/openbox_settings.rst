@@ -1,7 +1,7 @@
 Chapter 3.2.11 Openbox Settings
 ===============================
 
-Openbox Settings changes configuration of openbox the default window manager of Lubuntu.
+Openbox Settings changes configuration of Openbox the default window manager of Lubuntu.
 
 Usage
 ------
@@ -20,7 +20,7 @@ The :guilabel:`Font` tab changes the font and font sizes for several different c
 
 .. image:: obconf-font.png
 
-The :guilabel:`Windows` tab manages the behavior of newly opened windows. The :guilabel:`Focus new windows when they appear` checkbox gives new windows focus when they finish opening and then be the active window as if you clicked on the icon on the taskbar. The :guilabel:`Place new Windows under the mouse pointer` puts all your new windows you open under the mouse pointer. The :guilabel:`Center new windows when they are placed` puts the new windows in the center of the monitor. The drop down menu for :guilabel:`Prefer to place new windows on` shows you where to place new windows on multimonitor layouts. To change which desktop openbox uses for places when switching windows with alt tab change the :guilabel:`Primary monitor` drop down.
+The :guilabel:`Windows` tab manages the behavior of newly opened windows. The :guilabel:`Focus new windows when they appear` checkbox gives new windows focus when they finish opening and then be the active window as if you clicked on the icon on the taskbar. The :guilabel:`Place new Windows under the mouse pointer` puts all your new windows you open under the mouse pointer. The :guilabel:`Center new windows when they are placed` puts the new windows in the center of the monitor. The drop down menu for :guilabel:`Prefer to place new windows on` shows you where to place new windows on multimonitor layouts. To change which desktop Openbox uses for places when switching windows with alt tab change the :guilabel:`Primary monitor` drop down.
 
 .. image:: obconf-windows.png
 

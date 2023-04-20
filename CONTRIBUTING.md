@@ -8,12 +8,11 @@ to do it. This guide is meant to show how to contribute to the Lubuntu Manual.
 Before starting, you need a few tools.
 
  - A modern, Debian-based Linux distribution
-  - Debian Jessie (8.0) and onwards
-  - Ubuntu 16.04 LTS and onwards
+  - Debian Buster (10.0) and onwards
+  - Ubuntu 20.04 LTS and onwards
+  - A text editor with syntax highlighting and spell checking
  - The following packages from your Linux distribution's repository:
   - `git`
-  - `python3-pip`
-  - `arcanist`
   - `python3-sphinx`
   - `texlive`
   - `texlive-formats-extra`
@@ -25,23 +24,22 @@ Before starting, you need a few tools.
 
 To clone the repository, you can run this command:
 ```
-git clone ssh://git@phab.lubuntu.me/source/manual.git
+git clone https://git.lubuntu.me/Lubuntu/manual.git
 ```
-but to do this you must have your ssh key on phabricator. 
 ## Adding a file to the manual
 
 After setting up the tools, you should now be ready to start editing files.
 
 If you look in the `source` directory, you should see some files. There's
 `index.rst`, which is the main page, and some directories and subdirectories
-that are numbers. Those are chapters of the book, and are listed in the
-`index.rst` file.
+that are numbers. Those are chapters of the manual, and are listed in the
+`index.rst` file. Chapter 1 deals with downloading and installing Lubuntu. Chapter 2 has to deal with applications for office web browsers and accesories. Chapter 3 documents programs that change settings. Chapter 4 is programs for installing and updating software. Chapter 5 is for the panel, runner, and window management. Each chapter that begins with a letter is an appendix.
 
 Let's say you want to create Chapter 20. In the `source` directory, create a
 directory titled `20`. In the `20` directory, create a file with the name of
 the chapter. Let's call this chapter `foo bar`. Create a file named
 `foo_bar.rst` in `20`. Edit that file however you want. When you are done,
-add this to `source/index.rst`:
+add this to `source/index.rst`. To add a file to an already existing chapter add it to the toctree in the chapter.
 
 ```
 Contents
@@ -83,11 +81,8 @@ git commit -m "I changed x in foo and y in bar" foo bar
 
 To submit your code, or push to your Launchpad account and
 submit a merge request, both will be seen by someone with the permission to
-merge. Push to the following repository to be able to submit a merge proposal on differential after registering an account on the Lubuntu phabricator.
+merge. Push to the following repository to be able to submit a merge proposal on the Lubuntu gittea.
 
-``` 
-arc diff
-```
 
 Another option if you prefer would be to send patch mail to [lubuntu-devel@lists.ubuntu.com](mailto:lubuntu-devel@lists.ubuntu.com).
 This assumes you are already familiar with patch mail and you know how.
@@ -100,8 +95,8 @@ merge proposal or pull request.**
 ## Specification/What is there to do?
 
 In `spec.rst`, there is an editable outline of items to be accomplished, a precompiled version with spec.pdf description of items to be accomplished, and on
-`PROGRESS.md`, there is our status in completing that specification. In the specification if you make changes run ``` rst2pdf spec.rst" 
+`PROGRESS.md`, there is our status in completing that specification. In the specification if you make changes run ``` rst2pdf spec.rst ``` 
 Pick out something to do, but before you start, please indicate on the [lubuntu-devel
-mailing list](https://lists.ubuntu.com/mailman/listinfo/Lubuntu-devel) or on [#lubuntu-devel on freenode](https://kiwiirc.com/client/irc.freenode.net/#lubuntu-devel) to state that you intend to
+mailing list](https://lists.ubuntu.com/mailman/listinfo/Lubuntu-devel) or on [#lubuntu-devel on libera](https://kiwiirc.com/client/irc.libera.net/#lubuntu-devel) to state that you intend to
 complete what you have picked out. Please also look at `PROGRESS.md` to see
 what still needs to be completed.

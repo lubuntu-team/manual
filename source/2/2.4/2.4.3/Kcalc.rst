@@ -13,7 +13,7 @@ Features:
 
 Usage
 ------
-To do simple arithmetic click the numbers or type them on your keyboard and then press the sign for addition, multiplication, subtraction,  or division. You can also type in the numbers and press :guilabel:`+` for addition, :guilabel:`-` for subtraction, :guilabel:`x` for multiplication and the division symbol for division. To view the answer press the button that is an :guilabel:`=`. To view a summary of each button you can mouse over to get a verbal description of the button. If you make a mistake entering in a number you can press the :kbd:`Backspace` key.
+To do simple arithmetic click the number buttons or type them on your keyboard and then press the sign for addition, multiplication, subtraction,  or division. You can also type in the numbers and press :guilabel:`+` for addition, :guilabel:`-` for subtraction, :guilabel:`x` for multiplication and the division symbol for division. To view the answer press the button that is an :guilabel:`=`. To enter a percetnetage press :kbd:`%` or left click :guilabel:`%`. To view a summary of each button you can mouse over to get a verbal description of the button. If you make a mistake entering in a number you can press the :kbd:`Backspace` key.
  
 .. image:: Kcalc.png
 
@@ -60,13 +60,13 @@ If you type a number into in your numerical base you will see the underneath the
 
 Statistic Mode
 ----------------
-To enter Statistic mode :menuselection:`Settings --> Statistic Mode`. To enter multiple entries of data press the :guilabel:`Dat` button to enter data. To show how many pieces of data you have entered press the :guilabel:`N`. To view the mean or average of all the data press the :guilabel:`Mea` button. To view the median of the data press the :guilabel:`Med` button. To clear the statistical memory press the :guilabel:`CSt` button. 
+To enter Statistic mode :menuselection:`Settings --> Statistic Mode`. To enter multiple entries of data press the :guilabel:`Dat` button to enter data. To show how many pieces of data you have entered press the :guilabel:`N`. To view the mean or average of all the data press the :guilabel:`Mea` button. To view the standard deviation of the data press the :guilabel:`σ` with a subscript n button. To view the median of the data press the :guilabel:`Med` button. To clear the statistical memory press the :guilabel:`CSt` button. 
 
 .. image:: kcalcstatistic.png
 
 Customizing
 -----------
-To open configuration for KCalc press :kbd:`Control+Shift+ ,` or :menuselection:`Settings --> Configure KCalc`. To view your settings for precision or digit grouping use the :guilabel:`General` tab. To change the maximum number of digits change the :guilabel:`Maximum number of digits` field. To have KCalc set decimal precision to only a certain number of places after the decimal place check the :guilabel:`Set decimal precision` checkbox and select the number of digits after the decimal place. If you ant to show the result in the window title check the :guilabel:`Show result in window title` checkbox. To have KCalc group digits together check the :guilabel:`Group digits` checkbox. 
+To open configuration for KCalc press :kbd:`Control+Shift+ ,` or :menuselection:`Settings --> Configure KCalc`. To view your settings for precision or digit grouping use the :guilabel:`General` tab. To change the maximum number of digits change the :guilabel:`Maximum number of digits` field. To have KCalc set decimal precision to only a certain number of places after the decimal place check the :guilabel:`Set decimal precision` checkbox and select the number of digits after the decimal place. If you ant to show the result in the window title check the :guilabel:`Show result in window title` checkbox. To have KCalc group digits together check the :guilabel:`Group digits` checkbox. To change how many digits to group in different numerical bases change the field for each numerical base.
 
 To cancel and not apply your changes press the :guilabel:`Cancel` button along the bottom. To apply your changes and not exit from this window press the :guilabel:`Apply` button. To restore the settings to your defaults press the :guilabel:`Restore Defaults` button. To apply your changes if any and close this window press the :guilabel:`OK` button.
 
@@ -76,7 +76,7 @@ The :guilabel:`Font` tab has settings to change settings with your fonts. To cho
 
 .. image:: kcalc-font-screenshot.png
 
-The :guilabel:`Colors` tab has the colors of your user interface. To change your foreground color will change how the display or the number in the interface is the color next to :guilabel:`Foreground` color area to select. To change the background color of your display choose a different color on the :guilabel:`Background` button. To change the background color of the function buttons press the button next to :guilabel:`Functions`. To a change the color of the function button press button next to :guilabel:`Statistical functions`. To change the background color for hexidecimal functions :guilabel:`Hexadecimals`. To change the backgrounds of the numbers buttons press the button next to  :guilabel:`Numbers`. To change the background of the memory keys press the button next to :guilabel:`Memory`. To change the background of operations press the button next to :guilabel:`Operations`.
+The :guilabel:`Colors` tab has the colors of your user interface. To change your foreground color will change how the display or the number in the interface is the color next to :guilabel:`Foreground` color area to select. To change the background color of your display choose a different color on the :guilabel:`Background` button. To change the background color of the function buttons press the button next to :guilabel:`Functions`. To a change the color of the function button press button next to :guilabel:`Statistical functions`. To change the background color for hexadecimal functions :guilabel:`Hexadecimals`. To change the backgrounds of the numbers buttons press the button next to  :guilabel:`Numbers`. To change the background of the memory keys press the button next to :guilabel:`Memory`. To change the background of operations press the button next to :guilabel:`Operations`.
 
 .. image:: kcalc-colors.png
 
@@ -90,7 +90,7 @@ To customize your shortcuts for KCalc :menuselection:`Settings --> Keyboard Shor
 
 Version
 -------
-Lubuntu ships with version 22.08.1 of KCalc.
+Lubuntu ships with version 22.12.3 of KCalc.
 
 How to Launch
 -------------

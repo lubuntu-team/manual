@@ -59,7 +59,7 @@ Lubuntu ships with version 3.00 of Transmission.
 How to Launch
 -------------
 
-To launch Transmission go to menu :menuselection:`Internet --> Qtransmission Bittorent Client` or run 
+To launch Transmission go to menu :menuselection:`Internet --> Transmission (Qt)` or run 
 
 .. code:: 
  
@@ -73,7 +73,7 @@ To open your preferences for Transmission :menuselection:`Edit --> Preferences`.
 
 .. image:: qtransmission-speed-pref.png
 
-The :guilabel:`Downloading` tab of your preferences has settings for downloading torrents. To automatically have transmission open the torrent files in a directory check the :guilabel:`Automatically add .torrent files from` checkbox and chose a path to have automatically added.  To start the added torrents automatically check the :guilabel:`Start added torrents` checkbox. To choose where to save torrents is in the :guilabel:`Save to Location:` button to bring up a dialog to show where to save the torrent. To set a maximum number of torrents downloading at the same time change the :guilabel:`Maximum active downloads` field. To stop trying to download a file after no more file to download change the :guilabel:`Download is inactive if data sharing stopped` and choose how many minutes to choose if it is inactive. To add .part to the end of incomplete downloaded files check the :guilabel:`Append ".part" to incomplete files' names` checkbox. To choose if you want a different file to choose the incomplete files check the :guilabel:`Keep incomplete files in` checkbox and bring a dialog to choose where to store the inocomplete files on the right.
+The :guilabel:`Downloading` tab of your preferences has settings for downloading torrents. To automatically have transmission open the torrent files in a directory check the :guilabel:`Automatically add .torrent files from` checkbox and chose a path to have automatically added.  To start the added torrents automatically check the :guilabel:`Start added torrents` checkbox. To choose where to save torrents is in the :guilabel:`Save to Location:` button to bring up a dialog to show where to save the torrent. To set a maximum number of torrents downloading at the same time change the :guilabel:`Maximum active downloads` field. To stop trying to download a file after no more file to download change the :guilabel:`Download is inactive if data sharing stopped` and choose how many minutes to choose if it is inactive. To add .part to the end of incomplete downloaded files check the :guilabel:`Append ".part" to incomplete files' names` checkbox. To choose if you want a different file to choose the incomplete files check the :guilabel:`Keep incomplete files in` checkbox and bring a dialog to choose where to store the incomplete files on the right.
 
 .. image:: transmissionprefrences.png
 

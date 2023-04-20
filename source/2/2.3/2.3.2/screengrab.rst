@@ -13,7 +13,7 @@ To take a screenshot where you select the screen with the mouse double click to 
 
 To quit ScreenGrab press :kbd:`Escape`.
 
-If you have the system tray enabled ScreenGrab can do many things by right clicking it. To show ScreenGrab this way left click on the tray icon or right click the tray icon and select :menuselection:`Show`. To have ScreenGrab take a new screenshot from the system tray right click on the tray icon and select :menuselection:`New`. To save your screenshot from the tray icon right click on it and select :menuselection:`Save`. To copy your screenshot to the clipboard from the systray right click on the icon and select :menuselection:`Copy`. To open ScreenGrab preferences from the system tray right click on the system tray and select :menuselection:`Options`. To quit ScreenGrab from the system tray right click on the tray icon and select :menuselection:`Quit`.
+If you have the system tray enabled ScreenGrab can do many things by right clicking it. To hide ScreenGrab left click on the tray icon and select :menuselection:`Hide`. To show ScreenGrab this way left click on the tray icon or right click the tray icon and select :menuselection:`Show`. To have ScreenGrab take a new screenshot from the system tray right click on the tray icon and select :menuselection:`New`. To save your screenshot from the tray icon right click on it and select :menuselection:`Save`. To copy your screenshot to the clipboard from the systray right click on the icon and select :menuselection:`Copy`. To open ScreenGrab preferences from the system tray right click on the system tray and select :menuselection:`Options`. To quit ScreenGrab from the system tray right click on the tray icon and select :menuselection:`Quit`.
 
 Screenshot
 ----------
@@ -21,7 +21,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 2.0.1 of ScreenGrab.
+Lubuntu ships with version 2.5.0 of ScreenGrab.
 
 How to Launch
 -------------
@@ -45,7 +45,7 @@ To change your settings on multiple windows and automatically saving use the :gu
 
 .. image:: ScreenGrab-advanced.png
 
-To changes with how ScreenGrab shows in the system tray use the :guilabel:`System tray` tab. To toggle showing ScreenGrab in the system tray check/uncheck the :guilabel:`Show ScreenGrab in the system tray` checkbox. To change when ScreenGrab shows notifications change the :guilabel:`Tray messages` field. To not close ScreenGrab when closing the window but keep it in the system tray check the :guilabel:`Minimize to tray when closing` checkbox.
+To changes with how ScreenGrab shows in the system tray use the :guilabel:`System tray` tab. To toggle showing ScreenGrab in the system tray check/uncheck the :guilabel:`Show ScreenGrab in the system tray` checkbox. To change when ScreenGrab shows notifications change the :guilabel:`Tray messages` field. To change how long to display tray messages change the :guilabel:`Time to display tray messages` field. To not close ScreenGrab when closing the window but keep it in the system tray check the :guilabel:`Minimize to tray when closing` checkbox.
 
 .. image:: ScreenGrab-systray.png
 

@@ -5,7 +5,9 @@ nobleNote is the default application to take a notes on Lubuntu. nobleNote also 
 
 Usage
 ------
-To start a new note right click on the right hand column and select :menuselection:`New note`, press the :guilabel:`white piece of paper with a green plus` button, or :menuselection:`Edit --> New note`. Then enter a title for this note by typing it. To open a note double click on that note from the right hand column which will open a new window with your note in it. To input text in the note type in the main body of this window after clicking on it. To rename your note to something, right click on the name of the note :menuselection:`Rename note`, press :kbd:`Control+Shift+R`, or :menuselection:`Edit --> Rename note`.
+To start a new note right click on the right hand column and select :menuselection:`New note`, press the :guilabel:`white piece of paper with a green plus` button, press :kbd:`Control+Shift+N`, or :menuselection:`Edit --> New note`. Then enter a title for this note by typing it. To open a note double click on that note from the right hand column which will open a new window with your note in it. To input text in the note type in the main body of this window after clicking on it. To rename your note to something, right click on the name of the note :menuselection:`Rename note`, press :kbd:`Control+Shift+R`, press :guilabel:`abc button on white paper`, or :menuselection:`Edit --> Rename note`.
+
+To type text into a note type on the bottom of the window.
 
 To select a different notebook to keep your notes organized click on it on the left hand column. If you wish to delete a notebook right click on a notebook and :menuselection:`Delete notebook`, with the notebook highlighted press :kbd:`Control + D`, or :menuselection:`Edit --> Delete notebook`. To add a new notebook press :kbd:`Control+N` or :menuselection:`Edit --> New notebook`.
 
@@ -49,8 +51,8 @@ on the commandline. The icon for nobleNote looks like a yellow pad of paper with
 
 Customizing
 ------------
-To change preferences of nobleNote press :kbd:`Control +P` or :menuselection:`Settings --> Configure`. To keep nobleNote in your system tray after you close the nobleNote window check/uncheck the :guilabel:`Close to tray` checkbox. If you want to toggle showing notes in HTML format check/uncheck the :guilabel:`Convert notes to the HTML format`. To hide the main window when you open nobleNote check the :guilabel:`Hide main window at startup`. If you want to toggle the menu entry to show source check/uncheck the :guilabel:`Show "Show source" menu entry`. To reverse the direction of scrolling in nobleNote check the :guilabel:`touch screen scrolling` checkbox.
+To change preferences of nobleNote press :kbd:`Control +P` or :menuselection:`Settings --> Configure`. To change how many recent notes nobleNote keeps change the :guilabel:`Number of recently opened notes` field. To keep nobleNote in your system tray after you close the nobleNote window check/uncheck the :guilabel:`Close to tray` checkbox. If you want to toggle showing notes in HTML format check/uncheck the :guilabel:`Convert notes to the HTML format`. To hide the main window when you open nobleNote check the :guilabel:`Hide main window at startup`. If you want to toggle the menu entry to show source check/uncheck the :guilabel:`Show "Show source" menu entry`. To reverse the direction of scrolling in nobleNote check the :guilabel:`touch screen scrolling` checkbox.
 
-To change how wide to make the default for the new note editor :guilabel:`Width` field to how big to make the editor for the note. To change how high to make the editor size change the :guilabel:`Height` field. To change what the default font would be for editing is the large bar to the left under :guilabel:`Note editor default font`. To change the default font size change in the small to the right with a number.
+To change how wide to make the default for the new note editor :guilabel:`Width` field to how big to make the editor for the note. To change how high to make the editor size change the :guilabel:`Height` field. To change what the default font would be for editing is the large bar to the left under :guilabel:`Note editor default font`. To change the font size change the number next to the name of your font.
 
 .. image:: nobleNote-pref.png 

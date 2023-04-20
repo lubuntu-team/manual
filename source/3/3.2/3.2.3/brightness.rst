@@ -19,7 +19,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with 1.1.0 of Brightness. 
+Lubuntu ships with 1.2.0 of Brightness. 
 
 How to Launch
 -------------

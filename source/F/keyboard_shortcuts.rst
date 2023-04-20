@@ -13,9 +13,9 @@ Global-keys (lxqt-globalkeysd) is a component of the LXQt environment. Global-ke
 
 Openbox keyboard shortcuts
 -------------------------------
-Openbox keyboard shortcuts is the second layer managing keyboard shortcuts. It is preferred for windows management like resizing. To change these settings see this link on the `openbox wiki bindings <http://openbox.org/wiki/Help:Bindings>`_
+Openbox keyboard shortcuts is the second layer managing keyboard shortcuts. It is preferred for windows management like resizing. To change these settings see this link on the `openbox wiki bindings <http://Openbox.org/wiki/Help:Bindings>`_
 
-.. note::   Global-keys will take preference over openbox bindings. If a key is used in Global-keys, it will not work in Openbox keyboard shortcuts. For example if the W(indows) key opens the LXQT application menu (equivalent of the windows start menu) in Global-keys, Openbox commands like window resizing (W + arrow keys) will not work correctly. Keep this in mind when using and editing keyboard shortcuts. 
+.. note::   Global-keys will take preference over Openbox bindings. If a key is used in Global-keys, it will not work in Openbox keyboard shortcuts. For example if the W(indows) key opens the LXQT application menu (equivalent of the windows start menu) in Global-keys, Openbox commands like window resizing (W + arrow keys) will not work correctly. Keep this in mind when using and editing keyboard shortcuts. 
 
 The table below shows Lubuntu's default Openbox keyboard shortcuts:
 
@@ -128,12 +128,12 @@ Open qps                      C-A-Delete
 
 ============================= ========================
 
-Open qterminal                 C-A-T
+Open QTerminal                 C-A-T
 ============================= ========================
 
 ============================= ========================
 
-Launch firefox                XF86WWW
+Launch Firefox                XF86WWW
 
 Open qterminal                XF86Terminal
 
@@ -144,7 +144,7 @@ Open qterminal                XF86Terminal
 
 ============================= ========================
 
-Open pcmanfm-qt               XF86MyComputer
+Open PCManFM-Qt               XF86MyComputer
 
 ============================= ========================
 

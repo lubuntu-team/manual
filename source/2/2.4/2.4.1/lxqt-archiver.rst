@@ -13,19 +13,19 @@ To create a new archive press :menuselection:`File --> New` or press :kbd:`Contr
 
 .. image:: lxqt-archiver-new.png
 
-To navigate to a folder inside of an archive double click on it in the center of the window or double click on the left side pane. To move back up in a directory double click on the folder :guilabel:`..`.
+To navigate to a folder inside of an archive double click on it in the center of the window or double click on the left side pane. To move back up in a directory double click on the folder :guilabel:`..`. To select all files press :kbd:`Control + A` or :menuselection:`Edit --> Select All`.
 
 To reload the view of the archive press :kbd:`F5` or :menuselection:`View --> Reload`. To view the whole directory tree press :kbd:`Control+ Shift +Down arrow` or :menuselection:`View --> Expand`. To view just the top level of directory tree press :kbd:`Control + Shift + Up arrow` or :menuselection:`View --> Collapse`. To search for files press :kbd:`Control +F` or :menuselection:`View --> Filter`. Type what you want to search for in the textbox at the bottom. To hide searching press :kbd:`Control+F` or :menuselection:`View --> Filter` again.
 
 .. image:: lxqt-archiver.png
 
-To toggle showing the toolbar in LXQt File Archiver :menuselection:`View --> Toolbar`. To Toggle showing the Statusbar at the bottom :menuselection:`View --> Statusbar`. To toggle showing the directory tree on the left :menuselection:`View --> Directory Tree`.
+To toggle showing the toolbar in LXQt File Archiver :menuselection:`View --> Toolbar`. To Toggle showing the Statusbar at the bottom :menuselection:`View --> Statusbar`. To toggle showing the directory tree on the left :menuselection:`View --> Directory Tree`. To change how big icons and text are select the size :menuselection:`View --> Icon Size`.
 
 To close LXQt File Archiver press :kbd:`Control+Q`.
 
 Version
 -------
-Lubuntu ships with version 0.6.0 of LXQt File Archiver.
+Lubuntu ships with version 0.7.0 of LXQt File Archiver.
 
 How To Launch
 -------------

@@ -19,7 +19,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 1.1.0 of File Associations
+Lubuntu ships with version 1.2.0 of File Associations
 
 How to Launch
 -------------

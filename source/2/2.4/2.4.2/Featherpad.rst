@@ -23,7 +23,7 @@ To type things into your text file the main part of the window similar to a word
 .. image:: featherpad.png
   :width: 80% 
 
-To delete the text to the start of a word press :kbd:`Control+ Backspace`. To delete to the end of a word press :kbd:`Control + Delete`. To delete to the end of the line press :kbd:`Control+ K`. To move a line up press :kbd:`Control+ Shift + Up`. To move a line down press :kbd:`Control Shift + Down`. To select one word double click the left mouse button. To select a whole line tripple click the left mouse button.
+To delete the text to the start of a word press :kbd:`Control+ Backspace`. To delete to the end of a word press :kbd:`Control + Delete`. To delete to the end of the line press :kbd:`Control+ K`. To move a line up press :kbd:`Control+ Shift + Up`. To move a line down press :kbd:`Control Shift + Down`. To select one word double click the left mouse button. To select a whole line triple click the left mouse button.
 
 To open a new tab and empty text file press the button with a piece of paper with a plus symbol on it, or press :kbd:`Control + N`. If you wish to close a tab press the red x button. To switch between tabs click on the tab is not the close button. To switch to the next tab press :kbd:`Alt + Right arrow` or :menuselection:`File --> Next Tab`. Another way to open a new document in a new tab double click to the right of all open tabs. To switch to the previous tab press :kbd:`Alt + Left arrow` or :menuselection:`File --> Previous Tab`. To close a tab press the :guilabel:`X` button. To move a tab into a new window press :kbd:`Control + T` or :menuselection:`File --> Detach Tab`. To open a side pane that replaces the tab bar press :kbd:`Control +Alt +P` or :menuselection:`File --> Side-Pane`. If have so many tabs they don't all fit in the window press the right and left arrows on the tab bar to move the tab bar that way or use the mousewheel to move the visible tabs in the tab bar. To move to the last text file you had visited press :kbd:`F1` or :menuselection:`File --> Last Active Tab`. To change to your last tab press :kbd:`Alt+ Up arrow` or :menuselection:`File --> Last Tab`. To change to your first tab press :kbd:`Alt+ Down arrow` or :menuselection:`File --> First Tab`.
 
@@ -49,7 +49,7 @@ To jump to a particular line in a file press :kbd:`control +j` or :menuselection
 
 .. image:: featherpad-jump.png
 
-To find and replace text press :kbd:`control +r`, the button with a magnifying glass and a pencil, or :menuselection:`Search --> Replace`. Type the text you want to Find in the find field and type what you want to put in with the Replace with field and then press enter to finish the finding and replacing through the whole file. 
+To find and replace text press :kbd:`control +r`, the button with a magnifying glass and a pencil, or :menuselection:`Search --> Replace`. Type the text you want to Find in the find field and type what you want to put in with the Replace with field and then press enter to finish the finding and replacing through the whole file. To replace the next instance press :kbd:`f8` or the downward arrow. To replace the previous instance press :kbd:`F9` or the upward pointing arrow. To replace all press :kbd:`F10` or the double pointed arrow button.
 
 .. image:: featherpad-find-replace.png 
 
@@ -59,9 +59,11 @@ To change what font you want select :menuselection:`Options --> Font` to change 
 
 To save a file with a different encoding use the :menuselection:`Options --> Encoding` submenu. To save with the current encoding :menuselection:`File --> Save with Encoding`.
 
-To make the text all lowercase first select it with the mouse press then :kbd:`Control + Shift +L`, :menuselection:`To Lower Case`, or :menuselection:`Edit --> To Lowercase`. To make the text all uppercase select it first then  press :kbd:`Control + Shift +U`, right click :menuselection:`To Uppercase`, or :menuselection:`Edit --> To Uppercase`. To capitlize the first letter of each word select the text and :menuselection:`Edit --> To Start Case` or right click :menuselection:` To Start Case`. To alphabetize your lines first select it then :menuselection:`Edit --> Sort Lines`. To sort the opposite way first select the lines then :menuselection:`Edit --> Sort Lines Reversely`. 
+At the bottom of the window of Featherpad the :guilabel:`Encoding` shows what encoding your file will be saved with. If Featherpad is highlighting a syntax you can see what it is with :guilabel:`Syntax`. To see how many lines the text file has read the :guilabel:`Lines` field at the bottom. To view how many characters you currently have selected view :guilabel:`Sel. Chars` at the bottom. To view how many words are in your text file view :guilabel:`Words`. If this is not a number press the refresh icon to count how many words.
 
-To print a text :menuselection:`File --> Print` or press :kbd:`control + p`. To change which printer you use have use the :guilabel:`Name` field. To get more options for printing press the :guilabel:`Options` button. To change how many copies to print change the number in the :guilabel:`Copies` field. To print on a certain range of pages use the :guilabel:`Pages From` field to choose a range of pages. To get to even more printer options press the :guilabel:`Properties` button.
+To make the text all lowercase first select it with the mouse press then :kbd:`Control + Shift +L`, :menuselection:`To Lower Case`, or :menuselection:`Edit --> To Lowercase`. To make the text all uppercase select it first then  press :kbd:`Control + Shift +U`, right click :menuselection:`To Uppercase`, or :menuselection:`Edit --> To Uppercase`. To capitalize the first letter of each word select the text and :menuselection:`Edit --> To Start Case` or right click :menuselection:` To Start Case`. To alphabetize your lines first select it then :menuselection:`Edit --> Sort Lines`. To sort the opposite way first select the lines then :menuselection:`Edit --> Sort Lines Reversely`. 
+
+To print a text :menuselection:`File --> Print` or press :kbd:`control + p`. To change which printer you use have use the :guilabel:`Name` field. To get more options for printing press the :guilabel:`Options` button. To change how many copies to print change the number in the :guilabel:`Copies` field. To print on a certain range of pages use the :guilabel:`Pages From` field to choose a range of pages. To get to even more printer options press the :guilabel:`Properties` button. To collate the printed pages check the :guilabel:`Collate` checkbox. To reverse the order pages are printed check the :guilabel:`Reverse` checkbox.
 
 .. image:: featherpad-print.png
 
@@ -74,11 +76,11 @@ To open a spell check window press :kbd:`F2` or :menuselection:`Edit --> Check S
 
 .. image:: Featherpad-spellcheck.png
 
-To view what words you have added to your dictionary :menuselection:`Edit --> User Dictionary`.
+To view what words you have added to your dictionary :menuselection:`Edit --> User Dictionary`. To get spellcheck to work the first time you will need to select a langauge to run on :guilabel:`Hunspell dictionary path` on the :guilabel:`Text` tab of Featherpad prefrences.
 
 Saving Sessions
 ---------------
-To open all the files if you work on several together in a session press :kbd:`Control+M` or :menuselection:`File --> Save/Restore Session` and a dialog will appear. To save your first session type a name to remember this and then press the :guilabel:`Save` button. To open your saved session click the name of the session on the top of the dialog and then press :guilabel:`Open`.  To remove a saved session  press the :guilabel:`Remove` button. To remove all saved session press the :guilabel:`Remove All` button. To search for a particular session type in the :guilabel:`Filter` section. To include saving tabs from other windows in your session uncheck the :guilabel:`Save only in this window` checkbox.
+To open all the files if you work on several together in a session press :kbd:`Control+M`, press the rectangle button with a triangle out of the bottom, or :menuselection:`File --> Save/Restore Session` and a dialog will appear. To save your first session type a name to remember this and then press the :guilabel:`Save` button. To open your saved session click the name of the session on the top of the dialog and then press :guilabel:`Open`.  To remove a saved session  press the :guilabel:`Remove` button. To remove all saved session press the :guilabel:`Remove All` button. To search for a particular session type in the :guilabel:`Filter` section. To include saving tabs from other windows in your session uncheck the :guilabel:`Save only in this window` checkbox.
 
 .. image:: featherpad-session-save.png
 
@@ -108,9 +110,11 @@ To view all keyboard shortcuts of Featherpad switch to the :guilabel:`Shortcuts`
 
 To change what colors you use in syntax highlighting use the :guilabel:`Syntax Colors` tab. To change the color of built in functions click the color to the right of :guilabel:`Built-in Functions` and a window to pick your color will show up. To change the color of comments in syntax press the button next to :guilabel:`Comments` and a color picker window will pop up. To change how documents HTML or XML elements appear change the press the button next to :guilabel:`Document Blocks, XML/HTML Elements` button to have a color selection window appear. To change how extra elements are colors press the button next to :guilabel:`Extra Elements`. To change the color of functions and URLs in highlighting press the button next to :guilabel:`Functions, URLs`. To change how keywords of a programming language appear press the button next to :guilabel:`Keywords`. To change the color of markdown headings and CSS values press the button next to :guilabel:`Markdown Headings, CSS Values`. To change how numbers are highlighted press the button next to :guilabel:`Numbers`. To change how quotations are highlighted press the button next to :guilabel:`Quotations`. To change how you highlight regular expressions and code blocks press the button next to :guilabel:`Code Blocks`. To change how datatypes are highlighted press the button next to :guilabel:`Types`. To change how dark the whitespace appears in highlighting change :guilabel:`Whitespace color value`. To change how dark the currently highlighted line is change :guilabel:`Current line highlight value`. To restore syntax highlighting to default values press the :guilabel:`Default` button.
 
+.. image:: featherpad-syntax-colors.png
+
 Version 
 -------
-Lubuntu ships with version 1.3.0 of Featherpad. 
+Lubuntu ships with version 1.3.3 of Featherpad. 
 
 How to Launch
 -------------

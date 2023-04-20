@@ -6,7 +6,7 @@ Introduction
 ------------
 
 ----------------------------
-Chapter 1 Installing lubuntu
+Chapter 1 Installing Lubuntu
 ----------------------------
 
 
@@ -58,7 +58,6 @@ Chapter 2.1 Internet Applications
 
  2.1.4 BlueDevil
 
- 2.1.5 Trojita
 
 Chapter 2.2 Office applications
 -------------------------------
@@ -101,18 +100,20 @@ Chapter 2.4 Acessories
 
 2.4.7 nobleNote
 
-2.4.8 2048-Qt
-
 2.4.9 QtPass
 
 Chapter 2.5 Sound & Video
 -------------------------
 
-2.5.1 K3B
 
-2.5.2 PulseAudio Volume Control
+2.5.1 PulseAudio Volume Control
 
-2.5.3 VLC media player
+2.5.2 VLC media player
+
+Chapter 2.6 Games
+-----------------
+
+2.6.1 2048-Qt
 
 --------------------------------------
 Chapter 3 System Tools and Preferences
@@ -172,15 +173,11 @@ Chapter 3.2 Preferences
 
 3.2.15 Users and Groups
 
-3.2.16 Window Effects
+3.2.16 Alternatives Configurator
 
-3.2.17 Alternatives Configurator
+3.2.17 Printers
 
-3.2.18 ibus Preferences
-
-3.2.19 Printers
-
-3.2.20 Screensaver
+3.2.18 Screensaver
 
 ------------------------------------------------------
 Chapter 4 Installing, Updating, and Removing  Software

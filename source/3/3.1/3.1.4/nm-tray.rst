@@ -5,7 +5,7 @@ nm-tray is the default applet to manage network connections on Lubuntu.
 
 Usage
 ------
-If you want to connect to  a network on nm-tray left click the icon in the system tray. If you have a wired connection with DHCP it should connect automatically. If you want to disconnect your from a network under active connections left click to disconnect. To connect to wifi left click on the nm-tray applet and connect the wifi name applet and then enter the password for the wifi.
+If you want to connect to  a network on nm-tray left click the icon in the system tray. If you have a wired connection with DHCP it should connect automatically. If you want to disconnect your from a network under active connections left click to disconnect. To connect to wifi left click on the nm-tray applet and connect the wifi name applet and then enter the password for the wifi. To rejoin a network you disconnected from left click on that network under :guilabel:`Known Connection(s)`.
 
 After connecting to a network it will be listed under connections which you can see by  left clicking on nm-tray icons. To see the list of all known connections left click on the tray applet and look under :guilabel:`Known Connection(s)`. To view the list of active connections  left click on the tray icon and look under :guilabel:`Active connection(s)`. To view the list of wifi networks is listed under :guilabel:`Wi-Fi networks` you are connected to.  
 
@@ -20,6 +20,8 @@ To view your own networking information right click the applet :menuselection:`C
 The section :guilabel:`IPV4` shows you information on your settings for networking using IPV4. The section :guilabel:`IP Address` shows you  your current IP address. The :guilabel:`DNS` fields show where your DNS looks up the domain names of websites and finds them. 
 
 The section :guilabel:`IPV6` shows information on your settings for networking using IPV6. The section :guilabel:`IP Address` shows you current IPV6 address. To see the the root to your DNS servers for IPV6 see the :guilabel:`DNS(1)` field. To see your backup IPV6 DNS server see the :guilabel:`DNS(2)` field.
+
+To check for wifi networks again right click on the tray icon and select :menuselection:`Wifi - request scan`.
 
 Screenshot
 ----------

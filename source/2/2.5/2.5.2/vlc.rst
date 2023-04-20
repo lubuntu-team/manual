@@ -93,7 +93,7 @@ To add a logo to a video file check the :guilabel:`Add logo` checkbox. To choose
 
 Saving or Converting Files
 --------------------------
-To save or convert a file in VLC press :kbd:`Control+R` or :menuselection:` Media --> Convert/Save` and a dialog will pop up. To add a local file to save or convert use the :guilabel:`File` tab and press the :guilabel:`Add` button. To Save or convert files off a disc press use the :guilabel:`Disc` tab. To save a network URL to use the :guilabel:`Network` tab and enter the URL in the :guilabel:`Please enter a network URL` field. To convert or save a the files press the :guilabel:`Convert/Save` button. 
+To save or convert a file in VLC press :kbd:`Control+R` or :menuselection:`Media --> Convert/Save` and a dialog will pop up. To add a local file to save or convert use the :guilabel:`File` tab and press the :guilabel:`Add` button. To Save or convert files off a disc press use the :guilabel:`Disc` tab. To save a network URL to use the :guilabel:`Network` tab and enter the URL in the :guilabel:`Please enter a network URL` field. To convert or save a the files press the :guilabel:`Convert/Save` button. 
 
 To change what file format to convert to use the :guilabel:`Profile` drop down menu. To choose what file name to save your file use the :guilabel:`Browse` button. To start converting the file press the :guilabel:`Start` button. 
 
@@ -117,7 +117,7 @@ To view your settings for subtitles and on screen display choose the :guilabel:`
 
 .. image::   vlc-subtitle-pref.png
 
-To change settings with codecs choose the :guilabel:`Input/codecs` tab. To change your settings for hardware-accelerated decoding use the :guilabel:`Hardware-accelerated decoding` which you can choose a specific kind of decoding. To choose to seek faster than more precisely check the :guilabel:`Fast seek` option. To the quality of video VLC encodes change :guilabel:`x264 preset and tuning selection` which faster recording taking less resources but being less quality. To change your default optical device the drop down menu next to :guilabel:`Default optical device` to change your default optical device. To choose where save things you record with VLC change type where you want in :guilabel:`Record directory or filename` or press the :guilabel:`Browse` button. To change your caching policy depending on your network latency use the :guilabel:`Default caching policy` drop down menu.
+To change settings with codecs choose the :guilabel:`Input/codecs` tab. To change your settings for hardware-accelerated decoding use the :guilabel:`Hardware-accelerated decoding` which you can choose a specific kind of decoding. To choose to seek faster than more precisely check the :guilabel:`Fast seek` option. To the quality of video VLC encodes change :guilabel:`x264 preset and tuning selection` which faster recording taking less resources but being less quality. To change your default optical device the drop down menu next to :guilabel:`Default optical device` to change your default optical device. To choose where save things you record with VLC change type where you want in :guilabel:`Record directory or filename` or press the :guilabel:`Browse` button. To change your caching policy depending on your network latency use the :guilabel:`Default caching policy` drop down menu. If you use an http proxy you can set it in :guilabel:`HTTP proxy URL`.
 
 .. image::   vlc-input-codecs.png
 
@@ -125,7 +125,7 @@ To view your hotkey settings use the  :guilabel:`Hotkeys` tab. The column :guila
 
 .. image:: vlc-pref-hotkeys.png
 
-To change to view even more settings press the :guilabel:`All` button in the :guilabel:`Show settings` part of your prefrences. To switch back to simple settings press the :guilabel:`Simple` button. To search for a setting in the Advanced settings interface use the :guilabel:`Search` bar.
+To change to view even more settings press the :guilabel:`All` button in the :guilabel:`Show settings` part of your preferences. To switch back to simple settings press the :guilabel:`Simple` button. To search for a setting in the Advanced settings interface use the :guilabel:`Search` bar.
 
 To change how the user interface of VLC appears :menuselection:`Tools --> Customize Interface`. To select a profile that works as a default some ones for older versions of VLC choose the :guilabel:`Select profile:` drop down menu. To create a new profile press the button to the right press the paper with a sun on it. To move the main toolbar above the video check the :guilabel:`Above the video` checkbox. Below will be the lines of each toolbar for example :guilabel:`Line 2` for each line of toolbar. To see a summary of what each button does hover the mouse over it and a description will pop up.To move a button to the left or right left click and drag to the left and right the button to the desired position. To see a preview of how this will effect the media player and see it press the :guilabel:`Preview` section of the window.
 
@@ -141,7 +141,7 @@ To show your Active extensions use the :guilabel:`Active Extensions tab`. To rel
 
 Version
 -------
-Lubuntu ships with version 3.0.17 of VLC.
+Lubuntu ships with version 3.0.18 of VLC.
 
 How to Launch
 -------------

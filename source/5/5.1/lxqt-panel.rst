@@ -9,7 +9,7 @@ The application menu allows you to browse and search through available programs;
 
 .. image:: menu_search.png
 
-The quick launch bar allows you to conveniently launch your file manager (PCManFM) and web browser (Firefox) by left clicking on the program. If you right click on the icons in quick launch on something like Firefox will have items for each program. To add a program to quick launch open the menu and find it there and drag it down onto the panel. To move an item on your quick launch to the left right click the icon and select :menuselection:`Move left` or press :kbd:`Control` and drag the icon to the left. To move an item to the left right click the icon and select :menuselection:`Move right` or press :kbd:`Control` and drag the icon to the right. Another way to reorder items on quicklaunch is to hold :kbd:`Control` and drag and drop to the desired position. To remove an item from quick launch right click on the icon and select :menuselection:`Remove from quicklaunch`. To show your desktop press the blue show desktop button between quick launch and the taskbar. To see all your windows again press the blue show desktop button again.
+The quick launch bar allows you to conveniently launch your file manager (PCManFM) and web browser (Firefox) by left clicking on the program. If you right click on the icons in quick launch on something like Firefox will have items for each program. To add a program to quick launch open the menu and find it there and drag it down onto the panel. To move an item on your quick launch to the left right click the icon and select :menuselection:`Move left` or press :kbd:`Control` and drag the icon to the left. To move an item to the left right click the icon and select :menuselection:`Move right` or press :kbd:`Control` and drag the icon to the right. Another way to reorder items on quicklaunch is to hold :kbd:`Control` and drag and drop to the desired position. To remove an item from quick launch right click on the icon and select :menuselection:`Remove from quicklaunch`. To refresh your quicklaunch right click and select :menuselection:`Refresh`. To show your desktop press the blue show desktop button between quick launch and the taskbar. To see all your windows again press the blue show desktop button again.
 
 The taskbar lists the windows you currently have open. To bring one of these windows to focus simply left click the button with icon and name on the task bar. If you have multiple of the same window left clicking will open the group, allowing you to select between the different windows by left clicking. If you want to close a group of multiple windows you can right click the group and click :menuselection:`Close group`. To see a list of all the windows in a group mouseover the group of windows on the taskbar. If you want to close one window out of a particular group left click to bring up the single window and then right click on the window and select :menuselection:`Close`.
 
@@ -51,7 +51,7 @@ The :guilabel:`Placement` tab has settings for where the panel is. The :guilabel
 
 If you want to autohide the panel check the :guilabel:`Auto-hide` checkbox in panel settings. To change how long the animation takes to show or hide the panel change the :guilabel:`Animation duration` field. To show how long your panel will appear when it comes back after hiding in milliseconds change the :guilabel:`Show with delay` field. To show a little of the panel visible when the panel is autohidden check the :guilabel:`Visible thin margin for hidden panel` checkbox. To only hide the panel when the panel overlaps a window check the :guilabel:`Hide only on overlapping a window` checkbox. To have the space for the panel not be used for anything else check the :guilabel:`Reserve space on display` checkbox.
 
-To change the appearance of the panel use the :guilabel:`Styling` tab. To change to a custom font color press the :guilabel:`Font color` checkbox. Press the dropper button to bring up a widget to choose the custom color. The checkbox for :guilabel:`Background color` sets a background color custom for the background of LXQt-panel and the :guilabel:`dropper` brings up how to select which color. If you use a compositor and want to change the background opacity for the panel you can change how transparent the background is with the :guilabel:`Background opacity` slider. To add an image to your panel background press the checkbox :guilabel:`Background image` and press the  the dialog button on the right to choose your file.
+To change the appearance of the panel use the :guilabel:`Styling` tab. To change to a custom font color press the :guilabel:`Font color` checkbox. Press the dropper button to bring up a widget to choose the custom color. The checkbox for :guilabel:`Background color` sets a background color custom for the background of LXQt-panel and the :guilabel:`dropper` brings up how to select which color. If you want to change how transparent the background color is change the :guilabel:`Background opacity` slider. To add an image to your panel background press the checkbox :guilabel:`Background image` and press the  the dialog button on the right to choose your file.
 
 .. image:: panel-config-styling.png
 
@@ -129,6 +129,14 @@ To customize the sensors right click on the sensors applet :menuselection:`Confi
 
 .. image:: sensors-config.png
 
+To have a set of eyes that look towards where the mouse cursor is add the :guilabel:`QEyes` widget. The eyes look towards where the mouse cursor is relative to from the eye.
+
+.. image:: QEyes.png
+
+To bring up settings on how to configure QEyes is to right click on the eye and select :menuselection:`Configure Qeyes`. To change how many eyes appear on the panel change the :guilabel:`Number of eyes` field. To change the theme of the eyes change the :guilabel:`Type` field.
+
+.. image:: QEyes-pref.png
+
 To have a custom command add the :guilabel:`Custom Command` widget. To have this have meaningful output you need to configure the widget by right clicking on the Custom Command widget and selection :guilabel:`Configure "Custom Command"`. To have the output not rotate when the panel is vertical uncheck the :guilabel:`Autorotate when the panel is vertical` checkbox. To change what output your custom command has left click the button next to :guilabel:`Font`. To type the command you want to run type in the box above and to the right of :guilabel:`Command`. To run the command with bash running the command check the :guilabel:`Run with "bash -c"` checkbox. To change if or how often the command is run on repeat check the :guilabel:`Repeat command after` checkbox and change how often it runs in the field to the right. To change the maximum width the output of the text can be type in the :guilabel:`Max Width` field. To run a command with clicking on the applet enter the command in the :guilabel:`Click` in mouse commands. To run a specific command upon going up on the mouse wheel enter the command in the :guilabel:`Wheel Up` field. To run a specific command with scrolling down on the mousewheel enter the command in the :guilabel:`Wheel Down` field.
 
 The :guilabel:`Sensors` tab provides settings for each individual sensor on your processor. To enable/disable each sensor press to the :guilabel:`Enabled` checkbox for each sensor. The :guilabel:`Label` shows a label for each sensor. The :guilabel:`Color` column shows the color for the bar to appear in the panel and you can bring up a dialog to change color by left clicking on the button. To switch to a different chip to set the sensors for change the :guilabel:`Detected chips` menu. 
@@ -143,7 +151,7 @@ To add an easy way to change brightness to your panel add the :guilabel:`Backlig
 
 Version
 -------
-Lubuntu ships with version 1.1.0 of LXQt-panel.
+Lubuntu ships with version 1.2.1 of LXQt-panel.
 
 How to Launch
 -------------

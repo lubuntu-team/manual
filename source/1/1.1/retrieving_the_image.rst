@@ -1,7 +1,7 @@
 Chapter 1.1 Retrieving the image
 =================================
 
-Before you install Lubuntu, you need to retrieve the correct image. Lubuntu supports AMD64 CPU types also known as 64-bit with a new version every six months (supported for nine months), and every two years being a long term support release (supported for three years). Lubuntu 20.04 is a Long Term Support release supported until 2023. Lubuntu 21.04 is supported until January 2022.
+Before you install Lubuntu, you need to retrieve the correct image. Lubuntu supports AMD64 CPU types also known as 64-bit with a new version every six months (supported for nine months), and every two years being a long term support release (supported for three years). Lubuntu 22.04 is a Long Term Support release supported until 2025. Lubuntu 23.04 is supported until January 2023.
 
 LTS vs. Regular Releases
 ------------------------
@@ -39,13 +39,13 @@ To verify the image, run this from the command line:
 
 .. code:: 
 
- sha256sum lubuntu-22.10-desktop-amd64.iso
+ sha256sum lubuntu-23.04-desktop-amd64.iso
 
 and then carefully check that the output matches 
 
 .. code::
 
-  99ecc1b490922b3444a18bc7ae05c136930149616dddf0b5566ace7066169c69 *lubuntu-22.10-desktop-amd64.iso
+  92c1659668baab47269725a05a46115628801b5a464e2860b65edce50c9d0fcf *lubuntu-23.04-desktop-amd64.iso
 
 Downloading the image via BitTorrent
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -80,6 +80,6 @@ To download the image using zsync run
  
 .. code::
 
-   zsync http://cdimage.ubuntu.com/lubuntu/releases/22.10/release/lubuntu-22.10-desktop-amd64.iso.zsync
-
+   zsync https://cdimage.ubuntu.com/lubuntu/releases/23.04/release/lubuntu-23.04-desktop-amd64.iso.zsync
+   
 **You have now downloaded the image successfully. Please continue to Chapter 1.2.**

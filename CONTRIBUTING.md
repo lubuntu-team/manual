@@ -33,7 +33,7 @@ After setting up the tools, you should now be ready to start editing files.
 If you look in the `source` directory, you should see some files. There's
 `index.rst`, which is the main page, and some directories and subdirectories
 that are numbers. Those are chapters of the manual, and are listed in the
-`index.rst` file. Chapter 1 deals with downloading and installing Lubuntu. Chapter 2 has to deal with applications for office web browsers and accesories. Chapter 3 documents programs that change settings. Chapter 4 is programs for installing and updating software. Chapter 5 is for the panel, runner, and window management. Each chapter that begins with a letter is an appendix.
+`index.rst` file. Chapter 1 deals with downloading and installing Lubuntu. Chapter 2 has to deal with applications for office, web browsers, graphics, games and accesories. Chapter 3 documents programs that change settings. Chapter 4 is programs for installing and updating software. Chapter 5 is for the panel, runner, and window management. Each chapter that begins with a letter is an appendix.
 
 Let's say you want to create Chapter 20. In the `source` directory, create a
 directory titled `20`. In the `20` directory, create a file with the name of

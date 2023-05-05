@@ -61,8 +61,6 @@ To build or make changes like a typo on a specific version of the manual the cur
 
 ## Making changes and seeking your changes to be pulled
 
-**Before you do the below, please update PROGRESS.md to reflect your changes.**
-
 So let's say you make your changes. You like them and think they should be
 included in the mainline manual. Here's what you have to do:
 

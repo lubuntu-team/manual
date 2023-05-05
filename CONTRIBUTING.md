@@ -57,7 +57,7 @@ Contents
 Then run `make clean && make html && make latexpdf` in the root of the manual directory and it should build successfully with zero warnings! (Might take several trials to get `make latexpdf` without any errors.)
 
 ## Getting multiple Versions to Work
-To change into the file for the code you cloned from git of sphinxconfig-versioning and run ``` cd sphinxcontrib-versioning && sudo python3 setup.py install```
+To build or make changes like a typo on a specific version of the manual the current stable release is on the stable branch and the current LTS release is on the LTS branch.
 
 ## Making changes and seeking your changes to be pulled
 

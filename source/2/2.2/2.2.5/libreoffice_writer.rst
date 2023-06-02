@@ -124,7 +124,7 @@ Tables
 ------
 To insert a table :menuselection:`Table --> Insert Table` and a table dialog window will popup. To change the number of columns change the :guilabel:`Columns` field. To change the number of rows change the :guilabel:`Rows` field. To toggle showing a heading check the :guilabel:`Heading` checkbox. To view a different styles for your table are under the :guilabel:`Style` menu and you can see a preview to the right of the menu. To input text into a part of the table simply left click over that part of the table. To move to another part of the table with the arrow key with the direction you want to go. 
 
-.. image:: table_insterting.png 
+.. image:: table_inserting.png 
 
 To add a row above your current row :menuselection:`Table --> Insert --> Rows Above`. To add a row below the current row :menuselection:`Table --> Insert --> Rows Below`. To add a column before the current one :menuselection:`Table --> Insert --> Columns Before`. To add a column after the current one :menuselection:`Table --> Insert --> Columns After`. To add multiple rows or columns :menuselection:`Table --> Insert --> Rows` or :menuselection:`Table --> Insert --> Column`. To switch how many of multiple rows or columns change the :guilabel:`Number` field. To switch to adding rows or columns above or below press the :guilabel:`Below Selection` button. To actually add the rows or columns press the :guilabel:`OK` button. To delete a row :menuselection:`Table --> Delete --> Rows`. To delete a column :menuselection:`Table --> Delete --> Columns`. To delete the whole table :menuselection:`Table --> Delete --> Table`.
 

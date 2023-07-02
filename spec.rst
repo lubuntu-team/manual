@@ -83,24 +83,22 @@ Chapter 2.3 Graphics Applications
 
 2.3.3 Skanlite
 
-Chapter 2.4 Acessories
+Chapter 2.4 Accessories
 ----------------------
 
 2.4.1 LXQt File Archiver
 
 2.4.2 Featherpad
 
-2.4.3 Kcalc
+2.4.3 KCalc
 
 2.4.4 PCManFM-Qt
 
 2.4.5 Qlipper
 
-2.4.6 fcitx
+2.4.6 nobleNote
 
-2.4.7 nobleNote
-
-2.4.9 QtPass
+2.4.7 QtPass
 
 Chapter 2.5 Sound & Video
 -------------------------

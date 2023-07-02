@@ -19,7 +19,7 @@ Style Guide
 
 - Order sections Summary --> Usage --> Screenshot (if one or two) --> Version --> How To Launch --> Customizing (If necessary) 
 
-- Capitlize the start of files and the titles.
+- Capitalize the start of files and the titles.
 
 Sections
 --------
@@ -34,7 +34,7 @@ Releasing
 ---------
 Release day get final sha256 hash to add to chapter 1.1 downloading the image with final hash. The beta/daily isos will have a different hash so this needs to be done release day.
 
-Check that there are no wanring with make clean && make html
+Check that there are no warning with make clean && make html
 
 Merge master into stable.
 

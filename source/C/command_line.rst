@@ -74,4 +74,4 @@ One of the most powerful uses of the command line is called a pipe which allows 
    
 . Also | is called the pipe character. 
 
-To get the previous command you have entered press :kbd:`Up Arrow`.
+To get the previous command you have entered press :kbd:`Up Arrow`. To go to the next command in your history press :kbd:`Down Arrow`.

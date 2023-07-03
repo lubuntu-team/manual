@@ -30,7 +30,7 @@ To go back to a previous page in Firefox press the button pointing to the left o
 
 To open a window with all of your downloads on it press :kbd:`Control+Shift+Y`. To open PCManFM-Qt in the folder where you downloaded things right click and select on the download and select :menuselection:`Open Containing Folder`. To share a link with someone else for something you downloaded right click on the downloaded content right click and select :menuselection:`Copy Download Link`.
 
-To open PCManFM-Qt in the folder where you downloaded things right click and select on the download and select :menuselection:`Open Containing Folder`. To open a downloaded file double click on it. To not have a download show in your history right click on it and select :guilabel:`Remove from History`. To clear all your download history right click and select :menuselection:`Clear Downloads` or press the :guilabel:`Clear Downloads` button at the top.
+To open PCManFM-Qt in the folder where you downloaded things right click and select on the download and select :menuselection:`Open Containing Folder`. To open a downloaded file double click on it. To not have a download show in your history right click on it and select :guilabel:`Remove from History`. To clear all your download history right click and select :menuselection:`Clear Downloads` or press the :guilabel:`Clear Downloads` button at the top. To search through your downloads in the top right enter your search into :guilablel`Search Downloads`.
 
 .. image:: firefox-downloads.png
 

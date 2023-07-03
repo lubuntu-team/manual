@@ -73,3 +73,5 @@ One of the most powerful uses of the command line is called a pipe which allows 
    lspci |less
    
 . Also | is called the pipe character. 
+
+To get the previous command you have entered press :kbd:`Up Arrow`.

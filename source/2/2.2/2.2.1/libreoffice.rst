@@ -31,7 +31,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 7.5.4 of LibreOffice.
+Lubuntu ships with version 7.5.5 of LibreOffice.
 
 How to Launch
 -------------

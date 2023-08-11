@@ -62,7 +62,7 @@ The :guilabel:`Dropdown` tab shows effects on the appearance for the drop down s
 
 .. image:: qterminal-drop-pref.png
 
-The :guilabel:`Bookmark` tab has settings for a sidebar to quickly change directories in the terminal. To enable this sidebar check the :guilabel:`Enable bookmarks` checkbox.
+The :guilabel:`Bookmarks` tab has settings for a sidebar to quickly change directories in the terminal. To enable this sidebar check the :guilabel:`Enable bookmarks` checkbox.
 
 Version
 -------

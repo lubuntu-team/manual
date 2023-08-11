@@ -31,4 +31,4 @@ To launch Date and Time from the menu :menuselection:`Preferences --> LXQt setti
 
     lxqt-admin-time
     
-The icon for Date and Time looks like a watch face.
+The icon for Date and Time looks like an analog clock.

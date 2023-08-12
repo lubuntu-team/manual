@@ -39,7 +39,7 @@ The tabs towards the bottom are settings for each monitor.  This also has the sa
 
 Version
 -------
-Lubuntu ships with version 1.2.0 of Monitor Settings.
+Lubuntu ships with version 1.3.0 of Monitor Settings.
 
 How to Launch
 -------------

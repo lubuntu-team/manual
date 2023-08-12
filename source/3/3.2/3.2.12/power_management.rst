@@ -34,7 +34,7 @@ To reset your changes press the :guilabel:`Reset` button. To close Power Managem
 
 Version
 -------
-Lubuntu ships with version 1.2.0 of Power Management. 
+Lubuntu ships with version 1.3.0 of Power Management. 
 
 How to Launch
 -------------

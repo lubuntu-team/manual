@@ -67,6 +67,7 @@ Shipped applets not enabled by default:
  - Color Picker
  - Custom Command
  - Panel DOM Tree
+ - Qeyes
  - Sensors
  - Spacer
  - System Statistics

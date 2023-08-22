@@ -61,7 +61,7 @@ The :guilabel:`Widgets` tab lets you change the widgets or individual items on t
 
 .. image:: widget-add.png
 
-Shipped applets not enabled by default:
+Shipped widgets not enabled by default:
  - Backlight
  - CPU monitor
  - Color Picker

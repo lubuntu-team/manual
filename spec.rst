@@ -74,7 +74,7 @@ Chapter 2.2 Office applications
 
  2.2.6 LibreOffice Writer
 
- 2.2.6 qpdfview
+ 2.2.7 qpdfview
 
 Chapter 2.3 Graphics Applications
 ---------------------------------

@@ -5,7 +5,7 @@ Libreoffice Draw is the drawing portion of LibreOffice.
 
 Usage
 -----
-To draw a line left click on the :guilabel:`single line` button on the toolbar on the left. Then click at one point where you want the line to start and move with the mouse to where you want it to end.
+To draw a line left click on the :guilabel:`single line` button on the toolbar on the left. Then click at one point where you want the line to start and move with the mouse to where you want it to end. To draw a rectangle left click on the :guilabel:`rectangle button` on the left bar. Then click on one corner of the rectangle and then more the mouse to the other corner diagonally of where you want the rectangle.
 
 Version
 -------

@@ -16,6 +16,8 @@ To insert a textbox press :kbd:`F2`, press the button :guilabel:`with a T in a b
 To save your drawing press :kbd:`Control+s`, press the :guilabel:`Floppy disk` button, or :menuselection:`File --> Save`. To save your file as a seperate name press :kbd:`Control+ shift + s` or :menuselection:`File --> Save As`. To open a file press :kbd:`Control +O`, the :guilabel:`Folder` button, or :menuselection:`File --> Open`.
 
 To undo if you make a mistake press :kbd:`Control + Z`, press :guilabel:`the u shaped arrow pointing to the left` button, or :menuselection:`Edit --> Undo`. If you want to redo something you undid press :kbd:`Control+ Y`, press :guilabel:`the u shaped arrow pointing to the right` button, or :menuselection:`Edit --> Redo`.
+
+To cut or copy something first select it. Then to copy press :kbd:`Control+C` or :menuselection:`Edit --> Copy`. To cut press :kbd:`Control+ X` or :menuselection:`Edit --> Cut`. To paste press :kbd:`Control+ V` or :menuselection:`Edit --> Paste`.
  
 Version
 -------

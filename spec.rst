@@ -62,15 +62,17 @@ Chapter 2.1 Internet Applications
 Chapter 2.2 Office applications
 -------------------------------
 
- 2.2.1 LibreOffice Calc
+ 2.2.1 LibreOffice
+ 
+ 2,2,2 LibreOffice Calc
 
- 2.2.2 LibreOffice Draw
+ 2.2.3 LibreOffice Draw
 
- 2.2.3 LibreOffice Impress
+ 2.2.4 LibreOffice Impress
 
- 2.2.4 LibreOffice Math
+ 2.2.5 LibreOffice Math
 
- 2.2.5 LibreOffice Writer
+ 2.2.6 LibreOffice Writer
 
  2.2.6 qpdfview
 

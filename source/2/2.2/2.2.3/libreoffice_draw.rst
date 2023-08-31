@@ -9,7 +9,7 @@ To draw a line left click on the :guilabel:`single line` button on the toolbar o
 
 To switch to a selection tool left click on the :guilabel:`mouse cursor` image on the left bar. To move what you have selected left click and drag it to where you want it. To resize an item keeping its porpotion left click on a corner of the boxes that show up and click and drag to the desired side. To squish or strech while resizing something click on corner on the side and the click and drag to the desired size. To delete an selected part press :kbd:`delete` while you have it selected.
 
-To change the color of your line press the :guilabel:`lines, dots, and drops` dropdown menu to choose many different colors. To choose your color for things filled in press the :guilabel:`underilned bucket button` on the left bar.
+To change the color of your line press the :guilabel:`lines, dots, and drops` dropdown menu to choose many different colors. To choose your color for things filled in press the dropdown :guilabel:`underilned bucket button` on the left bar. To switch to a color left click on it. To switch to a recently used color click on the color under :guilabel:`Recent`.
 
 To save your drawing press :kbd:`Control+s`, press the :guilabel:`Floppy disk` button, or :menuselection:`File --> Save`. To save your file as a seperate name press :kbd:`Control+ shift + s` or :menuselection:`File --> Save As`. To open a file press :kbd:`Control +O`, the :guilabel:`Folder` button, or :menuselection:`File --> Open`.
 

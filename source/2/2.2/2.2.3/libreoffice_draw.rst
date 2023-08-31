@@ -11,6 +11,8 @@ To switch to a selection tool left click on the :guilabel:`mouse cursor` image o
 
 To change the color of your line press the :guilabel:`lines, dots, and drops` dropdown menu to choose many different colors. To choose your color for things filled in press the dropdown :guilabel:`underilned bucket button` on the left bar. To switch to a color left click on it. To switch to a recently used color click on the color under :guilabel:`Recent`. To select a custom color click on :guilabel:`Custom color`.
 
+To insert a textbox press :kbd:`F2`, press the button :guilabel:`with a T in a box`, or :guilabel:`Insert --> Text box`. Drag the text box into what shape you want it. Then type the text you want in the text box.
+
 To save your drawing press :kbd:`Control+s`, press the :guilabel:`Floppy disk` button, or :menuselection:`File --> Save`. To save your file as a seperate name press :kbd:`Control+ shift + s` or :menuselection:`File --> Save As`. To open a file press :kbd:`Control +O`, the :guilabel:`Folder` button, or :menuselection:`File --> Open`.
 
 To undo if you make a mistake press :kbd:`Control + Z`, press :guilabel:`the u shaped arrow pointing to the left` button, or :menuselection:`Edit --> Undo`. If you want to redo something you undid press :kbd:`Control+ Y`, press :guilabel:`the u shaped arrow pointing to the right` button, or :menuselection:`Edit --> Redo`.

@@ -69,7 +69,7 @@ Customizing
 
 To get to your preferences for Muon package manager :menuselection:`Settings --> Configure Muon Package Manager`. The checkbox :guilabel:`Ask To confirm changes that affect other packages` brings up confirmation dialog when you will affect multiple packages. To show packages that are in a different architecture check the :guilabel:`Show foreign-architecture packages that are available natively` checkbox. The checkbox :guilabel:`Treat recommended packages as dependencies` will always install all recommended packages as dependencies and will automatically install one when you install a recommended package. To always install suggested packages as dependencies check the :guilabel:`Treat Suggested packages as dependencies`. To change the maximum number of package operations you can undo change the :guilabel:`Number of undo operations` field. To allow muon to install untrusted packages check the :guilabel:`Allow the installation of untrusted packages`. 
 
-.. waring:: Lubuntu support chanels do not support packages not in the repository and you are on your own for security of untrusted packages.
+.. warning:: Lubuntu support chanels do not support packages not in the repository and you are on your own for security of untrusted packages.
 
 To save space by deleting old cached packages check the :guilabel:`Delete obsolete cached packages every` checkbox and change the field to the right to change how often to delete the cache. To have your settings back to default press the :guilabel:`Restore Defaults` button.
 

@@ -20,6 +20,8 @@ To save your drawing press :kbd:`Control+s`, press the :guilabel:`Floppy disk` b
 To undo if you make a mistake press :kbd:`Control + Z`, press :guilabel:`the u shaped arrow pointing to the left` button, or :menuselection:`Edit --> Undo`. If you want to redo something you undid press :kbd:`Control+ Y`, press :guilabel:`the u shaped arrow pointing to the right` button, or :menuselection:`Edit --> Redo`.
 
 To cut or copy something first select it. Then to copy press :kbd:`Control+C` or :menuselection:`Edit --> Copy`. To cut press :kbd:`Control+ X` or :menuselection:`Edit --> Cut`. To paste press :kbd:`Control+ V` or :menuselection:`Edit --> Paste`.
+
+To toggle showing a grid press the :guilabel:`Grid` button on the toolbar or :guilabel:`View --> Grid and Helplines --> Display Grid`. To bring the grid to the front of the drawing :menuselection:`View --> Grid and Helplines --> Grid to Front`.
  
 Version
 -------

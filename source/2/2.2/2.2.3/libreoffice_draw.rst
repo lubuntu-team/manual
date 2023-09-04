@@ -15,6 +15,8 @@ To change the color of your line press the :guilabel:`lines, dots, and drops` dr
 
 To insert a textbox press :kbd:`F2`, press the button :guilabel:`with a T in a box`, or :guilabel:`Insert --> Text box`. Drag the text box into what shape you want it. Then type the text you want in the text box.
 
+.. image:: mainlodrawwindow.png
+
 To save your drawing press :kbd:`Control+s`, press the :guilabel:`Floppy disk` button, or :menuselection:`File --> Save`. To save your file as a seperate name press :kbd:`Control+ shift + s` or :menuselection:`File --> Save As`. To open a file press :kbd:`Control +O`, the :guilabel:`Folder` button, or :menuselection:`File --> Open`. To save your file in a different format press the :guilabel:`rectangle with the rightward pointing arrow` or :guilabel:`File --> Export`. To export the file into a pdf directly press the button with the :guilabel:`black rectangle and a bent corner on a piece of paper` or :guilabel:`File -->  Export As --> Export Directly as PDF`.
 
 To undo if you make a mistake press :kbd:`Control + Z`, press :guilabel:`the u shaped arrow pointing to the left` button, or :menuselection:`Edit --> Undo`. If you want to redo something you undid press :kbd:`Control+ Y`, press :guilabel:`the u shaped arrow pointing to the right` button, or :menuselection:`Edit --> Redo`.

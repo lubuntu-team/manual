@@ -27,6 +27,8 @@ To toggle showing a grid press the :guilabel:`Grid` button on the toolbar or :gu
 
 To zoom in and out there is a zoom bar on the bottom right. To zoom in move the zoom bar towards the :guilabel:`+`. To zoom out move the zoom bar towarsd the :guilabel:`-`. The current zoom is displayed to the right of the zoom bar. To zoom to see the entire page :menuselection:`View --> Zoom --> Entire Page`. To zoom to the width of the page :menuselection:`View --> Zoom --> Page Width`. To return to your previous level of zoom :menuselection:` View --> Zoom --> Zoom Previous`.
 
+On the left there is a sidebar that shows your a summary of each page of a drawing. To add a new page right click on the page sidebar and select :menuselection:`New Page` or :menuselection:`Page --> New Page`.
+
 Version
 -------
 Lubuntu ships with version 7.5.6 of Libreoffice Draw.

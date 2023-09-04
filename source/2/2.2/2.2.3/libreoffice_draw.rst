@@ -22,7 +22,9 @@ To undo if you make a mistake press :kbd:`Control + Z`, press :guilabel:`the u s
 To cut or copy something first select it. Then to copy press :kbd:`Control+C` or :menuselection:`Edit --> Copy`. To cut press :kbd:`Control+ X` or :menuselection:`Edit --> Cut`. To paste press :kbd:`Control+ V` or :menuselection:`Edit --> Paste`.
 
 To toggle showing a grid press the :guilabel:`Grid` button on the toolbar or :guilabel:`View --> Grid and Helplines --> Display Grid`. To bring the grid to the front of the drawing :menuselection:`View --> Grid and Helplines --> Grid to Front`.
- 
+
+To zoom in and out there is a zoom bar on the bottom right. To zoom in move the zoom bar towards the :guilabel:`+`. To zoom out move the zoom bar towarsd the :guilabel:`-`. The current zoom is displayed to the right of the zoom bar.
+
 Version
 -------
 Lubuntu ships with version 7.5.6 of Libreoffice Draw.

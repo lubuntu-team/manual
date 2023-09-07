@@ -57,7 +57,7 @@ To format your cells for a number with two decimal places press :kbd:`Control+Sh
 
 To toggle hiding the formula bar :menuselection:`View --> Formula Bar`. To toggle viewing the status bar at the bottom :menuselection:`View --> Status Bar`. To toggle showing the headers that show what each cell is like a4 :menuselection:`View --> View Headers`. To toggle viewing gridlines :menuselection:`View --> View Grid Lines`.
 
-To add a new spreadsheet quickly at the end press the :guilabel:`+` button at the bottom. To switch between different sheets left click on the sheet name at the bottom bar. To delete a sheet you added right click on it :menuselection:` Delete Sheet` and then confirm you are deleting that sheet. To rename a sheet right click on the sheets name and :menuselection:`Rename Sheet`.
+To add a new spreadsheet quickly at the end press the :guilabel:`+` button at the bottom. To switch between different sheets left click on the sheet name at the bottom bar. To delete a sheet you added right click on it :menuselection:` Delete Sheet` and then confirm you are deleting that sheet. To rename a sheet right click on the sheets name and :menuselection:`Rename Sheet`. To see which sheet you are on it will be underlinded at the bottom bar and also say how many sheets along the bottom bar.
 
 To quit LibreOffice Calc press :kbd:`Control+Q`.
 

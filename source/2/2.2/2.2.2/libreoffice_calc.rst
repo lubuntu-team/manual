@@ -59,7 +59,7 @@ To toggle hiding the formula bar :menuselection:`View --> Formula Bar`. To toggl
 
 To add a new spreadsheet quickly at the end press the :guilabel:`+` button at the bottom. To switch between different sheets left click on the sheet name at the bottom bar. To delete a sheet you added right click on it :menuselection:` Delete Sheet` and then confirm you are deleting that sheet. To rename a sheet right click on the sheets name and :menuselection:`Rename Sheet`. To see which sheet you are on it will be underlinded at the bottom bar and also say how many sheets along the bottom bar.
 
-To insert a comment press :kbd:`Control + Alt +C` or :meneuselection:`Insert --> Comment`. To then type the comment in the yellow popup. To toggle viewing your comments :menuselection:`View -->  Comments`.
+To insert a comment press :kbd:`Control + Alt +C` or :menuselection:`Insert --> Comment`. To then type the comment in the yellow popup. To toggle viewing your comments :menuselection:`View -->  Comments`.
 
 To quit LibreOffice Calc press :kbd:`Control+Q`.
 

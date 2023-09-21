@@ -45,7 +45,7 @@ If all you want is Lubuntu on your machine, you can select the :guilabel:`Erase 
 
 
 .. note:: 
-   If you had a previous Linux install with swap you will need to unmount the swap. To do this run 
+   If you had a previous Linux install with a swap partition you will need to unmount the swap. To do this run 
 .. code:: 
 
    sudo swapoff -a

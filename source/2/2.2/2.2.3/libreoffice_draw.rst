@@ -29,6 +29,8 @@ To zoom in and out there is a zoom bar on the bottom right. To zoom in move the 
 
 On the left there is a sidebar that shows your a summary of each page of a drawing. To add a new page right click on the page sidebar and select :menuselection:`New Page` or :menuselection:`Page --> New Page`. To swtich bewtewwen pages left click on the page you want to switch to on the left hand side. To delete a page right click on the page sidebar and select :menuselection:`Delete Page`.
 
+To toggle showing rulers in LibreOffice Draw press :kbd:`Control+ Shift + R`, :menuselection:`View --> Rulers`, or right click and select :menuselection:`Rulers`.
+
 Version
 -------
 Lubuntu ships with version 7.5.6 of LibreOffice Draw.

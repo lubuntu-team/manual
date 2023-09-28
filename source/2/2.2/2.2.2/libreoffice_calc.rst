@@ -33,8 +33,8 @@ To sort your data like a bunch of names first select all the cells with the mous
 
 To undo a selection press :kbd:`control +z` or press the button with the arrow looping around and pointing to the left. To redo an operation press :kbd:`Control +y` or the number looping to the right and exiting to the left.
 
-To zoom to view a full page on your spreadsheet in the menu :menuselection:`View --> Zoom --> Entire Page`. To view the whole width of your page on the menu :menuselection:`View --> Zoom --> Page Width`. To zoom to a particular percentage :menuselection:`View --> Zoom` and select the percentage you want. Another way to change your zoom is the slider in the bottom right hand corner. To zoom in move the slider to the right and to zoom out move the slider to the left.
-
+To zoom to view a full page on your spreadsheet in the menu :menuselection:`View --> Zoom --> Entire Page`. To view the whole width of your page on the menu :menuselection:`View --> Zoom --> Page Width`. To zoom to a particular percentage :menuselection:`View --> Zoom` and select the percentage you want. Another way to change your zoom is the slider in the bottom right hand corner. To zoom in move the slider to the right and to zoom out move the slider to the left. To see your current zoom is in the bottom right hand corner. To bring up a more zoom options right click and select which zoom you want.
+is
 .. image:: libreoffice_calc.png
 
 To select all cells in your spreadsheet press :kbd:`Control+A`. To select an entire column press :kbd:`Control+Space` or :menuselection:`Edit --> Select --> Select Column`. To select an entire row press :kbd:`Shift +Space` or :menuselection:`Edit --> Select --> Select Row`.

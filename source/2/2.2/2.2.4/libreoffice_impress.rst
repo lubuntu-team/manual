@@ -64,7 +64,7 @@ To move a text box around you can left click on the text box and drag it to the 
 
 To insert the number of your slide :menuselection:`Insert --> Slide Number`.
 
-To change the zoom of you presentation :menuselection:`View --> Zoom --> Zoom` to bring up a window to manage your zoom. If you just want to zoom to fit the page width :menuselection:`View --> Zoom --> Page Width`. To change your zoom to 100 percent :menuselection:`View --> Zoom --> 100%`. In the bottom right corner there is a slider for controlling zoom. To zoom in move the slider to the right and to zoom out move the slider to the left.
+To change the zoom of you presentation :menuselection:`View --> Zoom --> Zoom` to bring up a window to manage your zoom. If you just want to zoom to fit the page width :menuselection:`View --> Zoom --> Page Width`. To change your zoom to 100 percent :menuselection:`View --> Zoom --> 100%`. In the bottom right corner there is a slider for controlling zoom. To zoom in move the slider to the right and to zoom out move the slider to the left. To view your current zoom look at the bottom right hand corner. To quickly choose another zoom level right click on the current zoom.
 
 To move a slide down :menuselection:`Slide --> Move --> Slide Down`. To move a slide up :menuselection:`Slide --> Move --> Slide Up`. To move a slide to the start :menuselection:`Slide --> Move --> Slide to start`. To move a slide to the end :menuselection:`Slide --> Move --> Slide to end`.
 

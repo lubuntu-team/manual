@@ -15,6 +15,8 @@ To change the color of your line press the :guilabel:`lines, dots, and drops` dr
 
 To rotate an object select it and :menuselection:`Shape --> Rotate`, right click and select :menuselection:`Transformation --> Rotate`. Then left click on the corner to spin an object around. To change the axis of where you are rotating an object move the dot in the center to change the center of rotation.
 
+To flip a shape vertically :menuselection:`Shape --> Flip -->  Vertically` or right click :menuselection:`Flip --> Vertically`. To flip a shape horizontally :menuselection:`Shape --> Flip --> Horizontally` or right click :menuselection:`Flip --> Horizontally`.
+
 To insert a textbox press :kbd:`F2`, press the button :guilabel:`with a T in a box`, or :guilabel:`Insert --> Text box`. Drag the text box into what shape you want it. Then type the text you want in the text box.
 
 .. image:: mainlodrawwindow.png

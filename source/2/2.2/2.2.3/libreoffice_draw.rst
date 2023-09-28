@@ -13,6 +13,8 @@ To draw an arrow click on the :guilabel:`Left Pointing Arrow` button on the left
 
 To change the color of your line press the :guilabel:`lines, dots, and drops` dropdown menu to choose many different colors. To choose your color for things filled in press the dropdown :guilabel:`underlined bucket button` on the left bar. To switch to a color left click on it. To switch to a recently used color click on the color under :guilabel:`Recent`. To select a custom color click on :guilabel:`Custom color`.
 
+To rotate an object select it and :menuselection:`Shape --> Rotate`, right click and select :menuselection:`Transformation --> Rotate`.
+
 To insert a textbox press :kbd:`F2`, press the button :guilabel:`with a T in a box`, or :guilabel:`Insert --> Text box`. Drag the text box into what shape you want it. Then type the text you want in the text box.
 
 .. image:: mainlodrawwindow.png

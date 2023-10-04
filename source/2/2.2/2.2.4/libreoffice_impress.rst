@@ -72,7 +72,7 @@ To view your slides right next to each other :menuselection:`View --> Slide Sort
 
 To change your view to grayscale :menuselection:`View --> Color/Grayscale --> Grayscale`. To view your presentation in black and white :menuselection:`View --> Color/Grayscale --> Black and White`. To switch back to color view :menuselection:`View --> Color/Grayscale --> Color`.
 
-To insert a comment into a presentation press :kbd:`Control + Alt +C` or :menuselection:`Insert --> Comments`. Then type your comment in the yellow note. To toggle viewing comnments :menuselection:`View --> Comments`. To view just one comment simply left click on the area left click on the comment.
+To insert a comment into a presentation press :kbd:`Control + Alt +C` or :menuselection:`Insert --> Comments`. Then type your comment in the yellow note. To toggle viewing comments :menuselection:`View --> Comments`. To view just one comment simply left click on the area left click on the comment.
 
 To quit LibreOffice impress press :kbd:`Control+Q`.
 

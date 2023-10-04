@@ -39,7 +39,7 @@ To verify the image, run this from the command line:
 
 .. code:: 
 
- sha256sum lubuntu-23.04-desktop-amd64.iso
+ sha256sum lubuntu-23.10-desktop-amd64.iso
 
 and then carefully check that the output matches 
 

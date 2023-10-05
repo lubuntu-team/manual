@@ -1,4 +1,4 @@
-Chapter 2.2.3 LibreOffice Impress
+Chapter 2.2.4 LibreOffice Impress
 =================================
 
 LibreOffice Impress is the program to present presentations on Lubuntu.

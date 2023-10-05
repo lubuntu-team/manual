@@ -1,4 +1,4 @@
-Chapter 2.2.6 qpdfview
+Chapter 2.2.7 qpdfview
 ======================
 
 qpdfview is the default PDF viewer for Lubuntu.

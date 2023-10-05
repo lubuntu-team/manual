@@ -1,4 +1,4 @@
-Chapter 2.2.5 LibreOffice Writer
+Chapter 2.2.6 LibreOffice Writer
 ================================
 
 LibreOffice Writer is the default word processing application on Lubuntu.

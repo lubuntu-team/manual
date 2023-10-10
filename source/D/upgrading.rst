@@ -54,7 +54,7 @@ To launch the graphical version of the upgrade from the command line after upgra
 
 .. code::
 
-    do-release-upgrade -m desktop -f DistUpgradeViewKDE
+  sudo do-release-upgrade -m desktop -f DistUpgradeViewKDE
     
 Once this is launched you will be brought to a window that shows you welcome to the next release. To start the release press the :guilabel:`Upgrade` button. 
     
@@ -64,3 +64,8 @@ Once this is launched you will be brought to a window that shows you welcome to 
 After this the upgrader will download what it needs to calculate what to download to complete the update. To see what changes will be made press the :guilabel:`Details` button. To see how long donwloading an upgrade will take will be in the text in the middle of the window. If you want to decide not to upgrade at this time press the :guilabel:`Cancel` button. To actually  start upgrading to the next version press the :guilabel:`Start Upgrade` button.
 
 .. image:: graphical-details-upgrade-cancel.png
+
+After starting the upgrade the new files will all be downloaded with an estimate of how long the download will take.
+
+.. image:: downloadinguprade.png
+

@@ -56,6 +56,7 @@ To launch the graphical version of the upgrade from the command line after upgra
 
     do-release-upgrade -m desktop -f DistUpgradeViewKDE
     
-
+Once this is launched you will be brought to a window that shows you welcome to the next release. To start the release press the :guilabel:`Upgrade` button. 
     
 
+.. image:: graphical-upgrade-welcome.png

@@ -72,3 +72,7 @@ After starting the upgrade the new files will all be downloaded with an estimate
 Next the upgrader will install packages. Along the bottom of the screen is a progress bar. To see progress of which packages are being upgraded press the :guilabel:`Show Terminal`. To hide the terinal again press the :guilabel:`Hide Terminal` button.
 
 .. image:: upgradinging-install-packages.png
+
+After the pacakges are installed you will be asked to if you want to clean up uneeded pacakges. To see which pacakages will be removed press the :guilabel:`Details` button. To remove packages press the :guilabel:`Remove` button. To keep the packages press the :guilabel:`Keep` button.
+
+.. image:: clean-up.png

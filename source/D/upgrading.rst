@@ -85,4 +85,17 @@ After rebooting you will return to your login screen and enjoy your updated vers
 
 Upgrading to a Develoment Release
 ---------------------------------
-If you want to run the development realease and get involved in development see Appendix B. The development release is for development so **The Development release is not supported**. To upgrade to the development release add the -d option to do-release-upgrade.
+If you want to run the development realease and get involved in development see Appendix B. The development release is for development so **The Development release is not supported**. To upgrade to the development release add the -d option to do-release-upgrade. The process follow the same process as upgrading to a new release just you are then upgraded to the development.
+
+
+To upgrade to the development release by the command line 
+
+.. code::
+
+  sudo do-release-upgrade -d
+  
+To upgrade to the development release graphcially 
+
+.. code::
+
+  sudo do-release-upgrade -d -m desktop -f DistUpgradeViewKDE

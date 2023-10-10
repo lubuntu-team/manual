@@ -83,4 +83,6 @@ After clean up you will need to reboot. You will be prompted to restart now or c
 
 After rebooting you will return to your login screen and enjoy your updated version of Lubuntu.
 
-
+Upgrading to a Develoment Release
+---------------------------------
+If you want to run the development realease and get involved in development see Appendix B. The development release is for development so **The Development release is not supported**. To upgrade to the development release add the -d option to do-release-upgrade.

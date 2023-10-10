@@ -41,3 +41,21 @@ While running the command line upgrade you will see what a chance to Cancel the 
 .. image:: do-release-upgrade-continue.png
 
 After the installation, reboot into the newly upgraded system and log in and enjoy your upgraded release of Lubuntu. 
+
+
+Upgrading Graphically
+---------------------
+
+First make sure all of your current packages are up to date on the release you are upgrading. To do manually check for updates :menuselection:`Prefrences --> Apply Full Upgrade`. To upgrade lubuntu graphically when prompted for an upgrade press the :guilabel:`Apply` button when you are prompted. 
+
+.. image:: apply-new-version.jpg
+
+To launch the graphical version of the upgrade from the command line after upgrading
+
+.. code::
+
+    do-release-upgrade -m desktop -f DistUpgradeViewKDE
+    
+
+    
+

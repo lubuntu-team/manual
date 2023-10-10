@@ -46,7 +46,7 @@ After the installation, reboot into the newly upgraded system and log in and enj
 Upgrading Graphically
 ---------------------
 
-First make sure all of your current packages are up to date on the release you are upgrading. To do manually check for updates :menuselection:`Prefrences --> Apply Full Upgrade`. To upgrade lubuntu graphically when prompted for an upgrade press the :guilabel:`Apply` button when you are prompted. 
+First make sure all of your current packages are up to date on the release you are upgrading. To do manually check for updates :menuselection:`Preferences --> Apply Full Upgrade`. To upgrade Lubuntu graphically when prompted for an upgrade press the :guilabel:`Apply` button when you are prompted. 
 
 .. image:: apply-new-version.jpg
 
@@ -61,7 +61,7 @@ Once this is launched you will be brought to a window that shows you welcome to 
 
 .. image:: graphical-upgrade-welcome.png
 
-After this the upgrader will download what it needs to calculate what to download to complete the update. To see what changes will be made press the :guilabel:`Details` button. To see how long donwloading an upgrade will take will be in the text in the middle of the window. If you want to decide not to upgrade at this time press the :guilabel:`Cancel` button. To actually  start upgrading to the next version press the :guilabel:`Start Upgrade` button.
+After this the upgrader will download what it needs to calculate what to download to complete the update. To see what changes will be made press the :guilabel:`Details` button. To see how long downloading an upgrade will take will be in the text in the middle of the window. If you want to decide not to upgrade at this time press the :guilabel:`Cancel` button. To actually  start upgrading to the next version press the :guilabel:`Start Upgrade` button.
 
 .. image:: graphical-details-upgrade-cancel.png
 
@@ -69,11 +69,11 @@ After starting the upgrade the new files will all be downloaded with an estimate
 
 .. image:: downloadinguprade.png
 
-Next the upgrader will install packages. Along the bottom of the screen is a progress bar. To see progress of which packages are being upgraded press the :guilabel:`Show Terminal`. To hide the terinal again press the :guilabel:`Hide Terminal` button.
+Next the upgrader will install packages. Along the bottom of the screen is a progress bar. To see progress of which packages are being upgraded press the :guilabel:`Show Terminal`. To hide the terminal again press the :guilabel:`Hide Terminal` button.
 
 .. image:: upgradinging-install-packages.png
 
-After the pacakges are installed you will be asked to if you want to clean up uneeded pacakges. To see which pacakages will be removed press the :guilabel:`Details` button. To remove packages press the :guilabel:`Remove` button. To keep the packages press the :guilabel:`Keep` button.
+After the packages are installed you will be asked to if you want to clean up unneeded packages. To see which packages will be removed press the :guilabel:`Details` button. To remove packages press the :guilabel:`Remove` button. To keep the packages press the :guilabel:`Keep` button.
 
 .. image:: clean-up.png
 
@@ -83,9 +83,9 @@ After clean up you will need to reboot. You will be prompted to restart now or c
 
 After rebooting you will return to your login screen and enjoy your updated version of Lubuntu.
 
-Upgrading to a Develoment Release
+Upgrading to a Development Release
 ---------------------------------
-If you want to run the development realease and get involved in development see Appendix B. The development release is for development so **The Development release is not supported**. To upgrade to the development release add the -d option to do-release-upgrade. The process follow the same process as upgrading to a new release just you are then upgraded to the development.
+If you want to run the development release and get involved in development see Appendix B. The development release is for development so **The Development release is not supported**. To upgrade to the development release add the -d option to do-release-upgrade. The process follow the same process as upgrading to a new release just you are then upgraded to the development.
 
 
 To upgrade to the development release by the command line 
@@ -94,7 +94,7 @@ To upgrade to the development release by the command line
 
   sudo do-release-upgrade -d
   
-To upgrade to the development release graphcially 
+To upgrade to the development release graphically 
 
 .. code::
 

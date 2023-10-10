@@ -76,3 +76,11 @@ Next the upgrader will install packages. Along the bottom of the screen is a pro
 After the pacakges are installed you will be asked to if you want to clean up uneeded pacakges. To see which pacakages will be removed press the :guilabel:`Details` button. To remove packages press the :guilabel:`Remove` button. To keep the packages press the :guilabel:`Keep` button.
 
 .. image:: clean-up.png
+
+After clean up you will need to reboot. You will be prompted to restart now or close. To restart press the :guilabel:`Restart Now` button. To restart later press :guilabel:`Close`.
+
+.. image:: restart-now.png
+
+After rebooting you will return to your login screen and enjoy your updated version of Lubuntu.
+
+

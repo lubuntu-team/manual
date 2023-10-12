@@ -50,7 +50,7 @@ If you need to edit a text file from the command line the easiest editor include
 
 where you replace [file] with the file you want to edit.
 
-If you want to stop something running in the terminal press :kbd:`Control +C`.
+If you want to stop something running in the terminal press :kbd:`Control +C`. To run a task in the background type a :kbd:`&` at the end of it.
 
 If you want just to see the contents of a file on standard output run 
 
@@ -73,3 +73,5 @@ One of the most powerful uses of the command line is called a pipe which allows 
    lspci |less
    
 . Also | is called the pipe character. 
+
+To get the previous command you have entered press :kbd:`Up Arrow`. To go to the next command in your history press :kbd:`Down Arrow`.

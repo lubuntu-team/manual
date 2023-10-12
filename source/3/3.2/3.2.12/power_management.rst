@@ -11,11 +11,11 @@ The :guilabel:`Battery` tab has settings for monitoring your battery power level
 
 .. image:: lxqt-power-battery.png
 
-The field :guilabel:`Enable Battery Watcher` Watches the battery on your system. The field :guilabel:`When Power is low then:` lets you choose what to do when your batter is low. The :guilabel:`Warning` field provides a duration to show a warning for low power. To change the level for low level of battery change the :guilabel:`Level is low at` field. To toggle showing and icon check/uncheck the :guilabel:`Show icon` checkbox. To change the icon used for battery change the :guilabel:`Icon` drop down. If you are using a virtual machine or desktop without a battery and get annoyed that notification saying no battery at first login simply uncheck the :guilabel:`Enable Battery Watcher` checkbox. To see what your battery will look like it is under the text :guilabel:`Preview` text in the bottom of the screen. To show what the battery would look like at different charges change the :guilabel:`Label` slider.
+The field :guilabel:`Enable Battery Watcher` Watches the battery on your system. The field :guilabel:`When Power is low then:` lets you choose what to do when your batter is low. The :guilabel:`Warning` field provides a duration to show a warning for low power. To change the level for low level of battery change the :guilabel:`Level is low at` field. To toggle showing and icon check/uncheck the :guilabel:`Show icon` checkbox. To change the icon used for battery change the :guilabel:`Icon` drop down. If you are using a virtual machine or desktop without a battery and get annoyed that notification saying no battery at first login simply uncheck the :guilabel:`Enable Battery Watcher` checkbox. To see what your battery will look like it is under the text :guilabel:`Preview` text in the bottom of the screen. To show what the battery would look like at different charges change the :guilabel:`Level` slider.
 
 The :guilabel:`Lid` tab manages settings for when you close your laptop lid. The lid watcher lets you choose to suspend or shut off your computer when the lid is closed on battery or on AC. The checkbox for :guilabel:`Enable Lid Watcher` enables actions to be taken when the laptop lid is closed and of course uncheck means it won't take any action. The :guilabel:`On Battery` field changes what action to take when your laptop is powered by the battery. The :guilabel:`On AC` is changes what action to take when your laptop lid is closed and it is plugged into power. 
 
-.. image:: lid watcher.png
+.. image:: lidwatcher.png
 
 The Checkbox :guilabel:`When using external monitor` Allows you to have different settings when your laptop for closing the lid if you are plugged in to an external monitor. The fields :guilabel:`On Battery` and :guilabel:`On AC` function as above just different settings when plugged into an external monitor. 
 
@@ -34,7 +34,7 @@ To reset your changes press the :guilabel:`Reset` button. To close Power Managem
 
 Version
 -------
-Lubuntu ships with version 1.2.0 of Power Management. 
+Lubuntu ships with version 1.3.0 of Power Management. 
 
 How to Launch
 -------------

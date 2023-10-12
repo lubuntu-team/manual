@@ -13,7 +13,7 @@ Features:
 
 Usage
 ------
-To do simple arithmetic click the number buttons or type them on your keyboard and then press the sign for addition, multiplication, subtraction,  or division. You can also type in the numbers and press :guilabel:`+` for addition, :guilabel:`-` for subtraction, :guilabel:`x` for multiplication and the division symbol for division. To view the answer press the button that is an :guilabel:`=`. To enter a percetnetage press :kbd:`%` or left click :guilabel:`%`. To view a summary of each button you can mouse over to get a verbal description of the button. If you make a mistake entering in a number you can press the :kbd:`Backspace` key.
+To do simple arithmetic click the number buttons or type them on your keyboard and then press the sign for addition, multiplication, subtraction,  or division. You can also type in the numbers and press :guilabel:`+` for addition, :guilabel:`-` for subtraction, :guilabel:`x` for multiplication and the division symbol for division. To view the answer press the button that is an :guilabel:`=`. To enter a percentage press :kbd:`%` or left click :guilabel:`%`. To view a summary of each button you can mouse over to get a verbal description of the button. If you make a mistake entering in a number you can press the :kbd:`Backspace` key.
  
 .. image:: Kcalc.png
 
@@ -52,7 +52,7 @@ To store a value in memory press the :guilabel:`M+` Button. To retrieve a value 
 
 Numerical System mode
 ---------------------
- To switch the calculator into number system mode :menuselection:`Settings --> Numeral System Mode`. The numerical system mode lets you change your numerical base instead of say the default base 10. To switch to a binary calculations click the :guilabel:`Bin` radio button. To switch the Octal or base 8 format click the :guilabel:`Oct` radio button. To switch to a hexadecimal format or base 16 format click the :guilabel:`Hexadecimal` radio button. For numbers greater than 10 for hexadecimal press the :guilabel:`A`-:guilabel:`F` buttons standing in for numbers 10-15 in base 10. When you are in number that are not part of a numerical base the button will get grayed out. To switch back to decimal or base 10 press the :guilabel:`Dec` radio button.   
+To switch the calculator into number system mode :menuselection:`Settings --> Numeral System Mode`. The numerical system mode lets you change your numerical base instead of say the default base 10. To switch to a binary calculations click the :guilabel:`Bin` radio button. To switch the Octal or base 8 format click the :guilabel:`Oct` radio button. To switch to a hexadecimal format or base 16 format click the :guilabel:`Hexadecimal` radio button. For numbers greater than 10 for hexadecimal press the :guilabel:`A`-:guilabel:`F` buttons standing in for numbers 10-15 in base 10. When you are in number that are not part of a numerical base the button will get grayed out. To switch back to decimal or base 10 press the :guilabel:`Dec` radio button.   
 
 .. image:: kcalcnummode.png
 
@@ -90,7 +90,7 @@ To customize your shortcuts for KCalc :menuselection:`Settings --> Keyboard Shor
 
 Version
 -------
-Lubuntu ships with version 22.12.3 of KCalc.
+Lubuntu ships with version 23.08.0 of KCalc.
 
 How to Launch
 -------------

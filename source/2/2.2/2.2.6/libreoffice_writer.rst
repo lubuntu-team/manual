@@ -1,4 +1,4 @@
-Chapter 2.2.5 LibreOffice Writer
+Chapter 2.2.6 LibreOffice Writer
 ================================
 
 LibreOffice Writer is the default word processing application on Lubuntu.
@@ -74,9 +74,9 @@ To select all text in the document press :kbd:`control + A` or :menuselection:`E
 
 To have a view of the document with no margins shown like on a webpage :menuselection:`View --> Web` or To get back to the original view :menuselection:`View --> Menu`. To toggle a vertical scrollbar :menuselection:`View --> Scrollbars --> Vertical Scroll bar`. To have a horizontal scrollbar :menuselection:`View --> Scrollbars --> Horizontal Scroll bar`.
 
-To toggle your view of rulers press :kbd:`Control + Shift +R` or :menuselection:`View --> Rulers --> Rulers`. To only toggle showing a vertical ruler :menuselection:`View --> Rulers --> Vertical Rulers`. To toggle seeing formatting marks press :kbd:`Control + F10` or :menuselection:` View --> Formatting Marks`. To toggle making LibreOffice Writer press :kbd:`Control + Shift + J` or :menuselection:`View --> Fullscreen`.
+To toggle your view of rulers press :kbd:`Control + Shift +R` or :menuselection:`View --> Rulers --> Rulers`. To only toggle showing a vertical ruler :menuselection:`View --> Rulers --> Vertical Rulers`. To toggle seeing formatting marks press :kbd:`Control + F10` or :menuselection:`View --> Formatting Marks`. To toggle making LibreOffice Writer press :kbd:`Control + Shift + J` or :menuselection:`View --> Fullscreen`.
 
-To zoom for the entire page to be visible :menuselection:`View --> Zoom --> Entire Page`. To zoom so you can see the width of the page and everything is bigger :menuselection:`View --> Zoom --> Page Width`. To zoom in a bit more and not see the margins on the page :menuselection:`View --> Zoom --> Optimal View`. To zoom to 100 percent zoom :menuselection:`View --> Zoom --> 100%`. Another way to change zoom is there is a zoom slider in the bottom right hand corner to increase zoom in move the slider to the right and to zoom out move the slider to the left.
+To zoom for the entire page to be visible :menuselection:`View --> Zoom --> Entire Page`. To zoom so you can see the width of the page and everything is bigger :menuselection:`View --> Zoom --> Page Width`. To zoom in a bit more and not see the margins on the page :menuselection:`View --> Zoom --> Optimal View`. To zoom to 100 percent zoom :menuselection:`View --> Zoom --> 100%`. Another way to change zoom is there is a zoom slider in the bottom right hand corner to increase zoom in move the slider to the right and to zoom out move the slider to the left. To see your current zoom is shown in the bottom right hand corner.  Right clicking on the current zoom brings up a menu to quickly switch to different zoom levels.
 
 To insert a watermark on the background of the page :menuselection:`Format --> Watermark`. To change what the watermark says input that into the :guilabel:`Text` field. To change the font of the watermark change the :guilabel:`Font` field. To change the angle from horizontal text use the :guilabel:`Angle` field in degrees. To change your how transparent the water mark is change the :guilabel:`Transparency` has 100 as entirely clear and 0 as entirely opaque. To change the color of the watermark use the :guilabel:`Color` drop down pop up menu.
 
@@ -94,7 +94,7 @@ To add a column break to the next column press :kbd:`Control+Shift+Enter` or :me
 
 Comments
 --------
-To add a comment to a file with LibreOffice Writer press :kbd:`Control +Alt +C`, right click :menuselection:`Insert Comment`, or :menuselection:`Insert --> Comment`. To add text on the comment click in the yellow area and type in your comment. To delete a comment press the downward pointed arrow in the yellow comment and select :menuselection:`Delete Comment`. To get back in the body of the document click in the white part towards the left of the document. To read when a comment was made look at the bottom of the comment in yellow.
+To add a comment to a file with LibreOffice Writer press :kbd:`Control +Alt +C`, right click :menuselection:`Insert Comment`, or :menuselection:`Insert --> Comment`. To add text on the comment click in the yellow area and type in your comment. To delete a comment press the downward pointed arrow in the yellow comment and select :menuselection:`Delete Comment`. To get back in the body of the document click in the white part towards the left of the document. To read when a comment was made look at the bottom of the comment in yellow. To toggle showing comments :menuselection:`View --> Comments`.
 
 .. image:: comments.png
 
@@ -124,7 +124,7 @@ Tables
 ------
 To insert a table :menuselection:`Table --> Insert Table` and a table dialog window will popup. To change the number of columns change the :guilabel:`Columns` field. To change the number of rows change the :guilabel:`Rows` field. To toggle showing a heading check the :guilabel:`Heading` checkbox. To view a different styles for your table are under the :guilabel:`Style` menu and you can see a preview to the right of the menu. To input text into a part of the table simply left click over that part of the table. To move to another part of the table with the arrow key with the direction you want to go. 
 
-.. image:: table_insterting.png 
+.. image:: table_inserting.png 
 
 To add a row above your current row :menuselection:`Table --> Insert --> Rows Above`. To add a row below the current row :menuselection:`Table --> Insert --> Rows Below`. To add a column before the current one :menuselection:`Table --> Insert --> Columns Before`. To add a column after the current one :menuselection:`Table --> Insert --> Columns After`. To add multiple rows or columns :menuselection:`Table --> Insert --> Rows` or :menuselection:`Table --> Insert --> Column`. To switch how many of multiple rows or columns change the :guilabel:`Number` field. To switch to adding rows or columns above or below press the :guilabel:`Below Selection` button. To actually add the rows or columns press the :guilabel:`OK` button. To delete a row :menuselection:`Table --> Delete --> Rows`. To delete a column :menuselection:`Table --> Delete --> Columns`. To delete the whole table :menuselection:`Table --> Delete --> Table`.
 
@@ -142,7 +142,7 @@ To see statistics on your document use the :guilabel:`Statistics` tab. To see ho
 
 Version
 -------
-Lubuntu ships with LibreOffice Writer version 7.5.1
+Lubuntu ships with LibreOffice Writer version 7.5.6
 
 How to Launch
 -------------

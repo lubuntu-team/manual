@@ -31,7 +31,7 @@ To use the drop down function of QTerminal once launched press :kbd:`F12` to hav
 
 .. image:: qterminal-drop.png
 
-To rename a tab press :kbd:`Alt+Shift+S` or right click on the tab bar and select :menuselection:`Rename session` and then press the :guilabel:`OK` button in the popup. To change the color of the tab :menuselection:`Change title color` menuselection. You can also close a tab by right clicking on it and select :menuselection:`Close session`.
+To rename a tab press :kbd:`Alt+Shift+S` or right click on the tab bar and select :menuselection:`Rename session` and then press the :guilabel:`OK` button in the popup. To change the color of the tab :menuselection:`Change title color` menuselection. You can also close a tab by right clicking on it and select :menuselection:`Close session`. To view your history in a separate program you set in preferences :menuselection:`Actions --> Handle history`.
 
 Customizing
 -----------
@@ -50,7 +50,7 @@ The field :guilabel:`Application transparency` gives you the percent transparent
 
 To apply these changes to see how they appear on QTerminal press the :guilabel:`Apply` button. If you like your new customized terminal layout press the :guilabel:`OK` button or if you wish to cancel your changes press the :guilabel:`Cancel` button. 
 
-The :guilabel:`Behavior` tab changes history, pasting, and different kinds of emulation. To stop bracketed paste mode on pasting multiple lines check the :guilabel:`Forcefully disable bracketed paste mode` checkbox. The :guilabel:`History size (in lines)` lets you save only that many lines of history. The button for :guilabel:`Unlimited history` will save an unlimited amount of history. To change where you are viewing the terminal when you paste change the :guilabel:`Action after paste` menu. The checkbox for :guilabel:`Confirm multiline paste` brings up a confirmation for pasting multiple lines. The checkbox :guilabel:`Trim trailing newlines in pasted text` checkbox removes excess newlines in pasting text from the end of what you paste. To not close tabs by middle clicking uncheck the :guilabel:`Close tab on middle-click` checkbox. The :guilabel:`Ask for confirmation when closing` pops up a confirmation dialog when you close QTerminal. The checkbox :guilabel:`Save position when closing` saves the position when closing QTerminal. To save where QTerminal is on the screen check the :guilabel:`Save Position when closing` checkbox. To have QTerminal be the same size window check the :guilabel:`Save Size when closing`. The :guilabel:`Open new terminals in current working directory` checkbox open new terminals in the last working directory you were on. To Open new tabs to the right of the current tab check the :guilabel:`Open new tab to the right of the active tab` checkbox.
+The :guilabel:`Behavior` tab changes history, pasting, and different kinds of emulation. To stop bracketed paste mode on pasting multiple lines check the :guilabel:`Forcefully disable bracketed paste mode` checkbox. The :guilabel:`History size (in lines)` lets you save only that many lines of scrollback. The button for :guilabel:`Unlimited history` will save an unlimited amount of scrollback. To change where you are viewing the terminal when you paste change the :guilabel:`Action after paste` menu. The checkbox for :guilabel:`Confirm multiline paste` brings up a confirmation for pasting multiple lines. The checkbox :guilabel:`Trim trailing newlines in pasted text` checkbox removes excess newlines in pasting text from the end of what you paste. To not close tabs by middle clicking uncheck the :guilabel:`Close tab on middle-click` checkbox. The :guilabel:`Ask for confirmation when closing` pops up a confirmation dialog when you close QTerminal. The checkbox :guilabel:`Save position when closing` saves the position when closing QTerminal. To save where QTerminal is on the screen check the :guilabel:`Save Position when closing` checkbox. To have QTerminal be the same size window check the :guilabel:`Save Size when closing`. The :guilabel:`Open new terminals in current working directory` checkbox open new terminals in the last working directory you were on. To Open new tabs to the right of the current tab check the :guilabel:`Open new tab to the right of the active tab` checkbox. To set a command to open your scrollback in another program enter it in :guilabel:`Handle history command`.
 
 .. image:: qterminal-pref-behavior.png
 
@@ -62,11 +62,11 @@ The :guilabel:`Dropdown` tab shows effects on the appearance for the drop down s
 
 .. image:: qterminal-drop-pref.png
 
-The :guilabel:`Bookmark` tab has settings for a sidebar to quickly change directories in the terminal. To enable this sidebar check the :guilabel:`Enable bookmarks` checkbox.
+The :guilabel:`Bookmarks` tab has settings for a sidebar to quickly change directories in the terminal. To enable this sidebar check the :guilabel:`Enable bookmarks` checkbox.
 
 Version
 -------
-Lubuntu ships with version 1.2.0 of QTerminal.
+Lubuntu ships with version 1.3.0 of QTerminal.
 
 How to Launch
 -------------

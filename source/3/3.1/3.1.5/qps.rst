@@ -5,7 +5,9 @@ qps is the graphical task manager included with Lubuntu. It is useful to close n
 
 Usage
 ------
-To see your memory usage in qps look at the bar that says :guilabel:`MEM`. The bar for :guilabel:`CPU` usage shows CPU usage with a bar graph with usage with a bar graph for CPU usage. The third column :guilabel:`SWAP` shows how much swap is used or if you don't have a swap space view it will say :guilabel:`NOSWAP`. The :guilabel:`Uptime` in the top bar shows how long your computer has been running. A blue bar showing file input output shows graph in blue. Above this there is a green graph that shows your CPU usage as a graph. To find more info on your CPU usage Memory or Swap usage simply mouseover that display and more info will show. To show when a program was started with the :guilabel:`START` column. To have a view of process ID of each process use the :guilabel:`PID` column. The column :guilabel:`COMMAND LINE` shows what command line starts the process. To show which user the process is running on is in the :guilabel:`USER` column. 
+To see your memory usage in qps look at the bar that says :guilabel:`MEM`. The bar for :guilabel:`CPU` usage shows CPU usage with a bar graph with usage with a bar graph for CPU usage. The third column :guilabel:`SWAP` shows how much swap is used or if you don't have a swap space view it will say :guilabel:`NOSWAP`. The :guilabel:`Uptime` in the top bar shows how long your computer has been running. A blue bar showing file input output shows graph in blue. Above this there is a green graph that shows your CPU usage as a graph. To see your load average view the load average in the top right corner. To show when a program was started with the :guilabel:`START` column. To have a view of process ID of each process use the :guilabel:`PID` column. The column :guilabel:`COMMAND LINE` shows what command line starts the process. To show which user the process is running on is in the :guilabel:`USER` column. 
+
+On the top bar of qps you can get a lot more detailed information if mouseover a field. To get a detailed view on system vs user CPU usage mouseover the :guilabel:`CPU` field. To see detailed info on how much of your ram is used to cache and buffers and by programs mouseover the :guilabel:`MEM` field. To view numerically how much swap is used mouseover the :guilabel:`Swap` field. To view info on how long each measurement is taken for a load average mouseover the load average in the top right hand corner. To see what processes are taking up CPU usage mouseover the green line graph. To see what processes are reading or writing at a time mouseover the blue graph.
 
 To search for a particular process type in the :guilabel:`Filter` field.
 
@@ -31,7 +33,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 2.6.0 of qps. 
+Lubuntu ships with version 2.7.0 of qps. 
 
 How to Launch
 -------------

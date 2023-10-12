@@ -33,7 +33,7 @@ After setting up the tools, you should now be ready to start editing files.
 If you look in the `source` directory, you should see some files. There's
 `index.rst`, which is the main page, and some directories and subdirectories
 that are numbers. Those are chapters of the manual, and are listed in the
-`index.rst` file. Chapter 1 deals with downloading and installing Lubuntu. Chapter 2 has to deal with applications for office web browsers and accesories. Chapter 3 documents programs that change settings. Chapter 4 is programs for installing and updating software. Chapter 5 is for the panel, runner, and window management. Each chapter that begins with a letter is an appendix.
+`index.rst` file. Chapter 1 deals with downloading and installing Lubuntu. Chapter 2 has to deal with applications for office, web browsers, graphics, games and accesories. Chapter 3 documents programs that change settings. Chapter 4 is programs for installing and updating software. Chapter 5 is for the panel, runner, and window management. Each chapter that begins with a letter is an appendix.
 
 Let's say you want to create Chapter 20. In the `source` directory, create a
 directory titled `20`. In the `20` directory, create a file with the name of
@@ -54,14 +54,20 @@ Contents
    20/foo_bar
 ```
 
+To add a screenshot save the screenshot in the directory with the text and then use an image directive
+
+``` 
+.. image:: foobar.png
+
+```
+Also add both the screenshot and the modified restructured text file and commit both.
+
 Then run `make clean && make html && make latexpdf` in the root of the manual directory and it should build successfully with zero warnings! (Might take several trials to get `make latexpdf` without any errors.)
 
 ## Getting multiple Versions to Work
-To change into the file for the code you cloned from git of sphinxconfig-versioning and run ``` cd sphinxcontrib-versioning && sudo python3 setup.py install```
+To build or make changes like a typo on a specific version of the manual the current stable release is on the stable branch and the current LTS release is on the LTS branch.
 
 ## Making changes and seeking your changes to be pulled
-
-**Before you do the below, please update PROGRESS.md to reflect your changes.**
 
 So let's say you make your changes. You like them and think they should be
 included in the mainline manual. Here's what you have to do:
@@ -94,9 +100,7 @@ merge proposal or pull request.**
 
 ## Specification/What is there to do?
 
-In `spec.rst`, there is an editable outline of items to be accomplished, a precompiled version with spec.pdf description of items to be accomplished, and on
-`PROGRESS.md`, there is our status in completing that specification. In the specification if you make changes run ``` rst2pdf spec.rst ``` 
+In `spec.rst`, there is an editable outline of items to be accomplished, a precompiled version with spec.pdf description of items to be accomplished. In the specification if you make changes run ``` rst2pdf spec.rst ``` 
 Pick out something to do, but before you start, please indicate on the [lubuntu-devel
 mailing list](https://lists.ubuntu.com/mailman/listinfo/Lubuntu-devel) or on [#lubuntu-devel on libera](https://kiwiirc.com/client/irc.libera.net/#lubuntu-devel) to state that you intend to
-complete what you have picked out. Please also look at `PROGRESS.md` to see
-what still needs to be completed.
+complete what you have picked out.

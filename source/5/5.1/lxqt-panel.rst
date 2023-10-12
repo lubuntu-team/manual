@@ -61,12 +61,13 @@ The :guilabel:`Widgets` tab lets you change the widgets or individual items on t
 
 .. image:: widget-add.png
 
-Shipped applets not enabled by default:
+Shipped widgets not enabled by default:
  - Backlight
  - CPU monitor
  - Color Picker
  - Custom Command
  - Panel DOM Tree
+ - Qeyes
  - Sensors
  - Spacer
  - System Statistics
@@ -100,7 +101,7 @@ To configure the volume applet right click on the volume applet and select :menu
 
 .. image:: volume-app-pref.png
 
-To change settings of your Status Notifier press the :guilabel:`...` button in the list of applets or on the status notifier applet left click on :menuselection:`Options`. To change how long to have something visible you will autohide will have change the :guilabel:`Attention period`. To hide or authide notifications from a particular application is to change the app settings under the:guilabel:`Visibility` column.
+To change settings of your Status Notifier press the :guilabel:`...` button in the list of applets or on the status notifier applet left click on :menuselection:`Options`. To change how long to have something visible you will autohide will have change the :guilabel:`Attention period`. To hide or autohide notifications from a particular application is to change the app settings under the:guilabel:`Visibility` column. To choose to hide a notification automatically select :menuselection:`Auto-hide`. To have a notification always have its notifications hidden select :menuselection:`Always hide`. To have notifications of an application always be shown select :menuselection:`Always Show`.
 
 .. image::  status-notifier-pref.png
 
@@ -137,7 +138,9 @@ To bring up settings on how to configure QEyes is to right click on the eye and 
 
 .. image:: QEyes-pref.png
 
-To have a custom command add the :guilabel:`Custom Command` widget. To have this have meaningful output you need to configure the widget by right clicking on the Custom Command widget and selection :guilabel:`Configure "Custom Command"`. To have the output not rotate when the panel is vertical uncheck the :guilabel:`Autorotate when the panel is vertical` checkbox. To change what output your custom command has left click the button next to :guilabel:`Font`. To type the command you want to run type in the box above and to the right of :guilabel:`Command`. To run the command with bash running the command check the :guilabel:`Run with "bash -c"` checkbox. To change if or how often the command is run on repeat check the :guilabel:`Repeat command after` checkbox and change how often it runs in the field to the right. To change the maximum width the output of the text can be type in the :guilabel:`Max Width` field. To run a command with clicking on the applet enter the command in the :guilabel:`Click` in mouse commands. To run a specific command upon going up on the mouse wheel enter the command in the :guilabel:`Wheel Up` field. To run a specific command with scrolling down on the mousewheel enter the command in the :guilabel:`Wheel Down` field.
+To have a custom command add the :guilabel:`Custom Command` widget. To have this have meaningful output you need to configure the widget by right clicking on the Custom Command widget and selection :guilabel:`Configure "Custom Command"`. To have the output not rotate when the panel is vertical uncheck the :guilabel:`Autorotate when the panel is vertical` checkbox. To change what output your custom command has left click the button next to :guilabel:`Font`. To type the command you want to run type in the box above and to the right of :guilabel:`Command`. To run the command with bash running the command check the :guilabel:`Run with "bash -c"` checkbox. To change if or how often the command is run on repeat check the :guilabel:`Repeat command after` checkbox and change how often it runs in the field to the right. To choose an icon for the custom command widget type the path of the icon in :guilabel:`Icon` or press the :guilabel:`Browse` button. To choose just put text on the panel type in the :guilabel:`Text` field. To change the maximum width the output of the text can be type in the :guilabel:`Max Width` field.
+
+To change what commands when you click on the custom command is under the :guilabel:`Mouse Commands` heading. To run a command with clicking on the applet enter the command in the :guilabel:`Click` in mouse commands. To run a specific command upon going up on the mouse wheel enter the command in the :guilabel:`Wheel Up` field. To run a specific command with scrolling down on the mousewheel enter the command in the :guilabel:`Wheel Down` field.
 
 The :guilabel:`Sensors` tab provides settings for each individual sensor on your processor. To enable/disable each sensor press to the :guilabel:`Enabled` checkbox for each sensor. The :guilabel:`Label` shows a label for each sensor. The :guilabel:`Color` column shows the color for the bar to appear in the panel and you can bring up a dialog to change color by left clicking on the button. To switch to a different chip to set the sensors for change the :guilabel:`Detected chips` menu. 
 
@@ -151,7 +154,7 @@ To add an easy way to change brightness to your panel add the :guilabel:`Backlig
 
 Version
 -------
-Lubuntu ships with version 1.2.1 of LXQt-panel.
+Lubuntu ships with version 1.3.0 of LXQt-panel.
 
 How to Launch
 -------------

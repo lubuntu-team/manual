@@ -9,11 +9,11 @@ At the start of the boot process a grub splash screen will be shown. To install 
 
 .. image::  grubsplash.png
 
-Once you have booted into the live session, feel free to explore Lubuntu and make sure all your hardware works. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop :guilabel:`Install Lubuntu 22.10` or :menuselection:` System Tools --> Install Lubuntu 22.10`.
+Once you have booted into the live session, feel free to explore Lubuntu and make sure all your hardware works. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop :guilabel:`Install Lubuntu 23.10` or :menuselection:`System Tools --> Install Lubuntu 23.10`.
 
 .. image:: live_session.png
 
-You will be taken to the Lubuntu installer Welcome screen. You can change the installer language in the :guilabel:`Language` drop down box. After selecting the language the :guilabel:`Next` button will move you on to the next task. To cancel an installation press the :guilabel:`Cancel` button.
+You will be taken to the Lubuntu installer Welcome screen. You can change the installer language in the :guilabel:`Language` drop down box. After selecting the language the :guilabel:`Next` button will move you on to the next task. To cancel an installation press the :guilabel:`Cancel` button. On the left side of the installer is a sidebar that shows what installation step you are on.
 
 
 .. image:: welcome_installer.png
@@ -29,14 +29,14 @@ The next screen will show you a map of the world where you can choose your locat
 Selecting Keyboard Layout
 -------------------------
 
-Next select your keyboard layout, you can check your keyboard matches the keyboard shown picture shown. The :guilabel:`Keyboard Model` menu lets you choose different variants, the left column lets you change language, and the right column gets different variants. At the bottom you can type to make sure your layout is correct. When you have selected your keyboard layout press the :guilabel:`Next` button to move on.
+Next select your keyboard layout, you can check your keyboard matches the keyboard shown picture shown. The :guilabel:`Keyboard Model` menu lets you choose different variants, the left column lets you change language, and the right column gets different variants. At the bottom you can type to make sure your layout is correct. When you have selected your keyboard layout press the :guilabel:`Next` button to move on. To view a preview of what this keyboard layout looks like look at the top of the window.
 
 .. image:: keyboard.png
 
 Setting up partitions
 ---------------------
 
-If all you want is Lubuntu on your machine, you can select the :guilabel:`Erase disk` button. This will format the disk and **delete all data on the disk**,  which is why having your data backed up before this point is extremely important. If you choose to do this you can continue on to user setup. To change the storage device to install Lubuntu on use the :guilabel:`Select Storage device` drop down menu. To choose to use a swap file under :guilabel:`Erase disk` keep :menuselection:`Swap to file` or to not use swap choose :menuselection:`No Swap`. If you want to encrypt your drive press the :guilabel:`Encrypt system` checkbox and then you will need to enter the encryption passphrase twice make sure you have it typed in correctly. It is strongly advised to write down this passphrase and keep it somewhere safe.
+If all you want is Lubuntu on your machine, you can select the :guilabel:`Erase disk` button. This will format the disk and **delete all data on the disk**,  which is why having your data backed up before this point is extremely important. If you choose to do this you can continue on to user setup. To change the storage device to install Lubuntu on use the :guilabel:`Select Storage device` drop down menu. To choose to use a swap file under :guilabel:`Erase disk` keep :menuselection:`Swap to file` or to not use swap choose :menuselection:`No Swap`. To choose which filesystem to use the drop down on the right to choose which filesystem you want to use. If you want to encrypt your drive press the :guilabel:`Encrypt system` checkbox and then you will need to enter the encryption passphrase twice make sure you have it typed in correctly. It is strongly advised to write down this passphrase and keep it somewhere safe.
 
 .. warning::
    Erasing your entire disk or partition may cause you to lose data so please backup beforehand.
@@ -45,7 +45,7 @@ If all you want is Lubuntu on your machine, you can select the :guilabel:`Erase 
 
 
 .. note:: 
-   If you had a previous Linux install with swap you will need to unmount the swap. To do this run 
+   If you had a previous Linux install with a swap partition you will need to unmount the swap. To do this run 
 .. code:: 
 
    sudo swapoff -a

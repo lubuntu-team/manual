@@ -1,4 +1,4 @@
-Chapter 2.2.3 LibreOffice Impress
+Chapter 2.2.4 LibreOffice Impress
 =================================
 
 LibreOffice Impress is the program to present presentations on Lubuntu.
@@ -64,13 +64,15 @@ To move a text box around you can left click on the text box and drag it to the 
 
 To insert the number of your slide :menuselection:`Insert --> Slide Number`.
 
-To change the zoom of you presentation :menuselection:`View --> Zoom --> Zoom` to bring up a window to manage your zoom. If you just want to zoom to fit the page width :menuselection:`View --> Zoom --> Page Width`. To change your zoom to 100 percent :menuselection:`View --> Zoom --> 100%`. In the bottom right corner there is a slider for controlling zoom. To zoom in move the slider to the right and to zoom out move the slider to the left.
+To change the zoom of you presentation :menuselection:`View --> Zoom --> Zoom` to bring up a window to manage your zoom. If you just want to zoom to fit the page width :menuselection:`View --> Zoom --> Page Width`. To change your zoom to 100 percent :menuselection:`View --> Zoom --> 100%`. In the bottom right corner there is a slider for controlling zoom. To zoom in move the slider to the right and to zoom out move the slider to the left. To view your current zoom look at the bottom right hand corner. To quickly choose another zoom level right click on the current zoom.
 
 To move a slide down :menuselection:`Slide --> Move --> Slide Down`. To move a slide up :menuselection:`Slide --> Move --> Slide Up`. To move a slide to the start :menuselection:`Slide --> Move --> Slide to start`. To move a slide to the end :menuselection:`Slide --> Move --> Slide to end`.
 
 To view your slides right next to each other :menuselection:`View --> Slide Sorter`. To rearrange your slides click and hold a slide and drag the slide between the slides you want to move to. To have notes on each slide :menuselection:`View --> Notes`. Type your notes for each slide below the slide. To switch to an outline view of just text :menuselection:`View --> Outline`. To switch to an outline :menuselection:`View --> Outline`. To switch back to your normal view :menuselection:`View --> Normal`.
 
 To change your view to grayscale :menuselection:`View --> Color/Grayscale --> Grayscale`. To view your presentation in black and white :menuselection:`View --> Color/Grayscale --> Black and White`. To switch back to color view :menuselection:`View --> Color/Grayscale --> Color`.
+
+To insert a comment into a presentation press :kbd:`Control + Alt +C` or :menuselection:`Insert --> Comments`. Then type your comment in the yellow note. To toggle viewing comments :menuselection:`View --> Comments`. To view just one comment simply left click on the area left click on the comment.
 
 To quit LibreOffice impress press :kbd:`Control+Q`.
 
@@ -122,7 +124,7 @@ To bring up custom settings for your settings :menuselection:`Slide Show --> Sli
 
 Version
 -------
- Lubuntu ships with version 7.5.1 of LibreOffice Impress.
+ Lubuntu ships with version 7.5.6 of LibreOffice Impress.
 
 How To Launch
 -------------

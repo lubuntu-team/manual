@@ -45,7 +45,7 @@ and then carefully check that the output matches
 
 .. code::
 
-  92c1659668baab47269725a05a46115628801b5a464e2860b65edce50c9d0fcf *lubuntu-23.04-desktop-amd64.iso
+  0072ac362fef0aa2cc496f83389807cc86e9b5e1fa9fe4eaa7a3f728f6d59f2e *lubuntu-23.10-desktop-amd64.iso
 
 Downloading the image via BitTorrent
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -80,6 +80,6 @@ To download the image using zsync run
  
 .. code::
 
-   zsync https://cdimage.ubuntu.com/lubuntu/releases/23.04/release/lubuntu-23.04-desktop-amd64.iso.zsync
+   zsync http://cdimage.ubuntu.com/lubuntu/releases/lunar/release/lubuntu-23.04-desktop-amd64.iso.zsync
    
 **You have now downloaded the image successfully. Please continue to Chapter 1.2.**

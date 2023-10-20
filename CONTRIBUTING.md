@@ -11,6 +11,7 @@ Before starting, you need a few tools.
   - Debian Buster (10.0) and onwards
   - Ubuntu 20.04 LTS and onwards
   - A text editor with syntax highlighting and spell checking
+  - A screenshot tool
  - The following packages from your Linux distribution's repository:
   - `git`
   - `python3-sphinx`

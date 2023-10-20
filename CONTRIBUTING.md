@@ -60,7 +60,7 @@ To add a screenshot save the screenshot in the directory with the text and then 
 .. image:: foobar.png
 
 ```
-Also add both the screenshot and the modified restructured text file and commit both.
+Also add both the screenshot and the modified restructured text file and commit both. If a program has been updated simply save a new screenshot overwriting the file to update the screenshot.
 
 Then run `make clean && make html && make latexpdf` in the root of the manual directory and it should build successfully with zero warnings! (Might take several trials to get `make latexpdf` without any errors.)
 

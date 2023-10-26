@@ -35,6 +35,8 @@ On the left there is a sidebar that shows your a summary of each page of a drawi
 
 To toggle showing rulers in LibreOffice Draw press :kbd:`Control+ Shift + R`, :menuselection:`View --> Rulers`, or right click and select :menuselection:`Rulers`.
 
+To print a drawing press :kbd:`Control+P` or :menuselection:`File --> Print`.
+
 Version
 -------
 Lubuntu ships with version 7.5.6 of LibreOffice Draw.

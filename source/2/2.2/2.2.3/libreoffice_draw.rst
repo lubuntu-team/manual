@@ -35,7 +35,7 @@ On the left there is a sidebar that shows your a summary of each page of a drawi
 
 To toggle showing rulers in LibreOffice Draw press :kbd:`Control+ Shift + R`, :menuselection:`View --> Rulers`, or right click and select :menuselection:`Rulers`.
 
-To print a drawing press :kbd:`Control+P` or :menuselection:`File --> Print`. To select your printer use the :guilabel:`Printer` drop down. To change how many copies to print change :guilabel:`Number of copies`.
+To print a drawing press :kbd:`Control+P` or :menuselection:`File --> Print`. To select your printer use the :guilabel:`Printer` drop down. To change how many copies to print change :guilabel:`Number of copies`. To change your paper size choose the :guilabel:`Paper size` menu. To preview what you are printing view the left side of the window. To actually print choose the :guilabel:`Print` button.
 
 Version
 -------

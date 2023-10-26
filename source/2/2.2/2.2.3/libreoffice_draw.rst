@@ -19,6 +19,8 @@ To rotate an object select it and :menuselection:`Shape --> Rotate`, right click
 
 To flip a shape vertically :menuselection:`Shape --> Flip -->  Vertically` or right click :menuselection:`Flip --> Vertically`. To flip a shape horizontally :menuselection:`Shape --> Flip --> Horizontally` or right click :menuselection:`Flip --> Horizontally`.
 
+To move the alginment all the way to the left of a page :menuselection:`Shape --> Algin Objects --> Left`. To move an object to the center :menuselection:`Shape --> Align Objects --> Centered`. To move an object to the right of the page :menuselction:`Shape --> Align Objects --> Right`.
+
 To insert a textbox press :kbd:`F2`, press the button :guilabel:`with a T in a box`, or :guilabel:`Insert --> Text box`. Drag the text box into what shape you want it. Then type the text you want in the text box.
 
 .. image:: mainlodrawwindow.png

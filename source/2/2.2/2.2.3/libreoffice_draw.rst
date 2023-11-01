@@ -15,6 +15,8 @@ To change the color of your line press the :guilabel:`lines, dots, and drops` dr
 
 To insert a star or banner :menuselection:`Shape --> Insert --> Stars and Banners` and select your star or banner or press the :guilabel:`Star button` and select which one with the drop down next to it. Then use the mouse to choose how big to make your star.
 
+To insert a 3d object into your drawing :menuselection:`Shape --> Insert --> 3D ojbets` or the :guilabel:`3D Objects` button on the bottom of the left bar. Then choose the size of your 3d object with the mouse.
+
 To rotate an object select it and :menuselection:`Shape --> Rotate`, right click and select :menuselection:`Transformation --> Rotate`. Then left click on the corner to spin an object around. To change the axis of where you are rotating an object move the dot in the center to change the center of rotation.
 
 To flip a shape vertically :menuselection:`Shape --> Flip -->  Vertically` or right click :menuselection:`Flip --> Vertically`. To flip a shape horizontally :menuselection:`Shape --> Flip --> Horizontally` or right click :menuselection:`Flip --> Horizontally`.

@@ -21,7 +21,7 @@ The right hand side has many symbols you can use for say set relations and other
 
 To type into a formula the bottom part of the window has what is inserted into the formula. You can also insert many operators or brackets by right clicking and then selecting the symbol.
 
-To refresh the display afterwards press :kbd:`F9` or :menuselection:`View --> Update`.
+To refresh the display afterwards press :kbd:`F9` or :menuselection:`View --> Update`. To toggle autoupdate :menuselection:`View --> Autoupdate Display`.
 
 To change the fonts of your formulas :menuselection:`Format --> Fonts` which brings up a window for fonts for different contexts. To change your font size :menuselection:`Format --> Font sizes`. To bring up a menu to change your alignment :menuselection:`Format --> Alignment`. To change the spacing between lines and characters :menuselection:`Format --> Spacing`. To align text to the left press the :guilabel:`Left` button. To center text press the :guilabel:`Centered` button. To change alignment to the right press the :guilabel:`Right` button.
 

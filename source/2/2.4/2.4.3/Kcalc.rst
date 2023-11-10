@@ -56,7 +56,7 @@ To switch the calculator into number system mode :menuselection:`Settings --> Nu
 
 .. image:: kcalcnummode.png
 
-If you type a number into in your numerical base you will see the underneath the buttons will show what that number is in that numerical base.
+If you type a number into in your numerical base you will see the underneath the buttons will show what that number is in that numerical base. To be able to change each the bits use for each operation select :menuselection:`Settings --> Show bit edit`. Then to see which bits are shown will be below what you enter into the calculator and above the numerical bases. Each number you enter will in binary have a black square if it has a 1 in binary representation for that digit and a white square if it is zero. To flip a bit simply left click on it.
 
 Statistic Mode
 ----------------

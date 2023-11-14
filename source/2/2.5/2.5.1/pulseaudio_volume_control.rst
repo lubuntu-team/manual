@@ -27,7 +27,7 @@ The :guilabel:`Configuration` tab has different sound profiles for each differen
 
 Version
 -------
-Lubuntu ships with version 1.3.0 PulseAudio Volume Control.
+Lubuntu ships with version 1.4.0 PulseAudio Volume Control.
 
 How to Launch
 -------------

@@ -33,7 +33,7 @@ To quit Desktop press the :kbd:`Escape` key.
 
 Version
 -------
-Lubuntu ships with 1.3.0 of Desktop.
+Lubuntu ships with 1.4.0 of Desktop.
 
 How to Launch
 -------------

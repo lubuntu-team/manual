@@ -7,6 +7,6 @@ This chapter documents programs with viewing pictures, taking screenshots, and s
   :maxdepth: 2
   :titlesonly:
 
-  2.3.1/lximage
+  2.3.1/lximage-qt
   2.3.2/screengrab
   2.3.3/Skanlite

@@ -1,7 +1,7 @@
-Chapter 2.3.1 LXImage
-=====================
+Chapter 2.3.1 LXImage-Qt
+========================
 
-LXImage is the default image viewer for Lubuntu.
+LXImage-Qt is the default image viewer for Lubuntu.
 
 Usage
 ------
@@ -45,7 +45,7 @@ Annotations
 ------------
 To show annotations controls :menuselection:`View --> Annotations Toolbar` or right click and select :menuselection:`Annotations Toolbar`. To edit your images with LXImage there are several buttons on the right hand side of the toolbar. To draw and arrow press the button that looks like an arrow click once where you want the arrow to start and then drag the direction you want the arrow to point and click it where you want the arrowhead to be. To draw a hollow rectangle left click on the button with a hollow rectangle and click and drag to the size of the rectangle you want. To draw a hollow circle annotation press the button that looks like a hollow circle. To draw numbers on your pictures press the :guilabel:`3` button. To stop drawing annotations press the button with a circle with a slash through it.
 
-.. warning:: Annotations in LXImage cannot be undone with an undo functionality. Also you will not be prompted to save your unsaved annotations when closing LXImage.
+.. warning:: Annotations in LXImage-Qt cannot be undone with an undo functionality. Also you will not be prompted to save your unsaved annotations when closing LXImage-Qt.
 
 Customizing
 -----------
@@ -68,7 +68,7 @@ The :guilabel:`Shortcuts` tab has settings for changing keyboard shortcuts in LX
 
 Version
 -------
-Lubuntu ships with version 1.3.0 or LXImage. 
+Lubuntu ships with version 1.3.0 or LXImage-Qt. 
 
 How to Launch
 -------------

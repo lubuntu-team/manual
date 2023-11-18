@@ -72,7 +72,7 @@ Lubuntu ships with version 1.3.0 or LXImage.
 
 How to Launch
 -------------
-To launch LXImage from the menu :menuselection:`Graphics --> LXImage` or run
+To launch LXImage from the menu :menuselection:`Graphics --> LXImage-Qt` or run
 
 .. code:: 
 

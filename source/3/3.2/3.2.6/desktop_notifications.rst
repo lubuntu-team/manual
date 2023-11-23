@@ -14,7 +14,7 @@ If you want to deal with notification when you are away from your computer use t
 
 To not be disturbed by notifications check the :guilabel:`Only save notifications` checkbox. To show notifications on the monitor with the mouse check the :guilabel:`Show notifications on screen with the mouse` checkbox.
 
-The :guilabel:`Position` tab lets you change where Desktop notifications appear on your screen. Click the button that appears under :guilabel:`Position on screen` on the portion of your screen where you want them with the outline being your window. To test where a notification will pop up press the :guilabel:`Preview` button.
+The :guilabel:`Appearance` tab lets you change where Desktop notifications appear on your screen. Click the button that appears under :guilabel:`Position on screen` on the portion of your screen where you want them with the outline being your window. To test where a notification will pop up press the :guilabel:`Preview` button.
 
 Screenshots
 -----------

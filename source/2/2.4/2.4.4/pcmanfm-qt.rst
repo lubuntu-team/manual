@@ -154,7 +154,7 @@ from the command line to edit the file and paste in the following contents
 
 Creating Lunahcers
 -------------------
-To create a file that will launch an application by clicking on it :menuselection:`Tools --> Create Launcher` and fill in the fields to create a file to launch programs. For what to call your launcher type it in the :guilabel:`Name` field. To add a description to your launcher enter a description in the :guilabel:`Description` field.
+To create a file that will launch an application by clicking on it :menuselection:`Tools --> Create Launcher` and fill in the fields to create a file to launch programs. For what to call your launcher type it in the :guilabel:`Name` field. To add a description to your launcher enter a description in the :guilabel:`Description` field. To set up a comment for the launcher enter it in the :guilabel:`Comment` field. To change which categories in the menu this launcher shows up in enter them in the :guilabel:`Categories` field.
 
 Customizing
 -----------

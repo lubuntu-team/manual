@@ -9,3 +9,15 @@ Usage
 Version
 -------
 Lubuntu ships with version 0.6.3 of Redshift
+
+
+How to Launch
+-------------
+
+To launch Redshift :menuselection:`Accessories --> Redshift` or run 
+
+..code::
+
+   redshift-qt
+   
+from the command line.

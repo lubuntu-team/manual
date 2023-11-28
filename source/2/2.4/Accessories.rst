@@ -14,3 +14,4 @@ This chapter documents accessories on your system.
   2.4.5/Qlipper
   2.4.6/noblenote
   2.4.7/QtPass
+  2.4.8/Redshift

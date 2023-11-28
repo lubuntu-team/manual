@@ -102,6 +102,8 @@ Chapter 2.4 Accessories
 
 2.4.7 QtPass
 
+2.4.8 Redshift
+
 Chapter 2.5 Sound & Video
 -------------------------
 

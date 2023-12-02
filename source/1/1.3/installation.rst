@@ -42,6 +42,8 @@ Next will bring a choice of what applications to install, additional third party
 
 To choose pick which particular additonal applications you wish to install there are checkboxes for each program under :guilabel:`Install additonal third party packages`. To install Element for encryped matrix chat check the :guilabel:`Element` checkbox. To install the Thunderbird email and clandering client check the :guilabel:`Thunderbird checkbox`. To install virt-manager to manage running virtual machines on Lubuntu check the :guilabel:`Virtual Machine Manager` checkbox. To make digital art check the checkbox for :guilabel:`Krita`.
 
+To go to the next part of installation press the :guilabel:`Next` button. To go to selecting your keyboard again press the :guilabel:`Back` button.
+
 Setting up partitions
 ---------------------
 

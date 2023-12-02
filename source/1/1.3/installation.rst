@@ -40,6 +40,8 @@ Customizing
 
 Next will bring a choice of what applications to install, additional third party drivers, or to install updates with the installation. To chooose to install all applications and the list of the third party applications choose :guilabel:`Full Installation`. To choose the normal applications included in Lubuntu select the :guilabel:`Nomral Installation` button. To choose a minimal installation of just the desktop environment select the :guilabel:`Minimal Installation` button. To install updates while installing check the :guilabel:`Download and install updates following installation` checkbox. To install third party and maybe proprietary drivetrs check the :guilabel:`Install third-party software for graphics, WIFi hardware, and addtional media formats` checkbox.
 
+To choose pick which particular additonal applications you wish to install there are checkboxes for each program under :guilabel:`Install additonal third party packages`. To install Element for encryped matrix chat check the :guilabel:`Element` checkbox. To install the Thunderbird email and clandering client check the :guilabel:`Thunderbird checkbox`. To install virt-manager to manage running virtual machines on Lubuntu check the :guilabel:`Virtual Machine Manager` checkbox. To make digital art check the checkbox for :guilabel:`Krita`.
+
 Setting up partitions
 ---------------------
 

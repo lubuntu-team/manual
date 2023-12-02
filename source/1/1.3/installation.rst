@@ -35,6 +35,10 @@ Next select your keyboard layout, you can check your keyboard matches the keyboa
 
 .. image:: keyboard.png
 
+Customizing
+-----------
+Next will bring a choice of what applications to install, additional third party drivers, or to install updates with the installation. To chooose to install all applications and the list of the third party applications choose :guilabel:`Full Installation`. To choose the normal applications included in Lubuntu select the :guilabel:`Nomral Installation` button. To choose a minimal installation of just the desktop environment select the :guilabel:`Minimal Installation` button.
+
 Setting up partitions
 ---------------------
 

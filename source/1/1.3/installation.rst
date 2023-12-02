@@ -9,7 +9,7 @@ At the start of the boot process a grub splash screen will be shown. To install 
 
 .. image::  grubsplash.png
 
-The next screen you are brought to will brought to will be a screen with a choice between :guilabel:`Try Lubuntu` which will give you a live session to run lubuntu as you see fit off your installation media. The other choice is is to run the installer directly with :guilabel:`Install Lubuntu`. If you need more advanced network settings to install Lubuntu than just connecting to wifi use the :guilabel:`Try Lubuntu` choice.
+The next screen you are brought to will brought to will be a screen with a choice between :guilabel:`Try Lubuntu` which will give you a live session to run lubuntu as you see fit off your installation media. The other choice is is to run the installer directly with :guilabel:`Install Lubuntu`. If you need more advanced network settings to install Lubuntu than just connecting to wifi use the :guilabel:`Try Lubuntu` choice. If choose :guilabel:`Install Lubuntu` the installer will start right away and you will be asked to select your langauge.
 
 Once you have booted into the live session, feel free to explore Lubuntu and make sure all your hardware works. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop :guilabel:`Install Lubuntu 23.10` or :menuselection:`System Tools --> Install Lubuntu 23.10`.
 

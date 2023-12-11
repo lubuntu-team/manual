@@ -64,7 +64,7 @@ If you want to change your line spacing of your document :menuselection:`Format 
 
 To Insert a page number :menuselection:`Insert --> Field --> Page number`. To insert the current time into the document :menuselection:`Insert --> Field --> Time`. To insert the current date into the document :menuselection:`Insert --> Field --> Date`.  To insert the number of pages in the document :menuselection:`Insert --> Field --> Page count`.
 
-To have a page number in your header or footer :menuselection:`Insert --> Page Number`. To choose where to put the page number put change the :guilabel:`Postion` drop down. To change which side of the page the page number appears on use the :guilabel:`Alignment` drop down. To have the number be on the opposite side for every other page check the :guilabel:`Mirror on even pages` checkbox.
+To have a page number in your header or footer :menuselection:`Insert --> Page Number`. To choose where to put the page number put change the :guilabel:`Postion` drop down. To change which side of the page the page number appears on use the :guilabel:`Alignment` drop down. To have the number be on the opposite side for every other page check the :guilabel:`Mirror on even pages` checkbox. To include the total of all pages check the :guilabel:`Include page total` checkbox. To change how your page numbers are formatted change the :guilabel:`Page nubmers` drop down.
 
 To have a header shown at the top of each page :menuselection:`Insert --> Header and footer --> Header --> Default style`. To have a footer at the bottom of each page :menuselection:`Insert--> Header and footer --> Footer --> Default style`. To get back to writing the main part of the document left click on the body of the document.
 

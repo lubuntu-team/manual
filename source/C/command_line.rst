@@ -48,7 +48,13 @@ If you need to edit a text file from the command line the easiest editor include
 
    nano [file]
 
-where you replace [file] with the file you want to edit.
+where you replace [file] with the file you want to edit. Lubuntu also ships with the advanced text editor vim however documenting how to use that editor is beyond the scope of this manual. If you want to learn that advanced text editor run the command 
+
+.. code::
+   
+   vimtutor
+
+which provides you an interactive tutorial.
 
 If you want to stop something running in the terminal press :kbd:`Control +C`. To run a task in the background type a :kbd:`&` at the end of it.
 

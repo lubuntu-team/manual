@@ -31,7 +31,7 @@ The next screen will show you a map of the world where you can choose your locat
 Selecting Keyboard Layout
 -------------------------
 
-Next select your keyboard layout, you can check your keyboard matches the keyboard shown picture shown. The :guilabel:`Keyboard Model` menu lets you choose different variants, the left column lets you change language, and the right column gets different variants. At the bottom you can type to make sure your layout is correct. When you have selected your keyboard layout press the :guilabel:`Next` button to move on. To view a preview of what this keyboard layout looks like look at the top of the window.
+Next select your keyboard layout, you can check your keyboard matches the keyboard shown picture shown. The :guilabel:`Keyboard Model` menu lets you choose different variants, the left column lets you change language, and the right column gets different variants. At the bottom you can type to make sure your layout is correct. To test your keyboard is working type in :guilabel:`Type here to test your keyboard` field. When you have selected your keyboard layout press the :guilabel:`Next` button to move on. To view a preview of what this keyboard layout looks like look at the top of the window.
 
 .. image:: keyboard.png
 

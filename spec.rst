@@ -86,7 +86,7 @@ Chapter 2.3 Graphics Applications
 2.3.3 Skanlite
 
 Chapter 2.4 Accessories
-----------------------
+-----------------------
 
 2.4.1 LXQt File Archiver
 
@@ -103,6 +103,8 @@ Chapter 2.4 Accessories
 2.4.7 QtPass
 
 2.4.8 Redshift
+
+2.4.9 SDDM Configuration
 
 Chapter 2.5 Sound & Video
 -------------------------

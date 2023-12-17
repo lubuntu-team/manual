@@ -67,7 +67,7 @@ endobj
 endobj
 10 0 obj
 <<
-/Author () /CreationDate (D:20231215154114+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20231215154114+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20231216234453+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20231216234453+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Lubuntu LXQt Manual Specification) /Trapped /False
 >>
 endobj
@@ -167,12 +167,12 @@ endobj
 endobj
 29 0 obj
 <<
-/Dest [ 7 0 R /XYZ 57.02362 306.0236 0 ] /Next 30 0 R /Parent 27 0 R /Prev 28 0 R /Title (Chapter 5 Panel Desktop and Runner)
+/Dest [ 7 0 R /XYZ 57.02362 324.0236 0 ] /Next 30 0 R /Parent 27 0 R /Prev 28 0 R /Title (Chapter 5 Panel Desktop and Runner)
 >>
 endobj
 30 0 obj
 <<
-/Dest [ 7 0 R /XYZ 57.02362 186.0236 0 ] /Parent 27 0 R /Prev 29 0 R /Title (Appendicies)
+/Dest [ 7 0 R /XYZ 57.02362 204.0236 0 ] /Parent 27 0 R /Prev 29 0 R /Title (Appendicies)
 >>
 endobj
 31 0 obj
@@ -414,7 +414,7 @@ endstream
 endobj
 33 0 obj
 <<
-/Length 3923
+/Length 3807
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -649,19 +649,12 @@ q
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.1.8 LxQt-sudo) Tj T* ET
 Q
 Q
-q
-1 0 0 1 57.02362 90.02362 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3.1.9 SDDM Configuration) Tj T* ET
-Q
-Q
  
 endstream
 endobj
 34 0 obj
 <<
-/Length 5204
+/Length 5382
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -814,78 +807,71 @@ q
 1 0 0 1 57.02362 354.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4.2 Muon Package Manager) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4.2 Software Sources) Tj T* ET
 Q
 Q
 q
 1 0 0 1 57.02362 336.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4.3 Software Sources) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4.3 Lubuntu Update Notifier) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 318.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4.4 Lubuntu Update Notifier) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 288.0236 cm
+1 0 0 1 57.02362 306.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Chapter 5 Panel Desktop and Runner) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 270.0236 cm
+1 0 0 1 57.02362 288.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5.1 lxqt-panel) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 252.0236 cm
+1 0 0 1 57.02362 270.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5.2 Desktop Icons) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 234.0236 cm
+1 0 0 1 57.02362 252.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5.3 lxqt-runner) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 216.0236 cm
+1 0 0 1 57.02362 234.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5.4 window management) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 198.0236 cm
+1 0 0 1 57.02362 216.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5.5 keyboard menu navigation) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 168.0236 cm
+1 0 0 1 57.02362 186.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Appendicies) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 156.0236 cm
+1 0 0 1 57.02362 174.0236 cm
 Q
 q
-1 0 0 1 57.02362 156.0236 cm
+1 0 0 1 57.02362 174.0236 cm
 Q
 q
-1 0 0 1 57.02362 144.0236 cm
+1 0 0 1 57.02362 162.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -908,10 +894,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 138.0236 cm
+1 0 0 1 57.02362 156.0236 cm
 Q
 q
-1 0 0 1 57.02362 126.0236 cm
+1 0 0 1 57.02362 144.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -934,10 +920,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 120.0236 cm
+1 0 0 1 57.02362 138.0236 cm
 Q
 q
-1 0 0 1 57.02362 108.0236 cm
+1 0 0 1 57.02362 126.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -960,10 +946,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 102.0236 cm
+1 0 0 1 57.02362 120.0236 cm
 Q
 q
-1 0 0 1 57.02362 90.02362 cm
+1 0 0 1 57.02362 108.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -986,10 +972,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 84.02362 cm
+1 0 0 1 57.02362 102.0236 cm
 Q
 q
-1 0 0 1 57.02362 72.02362 cm
+1 0 0 1 57.02362 90.02362 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -1012,19 +998,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 66.02362 cm
+1 0 0 1 57.02362 84.02362 cm
 Q
- 
-endstream
-endobj
-35 0 obj
-<<
-/Length 921
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 753.0236 cm
+1 0 0 1 57.02362 72.02362 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -1047,10 +1024,19 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 747.0236 cm
+1 0 0 1 57.02362 66.02362 cm
 Q
+ 
+endstream
+endobj
+35 0 obj
+<<
+/Length 627
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 735.0236 cm
+1 0 0 1 57.02362 753.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -1073,10 +1059,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 729.0236 cm
+1 0 0 1 57.02362 747.0236 cm
 Q
 q
-1 0 0 1 57.02362 717.0236 cm
+1 0 0 1 57.02362 735.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -1099,7 +1085,7 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 717.0236 cm
+1 0 0 1 57.02362 735.0236 cm
 Q
  
 endstream
@@ -1165,17 +1151,17 @@ xref
 0000004441 00000 n 
 0000004519 00000 n 
 0000008306 00000 n 
-0000012281 00000 n 
-0000017537 00000 n 
-0000018509 00000 n 
-0000018577 00000 n 
-0000018611 00000 n 
-0000018645 00000 n 
-0000018679 00000 n 
+0000012165 00000 n 
+0000017599 00000 n 
+0000018277 00000 n 
+0000018345 00000 n 
+0000018379 00000 n 
+0000018413 00000 n 
+0000018447 00000 n 
 trailer
 <<
 /ID 
-[<c186b89c2f4d86b3d7d795e9e9fce583><c186b89c2f4d86b3d7d795e9e9fce583>]
+[<2f5cc8fb5745b068c42a0deaab5d2c76><2f5cc8fb5745b068c42a0deaab5d2c76>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 10 0 R
@@ -1183,5 +1169,5 @@ trailer
 /Size 41
 >>
 startxref
-18713
+18481
 %%EOF

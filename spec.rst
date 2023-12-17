@@ -142,8 +142,6 @@ Chapter 3.1 System Tools
 
 3.1.8 LxQt-sudo
 
-3.1.9 SDDM Configuration
-
 Chapter 3.2 Preferences
 -----------------------
 
@@ -189,11 +187,9 @@ Chapter 4 Installing, Updating, and Removing  Software
 
 4.1 Discover
 
-4.2 Muon Package Manager
+4.2 Software Sources
 
-4.3 Software Sources
-
-4.4 Lubuntu Update Notifier
+4.3 Lubuntu Update Notifier
 
 ----------------------------------
 Chapter 5 Panel Desktop and Runner

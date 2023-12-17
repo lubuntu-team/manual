@@ -1,4 +1,4 @@
-Chapter 4.3 Managing Software Sources
+Chapter 4.2 Managing Software Sources
 ============================================
 
 Occasionally you may need to change the setting of your software sources. This could involve: 

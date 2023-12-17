@@ -1,4 +1,4 @@
-Chapter 4.4 Update Notifier
+Chapter 4.3 Update Notifier
 ===========================
 
 Update Notifier is a simple program to upgrade your system.

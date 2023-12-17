@@ -9,6 +9,8 @@ To change SDDM settings with autologin use the :guilabel:`Autologin` tab. To hav
 
 To save your changes for SDDM-Configuration use the :guilabel:`Save` button. To undo your changes press the :guilabel:`Reset` button.
 
+The :guilabel:`General` tab has settings for turning off, rebooting and keyboard input. To change what command to shut down your system use the :guilabel:`Halt command` field. To change what command to restart your system use the :guilabel:`Reboot command` field.
+
 Version
 -------
 Lubuntu ships with version 0.2.0 of SDDM-Configuration.

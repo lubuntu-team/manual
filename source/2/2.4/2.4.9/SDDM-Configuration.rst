@@ -15,6 +15,8 @@ The :guilabel:`Theme` tab has settings for your theming SDDM. To change your the
 
 To change settings on which which Users log in use the :guilabel:`Users` tab. To not have a user show up to be able to be logged in use the :guilabel:`Comma-separated list of users that should not be listed` field. To choose the minimum user id for users you can log in as change the :guilabel:`Minumum user id for displayed users` field. To change the largest user id to log in as change the :guilabel:`Maximum user id for displayed users` field. To remeber who logged in last check the :guilabel:`Remember the sesion of the last logged in user` checkbox. To remember what session you logged into last check the :guilabel:`Remember the last successfully logged in user` checkbox.
 
+To change settings with the Wayland display server use the :guilabel:`Wayland` tab. To use scale high dots per inch automatically in wayland check the :guilabel:`Enable Qt's automatic high-DPI scaling` checkbox. To choose where to launch your wayland startup use the :guilabel:`Path to a script to execute when starting the desktop session` field. To change where to log your wayland session use the :guilabel:`Path to the user session log file` field. To change where SDDM looks for wayland session use the :guilabel:`Directory containing available Wayland session` field. 
+
 Version
 -------
 Lubuntu ships with version 0.2.0 of SDDM-Configuration.

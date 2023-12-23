@@ -191,6 +191,8 @@ Chapter 4 Installing, Updating, and Removing  Software
 
 4.3 Lubuntu Update Notifier
 
+4.4 Firmware Updater
+
 ----------------------------------
 Chapter 5 Panel Desktop and Runner
 ----------------------------------

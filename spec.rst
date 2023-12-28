@@ -56,8 +56,6 @@ Chapter 2.1 Internet Applications
 
  2.1.3 Quassel IRC
 
- 2.1.4 BlueDevil
-
 
 Chapter 2.2 Office applications
 -------------------------------
@@ -180,6 +178,8 @@ Chapter 3.2 Preferences
 3.2.17 Printers
 
 3.2.18 Screensaver
+
+3.2.19 Bluetooth Manager
 
 ------------------------------------------------------
 Chapter 4 Installing, Updating, and Removing  Software

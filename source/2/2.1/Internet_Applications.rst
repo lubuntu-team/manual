@@ -1,7 +1,7 @@
 Chapter 2.1 Internet Applications
 =================================
 
-This chapter documents how to use webbrowsers, IRC, bluetooth, and torrent clients. 
+This chapter documents how to use webbrowsers, IRC, and torrent clients. 
 
 .. toctree::
    :maxdepth: 2

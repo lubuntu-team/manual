@@ -10,5 +10,4 @@ This chapter documents how to use webbrowsers, IRC, and torrent clients.
    2.1.1/firefox
    2.1.2/qtransmission
    2.1.3/Quassel_IRC
-   2.1.4/bluedevil
 

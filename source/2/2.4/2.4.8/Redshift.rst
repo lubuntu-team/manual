@@ -18,7 +18,7 @@ How to Launch
 
 To launch Redshift :menuselection:`Accessories --> Redshift` or run 
 
-..code::
+.. code::
 
    redshift-qt
    

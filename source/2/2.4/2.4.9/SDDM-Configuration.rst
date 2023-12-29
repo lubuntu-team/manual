@@ -1,5 +1,5 @@
-SDDM-Configuration
-==================
+Chapter 2.4.9 SDDM-Configuration
+================================
 SDDM Configuration lets you customize the screen when you log in to Lubuntu.
 
 

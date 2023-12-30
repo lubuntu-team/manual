@@ -18,6 +18,8 @@ To connect to a saved bluetooth device left click to select the device and :menu
 
 On the bottom of the window there shows you statistic about how much data has been sent over bluetooth first how much you uploaded, downloaded and then the speed of the connection.
 
+To toggle showing the toolbar check/uncheck :menuselection:`Device --> Show Toolbar`. To toggling showing the statusbar :menuselection:`Device --> Show Statusbar`. To hide unamed devices :menuselection:`View --> Hide unamed devices`.
+
 Version
 -------
 Lubutnu ships with version 2.3.5 of Bluetooth Manager.

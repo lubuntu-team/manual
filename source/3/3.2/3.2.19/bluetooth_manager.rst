@@ -16,6 +16,8 @@ To transfer a file over bluetooth press the :guilabel:`Send file` button. Then a
 
 To connect to a saved bluetooth device left click to select the device and :menuselection:`Device --> Connect`.  To cancel a connection press the :guilabel:`X` button. To view info on a paired device :menuselection:`Device --> Info`. To block a device :menuselection:`Device --> Block`. To disconnect a device :menuselection:`Device --> Disconnect`.
 
+On the bottom of the window there shows you statistic about how much data has been sent over bluetooth first how much you uploaded, downloaded and then the speed of the connection.
+
 Version
 -------
 Lubutnu ships with version 2.3.5 of Bluetooth Manager.

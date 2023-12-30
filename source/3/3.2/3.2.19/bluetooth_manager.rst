@@ -6,7 +6,7 @@ Usage
 -----
 To search for bluetooth devices press the :guilabel:`Search` button. The bluetooth devices you will have foudn will be shown in the center of the window.
 
-To pair with a device press the :guilabel:`Key` button.
+To pair with a device press the :guilabel:`Key` button. After paiting for the first time you will be asked permissions based on what type of device it is press :guilabel:`Accept` to allow access or :guilabel:`Deny` to not allow acess.
 
 .. image:: bluetooth_manager.png
 
@@ -14,7 +14,7 @@ To change settings on wheter your bluetooth is visible to other devices or your 
 
 To transfer a file over bluetooth press the :guilabel:`Send file` button. Then a file picker will pop up to select the file. The recipent of the file may be prompted to need to accept the file.
 
-To connect to a saved bluetooth device left click to select the device and :menuselection:`Device --> Connect`. To view info on a paired device :menuselection:`Device --> Info`.
+To connect to a saved bluetooth device left click to select the device and :menuselection:`Device --> Connect`.  To cancel a connection press the :guilabel:`X` button. To view info on a paired device :menuselection:`Device --> Info`.
 
 Version
 -------

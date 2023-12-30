@@ -14,6 +14,8 @@ To change settings on wheter your bluetooth is visible to other devices or your 
 
 To transfer a file over bluetooth press the :guilabel:`Send file` button. Then a file picker will pop up to select the file. The recipent of the file may be prompted to need to accept the file.
 
+To connect to a saved bluetooth device left click to select the device and :menuselection:`Device --> Connect`. To view info on a paired device :menuselection:`Device --> Info`.
+
 Version
 -------
 Lubutnu ships with version 2.3.5 of Bluetooth Manager.

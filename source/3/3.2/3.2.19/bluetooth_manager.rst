@@ -6,7 +6,7 @@ Usage
 -----
 To search for bluetooth devices press the :guilabel:`Search` button. The bluetooth devices you will have foudn will be shown in the center of the window.
 
-To pair with a device press the :guilabel:`Key` button. After paiting for the first time you will be asked permissions based on what type of device it is press :guilabel:`Accept` to allow access or :guilabel:`Deny` to not allow acess.
+To pair with a device press the :guilabel:`Key` button. After paiting for the first time you will be asked permissions based on what type of device it is press :guilabel:`Accept` to allow access or :guilabel:`Deny` to not allow acess. To mark a device as trusted press the :guilabel:`Checkmark` button.
 
 .. image:: bluetooth_manager.png
 

@@ -22,12 +22,12 @@ To toggle showing the toolbar check/uncheck :menuselection:`Device --> Show Tool
 
 Version
 -------
-Lubutnu ships with version 2.3.5 of Bluetooth Manager.
+Lubuntu ships with version 2.3.5 of Bluetooth Manager.
 
 
 How To Launch
 -------------
-To luanch Bluetooth Manager :menuselection:`Prefrences --> Bluetooth Manager` or run 
+To launch Bluetooth Manager :menuselection:`Preferences --> Bluetooth Manager` or run 
 
 .. code::
 

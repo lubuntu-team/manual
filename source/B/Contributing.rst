@@ -17,8 +17,8 @@ If you’re nothing more than a user, you can help out with the following withou
 
  - `Support and Bug Triage`_
  - `Documentation <https://git.lubuntu.me/Lubuntu/manual/>`_
- - `Testing <https://phab.lubuntu.me/w/testing/>`_
- - `Bug triage <https://phab.lubuntu.me/w/bugs/>`_
+ - `Testing <https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Testing/>`_
+ - `Bug triage <https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Bugs>`_
 
 *And we could always use help with art/graphic design!*
 

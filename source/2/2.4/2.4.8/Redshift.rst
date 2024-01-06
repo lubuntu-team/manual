@@ -9,7 +9,7 @@ To suspend using Redshift left click on the the tray icon that looks like a ligh
 
 .. image:: redshift.png
 
-
+.. image:: redshift-info.png
 
 Version
 -------

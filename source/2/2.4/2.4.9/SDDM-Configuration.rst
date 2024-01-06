@@ -7,6 +7,8 @@ Usage
 -----
 To change SDDM settings with autologin use the :guilabel:`Autologin` tab. To have SDDM log back in after a session exists check the :guilabel:`Whether sddm should automatically log back into sessions when they exit`. To change which session to automatically log into use the :guilabel:`Name of session file for autologin session` drop down. To choose which user to login use the :guilabel:`Username for autologin session` field.
 
+.. image:: sddm-login.png
+
 To save your changes for SDDM-Configuration use the :guilabel:`Save` button. To undo your changes press the :guilabel:`Reset` button.
 
 The :guilabel:`General` tab has settings for turning off, rebooting and keyboard input. To change what command to shut down your system use the :guilabel:`Halt command` field. To change what command to restart your system use the :guilabel:`Reboot command` field. To choose an input method module like an onscreen keyboard to be selectable on your login screen enter it in the :guilabel:`Input method module` screen. To change which state numlock is in when you login use the :guilabel:`Initial Numlock state` drop down.

@@ -8,7 +8,7 @@ To search for bluetooth devices press the :guilabel:`Search` button. The bluetoo
 
 To pair with a device press the :guilabel:`Key` button. After paiting for the first time you will be asked permissions based on what type of device it is press :guilabel:`Accept` to allow access or :guilabel:`Deny` to not allow acess. To mark a device as trusted press the :guilabel:`Checkmark` button. To remove a device from your device list press the :guilabel:`-` button or :menuselection:`Device --> Remove`.
 
-.. image:: bluetooth_manager.png
+.. image:: blueman.png
 
 To change settings on wheter your bluetooth is visible to other devices or your name on bluetooth select :menuselection:`Adapter --> Prefrences`. To make your bluetooth not show up when other people are selecting bluetooth devices to connect to select :guilabel:`Hidden`. To have your bluetooth adapter show up whenever anyone searches select :guilabel:`Always visible`. To have your bluetooth appear for a short amount of time select :guilabel:`Temporarily Visible` and then use the slider to select the amount of time to make the adapter visible. To change the name you show up on wifi type your name in the :guilabel:`Name` field.
 

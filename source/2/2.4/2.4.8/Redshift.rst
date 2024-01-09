@@ -13,7 +13,7 @@ To suspend using Redshift left click on the the tray icon that looks like a ligh
 
 .. note:: 
 
-   If you are using Lubuntu to make art or something that dpeends on how color appears on it it is recommended to suspend Redshift to not have the colors be shifted and appear different from what you see on your     monitor.
+   If you are using Lubuntu to make art or something that depends on how color appears on it it is recommended to suspend Redshift to not have the colors be shifted and appear different from what you see on your     monitor.
 
 Version
 -------

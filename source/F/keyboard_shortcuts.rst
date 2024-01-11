@@ -83,19 +83,7 @@ Cycle to bottom window        A-S-Down
 
 ============================= ========================
 
-**Keybindings for window switching with the arrow keys**
 
-============================= ========================
-
-DirectionalCycleWindows       W-S-Right
-
-DirectionalCycleWindows       W-S-Left
-
-DirectionalCycleWindows       W-S-Up
-
-DirectionalCycleWindows       W-S-Down
-
-============================= ========================
 
 **Keybindings to toggle fullscreen**
 

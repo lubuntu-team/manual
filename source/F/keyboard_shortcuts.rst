@@ -4,7 +4,7 @@ Appendix F Hotkeys Shortcuts
 
 Hotkeys, also known as keyboard shortcuts, allow users to easily navigate, start applications, and change settings like resizing windows. These are useful as they create a smooth and time efficient user experience. It would benefit users to take a few minutes to learn some of these shortcuts.
 
-Lubuntu has manages the keyboard shortcuts using two layers. Namely, LXQt Global Keys and Openbox.
+Lubuntu has manages the keyboard shortcuts using two layers. Namely, LXQt Global Keys and Openbox. The openbox keybindings are stored in an xml config file in ~/.config/openbox/rc.xml.
 
 Global-keys
 --------------

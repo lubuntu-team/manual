@@ -21,7 +21,7 @@ The table below shows Lubuntu's default Openbox keyboard shortcuts:
 
 **Modifier keys** 	
 
-Key     description
+Key     Description
 
 ====    ========================
 S 	     Shift key

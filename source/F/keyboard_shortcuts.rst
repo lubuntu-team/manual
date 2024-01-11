@@ -122,7 +122,7 @@ Open QTerminal                 C-A-T
 
 Launch Firefox                XF86WWW
 
-Open qterminal                XF86Terminal
+Open QTerminal                XF86Terminal
 
 
 ============================= ========================

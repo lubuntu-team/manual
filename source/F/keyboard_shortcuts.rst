@@ -49,14 +49,6 @@ GoToDesktop                   C-A-Up
 
 GoToDesktop                   C-A-Down
 
-SendToDesktoaToLeft           S-A-Left
-
-SendToDesktopToRight          S-A-Right
-
-SendToDesktop                 S-A-Up
-
-SendToDesktop                 S-A-Down
-
 ============================= ========================
 
 **Keybindings for windows**
@@ -80,6 +72,14 @@ NextWindow                    A-Tab
 PreviousWindow                A-S-Tab
 
 NextWindow                    C-A-Tab
+
+Cycle to right window         A-S-Right
+                               
+Cylce to left window          A-S-Left
+
+Cycle to top window           A-S-Up
+
+Cycle to bottom window        A-S-Down
 
 ============================= ========================
 

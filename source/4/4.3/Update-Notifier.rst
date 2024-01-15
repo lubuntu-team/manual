@@ -1,4 +1,4 @@
-Chapter 4.3 Update Notifier
+Chapter 4.3 Lubuntu Update
 ===========================
 
 Update Notifier is a simple program to upgrade your system.
@@ -18,14 +18,14 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 0.5.4 of Update Notifier.
+Lubuntu ships with version 1.0.0 of Lubuntu Update.
 
 How to Launch
 -------------
-To launch Update Notifier :menuselection:`Preferences --> Apply Full Upgrade`, press the :guilabel:`Apply Full Upgrade` from LXQt Configuration Center, or from the command line run
+To launch Update Notifier :menuselection:`Preferences --> Lubuntu Update`, press the :guilabel:`Lubuntu Update` from LXQt Configuration Center, or from the command line run
 
 .. code::
 
-    lubuntu-upgrader
+    lubuntu-update
 
 The icon for Update Notifier looks like a goldenrod circle with two circular arrows around the circle.

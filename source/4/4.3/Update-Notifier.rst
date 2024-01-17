@@ -1,7 +1,7 @@
 Chapter 4.3 Lubuntu Update
 ===========================
 
-Update Notifier is a simple program to upgrade your system.
+Lubuntu Update is a simple program to upgrade your system.
 
 Usage
 -----
@@ -28,4 +28,4 @@ To launch Update Notifier :menuselection:`Preferences --> Lubuntu Update`, press
 
     lubuntu-update
 
-The icon for Update Notifier looks like a goldenrod circle with two circular arrows around the circle.
+The icon for Lubuntu Update looks like a goldenrod circle with two circular arrows around the circle.

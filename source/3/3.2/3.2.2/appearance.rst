@@ -21,7 +21,7 @@ The :guilabel:`Font` tab has settings for fonts. To change the default font ther
 
 .. image:: appearance-font.png
 
-The :guilabel:`Cursor` tab has one option to change cursor theme lets you change how the cursor looks with two themes installed by default but more available in the package repositories. To see a preview of the cursor theme it is above all the cursor theme on above the list of themes and moving the cursor turns it into that preview one of cursor to see things spin for example. To change how big the cursor is change the :guilabel:`Size` field.
+The :guilabel:`Cursor` tab has one option to change cursor theme lets you change how the cursor looks with two themes installed by default. To get more cursor themes install packages with cursor theme in the name. To see a preview of the cursor theme it is above all the cursor theme on above the list of themes and moving the cursor turns it into that preview one of cursor to see things spin for example. To change how big the cursor is change the :guilabel:`Size` field.
 
 .. image:: appearance-cursor.png
 

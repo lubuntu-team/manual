@@ -15,7 +15,7 @@ To select the process below the currently selected one press :kbd:`Down Arrow` t
 
 .. image:: htop.png
 
-To see what is writing to your hard drive or solid state drive press the :guilabel:`Tab` key to see how much is being written or read. To see the process id of soemthing writing to disk read the :guilabel:`PID` column. To see what user is reading or writing to disk read the :guilabel:`USER` column. To see the total of your disk being read or written by a process see the :guilabel:`DISK R/W` column. To see how much is being read from storage read the :guilabel:`DISK READ` column. To see how much is being written to storage see the :guilabel:`DISK WRITE` column. To see what command is reading or writing to disk read the :guilabel:`Commnad` column. To change how to sort which I/O options are taking place press :kbd:`F6`. To switch back to viewing CPU and memory usage press :kbd:`Tab` again.
+To see what is writing to your hard drive or solid state drive press the :guilabel:`Tab` key to see how much is being written or read. To see the process id of something writing to disk read the :guilabel:`PID` column. To see what user is reading or writing to disk read the :guilabel:`USER` column. To see the total of your disk being read or written by a process see the :guilabel:`DISK R/W` column. To see how much is being read from storage read the :guilabel:`DISK READ` column. To see how much is being written to storage see the :guilabel:`DISK WRITE` column. To see what command is reading or writing to disk read the :guilabel:`Command` column. To change how to sort which I/O options are taking place press :kbd:`F6`. To switch back to viewing CPU and memory usage press :kbd:`Tab` again.
 
 .. image:: htop-io.png
 

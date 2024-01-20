@@ -12,6 +12,8 @@ On top of the window shows the total number of pacakages under :guilabel:`x pack
 
 To see what will change on a update left click on the a category most likely :guilabel:`Upgrade` and see what list of packages will be upgraded. If there are any security updates a second column will appear that says :guilabel:`Security`. Next to each security update a green shield will show up to denote that upgrade is a security upgrade. To see further what dependencies are pulling in the upgrade and to collapse them click the arrow next to the package to be upgraded and again to collapse the list.
 
+If updates are needed an icon will show up in the system tray with the lubuntu logo and left click it to bring up updates.
+
 If you have to restart after an update the window will say :guilabel:`Restart Required`.
 
 Screenshot

@@ -27,7 +27,7 @@ Lubuntu ships with version 1.0.0 of Lubuntu Update.
 
 How to Launch
 -------------
-To launch Update Notifier :menuselection:`Preferences --> Lubuntu Update`, press the :guilabel:`Lubuntu Update` from LXQt Configuration Center, or from the command line run
+To launch Update Notifier :menuselection:`Preferences --> Lubuntu Update`, press the :guilabel:`Lubuntu Update` from LXQt Configuration Center, left click the tray icon, or from the command line run
 
 .. code::
 

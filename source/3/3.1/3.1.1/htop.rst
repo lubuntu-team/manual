@@ -30,7 +30,7 @@ Customizing
 
 :kbd:`F2` brings about a customizable settings on htop. To close settings press :kbd:`F10`.
 
-The :guilabel:`Display Options` has option for different ways to display in htop. To move between options press :kbd:`Up Arrow` or :kbd:`Down Arrow`. To toggle an option on press :kbd:`Spacebar`. The :guilabel:`Colors` tab brings up different color schemes for htop. To select a different color scheme press the :kbd:`Up arrow` or :kbd:`Down arrow` keys. To select a new color scheme press the :kbd:`Spacebar` key. 
+The :guilabel:`Display Options` has option for different ways to display in htop. To move between options press :kbd:`Up Arrow` or :kbd:`Down Arrow`. To toggle an option on press :kbd:`Spacebar`. The :guilabel:`Colors` tab brings up different color schemes for htop. To select a different color scheme press the :kbd:`Up Arrow` or :kbd:`Down Arrow` keys. To select a new color scheme press the :kbd:`Spacebar` key. 
 
 .. image:: htop-setup.png
 

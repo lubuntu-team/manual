@@ -78,6 +78,6 @@ One of the most powerful uses of the command line is called a pipe which allows 
 
    lspci |less
    
-. Also | is called the pipe character. 
+. Also | is called the pipe character. The command less is what is known as a pager that is really useful to see commands that produce lots of output interactively.
 
 To get the previous command you have entered press :kbd:`Up Arrow`. To go to the next command in your history press :kbd:`Down Arrow`.

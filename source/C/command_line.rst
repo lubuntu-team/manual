@@ -40,7 +40,7 @@ where [dir] is the directory you want to switch to. Another thing that is useful
 
 Many command line commands have what are called options that use one or sometimes two :kbd:`-` to type before options that allow you to do different options on different commands which checking the man page to see what options for each command.
 
-There is also the command line for managing and installing packages which is beyond the scope of this appendix but please see `apt package management <https://ubuntu.com/server/docs/package-management>`_ for how to insert and remove packages from the command line. 
+There is also the command line for managing and installing packages which is beyond the scope of this appendix but please see `apt package management <https://ubuntu.com/server/docs/package-management>`_ for how to insert and remove packages from the command line. To see how to manage snap packages on the command line see `snap documentation <https://snapcraft.io/docs/quickstart-guide#heading--install-snap>`_ .
 
 If you need to edit a text file from the command line the easiest editor included is nano so to edit a file from the command line if you broke something run 
 

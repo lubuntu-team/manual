@@ -17,7 +17,7 @@ If updates are needed an icon will show up in the system tray with the lubuntu l
 Screenshot
 ----------
 
-.. image:: upgrade-notifer.png
+.. image::  Lubuntu-Update.png
 
 Version
 -------

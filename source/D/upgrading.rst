@@ -4,11 +4,50 @@ Appendix D Upgrading from Previous Releases
 
 With every release upgrade comes many changes across the entire landscape of packages. Naturally, an extremely large change like this can cause problems, so **we strongly recommend you back up your files**. Also, if your computer runs on a battery (such as a laptop), please ensure that the power is connected, as it may take a while and unexpected power failures could be disastrous. Also keep in mind upgrading from a previous release will download will take time and data.
 
-This way of upgrading involves the command line and is also useful for server upgrades. Unfortunately with main Ubuntu and Lubuntu dropping 32-bit upgrades, 32-bit upgrades after Lubuntu 18.04 are not supported, we recommend Debian Testing for these systems instead.
+We now feature a graphical way to install updates, in addition to the command-line option also listed below. Choose what works best for you, both are the same.
 
 .. note:: 
 
   Upgrading will keep all of your files in your home folder and configuration files intact however this will mean some changes to default keybindings for example will still be the same as when you installed but will keep all of your customizations different from reinstalling Lubuntu.
+
+Upgrading Graphically
+---------------------
+
+First make sure all of your current packages are up to date on the release you are upgrading. To do manually check for updates :menuselection:`Preferences --> Apply Full Upgrade`. To upgrade Lubuntu graphically when prompted for an upgrade press the :guilabel:`Apply` button when you are prompted. 
+
+.. image:: apply-new-version.jpg
+
+To launch the graphical version of the upgrade from the command line after upgrading
+
+.. code::
+
+  sudo do-release-upgrade -m desktop -f DistUpgradeViewKDE
+    
+Once this is launched you will be brought to a window that shows you welcome to the next release. To start the release press the :guilabel:`Upgrade` button. 
+    
+.. image:: graphical-upgrade-welcome.png
+
+After this the upgrader will download what it needs to calculate what to download to complete the update. To see what changes will be made press the :guilabel:`Details` button. To see how long downloading an upgrade will take will be in the text in the middle of the window. If you want to decide not to upgrade at this time press the :guilabel:`Cancel` button. To actually  start upgrading to the next version press the :guilabel:`Start Upgrade` button.
+
+.. image:: graphical-details-upgrade-cancel.png
+
+After starting the upgrade the new files will all be downloaded with an estimate of how long the download will take.
+
+.. image:: downloadinguprade.png
+
+Next the upgrader will install packages. Along the bottom of the screen is a progress bar. To see progress of which packages are being upgraded press the :guilabel:`Show Terminal`. To hide the terminal again press the :guilabel:`Hide Terminal` button.
+
+.. image:: upgradinging-install-packages.png
+
+After the packages are installed you will be asked to if you want to clean up unneeded packages. To see which packages will be removed press the :guilabel:`Details` button. To remove packages press the :guilabel:`Remove` button. To keep the packages press the :guilabel:`Keep` button.
+
+.. image:: clean-up.png
+
+After clean up you will need to reboot. You will be prompted to restart now or close. To restart press the :guilabel:`Restart Now` button. To restart later press :guilabel:`Close`.
+
+.. image:: restart-now.png
+
+After rebooting you will return to your login screen and enjoy your updated version of Lubuntu.
 
 Upgrading with command line
 ---------------------------
@@ -41,47 +80,6 @@ While running the command line upgrade you will see what a chance to Cancel the 
 .. image:: do-release-upgrade-continue.png
 
 After the installation, reboot into the newly upgraded system and log in and enjoy your upgraded release of Lubuntu. 
-
-
-Upgrading Graphically
----------------------
-
-First make sure all of your current packages are up to date on the release you are upgrading. To do manually check for updates :menuselection:`Preferences --> Apply Full Upgrade`. To upgrade Lubuntu graphically when prompted for an upgrade press the :guilabel:`Apply` button when you are prompted. 
-
-.. image:: apply-new-version.jpg
-
-To launch the graphical version of the upgrade from the command line after upgrading
-
-.. code::
-
-  sudo do-release-upgrade -m desktop -f DistUpgradeViewKDE
-    
-Once this is launched you will be brought to a window that shows you welcome to the next release. To start the release press the :guilabel:`Upgrade` button. 
-    
-
-.. image:: graphical-upgrade-welcome.png
-
-After this the upgrader will download what it needs to calculate what to download to complete the update. To see what changes will be made press the :guilabel:`Details` button. To see how long downloading an upgrade will take will be in the text in the middle of the window. If you want to decide not to upgrade at this time press the :guilabel:`Cancel` button. To actually  start upgrading to the next version press the :guilabel:`Start Upgrade` button.
-
-.. image:: graphical-details-upgrade-cancel.png
-
-After starting the upgrade the new files will all be downloaded with an estimate of how long the download will take.
-
-.. image:: downloadinguprade.png
-
-Next the upgrader will install packages. Along the bottom of the screen is a progress bar. To see progress of which packages are being upgraded press the :guilabel:`Show Terminal`. To hide the terminal again press the :guilabel:`Hide Terminal` button.
-
-.. image:: upgradinging-install-packages.png
-
-After the packages are installed you will be asked to if you want to clean up unneeded packages. To see which packages will be removed press the :guilabel:`Details` button. To remove packages press the :guilabel:`Remove` button. To keep the packages press the :guilabel:`Keep` button.
-
-.. image:: clean-up.png
-
-After clean up you will need to reboot. You will be prompted to restart now or close. To restart press the :guilabel:`Restart Now` button. To restart later press :guilabel:`Close`.
-
-.. image:: restart-now.png
-
-After rebooting you will return to your login screen and enjoy your updated version of Lubuntu.
 
 Upgrading to a Development Release
 ----------------------------------

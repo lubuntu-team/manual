@@ -14,8 +14,6 @@ To see what will change on a update left click on the a category most likely :gu
 
 If updates are needed an icon will show up in the system tray with the lubuntu logo and left click it to bring up updates.
 
-If you have to restart after an update the window will say :guilabel:`Restart Required`.
-
 Screenshot
 ----------
 

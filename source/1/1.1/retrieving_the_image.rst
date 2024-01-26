@@ -14,7 +14,7 @@ For users looking to try new features every six months at the expense of the sup
 
 Ways to download the image
 ---------------------------
-Now that the decision of which architecture and release type you need is made, you will need to download the image.
+Now that the decision of which release type you need is made, you will need to download the image.
 
 There are several ways to download the Lubuntu image:
  - HTTP download (from your web browser or terminal).

@@ -15,7 +15,7 @@ The :guilabel:`Opacity` tab is for transparency settings. Setting Opacity to 1.0
 
 The :guilabel:`Fade` tab manages fading windows opening or closing or opacity changes. There is a checkbox for :guilabel:`Fade windows during opacity changes` so if the opacity changes it will smoothly fade. To have a slower time between fade in milliseconds increase :guilabel:`The time between steps in a fade in milliseconds`. To change how much to change opacity while a window is fading in change :guilabel:`Opacity change between steps while fading in` field. To change steps when fading out change :guilabel:`Opacity change between steps while fading out` field. With this settings windows will fade in and out when opened and closed unless you don't them to which you can check the :guilabel:`Avoid fade windows in/out when opening/closing`.  
 
-.. image:: compton_conf_fade.png
+.. image:: picom_conf_fade.png
 
 The :guilabel:`Backend` tab has settings for changing the backend of how picom renders things. The :guilabel:`Rendering backend` changes what picom uses to render the window effects. To switch to hardware accelerated rendering of the picom backend press the :guilabel:`GLX(OpenGL)` button. To change back to the default rendering press the :guilabel:`X Render` button.
 

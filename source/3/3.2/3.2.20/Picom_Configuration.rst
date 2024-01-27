@@ -1,7 +1,7 @@
-Chapter 3.2.16 Window Effects
-=============================
+Chapter 3.2.20 Picom Configuration
+==================================
 
-Window Effects is the default program in Lubuntu to manage effects of the Compton X11 compositor. 
+Picom Configuration is the default program in Lubuntu to manage effects of the Picom X11 compositor. 
 
 Usage
 ------
@@ -23,14 +23,14 @@ To have your settings applied you will need to press the :guilabel:`Apply` butto
 
 Version
 -------
-Lubuntu ships with version 0.16.0 of Window Effects.
+Lubuntu ships with version 0.17.0 of Picom Configuration.
 
 How to Launch
 -------------
-To launch Window Effects from the menu :menuselection:`Preferences --> LXQt Settings --> Window Effects` or run
+To launch Window Effects from the menu :menuselection:`Preferences --> Picom Configuration` or run
 
 .. code:: 
 
    compton-conf 
   
-from the command line. The icon for Window Effects is a gear button with a c in it to launch Window Effects. Of course for this to have any effect the compton compositor needs to be running so see `Chapter 3.2.13 <https://manual.lubuntu.me/3/3.2/3.2.13/session_settings.html>`_ for how to autostart applications. To start the compton compositor just once :menuselection:`Accessories --> compton` from the menu. 
+from the command line. The icon for Window Effects is a gear button with a c in it to launch Window Effects. Of course for this to have any effect the compton compositor needs to be running so see `Chapter 3.2.13 <https://manual.lubuntu.me/3/3.2/3.2.13/session_settings.html>`_ for how to autostart applications. To start the compton compositor just once :menuselection:`Accessories --> picom` from the menu. 

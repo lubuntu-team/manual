@@ -7,7 +7,7 @@ Usage
 ------
 The :guilabel:`Shadow` tab manages how picom draws shadows. To toggle enable client side shadows press the :guilabel:`Enable client side shadows on windows` checkbox. The :guilabel:`Color of shadow` lets you change the color of shadows from windows. The field for :guilabel:`The blur radius for shadows` changes how big to blur the shadows. :guilabel:`The left offset for shadows` is how far to move the shadows to the left with a larger number makes the shadow appear farther to the right. :guilabel:`The top offset for shadows` the larger the number farther down the shadow appears below the window. :guilabel:`The translucency for shadows` is how opaque or clear to make the shadows 1 is opaque shadows and 0 is clear. The :guilabel:`Crop shadows of maximized windows from extended displays` checkbox does not have shadows across multimonitor layouts on other monitors from windows on another.  
 
-.. image:: window_effects.png
+.. image:: picom-conf-shadow.png
 
 The :guilabel:`Opacity` tab is for transparency settings. Setting Opacity to 1.00 makes it opaque while 0 makes it entirely clear. Menus, inactive windows, active windows, and titlebars and borders all can have their opacity changed independently. To not change how bright or dim windows are with window opacity check the :guilabel:`Do not let dimness adjust based on window opacity`. The :guilabel:`Blur background of transparent windows` blurs the background of transparent windows. To not change how far a window blurs on window transparency check the :guilabel:`Do not let blur radius adjust based on window opacity`.
 

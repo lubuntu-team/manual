@@ -1,5 +1,5 @@
-Bluetooth Manager
-=================
+Chapter 3.2.19 Bluetooth Manager
+================================
 Bluetooth Manager connects to your machine to other device via bluetooth.
 
 Usage

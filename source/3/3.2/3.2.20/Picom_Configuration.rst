@@ -19,6 +19,7 @@ The :guilabel:`Fade` tab manages fading windows opening or closing or opacity ch
 
 The :guilabel:`Window Types` tab lets you change settings for many different types of windows indivuadally. The different type of windows are :guilabel:`Combo, Desktop, Dialog, Dnd, Dock, Dropdown menu, Menu, Normal, Notification, Popup menu, Splash, Toolbar, Tooltip, Unkown`, or :guilabel:`Utility`.
 
+.. image:: picom-window-types.png
 
 The :guilabel:`Backend` tab has settings for changing the backend of how picom renders things. The :guilabel:`Rendering backend` changes what picom uses to render the window effects. To switch to hardware accelerated rendering of the picom backend press the :guilabel:`GLX(OpenGL)` button. To change back to the default rendering press the :guilabel:`X Render` button.
 

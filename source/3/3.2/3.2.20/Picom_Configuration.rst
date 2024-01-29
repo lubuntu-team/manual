@@ -11,7 +11,7 @@ The :guilabel:`Shadow` tab manages how picom draws shadows. To toggle enable cli
 
 The :guilabel:`Opacity` tab is for transparency settings. Setting Opacity to 1.00 makes it opaque while 0 makes it entirely clear. Menus, inactive windows, active windows, and titlebars and borders all can have their opacity changed independently. To not change how bright or dim windows are with window opacity check the :guilabel:`Do not let dimness adjust based on window opacity`. The :guilabel:`Blur background of transparent windows` blurs the background of transparent windows. To not change how far a window blurs on window transparency check the :guilabel:`Do not let blur radius adjust based on window opacity`.
 
-.. image:: compton_conf_opacity.png
+.. image:: picom_conf_opacity.png
 
 The :guilabel:`Fade` tab manages fading windows opening or closing or opacity changes. There is a checkbox for :guilabel:`Fade windows during opacity changes` so if the opacity changes it will smoothly fade. To have a slower time between fade in milliseconds increase :guilabel:`The time between steps in a fade in milliseconds`. To change how much to change opacity while a window is fading in change :guilabel:`Opacity change between steps while fading in` field. To change steps when fading out change :guilabel:`Opacity change between steps while fading out` field. With this settings windows will fade in and out when opened and closed unless you don't them to which you can check the :guilabel:`Avoid fade windows in/out when opening/closing`.  
 

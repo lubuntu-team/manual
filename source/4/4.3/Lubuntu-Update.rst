@@ -5,7 +5,7 @@ Lubuntu Update is a simple program to upgrade your system.
 
 Usage
 -----
-To install an updates left click on the :guilabel:`Install Updates` button. Then a authentication dialog will need you to enter your password. After authenticating a progress bar and a terminal output on the bottom will appear. When the update is done on top will say :guilabel:`Update installation complete`.
+To install an updates left click on the :guilabel:`Install Updates` button. To check for more updates press the :guilabel:`Check for Updates` button. Then a authentication dialog will need you to enter your password. After authenticating a progress bar and a terminal output on the bottom will appear. When the update is done on top will say :guilabel:`Update installation complete`.
 
 
 On top of the window shows the total number of pacakages under :guilabel:`x package(s) will be updated`. To the right you get how many are security updates on :guilabel:`of these aupdates are security related`. To see what new packages will be installed look under :guilabel:`To be installed`. To see what packages will be updated click on the :guilabel:`To be upgraded` section. To see what will be removed read under :guilabel:`To be removed`. To see what packages will be held back check under :guilabel:`Held Back`.

@@ -8,7 +8,7 @@ The documentation is powered by [Sphinx](http://www.sphinx-doc.org/en/stable/) a
 
 Run the following command to install the needed dependencies:
 
-```
+```bash
 sudo apt install python3-pip python3-sphinx latexmk texlive texlive-formats-extra python3-sphinx-rtd-theme python3-sphinx-bootstrap-theme
 ```
 
@@ -18,7 +18,7 @@ You can see the options for building the documentation by running `make help`. Y
 
 To contribute to the Lubuntu Manual, you can either create a request on Launchpad, or send patch mail to [lubuntu-devel@lists.ubuntu.com](mailto:lubuntu-devel@lists.ubuntu.com) and prefix the subject with `[Lubuntu Manual Pull Request]`.
 
-If you really want to learn more about sphinx Lyn Perrine found this pycon video helpful [Carol_Willing-Practical_Sphinx] (https://www.youtube.com/watch?v=0ROZRNZkPS8)
+If you really want to learn more about sphinx Lyn Perrine found this pycon video helpful [Carol_Willing-Practical_Sphinx](https://www.youtube.com/watch?v=0ROZRNZkPS8)
 
 If you want short help on how to format things see StyleGuide.rst in this directory.
 

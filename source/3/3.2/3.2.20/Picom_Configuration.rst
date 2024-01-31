@@ -17,7 +17,7 @@ The :guilabel:`Fade` tab manages fading windows opening or closing or opacity ch
 
 .. image:: picom_conf_fade.png
 
-The :guilabel:`Window Types` tab lets you change settings for many different types of windows indivuadally. The different type of windows are :guilabel:`Combo, Desktop, Dialog, Dnd, Dock, Dropdown menu, Menu, Normal, Notification, Popup menu, Splash, Toolbar, Tooltip, Unkown`, or :guilabel:`Utility`. To change the opacity of a each type of window change the :guilabel:`Opacity` field.
+The :guilabel:`Window Types` tab lets you change settings for many different types of windows indivuadally. The different type of windows are :guilabel:`Combo, Desktop, Dialog, Dnd, Dock, Dropdown menu, Menu, Normal, Notification, Popup menu, Splash, Toolbar, Tooltip, Unkown`, or :guilabel:`Utility`. To expand a window type left click on the rightward pointed arrow. To collapse a type of window left click on the downward pointed arrow. To change the opacity of a each type of window change the :guilabel:`Opacity` field.
 
 .. image:: picom-window-types.png
 

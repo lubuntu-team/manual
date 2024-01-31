@@ -4,6 +4,8 @@ Okular is the pdf viewer for Lubuntu 24,04
 
 Usage
 -----
+To move the area shown on the screen down press :kbd:`Down arrow` and conversely to move it up use :kbd:`Up arrow`. You can also use the scrollwheel on your mouse to easily move up and down.
+
 
 Version
 -------

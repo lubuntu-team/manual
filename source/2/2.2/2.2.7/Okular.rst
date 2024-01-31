@@ -13,6 +13,8 @@ To zoom out press the :guilabel:`-` button on the toolbar, press :kbd:`Control +
 
 To view pages facing each other like an open book select from :guilabel:`View Mode` :menuselection:`Facing Pages` or :menuselection:`View --> View Mode --> Facing Pages`. To see an open book view with the first page cenetered select :menuselection:`Facing Pages(center first page)` from :guilabel:`View Mode` or :menuselection:`View --> View Mode --> Facing Pages(center first page)`. To view multiple pages at once select :menuselection:`Overview` from :guilabel:`View Mode` or :menuselection:`View --> View Mode --> Overview`. To switch back to viewing one page select :menuselection:`Single Page` from :guilabel:`View Mode` or :menuselection:`View --> View Mode --> Single Page`. To rotate your view to the left :menuselection:`View --> Orientation --> Rotate left`. To rotate your view to the right :menuselection:`View --> Orientation --> Rotate right`. To make your view back to how it was at the start :menuselection:`View --> Orientation --> Original Orientation`.
 
+To select Text press :kbd:`Control + 4`, :menuselection:`Tools --> Text Selection`, or select :menuselection:`Text selection` from the right of the toolbar. To select an area press :kbd:`Cotnrol + 3`, :menuselection:`Tools --> Area Selection`, or select :menuselection:`Area Selection` for the right of the toolbar. To select tables press :kbd:` Control + 5`, :menuselection:`Tools --> Table Selection`, or select :menuselection:`Table Selection` from the right of the toolbar. To switch back to moving the view with mouse :menuselection:`Tools --> Browse`, press :kbd:`Control + 1`, or press the :guilabel:`Browse` button ont he toolbar. 
+
 Version
 -------
 Lubuntu ships with version 23.08.4 of Okular.

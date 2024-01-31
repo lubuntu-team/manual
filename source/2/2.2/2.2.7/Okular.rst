@@ -9,6 +9,8 @@ To move the area shown on the screen down press :kbd:`Down arrow` and conversely
 
 When you fisrt open Okular you can open a file with the :guilabel:`Open Document` button, :menuselection:`File --> Open`, or press :kbd:`Control + O`. To relaod your file if something is changed press :kbd:`F5` or :menuselection:`File --> Reload`. To save a pdf :menuselection:`File --> Save` or press :kbd:`Control +S`. To save a file with a seperate name :menuselection:`File --> Save As` or press :kbd:`Control + Shift +S`. To see info on your file :menuselection:`File --> Properties` or press :kbd:`Alt + Enter`.
 
+To zoom out press the :guilabel:`-` button on the toolbar, press :kbd:`Control + -`, or :menuselection:`View --> Zoom Out`. To zoom in press the :guilabel:`+` button on the toolbar, press :kbd:`Control + +`, or :menuselection:`View --> Zoom in`.
+
 Version
 -------
 Lubuntu ships with version 23.08.4 of Okular.

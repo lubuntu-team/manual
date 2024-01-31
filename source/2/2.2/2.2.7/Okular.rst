@@ -4,7 +4,7 @@ Okular is the pdf viewer for Lubuntu 24,04
 
 Usage
 -----
-To move the area shown on the screen down press :kbd:`Down arrow` and conversely to move it up use :kbd:`Up arrow`. You can also use the scrollwheel on your mouse to easily move up and down. To go to the next page press :kbd:`right arrow`, :menuselection:`Go --> Next Page`, or press press the downward pointing arrow on the toolbar. To go to the previous page press :kbd:`Up arrow`, :menuselection:`Go --> Previous Page`, or the upward pointing arrow on the toolbar.
+To move the area shown on the screen down press :kbd:`Down arrow` and conversely to move it up use :kbd:`Up arrow`. You can also use the scrollwheel on your mouse to easily move up and down. To go to the next page press :kbd:`right arrow`, :menuselection:`Go --> Next Page`, or press press the downward pointing arrow on the toolbar. To go to the previous page press :kbd:`Up arrow`, :menuselection:`Go --> Previous Page`, or the upward pointing arrow on the toolbar. To see what page you are in is in a box between the button for next and previous page on the toolbar. To the right of this box it shows what page this is :guilabel:`of` the total number of pages of the document. To switch to a particular page type in the box in the center of the toolbar, press :kbd:`control +G`, or :menuselection:`Go --> Go to Page`.
 
 
 Version

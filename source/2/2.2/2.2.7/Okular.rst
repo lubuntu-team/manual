@@ -15,6 +15,8 @@ To view pages facing each other like an open book select from :guilabel:`View Mo
 
 To select Text press :kbd:`Control + 4`, :menuselection:`Tools --> Text Selection`, or select :menuselection:`Text selection` from the right of the toolbar. To select an area press :kbd:`Cotnrol + 3`, :menuselection:`Tools --> Area Selection`, or select :menuselection:`Area Selection` for the right of the toolbar. To select tables press :kbd:` Control + 5`, :menuselection:`Tools --> Table Selection`, or select :menuselection:`Table Selection` from the right of the toolbar. To switch back to moving the view with mouse :menuselection:`Tools --> Browse`, press :kbd:`Control + 1`, or press the :guilabel:`Browse` button ont he toolbar. 
 
+To highlight something in yellow press :kbd:`1` or select :menuselection:`Yellow highlighter` from the drop down of the far right of the toolbar. To highlight in green press :kbd:`2` or select :menuselection:`Green Highlighter` from the menu on the far right of the toolbar. To underline something press :kbd:`3` or select :menuselection:`Underline` from the toolbar on the right.
+
 Version
 -------
 Lubuntu ships with version 23.08.4 of Okular.

@@ -72,7 +72,7 @@ Chapter 2.2 Office applications
 
  2.2.6 LibreOffice Writer
 
- 2.2.7 qpdfview
+ 2.2.7 Okular
 
 Chapter 2.3 Graphics Applications
 ---------------------------------
@@ -180,6 +180,8 @@ Chapter 3.2 Preferences
 3.2.18 Screensaver
 
 3.2.19 Bluetooth Manager
+
+3.2.20 Picom Configuration
 
 ------------------------------------------------------
 Chapter 4 Installing, Updating, and Removing  Software

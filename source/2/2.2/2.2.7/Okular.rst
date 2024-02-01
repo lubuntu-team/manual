@@ -20,7 +20,7 @@ To highlight something in yellow press :kbd:`1` or select :menuselection:`Yellow
 
 .. image:: Okular-annotation.png
 
-To undo an annotation press :kbd:`Control +Z` or :menuselection:`Edit --> Undo`. To redo something you undid press :kbd:`Control + Shift +Z` or :menuselection:`Edit --> Redo`.
+To undo an annotation press :kbd:`Control +Z` or :menuselection:`Edit --> Undo`. To redo something you undid press :kbd:`Control + Shift +Z` or :menuselection:`Edit --> Redo`. To select all press :kbd:`Control + A` or :menuselection:`Edit --> Select All`. To select all text on a current page :menuselection:`Edit --> Select all text on current page`. To copy something you have selected press :kbd:`Control + C` or :menuselection:`Edit --> Copy`.
 
 Version
 -------

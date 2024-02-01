@@ -18,6 +18,8 @@ To select Text press :kbd:`Control + 4`, :menuselection:`Tools --> Text Selectio
 
 To highlight something in yellow press :kbd:`1` or select :menuselection:`Yellow highlighter` from the drop down of the far right of the toolbar. To highlight in green press :kbd:`2` or select :menuselection:`Green Highlighter` from the menu on the far right of the toolbar. To underline something press :kbd:`3` or select :menuselection:`Underline` from the toolbar on the right. To insert a text note into your file press :kbd:`4` or select :menuselection:`Insert Text` from the menu on the right of the toolbar. Then you can click where you want the note and a window will popup you enter your text into. To insert a note inline and not have it be over text making it illegable press :kbd:`5` or select :guilabel:`Inline Note` from the right of the toolbar. Then left click on where you want the note and type the note in the yellow pop up. To have a pop up note press :kbd:`6` or select pop up note from the toolbar on the right. The left click where you want the note and type in the note as you want.
 
+.. image:: Okular-annotation.png
+
 Version
 -------
 Lubuntu ships with version 23.08.4 of Okular.

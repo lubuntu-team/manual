@@ -20,6 +20,8 @@ To highlight something in yellow press :kbd:`1` or select :menuselection:`Yellow
 
 .. image:: Okular-annotation.png
 
+To undo an annotation press :kbd:`Control +Z` or :menuselection:`Edit --> Undo`. To redo something you undid press :kbd:`Control + Shift +Z` or :menuselection:`Edit --> Redo`.
+
 Version
 -------
 Lubuntu ships with version 23.08.4 of Okular.

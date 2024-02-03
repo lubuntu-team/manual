@@ -22,7 +22,7 @@ To highlight something in yellow press :kbd:`1` or select :menuselection:`Yellow
 
 To undo an annotation press :kbd:`Control +Z` or :menuselection:`Edit --> Undo`. To redo something you undid press :kbd:`Control + Shift +Z` or :menuselection:`Edit --> Redo`. To select all press :kbd:`Control + A` or :menuselection:`Edit --> Select All`. To select all text on a current page :menuselection:`Edit --> Select all text on current page`. To copy something you have selected press :kbd:`Control + C` or :menuselection:`Edit --> Copy`.
 
-On the left side of the window Okular has a sidebar. The leftmost tab has thumbnails of the pages of your document. The shaded part of the thumbnail shows the part of the page that is displayed. At the bottom of the thumbnail is a page number. To switch to a page with the sidebar left click on that page.
+On the left side of the window Okular has a sidebar. The leftmost tab has thumbnails of the pages of your document. The shaded part of the thumbnail shows the part of the page that is displayed. At the bottom of the thumbnail is a page number. To switch to a page with the sidebar left click on that page. The middle tab of the sidebar shows annotation. To search through your annotations look into :guilabel:`Search` bar. To have the page shown in the tree of what press the leftmost button on the bottom that looks like a page. To show who made the comment press the button that looks like a person. To jump to an annotation simply left click on it. To open all annotation press the downward pointing arrow on the bottom right. To collapse all annotations press the upward pointing arrow.
 
 Version
 -------

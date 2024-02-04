@@ -28,6 +28,8 @@ To search through your document press :kbd:`Control + F` or :menuselection:`Edit
 
 .. image:: okular-find.png
 
+To go all the way to the beigining press :kbd:`Control + Home` or :menuselection:`Go --> Beginning of Document`. To go all the way to the end of the document :kbd:`Control + End` or :menuselection:`Go --> End of Document`.
+
 Version
 -------
 Lubuntu ships with version 23.08.4 of Okular.

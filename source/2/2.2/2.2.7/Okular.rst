@@ -26,6 +26,8 @@ On the left side of the window Okular has a sidebar. The leftmost tab has thumbn
 
 To search through your document press :kbd:`Control + F` or :menuselection:`Edit --> Find`. To type in the bar in the bottom what you want to search for. To get to the next result press :kbd:`F3`, the :guilabel:`Find` button on the bottom, or :menuselection:`Edit --> Find Next`. To go to your previous search result press :kbd:`Shift + F3`, the :guilabel:`Previous` button on the bottom, or :menuselection:` Edit --> Find Previous`. To make searching case sensetive press the :guilabel:`Options` button and check the :menuselection:`Case sensitive` checkbox. To start searching at your current page left click on the :guilabel:`Options` button and check the :menuselection:`From current page` checkbox. To start searching as you type press the :guilabel:`Options` button and check the :menuselection:`Find as you type` checkbox. To close find press the :guilabel:`x` button.
 
+.. image:: okular-find.png
+
 Version
 -------
 Lubuntu ships with version 23.08.4 of Okular.

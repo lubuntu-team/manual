@@ -28,7 +28,7 @@ To search through your document press :kbd:`Control + F` or :menuselection:`Edit
 
 .. image:: okular-find.png
 
-To go all the way to the beigining press :kbd:`Control + Home` or :menuselection:`Go --> Beginning of Document`. To go all the way to the end of the document :kbd:`Control + End` or :menuselection:`Go --> End of Document`. To go back after changing pages :menuselection:`Go --> Back`. Then to go forward from where you were :menuselection:`Go --> Forward`.
+To go all the way to the beigining press :kbd:`Control + Home` or :menuselection:`Go --> Beginning of Document`. To go all the way to the end of the document :kbd:`Control + End` or :menuselection:`Go --> End of Document`. To go back after changing pages :menuselection:`Go --> Back`. Then to go forward from where you were :menuselection:`Go --> Forward`. To show a magnifier for Okular press :kbd:`Control +6` or :menuselection:`Tools --> Magnifier`. Then left click over where you want to have magnified. 
 
 Version
 -------

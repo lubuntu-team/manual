@@ -53,4 +53,4 @@ To Congifure Okular press :kbd:`Control + Shift + ,` or :menuselection:`Settting
 
 .. image:: Okular-config-general.png
 
-To have tabs for opening new files check the :guilabel:`Open new files in tabs`. checkbox. 
+To have tabs for opening new files check the :guilabel:`Open new files in tabs`. checkbox. To switch to an existing tab if the file is already open check the :guilabel:`Switch to existing tab if file is already open` checkbox.

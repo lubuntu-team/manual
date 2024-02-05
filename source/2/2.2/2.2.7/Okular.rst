@@ -49,4 +49,4 @@ from the command line.
 
 Customizing
 -----------
-To Congifure Okular press :kbd:`Control + Shift + ,` or :menuselection:`Setttings --> Configure Okular`. The :guilabel:`General` tab has settings for files and how to display things. To use smooth scrolling check the :guilabel:`Use smooth scrolling` checkbox. To have tabs for opening new files check the :guilabel:`Open new files in tabs`. checkbox. 
+To Congifure Okular press :kbd:`Control + Shift + ,` or :menuselection:`Setttings --> Configure Okular`. The :guilabel:`General` tab has settings for files and how to display things. To use smooth scrolling check the :guilabel:`Use smooth scrolling` checkbox. To hide scrollbars on Okular uncheck the :guilabel:`Show scrollbars` checkbox. To have clicking on thumbnails of a page link to that page check the :guilabel:`Link the thumbnails with the page` checkbox. To have tabs for opening new files check the :guilabel:`Open new files in tabs`. checkbox. 

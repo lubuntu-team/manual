@@ -46,3 +46,7 @@ To launch Okular :menuselection:`Internet --> Okular` or run
    okular
    
 from the command line.
+
+Customizing
+-----------
+To Congifure Okular press :kbd:`Control + Shift + ,` or :menuselection:`Setttings --> Configure Okular`. The :guilabel:`General` tab has settings for files and how to display things. To use smooth scrolling check the :guilabel:`Use smooth scrolling` checkbox. To have tabs for opening new files check the :guilabel:`Open new files in tabs`. checkbox. 

@@ -69,6 +69,6 @@ To have settings for your presentation use the :guilabel:`Presenetation` tab. To
 
 To change settings for Annotations in Okular sue the :guilabel:`Annotations` tab. To switch how many things to be on the annotations toolbar use the :guilabel:`Annotation toolbar` menu. To change your name for annotations change the :guilabel:`Author` field. To make a custom new annotation press the :guilabel:`Add button`. To change an existing annoatation press the :guilabel:`Edit` button. To delete and annotation press the :guilabel:`Remove` button. To move an annotation down press the :guilabel:`Move Down` button. To move an annoatation back up press the :guilabel:`Move Up` button.
 
- 
+.. image:: Okular-annotations-pref.png
 
 

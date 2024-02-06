@@ -57,6 +57,8 @@ To have tabs for opening new files check the :guilabel:`Open new files in tabs`.
 
 The :guilabel:`Accessability` tab has settings making this easier to read. To draw borders around links check the :guilabel:`Draw borders around links` checkbox. To change how the colors appear check the :guilabel:`Change colors` checkbox. To change how the colors appear use the :guilabel:`Color mode` menu.
 
+.. image:: Okular-accessibility.png
+
 To change how Okular performs use the :guilabel:`Performance` tab. To use less CPU uncheck the :guilabel:`Enable transparency effects` checkbox. To change how much memory Okular uses change the :guilabel:`Memory usage` menu. To enable text antialiasing for Okular check the :guilabel:`Enable text antialias` checkbox. To have antialiasing on the graphics check the :guilabel:`Enable graphics antialias` checkbox. To have font hinting in the text check the :guilabel:`Enable text hinting` checkbox.
 
 To have settings for your presentation use the :guilabel:`Presenetation` tab. To change the transition of Okular use the :guilabel:`Defualt transition` menu. To choose which screen to present on by default use the :guilabel:`Prefered Screen` menu. 

@@ -61,6 +61,8 @@ The :guilabel:`Accessability` tab has settings making this easier to read. To dr
 
 To change how Okular performs use the :guilabel:`Performance` tab. To use less CPU uncheck the :guilabel:`Enable transparency effects` checkbox. To change how much memory Okular uses change the :guilabel:`Memory usage` menu. To enable text antialiasing for Okular check the :guilabel:`Enable text antialias` checkbox. To have antialiasing on the graphics check the :guilabel:`Enable graphics antialias` checkbox. To have font hinting in the text check the :guilabel:`Enable text hinting` checkbox.
 
+.. image:: Okular-performance.png
+
 To have settings for your presentation use the :guilabel:`Presenetation` tab. To change the transition of Okular use the :guilabel:`Defualt transition` menu. To choose which screen to present on by default use the :guilabel:`Prefered Screen` menu. 
 
 To change settings for Annotations in Okular sue the :guilabel:`Annotations` tab. To switch how many things to be on the annotations toolbar use the :guilabel:`Annotation toolbar` menu. To change your name for annotations change the :guilabel:`Author` field. To make a custom new annotation press the :guilabel:`Add button`. To change an existing annoatation press the :guilabel:`Edit` button. To delete and annotation press the :guilabel:`Remove` button. To move an annotation down press the :guilabel:`Move Down` button. To move an annoatation back up press the :guilabel:`Move Up` button.

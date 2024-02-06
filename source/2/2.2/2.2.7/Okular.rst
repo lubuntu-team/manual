@@ -54,3 +54,5 @@ To Congifure Okular press :kbd:`Control + Shift + ,` or :menuselection:`Settting
 .. image:: Okular-config-general.png
 
 To have tabs for opening new files check the :guilabel:`Open new files in tabs`. checkbox. To switch to an existing tab if the file is already open check the :guilabel:`Switch to existing tab if file is already open` checkbox. To not obey DRM limitations uncheck the :guilabel:`Obey DRM limitations` checkbox. To reload a file if the file changes check the :guilabel:`Reload on file change` checkbox. To display right to left text check the :guilabel:`Right to left reading direction` checkbox. To not load in continous view by default uncheck the :guilabel:`Opn in continous mode by default` checkbox. To choose your default zoom change the :guilabel:`Default zoom` field.
+
+The :guilabel:`Accessability` tab has settings making this easier to read. To draw borders around links check the :guilabel:`Draw borders around links` checkbox. To change how the colors appear check the :guilabel:`Change colors` checkbox. To change how the colors appear use the :guilabel:`Color mode` menu.

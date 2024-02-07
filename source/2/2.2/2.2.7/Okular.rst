@@ -32,7 +32,9 @@ To go all the way to the beginning press :kbd:`Control + Home` or :menuselection
 
 Then to go forward from where you were :menuselection:`Go --> Forward`. To show a magnifier for Okular press :kbd:`Control +6` or :menuselection:`Tools --> Magnifier`. Then left click over where you want to have magnified. To zoom on a particular area press :kbd:`Control+6` or :menuselection:`Tools --> Zoom`. The left click and select which area you want to zoom in on. To zoom back out right click.
 
-To switch to a presentation view press :kbd:`Control + Shift + P` or :menuselection:`View --> Presentation`. To get out of presentation mode press :kbd:`Escape` or move the mouse to the top right corner and left click the quit button. To go forward a slide press :kbd:`Right arrow` or scrolling down with the mousewheel. To go to the previous slide press :kbd:`Left arrow` or scrolling up with the mousewheel. To go to the first slide press :kbd:`Home` and the last slide by pressing :kbd:`End`. To view a toolbar on your presentation move the mouse to the top of the screen.
+To switch to a presentation view press :kbd:`Control + Shift + P` or :menuselection:`View --> Presentation`. To get out of presentation mode press :kbd:`Escape` or move the mouse to the top right corner and left click the quit button. To go forward a slide press :kbd:`Right arrow` or scrolling down with the mousewheel. To go to the previous slide press :kbd:`Left arrow` or scrolling up with the mousewheel. To go to the first slide press :kbd:`Home` and the last slide by pressing :kbd:`End`. 
+
+To view a toolbar on your presentation move the mouse to the top of the screen. The toolbar can go to the previous slide with the left pointing arrow and the next slide with the right pointing arrow. To go to a particular slide type the page number in the box. To autoadvance slides press the play button. To pause autoadvancing slide press the pause button.
 
 Version
 -------

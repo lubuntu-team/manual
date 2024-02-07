@@ -1,6 +1,6 @@
 Chapter 2.2.7 Okular
 ====================
-Okular is the pdf viewer for Lubuntu 24,04 
+Okular is the pdf viewer for Lubuntu 24.04 
 
 Usage
 -----
@@ -28,7 +28,7 @@ To search through your document press :kbd:`Control + F` or :menuselection:`Edit
 
 .. image:: okular-find.png
 
-To go all the way to the beigining press :kbd:`Control + Home` or :menuselection:`Go --> Beginning of Document`. To go all the way to the end of the document :kbd:`Control + End` or :menuselection:`Go --> End of Document`. To go back after changing pages :menuselection:`Go --> Back`. 
+To go all the way to the beginning press :kbd:`Control + Home` or :menuselection:`Go --> Beginning of Document`. To go all the way to the end of the document :kbd:`Control + End` or :menuselection:`Go --> End of Document`. To go back after changing pages :menuselection:`Go --> Back`. 
 
 Then to go forward from where you were :menuselection:`Go --> Forward`. To show a magnifier for Okular press :kbd:`Control +6` or :menuselection:`Tools --> Magnifier`. Then left click over where you want to have magnified. To zoom on a particular area press :kbd:`Control+6` or :menuselection:`Tools --> Zoom`. The left click and select which area you want to zoom in on. To zoom back out right click.
 
@@ -49,13 +49,13 @@ from the command line.
 
 Customizing
 -----------
-To Congifure Okular press :kbd:`Control + Shift + ,` or :menuselection:`Setttings --> Configure Okular`. The :guilabel:`General` tab has settings for files and how to display things. To use smooth scrolling check the :guilabel:`Use smooth scrolling` checkbox. To hide scrollbars on Okular uncheck the :guilabel:`Show scrollbars` checkbox. To have clicking on thumbnails of a page link to that page check the :guilabel:`Link the thumbnails with the page` checkbox. To hide the hints and info messages uncheck the :guilabel:`Show hints and info messages` checkbox. To have notifications about embeded files forms or signatures check the :guilabel:`Notify about embeded files, forms, or signatures` checkbox. To show the document title in the window titlebar check the :guilabel:`Dispaly document title in titlebar if available` checkbox. To choose what to do when you don't have a document title use the :guilabel:`When not displaying document title` drop down menu. To choose a custom background color check the :guilabel:`Use custom background color` checkbox. Then left click on the to the right to pick your background color.
+To Configure Okular press :kbd:`Control + Shift + ,` or :menuselection:`Settings --> Configure Okular`. The :guilabel:`General` tab has settings for files and how to display things. To use smooth scrolling check the :guilabel:`Use smooth scrolling` checkbox. To hide scrollbars on Okular uncheck the :guilabel:`Show scrollbars` checkbox. To have clicking on thumbnails of a page link to that page check the :guilabel:`Link the thumbnails with the page` checkbox. To hide the hints and info messages uncheck the :guilabel:`Show hints and info messages` checkbox. To have notifications about embedded files forms or signatures check the :guilabel:`Notify about embedded files, forms, or signatures` checkbox. To show the document title in the window titlebar check the :guilabel:`Display document title in titlebar if available` checkbox. To choose what to do when you don't have a document title use the :guilabel:`When not displaying document title` drop down menu. To choose a custom background color check the :guilabel:`Use custom background color` checkbox. Then left click on the to the right to pick your background color.
 
 .. image:: Okular-config-general.png
 
-To have tabs for opening new files check the :guilabel:`Open new files in tabs`. checkbox. To switch to an existing tab if the file is already open check the :guilabel:`Switch to existing tab if file is already open` checkbox. To not obey DRM limitations uncheck the :guilabel:`Obey DRM limitations` checkbox. To reload a file if the file changes check the :guilabel:`Reload on file change` checkbox. To display right to left text check the :guilabel:`Right to left reading direction` checkbox. To not load in continous view by default uncheck the :guilabel:`Opn in continous mode by default` checkbox. To choose your default zoom change the :guilabel:`Default zoom` field.
+To have tabs for opening new files check the :guilabel:`Open new files in tabs`. checkbox. To switch to an existing tab if the file is already open check the :guilabel:`Switch to existing tab if file is already open` checkbox. To not obey DRM limitations uncheck the :guilabel:`Obey DRM limitations` checkbox. To reload a file if the file changes check the :guilabel:`Reload on file change` checkbox. To display right to left text check the :guilabel:`Right to left reading direction` checkbox. To not load in continuous view by default uncheck the :guilabel:`Open in continuous mode by default` checkbox. To choose your default zoom change the :guilabel:`Default zoom` field.
 
-The :guilabel:`Accessability` tab has settings making this easier to read. To draw borders around links check the :guilabel:`Draw borders around links` checkbox. To change how the colors appear check the :guilabel:`Change colors` checkbox. To change how the colors appear use the :guilabel:`Color mode` menu.
+The :guilabel:`Accessibility` tab has settings making this easier to read. To draw borders around links check the :guilabel:`Draw borders around links` checkbox. To change how the colors appear check the :guilabel:`Change colors` checkbox. To change how the colors appear use the :guilabel:`Color mode` menu.
 
 .. image:: Okular-accessibility.png
 
@@ -63,11 +63,11 @@ To change how Okular performs use the :guilabel:`Performance` tab. To use less C
 
 .. image:: Okular-performance.png
 
-To have settings for your presentation use the :guilabel:`Presenetation` tab. To change the transition of Okular use the :guilabel:`Defualt transition` menu. To choose which screen to present on by default use the :guilabel:`Prefered Screen` menu. 
+To have settings for your presentation use the :guilabel:`Presentation` tab. To change the transition of Okular use the :guilabel:`Default transition` menu. To choose which screen to present on by default use the :guilabel:`Preferred Screen` menu. 
 
 .. image:: Okular-Presentation.png
 
-To change settings for Annotations in Okular sue the :guilabel:`Annotations` tab. To switch how many things to be on the annotations toolbar use the :guilabel:`Annotation toolbar` menu. To change your name for annotations change the :guilabel:`Author` field. To make a custom new annotation press the :guilabel:`Add button`. To change an existing annoatation press the :guilabel:`Edit` button. To delete and annotation press the :guilabel:`Remove` button. To move an annotation down press the :guilabel:`Move Down` button. To move an annoatation back up press the :guilabel:`Move Up` button.
+To change settings for Annotations in Okular sue the :guilabel:`Annotations` tab. To switch how many things to be on the annotations toolbar use the :guilabel:`Annotation toolbar` menu. To change your name for annotations change the :guilabel:`Author` field. To make a custom new annotation press the :guilabel:`Add button`. To change an existing annotation press the :guilabel:`Edit` button. To delete and annotation press the :guilabel:`Remove` button. To move an annotation down press the :guilabel:`Move Down` button. To move an annotation back up press the :guilabel:`Move Up` button.
 
 .. image:: Okular-annotations-pref.png
 

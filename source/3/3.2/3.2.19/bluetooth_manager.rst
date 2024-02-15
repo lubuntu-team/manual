@@ -12,7 +12,7 @@ To pair with a device press the :guilabel:`Key` button. After paiting for the fi
 
 To change settings on wheter your bluetooth is visible to other devices or your name on bluetooth select :menuselection:`Adapter --> Prefrences`. To make your bluetooth not show up when other people are selecting bluetooth devices to connect to select :guilabel:`Hidden`. To have your bluetooth adapter show up whenever anyone searches select :guilabel:`Always visible`. To have your bluetooth appear for a short amount of time select :guilabel:`Temporarily Visible` and then use the slider to select the amount of time to make the adapter visible. To change the name you show up on wifi type your name in the :guilabel:`Name` field.
 
-To transfer a file over bluetooth press the :guilabel:`Send file` button. Then a file picker will pop up to select the file. The recipent of the file may be prompted to need to accept the file.
+To transfer a file over bluetooth press the :guilabel:`Send file` button or right click the adapater and select :menuselection:`Send a file`. Then a file picker will pop up to select the file. The recipent of the file may be prompted to need to accept the file.
 
 To connect to a saved bluetooth device left click to select the device and :menuselection:`Device --> Connect`.  To cancel a connection press the :guilabel:`X` button. To view info on a paired device :menuselection:`Device --> Info`. To block a device :menuselection:`Device --> Block`. To disconnect a device :menuselection:`Device --> Disconnect`. To rename a bluetooth device :menuselection:`Device ---> Rename device` and type in what you want and press :guilabel:`OK`.
 

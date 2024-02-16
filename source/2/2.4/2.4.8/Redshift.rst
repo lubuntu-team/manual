@@ -5,7 +5,7 @@ Redhsift allows you to change your color temperature and have your color tempera
 
 Usage
 -----
-To suspend using Redshift left click on the the tray icon that looks like a light bulb and check the :menuselection:`Suspended` checkbox. If redshift is suspended the tray icon will appear grayed out and will be a brighter white if Redshift is active. To read information about your settings for color temperature and your location left click on the light bulb tray icon and select :menuselection:`Show info`. To quite Redshift left click the tray icon and select :menuselection:`Quit`.
+To suspend using Redshift right click on the the tray icon that looks like a light bulb and check the :menuselection:`Suspended` checkbox. If redshift is suspended the tray icon will appear grayed out and will be a brighter white if Redshift is active. To read information about your settings for color temperature and your location left click on the light bulb tray icon and select :menuselection:`Show info`. To quit Redshift right click the tray icon and select :menuselection:`Quit`.
 
 .. image:: redshift.png
 

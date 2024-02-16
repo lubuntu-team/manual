@@ -7,6 +7,8 @@ Usage
 -----
 To suspend using Redshift right click on the the tray icon that looks like a light bulb and check the :menuselection:`Suspended` checkbox or left click on the tray icon. If redshift is suspended the tray icon will appear grayed out and will be a brighter white if Redshift is active. To reactivate redshift left click on the tray icon again or right click and uncheck the :guilabel:`Suspended` checkbox. To read information about your settings for color temperature and your location left click on the light bulb tray icon and select :menuselection:`Show info`. To quit Redshift right click the tray icon and select :menuselection:`Quit`.
 
+To suspend Redshift for an amount of time by right clicking on the tray icon. To suspend Redshift for 10 minutes right click on the tray icon and select :menuselection:`Suspend for 10 minutes`. To suspend Redshift for 1 hour right click and select :menuselection:`Suspend for 1 hour`. To suspend Redshift for 2 hours right click and select :menuselection:`Suspend for 2 hours`.
+
 .. image:: redshift.png
 
 .. image:: redshift-info.png

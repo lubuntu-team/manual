@@ -24,7 +24,7 @@ To change turning the screen off and if to enter standby or suspend use the sett
 
 .. image:: screensaver-advanced.png
 
-To change the settings for how to make your screen blank change the :guilabel:`Blanking` settings. To have your screen fade to black when blanking check the :guilabel:`Fade to Black when Blanking` checkbox. To have your screen fade back in from screen blanking check the :guilabel:`Fade from Black When Unblanking`. To change how fast your screen fades change the :guilabel:`Fade Duration` field. 
+To change the settings for how to make your screen blank change the :guilabel:`Blanking` settings. To have your screen fade to black when blanking check the :guilabel:`Fade to Black when Blanking` checkbox. To have your screen fade back in from screen blanking check the :guilabel:`Fade from Black When Unblanking`. To change how fast your screen fades change the :guilabel:`Fade Duration` field. To change the themeing on where you unlock and log back in after your screensaver change the :guilabel:`Theme` drop down. To preview your theme press the :guilabel:`Preview` button.
 
 Version
 -------

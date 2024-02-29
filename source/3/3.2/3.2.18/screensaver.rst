@@ -28,7 +28,7 @@ To change the settings for how to make your screen blank change the :guilabel:`B
 
 Version
 -------
-Lubuntu ships with version 6.02 of Screensaver
+Lubuntu ships with version 6.08 of Screensaver
 
 How to Launch
 -------------

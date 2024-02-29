@@ -1,4 +1,4 @@
-Chapter 3.2.18 Printers
+Chapter 3.2.17 Printers
 =======================
 
 Printers allows you to configure your printer(s) and shows your print queue.

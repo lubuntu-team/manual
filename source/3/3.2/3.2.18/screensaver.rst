@@ -32,7 +32,7 @@ Lubuntu ships with version 6.08 of Screensaver
 
 How to Launch
 -------------
-To launch Screensaver from the menu :menuselection:`Preferences --> Screensaver` or run
+To launch Screensaver from the menu :menuselection:`Preferences --> XScreensaver Settings` or run
 
 .. code:: 
 

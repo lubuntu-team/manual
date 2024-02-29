@@ -11,7 +11,7 @@ To change your screensaver to a different screensaver left click on the name of 
 
 .. image:: screensaver.png
 
-If you try to select a screensaver that is not installed it will not show on the right hand side of the window. To preview a screensaver as when it would be activated press the :guilabel:`Preview` button. To see more settings for each individual screensaver press the :guilabel:`Settings` button.
+If you try to select a screensaver that is not installed it will not show on the right hand side of the window. To see credit and a summary of what each screensaver is read the text under the preview of the screensaver. To preview a screensaver as when it would be activated press the :guilabel:`Preview` button. To see more settings for each individual screensaver press the :guilabel:`Settings` button.
 
 To make the screen blank :menuselection:`File --> Blank Screen Now`. To lock your Screen :menuselection:`File --> Lock Screen Now`. If you want to kill the daemon :menuselection:`File --> Kill Daemon`. To restart the screensaver daemon :menuselection:`File --> Restart Daemon`. To restart xscreensaver :menuselection:`File --> Restart Daemon`.  
 

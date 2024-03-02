@@ -113,3 +113,9 @@ To go back on all your changes to the previous state press the :guilabel:`Revert
 In the center of the manual partitioning window shows you what name of the partition is. What type of filesystem is displayed in the :guilabel:`File System` column. To see where your partition is mounted are shown in the :guilabel:`Mount Point` column. The size of the system is shown in the :guilabel:`Size` Column.
 
 The top of the manual partitioning window shows a visual bar showing size of your partitions on top. Below it shows each partition on your drive with the color it is in the bar graph and the size of the partition.
+
+
+OEM Installs
+------------
+
+To install Lubuntu in an OEM mode for distributing to someone else :menuselection:`System Tools --> Install Lubuntu 24.04 LTS (OEM mode)`. Then you will be asked if you are sure you want to install in oem mode and to actually install in oem mode press the :guilabel:`Yes` button. Then the installer will say have a welcome screen that will say it is in oem mode will show up. 

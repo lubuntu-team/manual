@@ -121,3 +121,7 @@ OEM Installs
 To install Lubuntu in an OEM mode for distributing to someone else :menuselection:`System Tools --> Install Lubuntu 24.04 LTS (OEM mode)`. Then you will be asked if you are sure you want to install in oem mode and to actually install in oem mode press the :guilabel:`Yes` button. Then the installer will say have a welcome screen that will say it is in oem mode will show up. To change what langauge to use for installation use the drop down bar under :guilabel:`OEM installation mode`. To move to the next step of installation press the :guilabel:`Next` button.
 
 .. image:: oem-install-welcome.png
+
+To set a name for what to call this preinstalled system you are installing to ship to someone enter that in the :guilabel:`Batch` field. To move to the next part press :guilabel:`Next` To go back to welcome press the :guilabel:`Back` button.
+
+

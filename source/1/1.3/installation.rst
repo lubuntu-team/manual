@@ -122,6 +122,6 @@ To install Lubuntu in an OEM mode for distributing to someone else :menuselectio
 
 .. image:: oem-install-welcome.png
 
-To set a name for what to call this preinstalled system you are installing to ship to someone enter that in the :guilabel:`Batch` field. To move to the next part press :guilabel:`Next` To go back to welcome press the :guilabel:`Back` button.
+To set a name for what to call this preinstalled system you are installing to ship to someone enter that in the :guilabel:`Batch` field. To move to the next part press :guilabel:`Next` To go back to welcome press the :guilabel:`Back` button. Then the :guilabel:`Location`, :guilabel:`Keyboard`, :guilabel:`Customize`, and :guilabel:`Partitions` sections are the same as a normal installation. 
 
 

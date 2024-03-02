@@ -124,6 +124,10 @@ To install Lubuntu in an OEM mode for distributing to someone else :menuselectio
 
 To set a name for what to call this preinstalled system you are installing to ship to someone enter that in the :guilabel:`Batch` field. To move to the next part press :guilabel:`Next` To go back to welcome press the :guilabel:`Back` button. Then the :guilabel:`Location`, :guilabel:`Keyboard`, :guilabel:`Customize`, and :guilabel:`Partitions` sections are the same as a normal installation. Then for the oem install you will not be able to make a username as the end user you ship to will use that. To choose a hostname enter in the :guilabel:`What is the name of this computer?` field. Then you will enter a password twice with :guilabel:`Choose a Password to kepp your accoutn safe` field. To have your oem install log in automatically check the :guilabel:`Log in automatically without asking for the password` checkbox. To move to the next part of installation press the :guilabel:`Next` button.
 
+.. image:: oem-users.png
+
+Then a summary screen shows what settings are for your users. To actually begin installing press the :guilabel:`Install` button.
+
 
 
 

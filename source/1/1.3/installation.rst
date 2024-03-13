@@ -46,6 +46,8 @@ Pick which particular additional applications you wish to install there are chec
 
 To go to the next part of installation press the :guilabel:`Next` button. To go to selecting your keyboard again press the :guilabel:`Back` button.
 
+.. image:: customizing.png
+
 Setting up partitions
 ---------------------
 

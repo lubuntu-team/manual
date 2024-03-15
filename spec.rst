@@ -209,6 +209,18 @@ Chapter 5 Panel Desktop and Runner
 
 5.5 keyboard menu navigation
 
+---------------------------------
+Chapter 6 Additional Applications
+---------------------------------
+
+6.1 Element
+
+6.2 Thunderbird
+
+6.3 Virtual Machine Manager
+
+6.4 Krita
+
 -----------
 Appendicies
 -----------

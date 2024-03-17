@@ -15,7 +15,7 @@ The :guilabel:`General` tab has settings for turning off, rebooting, and keyboar
 
 .. image:: sddm-general.png
 
-The :guilabel:`Theme` tab has settings for your theming SDDM. To change your theme name change the current :guilabel:`Current theme name` drop down. To get more themes install packages with sddm-theme in the name. To preview your theme press the :guilabel:`Preview` button. To choose a cursor theme for SDDM use the :guilabel:`Cursor theme used in the greeter` field. To change where to look for SDDM themes use the :guilabel:`Theme directory path` field. To use custom user avatars check the :guilabel:`Enable display of custom user avatars` checkbox. To change where to look for user avatar faces use change the :guilabel:`Global directory for user avatars` field.
+The :guilabel:`Theme` tab has settings for your theming SDDM. To change your theme name change the current :guilabel:`Current theme name` drop down. To get more themes install packages with sddm-theme in the name. To preview your theme press the :guilabel:`Preview` button. To close your theme preview press the :guilabel:`Close Preview` button. To choose a cursor theme for SDDM use the :guilabel:`Cursor theme used in the greeter` field. To change where to look for SDDM themes use the :guilabel:`Theme directory path` field. To use custom user avatars check the :guilabel:`Enable display of custom user avatars` checkbox. To change where to look for user avatar faces use change the :guilabel:`Global directory for user avatars` field.
 
 .. image:: sddm-theme.png
 

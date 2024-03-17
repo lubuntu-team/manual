@@ -19,6 +19,15 @@ To suspend Redshift for an amount of time by right clicking on the tray icon. To
    
 To read information about your settings for color temperature and your location left click on the light bulb tray icon and select :menuselection:`Show info`. To see what color temperatures at day and night read the :guilabel:`Temperatures` field. To view the longitude and latitude Redshift is using read the :guilabel:`Location` field. To see your current brighness read the :guilabel:`Brightness` field. To see what what the current color temperature your display is using read the :guilabel:`Color temperature` field.
 
+To view info on how to change more settings like a manual location setting or changing the color temperature more or less read the redshift man page. To view this manpage run 
+
+
+.. code:: 
+
+    man redshift
+    
+from the command line. 
+
 Version
 -------
 Lubuntu ships with version 0.6.3 of Redshift

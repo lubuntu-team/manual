@@ -138,6 +138,8 @@ To have a set of eyes that look towards where the mouse cursor is add the :guila
 
 .. image:: QEyes.png
 
+To change settings on keyboard state indicator right click and select :menuselection:`Configure Keyboard State Indicator` or press the :guilabel:`...` button on configuring the panel on :guilabel:`Keyboard State Indicator`.
+
 To bring up settings on how to configure QEyes is to right click on the eye and select :menuselection:`Configure Qeyes`. To change how many eyes appear on the panel change the :guilabel:`Number of eyes` field. To change the theme of the eyes change the :guilabel:`Type` field.
 
 .. image:: QEyes-pref.png

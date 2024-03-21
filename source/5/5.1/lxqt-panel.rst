@@ -116,6 +116,8 @@ To add two or more panels right click on the panel and :menuselection:`Add New P
 Non-Default widgets
 -------------------
 
+To add an easy way to change brightness to your panel add the :guilabel:`Backlight` widget. To bring the applet to change backlight level left click on the icon. To make the backlight more faint drag the slider to the bottom and to make it brighter drag the slider towards the top.
+
 To have a bar that shows CPU Load shows a bar graph with your CPU usage. To bring up settings for your CPU usage is right click on the CPU bar :menuselection:`Configure CPU Monitor`. The :guilabel:`Show text` checkbox shows a number for CPU usage. The field for :guilabel:`Update interval` is how often to update your CPU usage. The :guilabel:`Bar orientation` says what side to start the bar graph. The :guilabel:`Bar width` is how many pixels wide to make the bar graph. If you want to reset your changes press the :guilabel:`Reset` button.
 
 .. image:: CPU-load-settings.png
@@ -150,7 +152,7 @@ To add a spacer to your panel add the spacer widget. It creates a blank space on
 
 .. image:: panel-spacer.png
 
-To add an easy way to change brightness to your panel add the :guilabel:`Backlight` widget. To bring the applet to change backlight level left click on the icon. To make the backlight more faint drag the slider to the bottom and to make it brighter drag the slider towards the top.
+
 
 Version
 -------

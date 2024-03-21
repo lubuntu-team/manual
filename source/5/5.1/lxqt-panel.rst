@@ -130,7 +130,7 @@ To have a custom command add the :guilabel:`Custom Command` widget. To have this
 
 To change what commands when you click on the custom command is under the :guilabel:`Mouse Commands` heading. To run a command with clicking on the applet enter the command in the :guilabel:`Click` in mouse commands. To run a specific command upon going up on the mouse wheel enter the command in the :guilabel:`Wheel Up` field. To run a specific command with scrolling down on the mousewheel enter the command in the :guilabel:`Wheel Down` field.
 
-To add an applet that can show your current keyboard layout and if capslock, numlock, or scrollock is pressed use the :guilabel:`Keyboard State Indicator` applet. If shown the capslock indicator if shown will have a highlighted :guilabel:`C` to show if you have capslock on. The numlock indicator if shown has the :guilabel:`N` is highlighted. The scrollock indicator if shown will have a highligted :guilabel:`S` to show if scrolllock is on.
+To add an applet that can show your current keyboard layout and if capslock, numlock, or scrollock is pressed use the :guilabel:`Keyboard State Indicator` applet. If shown the capslock indicator if shown will have a highlighted :guilabel:`C` to show if you have capslock on. The numlock indicator if shown has the :guilabel:`N` is highlighted. The scrollock indicator if shown will have a highligted :guilabel:`S` to show if scrolllock is on. Then to the right of your panel shows your current keyboard layout with either text or a flag. 
 
 To have a set of eyes that look towards where the mouse cursor is add the :guilabel:`QEyes` widget. The eyes look towards where the mouse cursor is relative to from the eye.
 

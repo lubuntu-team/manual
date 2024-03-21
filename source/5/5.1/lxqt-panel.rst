@@ -126,11 +126,9 @@ The Color picker is shows what color something is on your screen usually useful 
 
 .. image:: spacer-color-picker.png
 
-To use your sensors widgets which you would have to add manually as shown above. A sensor bar will appear with as many sensors as on your panel. To view the temp as a number mouse over the sensor bar to see what your temperature is in a number in the :guilabel:`Cur` field. Also shown on mouseover is the :guilabel:`Crit` field shows the temperature the sensor should not read above without overheating.
+To have a custom command add the :guilabel:`Custom Command` widget. To have this have meaningful output you need to configure the widget by right clicking on the Custom Command widget and selection :guilabel:`Configure "Custom Command"`. To have the output not rotate when the panel is vertical uncheck the :guilabel:`Autorotate when the panel is vertical` checkbox. To change what output your custom command has left click the button next to :guilabel:`Font`. To type the command you want to run type in the box above and to the right of :guilabel:`Command`. To run the command with bash running the command check the :guilabel:`Run with "bash -c"` checkbox. To change if or how often the command is run on repeat check the :guilabel:`Repeat command after` checkbox and change how often it runs in the field to the right. If the result of the command is an image check the :guilabel:`Command outputs an image` checkbox. To choose an icon for the custom command widget type the path of the icon in :guilabel:`Icon` or press the :guilabel:`Browse` button. To choose just put text on the panel type in the :guilabel:`Text` field. To change the maximum width the output of the text can be type in the :guilabel:`Max Width` field.
 
-To customize the sensors right click on the sensors applet :menuselection:`Configure "Sensors"`. The :guilabel:`Update interval(seconds)` field lets you choose how often in seconds to update the sensors. The :guilabel:`Temperature bar width` field shows how wide to make the bar for your sensors. The :guilabel:`Temperature scale` field lets you select :guilabel:`Celsius` or :guilabel:`Fahrenheit` for your sensors. The checkbox :guilabel:`Warning about high temperature` puts a warning if your temperature gets too high. If you want to reset your settings press the :guilabel:`Reset` button. 
-
-.. image:: sensors-config.png
+To change what commands when you click on the custom command is under the :guilabel:`Mouse Commands` heading. To run a command with clicking on the applet enter the command in the :guilabel:`Click` in mouse commands. To run a specific command upon going up on the mouse wheel enter the command in the :guilabel:`Wheel Up` field. To run a specific command with scrolling down on the mousewheel enter the command in the :guilabel:`Wheel Down` field.
 
 To have a set of eyes that look towards where the mouse cursor is add the :guilabel:`QEyes` widget. The eyes look towards where the mouse cursor is relative to from the eye.
 
@@ -140,9 +138,13 @@ To bring up settings on how to configure QEyes is to right click on the eye and 
 
 .. image:: QEyes-pref.png
 
-To have a custom command add the :guilabel:`Custom Command` widget. To have this have meaningful output you need to configure the widget by right clicking on the Custom Command widget and selection :guilabel:`Configure "Custom Command"`. To have the output not rotate when the panel is vertical uncheck the :guilabel:`Autorotate when the panel is vertical` checkbox. To change what output your custom command has left click the button next to :guilabel:`Font`. To type the command you want to run type in the box above and to the right of :guilabel:`Command`. To run the command with bash running the command check the :guilabel:`Run with "bash -c"` checkbox. To change if or how often the command is run on repeat check the :guilabel:`Repeat command after` checkbox and change how often it runs in the field to the right. If the result of the command is an image check the :guilabel:`Command outputs an image` checkbox. To choose an icon for the custom command widget type the path of the icon in :guilabel:`Icon` or press the :guilabel:`Browse` button. To choose just put text on the panel type in the :guilabel:`Text` field. To change the maximum width the output of the text can be type in the :guilabel:`Max Width` field.
 
-To change what commands when you click on the custom command is under the :guilabel:`Mouse Commands` heading. To run a command with clicking on the applet enter the command in the :guilabel:`Click` in mouse commands. To run a specific command upon going up on the mouse wheel enter the command in the :guilabel:`Wheel Up` field. To run a specific command with scrolling down on the mousewheel enter the command in the :guilabel:`Wheel Down` field.
+To use your sensors widgets which you would have to add manually as shown above. A sensor bar will appear with as many sensors as on your panel. To view the temp as a number mouse over the sensor bar to see what your temperature is in a number in the :guilabel:`Cur` field. Also shown on mouseover is the :guilabel:`Crit` field shows the temperature the sensor should not read above without overheating.
+
+To customize the sensors right click on the sensors applet :menuselection:`Configure "Sensors"`. The :guilabel:`Update interval(seconds)` field lets you choose how often in seconds to update the sensors. The :guilabel:`Temperature bar width` field shows how wide to make the bar for your sensors. The :guilabel:`Temperature scale` field lets you select :guilabel:`Celsius` or :guilabel:`Fahrenheit` for your sensors. The checkbox :guilabel:`Warning about high temperature` puts a warning if your temperature gets too high. If you want to reset your settings press the :guilabel:`Reset` button. 
+
+.. image:: sensors-config.png
+
 
 The :guilabel:`Sensors` tab provides settings for each individual sensor on your processor. To enable/disable each sensor press to the :guilabel:`Enabled` checkbox for each sensor. The :guilabel:`Label` shows a label for each sensor. The :guilabel:`Color` column shows the color for the bar to appear in the panel and you can bring up a dialog to change color by left clicking on the button. To switch to a different chip to set the sensors for change the :guilabel:`Detected chips` menu. 
 
@@ -151,7 +153,6 @@ The :guilabel:`Sensors` tab provides settings for each individual sensor on your
 To add a spacer to your panel add the spacer widget. It creates a blank space on your panel which can separate different items. To change how wide your spacer is change the :guilabel:`Space Width` field to the number of pixels you want the spacer to be wide. The setting for :guilabel:`Space type` selects :menuselection:`lined`, :menuselection:`dotted`, or :menuselection:`invisible` for changing the spacers appearance.
 
 .. image:: panel-spacer.png
-
 
 
 Version

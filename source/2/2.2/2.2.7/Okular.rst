@@ -1,6 +1,6 @@
 Chapter 2.2.7 Okular
 ====================
-Okular is the pdf viewer for Lubuntu 24.04 
+Okular is the PDF viewer for Lubuntu 24.04 
 
 Usage
 -----
@@ -36,7 +36,7 @@ Then to go forward from where you were :menuselection:`Go --> Forward`. To show 
 
 To switch to a presentation view press :kbd:`Control + Shift + P` or :menuselection:`View --> Presentation`. To get out of presentation mode press :kbd:`Escape` or move the mouse to the top right corner and left click the quit button. To go forward a slide press :kbd:`Right arrow` or scrolling down with the mousewheel. To go to the previous slide press :kbd:`Left arrow` or scrolling up with the mousewheel. To go to the first slide press :kbd:`Home` and the last slide by pressing :kbd:`End`. 
 
-To view a toolbar on your presentation move the mouse to the top of the screen. The toolbar can go to the previous slide with the left pointing arrow and the next slide with the right pointing arrow. To go to a particular slide type the page number in the box. To autoadvance slides press the play button. To pause autoadvancing slide press the pause button. To draw on your presentation left click on the color you want to draw with left click on that color and then left click to draw using the mouse. To erase your drawing press the earser button. To entirely erase a drawing press the trash can button. To show which screen to display the presentation on press the screen button and select your screen.
+To view a toolbar on your presentation move the mouse to the top of the screen. The toolbar can go to the previous slide with the left pointing arrow and the next slide with the right pointing arrow. To go to a particular slide type the page number in the box. To autoadvance slides press the play button. To pause autoadvancing slide press the pause button. To draw on your presentation left click on the color you want to draw with left click on that color and then left click to draw using the mouse. To erase your drawing press the eraser button. To entirely erase a drawing press the trash can button. To show which screen to display the presentation on press the screen button and select your screen.
 
 Version
 -------

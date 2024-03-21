@@ -9,7 +9,7 @@ The :guilabel:`Shadow` tab manages how picom draws shadows. To toggle enable cli
 
 .. image:: picom-conf-shadow.png
 
-The :guilabel:`Opacity` tab is for transparency settings. Setting Opacity to 1.00 makes it opaque while 0 makes it entirely clear. Menus, inactive windows, active windows, and titlebars and borders all can have their opacity changed independently. To not change how bright or dim windows are with window opacity check the :guilabel:`Do not let dimness adjust based on window opacity`. The :guilabel:`Blur background of transparent windows` blurs the background of transparent windows. To not change how far a window blurs on window transparency check the :guilabel:`Do not let blur radius adjust based on window opacity`.
+The :guilabel:`Opacity` tab is for transparency settings. Setting Opacity to 1.00 makes it opaque while 0 makes it entirely clear. Menus, inactive windows, active windows, and titlebars and borders can all have their opacity changed independently. To not change how bright or dim windows are with window opacity check the :guilabel:`Do not let dimness adjust based on window opacity`. The :guilabel:`Blur background of transparent windows` blurs the background of transparent windows. To keep windows bluring the same no matter the opacity of the window check :guilabel:`Do not let blur radius adjust based on window opacity` checkbox.
 
 .. image:: picom_conf_opacity.png
 

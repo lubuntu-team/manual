@@ -69,7 +69,7 @@ To change how Okular performs use the :guilabel:`Performance` tab. To use less C
 
 .. image:: Okular-performance.png
 
-To have settings for your presentation use the :guilabel:`Presentation` tab. To have your slides advance automatically check the :guilabel:`Advance automatically` checkbox. To change soon to change slides change the drop down to the right of :guilabel:`Advance automatically`. To change the transition of Okular use the :guilabel:`Default transition` menu. To choose which screen to present on by default use the :guilabel:`Preferred Screen` menu. 
+To have settings for your presentation use the :guilabel:`Presentation` tab. To have your slides advance automatically check the :guilabel:`Advance automatically` checkbox. To change soon to change slides change the drop down to the right of :guilabel:`Advance automatically`. To choose the color of your background choose from the :guilabel:`Background color` field. To change the transition of Okular use the :guilabel:`Default transition` menu. To choose which screen to present on by default use the :guilabel:`Preferred Screen` menu. 
 
 .. image:: Okular-Presentation.png
 

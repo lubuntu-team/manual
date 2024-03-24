@@ -134,11 +134,11 @@ To add an applet that can show your current keyboard layout and if capslock, num
 
 .. image:: keyboard-state-info.png
 
+To change settings on keyboard state indicator right click and select :menuselection:`Configure Keyboard State Indicator` or press the :guilabel:`...` button on configuring the panel on :guilabel:`Keyboard State Indicator`. To hide showing the caps lock uncheck the :guilabel:`Show Caps Lock` checkbox. To hide your numlock indicator uncheck the :guilabel:`Show Num Lock` check. To hide the scroll lock indicator uncheck the :guilabel:`Show Scroll Lock` checkbox.
+
 To have a set of eyes that look towards where the mouse cursor is add the :guilabel:`QEyes` widget. The eyes look towards where the mouse cursor is relative to from the eye. 
 
 .. image:: QEyes.png
-
-To change settings on keyboard state indicator right click and select :menuselection:`Configure Keyboard State Indicator` or press the :guilabel:`...` button on configuring the panel on :guilabel:`Keyboard State Indicator`. To hide showing the caps lock uncheck the :guilabel:`Show Caps Lock` checkbox. To hide your numlock indicator uncheck the :guilabel:`Show Num Lock` check. To hide the scroll lock indicator uncheck the :guilabel:`Show Scroll Lock` checkbox.
 
 To bring up settings on how to configure QEyes is to right click on the eye and select :menuselection:`Configure Qeyes`. To change how many eyes appear on the panel change the :guilabel:`Number of eyes` field. To change the theme of the eyes change the :guilabel:`Type` field.
 

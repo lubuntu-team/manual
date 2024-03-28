@@ -37,6 +37,10 @@ M        Meta key
 H 	     Hyper key (If it is bound to something) 
 ====    ========================
 
+**Turn on Orca screenreader**
+=========================== =========================
+Screenreader                W-A-S
+
 **Keybindings for desktop switching**
 
 ============================= ========================

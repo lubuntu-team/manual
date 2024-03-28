@@ -12,6 +12,8 @@ For users looking to try new features every six months at the expense of the sup
 
 **It is extremely important that if you choose this path, you upgrade to each successive regular release shortly after it comes out.** If you are not comfortable doing this, you should consider using the LTS release instead.
 
+About four months after a new LTS release comes and every 6 months thereafter an **LTS Point Release** is realeased to support new hardware and have less updates to be downloaded with the longer support term of an LTS realease. LTS point releases are released every August and Feburary. Each LTS point release is called 24.04.1 is the first point release for the 24.04 point release.
+
 Ways to download the image
 ---------------------------
 Now that the decision of which release type you need is made, you will need to download the image.

@@ -65,7 +65,8 @@ Shipped widgets not enabled by default:
  - Backlight
  - CPU monitor
  - Color Picker
- - Custom Command
+ - Custom Comman
+ - Keyboard State Indicator
  - Panel DOM Tree
  - Qeyes
  - Sensors

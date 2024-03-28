@@ -31,7 +31,7 @@ The :guilabel:`Authentication` tab manages key files which ensure your downloads
 
 .. image:: sources-auth.png
 
-Submitting statistical data will improve the Ubuntu experience allowing developers to know which software you are downloading anonymously. We urge you to enable this feature but it is disabled by default as Lubuntu has an "Opt-in" philosophy.
+The :guilabel:`Statistics` tab lets you opt in to sending canonical statistical usage information. Submitting statistical data will improve the Ubuntu experience allowing developers to know which software you are downloading anonymously. We urge you to enable this feature but it is disabled by default as Lubuntu has an "Opt-in" philosophy.
 
 To reset changes to software sources press the :guilabel:`Reset` button. If you made changes and close software sources a dialog stating :guilabel:`Your local copy of the software catalog is out of date` and so press the :guilabel:`Reload` button to download a list of packages now from the new sources. 
 

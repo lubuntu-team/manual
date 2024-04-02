@@ -63,9 +63,9 @@ If all you want is Lubuntu on your machine, you can select the :guilabel:`Erase 
    If you had a previous Linux install with a swap partition you will need to unmount the swap. To do this run 
 .. code:: 
 
-   sudo swapoff -a
+   sudo swapoff -a; sudo swapon /dev/zram0
   
-which will unmount them and any swap partitions. This will not work if you have data partition mounted open PCManFM-Qt and press the upward pointed arrow on each partition in the :guilabel:`Places` sidebar to unmount all data partitions. 
+which will unmount them and any swap partitions while still leaving zram enabled. This will not work if you have data partition mounted open PCManFM-Qt and press the upward pointed arrow on each partition in the :guilabel:`Places` sidebar to unmount all data partitions. 
 
 To move back to Selecting your keyboard layout press the :guilabel:`Back` button. To advance to the setting up users press the :guilabel:`Next` button.
 

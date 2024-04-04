@@ -45,13 +45,13 @@ To verify the image, run this from the command line:
 
 .. code:: 
 
- sha256sum lubuntu-22.04-desktop-amd64.iso
+ sha256sum lubuntu-22.04.4-desktop-amd64.iso
 
 and then carefully check that the output matches 
 
 .. code::
 
-  15e7c0b5e0bd1fe3436e7a83d25a26f828694f5a1a6ce81bc4be955ae39ba128 *lubuntu-22.04-desktop-amd64.iso
+  487d43de87f92b463b85724f689658d664e9a0df8ccefcf37a8dd0816bcf8e97 *lubuntu-22.04.4-desktop-amd64.iso
 
 
 Downloading the image via BitTorrent

@@ -1,7 +1,7 @@
 Welcome to the Lubuntu Manual!
 ==============================
 
-Welcome to the Lubuntu Manual! This is the official reference book for using Lubuntu. This manual covers many topics, such as installation instructions, applications Lubuntu provides, and much more!
+Welcome to the Lubuntu Manual! This is the official reference book for using Lubuntu. This manual covers many topics, such as installation instructions, applications Lubuntu provides, and much more! If you are using a long term support release of the Lubuntu there is a manual version for the long term support hosted at `Lubuntu Manual LTS <https://manual.lubuntu.me/lts/>`_
 
 What is Lubuntu?
 ----------------

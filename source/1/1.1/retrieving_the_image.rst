@@ -88,7 +88,7 @@ To download the image using zsync run
 .. code::
 
 
-   zsync http://cdimage.ubuntu.com/lubuntu/releases/jammy/release/lubuntu-22.04-desktop-amd64.iso.zsync
+   zsync http://cdimage.ubuntu.com/lubuntu/releases/22.04.4/release/lubuntu-22.04.4-desktop-amd64.iso.zsync
 
 
 **You have now downloaded the image successfully. Please continue to Chapter 1.2.**

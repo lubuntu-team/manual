@@ -142,3 +142,6 @@ The first section of user setup will ask you what langauge to continue in at the
 
 Next you will need to select your time zone in the :guilabel:`Region` and :guilabel:`Zone` fields with a world map above them to tell you what time it is set to. To set what langauge the system will boot into press the :guilabel:`Change` button next to :guilabel:`The system language will be set to` field. To change how date and number formatting press the :guilabel:`Change` button next to :guilabel:`The numbers and dates locale will be set to` field. To go to the next part of Lubuntu setup press the :guilabel:`Next` button.
 
+.. image:: oem_location.png
+
+

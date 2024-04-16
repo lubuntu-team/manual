@@ -144,4 +144,6 @@ Next you will need to select your time zone in the :guilabel:`Region` and :guila
 
 .. image:: oem_location.png
 
+The next part of setup will have be selecting your keyboard layout. To change the what kind of keyboard model you are using change the :guilabel:`Keyboard model` field. The left column sets the langague of your keyboard while the right column selects a layout for that keyboard. In the bottom left hand corner you type to make sure what you think you are typing matches what is being input. To set a key to change keyboard layout select one from the :guilabel:`Switch keyboard` field. To move on to setup your users press the :guilabel:`Next` button.
+
 

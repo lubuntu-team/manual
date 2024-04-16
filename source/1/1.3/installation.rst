@@ -128,8 +128,11 @@ To set a name for what to call this preinstalled system you are installing to sh
 
 .. image:: oem-users.png
 
-Then a summary screen shows what settings are for your users. To actually begin installing press the :guilabel:`Install` button.
+Then a summary screen shows what settings are for your users. To actually begin installing press the :guilabel:`Install` button and then to confirm that this is what you want press the :guilabel:`Install Now` button.
 
 
+Oem User Setup
+--------------
 
+To setup your user setup for an oem preinstalled system :menuselection:`System Tools ---> Finish OEM prepartion`.
 

@@ -148,4 +148,7 @@ The next part of setup will have be selecting your keyboard layout. To change th
 
 .. image:: oem_keyboard.png
 
+Next is to set up your users for your computer. To then enter your name in the :guilabel:`What is your name` field. To enter your username in the :guilabel:`login` field. Enter your hostname in :guilabel:`What is the name of your computer`. Then type your password twice to make sure you didn't mistype in in the fields under :guilabel:`Choose a password to keep your account safe` field. To login automatically check the :guilabel:`Log in automatically without asking for the password` checkbox.
+
+.. image:: oem_users.png
 

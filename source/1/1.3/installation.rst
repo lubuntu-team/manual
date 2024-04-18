@@ -51,7 +51,7 @@ To go to the next part of installation press the :guilabel:`Next` button. To go 
 Setting up partitions
 ---------------------
 
-If all you want is Lubuntu on your machine, you can select the :guilabel:`Erase disk` button. This will format the disk and **delete all data on the disk**,  which is why having your data backed up before this point is extremely important. If you choose to do this you can continue on to user setup. To change the storage device to install Lubuntu on use the :guilabel:`Select Storage device` drop down menu. To see wheter you are installing in uefi or bios mode is shown in the top left corner of this window. To choose to use a swap file under :guilabel:`Erase disk` keep :menuselection:`Swap to file` or to not use swap choose :menuselection:`No Swap`. To choose which filesystem to use the drop down on the right to choose which filesystem you want to use. If you want to encrypt your drive press the :guilabel:`Encrypt system` checkbox and then you will need to enter the encryption passphrase twice to make sure you have it typed in correctly. It is strongly advised to write down this passphrase and keep it somewhere safe. 
+If all you want is Lubuntu on your machine, you can select the :guilabel:`Erase disk` button. This will format the disk and **delete all data on the disk**,  which is why having your data backed up before this point is extremely important. If you choose to do this you can continue on to user setup. To change the storage device to install Lubuntu on use the :guilabel:`Select Storage device` drop down menu. To see whether you are installing in uefi or bios mode is shown in the top left corner of this window. To choose to use a swap file under :guilabel:`Erase disk` keep :menuselection:`Swap to file` or to not use swap choose :menuselection:`No Swap`. To choose which filesystem to use the drop down on the right to choose which filesystem you want to use. If you want to encrypt your drive press the :guilabel:`Encrypt system` checkbox and then you will need to enter the encryption passphrase twice to make sure you have it typed in correctly. It is strongly advised to write down this passphrase and keep it somewhere safe. 
 
 .. warning::
    Erasing your entire disk or partition may cause you to lose data so please backup beforehand.
@@ -136,15 +136,15 @@ Oem User Setup
 
 To setup your user setup for an oem preinstalled system :menuselection:`System Tools ---> Finish OEM prepartion`. Then you will be asked if you want to finish oem setup and then a wizard will be run next boot. Then press :guilabel:`Yes` to confirm this. Then you will need to reboot to run the user setup.
 
-The first section of user setup will ask you what langauge to continue in at the very bottom. To go to the next part of Lubuntu setup press the :guilabel:`Next` button.
+The first section of user setup will ask you what language to continue in at the very bottom. To go to the next part of Lubuntu setup press the :guilabel:`Next` button.
 
 .. image:: oem_language.png
 
-Next you will need to select your time zone in the :guilabel:`Region` and :guilabel:`Zone` fields with a world map above them to tell you what time it is set to. To set what langauge the system will boot into press the :guilabel:`Change` button next to :guilabel:`The system language will be set to` field. To change how date and number formatting press the :guilabel:`Change` button next to :guilabel:`The numbers and dates locale will be set to` field. To go to the next part of Lubuntu setup press the :guilabel:`Next` button.
+Next you will need to select your time zone in the :guilabel:`Region` and :guilabel:`Zone` fields with a world map above them to tell you what time it is set to. To set what language the system will boot into press the :guilabel:`Change` button next to :guilabel:`The system language will be set to` field. To change how date and number formatting press the :guilabel:`Change` button next to :guilabel:`The numbers and dates locale will be set to` field. To go to the next part of Lubuntu setup press the :guilabel:`Next` button.
 
 .. image:: oem_location.png
 
-The next part of setup will have be selecting your keyboard layout. To change the what kind of keyboard model you are using change the :guilabel:`Keyboard model` field. The left column sets the langague of your keyboard while the right column selects a layout for that keyboard. In the bottom left hand corner you type to make sure what you think you are typing matches what is being input. To set a key to change keyboard layout select one from the :guilabel:`Switch keyboard` field. To move on to setup your users press the :guilabel:`Next` button.
+The next part of setup will have be selecting your keyboard layout. To change the what kind of keyboard model you are using change the :guilabel:`Keyboard model` field. The left column sets the language of your keyboard while the right column selects a layout for that keyboard. In the bottom left hand corner you type to make sure what you think you are typing matches what is being input. To set a key to change keyboard layout select one from the :guilabel:`Switch keyboard` field. To move on to setup your users press the :guilabel:`Next` button.
 
 .. image:: oem_keyboard.png
 
@@ -152,4 +152,4 @@ Next is to set up your users for your computer. To then enter your name in the :
 
 .. image:: oem_users.png
 
-Next step to finalize creating users and keyboard and language setings press the :guilabel:`Set Up` button. At this point you will be asked to confirm because you cannot undo after this step. To continue with all your settings press the :guilabel:`Set Up Now`. Then the users will set up with a slideshow and you will then reboot and then can login to reboot and use Lubuntu is ready to use.
+Next step to finalize creating users and keyboard and language settings press the :guilabel:`Set Up` button. At this point you will be asked to confirm because you cannot undo after this step. To continue with all your settings press the :guilabel:`Set Up Now`. Then the users will set up with a slideshow and you will then reboot and then can login to reboot and use Lubuntu is ready to use.

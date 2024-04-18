@@ -152,4 +152,4 @@ Next is to set up your users for your computer. To then enter your name in the :
 
 .. image:: oem_users.png
 
-Next step to finalize creating users and keyboard and language setings press the :guilabel:`Set Up` button. At this point you will be asked to confirm because you cannot undo after this step. To continue with all your settings press the :guilabel:`Set Up Now`.
+Next step to finalize creating users and keyboard and language setings press the :guilabel:`Set Up` button. At this point you will be asked to confirm because you cannot undo after this step. To continue with all your settings press the :guilabel:`Set Up Now`. Then the users will set up with a slideshow and you will then reboot and then can login to reboot and use Lubuntu is ready to use.

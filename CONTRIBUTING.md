@@ -11,6 +11,7 @@ Before starting, you need a few tools.
   - Debian Buster (10.0) and onwards
   - Ubuntu 20.04 LTS and onwards
   - A text editor with syntax highlighting and spell checking
+  - A screenshot tool
  - The following packages from your Linux distribution's repository:
   - `git`
   - `python3-sphinx`
@@ -33,7 +34,7 @@ After setting up the tools, you should now be ready to start editing files.
 If you look in the `source` directory, you should see some files. There's
 `index.rst`, which is the main page, and some directories and subdirectories
 that are numbers. Those are chapters of the manual, and are listed in the
-`index.rst` file. Chapter 1 deals with downloading and installing Lubuntu. Chapter 2 has to deal with applications for office, web browsers, graphics, games and accesories. Chapter 3 documents programs that change settings. Chapter 4 is programs for installing and updating software. Chapter 5 is for the panel, runner, and window management. Each chapter that begins with a letter is an appendix.
+`index.rst` file. Chapter 1 deals with downloading and installing Lubuntu. Chapter 2 has to deal with applications for office, web browsers, graphics, games and accesories. Chapter 3 documents programs that change settings. Chapter 4 is programs for installing, removing, and updating software. Chapter 5 is for the panel, runner, and window management. Each chapter that begins with a letter is an appendix.
 
 Let's say you want to create Chapter 20. In the `source` directory, create a
 directory titled `20`. In the `20` directory, create a file with the name of
@@ -60,7 +61,7 @@ To add a screenshot save the screenshot in the directory with the text and then 
 .. image:: foobar.png
 
 ```
-Also add both the screenshot and the modified restructured text file and commit both.
+Also add both the screenshot and the modified restructured text file and commit both. If a program has been updated simply save a new screenshot overwriting the file to update the screenshot.
 
 Then run `make clean && make html && make latexpdf` in the root of the manual directory and it should build successfully with zero warnings! (Might take several trials to get `make latexpdf` without any errors.)
 

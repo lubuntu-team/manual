@@ -15,6 +15,10 @@ To select the process below the currently selected one press :kbd:`Down Arrow` t
 
 .. image:: htop.png
 
+To see what is writing to your hard drive or solid state drive press the :guilabel:`Tab` key to see how much is being written or read. To see the process id of something writing to disk read the :guilabel:`PID` column. To see what user is reading or writing to disk read the :guilabel:`USER` column. To see the total of your disk being read or written by a process see the :guilabel:`DISK R/W` column. To see how much is being read from storage read the :guilabel:`DISK READ` column. To see how much is being written to storage see the :guilabel:`DISK WRITE` column. To see what command is reading or writing to disk read the :guilabel:`Command` column. To change how to sort which I/O options are taking place press :kbd:`F6`. To switch back to viewing CPU and memory usage press :kbd:`Tab` again.
+
+.. image:: htop-io.png
+
 You can press :kbd:`F1` or :kbd:`?` to bring up a help dialog on htop. Pressing :kbd:`F3` or :kbd:`/` lets you search for a particular process. Pressing :kbd:`F4` makes it so you can only see processes matching a certain pattern. To get out of the view of your search for a pattern press the :kbd:`Escape` key.  To reverse sort order press :kbd:`Shift +I`. Pressing :kbd:`F5` is what you press to view the processes in a tree. To get back to the default view press :kbd:`F5` again. Pressing :kbd:`F9` lets you kill a process with different signals to send to the process and 15 will terminate the process while 9 will Kill it. Lastly pressing :kbd:`F10` or :kbd:`q` will quit htop and return you to a terminal.
 
 .. image:: htop-filter.png
@@ -26,7 +30,7 @@ Customizing
 
 :kbd:`F2` brings about a customizable settings on htop. To close settings press :kbd:`F10`.
 
-The :guilabel:`Display Options` has option for different ways to display in htop. To move between options press :kbd:`Up Arrow` or :kbd:`Down Arrow`. To toggle an option on press :kbd:`Spacebar`. The :guilabel:`Colors` tab brings up different color schemes for htop. To select a different color scheme press the :kbd:`Up arrow` or :kbd:`Down arrow` keys. To select a new color scheme press the :kbd:`Spacebar` key. 
+The :guilabel:`Display Options` has option for different ways to display in htop. To move between options press :kbd:`Up Arrow` or :kbd:`Down Arrow`. To toggle an option on press :kbd:`Spacebar`. The :guilabel:`Colors` tab brings up different color schemes for htop. To select a different color scheme press the :kbd:`Up Arrow` or :kbd:`Down Arrow` keys. To select a new color scheme press the :kbd:`Spacebar` key. 
 
 .. image:: htop-setup.png
 
@@ -38,7 +42,7 @@ To change what columns end up showing select :guilabel:`Columns` on the setup me
 
 Version
 -------
-Lubuntu ships with version 3.2.1 of htop. 
+Lubuntu ships with version 3.3.0 of htop. 
 
 How to launch
 -------------

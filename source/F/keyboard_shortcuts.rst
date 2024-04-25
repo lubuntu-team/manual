@@ -4,7 +4,7 @@ Appendix F Hotkeys Shortcuts
 
 Hotkeys, also known as keyboard shortcuts, allow users to easily navigate, start applications, and change settings like resizing windows. These are useful as they create a smooth and time efficient user experience. It would benefit users to take a few minutes to learn some of these shortcuts.
 
-Lubuntu has manages the keyboard shortcuts using two layers. Namely, LXQt Global Keys and Openbox.
+Lubuntu has manages the keyboard shortcuts using two layers. Namely, LXQt Global Keys and Openbox. The openbox keybindings are stored in an xml config file in ~/.config/openbox/rc.xml.
 
 Global-keys
 --------------
@@ -21,7 +21,7 @@ The table below shows Lubuntu's default Openbox keyboard shortcuts:
 
 **Modifier keys** 	
 
-Key     description
+Key     Description
 
 ====    ========================
 S 	     Shift key
@@ -37,6 +37,10 @@ M        Meta key
 H 	     Hyper key (If it is bound to something) 
 ====    ========================
 
+**Turn on Orca screenreader**
+=========================== =========================
+Screenreader                W-A-S
+
 **Keybindings for desktop switching**
 
 ============================= ========================
@@ -48,14 +52,6 @@ GoToRightDesktop              C-A-Right
 GoToDesktop                   C-A-Up
 
 GoToDesktop                   C-A-Down
-
-SendToDesktoaToLeft           S-A-Left
-
-SendToDesktopToRight          S-A-Right
-
-SendToDesktop                 S-A-Up
-
-SendToDesktop                 S-A-Down
 
 ============================= ========================
 
@@ -81,21 +77,17 @@ PreviousWindow                A-S-Tab
 
 NextWindow                    C-A-Tab
 
-============================= ========================
+Cycle to right window         A-S-Right
+                               
+Cylce to left window          A-S-Left
 
-**Keybindings for window switching with the arrow keys**
+Cycle to top window           A-S-Up
 
-============================= ========================
-
-DirectionalCycleWindows       W-S-Right
-
-DirectionalCycleWindows       W-S-Left
-
-DirectionalCycleWindows       W-S-Up
-
-DirectionalCycleWindows       W-S-Down
+Cycle to bottom window        A-S-Down
 
 ============================= ========================
+
+
 
 **Keybindings to toggle fullscreen**
 
@@ -135,7 +127,7 @@ Open QTerminal                 C-A-T
 
 Launch Firefox                XF86WWW
 
-Open qterminal                XF86Terminal
+Open QTerminal                XF86Terminal
 
 
 ============================= ========================

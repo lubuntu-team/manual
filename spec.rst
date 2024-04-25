@@ -56,8 +56,6 @@ Chapter 2.1 Internet Applications
 
  2.1.3 Quassel IRC
 
- 2.1.4 BlueDevil
-
 
 Chapter 2.2 Office applications
 -------------------------------
@@ -74,7 +72,7 @@ Chapter 2.2 Office applications
 
  2.2.6 LibreOffice Writer
 
- 2.2.7 qpdfview
+ 2.2.7 Okular
 
 Chapter 2.3 Graphics Applications
 ---------------------------------
@@ -86,7 +84,7 @@ Chapter 2.3 Graphics Applications
 2.3.3 Skanlite
 
 Chapter 2.4 Accessories
-----------------------
+-----------------------
 
 2.4.1 LXQt File Archiver
 
@@ -101,6 +99,10 @@ Chapter 2.4 Accessories
 2.4.6 nobleNote
 
 2.4.7 QtPass
+
+2.4.8 Redshift
+
+2.4.9 SDDM Configuration
 
 Chapter 2.5 Sound & Video
 -------------------------
@@ -137,8 +139,6 @@ Chapter 3.1 System Tools
 3.1.7 KDE partition manager
 
 3.1.8 LxQt-sudo
-
-3.1.9 SDDM Configuration
 
 Chapter 3.2 Preferences
 -----------------------
@@ -179,17 +179,21 @@ Chapter 3.2 Preferences
 
 3.2.18 Screensaver
 
+3.2.19 Bluetooth Manager
+
+3.2.20 Picom Configuration
+
 ------------------------------------------------------
 Chapter 4 Installing, Updating, and Removing  Software
 ------------------------------------------------------
 
 4.1 Discover
 
-4.2 Muon Package Manager
+4.2 Software Sources
 
-4.3 Software Sources
+4.3 Lubuntu Update Notifier
 
-4.4 Lubuntu Update Notifier
+4.4 Firmware Updater
 
 ----------------------------------
 Chapter 5 Panel Desktop and Runner
@@ -204,6 +208,18 @@ Chapter 5 Panel Desktop and Runner
 5.4 window management
 
 5.5 keyboard menu navigation
+
+---------------------------------
+Chapter 6 Additional Applications
+---------------------------------
+
+6.1 Element
+
+6.2 Thunderbird
+
+6.3 Virtual Machine Manager
+
+6.4 Krita
 
 -----------
 Appendicies

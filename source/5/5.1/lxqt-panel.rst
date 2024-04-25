@@ -11,13 +11,13 @@ The application menu allows you to browse and search through available programs;
 
 The quick launch bar allows you to conveniently launch your file manager (PCManFM) and web browser (Firefox) by left clicking on the program. If you right click on the icons in quick launch on something like Firefox will have items for each program. To add a program to quick launch open the menu and find it there and drag it down onto the panel. To move an item on your quick launch to the left right click the icon and select :menuselection:`Move left` or press :kbd:`Control` and drag the icon to the left. To move an item to the left right click the icon and select :menuselection:`Move right` or press :kbd:`Control` and drag the icon to the right. Another way to reorder items on quicklaunch is to hold :kbd:`Control` and drag and drop to the desired position. To remove an item from quick launch right click on the icon and select :menuselection:`Remove from quicklaunch`. To refresh your quicklaunch right click and select :menuselection:`Refresh`. To show your desktop press the blue show desktop button between quick launch and the taskbar. To see all your windows again press the blue show desktop button again.
 
-The taskbar lists the windows you currently have open. To bring one of these windows to focus simply left click the button with icon and name on the task bar. If you have multiple of the same window left clicking will open the group, allowing you to select between the different windows by left clicking. If you want to close a group of multiple windows you can right click the group and click :menuselection:`Close group`. To see a list of all the windows in a group mouseover the group of windows on the taskbar. If you want to close one window out of a particular group left click to bring up the single window and then right click on the window and select :menuselection:`Close`.
+The taskbar lists the windows you currently have open. To bring one of these windows to focus simply left click the button with icon and name on the task bar. If you have multiple of the same window left clicking will open the group, allowing you to select between the different windows by left clicking. If you want to close a group of multiple windows you can right click the group and click :menuselection:`Close group`. To see a list of all the windows in a group mouseover the group of windows on the taskbar. If you want to close one window out of a particular group left click to bring up the single window and then right click on the window and select :menuselection:`Close`. To reorder windows or groups of windows on the taskbar left click and drag the windows or group.
 
 .. image:: multiple_tasks.png
 
 On a single window  on the taskbar to move it to a different desktop right click :menuselection:`To Desktop` to move the window to the desired desktop. To move a window to your current virtual desktop right click on the window on your taskbar and select :menuselection:`To Current Desktop`. If you have multiple monitors you can right click and select :menuselection:`Move to next monitor` to move a window to the next monitor. To move a window back to a previous monitor right click on the taskbar and select :menuselection:`Move to previous monitor`. Right clicking and selecting :guilabel:`Move` lets you drag the application around to the desired point on the desktop. The resize option from the same window lets you resize the window you right clicked on. Right click and select :menuselection:`Maximize` on a window to maximize it. Right clicking on window :menuselection:`Restore` will return a window back to its original size. To minimize a different window from the task bar you can minimize by right clicking on the window on the taskbar and selecting :menuselection:`Minimize`. Right clicking :menuselection:`Roll up` on a window will make the window only your titlebar.
 
-Right clicking :menuselection:`Layer` on the taskbar will allow you to have move a window :menuselection:`Always on top`, :menuselection:`Normal`, or :menuselection:`Always on bottom`. Finally to close a window with right click on the taskbar and select :menuselection:`Close` will close the window. If you middle click on an item in the taskbar you will close the window. If you try to close a program that is not responding you will be asked if you want to end the task. To move items around on the taskbar into a particular order left click and drag them to the desired position.
+Right clicking :menuselection:`Layer` on the taskbar will allow you to have move a window :menuselection:`Always on top`, :menuselection:`Normal`, or :menuselection:`Always on bottom`. Finally to close a window with right click on the taskbar and select :menuselection:`Close` will close the window or you can simply middle click on the window. If you middle click on an item in the taskbar you will close the window. If you try to close a program that is not responding you will be asked if you want to end the task. To move items around on the taskbar into a particular order left click and drag them to the desired position.
 
 .. image:: menu-right-click.png
 
@@ -25,7 +25,7 @@ The removable media applet will allow you to manage your remove flash drives and
 
 .. image:: system_tray.png
 
-In the system tray there there are multiple widgets. To see more on how to use nm-tray which manages network in the tray see chapter 3.1.5. Also included is Qlipper which to see how to use view how to view chapter 2.4.5. Other Programs you install can also place a tray icon here as well. With the volume applet you can change the volume by using the mouse-wheel with the mouse over the speaker icon or left click the speaker icon and drag the volume up and down or press :kbd:`Up arrow` or :kbd:`Down arrow`. To mute the volume with the button at the bottom of the volume meter or middle click on the volume applet. To see what the current volume is you can hover the mouse over the volume applet. To close the volume applet press the :kbd:`Escape` key.
+In the system tray there there are multiple widgets. To see more on how to use nm-tray which manages network in the tray see chapter 3.1.5. Also included is Qlipper which to see how to use view how to view chapter 2.4.5. Other Programs you install can also place a tray icon here as well. With the volume applet you can change the volume by using the mouse-wheel with the mouse over the speaker icon or left click the speaker icon and drag the volume up and down or press :kbd:`Up arrow` or :kbd:`Down arrow`. To mute the volume with the :guilabel:`speaker` button at the bottom of the volume meter or middle click on the volume applet. To see what the current volume is you can hover the mouse over the volume applet. To close the volume applet press the :kbd:`Escape` key.
 
 .. image:: volume-widget.png
 
@@ -51,7 +51,7 @@ The :guilabel:`Placement` tab has settings for where the panel is. The :guilabel
 
 If you want to autohide the panel check the :guilabel:`Auto-hide` checkbox in panel settings. To change how long the animation takes to show or hide the panel change the :guilabel:`Animation duration` field. To show how long your panel will appear when it comes back after hiding in milliseconds change the :guilabel:`Show with delay` field. To show a little of the panel visible when the panel is autohidden check the :guilabel:`Visible thin margin for hidden panel` checkbox. To only hide the panel when the panel overlaps a window check the :guilabel:`Hide only on overlapping a window` checkbox. To have the space for the panel not be used for anything else check the :guilabel:`Reserve space on display` checkbox.
 
-To change the appearance of the panel use the :guilabel:`Styling` tab. To change to a custom font color press the :guilabel:`Font color` checkbox. Press the dropper button to bring up a widget to choose the custom color. The checkbox for :guilabel:`Background color` sets a background color custom for the background of LXQt-panel and the :guilabel:`dropper` brings up how to select which color. If you want to change how transparent the background color is change the :guilabel:`Background opacity` slider. To add an image to your panel background press the checkbox :guilabel:`Background image` and press the  the dialog button on the right to choose your file.
+To change the appearance of the panel use the :guilabel:`Styling` tab. To change to a custom font color press the :guilabel:`Font color` checkbox. Press the dropper button to bring up a widget to choose the custom color. The checkbox for :guilabel:`Background color` sets a background color custom for the background of LXQt-panel and the :guilabel:`dropper` brings up how to select which color. If you want to change how transparent the background color is change the :guilabel:`Background opacity` slider however to change this you need to have the :guilabel:`Background color` checkbox checked. To add an image to your panel background press the checkbox :guilabel:`Background image` and press the  the dialog button on the right to choose your file.
 
 .. image:: panel-config-styling.png
 
@@ -65,7 +65,8 @@ Shipped widgets not enabled by default:
  - Backlight
  - CPU monitor
  - Color Picker
- - Custom Command
+ - Custom Comman
+ - Keyboard State Indicator
  - Panel DOM Tree
  - Qeyes
  - Sensors
@@ -116,6 +117,8 @@ To add two or more panels right click on the panel and :menuselection:`Add New P
 Non-Default widgets
 -------------------
 
+To add an easy way to change brightness to your panel add the :guilabel:`Backlight` widget. To bring the applet to change backlight level left click on the icon. To make the backlight more faint drag the slider to the bottom and to make it brighter drag the slider towards the top.
+
 To have a bar that shows CPU Load shows a bar graph with your CPU usage. To bring up settings for your CPU usage is right click on the CPU bar :menuselection:`Configure CPU Monitor`. The :guilabel:`Show text` checkbox shows a number for CPU usage. The field for :guilabel:`Update interval` is how often to update your CPU usage. The :guilabel:`Bar orientation` says what side to start the bar graph. The :guilabel:`Bar width` is how many pixels wide to make the bar graph. If you want to reset your changes press the :guilabel:`Reset` button.
 
 .. image:: CPU-load-settings.png
@@ -124,13 +127,17 @@ The Color picker is shows what color something is on your screen usually useful 
 
 .. image:: spacer-color-picker.png
 
-To use your sensors widgets which you would have to add manually as shown above. A sensor bar will appear with as many sensors as on your panel. To view the temp as a number mouse over the sensor bar to see what your temperature is in a number in the :guilabel:`Cur` field. Also shown on mouseover is the :guilabel:`Crit` field shows the temperature the sensor should not read above without overheating.
+To have a custom command add the :guilabel:`Custom Command` widget. To have this have meaningful output you need to configure the widget by right clicking on the Custom Command widget and selection :guilabel:`Configure "Custom Command"`. To have the output not rotate when the panel is vertical uncheck the :guilabel:`Autorotate when the panel is vertical` checkbox. To change what output your custom command has left click the button next to :guilabel:`Font`. To type the command you want to run type in the box above and to the right of :guilabel:`Command`. To run the command with bash running the command check the :guilabel:`Run with "bash -c"` checkbox. To change if or how often the command is run on repeat check the :guilabel:`Repeat command after` checkbox and change how often it runs in the field to the right. If the result of the command is an image check the :guilabel:`Command outputs an image` checkbox. To choose an icon for the custom command widget type the path of the icon in :guilabel:`Icon` or press the :guilabel:`Browse` button. To choose just put text on the panel type in the :guilabel:`Text` field. To change the maximum width the output of the text can be type in the :guilabel:`Max Width` field.
 
-To customize the sensors right click on the sensors applet :menuselection:`Configure "Sensors"`. The :guilabel:`Update interval(seconds)` field lets you choose how often in seconds to update the sensors. The :guilabel:`Temperature bar width` field shows how wide to make the bar for your sensors. The :guilabel:`Temperature scale` field lets you select :guilabel:`Celsius` or :guilabel:`Fahrenheit` for your sensors. The checkbox :guilabel:`Warning about high temperature` puts a warning if your temperature gets too high. If you want to reset your settings press the :guilabel:`Reset` button. 
+To change what commands when you click on the custom command is under the :guilabel:`Mouse Commands` heading. To run a command with clicking on the applet enter the command in the :guilabel:`Click` in mouse commands. To run a specific command upon going up on the mouse wheel enter the command in the :guilabel:`Wheel Up` field. To run a specific command with scrolling down on the mousewheel enter the command in the :guilabel:`Wheel Down` field.
 
-.. image:: sensors-config.png
+To add an applet that can show your current keyboard layout and if capslock, numlock, or scrollock is pressed use the :guilabel:`Keyboard State Indicator` applet. If shown the capslock indicator if shown will have a highlighted :guilabel:`C` to show if you have capslock on. The numlock indicator if shown has the :guilabel:`N` is highlighted. The scrollock indicator if shown will have a highligted :guilabel:`S` to show if scrolllock is on. Then to the right of your panel shows your current keyboard layout with either text or a flag by the for your keyboard layout.
 
-To have a set of eyes that look towards where the mouse cursor is add the :guilabel:`QEyes` widget. The eyes look towards where the mouse cursor is relative to from the eye.
+.. image:: keyboard-state-info.png
+
+To change settings on keyboard state indicator right click and select :menuselection:`Configure Keyboard State Indicator` or press the :guilabel:`...` button on configuring the panel on :guilabel:`Keyboard State Indicator`. To hide showing the caps lock uncheck the :guilabel:`Show Caps Lock` checkbox. To hide your numlock indicator uncheck the :guilabel:`Show Num Lock` check. To hide the scroll lock indicator uncheck the :guilabel:`Show Scroll Lock` checkbox. To toggle showing an indiactor for your keyboard layout check/uncheck the :guilabel:`Keyboard Layout Indicator` checkbox. To have clicking switch your keyboard layout everywhere press the :guilabel:`Global` button under :guilabel:`Switching Policy`. To have your layout switched by only a window press the :guilabel:`Window` under :guilabel:`Switching Policy`. To have your keyboard layout switched on a certain application press the :guilabel:`Application` button under :guilabel:`Switching Policy`. To show a flag in your panel first install the iso-flags-svg package and in the :guilabel:`Flags path pattern` field type in :kbd:`/usr/share/iso-flags-svg/country-squared/%1.svg` to show the flags. To open the configuration of your keyboard layouts press the :guilabel:`Configure layouts` button. 
+
+To have a set of eyes that look towards where the mouse cursor is add the :guilabel:`QEyes` widget. The eyes look towards where the mouse cursor is relative to from the eye. 
 
 .. image:: QEyes.png
 
@@ -138,9 +145,13 @@ To bring up settings on how to configure QEyes is to right click on the eye and 
 
 .. image:: QEyes-pref.png
 
-To have a custom command add the :guilabel:`Custom Command` widget. To have this have meaningful output you need to configure the widget by right clicking on the Custom Command widget and selection :guilabel:`Configure "Custom Command"`. To have the output not rotate when the panel is vertical uncheck the :guilabel:`Autorotate when the panel is vertical` checkbox. To change what output your custom command has left click the button next to :guilabel:`Font`. To type the command you want to run type in the box above and to the right of :guilabel:`Command`. To run the command with bash running the command check the :guilabel:`Run with "bash -c"` checkbox. To change if or how often the command is run on repeat check the :guilabel:`Repeat command after` checkbox and change how often it runs in the field to the right. To choose an icon for the custom command widget type the path of the icon in :guilabel:`Icon` or press the :guilabel:`Browse` button. To choose just put text on the panel type in the :guilabel:`Text` field. To change the maximum width the output of the text can be type in the :guilabel:`Max Width` field.
 
-To change what commands when you click on the custom command is under the :guilabel:`Mouse Commands` heading. To run a command with clicking on the applet enter the command in the :guilabel:`Click` in mouse commands. To run a specific command upon going up on the mouse wheel enter the command in the :guilabel:`Wheel Up` field. To run a specific command with scrolling down on the mousewheel enter the command in the :guilabel:`Wheel Down` field.
+To use your sensors widgets which you would have to add manually as shown above. A sensor bar will appear with as many sensors as on your panel. To view the temp as a number mouse over the sensor bar to see what your temperature is in a number in the :guilabel:`Cur` field. Also shown on mouseover is the :guilabel:`Crit` field shows the temperature the sensor should not read above without overheating.
+
+To customize the sensors right click on the sensors applet :menuselection:`Configure "Sensors"`. The :guilabel:`Update interval(seconds)` field lets you choose how often in seconds to update the sensors. The :guilabel:`Temperature bar width` field shows how wide to make the bar for your sensors. The :guilabel:`Temperature scale` field lets you select :guilabel:`Celsius` or :guilabel:`Fahrenheit` for your sensors. The checkbox :guilabel:`Warning about high temperature` puts a warning if your temperature gets too high. If you want to reset your settings press the :guilabel:`Reset` button. 
+
+.. image:: sensors-config.png
+
 
 The :guilabel:`Sensors` tab provides settings for each individual sensor on your processor. To enable/disable each sensor press to the :guilabel:`Enabled` checkbox for each sensor. The :guilabel:`Label` shows a label for each sensor. The :guilabel:`Color` column shows the color for the bar to appear in the panel and you can bring up a dialog to change color by left clicking on the button. To switch to a different chip to set the sensors for change the :guilabel:`Detected chips` menu. 
 
@@ -150,11 +161,10 @@ To add a spacer to your panel add the spacer widget. It creates a blank space on
 
 .. image:: panel-spacer.png
 
-To add an easy way to change brightness to your panel add the :guilabel:`Backlight` widget. To bring the applet to change backlight level left click on the icon. To make the backlight more faint drag the slider to the bottom and to make it brighter drag the slider towards the top.
 
 Version
 -------
-Lubuntu ships with version 1.3.0 of LXQt-panel.
+Lubuntu ships with version 1.4.0 of LXQt-panel.
 
 How to Launch
 -------------

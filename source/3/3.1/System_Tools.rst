@@ -15,5 +15,5 @@ This chapter documents tools to administer your system.
    3.1.5/qps
    3.1.6/kde_partitionmanager
    3.1.7/lxqt-sudo
-   3.1.8/sddm_configuration.rst
+   
 

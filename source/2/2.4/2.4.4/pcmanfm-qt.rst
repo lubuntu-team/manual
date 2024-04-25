@@ -54,7 +54,7 @@ At the bottom of the window is a filter bar that lets you show files only matchi
 
 On the very bottom of the PCManFM-Qt window when you have nothing selected it shows :guilabel:`x item(s) (y hidden)` showing how many items are in the current folder. To the right of this shows :guilabel:`Free space` showing how much free space you have. The :guilabel:`(Total)` shows the full size of the storage medium this is on. When you select one file on this bottom bar it will show the file name, the file size, and the type of file it is. If you select multiple files the bottom bar to the left will show :guilabel:`X item(s) selected` where X is the number of files you have selected and how much disk space they take up. When you have one file selected it will say the the file name, the size of the file in parenthesis, and then the type of image.
 
-To have PCManFM-Qt reload what folder you are viewing press :kbd:`F5`, the circular pointing arrow button, or :menuselection:`View --> Reload`. To see hidden files press :kbd:`control +h`, right click :menuselection:`Show Hidden`, or go to  :menuselection:`View --> Show Hidden`. Do the same thing again to hide hidden files again. To toggle showing thumbnails check/uncheck the :menuselection:`View --> Show Thumbnails`. To open a terminal in your current folder press :kbd:`f4`, right click on a folder and select :menuselection:`Open in Terminal`, or :menuselection:`Tools --> Open Terminal` from the menu. To copy the full path of a file or directory press :kbd:`Control+Shift+C` or :menuselection:`Tools --> Copy Full Path` after selecting a single file. To create a file that will launch an application by clicking on it :menuselection:`Tools --> Create Launcher` and fill in the fields to create a file to launch programs. To open the tab in as root select :menuselection:`Tools --> Open tab in root instance` and a new window will appear that says it is root at the bottom of the window in red.
+To have PCManFM-Qt reload what folder you are viewing press :kbd:`F5`, the circular pointing arrow button, or :menuselection:`View --> Reload`. To see hidden files press :kbd:`control +h`, right click :menuselection:`Show Hidden`, or go to  :menuselection:`View --> Show Hidden`. Do the same thing again to hide hidden files again. To toggle showing thumbnails check/uncheck the :menuselection:`View --> Show Thumbnails`. To open a terminal in your current folder press :kbd:`f4`, right click on a folder and select :menuselection:`Open in Terminal`, or :menuselection:`Tools --> Open Terminal` from the menu. To copy the full path of a file or directory press :kbd:`Control+Shift+C` or :menuselection:`Tools --> Copy Full Path` after selecting a single file. To open the tab in as root select :menuselection:`Tools --> Open tab in root instance` and a new window will appear that says it is root at the bottom of the window in red.
 
 .. warning::
 
@@ -152,6 +152,11 @@ from the command line to edit the file and paste in the following contents
    Exec=qterminal -w %f
    Name=Default profile
 
+Creating Launchers
+-------------------
+To create a file that will launch an application by clicking on it :menuselection:`Tools --> Create Launcher` and fill in the fields to create a file to launch programs. For what to call your launcher type it in the :guilabel:`Name` field. To add a description to your launcher enter a description in the :guilabel:`Description` field. To set up a comment for the launcher enter it in the :guilabel:`Comment` field. To change which categories in the menu this launcher shows up in enter them in the :guilabel:`Categories` field. To see what to actually launch from a command line command enter it in the :guilabel:`Command` field or press the :guilabel:`...` to bring a file picker to find what to execute. To change the icon for your launcher enter the name in the :guilabel:`Icon` field or choose one graphically with the :guilabel:`...` button. To change if you are running this in the terminal change the :guilabel:`Terminal` drop down. To switch between a link and an application choose the :guilabel:`Type` field.
+
+.. image:: create-launcher.png
 
 Customizing
 -----------
@@ -184,7 +189,7 @@ The :guilabel:`Advanced` tab shows integration with other programs and advanced 
 
 Version
 -------
-Lubuntu currently ships with 1.3.0 of PCManFM-Qt. 
+Lubuntu currently ships with 1.4.1 of PCManFM-Qt. 
 
 How to Launch
 -------------

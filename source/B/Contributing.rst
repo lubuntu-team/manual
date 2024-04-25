@@ -17,8 +17,8 @@ If you’re nothing more than a user, you can help out with the following withou
 
  - `Support and Bug Triage`_
  - `Documentation <https://git.lubuntu.me/Lubuntu/manual/>`_
- - `Testing <https://phab.lubuntu.me/w/testing/>`_
- - `Bug triage <https://phab.lubuntu.me/w/bugs/>`_
+ - `Testing <https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Testing/>`_
+ - `Bug triage <https://git.lubuntu.me/lubuntu-wiki/wiki/wiki/Bugs>`_
 
 *And we could always use help with art/graphic design!*
 
@@ -45,7 +45,7 @@ Support and Bug Triage contributors are on the front line when it comes to inter
 Support
 ~~~~~~~
 
-Support is mainly for the purpose of helping users solve their problems. If this is something you would be interested in, join `our support channel <https://phab.lubuntu.me/w/support/>`_ and jump in to assist when someone asks for help. The more active people we have around, the more questions can be answered.
+Support is mainly for the purpose of helping users solve their problems. If this is something you would be interested in, join `our support channel <git.lubuntu.me/lubuntu-wiki/wiki/wiki/Support/>`_ and jump in to assist when someone asks for help. The more active people we have around, the more questions can be answered.
 
 People helping with support might find it helpful to learn `debugging procedures <https://wiki.ubuntu.com/DebuggingProcedures>`_ and have a Lubuntu machine available to be able to reproduce any issues. It is difficult to write a "one size fits all" guide for answering support questions, but idling in the channel and seeing how support questions are typically answered can help.
 

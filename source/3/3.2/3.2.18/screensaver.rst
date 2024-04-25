@@ -1,4 +1,4 @@
-Chapter 3.2.19 Screensaver
+Chapter 3.2.18 Screensaver
 ==========================
 
 Screensaver is an application to control what screensavers are used on the system and how long it takes to activate the screensaver. 
@@ -11,7 +11,7 @@ To change your screensaver to a different screensaver left click on the name of 
 
 .. image:: screensaver.png
 
-If you try to select a screensaver that is not installed it will not show on the right hand side of the window. To preview a screensaver as when it would be activated press the :guilabel:`Preview` button. To see more settings for each individual screensaver press the :guilabel:`Settings` button.
+If you try to select a screensaver that is not installed it will not show on the right hand side of the window. To see credit and a summary of what each screensaver is read the text under the preview of the screensaver. To preview a screensaver as when it would be activated press the :guilabel:`Preview` button. To see more settings for each individual screensaver press the :guilabel:`Settings` button.
 
 To make the screen blank :menuselection:`File --> Blank Screen Now`. To lock your Screen :menuselection:`File --> Lock Screen Now`. If you want to kill the daemon :menuselection:`File --> Kill Daemon`. To restart the screensaver daemon :menuselection:`File --> Restart Daemon`. To restart xscreensaver :menuselection:`File --> Restart Daemon`.  
 
@@ -24,15 +24,15 @@ To change turning the screen off and if to enter standby or suspend use the sett
 
 .. image:: screensaver-advanced.png
 
-To change the settings for how to make your screen blank change the :guilabel:`Blanking` settings. To have your screen fade to black when blanking check the :guilabel:`Fade to Black when Blanking` checkbox. To have your screen fade back in from screen blanking check the :guilabel:`Fade from Black When Unblanking`. To change how fast your screen fades change the :guilabel:`Fade Duration` field. 
+To change the settings for how to make your screen blank change the :guilabel:`Blanking` settings. To have your screen fade to black when blanking check the :guilabel:`Fade to Black when Blanking` checkbox. To have your screen fade back in from screen blanking check the :guilabel:`Fade from Black When Unblanking`. To change how fast your screen fades change the :guilabel:`Fade Duration` field. To change the themeing on where you unlock and log back in after your screensaver change the :guilabel:`Theme` drop down. To preview your theme press the :guilabel:`Preview` button.
 
 Version
 -------
-Lubuntu ships with version 6.02 of Screensaver
+Lubuntu ships with version 6.08 of Screensaver
 
 How to Launch
 -------------
-To launch Screensaver from the menu :menuselection:`Preferences --> Screensaver` or run
+To launch Screensaver from the menu :menuselection:`Preferences --> XScreensaver Settings` or run
 
 .. code:: 
 

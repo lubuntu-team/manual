@@ -5,7 +5,7 @@ Redhsift allows you to change your color temperature and have your color tempera
 
 Usage
 -----
-To suspend using Redshift right click on the the tray icon that looks like a light bulb and check the :menuselection:`Suspended` checkbox or left click on the tray icon. If redshift is suspended the tray icon will appear grayed out and will be a brighter white if Redshift is active. To reactivate redshift left click on the tray icon again or right click and uncheck the :guilabel:`Suspended` checkbox.  To quit Redshift right click the tray icon and select :menuselection:`Quit`.
+Redshift works by changing the color to be reder to reduce eye strain at night. To achive this Redshift uses geolocation to find when the sun rises and sets and thus works best when connected to the internet. To suspend using Redshift right click on the the tray icon that looks like a light bulb and check the :menuselection:`Suspended` checkbox or left click on the tray icon. If redshift is suspended the tray icon will appear grayed out and will be a brighter white if Redshift is active. To reactivate redshift left click on the tray icon again or right click and uncheck the :guilabel:`Suspended` checkbox.  To quit Redshift right click the tray icon and select :menuselection:`Quit`.
 
 To suspend Redshift for an amount of time by right clicking on the tray icon. To suspend Redshift for 10 minutes right click on the tray icon and select :menuselection:`Suspend for 10 minutes`. To suspend Redshift for 1 hour right click and select :menuselection:`Suspend for 1 hour`. To suspend Redshift for 2 hours right click and select :menuselection:`Suspend for 2 hours`.
 

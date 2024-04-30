@@ -15,7 +15,13 @@ The :guilabel:`General` tab has settings for turning off, rebooting, and keyboar
 
 .. image:: sddm-general.png
 
-The :guilabel:`Theme` tab has settings for your theming SDDM. To change your theme name change the current :guilabel:`Current theme name` drop down. To get more themes install packages with sddm-theme in the name. To preview your theme press the :guilabel:`Preview` button. To close your theme preview press the :guilabel:`Close Preview` button. To choose a cursor theme for SDDM use the :guilabel:`Cursor theme used in the greeter` field. The name to type in is the name of the cursor you want you can preview in the Appearance application documented in chapter 3.2.2. To change where to look for SDDM themes use the :guilabel:`Theme directory path` field. To use custom user avatars check the :guilabel:`Enable display of custom user avatars` checkbox. To change where to look for user avatar faces use change the :guilabel:`Global directory for user avatars` field.
+The :guilabel:`Theme` tab has settings for your theming SDDM. To change your theme name change the current :guilabel:`Current theme name` drop down. To get more themes install packages with sddm-theme in the name. To preview your theme press the :guilabel:`Preview` button. To close your theme preview press the :guilabel:`Close Preview` button. To choose a cursor theme for SDDM use the :guilabel:`Cursor theme used in the greeter` field. The name to type in is the name of the cursor you want you can preview in the Appearance application documented in chapter 3.2.2. To change where to look for SDDM themes use the :guilabel:`Theme directory path` field. To use custom user avatars check the :guilabel:`Enable display of custom user avatars` checkbox. To change where to look for user avatar faces use change the :guilabel:`Global directory for user avatars` field. To save a user avatar first it must be a png image then to display the avatar it must be in the path of :guilabel:`Global directory for user avatars` field. If you save your user avatar in a place sddm can save it in /usr/share/sddm/faces otherwise you will need to give sddm access to the file. To give sddm access to an avatar file in your home folder run 
+
+.. code::
+
+   setfacl -m u:sddm:x /home/yourusername; setfacl -m u:sddm:r /home/yourusername/.face.icon
+   
+if you were setting face file in /home/yourusername and giving sddm read access to /home/yourusername/.face.icon and letting sddm into the /home/yourusename directory.   
 
 .. image:: sddm-theme.png
 

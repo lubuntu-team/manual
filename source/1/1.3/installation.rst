@@ -110,7 +110,7 @@ You can create partition by clicking the :guilabel:`Create` button which will br
 
 .. image::  manpartition-create.png
 
-Lubuntu's bootloader grub does not support creating an encrypted / partition without a seperate unecrypted /boot partition. If you create a seperate /home partition will be where you save all your user documents photos and videos so make sure if you create one it has enough space for your personal files.
+Lubuntu's bootloader grub does not support creating an encrypted / partition without a separate unencrypted /boot partition. If you create a separate /home partition will be where you save all your user documents photos and videos so make sure if you create one it has enough space for your personal files.
 
 To go back on all your changes to the previous state press the :guilabel:`Revert All Changes` button. To change what device your computer will boot off of you will need to use the :guilabel:`Install boot loader on` drop down menu to select which disc to boot off of. 
 

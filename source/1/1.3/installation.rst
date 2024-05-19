@@ -13,7 +13,7 @@ The next screen will present a choice between :guilabel:`Try Lubuntu`, which wil
 
 .. image:: installer-prompt.png
 
-Once you have booted into the live session, feel free to explore Lubuntu and make sure all your hardware works. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop :guilabel:`Install Lubuntu 24.04 LTS` or :menuselection:`System Tools --> Install Lubuntu 24.04 LTS`.
+Once you have booted into the live session, feel free to explore Lubuntu and make sure all your hardware works. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop :guilabel:`Install Lubuntu 24.10` or :menuselection:`System Tools --> Install Lubuntu 24.10`.
 
 .. image:: live_session.png
 
@@ -122,7 +122,7 @@ The top of the manual partitioning window shows a visual bar showing size of you
 OEM Installs
 ------------
 
-To install Lubuntu in an OEM mode for distributing to someone else on the grub boot splash select :menuselection:`OEM install (for manufacturers)` or from the panel menu :menuselection:`System Tools --> Install Lubuntu 24.04 LTS (OEM mode)`. Then you will be asked if you are sure you want to install in OEM mode and to actually install in OEM mode press the :guilabel:`Yes` button. Then the installer will say have a welcome screen that will say it is in OEM mode will show up. To change what language to use for installation use the drop down bar under :guilabel:`OEM installation mode`. To move to the next step of installation press the :guilabel:`Next` button.
+To install Lubuntu in an OEM mode for distributing to someone else on the grub boot splash select :menuselection:`OEM install (for manufacturers)` or from the panel menu :menuselection:`System Tools --> Install Lubuntu 24.10 (OEM mode)`. Then you will be asked if you are sure you want to install in OEM mode and to actually install in OEM mode press the :guilabel:`Yes` button. Then the installer will say have a welcome screen that will say it is in OEM mode will show up. To change what language to use for installation use the drop down bar under :guilabel:`OEM installation mode`. To move to the next step of installation press the :guilabel:`Next` button.
 
 .. image:: oem-install-welcome.png
 

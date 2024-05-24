@@ -29,7 +29,7 @@ To change settings on which which Users log in use the :guilabel:`Users` tab. To
 
 .. image:: sddm-users.png
 
-To change settings with the Wayland display server use the :guilabel:`Wayland` tab. To use scale high dots per inch automatically in Wayland check the :guilabel:`Enable Qt's automatic high-DPI scaling` checkbox. To choose where to launch your Wayland startup use the :guilabel:`Path to a script to execute when starting the desktop session` field. To change where to log your Wayland session use the :guilabel:`Path to the user session log file` field. To change where SDDM looks for Wayland session use the :guilabel:`Directory containing available Wayland session` field. 
+To change settings with the Wayland display server use the :guilabel:`Wayland` tab. To use scale high dots per inch automatically in Wayland check the :guilabel:`Enable Qt's automatic high-DPI scaling` checkbox. To choose where to launch your Wayland startup use the :guilabel:`Path to a script to execute when starting the desktop session` field. To change where to log your Wayland session use the :guilabel:`Path to the user session log file` field. To change where SDDM looks for Wayland session use the :guilabel:`Directory containing available Wayland session` field. To the right of the text you can find the path or file with a file picker with the buttons to the right of each field.
 
 .. image:: sddm-wayland.png
 

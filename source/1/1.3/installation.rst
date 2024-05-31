@@ -23,7 +23,7 @@ You will be taken to the Lubuntu installer Welcome screen. You can change the in
 .. image:: welcome_installer.png
 
 
-Selecting Your location
+Selecting Your Location
 -----------------------
 
 The next screen will show you a map of the world where you can choose your location. Your location will be used to set your time zone and download server. To see what region you have chosen use the :guilabel:`Region` drop down menu. The :guilabel:`Zone` field should have a major city with the same time as you. If you want to get to the your time zone manually faster you can type in the name of a big city in the same time zone. Towards the bottom you can to change your system language by pressing the upper :guilabel:`Change` button. To change the how numbers and dates appear on your system press the lower :guilabel:`Change` button. To switch certain keys on your keyboard use the :guilabel:`Switch Keyboard` drop down. To move to the next step once again press the :guilabel:`Next` button. To move back to selecting your language to change your language press the :guilabel:`Back` button.
@@ -48,7 +48,7 @@ To go to the next part of installation press the :guilabel:`Next` button. To go 
 
 .. image:: customizing.png
 
-Setting up partitions
+Setting Up Partitions
 ---------------------
 
 If all you want is Lubuntu on your machine, you can select the :guilabel:`Erase disk` button. This will format the disk and **delete all data on the disk**,  which is why having your data backed up before this point is extremely important. If you choose to do this you can continue on to user setup. To change the storage device to install Lubuntu on use the :guilabel:`Select Storage device` drop down menu. To see whether you are installing in uefi or bios mode is shown in the top left corner of this window. To choose to use a swap file under :guilabel:`Erase disk` keep :menuselection:`Swap to file` or to not use swap choose :menuselection:`No Swap`. To choose which filesystem to use the drop down on the right to choose which filesystem you want to use. If you want to encrypt your drive press the :guilabel:`Encrypt system` checkbox and then you will need to enter the encryption passphrase twice to make sure you have it typed in correctly. It is strongly advised to write down this passphrase and keep it somewhere safe. 
@@ -93,7 +93,7 @@ After the install is finished you will need to reboot your system into your new 
 Install Alongside
 -----------------
 
-Manual partitioning
+Manual Partitioning
 -----------------------
 .. Warning::
    Trying to use nonlinux filesystems such as NTFS or FAT as your root filesystem will result in a broken system.

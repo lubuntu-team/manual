@@ -92,7 +92,7 @@ After the install is finished you will need to reboot your system into your new 
 
 Install Alongside
 -----------------
-To choose to shrink your current partition to install Lubuntu alongside a currently existing install so you can boot into both of them select :guilabel:`Install alongside`. The :guilabel:`Current` bar graph shows how much space is currently taken up by a partition. The :guilabel:`After` section shows how much space will be used by both installs.  
+To choose to shrink your current partition to install Lubuntu alongside a currently existing install so you can boot into both of them select :guilabel:`Install alongside`. The :guilabel:`Current` bar graph shows how much space is currently taken up by a partition. The :guilabel:`After` section shows how much space will be used by both installs.  To change how much space each partition will end up using slide the center back and forth to distribute space between both installs. If you want to encrypt your install check the :guilabel:`Enycrpt system` checkbox.
 
 
 Manual Partitioning

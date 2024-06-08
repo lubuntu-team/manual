@@ -92,6 +92,8 @@ After the install is finished you will need to reboot your system into your new 
 
 Install Alongside
 -----------------
+To choose to shrink your current partition to install Lubuntu alongside a currently existing install so you can boot into both of them select :guilabel:`Install alongside`.
+
 
 Manual Partitioning
 -----------------------

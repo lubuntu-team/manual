@@ -97,6 +97,10 @@ To choose to shrink your current partition to install Lubuntu alongside a curren
 
 .. image:: install_alongside.png
 
+Replace a Partition
+-------------------
+To replace a partition select :guilabel:`Replace a partition` on the :guilabel:`Partitions` tab. To select which filesystem to install lubuntu on choose on the drop down under :guilabel:`Replace a partition`. To select which drive to install on choose in the :guilabel:`Select storage device` menu.
+
 Manual Partitioning
 -----------------------
 .. Warning::

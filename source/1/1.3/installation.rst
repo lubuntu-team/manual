@@ -92,14 +92,14 @@ After the install is finished you will need to reboot your system into your new 
 
 Install Alongside
 -----------------
-To choose to shrink your current partition to install Lubuntu alongside a currently existing install so you can boot into both of them select :guilabel:`Install alongside`. The :guilabel:`Current` bar graph shows how much space is currently taken up by a partition. The :guilabel:`After` section shows how much space will be used by both installs.  To change how much space each partition will end up using slide the center back and forth to distribute space between both installs. If you want to encrypt your install check the :guilabel:`Enycrpt system` checkbox.
+To choose to shrink your current partition to install Lubuntu alongside a currently existing install so you can boot into both of them select :guilabel:`Install alongside`. The :guilabel:`Current` bar graph shows how much space is currently taken up by a partition. The :guilabel:`After` section shows how much space will be used by both installs.  To change how much space each partition will end up using slide the center back and forth to distribute space between both installs. If you want to encrypt your install check the :guilabel:`Encrypt system` checkbox.
 
 
 .. image:: install_alongside.png
 
 Replace a Partition
 -------------------
-To replace a partition select :guilabel:`Replace a partition` on the :guilabel:`Partitions` tab. To select which filesystem to install lubuntu on choose on the drop down under :guilabel:`Replace a partition`. To select which drive to install on choose in the :guilabel:`Select storage device` menu. To encyrpt your Lubuntu install check the :guilabel:`Encrypt system` checkbox. To look at your current layout of partitions you have look at the :guilabel:`Current` bar graph.  To see what each partition is listed below the graph. To select which partition to replace left click on the partition on the :guilabel:`Current` graph. To see the what partitions will be used after the install read the :guilabel:`After` field. To see the size and filesystem of all partitions view the :guilabel:`After` bar graph. To see where Lubuntu will boot from is also on the bottom. To continue installing press :guilabel:`Next`.
+To replace a partition select :guilabel:`Replace a partition` on the :guilabel:`Partitions` tab. To select which filesystem to install Lubuntu on choose on the drop down under :guilabel:`Replace a partition`. To select which drive to install on choose in the :guilabel:`Select storage device` menu. To encrypt your Lubuntu install check the :guilabel:`Encrypt system` checkbox. To look at your current layout of partitions you have look at the :guilabel:`Current` bar graph.  To see what each partition is listed below the graph. To select which partition to replace left click on the partition on the :guilabel:`Current` graph. To see the what partitions will be used after the install read the :guilabel:`After` field. To see the size and filesystem of all partitions view the :guilabel:`After` bar graph. To see where Lubuntu will boot from is also on the bottom. To continue installing press :guilabel:`Next`.
 
 .. image:: replacing_partition.png
 

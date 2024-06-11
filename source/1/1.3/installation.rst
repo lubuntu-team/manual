@@ -101,6 +101,8 @@ Replace a Partition
 -------------------
 To replace a partition select :guilabel:`Replace a partition` on the :guilabel:`Partitions` tab. To select which filesystem to install lubuntu on choose on the drop down under :guilabel:`Replace a partition`. To select which drive to install on choose in the :guilabel:`Select storage device` menu. To encyrpt your Lubuntu install check the :guilabel:`Encrypt system` checkbox. To look at your current layout of partitions you have look at the :guilabel:`Current` bar graph.  To see what each partition is listed below the graph. To select which partition to replace left click on the partition on the :guilabel:`Current` graph. To see the what partitions will be used after the install read the :guilabel:`After` field. To see the size and filesystem of all partitions view the :guilabel:`After` bar graph. To see where Lubuntu will boot from is also on the bottom. To continue installing press :guilabel:`Next`.
 
+.. image:: replacing_partition.png
+
 Manual Partitioning
 -----------------------
 .. Warning::

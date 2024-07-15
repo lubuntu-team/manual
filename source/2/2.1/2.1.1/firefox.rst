@@ -113,7 +113,7 @@ To change how Firefox deals with websites wanting permissions for Location, Came
 
 Version
 ----------
-Lubuntu currently ships with the latest version of Firefox, Firefox 123.
+Lubuntu currently ships with the latest version of Firefox, Firefox 127.
 
 
 How to Launch

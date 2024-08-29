@@ -66,7 +66,7 @@ The :guilabel:`Bookmarks` tab has settings for a sidebar to quickly change direc
 
 Version
 -------
-Lubuntu ships with version 1.3.0 of QTerminal.
+Lubuntu ships with version 2.0.1 of QTerminal.
 
 How to Launch
 -------------

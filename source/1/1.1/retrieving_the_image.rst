@@ -11,7 +11,7 @@ Before you install Lubuntu, you need to retrieve the correct image. Lubuntu supp
 LTS vs. Regular Releases
 ------------------------
 
-<<<<<<< HEAD
+
 
 Lubuntu offers two types of releases. The **Long Term Support** release, or the **LTS**, is the release recommended for most users. It is supported for three years after the release date and does not contain new features. Throughout the course of the cycle, the Ubuntu Kernel Team will deliver **Hardware Enablement** updates, or **HWE** updates, to Lubuntu via Linux kernel updates. Previously, Lubuntu used **LXDE** but since 18.10 it has used the **LXQt**. Lubuntu 20.04 is the First **Long Term Support** release which uses the more modern **LXQt** desktop environment. 
 

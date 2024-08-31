@@ -22,7 +22,8 @@ This chapter sets up the many preferences included within Lubuntu for themeing a
   3.2.13/session_settings
   3.2.14/shortcut_keys
   3.2.15/users_and_groups
-  3.2.16/window_effects
-  3.2.17/alternative_configurator
-  3.2.18/Printers
-  3.2.19/screensaver
+  3.2.16/alternative_configurator
+  3.2.17/Printers
+  3.2.18/screensaver
+  3.2.19/bluetooth_manager
+  3.2.20/Picom_Configuration

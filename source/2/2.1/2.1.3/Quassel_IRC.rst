@@ -102,7 +102,7 @@ To change your shortcut :menuselection:`Settings --> Configure Shortcuts`. To se
 
 Version
 -------
-Lubuntu ships with version 1:0.13.1 of Quassel IRC.
+Lubuntu ships with version 1:0.14.1 of Quassel IRC.
 
 
 How to Launch

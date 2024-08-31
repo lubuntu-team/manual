@@ -22,7 +22,7 @@ To remove a torrent from the list of torrent files right click on it or :kbd:`De
 
 To filter which torrents are shown on your list use the :guilabel:`Show` drop down menu. To only show active torrents from the :guilabel:`Show` drop down select :menuselection:`Active`. To only show torrents that are downloading from the :guilabel:`Show` menu select :menuselection:`Downloading`. To only show seeding torrents from the :guilabel:`Show` drop down select :menuselection:`Seeding`. To only show Paused torrents from the :guilabel:`Show` drop down select :menuselection:`Paused`. To show only Finished torrents from the :guilabel:`Show` menu select :menuselection:`Finished`. To only show torrents that are verifying from the :guilabel:`Show` drop down select :menuselection:`Verifying`. To only show torrents that are in an error state from the :guilabel:`Show` menu select :menuselection:`Error`. To go back to showing all torrents from the :guilabel:`Show` menu select :menuselection:`All`.
 
-To pause a particular torrent left click on the torrent press :kbd:`Control +P` or :menuselection:`Torrent --> Pause`. To start the torrent again press :kbd:`Control + S` or :menuselection:`Torrent --> Start`. To move a torrent :menuselection:`Torrent --> Set Location` to move where your torrent is. To verify your local data press :kbd:` Control + V` or :menuselection:` Torrent --> Verify Local Data`.
+To pause a particular torrent left click on the torrent press :kbd:`Control +P` or :menuselection:`Torrent --> Pause`. To start the torrent again press :kbd:`Control + S` or :menuselection:`Torrent --> Start`. To move a torrent :menuselection:`Torrent --> Set Location` to move where your torrent is. To verify your local data press :kbd:` Control + V` or :menuselection:`Torrent --> Verify Local Data`.
 
 If you want have a move compact view :menuselection:`View --> Compact View` or press :kbd:`Alt + C`. To switch back out from compact view press the same thing again.
 
@@ -54,12 +54,12 @@ To change options for a torrent file use the :guilabel:`Options` tab. To have th
 Version
 -------
 
-Lubuntu ships with version 3.00 of Transmission.
+Lubuntu ships with version 4.0.5 of Transmission.
 
 How to Launch
 -------------
 
-To launch Transmission go to menu :menuselection:`Internet --> Qtransmission Bittorent Client` or run 
+To launch Transmission go to menu :menuselection:`Internet --> Transmission (Qt)` or run 
 
 .. code:: 
  
@@ -73,7 +73,7 @@ To open your preferences for Transmission :menuselection:`Edit --> Preferences`.
 
 .. image:: qtransmission-speed-pref.png
 
-The :guilabel:`Downloading` tab of your preferences has settings for downloading torrents. To automatically have transmission open the torrent files in a directory check the :guilabel:`Automatically add .torrent files from` checkbox and chose a path to have automatically added.  To start the added torrents automatically check the :guilabel:`Start added torrents` checkbox. To choose where to save torrents is in the :guilabel:`Save to Location:` button to bring up a dialog to show where to save the torrent. To set a maximum number of torrents downloading at the same time change the :guilabel:`Maximum active downloads` field. To stop trying to download a file after no more file to download change the :guilabel:`Download is inactive if data sharing stopped` and choose how many minutes to choose if it is inactive. To add .part to the end of incomplete downloaded files check the :guilabel:`Append ".part" to incomplete files' names` checkbox. To choose if you want a different file to choose the incomplete files check the :guilabel:`Keep incomplete files in` checkbox and bring a dialog to choose where to store the inocomplete files on the right.
+The :guilabel:`Downloading` tab of your preferences has settings for downloading torrents. To automatically have transmission open the torrent files in a directory check the :guilabel:`Automatically add .torrent files from` checkbox and chose a path to have automatically added.  To start the added torrents automatically check the :guilabel:`Start added torrents` checkbox. To choose where to save torrents is in the :guilabel:`Save to Location:` button to bring up a dialog to show where to save the torrent. To set a maximum number of torrents downloading at the same time change the :guilabel:`Maximum active downloads` field. To stop trying to download a file after no more file to download change the :guilabel:`Download is inactive if data sharing stopped` and choose how many minutes to choose if it is inactive. To add .part to the end of incomplete downloaded files check the :guilabel:`Append ".part" to incomplete files' names` checkbox. To choose if you want a different file to choose the incomplete files check the :guilabel:`Keep incomplete files in` checkbox and bring a dialog to choose where to store the incomplete files on the right.
 
 .. image:: transmissionprefrences.png
 

@@ -40,7 +40,7 @@ where [dir] is the directory you want to switch to. Another thing that is useful
 
 Many command line commands have what are called options that use one or sometimes two :kbd:`-` to type before options that allow you to do different options on different commands which checking the man page to see what options for each command.
 
-There is also the command line for managing and installing packages which is beyond the scope of this appendix but please see `apt package management <https://ubuntu.com/server/docs/package-management>`_ for how to insert and remove packages from the command line. 
+There is also the command line for managing and installing packages which is beyond the scope of this appendix but please see `apt package management <https://ubuntu.com/server/docs/package-management>`_ for how to insert and remove packages from the command line. To see how to manage snap packages on the command line see `snap documentation <https://snapcraft.io/docs/quickstart-guide#heading--install-snap>`_ .
 
 If you need to edit a text file from the command line the easiest editor included is nano so to edit a file from the command line if you broke something run 
 
@@ -48,9 +48,15 @@ If you need to edit a text file from the command line the easiest editor include
 
    nano [file]
 
-where you replace [file] with the file you want to edit.
+where you replace [file] with the file you want to edit. Lubuntu also ships with the advanced text editor vim however documenting how to use that editor is beyond the scope of this manual. If you want to learn that advanced text editor run the command 
 
-If you want to stop something running in the terminal press :kbd:`Control +C`.
+.. code::
+   
+   vimtutor
+
+which provides you an interactive tutorial.
+
+If you want to stop something running in the terminal press :kbd:`Control +C`. To run a task in the background type a :kbd:`&` at the end of it.
 
 If you want just to see the contents of a file on standard output run 
 
@@ -72,4 +78,6 @@ One of the most powerful uses of the command line is called a pipe which allows 
 
    lspci |less
    
-. Also | is called the pipe character. 
+. Also | is called the pipe character. The command less is what is known as a pager that is really useful to see commands that produce lots of output interactively.
+
+To get the previous command you have entered press :kbd:`Up Arrow`. To go to the next command in your history press :kbd:`Down Arrow`.

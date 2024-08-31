@@ -6,14 +6,11 @@ Session Settings is the way to change what happens when log into Lubuntu. Here y
 Usage
 ------
 
-
-The :guilabel:`Basic Settings` tab lets you change with a window manager  and LXQt modules. To change the window manager used by LXQt, on the basic settings tab use the :guilabel:`Window Manager` drop down menu. Choose from the drop down list or press :guilabel:`Search` if the drop down list does not contain your new window manager. The :guilabel:`LXQt Modules` heading lists the different part of LXQt if you find you do not want part of LXQt active you can enable or disable them here. If you wish to start the compton X11 compositor you can do so here, we have chosen to disable it at default to lower system resources by default. To stop an LXQt Module left click on the module name press the :guilabel:`Stop` button. To start a stopped LXQt Modules press the :guilabel:`Start` button. If you want to restart part of LXQt without using the command line first press the :guilabel:`Stop` button and then the :guilabel:`Start` button.
-
+The :guilabel:`Basic Settings` tab lets you change with a window manager  and LXQt modules. To change the window manager used by LXQt, on the basic settings tab use the :guilabel:`Window Manager` drop down menu. Choose from the drop down list or press :guilabel:`Search` if the drop down list does not contain your new window manager. The :guilabel:`LXQt Modules` heading lists the different part of LXQt if you find you do not want part of LXQt active you can enable or disable them here. To stop an LXQt Module left click on the module name press the :guilabel:`Stop` button. To disable compositing you can press the :guilabel:`Stop` button after selecting Picom(X Compositor). To start a stopped LXQt Modules press the :guilabel:`Start` button. If you want to restart part of LXQt without using the command line first press the :guilabel:`Stop` button and then the :guilabel:`Start` button.
 
 .. image:: sessionsettings-basic.png
 
-The checkbox for :guilabel:`Ask for confirmation to leave session` gives you a simple yes no dialog to make sure you really want to leave so you do not lose your work uncheck it if you do not want this and find this dialog annoying. The :guilabel:`Lock screen before suspending/hibernating` checkbox locks your screen before suspending or hibernating. To change how long to wait after locking the screen to delay or suspend change the :guilabel:`Suspend/hibernate after lock delay` field. 
-
+To make everything on the screen appear bigger increase the :guilabel:`Scale factor` field. The checkbox for :guilabel:`Ask for confirmation to leave session` gives you a simple yes no dialog to make sure you really want to leave so you do not lose your work uncheck it if you do not want this and find this dialog annoying. The :guilabel:`Lock screen before suspending/hibernating` checkbox locks your screen before suspending or hibernating. To change how long to wait after locking the screen to delay or suspend change the :guilabel:`Suspend/hibernate after lock delay` field. 
 
 To change where LXQt saves the default user directories left click on the :guilabel:`User Directories` tab. To view what folder to change the default location for use the :guilabel:`Desktop`, :guilabel:`Downloads`, :guilabel:`Templates`, :guilabel:`Public Share`, :guilabel:`Documents`, :guilabel:`Music`, :guilabel:`Pictures`, or :guilabel:`Videos` field to change that default folder for that. To bring up a dialog to change your folder press the folder button. In the center shows the current path to your documents. To go back to the default folder press the leftward pointing arrow with an x in it.
 
@@ -23,7 +20,7 @@ The :guilabel:`Autostart` tab has settings for what to autostart. The autostart 
 
 .. image:: session_settings.png
 
-The tab for :guilabel:`Environment (Advanced)` has many effects for you environment variables for your session. The :guilabel:`Variable Name` provides the name of the environment variable. To change the value of a variable double click on the value under the :guilabel:`Value` column. To add a new environment variable press the :guilabel:`Add` button. Then at the bottom a dotted line will appear and double click to enter the Variable Name and the Value for the variable. To delete an environment variable press the :guilabel:`Delete` button. Several of these variables relate to hidpi support see `<https://forum.lxqt.org/t/detailed-guide-to-enable-high-dpi-scaling-on-lxqt/507/5>`_ . To change your cursor size change the XCURSOR_SIZE variable.
+The tab for :guilabel:`Environment (Advanced)` has many effects for you environment variables for your session. The :guilabel:`Variable Name` provides the name of the environment variable. To change the value of a variable double click on the value under the :guilabel:`Value` column. To add a new environment variable press the :guilabel:`Add` button. Then at the bottom a dotted line will appear and double click to enter the Variable Name and the Value for the variable. To delete an environment variable press the :guilabel:`Delete` button. To change your cursor size change the XCURSOR_SIZE variable.
 
 .. image:: lxqt-session-advanced.png
 
@@ -31,7 +28,7 @@ If you want to undo changes you have done press the :guilabel:`Reset` button. To
 
 Version
 -------
-Lubuntu ships with version 0.17.1 of Session Settings. 
+Lubuntu ships with version 1.4.0 of Session Settings. 
 
 How to Launch
 -------------

@@ -10,7 +10,7 @@ Choosing the media
 In order to boot the image, you need to put it somewhere. You have two choices either
 
  - a DVD
- - a USB drive (2 GB or greater)
+ - a USB drive (4 GB or greater)
 
 Writing/burning the Image
 -------------------------
@@ -28,7 +28,7 @@ Guides from the Ubuntu website:
  - `How to burn a DVD on Windows <https://tutorials.ubuntu.com/tutorial/tutorial-burn-a-dvd-on-windows>`_
  - `How to burn a DVD on macOS <https://tutorials.ubuntu.com/tutorial/tutorial-burn-a-dvd-on-macos>`_
 
-For writing images to USB drives on Linux, we recommend `mkusb <https://help.ubuntu.com/community/mkusb>`_ a tool developed by a Lubuntu team member, or the USB creator shipped with Lubuntu `Startup Disk Creator <https://manual.lubuntu.me/3/3.1/3.1.4/startup-disk-creator.html>`_.
+For writing images to USB drives on Linux, we recommend `mkusb <https://help.ubuntu.com/community/mkusb>`_ a tool developed by a Lubuntu team member, or the USB creator shipped with Lubuntu `Startup Disk Creator <https://manual.lubuntu.me/3/3.1/3.1.3/startup-disk-creator.html>`_.
 
 Writing images to USB drives from macOS or Windows is beyond the scope of this book, but the Ubuntu website also
 has several guides on this:

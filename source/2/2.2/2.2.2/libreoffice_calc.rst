@@ -33,7 +33,7 @@ To sort your data like a bunch of names first select all the cells with the mous
 
 To undo a selection press :kbd:`control +z` or press the button with the arrow looping around and pointing to the left. To redo an operation press :kbd:`Control +y` or the number looping to the right and exiting to the left.
 
-To zoom to view a full page on your spreadsheet in the menu :menuselection:`View --> Zoom --> Entire Page`. To view the whole width of your page on the menu :menuselection:`View --> Zoom --> Page Width`. To zoom to a particular percentage :menuselection:`View --> Zoom` and select the percentage you want. Another way to change your zoom is the slider in the bottom right hand corner. To zoom in move the slider to the right and to zoom out move the slider to the left.
+To zoom to view a full page on your spreadsheet in the menu :menuselection:`View --> Zoom --> Entire Page`. To view the whole width of your page on the menu :menuselection:`View --> Zoom --> Page Width`. To zoom to a particular percentage :menuselection:`View --> Zoom` and select the percentage you want. Another way to change your zoom is the slider in the bottom right hand corner. To zoom in move the slider to the right and to zoom out move the slider to the left. To see your current zoom is in the bottom right hand corner. To bring up a more zoom options right click and select which zoom you want.
 
 .. image:: libreoffice_calc.png
 
@@ -51,7 +51,15 @@ To insert a hyperlink in LibreOffice Calc :menuselection:`Insert --> Hyperlink` 
 
 To make text bold in LibreOffice Calc press :kbd:`Control + B` or :menuselection:`Format --> Text --> Bold`. To make text italic press :kbd:`Control + I` or :menuselection:`Format --> Text --> Italic`. To have your text have a single underline :menuselection:`Format --> Text --> Single Underline`.
 
-To align text in the center of the cells press :kbd:`Control +E` or :menuselection:`Format --> Align Text --> Centered`. To align text in the cells to the right of the cell press :kbd:`Control +R` or :menuselection:` Format --> Align Text --> Right`. To switch the text back to being on the left press :kbd:`Control +L` or :menuselection:`Format --> Align Text --> Left`. To align text so that the edges of each cell all line up with being stretched in the center press :kbd:`Control + J` or :menuselection:` Format --> Align Text --> Justified`. To align text to the top of the cell :menuselection:` Format --> Align Text --> Top`. To center thee text vertically in the cell :menuselection:`Format --> Align Text --> Center`. To align text to the bottom of a cell :menuselection:`Format --> Align Text --> Bottom`.
+To align text in the center of the cells press :kbd:`Control +E` or :menuselection:`Format --> Align Text --> Centered`. To align text in the cells to the right of the cell press :kbd:`Control +R` or :menuselection:`Format --> Align Text --> Right`. To switch the text back to being on the left press :kbd:`Control +L` or :menuselection:`Format --> Align Text --> Left`. To align text so that the edges of each cell all line up with being stretched in the center press :kbd:`Control + J` or :menuselection:`Format --> Align Text --> Justified`. To align text to the top of the cell :menuselection:`Format --> Align Text --> Top`. To center thee text vertically in the cell :menuselection:`Format --> Align Text --> Center`. To align text to the bottom of a cell :menuselection:`Format --> Align Text --> Bottom`.
+
+To format your cells for a number with two decimal places press :kbd:`Control+Shift+1` or :menuselection:`Format --> Number Format --> Number`. To format a number as a percent press :kbd:`Control+ Shift+ 5` or :menuselection:`Format --> Number Format --> Percent`. To format a cell as currency press :kbd:`Control + Shift + 4` or :menuselection:`Format --> Number Format --> Currency`. To format a cell as a date press :kbd:`Control+ Shift+ 3` or :menuselection:`Format --> Number Format --> Date`. To format a cell as time :menuselection:`Format --> Number Format --> Time`. To format the cell in scientific notation press :kbd:`Control + Shift + 2` or :menuselection:`Format --> Number Format --> Scientific`. To switch your formatting back to the general default press :kbd:`Control+ Shift +6` or :menuselection:`Format --> Number Format --> General`. To add a thousands separator to your number :menuselection:`Format --> Number Format --> Thousands Separator`.
+
+To toggle hiding the formula bar :menuselection:`View --> Formula Bar`. To toggle viewing the status bar at the bottom :menuselection:`View --> Status Bar`. To toggle showing the headers that show what each cell is like a4 :menuselection:`View --> View Headers`. To toggle viewing gridlines :menuselection:`View --> View Grid Lines`.
+
+To add a new spreadsheet quickly at the end press the :guilabel:`+` button at the bottom. To switch between different sheets left click on the sheet name at the bottom bar. To delete a sheet you added right click on it :menuselection:` Delete Sheet` and then confirm you are deleting that sheet. To rename a sheet right click on the sheets name and :menuselection:`Rename Sheet`. To see which sheet you are on it will be underlinded at the bottom bar and also say how many sheets along the bottom bar.
+
+To insert a comment press :kbd:`Control + Alt +C` or :menuselection:`Insert --> Comment`. To then type the comment in the yellow popup. To toggle viewing your comments :menuselection:`View -->  Comments`.
 
 To quit LibreOffice Calc press :kbd:`Control+Q`.
 
@@ -71,7 +79,7 @@ The :guilabel:`Chart Elements` tab controls labels and displaying legends on you
 
 Version
 -------
-Lubuntu ships with version 7.3.2 of LibreOffice Calc.
+Lubuntu ships with version 7.6.4 of LibreOffice Calc.
 
 How to Launch
 -------------

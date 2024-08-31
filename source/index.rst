@@ -1,7 +1,7 @@
 Welcome to the Lubuntu Manual!
 ==============================
 
-Welcome to the Lubuntu Manual! This is the official reference book for using Lubuntu. This manual covers many topics, such as installation instructions, applications Lubuntu provides, and much more!
+Welcome to the Lubuntu Manual! This is the official reference book for using Lubuntu. This manual covers many topics, such as installation instructions, applications Lubuntu provides, and much more! If you are using a long term support release of the Lubuntu there is a manual version for the long term support hosted at `Lubuntu Manual LTS <https://manual.lubuntu.me/lts/>`_
 
 What is Lubuntu?
 ----------------
@@ -35,12 +35,12 @@ Contents
 Contact Us
 ----------
 
-Do you have questions? Want to get involved? Take a look at our official website at `Lubuntu.me <https://lubuntu.me>`_ where you can find `the Lubuntu blog <https://lubuntu.me/blog/>`_, `the Lubuntu discourse <https://discourse.lubuntu.me/>`_, `ways to get in contact with us <https://lubuntu.me/links/>`_, and `our Phabricator instance <https://phab.lubuntu.me/>`_ where we do most of the Lubuntu development.
+Do you have questions? Want to get involved? Take a look at our official website at `Lubuntu.me <https://lubuntu.me>`_ where you can find `the Lubuntu blog <https://lubuntu.me/blog/>`_, `the Lubuntu discourse <https://discourse.lubuntu.me/>`_, `ways to get in contact with us <https://lubuntu.me/links/>`_, and `our gittea instance <https://git.lubuntu.me/>`_ where we do most of the Lubuntu development.
 
 Thank you!
 ----------
 
 Thank you for choosing to use Lubuntu!
 
-:Authors: Simon Quigley, Lyn Perrine, Jacob Kim, Daniel Lim
-:Translators: Marcin Mikołajczak
+:Author: Lyn Perrine
+:Additional contributors: Simon Quigley, Jacob Kim, Daniel Lim

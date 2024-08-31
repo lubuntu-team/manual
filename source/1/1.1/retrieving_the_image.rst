@@ -2,25 +2,34 @@ Chapter 1.1 Retrieving the image
 =================================
 
 
-Before you install Lubuntu, you need to retrieve the correct image. Lubuntu supports AMD64 CPU types also known as 64-bit with a new version every six months (supported for nine months), and every two years being a long term support release (supported for three years). Lubuntu 20.04 is a Long Term Support release supported until 2023. Lubuntu 21.04 is supported until January 2022.
+
+
+Before you install Lubuntu, you need to retrieve the correct image. Lubuntu supports AMD64 CPU types also known as 64-bit with a new version every six months (supported for nine months), and every two years being a long term support release (supported for three years). Lubuntu 24.04 is a Long Term Support release supported until 2027.
+
 
 
 LTS vs. Regular Releases
 ------------------------
 
+<<<<<<< HEAD
 
 Lubuntu offers two types of releases. The **Long Term Support** release, or the **LTS**, is the release recommended for most users. It is supported for three years after the release date and does not contain new features. Throughout the course of the cycle, the Ubuntu Kernel Team will deliver **Hardware Enablement** updates, or **HWE** updates, to Lubuntu via Linux kernel updates. Previously, Lubuntu used **LXDE** but since 18.10 it has used the **LXQt**. Lubuntu 20.04 is the First **Long Term Support** release which uses the more modern **LXQt** desktop environment. 
 
 Lubuntu offers two types of releases. The **Long Term Support** release, or the **LTS**, is the release recommended for most users. It is supported for three years after the release date and does not contain new features. Throughout the course of the cycle, the Ubuntu Kernel Team will deliver **Hardware Enablement** updates, or **HWE** updates, to Lubuntu via Linux kernel updates. Previously, Lubuntu used **LXDE** but since 18.10 it has used **LXQt**. Lubuntu 20.04 is the First **Long Term Support** release which uses the more modern **LXQt** desktop environment. 
+
+Lubuntu offers two types of releases. The **Long Term Support** release, or the **LTS**, is the release recommended for most users. It is supported for three years after the release date and does not contain new features. Throughout the course of the cycle, the Ubuntu Kernel Team will deliver **Hardware Enablement** updates, or **HWE** updates, to Lubuntu via Linux kernel updates. Previously, Lubuntu used **LXDE** but since 18.10 it has used **LXQt**. Lubuntu 20.04 was the First **Long Term Support** release which uses the more modern **LXQt** desktop environment. 
+
 
 
 For users looking to try new features every six months at the expense of the support cycle length, Lubuntu offers **interim releases**, or **regular releases**. These releases, while they are considered stable, are testing grounds for major, new features which will be rolled into the LTS release. Users of the regular releases are typically enthusiasts and somewhat more experienced users looking for a fresher experience.
 
 **It is extremely important that if you choose this path, you upgrade to each successive regular release shortly after it comes out.** If you are not comfortable doing this, you should consider using the LTS release instead.
 
+About four months after a new LTS release comes and every 6 months thereafter an **LTS Point Release** is realeased to support new hardware and fewer updates to download with the longer support term of an LTS realease. LTS point releases are released every August and Feburary. Each LTS point release is called 24.04.1 is the first point release for the 24.04 point release.
+
 Ways to download the image
 ---------------------------
-Now that the decision of which architecture and release type you need is made, you will need to download the image.
+Now that the decision of which release type you need is made, you will need to download the image.
 
 There are several ways to download the Lubuntu image:
  - HTTP download (from your web browser or terminal).
@@ -45,13 +54,15 @@ To verify the image, run this from the command line:
 
 .. code:: 
 
- sha256sum lubuntu-22.04.4-desktop-amd64.iso
+
+ sha256sum lubuntu-24.04-desktop-amd64.iso
+
 
 and then carefully check that the output matches 
 
 .. code::
 
-  487d43de87f92b463b85724f689658d664e9a0df8ccefcf37a8dd0816bcf8e97 *lubuntu-22.04.4-desktop-amd64.iso
+  f7ed99b368e00ab7f3fa2c05cefd912f43fc19a8ab9d4d241432d7d9e97e3491 *lubuntu-24.04-desktop-amd64.iso
 
 
 Downloading the image via BitTorrent
@@ -86,6 +97,7 @@ Otherwise, there is a snap application you can download of zsync which should fu
 To download the image using zsync run
  
 .. code::
+
 
 
    zsync http://cdimage.ubuntu.com/lubuntu/releases/22.04.4/release/lubuntu-22.04.4-desktop-amd64.iso.zsync

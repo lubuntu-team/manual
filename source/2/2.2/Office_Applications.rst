@@ -9,8 +9,8 @@ This chapter documents office applications including the LibreOffice office suit
 
   2.2.1/libreoffice
   2.2.2/libreoffice_calc
-  2.2.3/libreoffice_impress
-  2.2.4/libreoffice_math
-  2.2.5/libreoffice_writer
-  2.2.6/qpdfview
-
+  2.2.3/libreoffice_draw
+  2.2.4/libreoffice_impress
+  2.2.5/libreoffice_math
+  2.2.6/libreoffice_writer
+  2.2.7/Okular

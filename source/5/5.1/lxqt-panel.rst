@@ -66,6 +66,7 @@ Shipped widgets not enabled by default:
  - CPU monitor
  - Color Picker
  - Custom Command
+ - Fancy Menu
  - Keyboard State Indicator
  - Panel DOM Tree
  - Qeyes

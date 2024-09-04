@@ -135,6 +135,8 @@ To add a different optional menu add the :guilabel:`Fancy Application Menu` widg
 
 To add a program to your desktop from the fancy menu right click and select :menuselection:`Add to desktop`. To add a program from the menu to your favorites right click on it and select :menuselection:`Add to Favorites`. To remove an item from your favorites right click on it and select :menuselection:`Remove from Favorites`. 
 
+To change settings with fancy application menus right click on the menu icon and select :menuselection:`Configure "Fancy Application Menu"`. To set a custom icon for your fany menu left click the :guilabel:`Icon` checkbox. To choose a custom icon for your menu enter the path in the field right of :guilabel:`Icon` or press the :guilabel:`Folder` button. To change the font size for your menu check the :guilabel:`Custom font size` checkbox and then select the font size on the right. 
+
 To add an applet that can show your current keyboard layout and if capslock, numlock, or scrollock is pressed use the :guilabel:`Keyboard State Indicator` applet. If shown the capslock indicator if shown will have a highlighted :guilabel:`C` to show if you have capslock on. The numlock indicator if shown has the :guilabel:`N` is highlighted. The scrollock indicator if shown will have a highligted :guilabel:`S` to show if scrolllock is on. Then to the right of your panel shows your current keyboard layout with either text or a flag by the for your keyboard layout.
 
 .. image:: keyboard-state-info.png

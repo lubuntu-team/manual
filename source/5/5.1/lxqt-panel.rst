@@ -66,6 +66,7 @@ Shipped widgets not enabled by default:
  - CPU monitor
  - Color Picker
  - Custom Command
+ - Directory Menu
  - Fancy Menu
  - Keyboard State Indicator
  - Panel DOM Tree
@@ -131,6 +132,8 @@ The Color picker is shows what color something is on your screen usually useful 
 To have a custom command add the :guilabel:`Custom Command` widget. To have this have meaningful output you need to configure the widget by right clicking on the Custom Command widget and selection :guilabel:`Configure "Custom Command"`. To have the output not rotate when the panel is vertical uncheck the :guilabel:`Autorotate when the panel is vertical` checkbox. To change what output your custom command has left click the button next to :guilabel:`Font`. To type the command you want to run type in the box above and to the right of :guilabel:`Command`. To run the command with bash running the command check the :guilabel:`Run with "bash -c"` checkbox. To change if or how often the command is run on repeat check the :guilabel:`Repeat command after` checkbox and change how often it runs in the field to the right. If the result of the command is an image check the :guilabel:`Command outputs an image` checkbox. To choose an icon for the custom command widget type the path of the icon in :guilabel:`Icon` or press the :guilabel:`Browse` button. To choose just put text on the panel type in the :guilabel:`Text` field. To change the maximum width the output of the text can be type in the :guilabel:`Max Width` field.
 
 To change what commands when you click on the custom command is under the :guilabel:`Mouse Commands` heading. To run a command with clicking on the applet enter the command in the :guilabel:`Click` in mouse commands. To run a specific command upon going up on the mouse wheel enter the command in the :guilabel:`Wheel Up` field. To run a specific command with scrolling down on the mousewheel enter the command in the :guilabel:`Wheel Down` field.
+
+To add a menu that lets you open a file manager in a directory Add the :guilabel:`Directory Menu` widget. To open the Directory Menu left click on it. To open a file manager in this location press the :guilabel:`Open`. To switch to opening a folder in your directory mouseover the folder and then subsquently in any in that folder. To open a location in termainl select :guilabel:`Open in terminal`.
 
 To add a different optional menu add the :guilabel:`Fancy Application Menu` widget. To pen this fancy menu simply left click on it. At the top you can search in the :guilabel:`Search` bar at the top. To the left if a bar of added favorites to your menu. To click through your menu for applications left click on the category names on the right. To open an about dialog about LXQt press the :guilabel:`Hummingbird` button in the bottom left hand corner of the menu. To open LXQt Configuration Center left click the :guilabel:`light bulb in front of a gear` button towards the bottom right of the menu. To bring up a shutdown menu left click the :guilabel:`Power` button. To close the menu left click on the menu on the panel with the panel open or press :kbd:`Escape` to close the fancy menu.
 

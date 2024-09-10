@@ -80,6 +80,8 @@ IF you have trouble reading a webpage you may want to use reader view. To enter 
 
 To change settins with your text in reader view press the :guilabel:`Aa` button on the left sidebar. To change increase text size press the :guilabel:`+` button and conversely press the :guilabel:`-` button. To choose what kind of font to read use the :guilabel:`Font` menu. To choose which weight of font to use use the :guilabel:`Font weigth` menu. To change how much width of the screen to take up layout use the :guilabel:`Content width` slider. To change the space between lines change the :guilabel:`Line spacing` slider.
 
+To choose a theme for how to view text in reader view use the :guilabel:`Theme` on the sidebar to the left. The default subtab lets you choose either an :guilabel:`Auto`, :guilabel:`Dark`, :guilabel:`Contrast`, :guilabel:`Light`, :guilabel:`Sepia`, or :guilabel:`Gray` theme by left clicking on the theme. To use a custom theme use the :guilabel:`Custom`tab. To choose the color of your text left click on the :guilabel:`Text` box. To change the background color of your text left click the :guilabel:`Background` menu. To choose which color for unvisited links use the :guilabel:`Univisted links` menu. To change the color of visited links change the :guilabel:`Visited links` menu. To change what color to highlight text to be read aloud :guilabel:`Highlighter for read aloud` menu. To reset your custom theme to default press :guilabel:`Reset defaults`.
+
 Customizing
 -----------
 

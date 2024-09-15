@@ -35,7 +35,7 @@ After starting the upgrade the new files will all be downloaded with an estimate
 
 .. image:: downloadinguprade.png
 
-Next the upgrader will install packages. Along the bottom of the screen is a progress bar. To see progress of which packages are being upgraded press the :guilabel:`Show Terminal`. To hide the terminal again press the :guilabel:`Hide Terminal` button.
+Next the upgrader will install packages. Along the bottom of the screen is a progress bar. To see progress of which packages are being upgraded press the :guilabel:`Show Terminal`. To hide the terminal again press the :guilabel:`Terminal` drop down.
 
 .. image:: upgradinging-install-packages.png
 

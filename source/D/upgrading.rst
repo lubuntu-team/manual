@@ -39,7 +39,7 @@ Next the upgrader will install packages. Along the bottom of the screen is a pro
 
 .. image:: upgradinging-install-packages.png
 
-After the packages are installed you will be asked to if you want to clean up unneeded packages. To see which packages will be removed press the :guilabel:`Details` button. To remove packages press the :guilabel:`Remove` button. To keep the packages press the :guilabel:`Keep` button.
+After the packages are installed you will be asked to if you want to clean up unneeded packages. To see which packages will be removed press the :guilabel:`Details` drop down. To remove packages press the :guilabel:`Remove` button. To keep the packages press the :guilabel:`Keep` button.
 
 .. image:: clean-up.png
 

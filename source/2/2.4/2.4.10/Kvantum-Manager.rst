@@ -1,9 +1,12 @@
 Chapter 2.4.10 Kvantum Manager
 ===============================
 
+Kvantum Manager customizes your Qt style.
+
+
 Version
 -------
-
+Lubuntu ships with version 1.1.2 of Kvantum Manager.
 
 How to Launch
 --------------

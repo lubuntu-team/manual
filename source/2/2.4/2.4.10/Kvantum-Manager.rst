@@ -11,6 +11,8 @@ To preview the way the current theme looks press :guilabel:`Preview` button. Aft
 
 To change your theme use the :guilabel:`Change/Delete Theme` tab. To select a theme you can search for one by name typing next to :guilabel:`Select a theme` or press the drop down button to select this theme. Then to apply it press the :guilabel:`Use this theme` checkbox. To delete a theme press the :guilabel:`Delete this theme` button.
 
+To choose to launch a particular application in a certain theme use the :guilabel:`Aplication Themes` tab. To choose which theme to launch a particular application in select the theme under :guilabel:`Installed Theme`. Then list which applications you want the theme to be in in the :guilabel:`Application(s)` field. To clear what applications you have in a list press the :guilabel:`Remove List` button. To save your current list of applications to be launched with a theme press the :guilabel:`Save` button.
+
 Version
 -------
 Lubuntu ships with version 1.1.2 of Kvantum Manager.

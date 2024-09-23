@@ -11,4 +11,4 @@ Lubuntu ships with version 1.1.2 of Kvantum Manager.
 How to Launch
 --------------
 
-To launch Kvantum Manager from the menu :menuselection:`Accessoires --> Kvantum Manager`.
+To launch Kvantum Manager from the menu :menuselection:`Accessoires --> Kvantum Manager` or :menuselection:`Prefrences --> LXQt Settings --> Kvantum Manager`.

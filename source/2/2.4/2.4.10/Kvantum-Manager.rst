@@ -7,7 +7,9 @@ Usage
 -----
 The :guilabel:`Install/ Update Theme` lets you install an external theme and use it. To select a folder for this theme press the :guilabel:`Select a Kvantum theme folder` or type the path in the bar next to this. To install the theme press the :guilabel:`Install this theme` button. 
 
-To preview the way the current theme looks press :guilabel:`Preview` button. To view interactive help about something press the :guilabel:`Help`. To Quit Kvantum manager press the :guilabel:`Quit` button.
+To preview the way the current theme looks press :guilabel:`Preview` button. After this a window will let you interact with all the different elements in your theme in several tabs to see how different window elements will look. To view interactive help about something press the :guilabel:`Help`. To Quit Kvantum manager press the :guilabel:`Quit` button.
+
+
 
 Version
 -------

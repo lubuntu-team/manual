@@ -15,6 +15,8 @@ To change settings for your current theme use the :guilabel:`Configure Active Th
 
 To use a normal weight font for push buttons check the :guilabel:`Normal font for default push buttons` checkbox. To not use icon on push buttons check the :guilabel:`Iconless push buttons` checkbox. To not use icon for menus check the :guilabel:`Iconless menus` checkbox.
 
+To save your changes to your theme press the :guilabel:`Save` button. To change back to how your application themese were before press the :guilabel:`Restore` button.
+
 To choose to launch a particular application in a certain theme use the :guilabel:`Application Themes` tab. To choose which theme to launch a particular application in select the theme under :guilabel:`Installed Theme`. Then list which applications you want the theme to be in in the :guilabel:`Application(s)` field. To clear what applications you have in a list press the :guilabel:`Remove List` button. To save your current list of applications to be launched with a theme press the :guilabel:`Save` button.
 
 Version

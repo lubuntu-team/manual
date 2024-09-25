@@ -29,6 +29,8 @@ To save your changes to your theme press the :guilabel:`Save` button. To change 
 
 To choose to launch a particular application in a certain theme use the :guilabel:`Application Themes` tab. To choose which theme to launch a particular application in select the theme under :guilabel:`Installed Theme`. Then list which applications you want the theme to be in in the :guilabel:`Application(s)` field. To clear what applications you have in a list press the :guilabel:`Remove List` button. To save your current list of applications to be launched with a theme press the :guilabel:`Save` button.
 
+.. image:: application-themes.png
+
 Version
 -------
 Lubuntu ships with version 1.1.2 of Kvantum Manager.

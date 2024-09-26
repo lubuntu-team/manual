@@ -29,7 +29,7 @@ To choose the sizes for various part of user interfaces and how long for things 
 
 .. image:: sizes-delay-subtab.png
 
-The:guilabel:`Miscellaneous` tab has other settings for how applications appear. To choose to have tabs aligned to the left by default check the :guilabel:`Left aligned tabs` checkbox. To have inactive tabs have no borders check the :guilabel:`Join inactive tabs` checkbox. To hide arrows on scrollbars check the :guilabel:`No arrows for scrollbars` checkbox. To draw scrollbars inside frames check the :guilabel:`Scrollbars inside frames` checkbox.
+The:guilabel:`Miscellaneous` tab has other settings for how applications appear. To choose to have tabs aligned to the left by default check the :guilabel:`Left aligned tabs` checkbox. To have + and - buttons be drawn inline check the :guilabel:`Inline spin indiactors` checkbox. To have + and - buttons be shown vertically check the :guilabel:`Vertical spin indicators`. To have inactive tabs have no borders check the :guilabel:`Join inactive tabs` checkbox. To hide arrows on scrollbars check the :guilabel:`No arrows for scrollbars` checkbox. To draw scrollbars inside frames check the :guilabel:`Scrollbars inside frames` checkbox.
 
 .. image:: misc-subtab.png
  

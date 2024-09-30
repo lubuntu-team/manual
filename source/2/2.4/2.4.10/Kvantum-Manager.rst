@@ -33,6 +33,8 @@ The :guilabel:`Miscellaneous` tab has other settings for how applications appear
 
 .. image:: misc-subtab.png
  
+To group labels above frame check the :guilabel:`Group-box label above frame` checkbox. To fill rectangles when you highlight something check the :guilabel:`Fill rubber band rectangles` checkbox. 
+ 
 To save your changes to your theme press the :guilabel:`Save` button. To change back to how your application themes were before press the :guilabel:`Restore` button.
 
 To choose to launch a particular application in a certain theme use the :guilabel:`Application Themes` tab. To choose which theme to launch a particular application in select the theme under :guilabel:`Installed Theme`. Then list which applications you want the theme to be in in the :guilabel:`Application(s)` field. To clear what applications you have in a list press the :guilabel:`Remove List` button. To save your current list of applications to be launched with a theme press the :guilabel:`Save` button.

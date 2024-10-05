@@ -104,7 +104,7 @@ To configure the volume applet right click on the volume applet and select :menu
 
 .. image:: volume-app-pref.png
 
-To change settings of your Status Notifier press the :guilabel:`...` button in the list of applets or on the status notifier applet left click on :menuselection:`Options`. To change how long to have something visible you will autohide will have change the :guilabel:`Attention period`. To hide or autohide notifications from a particular application is to change the app settings under the:guilabel:`Visibility` column. To choose to hide a notification automatically select :menuselection:`Auto-hide`. To have a notification always have its notifications hidden select :menuselection:`Always hide`. To have notifications of an application always be shown select :menuselection:`Always Show`.
+To change settings of your Status Notifier press the :guilabel:`...` button in the list of applets or on the status notifier applet left click on :menuselection:`Options`. To change how long to have something visible you will autohide will have change the :guilabel:`Attention period`. To hide or autohide notifications from a particular application is to change the app settings under the :guilabel:`Visibility` column. To choose to hide a notification automatically select :menuselection:`Auto-hide`. To have a notification always have its notifications hidden select :menuselection:`Always hide`. To have notifications of an application always be shown select :menuselection:`Always Show`.
 
 .. image::  status-notifier-pref.png
 

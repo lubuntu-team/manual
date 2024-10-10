@@ -41,13 +41,13 @@ To verify the image, run this from the command line:
 
 .. code:: 
 
- sha256sum lubuntu-24.04-desktop-amd64.iso
+ sha256sum lubuntu-24.10-desktop-amd64.iso
 
 and then carefully check that the output matches 
 
 .. code::
 
-  f7ed99b368e00ab7f3fa2c05cefd912f43fc19a8ab9d4d241432d7d9e97e3491 *lubuntu-24.04-desktop-amd64.iso
+  5c9c3f03ea12566ecec008aef97afa997854674a1a0421d400cf48d819fd953c *lubuntu-24.10-desktop-amd64.iso
 
 Downloading the image via BitTorrent
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

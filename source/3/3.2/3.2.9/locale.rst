@@ -17,7 +17,7 @@ To see how the current locale will appear read it under the :guilabel:`Examples`
  
 Version
 -------
-Lubuntu ships with version 1.4.0 of Locale. 
+Lubuntu ships with version 2.0.0 of Locale. 
 
 How to Launch
 -------------

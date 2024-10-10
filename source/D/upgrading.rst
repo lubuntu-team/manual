@@ -35,11 +35,11 @@ After starting the upgrade the new files will all be downloaded with an estimate
 
 .. image:: downloadinguprade.png
 
-Next the upgrader will install packages. Along the bottom of the screen is a progress bar. To see progress of which packages are being upgraded press the :guilabel:`Show Terminal`. To hide the terminal again press the :guilabel:`Hide Terminal` button.
+Next the upgrader will install packages. Along the bottom of the screen is a progress bar. To see progress of which packages are being upgraded press the :guilabel:`Show Terminal`. To hide the terminal again press the :guilabel:`Terminal` drop down.
 
 .. image:: upgradinging-install-packages.png
 
-After the packages are installed you will be asked to if you want to clean up unneeded packages. To see which packages will be removed press the :guilabel:`Details` button. To remove packages press the :guilabel:`Remove` button. To keep the packages press the :guilabel:`Keep` button.
+After the packages are installed you will be asked to if you want to clean up unneeded packages. To see which packages will be removed press the :guilabel:`Details` drop down. To remove packages press the :guilabel:`Remove` button. To keep the packages press the :guilabel:`Keep` button.
 
 .. image:: clean-up.png
 

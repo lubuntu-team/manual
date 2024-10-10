@@ -13,7 +13,7 @@ The next screen will present a choice between :guilabel:`Try Lubuntu`, which wil
 
 .. image:: installer-prompt.png
 
-Once you have booted into the live session, feel free to explore Lubuntu and make sure all your hardware works. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop :guilabel:`Install Lubuntu 24.04 LTS` or :menuselection:`System Tools --> Install Lubuntu 24.04 LTS`.
+Once you have booted into the live session, feel free to explore Lubuntu and make sure all your hardware works. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop :guilabel:`Install Lubuntu 24.10` or :menuselection:`System Tools --> Install Lubuntu 24.10`.
 
 .. image:: live_session.png
 
@@ -23,7 +23,7 @@ You will be taken to the Lubuntu installer Welcome screen. You can change the in
 .. image:: welcome_installer.png
 
 
-Selecting Your location
+Selecting Your Location
 -----------------------
 
 The next screen will show you a map of the world where you can choose your location. Your location will be used to set your time zone and download server. To see what region you have chosen use the :guilabel:`Region` drop down menu. The :guilabel:`Zone` field should have a major city with the same time as you. If you want to get to the your time zone manually faster you can type in the name of a big city in the same time zone. Towards the bottom you can to change your system language by pressing the upper :guilabel:`Change` button. To change the how numbers and dates appear on your system press the lower :guilabel:`Change` button. To switch certain keys on your keyboard use the :guilabel:`Switch Keyboard` drop down. To move to the next step once again press the :guilabel:`Next` button. To move back to selecting your language to change your language press the :guilabel:`Back` button.
@@ -48,7 +48,7 @@ To go to the next part of installation press the :guilabel:`Next` button. To go 
 
 .. image:: customizing.png
 
-Setting up partitions
+Setting Up Partitions
 ---------------------
 
 If all you want is Lubuntu on your machine, you can select the :guilabel:`Erase disk` button. This will format the disk and **delete all data on the disk**,  which is why having your data backed up before this point is extremely important. If you choose to do this you can continue on to user setup. To change the storage device to install Lubuntu on use the :guilabel:`Select Storage device` drop down menu. To see whether you are installing in uefi or bios mode is shown in the top left corner of this window. To choose to use a swap file under :guilabel:`Erase disk` keep :menuselection:`Swap to file` or to not use swap choose :menuselection:`No Swap`. To choose which filesystem to use the drop down on the right to choose which filesystem you want to use. If you want to encrypt your drive press the :guilabel:`Encrypt system` checkbox and then you will need to enter the encryption passphrase twice to make sure you have it typed in correctly. It is strongly advised to write down this passphrase and keep it somewhere safe. 
@@ -90,7 +90,20 @@ Rebooting into the finished install
 
 After the install is finished you will need to reboot your system into your new install. If you want to continue using the live system but end the installer uncheck the :guilabel:`Reboot now` checkbox. To close the installer press the :guilabel:`Done` button. After this your computer will reboot and you should remove your install media.
 
-Manual partitioning
+Install Alongside
+-----------------
+To choose to shrink your current partition to install Lubuntu alongside a currently existing install so you can boot into both of them select :guilabel:`Install alongside`. The :guilabel:`Current` bar graph shows how much space is currently taken up by a partition. The :guilabel:`After` section shows how much space will be used by both installs.  To change how much space each partition will end up using slide the center back and forth to distribute space between both installs. If you want to encrypt your install check the :guilabel:`Encrypt system` checkbox.
+
+
+.. image:: install_alongside.png
+
+Replace a Partition
+-------------------
+To replace a partition select :guilabel:`Replace a partition` on the :guilabel:`Partitions` tab. To select which filesystem to install Lubuntu on choose on the drop down under :guilabel:`Replace a partition`. To select which drive to install on choose in the :guilabel:`Select storage device` menu. To encrypt your Lubuntu install check the :guilabel:`Encrypt system` checkbox. To look at your current layout of partitions you have look at the :guilabel:`Current` bar graph.  To see what each partition is listed below the graph. To select which partition to replace left click on the partition on the :guilabel:`Current` graph. To see the what partitions will be used after the install read the :guilabel:`After` field. To see the size and filesystem of all partitions view the :guilabel:`After` bar graph. To see where Lubuntu will boot from is also on the bottom. To continue installing press :guilabel:`Next`.
+
+.. image:: replacing_partition.png
+
+Manual Partitioning
 -----------------------
 .. Warning::
    Trying to use nonlinux filesystems such as NTFS or FAT as your root filesystem will result in a broken system.
@@ -112,7 +125,9 @@ You can create partition by clicking the :guilabel:`Create` button which will br
 
 .. image::  manpartition-create.png
 
-To go back on all your changes to the previous state press the :guilabel:`Revert All Changes` button. To change what device your computer will boot off of you will need to use the :guilabel:`Install boot loader on` drop down menu to select which disc to boot off of. 
+Lubuntu's bootloader grub does not support creating an encrypted / partition without a separate unencrypted /boot partition. If you create a separate /home partition will be where you save all your user documents photos and videos so make sure if you create one it has enough space for your personal files. All partitions created do not be on the same drive so you can for example put /home on its own drive to give you lots of space and then put / where all of your system and programs will be launched from. A good example of a sensible way to use manual partitioning is if you have a solid state disk and a hard drive in a computer, put the / partition on the solid state drive for faster program launches and /home on the hard drive for more space for your files. 
+
+To go back on all your changes to the previous state press the :guilabel:`Revert All Changes` button in the top right. To change what device your computer will boot off of you will need to use the :guilabel:`Install boot loader on` drop down menu to select which disc to boot off of. 
 
 In the center of the manual partitioning window shows you what name of the partition is. What type of filesystem is displayed in the :guilabel:`File System` column. To see where your partition is mounted are shown in the :guilabel:`Mount Point` column. The size of the system is shown in the :guilabel:`Size` Column.
 
@@ -122,7 +137,7 @@ The top of the manual partitioning window shows a visual bar showing size of you
 OEM Installs
 ------------
 
-To install Lubuntu in an OEM mode for distributing to someone else on the grub boot splash select :menuselection:`OEM install (for manufacturers)` or from the panel menu :menuselection:`System Tools --> Install Lubuntu 24.04 LTS (OEM mode)`. Then you will be asked if you are sure you want to install in OEM mode and to actually install in OEM mode press the :guilabel:`Yes` button. Then the installer will say have a welcome screen that will say it is in OEM mode will show up. To change what language to use for installation use the drop down bar under :guilabel:`OEM installation mode`. To move to the next step of installation press the :guilabel:`Next` button.
+To install Lubuntu in an OEM mode for distributing to someone else on the grub boot splash select :menuselection:`OEM install (for manufacturers)` or from the panel menu :menuselection:`System Tools --> Install Lubuntu 24.10 (OEM mode)`. Then you will be asked if you are sure you want to install in OEM mode and to actually install in OEM mode press the :guilabel:`Yes` button. Then the installer will say have a welcome screen that will say it is in OEM mode will show up. To change what language to use for installation use the drop down bar under :guilabel:`OEM installation mode`. To move to the next step of installation press the :guilabel:`Next` button.
 
 .. image:: oem-install-welcome.png
 

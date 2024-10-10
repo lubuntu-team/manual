@@ -11,7 +11,7 @@ If nothing of your hardware can be found to be updated Firmware updater will say
 
 Version
 -------
-Lubuntu ships with version 109 of firmware updater.
+Lubuntu ships with version 127 of firmware updater.
 
 
 How To launch

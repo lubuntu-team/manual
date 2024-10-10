@@ -8,7 +8,7 @@ Shortcut Keys is the program that manages the global hotkeys or keyboard shortcu
 
 Usage
 ------
-You can **Modify** a current keyboard shortcut by selecting the shortcut from the keyboard table, clicking the :guilabel:`Modify` button, then clicking on the shortcut button. A countdown will begin during which you should push the **keyboard shortcut combination** you want.  
+You can **Modify** a current keyboard shortcut by selecting the shortcut from the keyboard table, clicking the :guilabel:`Modify` button, then clicking on the shortcut button. A countdown will begin during which you should push the **keyboard shortcut combination** you want. To serach for a specific shortcut to change type in the :guilabel:`Search` bar at the top.
 
 You can **Remove** a keyboard shortcut by selecting the shortcut from the keyboard table, and clicking the :guilabel:`Remove` button. To swap to shortcut keys you can select two shortcuts with :kbd:`Control+ Left Click` then left click on the :guilabel:`Swap` button.
 
@@ -31,7 +31,7 @@ Screenshots
 
 Version
 -------
-Lubuntu ships with version 1.4.0 of Shortcut Keys.
+Lubuntu ships with version 2.0.0 of Shortcut Keys.
 
 How to Launch
 -------------

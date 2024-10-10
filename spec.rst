@@ -104,6 +104,8 @@ Chapter 2.4 Accessories
 
 2.4.9 SDDM Configuration
 
+2.4.10 Kvantum Manager
+
 Chapter 2.5 Sound & Video
 -------------------------
 

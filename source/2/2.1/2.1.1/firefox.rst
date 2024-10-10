@@ -76,6 +76,14 @@ To search for a word in a webpage press :kbd:`Control+F` and then type what you 
 
 Firefox offers to save passwords of websites with a popup when you enter in a password and press :guilabel:`Save`. This will have Firefox remember the password so you do not have to remember it. Firefox however stores these in your browser and you can access them from the three bars :menuselection:`Passwords`. To search what sites you have saved logins for type in the :guilabel:`Search Logins` bar at the top. On the left hand side bar lists each saved login for each site and to get to one login left click on the site. Once on a login click the :guilabel:`Copy` button to copy the password to login to a site. To view a password of what you have saved click the :guilabel:`eyeball` button which will show your saved passwords. To hide your password again press the :guilabel:`crossed out eyeball`. To stop storing a login in Firefox press the :guilabel:`Remove` button. To change a saved password you can press the :guilabel:`Edit` button.
 
+IF you have trouble reading a webpage you may want to use reader view. To enter reader view left click on the :guilabel:`paper with lines on it` button to the right of the address bar. This will take out background of the page and sidebars with less things on the page. To Exit reader view press the :guilabel:`x` button to the left of the main text of the page or press the :guilabel:`paper with lines on it` button on the right of the address bar again. 
+
+To change settings with your text in reader view press the :guilabel:`Aa` button on the left sidebar. To change increase text size press the :guilabel:`+` button and conversely press the :guilabel:`-` button. To choose what kind of font to read use the :guilabel:`Font` menu. To choose which weight of font to use use the :guilabel:`Font weight` menu. To change how much width of the screen to take up layout use the :guilabel:`Content width` slider. To change the space between lines change the :guilabel:`Line spacing` slider.
+
+To choose a theme for how to view text in reader view use the :guilabel:`Theme` on the sidebar to the left. The default subtab lets you choose either an :guilabel:`Auto`, :guilabel:`Dark`, :guilabel:`Contrast`, :guilabel:`Light`, :guilabel:`Sepia`, or :guilabel:`Gray` theme by left clicking on the theme. To use a custom theme use the :guilabel:`Custom`tab. To choose the color of your text left click on the :guilabel:`Text` box. To change the background color of your text left click the :guilabel:`Background` menu. To choose which color for unvisited links use the :guilabel:`Unvisited links` menu. To change the color of visited links change the :guilabel:`Visited links` menu. To change what color to highlight text to be read aloud :guilabel:`Highlighter for read aloud` menu. To reset your custom theme to default press :guilabel:`Reset defaults`.
+
+To read text on your webpage aloud use the :guilabel:`read aloud` tab on the left sidebar. To start reading text aloud press the :guilabel:`Play` button. To repeat what is being read press the :guilabel:`back `button with the left pointing arrow. To skip to the next paragraph press the right pointing arrowing or :guilabel:`forward` button. To slow down how fast text is read move the slider towards the :guilabel:`tortoise`. To speed up the rate of the text being read move it towards the :guilabel:`rabbit`. To change which voice you to read text in use the :guilabel:`voice` drop down menu.
+
 Customizing
 -----------
 
@@ -113,7 +121,7 @@ To change how Firefox deals with websites wanting permissions for Location, Came
 
 Version
 ----------
-Lubuntu currently ships with the latest version of Firefox, Firefox 123.
+Lubuntu currently ships with the latest version of Firefox, Firefox 129.
 
 
 How to Launch

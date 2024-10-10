@@ -57,7 +57,7 @@ To change the appearance of the panel use the :guilabel:`Styling` tab. To change
 
 The checkbox for :guilabel:`Override icon theme` lets you choose a non system default icon theme for LXQt-panel. The dropdown :guilabel:`Icon theme for panels` lets you see what that icon theme from the dropdown list. If you do not like your changes to the system you can press the :guilabel:`Reset` button to reset changing to before trying to customize the panel. 
 
-The :guilabel:`Widgets` tab lets you change the widgets or individual items on the panel and their configuration. You can also get to this directly by right clicking on the panel and select :menuselection:`Manage Widgets`. To move an applet down on the order of presentation press the down arrow button while the up arrow button moves the applet up on the order of presentation. To add a new widget click on the widget on the panel configuration screen and press the :guilabel:`+` button and select the widget you want to add some of which are not on the panel by default. To remove an applet you do not want you can press the :guilabel:`-` button. The :guilabel:`dark circle with three blue dots` button has the settings for certain but not all of the applets in the panel for example the Application menu and Task manager are customizable but Quick launch and Show desktop do not.
+The :guilabel:`Widgets` tab lets you change the widgets or individual items on the panel and their configuration. You can also get to this directly by right clicking on the panel and select :menuselection:`Manage Widgets`. To move an applet down on the order of presentation press the down arrow button while the up arrow button moves the applet up on the order of presentation. To add a new widget click on the widget on the panel configuration screen and press the :guilabel:`+` button and select the widget you want to add some of which are not on the panel by default. To search for a specific widget type in the :guilabel:`Search` field. To remove an applet you do not want you can press the :guilabel:`-` button. The :guilabel:`dark circle with three blue dots` button has the settings for certain but not all of the applets in the panel for example the Application menu and Task manager are customizable but Quick launch and Show desktop do not.
 
 .. image:: widget-add.png
 
@@ -65,7 +65,9 @@ Shipped widgets not enabled by default:
  - Backlight
  - CPU monitor
  - Color Picker
- - Custom Comman
+ - Custom Command
+ - Directory Menu
+ - Fancy Menu
  - Keyboard State Indicator
  - Panel DOM Tree
  - Qeyes
@@ -102,7 +104,7 @@ To configure the volume applet right click on the volume applet and select :menu
 
 .. image:: volume-app-pref.png
 
-To change settings of your Status Notifier press the :guilabel:`...` button in the list of applets or on the status notifier applet left click on :menuselection:`Options`. To change how long to have something visible you will autohide will have change the :guilabel:`Attention period`. To hide or autohide notifications from a particular application is to change the app settings under the:guilabel:`Visibility` column. To choose to hide a notification automatically select :menuselection:`Auto-hide`. To have a notification always have its notifications hidden select :menuselection:`Always hide`. To have notifications of an application always be shown select :menuselection:`Always Show`.
+To change settings of your Status Notifier press the :guilabel:`...` button in the list of applets or on the status notifier applet left click on :menuselection:`Options`. To change how long to have something visible you will autohide will have change the :guilabel:`Attention period`. To hide or autohide notifications from a particular application is to change the app settings under the :guilabel:`Visibility` column. To choose to hide a notification automatically select :menuselection:`Auto-hide`. To have a notification always have its notifications hidden select :menuselection:`Always hide`. To have notifications of an application always be shown select :menuselection:`Always Show`.
 
 .. image::  status-notifier-pref.png
 
@@ -131,11 +133,29 @@ To have a custom command add the :guilabel:`Custom Command` widget. To have this
 
 To change what commands when you click on the custom command is under the :guilabel:`Mouse Commands` heading. To run a command with clicking on the applet enter the command in the :guilabel:`Click` in mouse commands. To run a specific command upon going up on the mouse wheel enter the command in the :guilabel:`Wheel Up` field. To run a specific command with scrolling down on the mousewheel enter the command in the :guilabel:`Wheel Down` field.
 
-To add an applet that can show your current keyboard layout and if capslock, numlock, or scrollock is pressed use the :guilabel:`Keyboard State Indicator` applet. If shown the capslock indicator if shown will have a highlighted :guilabel:`C` to show if you have capslock on. The numlock indicator if shown has the :guilabel:`N` is highlighted. The scrollock indicator if shown will have a highligted :guilabel:`S` to show if scrolllock is on. Then to the right of your panel shows your current keyboard layout with either text or a flag by the for your keyboard layout.
+To add a menu that lets you open a file manager in a directory Add the :guilabel:`Directory Menu` widget. To open the Directory Menu left click on it. To open a file manager in this location press the :guilabel:`Open`. To switch to opening a folder in your directory mouseover the folder and then subsequently in any in that folder. To open a location in terminal select :guilabel:`Open in terminal`.
+
+.. image:: directory_menu.png
+
+To change settings of your Directory Menu right click and select  :menuselection:`Configure Directory Menu`. To change what directory to open in the menu on use the :guilabel:`Base directory` field. to choose an icon for your menu use the :guilabel:`Icon` file picker to pick an icon. To add a text label to your Directory menu use the :guilabel:`Label` field. To choose to have a button, text and a button or text and a button use the :guilabel:`button style` menu. To set which terminal to open a terminal in a directory set the :guilabel:`Terminal` field.  
+
+.. image:: directory-config.png
+
+To add a different optional menu add the :guilabel:`Fancy Application Menu` widget. To pen this fancy menu simply left click on it. At the top you can search in the :guilabel:`Search` bar at the top. To the left if a bar of added favorites to your menu. To click through your menu for applications left click on the category names on the right. To open an about dialog about LXQt press the :guilabel:`Hummingbird` button in the bottom left hand corner of the menu. To open LXQt Configuration Center left click the :guilabel:`light bulb in front of a gear` button towards the bottom right of the menu. To bring up a shutdown menu left click the :guilabel:`Power` button. To close the menu left click on the menu on the panel with the panel open or press :kbd:`Escape` to close the fancy menu.
+
+.. image:: fancy-menu.png
+
+To add a program to your desktop from the fancy menu right click and select :menuselection:`Add to desktop`. To add a program from the menu to your favorites right click on it and select :menuselection:`Add to Favorites`. To remove an item from your favorites right click on it and select :menuselection:`Remove from Favorites`. 
+
+To change settings with fancy application menus right click on the menu icon and select :menuselection:`Configure "Fancy Application Menu"`. To set a custom icon for your fancy menu left click the :guilabel:`Icon` checkbox. To choose a custom icon for your menu enter the path in the field right of :guilabel:`Icon` or press the :guilabel:`Folder` button. To change the font size for your menu check the :guilabel:`Custom font size` checkbox and then select the font size on the right. To have the fancy menu automatically switch to a menu category after you mouseover check the :guilabel:`Auto select after` checkbox and then choose how long to wait to autoselect.  To choose a different application menu type the path in the :guilabel:`Menu file` field or press the :guilabel:`Folder` button to change to select a path for the menu. To set a keyboard shortcut to show menu left click on the :guilabel:`Click the button to record shortcut` and press the keyboard shortcut you want to show up. To have search cleared each time you open the menu check the :guilabel:`Clear search upon showing menu` checkbox. To switch the buttons for shutdown, configuration center, and about buttons change the :guilabel:`Buttons row position` menu. To change which side the categories menu is on change the :guilabel:`Categories position` menu.   
+
+.. image:: fancy-menu-config.png
+
+To add an applet that can show your current keyboard layout and if capslock, numlock, or scrollock is pressed use the :guilabel:`Keyboard State Indicator` applet. If shown the capslock indicator if shown will have a highlighted :guilabel:`C` to show if you have capslock on. The numlock indicator if shown has the :guilabel:`N` is highlighted. The scrollock indicator if shown will have a highlighted :guilabel:`S` to show if scrolllock is on. Then to the right of your panel shows your current keyboard layout with either text or a flag by the for your keyboard layout.
 
 .. image:: keyboard-state-info.png
 
-To change settings on keyboard state indicator right click and select :menuselection:`Configure Keyboard State Indicator` or press the :guilabel:`...` button on configuring the panel on :guilabel:`Keyboard State Indicator`. To hide showing the caps lock uncheck the :guilabel:`Show Caps Lock` checkbox. To hide your numlock indicator uncheck the :guilabel:`Show Num Lock` check. To hide the scroll lock indicator uncheck the :guilabel:`Show Scroll Lock` checkbox. To toggle showing an indiactor for your keyboard layout check/uncheck the :guilabel:`Keyboard Layout Indicator` checkbox. To have clicking switch your keyboard layout everywhere press the :guilabel:`Global` button under :guilabel:`Switching Policy`. To have your layout switched by only a window press the :guilabel:`Window` under :guilabel:`Switching Policy`. To have your keyboard layout switched on a certain application press the :guilabel:`Application` button under :guilabel:`Switching Policy`. To show a flag in your panel first install the iso-flags-svg package and in the :guilabel:`Flags path pattern` field type in :kbd:`/usr/share/iso-flags-svg/country-squared/%1.svg` to show the flags. To open the configuration of your keyboard layouts press the :guilabel:`Configure layouts` button. 
+To change settings on keyboard state indicator right click and select :menuselection:`Configure Keyboard State Indicator` or press the :guilabel:`...` button on configuring the panel on :guilabel:`Keyboard State Indicator`. To hide showing the caps lock uncheck the :guilabel:`Show Caps Lock` checkbox. To hide your numlock indicator uncheck the :guilabel:`Show Num Lock` check. To hide the scroll lock indicator uncheck the :guilabel:`Show Scroll Lock` checkbox. To toggle showing an indicator for your keyboard layout check/uncheck the :guilabel:`Keyboard Layout Indicator` checkbox. To have clicking switch your keyboard layout everywhere press the :guilabel:`Global` button under :guilabel:`Switching Policy`. To have your layout switched by only a window press the :guilabel:`Window` under :guilabel:`Switching Policy`. To have your keyboard layout switched on a certain application press the :guilabel:`Application` button under :guilabel:`Switching Policy`. To show a flag in your panel first install the iso-flags-svg package and in the :guilabel:`Flags path pattern` field type in :kbd:`/usr/share/iso-flags-svg/country-squared/%1.svg` to show the flags. To open the configuration of your keyboard layouts press the :guilabel:`Configure layouts` button. 
 
 To have a set of eyes that look towards where the mouse cursor is add the :guilabel:`QEyes` widget. The eyes look towards where the mouse cursor is relative to from the eye. 
 
@@ -164,7 +184,7 @@ To add a spacer to your panel add the spacer widget. It creates a blank space on
 
 Version
 -------
-Lubuntu ships with version 1.4.0 of LXQt-panel.
+Lubuntu ships with version 2.0.1 of LXQt-panel.
 
 How to Launch
 -------------

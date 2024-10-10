@@ -16,3 +16,4 @@ This chapter documents accessories on your system.
   2.4.7/QtPass
   2.4.8/Redshift
   2.4.9/SDDM-Configuration
+  2.4.10/Kvantum-Manager

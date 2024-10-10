@@ -15,7 +15,7 @@ To use lxqt-sudo is important to not change your config files as if you did with
 
 Version
 -------
-Lubuntu ships with 1.4.0 of LXQt-sudo. 
+Lubuntu ships with 2.0.0 of LXQt-sudo. 
 
 Screenshot
 ----------

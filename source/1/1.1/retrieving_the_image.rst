@@ -1,11 +1,9 @@
 Chapter 1.1 Retrieving the image
 =================================
 
-<<<<<<< HEAD
-Before you install Lubuntu, you need to retrieve the correct image. Lubuntu supports AMD64 CPU types also known as 64-bit with a new version every six months (supported for nine months), and every two years being a long term support release (supported for three years). Lubuntu 24.04 is a Long Term Support release supported until 2027.
-=======
+
 Before you install Lubuntu, you need to retrieve the correct image. Lubuntu supports AMD64 CPU types also known as 64-bit with a new version every six months (supported for nine months), and every two years being a long term support release (supported for three years). Lubuntu 24.04 is a Long Term Support release supported until 2027. Lubuntu 24.10 is supported until July 2025.
->>>>>>> master
+
 
 LTS vs. Regular Releases
 ------------------------
@@ -45,21 +43,17 @@ To verify the image, run this from the command line:
 
 .. code:: 
 
-<<<<<<< HEAD
- sha256sum lubuntu-24.04.1-desktop-amd64.iso
-=======
+
  sha256sum lubuntu-24.10-desktop-amd64.iso
->>>>>>> master
+
 
 and then carefully check that the output matches 
 
 .. code::
 
-<<<<<<< HEAD
-  cba3737f2ec5e1432e86d0f95fb09e1e4febeca97cc7d2d2c56c788a6903b345 *lubuntu-24.04.1-desktop-amd64.iso
-=======
+
   5c9c3f03ea12566ecec008aef97afa997854674a1a0421d400cf48d819fd953c *lubuntu-24.10-desktop-amd64.iso
->>>>>>> master
+
 
 Downloading the image via BitTorrent
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -94,10 +88,8 @@ To download the image using zsync run
  
 .. code::
 
-<<<<<<< HEAD
-   zsync http://cdimage.ubuntu.com/lubuntu/releases/24.04/release/lubuntu-24.04.1-desktop-amd64.iso.zsync
-=======
+
    zsync https://cdimage.ubuntu.com/lubuntu/releases/oracular/release/lubuntu-24.10-desktop-amd64.iso.zsync
->>>>>>> master
+
    
 **You have now downloaded the image successfully. Please continue to Chapter 1.2.**

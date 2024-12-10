@@ -27,7 +27,7 @@ The :guilabel:`Updates` tab allows you set which software updates you would like
 
 .. image:: software_sources.png
 
-The :guilabel:`Authentication` tab manages key files which ensure your downloads are not compromised, basically ensuring you are download from a reliable source and your download has not been intercepted. The list of all keys signed on your system are listed under :guilabel:`Trusted software providers`. To remove a key you no longer want to have access to your system press the :guilabel:`Remove` button. To only allow the default keys that ship with Lubuntu press the :guilabel:`Restore Defaults` button.
+The :guilabel:`Authentication` tab manages key files which ensure your downloads are not compromised, basically ensuring you are download from a reliable source and your download has not been intercepted. The list of all keys signed on your system are listed under :guilabel:`Trusted software providers`. To remove a key you no longer want to have access to your system press the :guilabel:`Remove` button. 
 
 .. image:: sources-auth.png
 

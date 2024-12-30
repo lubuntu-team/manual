@@ -33,7 +33,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 2.9.0 of qps. 
+Lubuntu ships with version 2.10.0 of qps. 
 
 How to Launch
 -------------

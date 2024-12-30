@@ -21,7 +21,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 1.0.0 of Lubuntu Update.
+Lubuntu ships with version 1.1.1 of Lubuntu Update.
 
 How to Launch
 -------------

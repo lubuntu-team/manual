@@ -21,7 +21,7 @@ Screenshots
 
 Version
 -------
-Lubuntu ships with version 2.0.0 of Date and Time.
+Lubuntu ships with version 2.1.0 of Date and Time.
 
 How to Launch
 -------------

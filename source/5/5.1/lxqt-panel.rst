@@ -125,7 +125,7 @@ To have a bar that shows CPU Load shows a bar graph with your CPU usage. To brin
 
 .. image:: CPU-load-settings.png
 
-The Color picker is shows what color something is on your screen usually useful for web developers. To get a color off the screen press the color dropper button and your mouse will turn into crosshair and then left click on what you want to take the color. Then a numeric field to the right of the dropper will appear with the color in a numeric field to the right. 
+The Color picker is shows what color something is on your screen usually useful for web developers. To get a color off the screen press the color dropper button and your mouse will turn into crosshair and then left click on what you want to take the color. Then a numeric field to the right of the dropper will appear with the color in a numeric field to the right. Left clicking with the droplet will bring up a menu of the last colors picked. To clear the list of colors left click where you select a color and select :menuselection:`Clear list`.
 
 .. image:: spacer-color-picker.png
 

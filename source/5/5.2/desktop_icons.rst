@@ -7,7 +7,7 @@ If you want to not see all your icons to show off your awesome desktop right cli
 
 To rearrange your files by when they were last modified right click on the desktop :menuselection:`Sorting --> By Modification Time`. To sort by how large each file is right click on the desktop :menuselection:`Sorting --> By File Size`. To return to sorting by name right click on the desktop and select :menuselection:`Sorting --> By File Name`. To reverse the order of sorting right click on the desktop and select :menuselection:`Sorting --> Descending`. To sort back to the way you had before right click and select :menuselection:`Sorting --> Ascending`. To make your sorting of desktop icons case sensitive right click on the desktop and select :menuselection:`Sorting --> Case Sensitive`. To make folders appear first right click on your checkbox and select :menuselection:`Sorting --> Folder First`.
 
-To select all items on your desktop right click on the desktop background and select :menuselection:`Select All`. To select the opposite to what you currently have select right click on the desktop and select :menuselection:`Invert Selection`.
+To select all items on your desktop right click on the desktop background and select :menuselection:`Select All` or press :kbd:`Control + A`. To select the opposite to what you currently have select right click on the desktop and select :menuselection:`Invert Selection` or press :kbd:`Control + shift + A`.
 
 Having a folder on your desktop gives you a few more options. To open a folder in your terminal from the desktop right click and select :menuselection:`Open in Terminal`.
 

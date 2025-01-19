@@ -99,7 +99,9 @@ To change what file format to convert to use the :guilabel:`Profile` drop down m
 
 Webcams
 ------- 
-To open your webcam in VLC press :kbd:`Control +C` or :menuselection:`Media --> Open Capture Device` to pop up a dialog to select your webcam. Then select your webcam in :guilabel:`Video device name` which can default to something like /dev/video0. To start showing your webcam click :guilabel:`Play`. To take a still picture of your webcam then :menuselection:`Video --> Take Snapshot`. To record a video from your webcam once you can see everything looks good select :menuselection:`Playback --> Record`. 
+To open your webcam in VLC press :kbd:`Control +C` or :menuselection:`Media --> Open Capture Device` to pop up a dialog to select your webcam. Then select your webcam in :guilabel:`Video device name` which can default to something like /dev/video0. To start showing your webcam click :guilabel:`Play`. To choose what video standard for your deice use the :guilabel:`Video standard` drop down. To have more options on video settings press the :guilabel:`Advanced options` button.
+
+To take a still picture of your webcam then :menuselection:`Video --> Take Snapshot`. To record a video from your webcam once you can see everything looks good select :menuselection:`Playback --> Record`. 
 
 Customizing
 -----------

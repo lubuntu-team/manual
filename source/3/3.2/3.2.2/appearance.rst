@@ -13,7 +13,7 @@ The :guilabel:`Icons Theme` tab changes desktop icons on your computer and if yo
 
  .. image:: appearance-icon-theme.png
 
-The tab for :guilabel:`LXQt Theme` lets you change how the panel and notifications appear. To change the theme left click on the theme name to change the theme. To the left of the theme name there is a small preview of the panel and the default button for the panel. The checkbox :guilabel:`Override user-defined wallpaper` changes your wallpaper to one that comes with the LXQt theme. 
+The tab for :guilabel:`LXQt Theme` lets you change how the panel and notifications appear. To change the theme left click on the theme name to change the theme. To the left of the theme name there is a small preview of the panel and the default button for the panel. The checkbox :guilabel:`Override user-defined wallpaper` changes your wallpaper to one that comes with the LXQt theme. To use the pallete used by your LXQt theme check the :guilabel:`Use palette provided by theme` checkbox.
 
 .. image:: lxqt-theme-tab.png
 

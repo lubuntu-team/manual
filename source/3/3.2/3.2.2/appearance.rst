@@ -33,7 +33,7 @@ If you want to reset your changes you will need to click the :guilabel:`Reset` b
 
 Version
 -------
-Lubuntu ships with version 2.1.0 of Appearance. 
+Lubuntu ships with version 2.1.1 of Appearance. 
 
 How to Launch
 -------------

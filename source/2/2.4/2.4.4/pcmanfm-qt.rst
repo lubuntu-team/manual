@@ -44,7 +44,7 @@ To select all files in a directory is to press :kbd:`Control+ A`, :menuselection
 
 .. image:: bulk-rename.png
 
-To connect to a remote server such as a NAS go to the :menuselection:`Go -->  Connect to server` and authenticate to your remote storage. If you want to plug in removable storage you can open the storage on the left sidebar with devices. To switch to the removable media left click on the device in the side pane. This also applies to other internal filesystems on your computer. To eject removable media press the button on the left with a circled up arrow to eject. On the side pane you can right click to open a place in a new tab by right clicking :menuselection:`Open in New Tab` on the side pane.
+To connect to a remote server such as a NAS go to the :menuselection:`Go -->  Connect to server` and authenticate to your remote storage. If you want to plug in removable storage you can open the storage on the left sidebar with devices. To switch to the removable media left click on the device in the side pane. This also applies to other internal filesystems on your computer. If you are mounting an encrpyed drive you will need to enter your passphrase to unlock the drive. To eject removable media press the button on the left with a circled up arrow to eject. On the side pane you can right click to open a place in a new tab by right clicking :menuselection:`Open in New Tab` on the side pane.
 
 .. image:: pcmanfm-qt-connect-server.png 
 

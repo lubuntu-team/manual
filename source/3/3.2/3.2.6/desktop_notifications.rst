@@ -10,7 +10,7 @@ To quit the Notifications press the :kbd:`Escape` key or press the :guilabel:`Cl
 
 The :guilabel:`General Settings` tab lets you change the duration of desktop notifications and their spacing. The :guilabel:`Default duration` field sets how long to show a notification with a default of 10 seconds.  
 
-If you want to deal with notification when you are away from your computer use the settings under :guilabel:`Unattended Notifications`. To change the max number of notifications change the :guilabel:`How many to save` field. To ignore particular applications type the application name in the :guilabel:`Ignore these applications` field.
+If you want to deal with notification when you are away from your computer use the settings under :guilabel:`Unattended Notifications`. To change the max number of notifications change the :guilabel:`How many to save` field. To ignore particular notification type a comma separated list composed of the top line of the notification exactly as shown in the :guilabel:`Ignore these applications` field.
 
 To not be disturbed by notifications check the :guilabel:`Only save notifications` checkbox. To show notifications on the monitor with the mouse check the :guilabel:`Show notifications on screen with the mouse` checkbox.
 

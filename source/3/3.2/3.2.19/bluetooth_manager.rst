@@ -24,7 +24,7 @@ To toggle showing the toolbar check/uncheck :menuselection:`Device --> Show Tool
 
 Version
 -------
-Lubuntu ships with version 2.4.2 of Bluetooth Manager.
+Lubuntu ships with version 2.4.4 of Bluetooth Manager.
 
 
 How To Launch

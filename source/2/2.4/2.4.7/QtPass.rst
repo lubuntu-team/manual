@@ -43,7 +43,7 @@ To change profile settings on QtPass use the :guilabel:`Profile` tab. To create 
 
 Version
 -------
-Lubuntu ships with version 1.2.3 of QtPass.
+Lubuntu ships with version 1.4.0 of QtPass.
 
 How to Launch
 -------------

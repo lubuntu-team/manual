@@ -13,7 +13,7 @@ To change the dpi or dots per inch is the dpi drop down menu for :guilabel:`Scan
 
 To zoom in press the magnifying glass button with a plus sign conversely to move out press the magnifying glass button with a minus sign. To change your resolution change the scan resolution drop down and select the dots per inch you want to use.
 
-To change the brightness of a scan slide the :guilabel:`Brightness` slider or input a positive or negative number into the numeric field. To change contrast slide the :guilabel:`Contrast` slider or input a positive or negative number in the numeric field. To toggle inverting your colors on the scan check/uncheck the :guilabel:`Invert colors` Checkbox. 
+To change brightness, contrast or even invert colors use the :guilabel:`Advanced Options` tab. To change the brightness of a scan slide the :guilabel:`Brightness` slider or input a positive or negative number into the numeric field. To change contrast slide the :guilabel:`Contrast` slider or input a positive or negative number in the numeric field. To toggle inverting your colors on the scan check/uncheck the :guilabel:`Invert colors` Checkbox. To change the delay between scans in a batch scans when scanning in batch mode use the :guilabel:`batch mode delay time` field.
 
 To select part of a scan you particularly want to save is to click over a preview of a scan and you will drag the selection with the mouse. To clear selections that can be automatically selected but canceled with a brown smudge with an x on it. If you want to zoom to your selection right click :guilabel:`Zoom to selection`. If you want to zoom to fit the whole entire page right click :guilabel:`Zoom to fit`. 
 

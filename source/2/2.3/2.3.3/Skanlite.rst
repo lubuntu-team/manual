@@ -19,7 +19,7 @@ To change brightness, contrast or even invert colors use the :guilabel:`Advanced
 
 .. image:: skanlite-advanced.png
 
-To select part of a scan you particularly want to save is to click over a preview of a scan and you will drag the selection with the mouse. To clear selections that can be automatically selected but canceled by press the :guilabel:`leftward pointing arrow with an x` on it. If you want to zoom to your selection right click :guilabel:`Zoom to selection`. If you want to zoom to fit the whole entire page right click :guilabel:`Zoom to fit`. 
+To select part of a scan you particularly want to save is to click over a preview of a scan and you will drag the selection with the mouse. To clear selections that can be automatically selected but canceled by press the :guilabel:`leftward pointing arrow with an x` on it. If you want to zoom to your selection right click :guilabel:`Zoom to selection`. If you want to zoom to fit the whole entire page right click :guilabel:`Zoom to fit`. To zoom in the scan preview press the :guilabel:`+` button.To zoom out from the scan preview press the :guilabel:`-` button.
 
 To change to your specific options for your scanner use the :guilabel:`Scanner Specific Options` tab.
 

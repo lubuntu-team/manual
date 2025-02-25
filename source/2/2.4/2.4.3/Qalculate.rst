@@ -9,7 +9,7 @@ To do simple airithmetic computations type the numbers into the field just below
 
 .. image:: qalculate-mainwindow.png
 
-Below where you type in calculations is a history of your previous calculations. To go back in your history press the :kbd:`Down arrow` key. To go one step forward in your history press the :kbd:`Up arrow` key. To move the cursor one character to the left press the :kbd:`left arrow` key or left click the :guilabel:`left arrow`. To move the cursor one arrow to the right press the :kbd:`right arrow` key or left click the :guilabel:`right arrow` key. To move the cursor to the end press the :kbd:`End` key or right click the :guilabel:`right arrow` button. To move the cursor to the start press the :kbd:`Home` key or left click the :guilabel:`left arrow` button.
+Below where you type in calculations is a history of your previous calculations. To go back in your history press the :kbd:`Down arrow` key. To go one step forward in your history press the :kbd:`Up arrow` key. To move the cursor one character to the left press the :kbd:`left arrow` key or left click the :guilabel:`left arrow`. To move the cursor one arrow to the right press the :kbd:`right arrow` key or left click the :guilabel:`right arrow` key. To move the cursor to the end press the :kbd:`End` key or right click the :guilabel:`right arrow` button. To move the cursor to the start press the :kbd:`Home` key or right click the :guilabel:`left arrow` button.
 
 Version
 -------

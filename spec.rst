@@ -90,7 +90,7 @@ Chapter 2.4 Accessories
 
 2.4.2 Featherpad
 
-2.4.3 KCalc
+2.4.3 Qalculate!
 
 2.4.4 PCManFM-Qt
 

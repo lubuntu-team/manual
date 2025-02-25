@@ -13,7 +13,7 @@ Below where you type in calculations is a history of your previous calculations.
 
 To copy text from Qalculate! select the text and press :kbd:`Control + C` or right click and select :menuselection:`Copy`. To cut the text from Qalcualate! press :kbd:`Control +X` or right click and select :menuselection:`Cut`. To past text press :kbd:` Control +V` or right click and select :menuselection:`Paste`.
 
-To exponentiate a base number to a power left click x :sup:`y` or type :kbd:`^`. To square a number right click x :sup:`y` or type :kbd:`sq()` around what you want to square. To raise e to a power middle click x :sup:`y` or type :kbd:`exp()` around what power you want to raise e to.
+To exponentiate a base number to a power left click x :sup:`y` or type :kbd:`^`. To square a number right click x :sup:`y` or type :kbd:`sq()` around what you want to square. To raise e to a power middle click x :sup:`y` or type :kbd:`exp()` around what power you want to raise e to. To take the square root of something left click the :guilabel:`√` button or insert a :kbd:`√` character. To take the cube root of something right click the :guilabel:`√` button or type :kbd:`cbrt()`. To take the nth root of something middle click on the :guilabel:`√` button or type :kbd:`root( , )` where the first thing is what you are taking the root of and the second is which root to take.
 
 Version
 -------

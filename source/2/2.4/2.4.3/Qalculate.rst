@@ -25,6 +25,9 @@ Trigonometery
 -------------
 Qalculate! offers many different trigonometric functions. When using these functions having the correct angle unit is important to have the angle unit set correctly or else you will get the wrong answer. To set the angle unit to degrees left click the left most button with two sliders and select :menuselection:`Degrees` in which 360 degrees make one full circle. To set the angle unit to radians in which 2π radians make one full circle left click the left most button on the toolbar and select :menuselection:`Radians`. To have the angle unit set to Gradians in which 400 gradians make a full cirlce left the leftmost button on the toolbar and select :menuselection:`Gradians`.
 
+To take the sine function of something left click the :guilabel:`sin` button or type :kbd:`sin()`. To take the inverse sine function of something right click the :guilabel:`sin` button or type :kbd:`arcsin()`. To take the cosine of something left click the :guilabel:`cos` button or type :kbd:`cos()`. To take the tangent function of something left click on the :guilabel:`tan` button or type :kbd:`tan()`. To take the inverse tangent right click on the :guilabel:`tan` button or type :kbd:`arctan()`.
+
+
 Version
 -------
 Lubuntu ships with version 5.5.0 of Qalculate!

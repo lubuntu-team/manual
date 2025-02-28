@@ -31,6 +31,8 @@ To plot functions in Qalculate! press :kbd:`Control + P` or left click on the :g
 
 To channge what values to take in the functions use the :guilabel:`Function Range` tab. To change what the lowest value for x to plot enter :guilabel:`Minimum x value` field. To change the highest value to plot use the :guilabel:`Maximum x value`. To change how many points to plot change the :guilabel:`Sampling rate` field. To only show the real part of functions uncheck the :guilabel:`Show real and imaginary parts` checkbox. To apply changes you make to your plot left click the :guilabel:`Apply` button.
 
+The :guilabel:`Appearance` tab changes how the plot you make will appear. To have a title for your plot type in the :guilabel:`Title` field. To choose to display a grid for your plot check the :guilabel:`Display grid` checkbox. To have a full border around your plot check the :guilabel:`Display full border` checkbox.
+
 .. image:: qalculate-plot-result.png
 
 To exponentiate a base number to a power left click x :sup:`y` or type :kbd:`^`. To square a number right click x :sup:`y` or type :kbd:`sq()` around what you want to square. To raise e to a power middle click x :sup:`y` or type :kbd:`exp()` around what power you want to raise e to. To take the square root of something left click the :guilabel:`√` button or insert a :kbd:`√` character. To take the cube root of something right click the :guilabel:`√` button or type :kbd:`cbrt()`. To take the nth root of something middle click on the :guilabel:`√` button or type :kbd:`root( , )` where the first thing is what you are taking the root of and the second is which root to take.

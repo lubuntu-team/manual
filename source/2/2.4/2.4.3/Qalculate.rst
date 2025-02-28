@@ -49,6 +49,10 @@ The :guilabel:`Appearance` tab changes how the plot you make will appear. To hav
 
 .. image:: qalculate-plot-result.png
 
+Number bases
+------------
+To view numbers in something other than the default base 10 press :kbd:`Control +B` or left click the :guilabel:`0110` button. This will show the result in Binary, Octal, Deciamal, and Hexadecimal with the different digits of each numerical base. To hide numerical bases press :kbd:`Control+B` again or left click :guilabel:`0110`. 
+
 Exponents and Roots
 -------------------
 To exponentiate a base number to a power left click x :sup:`y` or type :kbd:`^`. To square a number right click x :sup:`y` or type :kbd:`sq()` around what you want to square. To raise e to a power middle click x :sup:`y` or type :kbd:`exp()` around what power you want to raise e to. To take the square root of something left click the :guilabel:`√` button or insert a :kbd:`√` character. To take the cube root of something right click the :guilabel:`√` button or type :kbd:`cbrt()`. To take the nth root of something middle click on the :guilabel:`√` button or type :kbd:`root( , )` where the first thing is what you are taking the root of and the second is which root to take.

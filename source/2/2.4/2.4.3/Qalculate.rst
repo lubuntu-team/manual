@@ -29,9 +29,11 @@ Qalculate also does many operations with fractions. To input 1/2 into something 
 
 To plot functions in Qalculate! press :kbd:`Control + P` or left click on the :guilabel:`graph` button.  The :guilabel:`Data` tab will have info on what you want values to plot. To give your name to a function to plot enter that in the :guilabel:`Title` field. Type what you want to plot in the :guilabel:`Expression` field. To change what each varible is called change the :guilabel:`X variable` field. To change what style to draw the plot change the :guilabel:`Style` drop down. To change how to smooth your plot use the :guilabel:`Smoothing` drop down. To add another function to be plotted left click the :guilabel:`Add` button. To have the plot redrawn with your changes left click the :guilabel:`Apply` button. To remove something you want to plot left click the :guilabel:`Remove` button. On the bottom of this window is a list of everything you have to plot. The title of what you are plotting is listed in the :guilabel:`Title` column. The formula for what you are plotting is in the :guilabel:`Expression` column.
 
+.. image:: qalculate-plot-data.png
+
 To channge what values to take in the functions use the :guilabel:`Function Range` tab. To change what the lowest value for x to plot enter :guilabel:`Minimum x value` field. To change the highest value to plot use the :guilabel:`Maximum x value`. To change how many points to plot change the :guilabel:`Sampling rate` field. To only show the real part of functions uncheck the :guilabel:`Show real and imaginary parts` checkbox. To apply changes you make to your plot left click the :guilabel:`Apply` button.
 
-The :guilabel:`Appearance` tab changes how the plot you make will appear. To have a title for your plot type in the :guilabel:`Title` field. To choose to display a grid for your plot check the :guilabel:`Display grid` checkbox. To have a full border around your plot check the :guilabel:`Display full border` checkbox.
+The :guilabel:`Appearance` tab changes how the plot you make will appear. To have a title for your plot type in the :guilabel:`Title` field. To choose to display a grid for your plot check the :guilabel:`Display grid` checkbox. To have a full border around your plot check the :guilabel:`Display full border` checkbox. To choose a lowest value to show on the y axis check the :guilabel:`Minimum y value` checkbox and select the minimum value you want to show.
 
 .. image:: qalculate-plot-result.png
 

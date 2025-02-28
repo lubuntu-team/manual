@@ -35,7 +35,7 @@ To channge what values to take in the functions use the :guilabel:`Function Rang
 
 .. image:: qalculate-plot-function-range.png
 
-The :guilabel:`Appearance` tab changes how the plot you make will appear. To have a title for your plot type in the :guilabel:`Title` field. To choose to display a grid for your plot check the :guilabel:`Display grid` checkbox. To have a full border around your plot check the :guilabel:`Display full border` checkbox. To choose a lowest value to show on the y axis check the :guilabel:`Minimum y value` checkbox and select the minimum value you want to show.
+The :guilabel:`Appearance` tab changes how the plot you make will appear. To have a title for your plot type in the :guilabel:`Title` field. To choose to display a grid for your plot check the :guilabel:`Display grid` checkbox. To have a full border around your plot check the :guilabel:`Display full border` checkbox. To choose a lowest value to show on the y axis check the :guilabel:`Minimum y value` checkbox and select the minimum value you want to show. To have a logarithmic scale on the x axis check the :guilabel:`Logarithimic x scale` checkbox and then to the right input the logarithimc base. To have logarithimic scale on the y axis check the :guilabel:`Logarithimic y scale` checkbox and input the logarithimc base to the right.
 
 .. image:: qalculate-plot-result.png
 

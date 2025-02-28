@@ -27,7 +27,7 @@ To have a large list of many different units you can open by pressing :kbd:`cont
 
 Qalculate also does many operations with fractions. To input 1/2 into something you can middle click on the :guilabel:`2` button. Similarly to input 1/3 middle click on :guilabel:`3` and for 1/4 middle click on :guilabel:`4` and so on. Qalculate will also simplify fractions if you type them in so if you type in 4/16 Qalculate! will reduce it to 1/4 and then also provide a decimal answer with a :guilabel:`=` sign for an exact value or an :guilabel:`≈` for an approximate solution if not exact. Qalculate! will also let you add, subtract, multiply, divide, or more advanced fractions with fractions and still show the result as fractions.
 
-To plot functions in Qalculate! press :kbd:`Control + P` or left click on the :guilabel:`graph` button.  The :guilabel:`Data` tab will have info on what you want values to plot. To give your name to a function to plot enter that in the :guilabel:`Title` field. Type what you want to plot in the :guilabel:`Expression` field.
+To plot functions in Qalculate! press :kbd:`Control + P` or left click on the :guilabel:`graph` button.  The :guilabel:`Data` tab will have info on what you want values to plot. To give your name to a function to plot enter that in the :guilabel:`Title` field. Type what you want to plot in the :guilabel:`Expression` field. To add another function to be plotted left click the :guilabel:`Add` button. To have the plot redrawn with your changes left click the :guilabel:`Apply` button. To remove something you want to plot left click the :guilabel:`Remove` button.
 
 .. image:: qalculate-plot-result.png
 

@@ -33,6 +33,8 @@ To plot functions in Qalculate! press :kbd:`Control + P` or left click on the :g
 
 To channge what values to take in the functions use the :guilabel:`Function Range` tab. To change what the lowest value for x to plot enter :guilabel:`Minimum x value` field. To change the highest value to plot use the :guilabel:`Maximum x value`. To change how many points to plot change the :guilabel:`Sampling rate` field. To only show the real part of functions uncheck the :guilabel:`Show real and imaginary parts` checkbox. To apply changes you make to your plot left click the :guilabel:`Apply` button.
 
+.. image:: qalculate-plot-function-range.png
+
 The :guilabel:`Appearance` tab changes how the plot you make will appear. To have a title for your plot type in the :guilabel:`Title` field. To choose to display a grid for your plot check the :guilabel:`Display grid` checkbox. To have a full border around your plot check the :guilabel:`Display full border` checkbox. To choose a lowest value to show on the y axis check the :guilabel:`Minimum y value` checkbox and select the minimum value you want to show.
 
 .. image:: qalculate-plot-result.png

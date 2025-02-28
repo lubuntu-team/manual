@@ -15,6 +15,8 @@ To copy text from Qalculate! select the text and press :kbd:`Control + C` or rig
 
 To store a value in calculator memory left click the :guilabel:`MS` button. To later get the same value out of the calculator left click the :guilabel:`MR` button. To clear the memory stored in the calculator press the :guilabel:`MC` button.
 
+To save a new variable in Qalculate! press :kbd:`Control +S` or left click the :guilabel:`floppy disk` icon and a window will popup. Type a name for your variable in the :guilabel:`Name` field. The :guilabel:`Required` tab is for required fields for your variable. Type what you want your variable to be equal too in the :guilabel:`Value` field. To add additional description to your variable use the :guilabel:`Description` tab. Choose which category to put this variable in in :guilabel:`Category`. To give a descriptive name to your variable type that in :guilabel:`Descriptive name`. To toggle hiding a variable check/uncheck the :guilabel:`Hide variable` checkbox. To add more description to your variable type that in the :guilabel:`Description` field.
+
 To bring up an extensive list of functions left click the :guilabel:`fx` button or press :kbd:`Control + F`. On the left hand side of the window is a :guilabel:`Category` column and to choose functions from that category left click on the category name. To see a list of the actual function are under the :guilabel:`Function` column. To insert a function into the main window left click the :guilabel:`Insert` button. To calculate an answer in a popup left click the :guilabel:`Calculate` button. To search for a function type in the magnifying glass field. To save a function in your favorites check the :guilabel:`Favorite` checkbox.
 
 .. image:: qalculate-functions.png
@@ -24,6 +26,10 @@ To have a large list of many different units you can open by pressing :kbd:`cont
 .. image:: qalculate-units.png
 
 Qalculate also does many operations with fractions. To input 1/2 into something you can middle click on the :guilabel:`2` button. Similarly to input 1/3 middle click on :guilabel:`3` and for 1/4 middle click on :guilabel:`4` and so on. Qalculate will also simplify fractions if you type them in so if you type in 4/16 Qalculate! will reduce it to 1/4 and then also provide a decimal answer with a :guilabel:`=` sign for an exact value or an :guilabel:`≈` for an approximate solution if not exact. Qalculate! will also let you add, subtract, multiply, divide, or more advanced fractions with fractions and still show the result as fractions.
+
+To plot functions in Qalculate! press :kbd:`Control + P` or left click on the :guilabel:`graph` button.  The :guilabel:`Data` tab will have info on what you want values to plot. To give your name to a function to plot enter that in the :guilabel:`Title` field. Type what you want to plot in the :guilabel:`Expression` field.
+
+.. image:: qalculate-plot-result.png
 
 To exponentiate a base number to a power left click x :sup:`y` or type :kbd:`^`. To square a number right click x :sup:`y` or type :kbd:`sq()` around what you want to square. To raise e to a power middle click x :sup:`y` or type :kbd:`exp()` around what power you want to raise e to. To take the square root of something left click the :guilabel:`√` button or insert a :kbd:`√` character. To take the cube root of something right click the :guilabel:`√` button or type :kbd:`cbrt()`. To take the nth root of something middle click on the :guilabel:`√` button or type :kbd:`root( , )` where the first thing is what you are taking the root of and the second is which root to take.
 

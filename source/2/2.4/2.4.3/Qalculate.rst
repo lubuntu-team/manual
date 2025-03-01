@@ -15,6 +15,21 @@ To copy text from Qalculate! select the text and press :kbd:`Control + C` or rig
 
 To store a value in calculator memory left click the :guilabel:`MS` button. To later get the same value out of the calculator left click the :guilabel:`MR` button. To clear the memory stored in the calculator press the :guilabel:`MC` button.
 
+To take the reminder when divinding something you can type :kbd:`%` or left click :guilabel:`1` between two numbers like :kbd:`9%2` to get the remainder of 9/2. You can also type :kbd:`%` or left click :guilabel:`%` after a number as a percent of a number.
+
+Trigonometry
+-------------
+Qalculate! offers many different trigonometric functions. When using these functions having the correct angle unit is important to have the angle unit set correctly or else you will get the wrong answer. To set the angle unit to degrees left click the left most button with two sliders and select :menuselection:`Degrees` in which 360 degrees make one full circle. To set the angle unit to radians in which 2π radians make one full circle left click the left most button on the toolbar and select :menuselection:`Radians`. To have the angle unit set to Gradians in which 400 gradians make a full circle left the leftmost button on the toolbar and select :menuselection:`Gradians`.
+
+To take the sine function of something left click the :guilabel:`sin` button or type :kbd:`sin()`. To take the inverse sine function of something right click the :guilabel:`sin` button or type :kbd:`arcsin()`. To take the cosine of something left click the :guilabel:`cos` button or type :kbd:`cos()`. To take the tangent function of something left click on the :guilabel:`tan` button or type :kbd:`tan()`. To take the inverse tangent right click on the :guilabel:`tan` button or type :kbd:`arctan()`.
+
+Exponents and Roots
+-------------------
+To exponentiate a base number to a power left click x :sup:`y` or type :kbd:`^`. To square a number right click x :sup:`y` or type :kbd:`sq()` around what you want to square. To raise e to a power middle click x :sup:`y` or type :kbd:`exp()` around what power you want to raise e to. To take the square root of something left click the :guilabel:`√` button or insert a :kbd:`√` character. To take the cube root of something right click the :guilabel:`√` button or type :kbd:`cbrt()`. To take the nth root of something middle click on the :guilabel:`√` button or type :kbd:`root( , )` where the first thing is what you are taking the root of and the second is which root to take.
+
+To take a natural logarithm left click on the :guilabel:`ln` button or type in :kbd:`ln()`. To take a  logarithm on base 10 right click on the :guilabel:`ln()` button or type in :kbd:`log10()`. To take a logarithm with base n middle click on :guilabel:`ln` and then input your base.
+
+
 Saving Variables
 ----------------
 To save a new variable in Qalculate! press :kbd:`Control +S` or left click the :guilabel:`floppy disk` icon and a window will popup. Type a name for your variable in the :guilabel:`Name` field. The :guilabel:`Required` tab is for required fields for your variable. Type what you want your variable to be equal too in the :guilabel:`Value` field. To add additional description to your variable use the :guilabel:`Description` tab. Choose which category to put this variable in in :guilabel:`Category`. To give a descriptive name to your variable type that in :guilabel:`Descriptive name`. To toggle hiding a variable check/uncheck the :guilabel:`Hide variable` checkbox. To add more description to your variable type that in the :guilabel:`Description` field.
@@ -49,21 +64,10 @@ The :guilabel:`Appearance` tab changes how the plot you make will appear. To hav
 
 .. image:: qalculate-plot-result.png
 
-Number bases
+Number Bases
 ------------
 To view numbers in something other than the default base 10 press :kbd:`Control +B` or left click the :guilabel:`0110` button. This will show the result in Binary, Octal, Deciamal, and Hexadecimal with the different digits of each numerical base. To hide numerical bases press :kbd:`Control+B` again or left click :guilabel:`0110`. 
 
-Exponents and Roots
--------------------
-To exponentiate a base number to a power left click x :sup:`y` or type :kbd:`^`. To square a number right click x :sup:`y` or type :kbd:`sq()` around what you want to square. To raise e to a power middle click x :sup:`y` or type :kbd:`exp()` around what power you want to raise e to. To take the square root of something left click the :guilabel:`√` button or insert a :kbd:`√` character. To take the cube root of something right click the :guilabel:`√` button or type :kbd:`cbrt()`. To take the nth root of something middle click on the :guilabel:`√` button or type :kbd:`root( , )` where the first thing is what you are taking the root of and the second is which root to take.
-
-To take a natural logarithm left click on the :guilabel:`ln` button or type in :kbd:`ln()`. To take a  logarithm on base 10 right click on the :guilabel:`ln()` button or type in :kbd:`log10()`. To take a logarithm with base n middle click on :guilabel:`ln` and then input your base.
-
-Trigonometry
--------------
-Qalculate! offers many different trigonometric functions. When using these functions having the correct angle unit is important to have the angle unit set correctly or else you will get the wrong answer. To set the angle unit to degrees left click the left most button with two sliders and select :menuselection:`Degrees` in which 360 degrees make one full circle. To set the angle unit to radians in which 2π radians make one full circle left click the left most button on the toolbar and select :menuselection:`Radians`. To have the angle unit set to Gradians in which 400 gradians make a full circle left the leftmost button on the toolbar and select :menuselection:`Gradians`.
-
-To take the sine function of something left click the :guilabel:`sin` button or type :kbd:`sin()`. To take the inverse sine function of something right click the :guilabel:`sin` button or type :kbd:`arcsin()`. To take the cosine of something left click the :guilabel:`cos` button or type :kbd:`cos()`. To take the tangent function of something left click on the :guilabel:`tan` button or type :kbd:`tan()`. To take the inverse tangent right click on the :guilabel:`tan` button or type :kbd:`arctan()`.
 
 
 Version

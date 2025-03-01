@@ -15,7 +15,7 @@ To copy text from Qalculate! select the text and press :kbd:`Control + C` or rig
 
 To store a value in calculator memory left click the :guilabel:`MS` button. To later get the same value out of the calculator left click the :guilabel:`MR` button. To clear the memory stored in the calculator press the :guilabel:`MC` button.
 
-To take the reminder when divinding something you can type :kbd:`%` or left click :guilabel:`1` between two numbers like :kbd:`9%2` to get the remainder of 9/2. You can also type :kbd:`%` or left click :guilabel:`%` after a number as a percent of a number.
+To take the reminder when divinding something you can type :kbd:`%` or left click :guilabel:`1` between two numbers like :kbd:`9%2` to get the remainder of 9/2. You can also type :kbd:`%` or left click :guilabel:`%` after a number as a percent of a number. To insert the number π left click on the :guilabel:`π` button. To add e the base of the natural logarithim left type :kbd:`e` or left click the :guilabel:`e` button. To input i the sqaure root of negative 1 the imaginary number type :kbd:`i` or left click the :guilabel:`i`.
 
 Trigonometry
 -------------

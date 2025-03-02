@@ -19,6 +19,9 @@ To take the reminder when divinding something you can type :kbd:`%` or left clic
 
 To bring up a percent calculator your can left click on the arrow next to :guilabel:`%` and select :menuselection:`Percent Calculation Tool`. Enter the first value in the :guilabel:`Value 1` field. Enter the second value in the :guilabel:`Value 2` field. Then you can see below your values the changes, percent change 1 to 2 and then the percenntage of each number compared to each other.
 
+.. image:: qalculate-percentage.png
+
+
 Trigonometry
 -------------
 Qalculate! offers many different trigonometric functions. When using these functions having the correct angle unit is important to have the angle unit set correctly or else you will get the wrong answer. To set the angle unit to degrees left click the left most button with two sliders and select :menuselection:`Degrees` in which 360 degrees make one full circle. To set the angle unit to radians in which 2π radians make one full circle left click the left most button on the toolbar and select :menuselection:`Radians`. To have the angle unit set to Gradians in which 400 gradians make a full circle left the leftmost button on the toolbar and select :menuselection:`Gradians`.

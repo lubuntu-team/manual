@@ -17,10 +17,11 @@ To store a value in calculator memory left click the :guilabel:`MS` button. To l
 
 To take the reminder when divinding something you can type :kbd:`%` or left click :guilabel:`1` between two numbers like :kbd:`9%2` to get the remainder of 9/2. You can also type :kbd:`%` or left click :guilabel:`%` after a number as a percent of a number.  To insert the number π left click on the :guilabel:`π` button. To add e the base of the natural logarithim left type :kbd:`e`, left click :kbd:`EXP`, or left click the :guilabel:`e` button. You also can use e a shorthand for scientific notation by tpying :kbd:`e`, left click :guilabel:`EXP`, or left clicking the :guilabel:`e` button for exmaple:kbd:`6e2` to mean 6 *10^2. To input i the sqaure root of negative 1 the imaginary number type :kbd:`i` or left click the :guilabel:`i`.
 
-To bring up a percent calculator your can left click on the arrow next to :guilabel:`%` and select :menuselection:`Percent Calculation Tool`. Enter the first value in the :guilabel:`Value 1` field. Enter the second value in the :guilabel:`Value 2` field. Then you can see below your values the changes, percent change 1 to 2 and then the percenntage of each number compared to each other. If you want to clear the values you have entered left click on the :guilabel:`Clear` button.
+To bring up a percent calculator your can left click on the arrow next to :guilabel:`%` and select :menuselection:`Percent Calculation Tool` or left click on the three bars to the right and select :menuselection:`Percent Calculationn Tool`. Enter the first value in the :guilabel:`Value 1` field. Enter the second value in the :guilabel:`Value 2` field. Then you can see below your values the changes, percent change 1 to 2 and then the percenntage of each number compared to each other. If you want to clear the values you have entered left click on the :guilabel:`Clear` button.
 
 .. image:: qalculate-percentage.png
 
+To view dates in many differennt calendars left click on the :guilabel:`three bars on the right` and select :menuselection:`Calendar Conversion`. To view a periodic table left click on the :guilabel:`three bars on the right` and select :menuselection:`Periodic Table`.
 
 Trigonometry
 -------------

@@ -21,9 +21,9 @@ To bring up a percent calculator your can left click on the arrow next to :guila
 
 .. image:: qalculate-percentage.png
 
-To view dates in many different calendars left click on the :guilabel:`three bars on the right` and select :menuselection:`Calendar Conversion`. To view a periodic table left click on the :guilabel:`three bars on the right` and select :menuselection:`Periodic Table`.
+To view dates in many different calendars left click on the :guilabel:`three bars` on the right and select :menuselection:`Calendar Conversion`. To view a periodic table left click on the :guilabel:`three bars` on the right and select :menuselection:`Periodic Table`. To view a list of keyboard shortcuts left click on the :guilabel:`three bars` on the right and select :menuselection:`Keyboard shortcuts`.
 
-To force a minimum nubmer of decimal points after the result left click on the left most :guilabel:`two sliders` button and enter how many numbers after the decimal point in :menuselection:`Min decimals`. To have a maximum number after the decimal point left click on the left most :guilabel:`Two sliders` in the :menuselection:`Max decimals` field.
+To force a minimum nubmer of decimal points after the result left click on the left most :guilabel:`two sliders` button and enter how many numbers after the decimal point in :menuselection:`Min decimals`. To have a maximum number after the decimal point left click on the left most :guilabel:`Two sliders` in the :menuselection:`Max decimals` field. 
 
 Trigonometry
 -------------

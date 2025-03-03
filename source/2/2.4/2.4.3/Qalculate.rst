@@ -23,6 +23,8 @@ To bring up a percent calculator your can left click on the arrow next to :guila
 
 To view dates in many different calendars left click on the :guilabel:`three bars on the right` and select :menuselection:`Calendar Conversion`. To view a periodic table left click on the :guilabel:`three bars on the right` and select :menuselection:`Periodic Table`.
 
+To force a minimum nubmer of decimal points after the result left click on the left most :guilabel:`two sliders` button and enter how many numbers after the decimal point in :menuselection:`Min decimals`. To have a maximum number after the decimal point left click on the left most :guilabel:`Two sliders` in the :menuselection:`Max decimals` field.
+
 Trigonometry
 -------------
 Qalculate! offers many different trigonometric functions. When using these functions having the correct angle unit is important to have the angle unit set correctly or else you will get the wrong answer. To set the angle unit to degrees left click the left most button with two sliders and select :menuselection:`Degrees` in which 360 degrees make one full circle. To set the angle unit to radians in which 2π radians make one full circle left click the left most button on the toolbar and select :menuselection:`Radians`. To have the angle unit set to Gradians in which 400 gradians make a full circle left the leftmost button on the toolbar and select :menuselection:`Gradians`.

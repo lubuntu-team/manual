@@ -35,8 +35,6 @@ To exponentiate a base number to a power left click x :sup:`y` or type :kbd:`^`.
 
 To take a natural logarithm left click on the :guilabel:`ln` button or type in :kbd:`ln()`. To take a  logarithm on base 10 right click on the :guilabel:`ln()` button or type in :kbd:`log10()`. To take a logarithm with base n middle click on :guilabel:`ln` and then input your base.
 
-
-
 Saving Variables
 ----------------
 To save a new variable in Qalculate! press :kbd:`Control +S` or left click the :guilabel:`floppy disk` icon and a window will popup. Type a name for your variable in the :guilabel:`Name` field. The :guilabel:`Required` tab is for required fields for your variable. Type what you want your variable to be equal too in the :guilabel:`Value` field. To add additional description to your variable use the :guilabel:`Description` tab. Choose which category to put this variable in in :guilabel:`Category`. To give a descriptive name to your variable type that in :guilabel:`Descriptive name`. To toggle hiding a variable check/uncheck the :guilabel:`Hide variable` checkbox. To add more description to your variable type that in the :guilabel:`Description` field.

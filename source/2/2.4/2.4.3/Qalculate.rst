@@ -107,3 +107,7 @@ To launch Qalculate! :menuselection:`Accessories --> Qalculate! (Qt)` or run
   qualculate-qt
  
 from the command line.
+
+Customizing
+-----------
+To open the prefrences dialog for Qalculate! left click on the three bars :menuselection:`Menu --> Prefrences`. To change settings on how Qalculate! appears use the :guilabel:`Look & Feel` tab. To not use the system language check the :guilabel:`Ignore system language` checkbox and select the language in the :guilabel:`Language` menu. To allow multiple Qalculate! instances check the :guilabel:`Allow multiple instances` checkbox. To clear the history of Qalculate! on exit check the :guilabel:`Clear history on exit` checkbox. To change the maximum number of lines of history saved change the :guilabel:`Max history lines saved` field.

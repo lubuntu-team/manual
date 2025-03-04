@@ -84,6 +84,8 @@ To view numbers in something other than the default base 10 press :kbd:`Control 
 
 To change what number base the answer is displayed in left click left most :guilabel:`slider button` and select the number base you want under :menuselection:`Result Base`. To change what numerical base to input expressions in left click the left most :guilabel:`slider button` and select a base under :menuselection:`Expression Base`.
 
+The programing keybpad as menubutton for hexadecimal A-F and nubmer base switching which ccan get by the 10 point icon :menuselection:`Keypad --> Programming`.
+
 Version
 -------
 Lubuntu ships with version 5.5.0 of Qalculate!

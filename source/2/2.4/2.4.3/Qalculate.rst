@@ -25,11 +25,14 @@ To view dates in many different calendars left click on the :guilabel:`three bar
 
 To force a minimum nubmer of decimal points after the result left click on the left most :guilabel:`two sliders` button and enter how many numbers after the decimal point in :menuselection:`Min decimals`. To have a maximum number after the decimal point left click on the left most :guilabel:`Two sliders` in the :menuselection:`Max decimals` field. 
 
+To test an test if two things are equal you can type :kbd:`=` between two expressions or left click :guilabel:`x=` and then get true or false on if there is equality. To test if something is not equal long left click on :menuselection:`x= --> ≠` or type in :kbd:`≠` between two expressions. To test if one expression is less than the other expression type in :kbd:`<` or long left click on :menuselection:`x= --> <` between two expression. To test if annother expresion is less than or equal type in :kbd:`≤` or long left click on :menuselection:`x= --> ≤`.
+
 Trigonometry
 -------------
 Qalculate! offers many different trigonometric functions. When using these functions having the correct angle unit is important to have the angle unit set correctly or else you will get the wrong answer. To set the angle unit to degrees left click the left most button with two sliders and select :menuselection:`Degrees` in which 360 degrees make one full circle. To set the angle unit to radians in which 2π radians make one full circle left click the left most button on the toolbar and select :menuselection:`Radians`. To have the angle unit set to Gradians in which 400 gradians make a full circle left the leftmost button on the toolbar and select :menuselection:`Gradians`.
 
 To take the sine function of something left click the :guilabel:`sin` button or type :kbd:`sin()`. To take the inverse sine function of something right click the :guilabel:`sin` button or type :kbd:`arcsin()`. To take the cosine of something left click the :guilabel:`cos` button or type :kbd:`cos()`. To take the tangent function of something left click on the :guilabel:`tan` button or type :kbd:`tan()`. To take the inverse tangent right click on the :guilabel:`tan` button or type :kbd:`arctan()`.
+
 
 Exponents and Roots
 -------------------

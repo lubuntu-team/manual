@@ -118,6 +118,8 @@ To add many different time zones to your clock use the :guilabel:`Time Zones` ta
 
 .. image:: clock-addtz.png
 
+To remove a time zone you added left click the :guilabel:`Remove` button. To set a time zone as the default time zone left click on the :guilabel:`Set as default` button. To add a custom name to your time zone left click the :guilabel:`Edit custom name` button. To move a time zone up use the :guilabel:`Move up` button. To move a time zone down use the :guilabel:`Move Down` button.
+
 To add two or more panels right click on the panel and :menuselection:`Add New Panel` and a new panel will be created with the dialog to customize your second panel. To remove a panel right click on the panel and select :menuselection:`Remove Panel` and you will be asked if you really want to do this as it can't be undone. To then make your new panel useful you will need to add widgets which you will need to see the above section.
 
 Non-Default widgets

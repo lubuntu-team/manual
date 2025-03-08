@@ -116,6 +116,8 @@ To show the date on the clock check the :guilabel:`Date` checkbox. To change whe
 
 To add many different time zones to your clock use the :guilabel:`Time Zones` tab. To add a second time zone press the :guilabel:`Add` button and a dialog will pop up. Left click on the arrow to expand the time zones under a continent. The :guilabel:`Name` column shows you the the name of the time zone. The :guilabel:`Comment` column shows you a comment on the time zone. To see which country this time zone is in use the :guilabel:`Country` column. To add the time zone press the :guilabel:`OK` button.
 
+.. image:: clock-addtz.png
+
 To add two or more panels right click on the panel and :menuselection:`Add New Panel` and a new panel will be created with the dialog to customize your second panel. To remove a panel right click on the panel and select :menuselection:`Remove Panel` and you will be asked if you really want to do this as it can't be undone. To then make your new panel useful you will need to add widgets which you will need to see the above section.
 
 Non-Default widgets

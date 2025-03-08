@@ -35,6 +35,8 @@ To the far right is a clock, you can left click the clock to bring up a pop up c
 
 .. image:: calendar-widget.png
 
+If you want time zone information on your panel you can middle click on the clock. If you added multiple time zones middle clicking shows all of them. If you added many differeint time zones you can scroll between them with the scrollwheel.
+
 If you are on a laptop the panel will also show the battery meter to show how much power you have remaining. To view your current charge level mouseover the battery meter and it will show if your battery is charging by mousing over. To view information about your battery left click the battery icon. The field :guilabel:`Energy Full Design` shows how much power your battery held when it was brand new. The field :guilabel:`Energy Full` shows the current full charge of your battery in your current health.The :guilabel:`Energy Now` shows how much power is in your battery. The :guilabel:`Technology` field shows what kind of battery you have.
 
 .. image:: panel-battery.png

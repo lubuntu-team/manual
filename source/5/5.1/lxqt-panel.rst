@@ -114,6 +114,8 @@ To change the settings on your clock right click on the clock and then :menusele
 
 To show the date on the clock check the :guilabel:`Date` checkbox. To change where the date appears change the :guilabel:`Position` drop down menu.To further customize your panel select :menuselection:`Custom` from the :guilabel:`Format` drop down. To show the year press the :guilabel:`Show year` checkbox. To show what day of the week it is check the :guilabel:`Show day of week` checkbox. To make the day two digits check the :guilabel:`Pad day with zero` checkbox. To not abbreviate the months and days of week check the :guilabel:`Long month and day of week names` checkbox. To reset your changes to the clock press the :guilabel:`Reset` button.
 
+To add many different time zones to your clock use the :guilabel:`Time Zones` tab. To add a second time zone press the :guilabel:`Add` button and a dialog will pop up. Left click on the arrow to expand the time zones under a continent. The :guilabel:`Name` column shows you the the name of the time zone. The :guilabel:`Comment` column shows you a comment on the time zone. To see which country this time zone is in use the :guilabel:`Country` column. To add the time zone press the :guilabel:`OK` button.
+
 To add two or more panels right click on the panel and :menuselection:`Add New Panel` and a new panel will be created with the dialog to customize your second panel. To remove a panel right click on the panel and select :menuselection:`Remove Panel` and you will be asked if you really want to do this as it can't be undone. To then make your new panel useful you will need to add widgets which you will need to see the above section.
 
 Non-Default widgets

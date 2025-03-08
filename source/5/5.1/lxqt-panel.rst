@@ -124,6 +124,7 @@ To remove a time zone you added left click the :guilabel:`Remove` button. To set
 
 To have a few more settings for your clock use the :guilabel:`General` tab. To autorotate when the panel is vertical check the :guilabel:`Autorotate when the panel is vertical` checkbox. To show week numbers on the popup calendar check the :guilabel:`Show week numbers in popup calendar` checkbox. To show information on your clock when you mouseover it check the :guilabel:`Show tooltip` checkbox.
 
+.. image:: clock-custom-general.png
 
 To add two or more panels right click on the panel and :menuselection:`Add New Panel` and a new panel will be created with the dialog to customize your second panel. To remove a panel right click on the panel and select :menuselection:`Remove Panel` and you will be asked if you really want to do this as it can't be undone. To then make your new panel useful you will need to add widgets which you will need to see the above section.
 

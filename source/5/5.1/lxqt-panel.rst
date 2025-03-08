@@ -108,7 +108,7 @@ To change settings of your Status Notifier press the :guilabel:`...` button in t
 
 .. image::  status-notifier-pref.png
 
-To change the settings on your clock right click on the clock and then :menuselection:`Configure World clock`. To change settings on how your clock shows stuff use the :guilabel:`Display format` tab. The :guilabel:`Format` drop down menu allows you to change how the clock shows. To select a short format allows you to have a preselected short format which shows a 12 hour format and am just telling you what time it is. Selecting long from the menu will show you the time with seconds and the time zone. To have a customizable clock message select custom and then checkboxes to show seconds, pad the hours with zeros or to use a 12 hour format. The :guilabel:`Time zone` checkbox will show your your time zone. The :guilabel:`Position` drop down says where to put the time zone on the clock. The :guilabel:`Format` field changes how the time zone is displayed on your clock. To change how the date appears change the :guilabel:`Format` field. 
+To change the settings on your clock right click on the clock and then :menuselection:`Configure World Clock`. To change settings on how your clock shows stuff use the :guilabel:`Display format` tab. The :guilabel:`Format` drop down menu allows you to change how the clock shows. To select a short format allows you to have a preselected short format which shows a 12 hour format and am just telling you what time it is. Selecting long from the menu will show you the time with seconds and the time zone. To have a customizable clock message select custom and then checkboxes to show seconds, pad the hours with zeros or to use a 12 hour format. The :guilabel:`Time zone` checkbox will show your your time zone. The :guilabel:`Position` drop down says where to put the time zone on the clock. The :guilabel:`Format` field changes how the time zone is displayed on your clock. To change how the date appears change the :guilabel:`Format` field. 
 
 .. image:: clock-custom.png 
 
@@ -121,6 +121,9 @@ To add many different time zones to your clock use the :guilabel:`Time Zones` ta
 To remove a time zone you added left click the :guilabel:`Remove` button. To set a time zone as the default time zone left click on the :guilabel:`Set as default` button. To add a custom name to your time zone left click the :guilabel:`Edit custom name` button. To move a time zone up use the :guilabel:`Move up` button. To move a time zone down use the :guilabel:`Move Down` button.
 
 .. image:: clock-tz.png
+
+To have a few more settings for your clock use the :guilabel:`General` tab. To autorotate when the panel is vertical check the :guilabel:`Autorotate when the panel is vertical` checkbox. To show week numbers on the popup calendar check the :guilabel:`Show week numbers in popup calendar` checkbox. To show information on your clock when you mouseover it check the :guilabel:`Show tooltip` checkbox.
+
 
 To add two or more panels right click on the panel and :menuselection:`Add New Panel` and a new panel will be created with the dialog to customize your second panel. To remove a panel right click on the panel and select :menuselection:`Remove Panel` and you will be asked if you really want to do this as it can't be undone. To then make your new panel useful you will need to add widgets which you will need to see the above section.
 

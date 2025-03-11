@@ -52,6 +52,11 @@ Combinatorics
 -------------
 to take take a factorial of an integer type :kbd:`x!` after it or left click the :guilabel:`!` button. To take the number of permutations right click on the :guilabel:`x!` or type :kbd:`perm()`. To take the number of combinations fo something middle click on :guilabel:`x!` or type :kbd:`comb()`.
 
+Summation/Products
+------------------
+To take a sum of several numbers left click the :guilabel:`Σ` button, type :kbd:`Σ()`, or type :kbd:`sum()`. To take the product of several things right click the :guilabel:`Σ` button, type :kbd:`Π()`, or type :kbd:`product()`.
+
+
 Saving Variables
 ----------------
 To save a new variable in Qalculate! press :kbd:`Control +S` or left click the :guilabel:`floppy disk` icon and a window will popup. Type a name for your variable in the :guilabel:`Name` field. The :guilabel:`Required` tab is for required fields for your variable. Type what you want your variable to be equal too in the :guilabel:`Value` field. To add additional description to your variable use the :guilabel:`Description` tab. Choose which category to put this variable in in :guilabel:`Category`. To give a descriptive name to your variable type that in :guilabel:`Descriptive name`. To toggle hiding a variable check/uncheck the :guilabel:`Hide variable` checkbox. To add more description to your variable type that in the :guilabel:`Description` field.

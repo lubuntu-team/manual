@@ -155,7 +155,7 @@ To change settings of your Directory Menu right click and select  :menuselection
 
 .. image:: directory-config.png
 
-To add a different optional menu add the :guilabel:`Fancy Application Menu` widget. To pen this fancy menu simply left click on it. At the top you can search in the :guilabel:`Search` bar at the top. To the left if a bar of added favorites to your menu. To click through your menu for applications left click on the category names on the right. To open an about dialog about LXQt press the :guilabel:`Hummingbird` button in the bottom left hand corner of the menu. To open LXQt Configuration Center left click the :guilabel:`light bulb in front of a gear` button towards the bottom right of the menu. To bring up a shutdown menu left click the :guilabel:`Power` button. To close the menu left click on the menu on the panel with the panel open or press :kbd:`Escape` to close the fancy menu.
+To add a different optional menu add the :guilabel:`Fancy Application Menu` widget. To open this fancy menu simply left click on it. At the top you can search in the :guilabel:`Search` bar at the top. To the left if a bar of added favorites to your menu. To click through your menu for applications left click on the category names on the right. To open an about dialog about LXQt press the :guilabel:`Hummingbird` button in the bottom left hand corner of the menu. To open LXQt Configuration Center left click the :guilabel:`light bulb in front of a gear` button towards the bottom right of the menu. To bring up a shutdown menu left click the :guilabel:`Power` button. To close the menu left click on the menu on the panel with the panel open or press :kbd:`Escape` to close the fancy menu.
 
 .. image:: fancy-menu.png
 

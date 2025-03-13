@@ -164,14 +164,11 @@ To change settings of your Directory Menu right click and select  :menuselection
 
 .. image:: directory-config.png
 
-
 To add an applet that can show your current keyboard layout and if capslock, numlock, or scrollock is pressed use the :guilabel:`Keyboard State Indicator` applet. If shown the capslock indicator if shown will have a highlighted :guilabel:`C` to show if you have capslock on. The numlock indicator if shown has the :guilabel:`N` is highlighted. The scrollock indicator if shown will have a highlighted :guilabel:`S` to show if scrolllock is on. Then to the right of your panel shows your current keyboard layout with either text or a flag by the for your keyboard layout.
 
 .. image:: keyboard-state-info.png
 
 To change settings on keyboard state indicator right click and select :menuselection:`Configure Keyboard State Indicator` or press the :guilabel:`...` button on configuring the panel on :guilabel:`Keyboard State Indicator`. To hide showing the caps lock uncheck the :guilabel:`Show Caps Lock` checkbox. To hide your numlock indicator uncheck the :guilabel:`Show Num Lock` check. To hide the scroll lock indicator uncheck the :guilabel:`Show Scroll Lock` checkbox. To toggle showing an indicator for your keyboard layout check/uncheck the :guilabel:`Keyboard Layout Indicator` checkbox. To have clicking switch your keyboard layout everywhere press the :guilabel:`Global` button under :guilabel:`Switching Policy`. To have your layout switched by only a window press the :guilabel:`Window` under :guilabel:`Switching Policy`. To have your keyboard layout switched on a certain application press the :guilabel:`Application` button under :guilabel:`Switching Policy`. To show a flag in your panel first install the iso-flags-svg package and in the :guilabel:`Flags path pattern` field type in :kbd:`/usr/share/iso-flags-svg/country-squared/%1.svg` to show the flags. To open the configuration of your keyboard layouts press the :guilabel:`Configure layouts` button. 
-
-
 
 To have a set of eyes that look towards where the mouse cursor is add the :guilabel:`QEyes` widget. The eyes look towards where the mouse cursor is relative to from the eye. 
 
@@ -181,13 +178,11 @@ To bring up settings on how to configure QEyes is to right click on the eye and 
 
 .. image:: QEyes-pref.png
 
-
 To use your sensors widgets which you would have to add manually as shown above. A sensor bar will appear with as many sensors as on your panel. To view the temp as a number mouse over the sensor bar to see what your temperature is in a number in the :guilabel:`Cur` field. Also shown on mouseover is the :guilabel:`Crit` field shows the temperature the sensor should not read above without overheating.
 
 To customize the sensors right click on the sensors applet :menuselection:`Configure "Sensors"`. The :guilabel:`Update interval(seconds)` field lets you choose how often in seconds to update the sensors. The :guilabel:`Temperature bar width` field shows how wide to make the bar for your sensors. The :guilabel:`Temperature scale` field lets you select :guilabel:`Celsius` or :guilabel:`Fahrenheit` for your sensors. The checkbox :guilabel:`Warning about high temperature` puts a warning if your temperature gets too high. If you want to reset your settings press the :guilabel:`Reset` button. 
 
 .. image:: sensors-config.png
-
 
 The :guilabel:`Sensors` tab provides settings for each individual sensor on your processor. To enable/disable each sensor press to the :guilabel:`Enabled` checkbox for each sensor. The :guilabel:`Label` shows a label for each sensor. The :guilabel:`Color` column shows the color for the bar to appear in the panel and you can bring up a dialog to change color by left clicking on the button. To switch to a different chip to set the sensors for change the :guilabel:`Detected chips` menu. 
 
@@ -196,7 +191,6 @@ The :guilabel:`Sensors` tab provides settings for each individual sensor on your
 To add a spacer to your panel add the spacer widget. It creates a blank space on your panel which can separate different items. To change how wide your spacer is change the :guilabel:`Space Width` field to the number of pixels you want the spacer to be wide. The setting for :guilabel:`Space type` selects :menuselection:`lined`, :menuselection:`dotted`, or :menuselection:`invisible` for changing the spacers appearance.
 
 .. image:: panel-spacer.png
-
 
 Version
 -------

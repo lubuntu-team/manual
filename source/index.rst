@@ -35,7 +35,7 @@ Contents
 Contact Us
 ----------
 
-Do you have questions? Want to get involved? Take a look at our official website at `Lubuntu.me <https://lubuntu.me>`_ where you can find `the Lubuntu blog <https://lubuntu.me/blog/>`_, `the Lubuntu discourse <https://discourse.lubuntu.me/>`_, `ways to get in contact with us <https://lubuntu.me/links/>`_, and `our gittea instance <https://git.lubuntu.me/>`_ where we do most of the Lubuntu development.
+Do you have questions? Want to get involved? Take a look at our official website at `Lubuntu.me <https://lubuntu.me>`_ where you can find `the Lubuntu blog <https://lubuntu.me/blog/>`_, `the Lubuntu discourse <https://discourse.ubuntu.com/c/flavors/lubuntu/343>`_, `ways to get in contact with us <https://lubuntu.me/links/>`_, and `our gittea instance <https://git.lubuntu.me/>`_ where we do most of the Lubuntu development.
 
 Thank you!
 ----------

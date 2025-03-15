@@ -6,7 +6,7 @@ Usage
 -----
 The left column of Firmware Updater shows which different devices have firmware that can be updated. To switch to a different device simply left click on it. To see the version of software that needs to be upgraded read the :guilabel:`Current Version` label. To see the vendor for your firmware view the :guilabel:`Vendor` field. To see flags about what happens when you have a update read the :guilabel:`Flags` field.
 
-If nothing of your hardware can be found to be updated Firmware updater will say :guilabel:`No devices found`.
+If nothing of your hardware can be found to be updated Firmware updater will say :guilabel:`No devices found`. To switch between multiple devices to update firmware left click on the list of devices on the column on the left hand side. The device you are currently looking at has what device on the top of the right hand column. 
 
 .. image:: firmware-updater.png
 

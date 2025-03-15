@@ -13,7 +13,7 @@ To actually update left click on the :guilabel:`Update to latest` button. Then c
 
 Version
 -------
-Lubuntu ships with version 127 of firmware updater.
+Lubuntu ships with version 167 of firmware updater.
 
 
 How To launch

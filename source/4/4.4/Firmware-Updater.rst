@@ -9,6 +9,8 @@ The left column of Firmware Updater shows which different devices have firmware 
 If nothing of your hardware can be found to be updated Firmware updater will say :guilabel:`No devices found`.
 
 
+To actually update left click on the :guilabel:`Update to latest` button. Then confirm your update by left clicking the :guilabel:`Update` button. If your device needs to restart to update firmware you will get a restart now or later dialog. To restart now left click the :guilabel:`Restart now` button. To choose a later time to restart left click the :guilabel:`Restart later` button.
+
 Version
 -------
 Lubuntu ships with version 127 of firmware updater.

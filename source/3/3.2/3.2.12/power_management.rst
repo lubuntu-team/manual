@@ -39,7 +39,7 @@ Lubuntu ships with version 2.1.0 of Power Management.
 How to Launch
 -------------
 
-To launch Power Management from the menu :menuselection:`Preferences --> LXQt settings --> Power Management`. The Power Management icon looks like a yellow circle with a black lightning bolt. You can also run 
+To launch Power Management from the menu :menuselection:`LXQt settings --> Power Management`. The Power Management icon looks like a yellow circle with a black lightning bolt. You can also run 
 
 .. code:: 
 

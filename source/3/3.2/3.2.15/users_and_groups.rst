@@ -39,7 +39,7 @@ Lubuntu ships with version 2.1.0 of Users and Groups.
 
 How to Launch
 -------------
-To launch Users and Groups from the menu :menuselection:`Preferences --> LXQt settings --> Users and Groups`. The icon for Users and Groups is a teal circle with nondescript picture of a person in the foreground. Or you can run
+To launch Users and Groups from the menu :menuselection:`LXQt settings --> Users and Groups`. The icon for Users and Groups is a teal circle with nondescript picture of a person in the foreground. Or you can run
 
 .. code:: 
 

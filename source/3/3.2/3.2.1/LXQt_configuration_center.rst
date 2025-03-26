@@ -18,7 +18,7 @@ Lubuntu ships with version 2.1.1 of LXQt Configuration Center.
 How to Launch
 -------------
 
-To launch LXQt Configuration Center from the menu :menuselection:`Preferences --> LXQt settings --> LXQt Configuration Center` or run
+To launch LXQt Configuration Center from the menu :menuselection:`LXQt settings --> LXQt Configuration Center` or run
 
 .. code:: 
 

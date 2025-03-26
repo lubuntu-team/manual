@@ -35,7 +35,7 @@ Lubuntu ships with version 2.1.1 of Shortcut Keys.
 
 How to Launch
 -------------
-To launch Shortcut Keys from the menu :menuselection:`Preferences --> LXQt settings --> Shortcut Keys`. The icon for Shortcut Keys button looks like a keyboard. To launch Shortcut Keys from the command line run
+To launch Shortcut Keys from the menu :menuselection:`LXQt settings --> Shortcut Keys`. The icon for Shortcut Keys button looks like a keyboard. To launch Shortcut Keys from the command line run
 
 .. code:: 
 

@@ -1,4 +1,4 @@
-Chapter 3.2.15 Users and Groups
+Chapter 3.2.14 Users and Groups
 ===============================
 
 Users and Groups lets you manage user and group settings on your system. 

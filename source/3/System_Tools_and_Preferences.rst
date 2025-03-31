@@ -9,4 +9,6 @@ This chapter documents tools to manage your system, change preferences, and them
    :titlesonly:
 
    3.1/System_Tools
-   3.2/Preferences
+   3.2/LXQt_settings
+   3.3/Prefrences
+

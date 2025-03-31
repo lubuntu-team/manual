@@ -1,4 +1,4 @@
-Chapter 3.2.11 Openbox Settings
+Chapter 3.3.3 Openbox Settings
 ===============================
 
 Openbox Settings changes configuration of Openbox the default window manager of Lubuntu.

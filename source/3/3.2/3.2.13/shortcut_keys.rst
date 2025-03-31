@@ -1,4 +1,4 @@
-Chapter 3.2.14 Shortcut Keys
+Chapter 3.2.13 Shortcut Keys
 ============================
 
 Shortcut Keys is the program that manages the global hotkeys or keyboard shortcuts for Lubuntu.

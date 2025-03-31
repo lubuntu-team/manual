@@ -1,4 +1,4 @@
-Chapter 3.2.20 Picom Configuration
+Chapter 3.3.4 Picom Configuration
 ==================================
 
 Picom Configuration is the default program in Lubuntu to manage effects of the Picom X11 compositor. 

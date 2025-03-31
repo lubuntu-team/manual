@@ -142,8 +142,8 @@ Chapter 3.1 System Tools
 
 3.1.8 LxQt-sudo
 
-Chapter 3.2 Preferences
------------------------
+Chapter 3.2 LXQt Settings
+-------------------------
 
 3.2.1 LXQt configuration center
 
@@ -165,8 +165,6 @@ Chapter 3.2 Preferences
 
 3.2.10 Monitor Settings
 
-3.2.11 Openbox Settings
-
 3.2.12 Power Management
 
 3.2.13 Session Settings
@@ -175,15 +173,20 @@ Chapter 3.2 Preferences
 
 3.2.15 Users and Groups
 
-3.2.16 Alternatives Configurator
 
-3.2.17 Printers
+Chapter 3.3 Prefrences
+----------------------
+3.3.1 Alternatives Configurator
 
-3.2.18 Screensaver
+3.3.2 Bluetooth Manager
 
-3.2.19 Bluetooth Manager
+3.3.3 Openbox Settings
 
-3.2.20 Picom Configuration
+3.3.4 Picom Configuration
+
+3.3.5 Printers
+
+3.3.6 Screensaver
 
 ------------------------------------------------------
 Chapter 4 Installing, Updating, and Removing  Software

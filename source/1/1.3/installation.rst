@@ -9,7 +9,7 @@ At the start of the boot process, a GRUB splash screen will be shown. To install
 
 .. image::  grubsplash.png
 
-The next screen will present a choice between :guilabel:`Try Lubuntu`, which will give you a live session to run Lubuntu as you see fit, or run the installer directly with :guilabel:`Install Lubuntu`. Above this there is a field to select which language you want to install in the :guilabel:`Select Your Language` drop down. To get this screen in your language, select one then press the :guilabel:`Confirm` button. If you need more advanced network settings to install Lubuntu than just connecting to Wi-Fi use the :guilabel:`Try Lubuntu` choice. If choose :guilabel:`Install Lubuntu` the installer will start right away and install in your language. At the bottom of your screen if you are connected to the internet automatically like with an ethernet cable it will say :guilabel:`Connected` at the bottom. If you are not connected to the internet at the bottom it will say :guilabel:`Not Connected`.
+The next screen will present a choice between :guilabel:`Try Lubuntu`, which will give you a live session to run Lubuntu as you see fit, or run the installer directly with :guilabel:`Install Lubuntu`. Above this there is a field to select which language you want to install in the :guilabel:`Select Your Language` drop down. To get this screen in your language, select one then press the :guilabel:`Confirm` button. If you need more advanced network settings to install Lubuntu than just connecting to Wi-Fi use the :guilabel:`Try Lubuntu` choice. If choose :guilabel:`Install Lubuntu` the installer will start right away and install in your language. At the bottom of your screen if you are connected to the internet automatically like with an Ethernet cable it will say :guilabel:`Connected` at the bottom. If you are not connected to the internet at the bottom it will say :guilabel:`Not Connected`.
 
 .. image:: installer-prompt.png
 
@@ -149,7 +149,7 @@ Then a summary screen shows what settings are for your users. To actually begin 
 Oem User Setup
 --------------
 
-To setup your user setup for an OEM preinstalled system :menuselection:`System Tools ---> Finish OEM prepartion`. Then you will be asked if you want to finish OEM setup and then a wizard will be run next boot. Then press :guilabel:`Yes` to confirm this. Then you will need to reboot to run the user setup.
+To setup your user setup for an OEM preinstalled system :menuselection:`System Tools ---> Finish OEM preparation`. Then you will be asked if you want to finish OEM setup and then a wizard will be run next boot. Then press :guilabel:`Yes` to confirm this. Then you will need to reboot to run the user setup.
 
 The first section of user setup will ask you what language to continue in at the very bottom. To go to the next part of Lubuntu setup press the :guilabel:`Next` button.
 

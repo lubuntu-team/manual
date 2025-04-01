@@ -1,5 +1,5 @@
-Chapter 3.3 Prefrences
-======================
+Chapter 3.3 Preferences
+=======================
 
 This chapter sets up the many preferences included within Lubuntu for themeing and customization not included in the LXQt settings chapter.
 

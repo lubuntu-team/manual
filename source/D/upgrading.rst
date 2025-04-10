@@ -13,9 +13,7 @@ We now feature a graphical way to install updates, in addition to the command-li
 Upgrading Graphically
 ---------------------
 
-First make sure all of your current packages are up to date on the release you are upgrading. To do manually check for updates :menuselection:`Preferences --> Apply Full Upgrade`. To upgrade Lubuntu graphically when prompted for an upgrade press the :guilabel:`Apply` button when you are prompted. 
-
-.. image:: apply-new-version.jpg
+First make sure all of your current packages are up to date on the release you are upgrading. To do manually check for updates :menuselection:`Preferences --> Lubuntu Update`. The left click the :guilabel:`Install Updates` buttonn to install your updates.
 
 To launch the graphical version of the upgrade from the command line after upgrading
 

@@ -1,7 +1,7 @@
 Chapter 1.1 Retrieving the image
 =================================
 
-Before you install Lubuntu, you need to retrieve the correct image. Lubuntu supports AMD64 CPU types also known as 64-bit with a new version every six months (supported for nine months), and every two years being a long term support release (supported for three years). Lubuntu 24.04 is a Long Term Support release supported until 2027. Lubuntu 25.04 is supported until January 2026.
+Before you install Lubuntu, you need to retrieve the correct image. Lubuntu supports AMD64 CPU types also known as 64-bit with a new version every six months (supported for nine months), and every two years being a long term support release (supported for three years). Lubuntu 24.04 is a Long Term Support release supported until 2027. Lubuntu 25.04 is supported until July  2026.
 
 LTS vs. Regular Releases
 ------------------------

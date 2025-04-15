@@ -149,7 +149,7 @@ Then a summary screen shows what settings are for your users. To actually begin 
 Oem User Setup
 --------------
 
-To setup your user setup for an OEM preinstalled system :menuselection:`System Tools ---> Finish OEM preparation`. Then you will be asked if you want to finish OEM setup and then a wizard will be run next boot. Then press :guilabel:`Yes` to confirm this. Then you will need to reboot to run the user setup.
+To setup your user setup for an OEM preinstalled system :menuselection:`System Tools --> Finish OEM preparation`. Then you will be asked if you want to finish OEM setup and then a wizard will be run next boot. Then press :guilabel:`Yes` to confirm this. Then you will need to reboot to run the user setup.
 
 The first section of user setup will ask you what language to continue in at the very bottom. To go to the next part of Lubuntu setup press the :guilabel:`Next` button.
 

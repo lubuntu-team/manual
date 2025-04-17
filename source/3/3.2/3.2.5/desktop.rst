@@ -33,14 +33,14 @@ To quit Desktop press the :kbd:`Escape` key.
 
 Version
 -------
-Lubuntu ships with 2.0.0 of Desktop.
+Lubuntu ships with 2.1.0 of Desktop.
 
 How to Launch
 -------------
-To launch Desktop from the menu :menuselection:`Preferences --> LXQt settings --> Desktop`, from LXQt Configuration Center press the desktop button to launch it, or run
+To launch Desktop from the menu :menuselection:`LXQt settings --> Desktop`, from LXQt Configuration Center press the desktop button to launch it, or run
 
 .. code:: 
 
    pcmanfm-qt --desktop-pref=general
   
-from the command line. Another way to launch this is to right click on the desktop and select :menuselection:`Desktop Preferences`. The desktop icon for Desktop Preferences is a gray rectangle with a small hole missing.
+from the command line. Another way to launch this is to right click on the desktop and select :menuselection:`Desktop Preferences`. The desktop icon for Desktop Preferences is a monitor with a bar at the top and a smaller bar at the bottom.

@@ -5,7 +5,7 @@ Appearance is the default program that changes the theming of LXQt for a differe
 
 Usage
 ------
-The tab :guilabel:`Widget Style` changes the way windows, buttons, and menus are drawn. To change how buttons and toolbars look on Lubuntu in Qt applications use the :guilabel:`Qt Style` menu. To install more Qt styles install packages with kde-style in the name. The section :guilabel:`Qt Palate` changes colors on Qt applications. To change the background color of windows use the :guilabel:`Window` button and then choose your color. To change foreground elements colors use the :guilabel:`View` menu. To change the color of selected buttons and text change the :guilabel:`Selection` button. To change the color of hyperlinks on windows change the :guilabel:`Link` button. To change how the text of windows appears change the :guilabel:`Window Text` field. To change the color of text on buttons change the :guilabel:`View Text` button. To change the color of text you have selected press the :guilabel:`Selected Text` button. to change the color of links you have visited press the :guilabel:`Visited Link` button. To change your colors back to default press the :guilabel:`Default Palette` button and then press :guilabel:`Apply`. To save your current custom pallette press the :guilabel:`Save Palette` button enter a name and press :guilabel:`OK`. To load another palette press the :guilabel:`Load Palette` button and then left click on the palette you want and press :guilabel:`OK`.  The checkbox :guilabel:`Activate on single click` checkbox has makes things you normally need two clicks for one click.  
+The tab :guilabel:`Widget Style` changes the way windows, buttons, and menus are drawn. To change how buttons and toolbars look on Lubuntu in Qt applications use the :guilabel:`Qt Style` menu. To install more Qt styles install packages with kde-style in the name. The section :guilabel:`Qt Palate` changes colors on Qt applications. To change the background color of windows use the :guilabel:`Window` button and then choose your color. To change foreground elements colors use the :guilabel:`View` menu. To change the color of selected buttons and text change the :guilabel:`Selection` button. To change the color of toolitips use the :guilabel:`Tooltip` field. To change the color of hyperlinks on windows change the :guilabel:`Link` button. To change how the text of windows appears change the :guilabel:`Window Text` field. To change the color of text on buttons change the :guilabel:`View Text` button. To change the color of text you have selected press the :guilabel:`Selected Text` button. To change the color of text on tooltips change the :guilabel:`Tooltip Text` field. To change the color of links you have visited press the :guilabel:`Visited Link` button. To change your colors back to default press the :guilabel:`Default Palette` button and then press :guilabel:`Apply`. To save your current custom pallette press the :guilabel:`Save Palette` button enter a name and press :guilabel:`OK`. To load another palette press the :guilabel:`Load Palette` button and then left click on the palette you want and press :guilabel:`OK`. To change how to display buttons and text on toolbars change the :guilabel:`Toolbar button style`field. To change the size of icons on toolbars change the :guilabel:`Toolbar icon size` field. The checkbox :guilabel:`Activate on single click` checkbox has makes things you normally need two clicks for one click.  
 
  .. image:: appearance.png
 
@@ -13,7 +13,7 @@ The :guilabel:`Icons Theme` tab changes desktop icons on your computer and if yo
 
  .. image:: appearance-icon-theme.png
 
-The tab for :guilabel:`LXQt Theme` lets you change how the panel and notifications appear. To change the theme left click on the theme name to change the theme. To the left of the theme name there is a small preview of the panel and the default button for the panel. The checkbox :guilabel:`Override user-defined wallpaper` changes your wallpaper to one that comes with the LXQt theme. 
+The tab for :guilabel:`LXQt Theme` lets you change how the panel and notifications appear. To change the theme left click on the theme name to change the theme. To the left of the theme name there is a small preview of the panel and the default button for the panel. The checkbox :guilabel:`Override user-defined wallpaper` changes your wallpaper to one that comes with the LXQt theme. To use the pallete used by your LXQt theme check the :guilabel:`Use palette provided by theme` checkbox.
 
 .. image:: lxqt-theme-tab.png
 
@@ -33,14 +33,14 @@ If you want to reset your changes you will need to click the :guilabel:`Reset` b
 
 Version
 -------
-Lubuntu ships with version 2.0.0 of Appearance. 
+Lubuntu ships with version 2.1.1 of Appearance. 
 
 How to Launch
 -------------
-To launch Appearance in the menu :menuselection:`Preferences --> LXQt settings --> Appearance`. Another way to launch Appearance is to press the Appearance button from LXQt configuration center or run
+To launch Appearance in the menu :menuselection:`LXQt settings --> Appearance`. Another way to launch Appearance is to press the Appearance button from LXQt configuration center or run
 
 .. code:: 
 
     lxqt-config-appearance 
     
-from the command line. The icon for Appearance looks like a screenshot of a monitor with a window on it.
+from the command line. The icon for Appearance looks like a screenshot of a monitor with a small window on it.

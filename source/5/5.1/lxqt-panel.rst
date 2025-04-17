@@ -5,9 +5,11 @@ LXQt Panel is the bar situated at the bottom of your screen by default. The pane
 Usage
 ------
 
-The application menu allows you to browse and search through available programs; a keyboard shortcut is conveniently available for this and is set to :kbd:`Super(Windows)` by default. The menu has many subcategories to launch each application. To move an application from the menu to the desktop right click on it and select :menuselection:`Add to desktop`. The :menuselection:`Leave` menu has options to :menuselection:`Hibernate`, :menuselection:`Leave`, :menuselection:`Logout`, :menuselection:`Reboot`, :menuselection:`Shutdown`, or :menuselection:`Suspend`. If you want to lock your screen use :menuselection:`Lock Screen`. If you want to lock your screen select :menuselection:`Lock Screen`. If you mouseover a program you can see a description of that program in the menu. To go back one level or close the root level of the menu press the :kbd:`Escape` key. The desktop switcher allows you to switch to another virtual desktop, allowing you to keep your workspace organized by left clicking on the desktop number or using the mousewheel to change desktops. To see your desktop names simply mouseover the desktop number to see the desktop name.
+In the bottom left hand corner of the screen is the fancy menu in Lubuntu 25.04 or later. To open this fancy menu simply left click on it. At the top you can search in the :guilabel:`Search` bar at the top. To the left if a bar of added favorites to your menu. To click through your menu for applications left click on the category names on the right. To view all of your applications left click on :menuselection:`All Applications`. To open an about dialog about LXQt press the :guilabel:`Hummingbird` button in the bottom left hand corner of the menu. To open LXQt Configuration Center left click the :guilabel:`light bulb in front of a gear` button towards the bottom right of the menu. To bring up a shutdown menu left click the :guilabel:`Power` button. To actually shutdown :menuselection:`Power --> Shutdown`. To restart your computer :menuselection:`Power --> Reboot`. To lock your screen :menuselection:`Power --> Lock screen`. To logout of your session :menuselection:`Power --> Logout`. To close the menu left click on the menu on the panel with the panel open or press :kbd:`Escape` to close the fancy menu.
 
-.. image:: menu_search.png
+.. image:: fancy-menu.png
+
+To add a program to your desktop from the fancy menu right click and select :menuselection:`Add to desktop`. To add a program from the menu to your favorites right click on it and select :menuselection:`Add to Favorites`. To remove an item from your favorites right click on it and select :menuselection:`Remove from Favorites`.
 
 The quick launch bar allows you to conveniently launch your file manager (PCManFM) and web browser (Firefox) by left clicking on the program. If you right click on the icons in quick launch on something like Firefox will have items for each program. To add a program to quick launch open the menu and find it there and drag it down onto the panel. To move an item on your quick launch to the left right click the icon and select :menuselection:`Move left` or press :kbd:`Control` and drag the icon to the left. To move an item to the left right click the icon and select :menuselection:`Move right` or press :kbd:`Control` and drag the icon to the right. Another way to reorder items on quicklaunch is to hold :kbd:`Control` and drag and drop to the desired position. To remove an item from quick launch right click on the icon and select :menuselection:`Remove from quicklaunch`. To refresh your quicklaunch right click and select :menuselection:`Refresh`. To show your desktop press the blue show desktop button between quick launch and the taskbar. To see all your windows again press the blue show desktop button again.
 
@@ -29,11 +31,13 @@ In the system tray there there are multiple widgets. To see more on how to use n
 
 .. image:: volume-widget.png
 
-Next over to the right is the status notifier applet with a blue exclamation point over a white rectangle. To view notifications you may have missed while away from the keyboard left click on this applet. To bring up a particular notification left click on that notification from the list and it will pop up like notifications on your screen. To clear all notifications click the button that says :guilabel:`Clear All` for notifications.
+Next over to the right is the status notifier applet with a blue exclamation point over a white rectangle. To view notifications you may have missed while away from the keyboard left click on this applet. To bring up a particular notification left click on that notification from the list and it will pop up like notifications on your screen. To clear all notifications click the button that says :menuselection:`Clear All` for notifications. If you want to not be bugged by too many notifications right click on the system tray and select :menuselection:`Do Not Disturb`
  
 To the far right is a clock, you can left click the clock to bring up a pop up calendar window. To go to the next month on the calendar press the rightward pointing arrow. To go the previous month on the calendar press the leftward pointing arrow. Another way to change months on the calendar is to use the mousewheel. To change the month on a calendar to list all months in the year left click on the month and then select the month you want from your menu. To change the year on your calendar left click on the year in the calendar and then use :kbd:`up arrow` or :kbd:`down arrow` or the mouse wheel to select the year. Too see what week of the year it is read the number on the far left of the calendar.
 
 .. image:: calendar-widget.png
+
+If you want time zone information on your panel you can middle click on the clock. If you added multiple time zones middle clicking shows all of them. If you added many different time zones you can scroll between them with the scrollwheel.
 
 If you are on a laptop the panel will also show the battery meter to show how much power you have remaining. To view your current charge level mouseover the battery meter and it will show if your battery is charging by mousing over. To view information about your battery left click the battery icon. The field :guilabel:`Energy Full Design` shows how much power your battery held when it was brand new. The field :guilabel:`Energy Full` shows the current full charge of your battery in your current health.The :guilabel:`Energy Now` shows how much power is in your battery. The :guilabel:`Technology` field shows what kind of battery you have.
 
@@ -78,11 +82,9 @@ Shipped widgets not enabled by default:
 
 .. image:: panel-config-widgets.png
 
-To configure options for your Application Menu right click on the menu configure application menu or from the panel configuration dialog with the widget selected for application menu click on the circle with three dots button. The :guilabel:`Icon` checkbox lets you choose a custom icon to use in your menu if you want one and then use the folder button to browse for the path of the custom file you want for your menu. The checkbox for :guilabel:`Button text` lets you add text that can be anything you want to your menu. To change your own font size check the :guilabel:`Custom font size` checkbox and change your font size on the field to the right. To change the shortcut to open the menu from the default :kbd:`Left Super (Windows)` you can press the button for keyboard shortcut and a countdown will begin a countdown and press the button. To choose another file to use as a menu press use the :guilabel:`Menu file` field to choose a different menu. To set a custom keyboard shortcut to open the menu left click on :guilabel:`Click the button to record shortcut` button then press the keyboard shortcut you want. 
+To change settings with fancy application menus right click on the menu icon and select :menuselection:`Configure "Fancy Application Menu"`. To set a custom icon for your fancy menu left click the :guilabel:`Icon` checkbox. To choose a custom icon for your menu enter the path in the field right of :guilabel:`Icon` or press the :guilabel:`Folder` button. To change the font size for your menu check the :guilabel:`Custom font size` checkbox and then select the font size on the right. To have the fancy menu automatically switch to a menu category after you mouseover check the :guilabel:`Auto select after` checkbox and then choose how long to wait to autoselect.  To choose a different application menu type the path in the :guilabel:`Menu file` field or press the :guilabel:`Folder` button to change to select a path for the menu. To set a keyboard shortcut to show menu left click on the :guilabel:`Click the button to record shortcut` and press the keyboard shortcut you want to show up. To have search cleared each time you open the menu check the :guilabel:`Clear search upon showing menu` checkbox. To switch the buttons for shutdown, configuration center, and about buttons change the :guilabel:`Buttons row position` menu. To change which side the categories menu is on change the :guilabel:`Categories position` menu.   
 
-To turn off searching in the menu uncheck the :guilabel:`Filter menu entries` checkbox. To turn off showing matching items directly in top layer of the menu uncheck the :guilabel:`Show matching entries` checkbox. Leave both of these checked to allow searching. To set the most number of search results in the menu change the :guilabel:`Maximum visible items` field. To change how wide each search result can be change the :guilabel:`Max. item width` field. To not hide what section of the menu everyone has :guilabel:`Hide menu entries while searching` checkbox. To not clear your search upon reopening the menu uncheck the :guilabel:`Clear search upon showing menu` checkbox.
-
-.. image:: menu-pref.png 
+.. image:: fancy-menu-config.png
 
 To customize the Desktop switcher right click on the desktop switcher :menuselection:`Configure Desktop Switcher` or press the :guilabel:`three dots` button. To change the number of rows on your desktop change the :guilabel:`Number of rows` field. To change how desktops are labeled change the :guilabel:`Desktop Labels` field. To only show the current desktop check the :guilabel:`Show only active desktop` checkbox. To change the name of each desktop enter a name under :guilabel:`Desktop Names`. 
 
@@ -104,20 +106,41 @@ To configure the volume applet right click on the volume applet and select :menu
 
 .. image:: volume-app-pref.png
 
-To change settings of your Status Notifier press the :guilabel:`...` button in the list of applets or on the status notifier applet left click on :menuselection:`Options`. To change how long to have something visible you will autohide will have change the :guilabel:`Attention period`. To hide or autohide notifications from a particular application is to change the app settings under the :guilabel:`Visibility` column. To choose to hide a notification automatically select :menuselection:`Auto-hide`. To have a notification always have its notifications hidden select :menuselection:`Always hide`. To have notifications of an application always be shown select :menuselection:`Always Show`.
+To change settings of your Status Notifier press the :guilabel:`...` button in the list of applets or on the status notifier applet left click on :menuselection:`Options`. To reverse how items appear in the status notifier check the :guilabel:`Reverse the order of items` checkbox. To change how long to have something visible you will autohide will have change the :guilabel:`Attention period`. To hide or autohide notifications from a particular application is to change the app settings under the :guilabel:`Visibility` column. To choose to hide a notification automatically select :menuselection:`Auto-hide`. To have a notification always have its notifications hidden select :menuselection:`Always hide`. To have notifications of an application always be shown select :menuselection:`Always Show`.
 
 .. image::  status-notifier-pref.png
 
-To change the settings on your clock right click on the clock and then :menuselection:`Configure World clock`. To change settings on how your clock shows stuff use the :guilabel:`Display format` tab. The :guilabel:`Format` drop down menu allows you to change how the clock shows. To select a short format allows you to have a preselected short format which shows a 12 hour format and am just telling you what time it is. Selecting long from the menu will show you the time with seconds and the time zone. To have a customizable clock message select custom and then checkboxes to show seconds, pad the hours with zeros or to use a 12 hour format. The :guilabel:`Time zone` checkbox will show your your time zone. The :guilabel:`Position` drop down says where to put the time zone on the clock. The :guilabel:`Format` field changes how the time zone is displayed on your clock. To change how the date appears change the :guilabel:`Format` field. 
+To change the settings on your clock right click on the clock and then :menuselection:`Configure World Clock`. To change settings on how your clock shows stuff use the :guilabel:`Display format` tab. The :guilabel:`Format` drop down menu allows you to change how the clock shows. To select a short format allows you to have a preselected short format which shows a 12 hour format and am just telling you what time it is. Selecting long from the menu will show you the time with seconds and the time zone. To have a customizable clock message select custom and then checkboxes to show seconds, pad the hours with zeros or to use a 12 hour format. The :guilabel:`Time zone` checkbox will show your your time zone. The :guilabel:`Position` drop down says where to put the time zone on the clock. The :guilabel:`Format` field changes how the time zone is displayed on your clock. To change how the date appears change the :guilabel:`Format` field. 
 
 .. image:: clock-custom.png 
 
 To show the date on the clock check the :guilabel:`Date` checkbox. To change where the date appears change the :guilabel:`Position` drop down menu.To further customize your panel select :menuselection:`Custom` from the :guilabel:`Format` drop down. To show the year press the :guilabel:`Show year` checkbox. To show what day of the week it is check the :guilabel:`Show day of week` checkbox. To make the day two digits check the :guilabel:`Pad day with zero` checkbox. To not abbreviate the months and days of week check the :guilabel:`Long month and day of week names` checkbox. To reset your changes to the clock press the :guilabel:`Reset` button.
 
+To add many different time zones to your clock use the :guilabel:`Time Zones` tab. To add a second time zone press the :guilabel:`Add` button and a dialog will pop up. Left click on the arrow to expand the time zones under a continent. The :guilabel:`Name` column shows you the the name of the time zone. The :guilabel:`Comment` column shows you a comment on the time zone. To see which country this time zone is in use the :guilabel:`Country` column. To add the time zone press the :guilabel:`OK` button.
+
+.. image:: clock-addtz.png
+
+To remove a time zone you added left click the :guilabel:`Remove` button. To set a time zone as the default time zone left click on the :guilabel:`Set as default` button. To add a custom name to your time zone left click the :guilabel:`Edit custom name` button. To move a time zone up use the :guilabel:`Move up` button. To move a time zone down use the :guilabel:`Move Down` button.
+
+.. image:: clock-tz.png
+
+To have a few more settings for your clock use the :guilabel:`General` tab. To autorotate when the panel is vertical check the :guilabel:`Autorotate when the panel is vertical` checkbox. To show week numbers on the popup calendar check the :guilabel:`Show week numbers in popup calendar` checkbox. To show information on your clock when you mouseover it check the :guilabel:`Show tooltip` checkbox.
+
+.. image:: clock-custom-general.png
+
 To add two or more panels right click on the panel and :menuselection:`Add New Panel` and a new panel will be created with the dialog to customize your second panel. To remove a panel right click on the panel and select :menuselection:`Remove Panel` and you will be asked if you really want to do this as it can't be undone. To then make your new panel useful you will need to add widgets which you will need to see the above section.
 
 Non-Default widgets
 -------------------
+To add the older menu used by default in Lubuntu 24.10 and earlier add the :guilabel:`Application Menu` applet. The application menu allows you to browse and search through available programs; a keyboard shortcut is conveniently available for this and is set to :kbd:`Super(Windows)` by default. The menu has many subcategories to launch each application. To move an application from the menu to the desktop right click on it and select :menuselection:`Add to desktop`. The :menuselection:`Leave` menu has options to :menuselection:`Hibernate`, :menuselection:`Leave`, :menuselection:`Logout`, :menuselection:`Reboot`, :menuselection:`Shutdown`, or :menuselection:`Suspend`. If you want to lock your screen use :menuselection:`Lock Screen`. If you want to lock your screen select :menuselection:`Lock Screen`. If you mouseover a program you can see a description of that program in the menu. To go back one level or close the root level of the menu press the :kbd:`Escape` key. The desktop switcher allows you to switch to another virtual desktop, allowing you to keep your workspace organized by left clicking on the desktop number or using the mousewheel to change desktops. To see your desktop names simply mouseover the desktop number to see the desktop name.
+
+.. image:: menu_search.png
+
+To configure options for your Application Menu right click on the menu configure application menu or from the panel configuration dialog with the widget selected for application menu click on the circle with three dots button. The :guilabel:`Icon` checkbox lets you choose a custom icon to use in your menu if you want one and then use the folder button to browse for the path of the custom file you want for your menu. The checkbox for :guilabel:`Button text` lets you add text that can be anything you want to your menu. To change your own font size check the :guilabel:`Custom font size` checkbox and change your font size on the field to the right. To change the shortcut to open the menu from the default :kbd:`Left Super (Windows)` you can press the button for keyboard shortcut and a countdown will begin a countdown and press the button. To choose another file to use as a menu press use the :guilabel:`Menu file` field to choose a different menu. To set a custom keyboard shortcut to open the menu left click on :guilabel:`Click the button to record shortcut` button then press the keyboard shortcut you want. 
+
+To turn off searching in the menu uncheck the :guilabel:`Filter menu entries` checkbox. To turn off showing matching items directly in top layer of the menu uncheck the :guilabel:`Show matching entries` checkbox. Leave both of these checked to allow searching. To set the most number of search results in the menu change the :guilabel:`Maximum visible items` field. To change how wide each search result can be change the :guilabel:`Max. item width` field. To not hide what section of the menu everyone has :guilabel:`Hide menu entries while searching` checkbox. To not clear your search upon reopening the menu uncheck the :guilabel:`Clear search upon showing menu` checkbox.
+
+.. image:: menu-pref.png 
 
 To add an easy way to change brightness to your panel add the :guilabel:`Backlight` widget. To bring the applet to change backlight level left click on the icon. To make the backlight more faint drag the slider to the bottom and to make it brighter drag the slider towards the top.
 
@@ -125,7 +148,7 @@ To have a bar that shows CPU Load shows a bar graph with your CPU usage. To brin
 
 .. image:: CPU-load-settings.png
 
-The Color picker is shows what color something is on your screen usually useful for web developers. To get a color off the screen press the color dropper button and your mouse will turn into crosshair and then left click on what you want to take the color. Then a numeric field to the right of the dropper will appear with the color in a numeric field to the right. 
+The Color picker is shows what color something is on your screen usually useful for web developers. To get a color off the screen press the color dropper button and your mouse will turn into crosshair and then left click on what you want to take the color. Then a numeric field to the right of the dropper will appear with the color in a numeric field to the right. Left clicking with the droplet will bring up a menu of the last colors picked. To clear the list of colors left click where you select a color and select :menuselection:`Clear list`.
 
 .. image:: spacer-color-picker.png
 
@@ -141,16 +164,6 @@ To change settings of your Directory Menu right click and select  :menuselection
 
 .. image:: directory-config.png
 
-To add a different optional menu add the :guilabel:`Fancy Application Menu` widget. To pen this fancy menu simply left click on it. At the top you can search in the :guilabel:`Search` bar at the top. To the left if a bar of added favorites to your menu. To click through your menu for applications left click on the category names on the right. To open an about dialog about LXQt press the :guilabel:`Hummingbird` button in the bottom left hand corner of the menu. To open LXQt Configuration Center left click the :guilabel:`light bulb in front of a gear` button towards the bottom right of the menu. To bring up a shutdown menu left click the :guilabel:`Power` button. To close the menu left click on the menu on the panel with the panel open or press :kbd:`Escape` to close the fancy menu.
-
-.. image:: fancy-menu.png
-
-To add a program to your desktop from the fancy menu right click and select :menuselection:`Add to desktop`. To add a program from the menu to your favorites right click on it and select :menuselection:`Add to Favorites`. To remove an item from your favorites right click on it and select :menuselection:`Remove from Favorites`. 
-
-To change settings with fancy application menus right click on the menu icon and select :menuselection:`Configure "Fancy Application Menu"`. To set a custom icon for your fancy menu left click the :guilabel:`Icon` checkbox. To choose a custom icon for your menu enter the path in the field right of :guilabel:`Icon` or press the :guilabel:`Folder` button. To change the font size for your menu check the :guilabel:`Custom font size` checkbox and then select the font size on the right. To have the fancy menu automatically switch to a menu category after you mouseover check the :guilabel:`Auto select after` checkbox and then choose how long to wait to autoselect.  To choose a different application menu type the path in the :guilabel:`Menu file` field or press the :guilabel:`Folder` button to change to select a path for the menu. To set a keyboard shortcut to show menu left click on the :guilabel:`Click the button to record shortcut` and press the keyboard shortcut you want to show up. To have search cleared each time you open the menu check the :guilabel:`Clear search upon showing menu` checkbox. To switch the buttons for shutdown, configuration center, and about buttons change the :guilabel:`Buttons row position` menu. To change which side the categories menu is on change the :guilabel:`Categories position` menu.   
-
-.. image:: fancy-menu-config.png
-
 To add an applet that can show your current keyboard layout and if capslock, numlock, or scrollock is pressed use the :guilabel:`Keyboard State Indicator` applet. If shown the capslock indicator if shown will have a highlighted :guilabel:`C` to show if you have capslock on. The numlock indicator if shown has the :guilabel:`N` is highlighted. The scrollock indicator if shown will have a highlighted :guilabel:`S` to show if scrolllock is on. Then to the right of your panel shows your current keyboard layout with either text or a flag by the for your keyboard layout.
 
 .. image:: keyboard-state-info.png
@@ -165,13 +178,11 @@ To bring up settings on how to configure QEyes is to right click on the eye and 
 
 .. image:: QEyes-pref.png
 
-
 To use your sensors widgets which you would have to add manually as shown above. A sensor bar will appear with as many sensors as on your panel. To view the temp as a number mouse over the sensor bar to see what your temperature is in a number in the :guilabel:`Cur` field. Also shown on mouseover is the :guilabel:`Crit` field shows the temperature the sensor should not read above without overheating.
 
 To customize the sensors right click on the sensors applet :menuselection:`Configure "Sensors"`. The :guilabel:`Update interval(seconds)` field lets you choose how often in seconds to update the sensors. The :guilabel:`Temperature bar width` field shows how wide to make the bar for your sensors. The :guilabel:`Temperature scale` field lets you select :guilabel:`Celsius` or :guilabel:`Fahrenheit` for your sensors. The checkbox :guilabel:`Warning about high temperature` puts a warning if your temperature gets too high. If you want to reset your settings press the :guilabel:`Reset` button. 
 
 .. image:: sensors-config.png
-
 
 The :guilabel:`Sensors` tab provides settings for each individual sensor on your processor. To enable/disable each sensor press to the :guilabel:`Enabled` checkbox for each sensor. The :guilabel:`Label` shows a label for each sensor. The :guilabel:`Color` column shows the color for the bar to appear in the panel and you can bring up a dialog to change color by left clicking on the button. To switch to a different chip to set the sensors for change the :guilabel:`Detected chips` menu. 
 
@@ -181,10 +192,9 @@ To add a spacer to your panel add the spacer widget. It creates a blank space on
 
 .. image:: panel-spacer.png
 
-
 Version
 -------
-Lubuntu ships with version 2.0.1 of LXQt-panel.
+Lubuntu ships with version 2.1.4 of LXQt-panel.
 
 How to Launch
 -------------

@@ -30,15 +30,15 @@ The :guilabel:`Mouse and Touchpad` tab has settings for touchpads. To select whi
 
 Version
 -------
-Lubuntu ships with version 2.0.0 of Keyboard and Mouse.
+Lubuntu ships with version 2.1.1 of Keyboard and Mouse.
 
 How to Launch
 -------------
 
-To launch Keyboard and Mouse use menu :menuselection:`Preferences --> LXQt settings --> Keyboard and Mouse`. In LXQt Configuration Center press the Keyboard and Mouse button or from the command line run
+To launch Keyboard and Mouse use menu :menuselection:`LXQt settings --> Keyboard and Mouse`. In LXQt Configuration Center press the Keyboard and Mouse button or from the command line run
 
 .. code:: 
 
    lxqt-config-input
    
-The icon for Keyboard and Mouse is a black keyboard.
+The icon for Keyboard and Mouse is a black mouse with white scrollwheel.

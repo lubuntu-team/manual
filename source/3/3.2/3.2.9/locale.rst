@@ -17,11 +17,11 @@ To see how the current locale will appear read it under the :guilabel:`Examples`
  
 Version
 -------
-Lubuntu ships with version 2.0.0 of Locale. 
+Lubuntu ships with version 2.1.1 of Locale. 
 
 How to Launch
 -------------
-To launch Locale from the menu :menuselection:`Preferences --> LXQt settings --> Locale` or run
+To launch Locale from the menu :menuselection:`LXQt settings --> Locale` or run
 
 .. code:: 
 

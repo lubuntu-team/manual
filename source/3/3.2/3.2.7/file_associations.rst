@@ -19,11 +19,11 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 2.0.0 of File Associations
+Lubuntu ships with version 2.1.1 of File Associations
 
 How to Launch
 -------------
-From the menu :menuselection:`Preferences --> LXQt settings --> File Associations` or from the command line run
+From the menu :menuselection:`LXQt settings --> File Associations` or from the command line run
 
 .. code:: 
 

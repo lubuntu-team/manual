@@ -76,7 +76,7 @@ To open a spell check window press :kbd:`F2` or :menuselection:`Edit --> Check S
 
 .. image:: Featherpad-spellcheck.png
 
-To view what words you have added to your dictionary :menuselection:`Edit --> User Dictionary`. To get spellcheck to work the first time you will need to select a language to run on :guilabel:`Hunspell dictionary path` on the :guilabel:`Text` tab of FeatherPad preferences.
+To view what words you have added to your dictionary :menuselection:`Edit --> User Dictionary`. You can enter many words in here if you wish to add many new words to your custom dictionary all at once or move another dictionary file to this one to migrate to a new install. To get spellcheck to work the first time you will need to select a language to run on :guilabel:`Hunspell dictionary path` on the :guilabel:`Text` tab of FeatherPad preferences.
 
 Saving Sessions
 ---------------
@@ -86,7 +86,7 @@ To open all the files if you work on several together in a session press :kbd:`C
 
 Customizing
 ------------
-To view the preferences for FeatherPad press :kbd:`control +Shift +P` or :menuselection:`Options --> Preferences`. To change settings on how  FeatherPad handles the window use the :guilabel:`Window` tab. To have FeatherPad be the same size as when you last closed it check the :guilabel:`Remember window size on Closing` checkbox. If you choose for FeatherPad not to remember size you can change :guilabel:`Start with this size` field for height and width to start FeatherPad. To have FeatherPad appear on the same position it was when FeatherPad was closed check the :guilabel:`Remember window position on closing` checkbox. To start with the side-pane on FeatherPad check the :guilabel:`Start with side-pane mode`. To hide the toolbar you can press the :guilabel:`Do not show toolbar` checkbox. To not show the menubar by default check the :guilabel:`Do not show menubar` checkbox. To show the window title on the mneubar check the :guilabel:`Show window title on menubar` checkbox. To turn of keyboard shortcuts with the :kbd:`Alt` keys for navigating menus check the :guilabel:`Disable menubar accelarators` checkbox. To use your system icons when possible check the :guilabel:`Use system icons when possible` checkbox. To have the searchbar hidden by default check the :guilabel:`Hide search bar by default` checkbox. To have the same search history across all tabs use the :guilabel:`Use a shared search history` checkbox. To show where your cursor is on the statusbar at the bottom check the :guilabel:`Show cursor position on status bar`.
+To view the preferences for FeatherPad press :kbd:`control +Shift +P` or :menuselection:`Options --> Preferences`. To change settings on how  FeatherPad handles the window use the :guilabel:`Window` tab. To have FeatherPad be the same size as when you last closed it check the :guilabel:`Remember window size on Closing` checkbox. If you choose for FeatherPad not to remember size you can change :guilabel:`Start with this size` field for height and width to start FeatherPad. To have FeatherPad appear on the same position it was when FeatherPad was closed check the :guilabel:`Remember window position on closing` checkbox. To start with the side-pane on FeatherPad check the :guilabel:`Start with side-pane mode`. To hide the toolbar you can press the :guilabel:`Do not show toolbar` checkbox. To not show the menubar by default check the :guilabel:`Do not show menubar` checkbox. To show the window title on the menubar check the :guilabel:`Show window title on menubar` checkbox. To turn of keyboard shortcuts with the :kbd:`Alt` keys for navigating menus check the :guilabel:`Disable menubar accelerators` checkbox. To use your system icons when possible check the :guilabel:`Use system icons when possible` checkbox. To have the searchbar hidden by default check the :guilabel:`Hide search bar by default` checkbox. To have the same search history across all tabs use the :guilabel:`Use a shared search history` checkbox. To show where your cursor is on the statusbar at the bottom check the :guilabel:`Show cursor position on status bar`.
 
 The :guilabel:`Tab position` menu moves where the tab around on the screen. To hide the tabbar with only one tab check the :guilabel:`Do not show a single tab` checkbox. To have the window close after closing the last tab check the :guilabel:`Close window on closing its last tab`. To have FeatherPad open a new window when you are on a different virtual desktop check the :guilabel:`Always open in separate windows` checkbox. The checkbox :guilabel:`Native file dialog` uses the systems file dialog to integrate with the system.
 
@@ -114,7 +114,7 @@ To change what colors you use in syntax highlighting use the :guilabel:`Syntax C
 
 Version 
 -------
-Lubuntu ships with version 1.5.1 of FeatherPad. 
+Lubuntu ships with version 1.6.0 of FeatherPad. 
 
 How to Launch
 -------------

@@ -9,11 +9,11 @@ At the start of the boot process, a GRUB splash screen will be shown. To install
 
 .. image::  grubsplash.png
 
-The next screen will present a choice between :guilabel:`Try Lubuntu`, which will give you a live session to run Lubuntu as you see fit, or run the installer directly with :guilabel:`Install Lubuntu`. Above this there is a field to select which language you want to install in the :guilabel:`Select Your Language` drop down. To get this screen in your language, select one then press the :guilabel:`Confirm` button. If you need more advanced network settings to install Lubuntu than just connecting to Wi-Fi use the :guilabel:`Try Lubuntu` choice. If choose :guilabel:`Install Lubuntu` the installer will start right away and install in your language. At the bottom of your screen if you are connected to the internet automatically like with an ethernet cable it will say :guilabel:`Connected` at the bottom. If you are not connected to the internet at the bottom it will say :guilabel:`Not Connected`.
+The next screen will present a choice between :guilabel:`Try Lubuntu`, which will give you a live session to run Lubuntu as you see fit, or run the installer directly with :guilabel:`Install Lubuntu`. Above this there is a field to select which language you want to install in the :guilabel:`Select Your Language` drop down. To get this screen in your language, select one then press the :guilabel:`Confirm` button. If you need more advanced network settings to install Lubuntu than just connecting to Wi-Fi use the :guilabel:`Try Lubuntu` choice. If choose :guilabel:`Install Lubuntu` the installer will start right away and install in your language. At the bottom of your screen if you are connected to the internet automatically like with an Ethernet cable it will say :guilabel:`Connected` at the bottom. If you are not connected to the internet at the bottom it will say :guilabel:`Not Connected`.
 
 .. image:: installer-prompt.png
 
-Once you have booted into the live session, feel free to explore Lubuntu and make sure all your hardware works. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop :guilabel:`Install Lubuntu 24.10` or :menuselection:`System Tools --> Install Lubuntu 24.10`.
+Once you have booted into the live session, feel free to explore Lubuntu and make sure all your hardware works. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop :guilabel:`Install Lubuntu 25.04` or :menuselection:`System Tools --> Install Lubuntu 25.04`.
 
 .. image:: live_session.png
 
@@ -42,7 +42,7 @@ Customize
 
 Next will bring a choice of what applications to install, additional third party drivers, or to install updates with the installation. To choose to install all applications and the list of the third party applications choose :guilabel:`Full Installation`. To choose the normal applications included in Lubuntu select the :guilabel:`Normal Installation` button. To choose a minimal installation of just the desktop environment select the :guilabel:`Minimal Installation` button. To install updates while installing check the :guilabel:`Download and install updates following installation` checkbox. To install third party and maybe proprietary drivers check the :guilabel:`Install third-party software for graphics, WiFi hardware, and additional media formats` checkbox.
 
-Pick which particular additional applications you wish to install there are checkboxes for each program under :guilabel:`Install additional third party packages`. To install Element for encrypted Matrix chat check the :guilabel:`Element` checkbox. To install the Thunderbird email and calendering client check the :guilabel:`Thunderbird checkbox`. To install virt-manager to manage running virtual machines on Lubuntu check the :guilabel:`Virtual Machine Manager` checkbox. To make digital art check the checkbox for :guilabel:`Krita`.
+Pick which particular additional applications you wish to install there are checkboxes for each program under :guilabel:`Install additional third party packages`. To install Element for encrypted Matrix chat check the :guilabel:`Element` checkbox. To install the Thunderbird email and calendering client check the :guilabel:`Thunderbird checkbox`.
 
 To go to the next part of installation press the :guilabel:`Next` button. To go to selecting your keyboard again press the :guilabel:`Back` button.
 
@@ -71,7 +71,7 @@ To move back to Selecting your keyboard layout press the :guilabel:`Back` button
 
 User Setup
 ----------
-The user setup section creates a user profile, consisting of typing your name into the :guilabel:`What is your name?` field. Next type your username in the :guilabel:`What name do you want to use to log in?`. Put what you want your hostname of your computer to be in the :guilabel:`what is the name of this computer?` field. The last thing you need to enter is your password in the :guilabel:`Choose a password to keep your account safe`.  Enter your password twice to make sure you have not mistyped it. If a name can actually be used as a username or hostname a green checkmark will appear to the right of it if you cannot a red x will appear. Pressing the :guilabel:`Next` button will give you a summary screen, showing you the settings before the install begins. Once you have checked the summary click the :guilabel:`Install` button to begin the installation. 
+The user setup section creates a user profile, consisting of typing your name into the :guilabel:`What is your name?` field. Next type your username in the :guilabel:`What name do you want to use to log in?`. Put what you want your hostname of your computer to be in the :guilabel:`what is the name of this computer?` field. The last thing you need to enter is your password in the :guilabel:`Choose a password to keep your account safe`. Enter your password twice to make sure you have not mistyped it. To the right of your password will have an x if your passwords don't match. If you have a weak password to the right will have an orange triangle saying why your password is weak. Passwords less than 8 characters, containing a sequence like 1234, or based off a simple dictionary word like testing1 are considered weak. If a name can actually be used as a username or hostname a green checkmark will appear to the right of it if you cannot a red x will appear. Pressing the :guilabel:`Next` button will give you a summary screen, showing you the settings before the install begins. Once you have checked the summary click the :guilabel:`Install` button to begin the installation. 
 
 .. image::  user_setup.png
 
@@ -151,7 +151,7 @@ Then a summary screen shows what settings are for your users. To actually begin 
 Oem User Setup
 --------------
 
-To setup your user setup for an OEM preinstalled system :menuselection:`System Tools ---> Finish OEM prepartion`. Then you will be asked if you want to finish OEM setup and then a wizard will be run next boot. Then press :guilabel:`Yes` to confirm this. Then you will need to reboot to run the user setup.
+To setup your user setup for an OEM preinstalled system :menuselection:`System Tools --> Finish OEM preparation`. Then you will be asked if you want to finish OEM setup and then a wizard will be run next boot. Then press :guilabel:`Yes` to confirm this. Then you will need to reboot to run the user setup.
 
 The first section of user setup will ask you what language to continue in at the very bottom. To go to the next part of Lubuntu setup press the :guilabel:`Next` button.
 

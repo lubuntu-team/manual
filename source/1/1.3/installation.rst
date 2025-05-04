@@ -13,7 +13,7 @@ The next screen will present a choice between :guilabel:`Try Lubuntu`, which wil
 
 .. image:: installer-prompt.png
 
-Once you have booted into the live session, feel free to explore Lubuntu and make sure all your hardware works. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop :guilabel:`Install Lubuntu 25.04` or :menuselection:`System Tools --> Install Lubuntu 25.04`.
+Once you have booted into the live session, feel free to explore Lubuntu and make sure all your hardware works. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop :guilabel:`Install Lubuntu 25.10` or :menuselection:`System Tools --> Install Lubuntu 25.10`.
 
 .. image:: live_session.png
 

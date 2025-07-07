@@ -28,8 +28,6 @@ Version
 Lubuntu ships with version 25.04.3 of Skanlite.
 
 
-
-
 How to Launch
 -------------
 To launch Skanlite turn on your scanner and that it is connected to your computer. To launch the application go to the menu :menuselection:`Graphics --> Skanlite` or run 

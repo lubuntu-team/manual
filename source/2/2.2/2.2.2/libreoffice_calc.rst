@@ -63,6 +63,8 @@ To insert a comment press :kbd:`Control + Alt +C` or :menuselection:`Insert --> 
 
 To quit LibreOffice Calc press :kbd:`Control+Q`.
 
+To print  your spreadsheet press :kbd:`Control +P` or :menusellection:`File --> Print`. To choose which printer use the :guilabel:`Printer` drop down. To choose how many pages to print use the :guilabel:`Pages` field. To change the number of copies you print change the  :guiliabel:`Number of Copies` field. To select a  paper size use the :guilabel:`Paper size` drop  down. To change which orientation for your paper use the :guilabel:`Orientation` drop down. To actually print  press the  :guilabel:`Print`  button.
+
 Charts
 ------
 To get to the dialog of how to insert a chart :menuselection:`Insert --> Chart`. The first selection is to choose a :guilabel:`Column`, :guilabel:`Bar`, :guilabel:`Pie`, :guilabel:`Area`, :guilabel:`Line`, :guilabel:`XY(Scatter)`, :guilabel:`Bubble`, :guilabel:`Net`, :guilabel:`Stock`, or  :guilabel:`Column and Line` chart. To change the subtype of graph click the picture of a chart that looks like the type you want. To switch to the next step of making a graph press the :guilabel:`Next` button.

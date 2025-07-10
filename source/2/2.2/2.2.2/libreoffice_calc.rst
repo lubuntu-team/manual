@@ -63,6 +63,8 @@ To insert a comment press :kbd:`Control + Alt +C` or :menuselection:`Insert --> 
 
 To quit LibreOffice Calc press :kbd:`Control+Q`.
 
+To  open a  print  preview of your spreadsheet press :kbd:`Control+ Shift + O` or  :menuselection:`File --> Print Preview`. To preview your  spreadsheet in a web browser :menuselection:`File --> Preview in Web Browser`.
+
 To print  your spreadsheet press :kbd:`Control +P` or :menuselection:`File --> Print`. To choose which printer use the :guilabel:`Printer` drop down. To choose how many pages to print use the :guilabel:`Pages` field. To change the number of copies you print change the  :guilabel:`Number of Copies` field. To select a  paper size use the :guilabel:`Paper size` drop  down. To change which orientation for your paper use the :guilabel:`Orientation` drop down. To actually print  press the  :guilabel:`Print`  button.
 
 Charts

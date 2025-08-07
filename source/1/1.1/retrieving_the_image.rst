@@ -55,14 +55,14 @@ To verify the image, run this from the command line:
 .. code:: 
 
 
- sha256sum lubuntu-24.04.2-desktop-amd64.iso
+ sha256sum lubuntu-24.04.3-desktop-amd64.iso
 
 
 and then carefully check that the output matches 
 
 .. code::
 
-  d29e07f791eec68f76521bd8fecd2fb15507c9aab9f8197979cbc70e117dacb1 *lubuntu-24.04.2-desktop-amd64.iso
+  d1c502297205db97e2f1195f9e5a1a86c7a9754dfd4758b96f41e384eb233aab *lubuntu-24.04.3-desktop-amd64.iso
 
 
 Downloading the image via BitTorrent
@@ -100,7 +100,7 @@ To download the image using zsync run
 
 
 
-   zsync https://cdimage.ubuntu.com/lubuntu/releases/24.04.2/release/lubuntu-24.04.2-desktop-amd64.iso.zsync
+   zsync https://cdimage.ubuntu.com/lubuntu/releases/24.04.3/release/lubuntu-24.04.3-desktop-amd64.iso.zsync
 
 
 **You have now downloaded the image successfully. Please continue to Chapter 1.2.**

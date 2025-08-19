@@ -46,8 +46,6 @@ To verify the image, run this from the command line:
 and then carefully check that the output matches 
 
 .. code::
-I assume it's for the same reason Fedora does it: because otherwise it's very hard to get rid of zombie variants as new releases move forward.
-￼
 
   da49827ab8bce6b78214d6fd44c4334a5194e5c87534906e4f272492de4fd14e *lubuntu-25.04-desktop-amd64.iso
 

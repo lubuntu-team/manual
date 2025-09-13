@@ -45,7 +45,7 @@ To change your settings on multiple windows and automatically saving use the :gu
 
 .. image:: ScreenGrab-advanced.png
 
-To changes with how ScreenGrab shows in the system tray use the :guilabel:`System tray` tab. To toggle showing ScreenGrab in the system tray check/uncheck the :guilabel:`Show ScreenGrab in the system tray` checkbox. To change when ScreenGrab shows notifications change the :guilabel:`Tray messages` field. To change how long to display tray messages change the :guilabel:`Time to display tray messages` field. To not close ScreenGrab when closing the window but keep it in the system tray check the :guilabel:`Minimize to tray when closing` checkbox.
+To changes with how ScreenGrab shows in the system tray use the :guilabel:`System tray` tab. To toggle showing ScreenGrab in the system tray check/uncheck the :guilabel:`Show ScreenGrab in the system tray` checkbox. To not close ScreenGrab when closing the window but keep it in the system tray check the :guilabel:`Minimize to tray when closing` checkbox.
 
 .. image:: ScreenGrab-systray.png
 

@@ -178,11 +178,9 @@ The tab :guilabel:`Thumbnail` tab has settings for thumbnails on files in PCManF
 
 .. image:: perferences-thumbnail.png
 
-
 The tab :guilabel:`Volume` tab manages flash drives, other partitions, external disks, and other external media. The :guilabel:`Auto Mount` section is settings for automatically mounting removable media. The :guilabel:`Mount mountable volumes automatically on program startup` mounts removable media when you start PCManFM-Qt. To automount removable media when you insert them into your computer check the :guilabel:`Mount removable media automatically when they are inserted` checkbox. To show a menu for removable media when inserted check/uncheck the :guilabel:`Show available options for removable media when they are inserted` checkbox. To choose when you unmount a  removable volume you can choose to :guilabel:`Close tab containing removable medium` or :guilabel:`Change folder in the tab to home folder`.
 
 .. image:: preferencesvolume.png
-
 
 The :guilabel:`Advanced` tab shows integration with other programs and advanced settings. To change your default terminal emulator from PCManFM-Qt preferences drop down change the :guilabel:`Terminal emulator` drop down menu. To change what options to launch the terminal with use the :guilabel:`Execution option` field. PCManFM-Qt  To change what PCManFM-Qt uses to change users to open things as root type that in the :guilabel:`Switch user command` field. To change your Archiver integration change the :guilabel:`Archiver integration` drop down. To keep a list of seradch histoy change :guilabel:`Maximum Serach history` field to a the postive number of history items you want to keep. To clear your search history left click the :guilabel:`Clear search history` button.
 

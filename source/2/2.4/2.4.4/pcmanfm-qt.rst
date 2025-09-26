@@ -182,7 +182,7 @@ The tab :guilabel:`Volume` tab manages flash drives, other partitions, external 
 
 .. image:: preferencesvolume.png
 
-The :guilabel:`Advanced` tab shows integration with other programs and advanced settings. To change your default terminal emulator from PCManFM-Qt preferences drop down change the :guilabel:`Terminal emulator` drop down menu. To change what options to launch the terminal with use the :guilabel:`Execution option` field. PCManFM-Qt  To change what PCManFM-Qt uses to change users to open things as root type that in the :guilabel:`Switch user command` field. To change your Archiver integration change the :guilabel:`Archiver integration` drop down. To keep a list of seradch histoy change :guilabel:`Maximum Serach history` field to a the postive number of history items you want to keep. To clear your search history left click the :guilabel:`Clear search history` button.
+The :guilabel:`Advanced` tab shows integration with other programs and advanced settings. To change your default terminal emulator from PCManFM-Qt preferences drop down change the :guilabel:`Terminal emulator` drop down menu. To change what options to launch the terminal with use the :guilabel:`Execution option` field. PCManFM-Qt  To change what PCManFM-Qt uses to change users to open things as root type that in the :guilabel:`Switch user command` field. To change your Archiver integration change the :guilabel:`Archiver integration` drop down. To keep a list of search history change :guilabel:`Maximum Search history` field to a the positive number of history items you want to keep. To clear your search history left click the :guilabel:`Clear search history` button.
 
 .. image:: pcmanfm-advanced-pref.png
 

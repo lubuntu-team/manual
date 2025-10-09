@@ -7,7 +7,7 @@ Usage
 -----
 To take a new screenshot press the button with a piece of paper with a :guilabel:`+` on it or press :kbd:`Control+N`. After doing this a preview will appear in the center of the window. If you want to save this screenshot press the save :guilabel:`downward pointing arrow` or press :kbd:`Control+S`. To copy your screenshot to a clipboard press the button with two pieces of paper or press :kbd:`Control+C`. To edit your screenshot in an image editor :menuselection:`Edit in` and select the program you want to use to edit or double click on the image to open it in an editor. To quit ScreenGrab press :kbd:`Escape` or press the button to the right with a door and a rightward pointed arrow.
 
-To change what mode to select what are of the screen to take a screenshot from change the :guilabel:`Type` drop down menu. The options in the :guilabel:`Type` menu are :menuselection:`Full screen` to take a picture of everything on all of your screens. From the :guilabel:`Type` menu select :menuselection:`Window` to select your last window. To change how long to delay before taking the screenshot change the :guilabel:`Delay` field. To include the mouse pointer in your screenshot check the :guilabel:`Include mouse pointer` checkbox. To not have titlebars of the window check the the :guilabel:`No window decoration` checkbox. To more precisely select which exact pixel you want to select when selecting an area of the screen check the :guilabel:`Zoom area around mouse` checkbox.
+To change what mode to select what are of the screen to take a screenshot from change the :guilabel:`Type` drop down menu. The options in the :guilabel:`Type` menu are :menuselection:`Full screen` to take a picture of everything on all of your screens. From the :guilabel:`Type` menu select :menuselection:`Window` to select your last window. To choose the last area of the screen you selected select :menuselection:`Last Selected Area` from :guilabel:`Type` menu. To change how long to delay before taking the screenshot change the :guilabel:`Delay` field. To include the mouse pointer in your screenshot check the :guilabel:`Include mouse pointer` checkbox. To not have titlebars of the window check the the :guilabel:`No window decoration` checkbox. To more precisely select which exact pixel you want to select when selecting an area of the screen check the :guilabel:`Zoom area around mouse` checkbox.
 
 To take a screenshot where you select the screen with the mouse double click to get a where you currently have selected. To select at where there is a change in the image right click after sizing screen area to have ScreenGrab autoselect where to take the edge of the screenshot. To see how many pixels your screenshot will be when selecting a screen area it will show in the lower right hand corner of the screen.
 
@@ -21,7 +21,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 2.8.0 of ScreenGrab.
+Lubuntu ships with version 3.0.0 of ScreenGrab.
 
 How to Launch
 -------------
@@ -41,11 +41,11 @@ To change your settings on ScreenGrab press the :guilabel:`gear` button or press
 
 To restore your options to default press the :guilabel:`Restore Defaults` button. To cancel making changes press the :guilabel:`Cancel` button. To save your changes press the :guilabel:`Save` button.
 
-To change your settings on multiple windows and automatically saving use the :guilabel:`Advanced` tab. To automatically insert a time and date in the file name check the :guilabel:`Insert current date and time in file name` checkbox. To change how this date appears enter the date in the :guilabel:`Template` field that only shows if you insert the date and time. To automatically save each screenshot check the :guilabel:`Autosave screenshot` checkbox. To save the first screenshot check the :guilabel:`Save first screenshot` checkbox that only shows if you are autosaving screenshots. To allow more than one ScreenGrab window check the :guilabel:`Allow multiple instances of ScreenGrab` checkbox. To allow editing in a different image viewer check the :guilabel:`Enable external viewer` checkbox. To have selection autoselect an edge like of a window check the :guilabel:`Fit to edges inside selected area by right clicking` checkbox.
+To change your settings on multiple windows and automatically saving use the :guilabel:`Advanced` tab. To automatically insert a time and date in the file name check the :guilabel:`Insert current date and time in file name` checkbox. To change how this date appears enter the date in the :guilabel:`Template` field that only shows if you insert the date and time. To automatically save each screenshot check the :guilabel:`Autosave screenshot` checkbox. To save the first screenshot check the :guilabel:`Save first screenshot` checkbox that only shows if you are autosaving screenshots. To allow more than one ScreenGrab window check the :guilabel:`Allow multiple instances of ScreenGrab` checkbox. To allow editing in a different image viewer check the :guilabel:`Enable external viewer` checkbox. To have selection autoselect an edge like of a window check the :guilabel:`Fit to edges inside selected area by right clicking` checkbox. To add a notification on saving and copying check the :guilabel:`Notify on saving and copying` checkbox. To change how long to show the notification use the :guilabel:`Duration` field.
 
 .. image:: ScreenGrab-advanced.png
 
-To changes with how ScreenGrab shows in the system tray use the :guilabel:`System tray` tab. To toggle showing ScreenGrab in the system tray check/uncheck the :guilabel:`Show ScreenGrab in the system tray` checkbox. To change when ScreenGrab shows notifications change the :guilabel:`Tray messages` field. To change how long to display tray messages change the :guilabel:`Time to display tray messages` field. To not close ScreenGrab when closing the window but keep it in the system tray check the :guilabel:`Minimize to tray when closing` checkbox.
+To changes with how ScreenGrab shows in the system tray use the :guilabel:`System tray` tab. To toggle showing ScreenGrab in the system tray check/uncheck the :guilabel:`Show ScreenGrab in the system tray` checkbox. To not close ScreenGrab when closing the window but keep it in the system tray check the :guilabel:`Minimize to tray when closing` checkbox.
 
 .. image:: ScreenGrab-systray.png
 

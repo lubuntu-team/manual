@@ -57,11 +57,15 @@ To format your cells for a number with two decimal places press :kbd:`Control+Sh
 
 To toggle hiding the formula bar :menuselection:`View --> Formula Bar`. To toggle viewing the status bar at the bottom :menuselection:`View --> Status Bar`. To toggle showing the headers that show what each cell is like a4 :menuselection:`View --> View Headers`. To toggle viewing gridlines :menuselection:`View --> View Grid Lines`.
 
-To add a new spreadsheet quickly at the end press the :guilabel:`+` button at the bottom. To switch between different sheets left click on the sheet name at the bottom bar. To delete a sheet you added right click on it :menuselection:` Delete Sheet` and then confirm you are deleting that sheet. To rename a sheet right click on the sheets name and :menuselection:`Rename Sheet`. To see which sheet you are on it will be underlinded at the bottom bar and also say how many sheets along the bottom bar.
+To add a new spreadsheet quickly at the end press the :guilabel:`+` button at the bottom. To switch between different sheets left click on the sheet name at the bottom bar. To delete a sheet you added right click on it :menuselection:` Delete Sheet` and then confirm you are deleting that sheet. To rename a sheet right click on the sheets name and :menuselection:`Rename Sheet`. To see which sheet you are on it will be underlined at the bottom bar and also say how many sheets along the bottom bar.
 
 To insert a comment press :kbd:`Control + Alt +C` or :menuselection:`Insert --> Comment`. To then type the comment in the yellow popup. To toggle viewing your comments :menuselection:`View -->  Comments`.
 
 To quit LibreOffice Calc press :kbd:`Control+Q`.
+
+To  open a  print  preview of your spreadsheet press :kbd:`Control+ Shift + O` or  :menuselection:`File --> Print Preview`. To preview your  spreadsheet in a web browser :menuselection:`File --> Preview in Web Browser`.
+
+To print  your spreadsheet press :kbd:`Control +P` or :menuselection:`File --> Print`. To choose which printer use the :guilabel:`Printer` drop down. To choose how many pages to print use the :guilabel:`Pages` field. To change the number of copies you print change the  :guilabel:`Number of Copies` field. To select a  paper size use the :guilabel:`Paper size` drop  down. To change which orientation for your paper use the :guilabel:`Orientation` drop down. To actually print  press the  :guilabel:`Print`  button.
 
 Charts
 ------
@@ -79,7 +83,7 @@ The :guilabel:`Chart Elements` tab controls labels and displaying legends on you
 
 Version
 -------
-Lubuntu ships with version 25.2.2 of LibreOffice Calc.
+Lubuntu ships with version 25.8.0 of LibreOffice Calc.
 
 How to Launch
 -------------

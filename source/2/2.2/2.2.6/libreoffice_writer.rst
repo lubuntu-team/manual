@@ -46,6 +46,8 @@ To check the spelling of your document press the ABC button with a checkmark, fr
 
 .. image:: lowriter-spellcheck.png
 
+To preview your document in a  web browser :menuselection:` File --> Preview in Web Browser`.
+
 To view how your document looks before printing it :menuselection:`File --> Print preview` or :kbd:`Control +Shift +O`. To get back to editing your document press the same thing again or click the close preview button. After you are done writing your document you can press the button that looks like a printer to print, press :kbd:`control+ p` or :menuselection:`File --> Print`. To toggle the preview on or off check/uncheck the :guilabel:`Preview` checkbox. To the left of the print dialog will have a preview on the left hand side. Below the preview there is a range of different pages showing which page you are previewing and how many pages the document you are printing is showing. To select which printer to use use the :guilabel:`Printer` drop down menu. To choose which pages to print there are buttons under :guilabel:`Range and Copies` heading.  To change which side to print on change the :guilabel:`Paper sides` field. To change how many copies you are printing change the :guilabel:`Number of copies` field. To print in reverse order check the :guilabel:`Print in reverse order` checkbox. To change what paper size you are printing change the :guilabel:`Paper size` field. To change which direction the words are printed on the paper use the :guilabel:`Orientation` field. To change how many pages per sheet you print use the :guilabel:`Pages per sheet` field. To which order the pages are printed change the :guilabel:`Order` field. To preview which order the different pages are ordered to the right see the number of the page on the screen towards the bottom right of the print dialog. To draw a border around multiple pages check the :guilabel:`Draw a border around each page` checkbox.
 
 .. image:: lowriter-print.png
@@ -144,7 +146,7 @@ To see statistics on your document use the :guilabel:`Statistics` tab. To see ho
 
 Version
 -------
-Lubuntu ships with LibreOffice Writer version 25.2.2
+Lubuntu ships with LibreOffice Writer version 25.8.0
 
 How to Launch
 -------------

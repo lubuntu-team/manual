@@ -11,9 +11,9 @@ If your scanner is not detected a you will get a device saying "Sorry no devices
 
 .. image:: skanlite.png
 
-To change the dpi or dots per inch is the dpi drop down menu for :guilabel:`Scan resolution` but keep in mind the higher the number of dpi the better the picture quality but the longer it will take to scan. Changing the :guilabel:`Scan mode` allows you to select color to select color scanning or gray to only show your scan in gray and not use color ink if you would want to print it out again.  
+To change the dpi or dots per inch is the dpi drop down menu for :guilabel:`Scan resolution` but keep in mind the higher the number of dpi the better the picture quality but the longer it will take to scan. Changing the :guilabel:`Scan mode` allows you to select color to select color scanning or gray to only show your scan in gray and not use color ink if you would want to print it out again. To select a specific paper size to scan use the :guilabel:`Scan Area Size` drop down menu. To choose a width of your scan change the :guilabel:`Width` field. To change the Height of your area to scan change the :guilabel:`Height` field. To add an offset on the x axis use :guilabel:`X offset` field. To change the offset of the y axis use the :guilabel:`Y Offset` field.
 
-To zoom in press the magnifying glass button with a plus sign conversely to move out press the magnifying glass button with a minus sign. To change your resolution change the scan resolution drop down and select the dots per inch you want to use.
+To zoom in press the magnifying glass button with a plus sign conversely to move out press the magnifying glass button with a minus sign. To clear a selection of area to scan left click the :guilabel:`leftward pointing arrow with an x` button.
 
 To change brightness, contrast or even invert colors use the :guilabel:`Advanced Options` tab. To change the brightness of a scan slide the :guilabel:`Brightness` slider or input a positive or negative number into the numeric field. To change contrast slide the :guilabel:`Contrast` slider or input a positive or negative number in the numeric field. To toggle inverting your colors on the scan check/uncheck the :guilabel:`Invert colors` Checkbox. To change the delay between scans in a batch scans when scanning in batch mode use the :guilabel:`batch mode delay time` field.
 
@@ -25,9 +25,7 @@ To change to your specific options for your scanner use the :guilabel:`Scanner S
 
 Version
 -------
-Lubuntu ships with version 24.12.3 of Skanlite.
-
-
+Lubuntu ships with version 25.07.9 of Skanlite.
 
 
 How to Launch

@@ -13,7 +13,7 @@ The next screen will present a choice between :guilabel:`Try Lubuntu`, which wil
 
 .. image:: installer-prompt.png
 
-Once you have booted into the live session, feel free to explore Lubuntu and make sure all your hardware works. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop :guilabel:`Install Lubuntu 25.04` or :menuselection:`System Tools --> Install Lubuntu 25.04`.
+Once you have booted into the live session, feel free to explore Lubuntu and make sure all your hardware works. Once you are ready to install Lubuntu, double click the icon in the top-left corner of the desktop :guilabel:`Install Lubuntu 25.10` or :menuselection:`System Tools --> Install Lubuntu 25.10`.
 
 .. image:: live_session.png
 
@@ -42,7 +42,7 @@ Customize
 
 Next will bring a choice of what applications to install, additional third party drivers, or to install updates with the installation. To choose to install all applications and the list of the third party applications choose :guilabel:`Full Installation`. To choose the normal applications included in Lubuntu select the :guilabel:`Normal Installation` button. To choose a minimal installation of just the desktop environment select the :guilabel:`Minimal Installation` button. To install updates while installing check the :guilabel:`Download and install updates following installation` checkbox. To install third party and maybe proprietary drivers check the :guilabel:`Install third-party software for graphics, WiFi hardware, and additional media formats` checkbox.
 
-Pick which particular additional applications you wish to install there are checkboxes for each program under :guilabel:`Install additional third party packages`. To install Element for encrypted Matrix chat check the :guilabel:`Element` checkbox. To install the Thunderbird email and calendering client check the :guilabel:`Thunderbird checkbox`.
+Pick which particular additional applications you wish to install there are checkboxes for each program under :guilabel:`Install additional third party packages`. To install Element for encrypted Matrix chat check the :guilabel:`Element` checkbox. To install the Thunderbird email and calendering client check the :guilabel:`Thunderbird checkbox`. To install the Virtual Machine Manager for running virtual machines check the :guilabel:`Virtual Machine Manager` checkbox. To install Krita to make digital art check the :guilabel:`Krita` checkbox.
 
 To go to the next part of installation press the :guilabel:`Next` button. To go to selecting your keyboard again press the :guilabel:`Back` button.
 
@@ -81,7 +81,7 @@ The summary screen shows what settings will be installed and you can double chec
 
 The Install
 -----------
-The Lubuntu installer provides some useful information while the installer is running. On the bottom of the window is a progress bar. On the right end of the progress bar is the percentage of the installation complete. To see command line output of the install press the :guilabel:`Magnifying glass` button. Once Lubuntu is installed you have a checkbox :guilabel:`Reboot now` after your Lubuntu is installed and is now finished. There is a slideshow while you install and to move to the next slide left click and to move to the previous slide right click.
+The Lubuntu installer provides some useful information while the installer is running. On the bottom of the window is a progress bar. On the right end of the progress bar is the percentage of the installation complete. To see command line output of the install press the :guilabel:`Toggle log` button. Once Lubuntu is installed you have a checkbox :guilabel:`Reboot now` after your Lubuntu is installed and is now finished. There is a slideshow while you install and to move to the next slide left click and to move to the previous slide right click.
 
 .. image:: installer_screen.png
 
@@ -148,7 +148,7 @@ To set a name for what to call this preinstalled system you are installing to sh
 Then a summary screen shows what settings are for your users. To actually begin installing press the :guilabel:`Install` button and then to confirm that this is what you want press the :guilabel:`Install Now` button.
 
 
-Oem User Setup
+OEM User Setup
 --------------
 
 To setup your user setup for an OEM preinstalled system :menuselection:`System Tools --> Finish OEM preparation`. Then you will be asked if you want to finish OEM setup and then a wizard will be run next boot. Then press :guilabel:`Yes` to confirm this. Then you will need to reboot to run the user setup.

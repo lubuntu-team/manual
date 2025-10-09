@@ -68,7 +68,7 @@ The :guilabel:`Shortcuts` tab has settings for changing keyboard shortcuts in LX
 
 Version
 -------
-Lubuntu ships with version 2.1.1 or LXImage-Qt. 
+Lubuntu ships with version 2.2.0 or LXImage-Qt. 
 
 How to Launch
 -------------

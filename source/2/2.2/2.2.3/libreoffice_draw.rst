@@ -63,7 +63,7 @@ To print a drawing press :kbd:`Control+P` or :menuselection:`File --> Print`. To
 
 Version
 -------
-Lubuntu ships with version 25.8.3 of LibreOffice Draw.
+Lubuntu ships with version 25.8.4 of LibreOffice Draw.
 
 How to Launch
 -------------

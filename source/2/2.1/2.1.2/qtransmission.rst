@@ -54,7 +54,7 @@ To change options for a torrent file use the :guilabel:`Options` tab. To have th
 Version
 -------
 
-Lubuntu ships with version 4.0.5 of Transmission.
+Lubuntu ships with version 4.1.0 of Transmission.
 
 How to Launch
 -------------

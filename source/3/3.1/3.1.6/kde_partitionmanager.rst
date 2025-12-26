@@ -49,7 +49,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 25.07.90 of KDE Partition Manager.
+Lubuntu ships with version 25.12.0 of KDE Partition Manager.
 
 How to launch
 -------------

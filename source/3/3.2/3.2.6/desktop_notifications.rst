@@ -25,7 +25,7 @@ Screenshots
 
 Version
 -------
-Lubuntu ships with version 2.2.0 of Notifications.
+Lubuntu ships with version 2.3.1 of Notifications.
 
 How to Launch
 -------------

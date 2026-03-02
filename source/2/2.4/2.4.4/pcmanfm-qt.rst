@@ -188,7 +188,7 @@ The :guilabel:`Advanced` tab shows integration with other programs and advanced 
 
 Version
 -------
-Lubuntu currently ships with 2.2.0 of PCManFM-Qt. 
+Lubuntu currently ships with 2.3.0 of PCManFM-Qt. 
 
 How to Launch
 -------------

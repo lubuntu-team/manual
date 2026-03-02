@@ -21,7 +21,7 @@ Screenshot
 
 Version
 -------
-Lubuntu ships with version 3.0.0 of ScreenGrab.
+Lubuntu ships with version 3.1.0 of ScreenGrab.
 
 How to Launch
 -------------

@@ -101,7 +101,7 @@ The programming keypad as menubutton for hexadecimal A-F and number base switchi
 
 Version
 -------
-Lubuntu ships with version 5.8.1 of Qalculate!
+Lubuntu ships with version 5.9.0 of Qalculate!
 
 How to Launch
 -------------

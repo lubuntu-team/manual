@@ -32,7 +32,7 @@ from the command line.
 
 Version
 -------
-Lubuntu ships with version 0.6.3 of Redshift
+Lubuntu ships with version 0.6.4 of Redshift
 
 
 How to Launch

@@ -44,7 +44,7 @@ To close Openbox Settings press the :kbd:`Escape` key or press the :guilabel:`Cl
 
 Version
 -------
-Lubuntu ships with version 0.16.3 of Openbox Settings. 
+Lubuntu ships with version 0.16.6 of Openbox Settings. 
 
 How to Launch
 -------------

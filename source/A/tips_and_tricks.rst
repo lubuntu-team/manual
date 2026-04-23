@@ -29,3 +29,5 @@ In Modern Lubuntu release DNS is managed by systemd-resolvedd. To find the confi
    sudo systemctl restart systemd-resolved
    
 to get your changes actually applied.
+
+To have additional upstream LXQt documentation you can view the LXQt wiki at `LXQt Wiki <https://lxqt-project.org/wiki/index.html>`_ .

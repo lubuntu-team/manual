@@ -49,7 +49,7 @@ Support is mainly for the purpose of helping users solve their problems. If this
 
 People helping with support might find it helpful to learn `debugging procedures <https://wiki.ubuntu.com/DebuggingProcedures>`_ and have a Lubuntu machine available to be able to reproduce any issues. It is difficult to write a "one size fits all" guide for answering support questions, but idling in the channel and seeing how support questions are typically answered can help.
 
-Besides the support channel, we have a tag on `the Ask Ubuntu site <https://askubuntu.com/questions/tagged/lubuntu>`_, where people ask more long-form support questions. We also have a topic on `our Discourse forum <https://discourse.lubuntu.me/c/support>`_ and a tag on the `Ubuntu Forum <https://ubuntuforums.org/tags.php?tag=lubuntu>`_.
+Besides the support channel, we have a tag on `the Ask Ubuntu site <https://askubuntu.com/questions/tagged/lubuntu>`_ where people ask more long-form support questions. We also have a topic on `our Discourse forum <https://\https://discourse.ubuntu.com/c/flavors/lubuntu/343>`_ .
 
 Bug Triage
 ~~~~~~~~~~

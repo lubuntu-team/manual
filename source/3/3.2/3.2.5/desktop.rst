@@ -25,7 +25,7 @@ The :guilabel:`Slide Show` tab shows settings for slide show of changing your wa
 
 .. image:: slideshow-desktop.png
 
-The :guilabel:`Advanced` tab has settings for default desktop icons or included. To show or hide any of the default desktop icons check/uncheck the checkboxes for: :guilabel:`Home`, :guilabel:`Trash`, :guilabel:`Computer`, :guilabel:`Network`, or :guilabel:`Lubuntu Manual`.
+The :guilabel:`Advanced` tab has settings for default desktop icons or included. To show or hide any of the default desktop icons check/uncheck the checkboxes for: :guilabel:`Home`, :guilabel:`Trash`, :guilabel:`Computer`, :guilabel:`Network`, or :guilabel:`Lubuntu Manual`. To not show file tooltips check the :guilabel:`Do not show file Tooltips` checkbox.
 
 .. image:: desktop-advanced.png
 
@@ -33,7 +33,7 @@ To quit Desktop press the :kbd:`Escape` key.
 
 Version
 -------
-Lubuntu ships with 2.2.0 of Desktop.
+Lubuntu ships with 2.3.0 of Desktop.
 
 How to Launch
 -------------

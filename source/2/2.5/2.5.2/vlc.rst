@@ -149,7 +149,7 @@ To show your Active extensions use the :guilabel:`Active Extensions tab`. To rel
 
 Version
 -------
-Lubuntu ships with version 3.0.21 of VLC.
+Lubuntu ships with version 3.0.23 of VLC.
 
 How to Launch
 -------------

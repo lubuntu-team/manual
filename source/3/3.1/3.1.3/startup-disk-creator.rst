@@ -24,7 +24,7 @@ To quit Startup Disk Creator press the :kbd:`Escape` key or press the :guilabel:
 
 Version
 -------
-Lubuntu ships version 0.3.17 of Startup Disk Creator.
+Lubuntu ships version 0.4.1 of Startup Disk Creator.
 
 How to Launch
 -------------

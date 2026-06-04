@@ -28,7 +28,7 @@ If you want to undo changes you have done press the :guilabel:`Reset` button. To
 
 Version
 -------
-Lubuntu ships with version 2.3.1 of Session Settings. 
+Lubuntu ships with version 2.4.0 of Session Settings. 
 
 How to Launch
 -------------

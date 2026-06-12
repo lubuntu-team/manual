@@ -25,7 +25,7 @@ To change to your specific options for your scanner use the :guilabel:`Scanner S
 
 Version
 -------
-Lubuntu ships with version 25.12.3 of Skanlite.
+Lubuntu ships with version 26.04.2 of Skanlite.
 
 
 How to Launch

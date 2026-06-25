@@ -14,6 +14,8 @@ The checkbox for :guilabel:`Ask for confirmation to leave session` gives you a s
 
 To manage settings related to X11 use the :guilabel:`X11 settings` tab. To change the window manager used by LXQt, on the basic settings tab use the :guilabel:`Window Manager` drop down menu. Choose from the drop down list or press :guilabel:`Search` if the drop down list does not contain your new window manager. To set a custom command for locking your screen check the :guilabel:`Use custom screen lock command` checkbox and then type the command in the box or left click the :guilabel:`Search` button. To make everything on the screen appear bigger increase the :guilabel:`Scale factor` field.
 
+To change your session settings when using a wayland session use the :guilabel:`Wayland Settings` tab. To choose your wayland compositor use the :guilabel:`wayand compositor` field. To search for a wayland compistor press the :guilabel:`Search` button to the right. To choose how to lock your screen on wayland use the :guilabel:`Screenlock command` field. To search for  a wayland screenlocker click on the :guilabel:`Search` button to the right.
+
 To change where LXQt saves the default user directories left click on the :guilabel:`User Directories` tab. To view what folder to change the default location for use the :guilabel:`Desktop`, :guilabel:`Downloads`, :guilabel:`Templates`, :guilabel:`Public Share`, :guilabel:`Documents`, :guilabel:`Music`, :guilabel:`Pictures`, or :guilabel:`Videos` field to change that default folder for that. To bring up a dialog to change your folder press the folder button. In the center shows the current path to your documents. To go back to the default folder press the leftward pointing arrow with an x in it.
 
 .. image:: user-directories-tab.png 

@@ -103,7 +103,7 @@ The programming keypad as menubutton for hexadecimal A-F and number base switchi
 
 Completion
 ----------
-Qalculate! has a feature to autocompelte your functions and units. To start getting to settings to set up completeion right click over where you input expressions and select :menuselection:`Completion`. To turn autocompletion off right click on input and select :menuselection:`Completion --> no completion`. To set completion to a limited list of what you typed select strict completion with :menuselection:`Completion --> Strict completion`. To quickly complete something press the :kbd:`Tab` key.
+Qalculate! has a feature to autocompelte your functions and units. To start getting to settings to set up completeion right click over where you input expressions and select :menuselection:`Completion`. To turn autocompletion off right click on input and select :menuselection:`Completion --> no completion`. To set completion to a limited list of what you typed select strict completion with :menuselection:`Completion --> Strict completion`. To quickly complete something press the :kbd:`Tab` key or left click on the list of options that pops up to autocomplete.
 
 Version
 -------

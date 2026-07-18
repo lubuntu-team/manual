@@ -35,6 +35,8 @@ To select the general keypad left click the 10 numbers :menuselection:`Keypad --
 
 To have Qalculate! solve an equation type :kbd:`Solve()` or long click on :menuselection:`x= --> Solve Equation`. 
 
+To convert to or from roman numerals type :kbd:`roman( )` and then the expression you wish to convert inside the parathesis. 
+
 Trigonometry
 -------------
 Qalculate! offers many different trigonometric functions. When using these functions having the correct angle unit is important to have the angle unit set correctly or else you will get the wrong answer. To set the angle unit to degrees left click the left most button with two sliders and select :menuselection:`Degrees` in which 360 degrees make one full circle. To set the angle unit to radians in which 2π radians make one full circle left click the left most button on the toolbar and select :menuselection:`Radians`. To have the angle unit set to Gradians in which 400 gradians make a full circle left the leftmost button on the toolbar and select :menuselection:`Gradians`.

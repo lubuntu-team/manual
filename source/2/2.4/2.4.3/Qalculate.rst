@@ -101,6 +101,10 @@ To change what number base the answer is displayed in left click left most :guil
 
 The programming keypad as menubutton for hexadecimal A-F and number base switching which can get by the 10 point icon :menuselection:`Keypad --> Programming`.
 
+Completion
+----------
+Qalculate! has a feature to autocompelte your functions and units. To start getting to settings to set up completeion right click over where you input expressions and select :menuselection:`Completion`. To turn autocompletion off right click on input and select :menuselection:`Completion --> no completion`. 
+
 Version
 -------
 Lubuntu ships with version 5.11.0 of Qalculate!

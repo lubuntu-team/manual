@@ -40,7 +40,7 @@ The :guilabel:`Meters` tab brings up meters like CPU average. To see what kind o
 
 To change what columns end up showing select :guilabel:`Columns` on the setup menu. The column :guilabel:`Active Columns` shows what columns you will have on htop with the top being the leftmost column in htop and the bottom being the rightmost. To select a different column press :kbd:`Up arrow` or :kbd:`Down arrow`. To move a column up in the list press :kbd:`F7`. To move a column down press :kbd:`F8`. To remove a column press :kbd:`F9`. To see what other columns there is the column :guilabel:`Available Columns`. To add a column when having :guilabel:`Available Columns` and select the column you want and press :kbd:`F5`.
 
-To change settings on the main or io screen use the :guilabel:`Screens` tab. To choose which screen to change settings for use the :guilabel:`Screens` column.
+To change settings on the main or io screen use the :guilabel:`Screens` tab. To choose which screen to change settings for use the :guilabel:`Screens` column. To see what columns are currently active on a screen use the :guilabel:`Active columns` column. To move a column up press :kbd:`F7`. To move a column down press :kbd:`F8`. To remove a column press :kbd:`F9`.
 
 To choose a different color schme for htop use the :guilabel:`Colors` tab on the setup menu. To choose a color schme press :kbd:`Spacebar` or left click on it to select that color scheme.
 

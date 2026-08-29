@@ -33,8 +33,8 @@ For writing images to USB drives on Linux, we recommend `mkusb <https://help.ubu
 Writing images to USB drives from macOS or Windows is beyond the scope of this book, but the Ubuntu website also
 has several guides on this:
 
- - `How to create a bootable USB stick on Windows <https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows>`_
- - `How to create a bootable USB stick on macOS <https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-macos>`_
+ - `How to create a bootable USB stick on Windows <https://ubuntu.com/tutorials/create-a-usb-stick-on-windows>`_
+ - `How to create a bootable USB stick on macOS <https://ubuntu.com/tutorials/create-a-usb-stick-on-macos>`_
 
 Booting the Image
 -----------------

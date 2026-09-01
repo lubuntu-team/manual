@@ -19,7 +19,7 @@ To launch the graphical version of the upgrade from the command line after upgra
 
 .. code::
 
-  sudo do-release-upgrade -m desktop -f DistUpgradeViewKDE
+  sudo do-release-upgrade -f DistUpgradeViewKDE
     
 Once this is launched you will be brought to a window that shows you welcome to the next release. To start the release press the :guilabel:`Upgrade` button. 
     
@@ -94,4 +94,4 @@ To upgrade to the development release graphically
 
 .. code::
 
-  sudo do-release-upgrade -d -m desktop -f DistUpgradeViewKDE
+  sudo do-release-upgrade -d -f DistUpgradeViewKDE

@@ -1,4 +1,4 @@
-Chapter 3.2.13 Session Settings
+Chapter 3.2.12 Session Settings
 ===============================
 
 Session Settings is the way to change what happens when log into Lubuntu. Here you manage default applications and services at startup.

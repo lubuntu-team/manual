@@ -41,13 +41,13 @@ To verify the image, run this from the command line:
 
 .. code:: 
 
- sha256sum lubuntu-26.04-desktop-amd64.iso
+ sha256sum lubuntu-26.10-desktop-amd64.iso
 
 and then carefully check that the output matches 
 
 .. code::
 
-   a9eef9e75c139caa428d11799f681e2d29e6ba7e22aa045d9a64599d45cd12ff *lubuntu-26.04-desktop-amd64.iso
+   fd71fb468451ff2a14914aeb344b530e7eb1d4f7c810f35d855ecbe68330b7eb *lubuntu-26.10-desktop-amd64.iso
 
 Downloading the image via BitTorrent
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -82,6 +82,6 @@ To download the image using zsync run
  
 .. code::
 
-   zsync https://cdimage.ubuntu.com/lubuntu/releases/questing/release/lubuntu-25.10-desktop-amd64.iso.zsync
+   https://cdimage.ubuntu.com/lubuntu/releases/26.10/release/lubuntu-26.10-desktop-amd64.iso.zsync
    
 **You have now downloaded the image successfully. Please continue to Chapter 1.2.**

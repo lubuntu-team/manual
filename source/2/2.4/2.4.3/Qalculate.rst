@@ -35,6 +35,8 @@ To select the general keypad left click the 10 numbers :menuselection:`Keypad --
 
 To have Qalculate! solve an equation type :kbd:`Solve()` or long click on :menuselection:`x= --> Solve Equation`. 
 
+To convert to or from roman numerals type :kbd:`roman( )` and then the expression you wish to convert inside the parathesis. 
+
 Trigonometry
 -------------
 Qalculate! offers many different trigonometric functions. When using these functions having the correct angle unit is important to have the angle unit set correctly or else you will get the wrong answer. To set the angle unit to degrees left click the left most button with two sliders and select :menuselection:`Degrees` in which 360 degrees make one full circle. To set the angle unit to radians in which 2π radians make one full circle left click the left most button on the toolbar and select :menuselection:`Radians`. To have the angle unit set to Gradians in which 400 gradians make a full circle left the leftmost button on the toolbar and select :menuselection:`Gradians`.
@@ -99,9 +101,13 @@ To change what number base the answer is displayed in left click left most :guil
 
 The programming keypad as menubutton for hexadecimal A-F and number base switching which can get by the 10 point icon :menuselection:`Keypad --> Programming`.
 
+Completion
+----------
+Qalculate! has a feature to autocompelte your functions and units. To start getting to settings to set up completeion right click over where you input expressions and select :menuselection:`Completion`. To turn autocompletion off right click on input and select :menuselection:`Completion --> no completion`. To set completion to a limited list of what you typed select strict completion with :menuselection:`Completion --> Strict completion`. To quickly complete something press the :kbd:`Tab` key or left click on the list of options that pops up to autocomplete. To have even  more options right click and :menuselection:`Completion --> full completion`.
+
 Version
 -------
-Lubuntu ships with version 5.9.0 of Qalculate!
+Lubuntu ships with version 5.11.0 of Qalculate!
 
 How to Launch
 -------------

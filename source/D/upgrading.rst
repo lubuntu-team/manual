@@ -13,13 +13,13 @@ We now feature a graphical way to install updates, in addition to the command-li
 Upgrading Graphically
 ---------------------
 
-First make sure all of your current packages are up to date on the release you are upgrading. To do manually check for updates :menuselection:`Preferences --> Lubuntu Update`. The left click the :guilabel:`Install Updates` buttonn to install your updates.
+First make sure all of your current packages are up to date on the release you are upgrading. To do manually check for updates :menuselection:`Preferences --> Lubuntu Update`. The left click the :guilabel:`Install Updates` buttonn to install your updates. Then you need to reboot to make sure all updates have taken effect. 
 
 To launch the graphical version of the upgrade from the command line after upgrading
 
 .. code::
 
-  sudo do-release-upgrade -m desktop -f DistUpgradeViewKDE
+  sudo do-release-upgrade -f DistUpgradeViewKDE
     
 Once this is launched you will be brought to a window that shows you welcome to the next release. To start the release press the :guilabel:`Upgrade` button. 
     
@@ -94,4 +94,4 @@ To upgrade to the development release graphically
 
 .. code::
 
-  sudo do-release-upgrade -d -m desktop -f DistUpgradeViewKDE
+  sudo do-release-upgrade -d -f DistUpgradeViewKDE

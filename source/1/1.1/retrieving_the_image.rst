@@ -1,7 +1,7 @@
 Chapter 1.1 Retrieving the image
 =================================
 
-Before you install Lubuntu, you need to retrieve the correct image. Lubuntu supports AMD64 CPU types also known as 64-bit with a new version every six months (supported for nine months), and every two years being a long term support release (supported for three years). Lubuntu 26.04 LTS is a Long Term Support release supported until 2027. Lubuntu 25.10 is supported until July 2026.
+Before you install Lubuntu, you need to retrieve the correct image. Lubuntu supports AMD64 CPU types also known as 64-bit with a new version every six months (supported for nine months), and every two years being a long term support release (supported for three years). Lubuntu 26.04 LTS is a Long Term Support release supported until 2027. Lubuntu 26.10 is supported until July 2027.
 
 LTS vs. Regular Releases
 ------------------------
@@ -41,7 +41,7 @@ To verify the image, run this from the command line:
 
 .. code:: 
 
- sha256sum lubuntu-26.04-desktop-amd64.iso
+ sha256sum lubuntu-26.10-desktop-amd64.iso
 
 
 
@@ -49,7 +49,7 @@ and then carefully check that the output matches
 
 .. code::
 
-   a9eef9e75c139caa428d11799f681e2d29e6ba7e22aa045d9a64599d45cd12ff *lubuntu-26.04-desktop-amd64.iso
+   fd71fb468451ff2a14914aeb344b530e7eb1d4f7c810f35d855ecbe68330b7eb *lubuntu-26.10-desktop-amd64.iso
 
 
 Downloading the image via BitTorrent
@@ -85,8 +85,7 @@ To download the image using zsync run
  
 .. code::
 
-
-   https://cdimage.ubuntu.com/lubuntu/releases/resolute/release/lubuntu-26.04-desktop-amd64.iso
+   https://cdimage.ubuntu.com/lubuntu/releases/26.10/release/lubuntu-26.10-desktop-amd64.iso.zsync
 
    
 **You have now downloaded the image successfully. Please continue to Chapter 1.2.**

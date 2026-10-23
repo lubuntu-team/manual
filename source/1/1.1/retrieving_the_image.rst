@@ -1,12 +1,29 @@
 Chapter 1.1 Retrieving the image
 =================================
 
+<<<<<<< HEAD
 Before you install Lubuntu, you need to retrieve the correct image. Lubuntu supports AMD64 CPU types also known as 64-bit with a new version every six months (supported for nine months), and every two years being a long term support release (supported for three years). Lubuntu 26.04 LTS is a Long Term Support release supported until 2027. Lubuntu 25.10 is supported until July 2026.
+=======
+
+
+
+Before you install Lubuntu, you need to retrieve the correct image. Lubuntu supports AMD64 CPU types also known as 64-bit with a new version every six months (supported for nine months), and every two years being a long term support release (supported for three years). Lubuntu 24.04 is a Long Term Support release supported until 2027.
+
+
+>>>>>>> lts
 
 LTS vs. Regular Releases
 ------------------------
 
+
+
+Lubuntu offers two types of releases. The **Long Term Support** release, or the **LTS**, is the release recommended for most users. It is supported for three years after the release date and does not contain new features. Throughout the course of the cycle, the Ubuntu Kernel Team will deliver **Hardware Enablement** updates, or **HWE** updates, to Lubuntu via Linux kernel updates. Previously, Lubuntu used **LXDE** but since 18.10 it has used the **LXQt**. Lubuntu 20.04 is the First **Long Term Support** release which uses the more modern **LXQt** desktop environment. 
+
+Lubuntu offers two types of releases. The **Long Term Support** release, or the **LTS**, is the release recommended for most users. It is supported for three years after the release date and does not contain new features. Throughout the course of the cycle, the Ubuntu Kernel Team will deliver **Hardware Enablement** updates, or **HWE** updates, to Lubuntu via Linux kernel updates. Previously, Lubuntu used **LXDE** but since 18.10 it has used **LXQt**. Lubuntu 20.04 is the First **Long Term Support** release which uses the more modern **LXQt** desktop environment. 
+
 Lubuntu offers two types of releases. The **Long Term Support** release, or the **LTS**, is the release recommended for most users. It is supported for three years after the release date and does not contain new features. Throughout the course of the cycle, the Ubuntu Kernel Team will deliver **Hardware Enablement** updates, or **HWE** updates, to Lubuntu via Linux kernel updates. Previously, Lubuntu used **LXDE** but since 18.10 it has used **LXQt**. Lubuntu 20.04 was the First **Long Term Support** release which uses the more modern **LXQt** desktop environment. 
+
+
 
 For users looking to try new features every six months at the expense of the support cycle length, Lubuntu offers **interim releases**, or **regular releases**. These releases, while they are considered stable, are testing grounds for major, new features which will be rolled into the LTS release. Users of the regular releases are typically enthusiasts and somewhat more experienced users looking for a fresher experience.
 
@@ -41,6 +58,7 @@ To verify the image, run this from the command line:
 
 .. code:: 
 
+
  sha256sum lubuntu-26.04-desktop-amd64.iso
 
 and then carefully check that the output matches 
@@ -48,6 +66,7 @@ and then carefully check that the output matches
 .. code::
 
    a9eef9e75c139caa428d11799f681e2d29e6ba7e22aa045d9a64599d45cd12ff *lubuntu-26.04-desktop-amd64.iso
+
 
 Downloading the image via BitTorrent
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -82,6 +101,8 @@ To download the image using zsync run
  
 .. code::
 
-   zsync https://cdimage.ubuntu.com/lubuntu/releases/questing/release/lubuntu-25.10-desktop-amd64.iso.zsync
+
+   zsync https://cdimage.ubuntu.com/lubuntu/releases/questing/release/lubuntu-26.04-desktop-amd64.iso.zsync
    
+
 **You have now downloaded the image successfully. Please continue to Chapter 1.2.**

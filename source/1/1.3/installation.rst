@@ -7,6 +7,7 @@ Starting the installer
 
 At the start of the boot process, a GRUB splash screen will be shown. To install select :menuselection:`Try or Install Lubuntu`. If you have a problematic graphics card, select :menuselection:`Lubuntu (safe graphics)` (for example, some NVIDIA cards will need this.) To test your RAM, select :menuselection:`Test memory`.
 
+
 .. image::  grubsplash.png
 
 The next screen will present a choice between :guilabel:`Try Lubuntu`, which will give you a live session to run Lubuntu as you see fit, or run the installer directly with :guilabel:`Install Lubuntu`. Above this there is a field to select which language you want to install in the :guilabel:`Select Your Language` drop down. To get this screen in your language, select one then press the :guilabel:`Confirm` button. If you need more advanced network settings to install Lubuntu than just connecting to Wi-Fi use the :guilabel:`Try Lubuntu` choice. If choose :guilabel:`Install Lubuntu` the installer will start right away and install in your language. At the bottom of your screen if you are connected to the internet automatically like with an Ethernet cable it will say :guilabel:`Connected` at the bottom. If you are not connected to the internet at the bottom it will say :guilabel:`Not Connected`.
@@ -106,9 +107,11 @@ To replace a partition select :guilabel:`Replace a partition` on the :guilabel:`
 Manual Partitioning
 -----------------------
 .. Warning::
-   Trying to use nonlinux filesystems such as NTFS or FAT as your root filesystem will result in a broken system.
 
-If you wish to manual set up partitions, as an advanced option you will have to choose which file-system you want. A file-system controls how your files are accessed at lower levels on the disk. If you are booting your computer in UEFI mode a more modern firmware compared to BIOS you will need to create an EFI system partition (see `efi system partition Wikipedia <https://en.wikipedia.org/wiki/EFI_System_partition>`_ for more detail). To create this partition you will need a FAT32 file-system with the ESP flag to be mounted at /boot/efi/ under the mount point. You will also need a root (/) file-system, several file-systems included for Lubuntu are Ext4, XFS, and Btrfs. Lubuntu 22.04 has bug with installing BTRFS and `This guide on Lubuntu discourse <https://discourse.lubuntu.me/t/getting-lubuntu-22-04-to-install-with-btrfs/3273/>`_
+
+ Trying to use nonlinux filesystems such as NTFS or FAT as your root filesystem will result in a broken system.
+
+If you wish to manual set up partitions, as an advanced option you will have to choose which file-system you want. A file-system controls how your files are accessed at lower levels on the disk. If you are booting your computer in UEFI mode a more modern firmware compared to BIOS you will need to create an EFI system partition (see `efi system partition Wikipedia <https://en.wikipedia.org/wiki/EFI_System_partition>`_ for more detail). To create this partition you will need a FAT32 file-system with the ESP flag to be mounted at /boot/efi/ under the mount point. You will also need a root (/) file-system, several file-systems included for Lubuntu are Ext4, XFS, and Btrfs. Lubuntu 22.04 has bug with installing BTRFS and `This guide on Lubuntu discourse <https://discourse.lubuntu.me/t/getting-lubuntu-22-04-to-install-with-btrfs/3273>`_
 
 .. image:: manpartitioning.png
 

@@ -14,7 +14,9 @@ Features:
 
 Usage
 ------
+
 If you single left click on a file you will select it. If you double click on it you will open it in the  default program to open that file. If you want to select multiple files you can hold down :kbd:`control+ Left click` to select each file or press the :guilabel:`Plus` button to add that particular file. To remove a file if you select multiple files press the :guilabel:`-` button that appears when mousing over a file. To copy files select the file right click :menuselection:`Copy`, :menuselection:`Edit --> Copy`, or press :kbd:`control +c`. To cut files select them right click :menuselection:`Cut`, :menuselection:`Edit --> Cut`, or press :kbd:`control + x`. After copying or cutting a file you can paste them with right clicking :menuselection:`Paste`, :menuselection:`Edit --> Paste`, or pressing :kbd:`control +v`.
+
 
 If you double click on a folder you open that folder in PCManFM-Qt and it shows what files are in the folder you opened. If you want to open a folder in a new tab right click on that tab and select :menuselection:`Open in New Tab`. To open a folder in a new window right click it and select :menuselection:`Open in New Window`. To open a folder in your terminal right click it and select :menuselection:`Open in terminal`.
 
@@ -22,6 +24,7 @@ Along the top to create a new tab in PCManFM-Qt you can use the button with a fi
 
 
 To close a tab click on the :guilabel:`x` button on the tab bar, middle click on the tab, press :kbd:`Control +W`, or from the menu :menuselection:`File --> Close Tab`. To close tabs to the left right click on the tab bar and select :menuselection:`Close previous tabs`.  To close all tabs to the right of this tab :menuselection:`Close next tabs`. To close all tabs but the current one right click on the tab bar and :menuselection:`Close other tabs`. To preserve settings for a folder of a tab check the :menuselection:`Preserve Settings for this Folder` checkbox. To preserve settings for a folder and all folders in this folder check the :menuselection:`Preserve Settings Recursively from Here` checkbox. To remove settings from deleted folders select :menuselection:`Remove Settings of Nonexistent folders`. 
+
 
 .. image:: pcmanfm-tab-context.png
 
@@ -32,6 +35,7 @@ To create a new empty text file press :kbd:`Control + Alt +N` or right click :me
 .. image:: pcmanfm-qt.png 
 
 To view a directory tree on your side pane select :menuselection:`Directory Tree` from the menu above the side pane. To expand into a folder press the :guilabel:`>` to expand the files and the :guilabel:`˅` button to collapse the folder. To switch to a folder left click on the folder name. To have open a directory in a new tab right click on it and select :menuselection:`Open in new tab`. To open a folder from the directory tree in a terminal right click :menuselection:`Open in terminal`. To switch to back to places from the menu above the side pane select :menuselection:`Lists` at the top of the side pane. To resize the side pane left click on the border between the side pane and main part of the window. To toggle hiding the side pane press :kbd:`F9` or :menuselection:`View --> Side Pane`.
+
 
 .. image:: directorytreesidepane.png
 
@@ -47,15 +51,19 @@ To bulk rename multiple files first select all the files you want to rename then
 
 To connect to a remote server such as a NAS go to the :menuselection:`Go -->  Connect to server` and authenticate to your remote storage. If you want to plug in removable storage you can open the storage on the left sidebar with devices. To switch to the removable media left click on the device in the side pane. This also applies to other internal filesystems on your computer. If you are mounting an encrypted drive you will need to enter your passphrase to unlock the drive. To eject removable media press the button on the left with a circled up arrow to eject. On the side pane you can right click to open a place in a new tab by right clicking :menuselection:`Open in New Tab` on the side pane.
 
+
 .. image:: pcmanfm-qt-connect-server.png 
 
 PCManFM-Qt also supports transferring files to mobile devices plugged in with a USB cable. On the left hand side under :guilabel:`Devices` the mobile device will appear. You may need to accept sending files on the device to allow it to transfer files. After you have done this You can see the files on mobile device and transfer files to them. To eject the mobile devices press the upward pointing arrow to unmount it. If you want a device not to show up right click on it under devices and check the :guilabel:`Hide` checkbox.
+
 
 At the bottom of the window is a filter bar that lets you show files only matching a pattern in the window of the current folder. To show the filter bar press :kbd:`Control+I` or :menuselection:`View --> Filtering --> Show/Focus Filter Bar`. To use it type what you want to search for in the bar that says :guilabel:`Filter`. How many result you match will show in the :guilabel:`item(s)` field. To empty out the filter press :kbd:`Escape`. To return the filter back to seeing all files clear the text field and hide the filter bar by pressing :kbd:`Escape` or :menuselection:`View --> Filtering --> Clear All Filters`. If you still want to see the filter bar but to see all files hold the :kbd:`backspace` key to clear it out.
 
 On the very bottom of the PCManFM-Qt window when you have nothing selected it shows :guilabel:`x item(s) (y hidden)` showing how many items are in the current folder. To the right of this shows :guilabel:`Free space` showing how much free space you have. The :guilabel:`(Total)` shows the full size of the storage medium this is on. When you select one file on this bottom bar it will show the file name, the file size, and the type of file it is. If you select multiple files the bottom bar to the left will show :guilabel:`X item(s) selected` where X is the number of files you have selected and how much disk space they take up. When you have one file selected it will say the the file name, the size of the file in parenthesis, and then the type of image.
 
+
 To have PCManFM-Qt reload what folder you are viewing press :kbd:`F5`, the circular pointing arrow button, or :menuselection:`View --> Reload`. To see hidden files press :kbd:`control +h`, right click :menuselection:`Show Hidden`, or go to  :menuselection:`View --> Show Hidden`. Do the same thing again to hide hidden files again. To toggle showing thumbnails check/uncheck the :menuselection:`View --> Show Thumbnails`. To open a terminal in your current folder press :kbd:`f4`, right click on a folder and select :menuselection:`Open in Terminal`, or :menuselection:`Tools --> Open Terminal` from the menu. To copy the full path of a file or directory press :kbd:`Control+Shift+C` or :menuselection:`Tools --> Copy Full Path` after selecting a single file. To open the tab in as root select :menuselection:`Tools --> Open tab in root instance` and a new window will appear that says it is root at the bottom of the window in red.
+
 
 .. warning::
 
@@ -103,8 +111,10 @@ PCManFM-Qt has options when right clicking has special options for dealing with 
 Searching for Files
 -------------------
 
+
 To search for files press :kbd:`f3` or :menuselection:`Tools --> Find Files`. Type what you are searching for where it says :guilabel:`File Name Patterns`. To make your search case insensitive check the :guilabel:`Case insensitive`. To toggle searching with regular expressions check/uncheck the :guilabel:`Use regular expression` checkbox. To add locations and places to search press the :guilabel:`Add` button and select the additional places to search. To remove an additional place to search press the :guilabel:`Remove` button. To toggle searching in Subdirectories check/uncheck the :guilabel:`Search in subdirectories` checkbox. To toggle searching for hidden files check/uncheck the :guilabel:`Search for hidden files`. To close this window press :kbd:`Escape`.
  
+
 .. image:: filesearch.png 
 
 To change what types of files you use choose the :guilabel:`File Type` tab. To choose to search for only certain file check/uncheck the files under the heading :guilabel:`Only search for files of following types:`. The options for which type of file include: :guilabel:`Text files`, :guilabel:`Image files`, :guilabel:`Audio files`, :guilabel:`Video files`, :guilabel:`Documents`, or :guilabel:`Folders`.

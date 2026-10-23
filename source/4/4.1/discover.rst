@@ -4,15 +4,20 @@ Discover allows you to install and remove programs and utilities. It has a simpl
 
 Usage
 ------
+
 Discover allows you to search for applications by using the :guilabel:`Search` box or by pressing :kbd:`Control + F`. To view featured applications press the :guilabel:`Home` button in the top  of the bottom left hand corner. Left clicking on a program will give you a description of it. To install a program press the cloud with downward pointing arrow button that says :guilabel:`Install` when viewing a single package. When installing or removing software, you will be prompted for your password. You can also browse through different categories on the left clicking on the different categories. If a category has a :menuselection:`-->` next to it you can click on it and then will have subcategories. To go back up a little press the :guilabel:`Back` button in the upper left. In the results after selecting your program you are looking at you can select a screenshot and get a bigger view of the screenshot click on the screenshot. To change which screenshot you are looking at press the left and right arrow buttons near the screenshot. To exit from the screenshot press :kbd:`Escape` or click not on the screenshot. To navigate back to the start with press the button that looks like a house.
 
 Press the leftward pointed arrow button to moves back in your history. 
 
 To view more information on a program you want to install left click on a program to see more details on it. Towards the right will show a description of the program. To view user reviews of a program click on the text :guilabel:`Show All Reviews`. To show what else is needed for this program to work left click on :guilabel:`Show Dependendencies`. To install the program press the :guilabel:`Install` button. To view more screenshots press the left and right arrows next to the screenshots. To exit the user reviews press :kbd:`Escape` or click outside the areas of reviews. To view ratings of thee program is shown in stars with how many ratings of the number of reviews next to :guilabel:`ratings`.  Below the reviews there is information on the package such as the :guilabel:`Version` and :guilabel:`License`. 
 
+.. image:: update-authentication.png
+
 .. image:: discover-details.png
 
+
 To remove software use the :guilabel:`Installed` tab or press :kbd:`Alt +I`. You can browse your installed packages, search using the search bar (upper left corner), and the click the remove button to remove software by pressing the :guilabel:`Remove` button. To see how much space a package takes up look towards the bottom right hand corner which will also tell you how many dependencies this package has. If the package is a snap package in the top right corner it will say :guilabel:`Snap`. To view more details on the program left click on it. If you want to launch an installed program press the :guilabel:`Launch` button in the upper right corner.
+
 
 .. image:: discover-installed.png
 

@@ -20,6 +20,10 @@ The :guilabel:`Multiple actions behavior` field changes what to do if you have m
 :menuselection:`All` from :guilabel:`Multiple actions behavior`.To have neither qps or qterminal open select :menuselection:`None` from :guilabel:`Multiple actions behavior`.
 
 
+The :guilabel:`Multiple actions behavior` field changes what to do if you have multiple shortcuts bound to the same key. If you had both qterminal and qps launch with :kbd:`Control + ALT + Del` Selecting :menuselection:`First` on :guilabel:`Multiple actions behavior` will launch qterminal. Selecting :menuselection:`Last` on :guilabel:`Multiple actions behavior` will launch qps. To launch both qps and qterminal select 
+:menuselection:`All` from :guilabel:`Multiple actions behavior`.To have neither qps or qterminal open select :menuselection:`None` from :guilabel:`Multiple actions behavior`.
+
+
 To close Shortcut Keys press the :kbd:`Escape` key or press the :guilabel:`Close` button.
 
 Screenshots

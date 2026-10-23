@@ -7,9 +7,13 @@ Usage
 ------
 To open a picture press :menuselection:`File --> Open File`, :kbd:`Control + O`, or press the button that looks like an upward pointing arrow. To open a directory full of images press :kbd:`Control+D` or :menuselection:`File --> Open Directory`. If you do not like the picture press :kbd:`Del` or :menuselection:`File --> Delete`. To open a new window of LXImage press :kbd:`Control +N` or :menuselection:`File --> New Window`. To view the properties of your image by :menuselection:`File --> File Properties`. To view your recently viewed pictures :menuselection:`File --> Recently Opened Files`. To clear your recently opened files :menuselection:`Files --> Recently Opened --> Clear`. To reload your file after you save it again press :kbd:`Control +R`, press the circular arrow button, or :menuselection:`File --> Reload file`.
 
+If you want to upload a picture to share it online press :menuselection:`Edit --> Upload` and a new window will pop up with a drop down menu to show where to upload the picture to. To actually upload the file press :guilabel:`Start`. The URL of the image will then show up from after it is finished uploading. You can then copy the URL by selecting the   text and then pressing :kbd:`Control+C`.
+
+.. image:: lximage_upload.png
+
+
 To have LXImage open the next file in a folder press :kbd:`Right arrow` and to view the previous image press the :kbd:`Left arrow`. To open an entire directory :menuselection:`File --> Open Directory` or press :kbd:`Control +D`. To save the file as something press :kbd:`Control+Shift+S`, the downward pointed arrow with an I on it, or :menuselection:`File --> Save As`. To save the file with the same file name press :kbd:`Control+S` or :menuselection:`File -->Save`. To rename a file press :kbd:`F2` or :menuselection:`Edit --> Rename`.
 
-.. image:: LXImage.png
 
 If you wish to print a picture after viewing it from the :menuselection:`File --> Pint` or press :kbd:`control+ p` to bring up a print dialog. To change the printer change the :guilabel:`Name` field. To toggle viewing more options for printing press the :guilabel:`Options` button. To change how many copies of an image you want to print change the :guilabel:`Copies` field. To collate the pages to print check the :guilabel:`Collate` checkbox. To reverse the order printed check the :guilabel:`Reverse` button. To exit the window with a keyboard shortcut press the :kbd:`Escape` key.
 
@@ -33,13 +37,16 @@ To view the next picture on your image press the :kbd:`right arrow`, right click
 
 To view thumbnails of the current directory you can toggle thumbnails by pressing :kbd:`T` or :menuselection:`View --> Show Thumbnails` and thumbnails will show at the bottom with a scrollbar at the bottom of the window to view the whole folder. To open the thumbnail of a picture in a another program such as one to edit that picture right click :menuselection:`Open With` and select the program you want to edit with or you can do this by :menuselection:`File --> Open With`. To rename an image after viewing it right click on the thumbnail select :menuselection:`Rename` and type the filename for the picture you want. To move a file to the trash can right click on it and select :menuselection:`Move to Trash`.
 
+
 .. image:: lximage-thumb.png
 
 To view the picture entirely press :menuselection:`View --> Fit` or the button with a vertical and horizontal arrow and a folded over bottom right corner. To return your image to its original size  :menuselection:`View --> Original Size` or press the :guilabel:`1` toolbar button. To show an outline around the image press :kbd:`O` or :menuselection:`View --> Show Outline`. To toggle showing information about the settings on the camera :menuselection:`View --> Show EXIF Data`. 
 
+
 To view the picture as fullscreen press :kbd:`f11`, right click :menuselection:`Fullscreen`, double click on the image, or :menuselection:`View --> Fullscreen`. To exit fullscreen double click the image, press :kbd:`F11`, or right click :menuselection:`Fullscreen` again. To have a slideshow of you pictures in your current folder :menuselection:`View --> Slideshow` or right click and select :menuselection:`Slide Show`. Once you start the slideshow on the toolbar a play pause button will appear on the toolbar or you can stop the slideshow by right clicking and selecting :menuselection:`Slide Show`.
 
 To close LXImage press :kbd:`Control+w` or :menuselection:`File --> Close`. 
+
 
 Annotations
 ------------
@@ -51,6 +58,7 @@ Customizing
 -----------
 
 To change preferences in LXImage :menuselection:`Edit --> Preferences`. The :guilabel:`General` tab has settings for recent files, thumbnails, and trash. To cancel your changes press the :guilabel:`Cancel` button. To not generate thumbnails for really large images change the :guilabel:`Thumbnailer size limit` field. To change how big thumbnails to use change the :guilabel:`Thumbnail image dimensions` field. To apply your settings and exit the preference dialog by pressing the :guilabel:`OK` button.
+
 
 .. image:: lximage-prefrences.png
 

@@ -26,7 +26,9 @@ Usage
 ------
 To open a new tab in Firefox press the :guilabel:`+` button on the right of the tab bar, right click the tab bar :menuselection:`New tab`, or press :kbd:`Control + t`. To close a tab press the button with an :guilabel:`x` on the right side of the tab or press :kbd:`Control +W`. To Open a new window in browsing press :kbd:`Control +N`. To view your browsing history press the hamburger menu :menuselection:`Library --> History` or press :kbd:`Control +H`. When you have the history sidebar you can search through your history where it says :guilabel:`Search History`. To change how to sort your history click the :guilabel:`View` label and select how you want to search your history. To view your downloaded files press the button that looks like three stacked books with a fourth leaning over :menuselection:`--> Downloads`.
 
+
 To click on a hyperlink left click on it. To open a link in a new tab right click on the link :menuselection:`Open Link in New Tab`. To open a link in a new window right click and select :menuselection:`Open Link in New Window`. To open a link in a private session right click :menuselection:`Open Link in New Private Window`. To copy the link you have right click and select :menuselection:`Copy Link`.
+
 
 To go back to a previous page in Firefox press the button pointing to the left or press :kbd:`Alt + Left arrow`. To open the page you were previously browsing in a new tab middle click the back button. To go forward to a page you have visited before but have now gone back from press the button with the arrow pointing to the right or :kbd:`Alt + Right arrow`. Middle click on the forward button to open the page you went back from in a new tab. To download a file directly to your local disk right click :menuselection:`Save Link As` file as and then you will get a dialog box to show where to save it. To save an image to your computer right click the image and select :menuselection:`Save Image As`. 
 
@@ -56,7 +58,7 @@ In the top left hand corner there is a :guilabel:`Folder` button that on the tab
 
 To copy text in Firefox select it with the mouse and press :kbd:`Control +C` or right click on it and select :menuselection:`Copy`. To paste text into Firefox press :kbd:`Control+ V` or right click  and select :menuselection:`Paste`. To cut text in Firefox select the text and press :kbd:`Control+X` or right click and select :menuselection:`Cut`. To select all of the text on a page press :kbd:`Control+ A` or right click and select :menuselection:`Select All`.
 
-To view info on your webpage press :kbd:`Control+ I`. To take a screenshot of a webpage right click and select :menuselection:`Take Screenshot`. Then select the part of the webpage you want by left clicking and dragging to select which part of the webpage to take a picture of. To change the size of the screenshot click on a circle and drag to the desired size. To save your screenshot press the :guilabel:`Download` button. To copy the screenshot to a clipboard press the :guilabel:`Copy` button. To cancel taking the screenshot press the :guilabel:`Cancel` button, the :guilabel:`x` button that appears after selecting an area, or press :kbd:`Escape`. To take a screenshot of the whole webpage press the :guilabel:`Save full page` button. To save the visible portion of the page press the :guilabel:`Save visible` button.
+To view info on your webpage press :kbd:`Control+ I`. To take a screenshot of a webpage right click and select :menuselection:`Take Screenshot`. Then select the part of the webpage you want by left clicking and dragging to select which part of the webpage to take a picture of. To save your screenshot press the :guilabel:`Download` button. To copy the screenshot to a clipboard press the :guilabel:`Copy` button. To cancel taking the screenshot press the :guilabel:`Cancel` button or press :kbd:`Escape`. To take a screenshot of the whole webpage press the :guilabel:`Save full page` button. To save the visible portion of the page press the :guilabel:`Save visible` button.
 
 .. image:: screenshot-taking.png
 
@@ -139,5 +141,7 @@ from the terminal to run Firefox. You can also have Firefox directly open this m
 
    firefox https://manual.lubuntu.me
    
+
 You can also launch Firefox from the quick launch by left clicking on the Firefox icon. The icon for Firefox looks like a globe with a red fox circling around it. Yet another way to launch Firefox is to press the browser button on your keyboard.
+
 
